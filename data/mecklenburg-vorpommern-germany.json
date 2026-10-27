@@ -1,0 +1,1507 @@
+{
+  "country": "Mecklenburg-Vorpommern, Germany",
+  "slug": "mecklenburg-vorpommern-germany",
+  "laws": [
+    {
+      "id": 41751,
+      "category": "Constitutional",
+      "severity": "info",
+      "icon": "🏛️",
+      "title": "Verfassung Mecklenburg-Vorpommern 1993",
+      "subtitle": "MV's constitution — reunification-era state",
+      "fullDescription": "Mecklenburg-Vorpommern (MV) was re-established as a federal state in 1990 after reunification. Its constitution (1993) establishes the Landtag (71 seats) and guarantees the Recht auf Heimat (right to homeland). MV is Germany's least densely populated Flächenland (70 people/km²). Capital: Schwerin. The state covers the Baltic Sea coast, Mecklenburg Lake District, and Vorpommern.",
+      "penalty": "N/A — constitutional information",
+      "exceptions": [],
+      "source": "https://www.regierung-mv.de",
+      "sourceLabel": "Landesregierung MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Mecklenburg-Vorpommern's population density?",
+        "options": ["70 people/km²", "120 people/km²", "200 people/km²", "350 people/km²"],
+        "correct": 0,
+        "explanation": "MV is Germany's least densely populated Flächenland with only 70 people/km², compared to the national average of 232/km²."
+      }
+    },
+    {
+      "id": 41752,
+      "category": "Maritime",
+      "severity": "high",
+      "icon": "⚓",
+      "title": "Baltic Sea Fishing Regulations (Ostsee)",
+      "subtitle": "EU Common Fisheries Policy — Baltic cod and herring quotas",
+      "fullDescription": "MV's Baltic coast fishery is governed by EU CFP (Common Fisheries Policy) annual TAC (Total Allowable Catch) regulations. Baltic cod (Dorsch) stocks in the eastern Baltic are critically depleted — the EU banned commercial cod fishing in certain zones since 2019. Herring (Hering) quotas are set by ICES (International Council for Exploration of the Sea) annually. MV's ~600 fishing vessels must carry VMS (Vessel Monitoring System) transmitters. The Landesamt für Landwirtschaft, Lebensmittelsicherheit und Fischerei (LALLF) enforces fishing rules.",
+      "penalty": "Illegal fishing: confiscation of catch and gear; licence suspension; fines up to €50,000",
+      "exceptions": ["Subsistence fishing (Angelschein) for personal consumption under 5 kg/day permitted"],
+      "source": "https://www.lallf.de",
+      "sourceLabel": "LALLF MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why was commercial cod fishing banned in parts of the Baltic since 2019?",
+        "options": ["Mercury contamination", "Critically depleted cod stocks in eastern Baltic", "EU trade dispute with Russia", "Overfishing of herring affecting cod prey"],
+        "correct": 1,
+        "explanation": "Eastern Baltic cod stocks collapsed due to decades of overfishing and climate change, leading the EU to ban commercial cod fishing in certain zones from 2019."
+      }
+    },
+    {
+      "id": 41753,
+      "category": "Tourism",
+      "severity": "medium",
+      "icon": "🏖️",
+      "title": "Küstenschutz (Coastal Protection) MV",
+      "subtitle": "Baltic coast protection — beach access and dune preservation",
+      "fullDescription": "MV's 1,940 km Baltic coastline is protected under the Küstenschutzgesetz MV and federal WHG. Sand dunes (Dünen) may not be crossed outside designated paths — dune vegetation is protected under BNatSchG. Storm surge (Sturmflut) protection infrastructure is managed by StALU (Staatliches Amt für Landwirtschaft und Umwelt). Beach access is generally free (Strandrecht) but Kurgebühren (spa fees) apply at designated Heilbäder (spa resorts) such as Rügen, Usedom, and Rostock-Warnemünde.",
+      "penalty": "Crossing protected dunes: fines up to €5,000; littering on beaches: fines €50–500",
+      "exceptions": ["Emergency rescue access to beaches unrestricted at all times"],
+      "source": "https://www.stalu-mv.de",
+      "sourceLabel": "StALU MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long is Mecklenburg-Vorpommern's Baltic Sea coastline?",
+        "options": ["800 km", "1,200 km", "1,940 km", "2,500 km"],
+        "correct": 2,
+        "explanation": "MV has 1,940 km of Baltic Sea coastline — the longest of any German state, including islands like Rügen and Usedom."
+      }
+    },
+    {
+      "id": 41754,
+      "category": "Energy",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Nord Stream Pipeline — MV Territorial Waters",
+      "subtitle": "Nord Stream gas pipelines through MV — sabotage aftermath",
+      "fullDescription": "Nord Stream 1 and 2 gas pipelines run through MV's territorial waters in the Baltic Sea. Both pipelines were sabotaged in September 2022 in an act of deliberate destruction in international waters. MV's state government had controversially set up a foundation (Klimaschutz MV Stiftung) to help complete Nord Stream 2 amid US sanctions — the foundation was dissolved in 2022. The BKA and Generalbundesanwalt lead the criminal investigation. MV's Landesamt für Umwelt monitors gas leaks' ecological impact.",
+      "penalty": "Sabotage of critical infrastructure: §316b StGB — up to 10 years imprisonment",
+      "exceptions": ["Pipeline maintenance vessels require WSA Ostsee navigation permits"],
+      "source": "https://www.generalbundesanwalt.de",
+      "sourceLabel": "Generalbundesanwalt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When were the Nord Stream pipelines sabotaged?",
+        "options": ["February 2022", "June 2022", "September 2022", "January 2023"],
+        "correct": 2,
+        "explanation": "Nord Stream 1 and 2 were sabotaged by explosions in September 2022 in the Baltic Sea, triggering an international criminal investigation."
+      }
+    },
+    {
+      "id": 41755,
+      "category": "National Parks",
+      "severity": "high",
+      "icon": "🌲",
+      "title": "Jasmund National Park — UNESCO Chalk Cliffs",
+      "subtitle": "Rügen's chalk cliffs — Germany's smallest national park",
+      "fullDescription": "Jasmund National Park on Rügen (30 km²) is Germany's smallest national park and contains the iconic Königsstuhl chalk cliffs (118 m). It was designated UNESCO World Heritage (ancient beech forests) in 2011. The NatSchAG MV prohibits access to cliff edges, tree removal, and camping in the core zone. The Nationalparkamt Vorpommern manages visitor flow (250,000/year). Drones are prohibited over all MV national parks.",
+      "penalty": "Entering restricted core zone: fines up to €50,000; drone use: up to €50,000",
+      "exceptions": ["Scientific research with ministerial permit permitted in buffer zone"],
+      "source": "https://www.nationalpark-jasmund.de",
+      "sourceLabel": "NP Jasmund",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes Jasmund National Park notable in Germany?",
+        "options": ["Largest national park", "Smallest national park and UNESCO chalk cliffs", "Only marine national park", "Highest altitude national park"],
+        "correct": 1,
+        "explanation": "Jasmund (30 km²) is Germany's smallest national park, famous for the Königsstuhl chalk cliffs on Rügen and its UNESCO beech forests."
+      }
+    },
+    {
+      "id": 41756,
+      "category": "National Parks",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Vorpommersche Boddenlandschaft NP — Crane Migration",
+      "subtitle": "MV's largest NP — Baltic lagoons and crane sanctuary",
+      "fullDescription": "Vorpommersche Boddenlandschaft National Park (787 km²) encompasses the Bodden (Baltic lagoons) behind Rügen and Hiddensee island. It protects one of Europe's largest crane (Kranich) staging areas — 70,000+ cranes gather at Rügen in October/November. The NP is a core zone of the UNESCO Biosphere Reserve Southern Baltic. Motorboats in the Bodden are limited to 8 km/h to protect seagrass. Hiddensee island bans all motor vehicles.",
+      "penalty": "Motorboat speeding in Bodden: fines up to €5,000; disturbing crane roosts: up to €50,000",
+      "exceptions": ["Fishing vessels with LALLF licences may operate in designated Bodden fishing zones"],
+      "source": "https://www.nationalpark-vorpommersche-boddenlandschaft.de",
+      "sourceLabel": "NP Vorpommersche Boddenlandschaft",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many cranes gather in Rügen/Bodden area each autumn?",
+        "options": ["10,000", "30,000", "70,000+", "150,000"],
+        "correct": 2,
+        "explanation": "Over 70,000 cranes stage at the Bodden lagoons behind Rügen in October/November — one of Europe's largest crane gatherings."
+      }
+    },
+    {
+      "id": 41757,
+      "category": "National Parks",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Müritz National Park — Germany's Largest Inland NP",
+      "subtitle": "Mecklenburg Lake District — 318 km² of lakes and forest",
+      "fullDescription": "Müritz National Park (318 km²) is Germany's largest national park entirely on land (excluding marine). It protects the Mecklenburg Lake District (Mecklenburgische Seenplatte), including the Müritz — Germany's second-largest lake (117 km²). The park hosts white-tailed eagles (Seeadler — Germany's largest breeding population), ospreys, and cranes. Swimming, canoeing, and hiking are permitted in recreation zones. Motor vessels on the Müritz are limited to 10 km/h.",
+      "penalty": "Camping outside designated sites in NP: fines up to €25,000",
+      "exceptions": ["Traditional fishing rights (Fischereirechte) on designated Müritz zones are grandfathered"],
+      "source": "https://www.nationalpark-mueritz.de",
+      "sourceLabel": "NP Müritz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Germany's second-largest lake, located in Müritz National Park?",
+        "options": ["Chiemsee", "Bodensee", "Müritz", "Schweriner See"],
+        "correct": 2,
+        "explanation": "The Müritz (117 km²) is Germany's second-largest lake after Lake Constance (Bodensee), and lies within Müritz National Park."
+      }
+    },
+    {
+      "id": 41758,
+      "category": "Agriculture",
+      "severity": "medium",
+      "icon": "🌾",
+      "title": "MV Landwirtschaft — Large-Scale Farming (Agrarstruktur)",
+      "subtitle": "MV's agriculture: Germany's largest farm sizes (GDR collectivisation legacy)",
+      "fullDescription": "MV has Germany's largest average farm size (~280 ha) — a legacy of GDR collectivisation (LPG — Landwirtschaftliche Produktionsgenossenschaften). Post-reunification, agricultural land was sold cheaply to investors, creating concerns about Agrarlandgrabbing (land grabbing). The Grundstückverkehrsgesetz (GrdstVG) gives states the right to review and block agricultural land sales exceeding 2 ha to non-farmers. MV is Germany's leading rapeseed (Raps) and grain producer. EU CAP subsidies dominate MV's farm income.",
+      "penalty": "Unapproved sale of agricultural land: sale may be voided by Genehmigungsbehörde",
+      "exceptions": ["Sales between close family members exempt from GrdstVG review"],
+      "source": "https://www.lallf.de",
+      "sourceLabel": "LALLF MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the average farm size in Mecklenburg-Vorpommern?",
+        "options": ["50 ha", "120 ha", "280 ha", "500 ha"],
+        "correct": 2,
+        "explanation": "MV's average farm size is ~280 ha — Germany's largest, a legacy of GDR collectivisation that merged small farms into large LPG units."
+      }
+    },
+    {
+      "id": 41759,
+      "category": "Wind Energy",
+      "severity": "medium",
+      "icon": "💨",
+      "title": "Windenergie MV — Baltic Offshore Wind",
+      "subtitle": "MV: Germany's leading offshore wind state",
+      "fullDescription": "MV is Germany's leading offshore wind energy state. Offshore wind farms in the Baltic (EnBW Baltic 1 and 2, Wikinger, Arcadis Ost 1) are connected to shore via Rostock and Lubmin. The Landesraumentwicklungsprogramm MV (LEP 2016) designates onshore wind energy zones with 1,000m setbacks. MV had 2,000+ onshore turbines (6,000 MW) and 1,500 MW offshore capacity in 2024. The TenneT/50Hertz grid operators manage Baltic connections.",
+      "penalty": "Turbines outside designated zones: immediate stop-work; fines up to €50,000",
+      "exceptions": ["Repowering of existing sites exempt from new zone designation requirements"],
+      "source": "https://www.regierung-mv.de/energie",
+      "sourceLabel": "Landesregierung MV Energie",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which grid operators manage MV's Baltic offshore wind connections?",
+        "options": ["Amprion and TransnetBW", "TenneT and 50Hertz", "Elia and RTE", "National Grid and Elia"],
+        "correct": 1,
+        "explanation": "TenneT and 50Hertz manage the high-voltage grid in northern Germany, including Baltic offshore wind connections at Rostock and Lubmin."
+      }
+    },
+    {
+      "id": 41760,
+      "category": "Heritage",
+      "severity": "medium",
+      "icon": "🏰",
+      "title": "Stralsund & Wismar UNESCO World Heritage",
+      "subtitle": "Hanseatic Gothic brick architecture — protected since 2002",
+      "fullDescription": "The historic centres of Stralsund and Wismar were jointly inscribed as UNESCO World Heritage in 2002 for their outstanding North German Brick Gothic (Backsteingotik) architecture. Key buildings include Stralsund's Rathaus, St. Nikolai church, and Wismar's Marienkirche tower. All alterations within the UNESCO buffer zone require Denkmalschutzbehörde approval. The Landesamt für Kultur und Denkmalpflege MV oversees 4,000+ listed monuments statewide.",
+      "penalty": "Unauthorised alterations to listed buildings: fines up to €500,000; restoration costs at owner's expense",
+      "exceptions": ["Like-for-like repairs using original materials may proceed with simplified Denkmalschutz notification"],
+      "source": "https://www.denkmalpflege-mv.de",
+      "sourceLabel": "Denkmalpflege MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year did Stralsund and Wismar's historic centres become UNESCO World Heritage?",
+        "options": ["1995", "1999", "2002", "2007"],
+        "correct": 2,
+        "explanation": "Stralsund and Wismar were jointly inscribed as UNESCO World Heritage in 2002 for their exceptional North German Brick Gothic architecture."
+      }
+    },
+    {
+      "id": 41761,
+      "category": "Ferry",
+      "severity": "medium",
+      "icon": "⛴️",
+      "title": "Rügen Ferry — Putbus & Hiddensee Navigation Rules",
+      "subtitle": "Baltic island ferry connections — Weiße Flotte regulations",
+      "fullDescription": "The Weiße Flotte (White Fleet) operates scheduled ferry services between Stralsund, Rügen, and Hiddensee under BSH safety certificates. The Rügendamm bridge (2007, replacing ferry crossing) connects Stralsund to Rügen — Germany's longest sea bridge (4.1 km). Hiddensee island has no road connection — ferry is the only access. Ferry vessels must hold passenger safety certification under SchSV. The Rügen Bäderbahn (narrow-gauge steam railway 'Rasender Roland') is a heritage railway operating under EBO.",
+      "penalty": "Unlicensed passenger vessel operations: immediate closure; BSH fines",
+      "exceptions": ["Private sailboats may anchor at Hiddensee without passenger ferry licence"],
+      "source": "https://www.faehre-ruegen.de",
+      "sourceLabel": "Weiße Flotte Rügen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long is the Rügendamm bridge connecting Stralsund to Rügen?",
+        "options": ["1.8 km", "2.6 km", "4.1 km", "6.5 km"],
+        "correct": 2,
+        "explanation": "The Rügendamm bridge (2007) is 4.1 km long — Germany's longest sea bridge, replacing the former ferry crossing."
+      }
+    },
+    {
+      "id": 41762,
+      "category": "Wolf",
+      "severity": "high",
+      "icon": "🐺",
+      "title": "Wolf Population MV — FFH Directive Protection",
+      "subtitle": "MV's growing wolf population — strictly protected species",
+      "fullDescription": "The wolf (Canis lupus) is strictly protected under Annex IV of the EU Habitats Directive (FFH) and §44 BNatSchG. MV has 15+ wolf packs (2024), particularly in the Mecklenburg Lake District and Vorpommern. Killing or disturbing wolves is a criminal offence. Wolf attacks on livestock are compensated from the MV Wolfsschadensfonds. Farmers may apply for Herdenschutzförderung (flock protection grants) for electric fencing. Problem wolves may be shot only with a ministerial Ausnahmegenehmigung.",
+      "penalty": "Killing a wolf without permit: up to €50,000 fine; criminal prosecution under §69 BNatSchG",
+      "exceptions": ["Wolves posing immediate threat to human life may be killed in self-defence without permit"],
+      "source": "https://www.lung.mv-regierung.de/wolf",
+      "sourceLabel": "LUNG MV Wolf",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which EU directive is the wolf strictly protected in Germany?",
+        "options": ["Birds Directive", "Marine Strategy Framework Directive", "Habitats Directive (FFH)", "Water Framework Directive"],
+        "correct": 2,
+        "explanation": "The wolf is strictly protected under Annex IV of the EU Habitats Directive (FFH Directive 92/43/EEC), prohibiting killing or disturbance."
+      }
+    },
+    {
+      "id": 41763,
+      "category": "Historical",
+      "severity": "info",
+      "icon": "📜",
+      "title": "GDR Legacy — MV Land Restitution",
+      "subtitle": "Post-reunification property restitution claims in MV",
+      "fullDescription": "MV was part of the GDR (East Germany) 1949–1990. Under the Vermögensgesetz (Property Act 1990), former owners whose property was confiscated by the Nazis or SED (Communist Party) could reclaim it. The Ämter zur Regelung offener Vermögensfragen (AROV) processed claims in MV. Confiscations between 1945–1949 during Soviet occupation were excluded from restitution — confirmed by BVerfG. Agricultural collectivisation era (LPG) land was handled separately under the Landwirtschaftsanpassungsgesetz.",
+      "penalty": "Fraudulent restitution claims: criminal prosecution; forfeiture of recovered property",
+      "exceptions": ["Bona fide purchasers of formerly disputed GDR-era property may retain ownership with compensation paid to original owners"],
+      "source": "https://www.bverwg.de",
+      "sourceLabel": "BVerwG Restitution",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which confiscation era was excluded from post-reunification restitution in East Germany?",
+        "options": ["Nazi-era (1933–1945)", "Soviet occupation (1945–1949)", "Early GDR (1950–1960)", "Late GDR (1970–1989)"],
+        "correct": 1,
+        "explanation": "Confiscations during Soviet occupation (1945–1949) were excluded from restitution — confirmed by Germany's Federal Constitutional Court — due to Allied Occupation authority."
+      }
+    },
+    {
+      "id": 41764,
+      "category": "Tourism",
+      "severity": "low",
+      "icon": "🏥",
+      "title": "Heilbäder (Spa Resorts) — Kurgebühr Obligation",
+      "subtitle": "MV's 24 official spa resorts charge mandatory Kurgebühr",
+      "fullDescription": "MV has 24 state-recognised Heilbäder (spa resorts) and Seeheilbäder (sea spa resorts) under the Kurortegesetz MV. All overnight visitors must pay a Kurgebühr (visitor's tax) — typically €2–3.50/night — which is collected by accommodation providers and remitted to the municipality. The fee funds beach maintenance, promenade upkeep, and tourism infrastructure. Rügen's Binz charges €3.20/night. Day visitors to some beaches also pay Tageskarte fees.",
+      "penalty": "Accommodation providers failing to collect Kurgebühr: fines and back-payment obligations",
+      "exceptions": ["Children under 6 exempt; carers of disabled persons exempt; medical inpatients exempt"],
+      "source": "https://www.auf-nach-mv.de",
+      "sourceLabel": "Tourismus MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many state-recognised spa resorts (Heilbäder/Seeheilbäder) does MV have?",
+        "options": ["8", "15", "24", "35"],
+        "correct": 2,
+        "explanation": "MV has 24 state-recognised Heilbäder and Seeheilbäder, all of which charge a mandatory Kurgebühr for overnight visitors."
+      }
+    },
+    {
+      "id": 41765,
+      "category": "Shipping",
+      "severity": "medium",
+      "icon": "🚢",
+      "title": "Rostock Port — Germany's Largest Universal Port",
+      "subtitle": "Rostock Hafen: Baltic ferry hub and car import terminal",
+      "fullDescription": "Rostock is Germany's largest universal port and the most important Baltic ferry hub. Scandlines and Stena Line operate daily ferries to Denmark and Sweden. Rostock handles 25+ million tonnes of cargo annually. The port is owned by the Port of Rostock GmbH (city majority). The Lotsenbrüderschaft Rostock provides compulsory pilotage for vessels over 90 m. Car imports (Toyota, Mitsubishi) use Rostock as a German entry point. The harbour is administered under the Seeverkehrsgesetz (SeeVkG).",
+      "penalty": "Pilotage refusal: criminal offence; port access denied for non-compliant vessels",
+      "exceptions": ["Regular ro-pax ferry crews with 12+ port calls/year may apply for pilot exemption"],
+      "source": "https://www.rostock-port.de",
+      "sourceLabel": "Port of Rostock",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Port of Rostock's annual cargo throughput?",
+        "options": ["5 million tonnes", "12 million tonnes", "25+ million tonnes", "40 million tonnes"],
+        "correct": 2,
+        "explanation": "Rostock handles over 25 million tonnes of cargo annually, making it Germany's largest universal port."
+      }
+    },
+    {
+      "id": 41766,
+      "category": "Demography",
+      "severity": "info",
+      "icon": "📊",
+      "title": "MV Demographic Decline — Bevölkerungsrückgang",
+      "subtitle": "MV loses population — rural shrinkage law",
+      "fullDescription": "MV has Germany's most severe population decline — it lost 14% of its population since 1990 (2.1 million → 1.63 million). The Raumordnungsgesetz (ROG) and MV's Landesraumentwicklungsprogramm designate schrumpfende Regionen (shrinking regions) where infrastructure planning is downsized rather than expanded. Abandoned LPG villages are being converted under the Dorfentwicklungsprogramm. EU Structural Funds (ERDF, ESF+) provide €2.5 billion to MV 2021–2027 to address structural weakness.",
+      "penalty": "N/A — demographic information",
+      "exceptions": [],
+      "source": "https://www.statistik-mv.de",
+      "sourceLabel": "Statistisches Amt MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By what percentage has MV's population declined since 1990?",
+        "options": ["5%", "9%", "14%", "20%"],
+        "correct": 2,
+        "explanation": "MV has lost approximately 14% of its population since German reunification, one of the most severe demographic declines in Germany."
+      }
+    },
+    {
+      "id": 41767,
+      "category": "Environment",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Waddensee / Bodden — Water Framework Directive",
+      "subtitle": "Baltic lagoon water quality — EU WFD compliance",
+      "fullDescription": "MV's Bodden (shallow Baltic lagoons) are subject to the EU Water Framework Directive (WFD 2000/60/EC), requiring 'good ecological status' by 2027. Agricultural nitrate runoff is MV's primary WFD compliance problem. The Nitratbericht (nitrate report) identifies 'rote Gebiete' (red zones) where stricter DüV (fertiliser ordinance) rules apply — e.g. 20% reduction in nitrogen application. MV's StALU oversees WFD monitoring at 400+ sampling points.",
+      "penalty": "Farmers in Rote Gebiete exceeding nitrogen limits: fines up to €25,000",
+      "exceptions": ["Organic farming certified under EU Eco-Regulation 834/2007 has adjusted DüV obligations"],
+      "source": "https://www.stalu-mv.de",
+      "sourceLabel": "StALU MV WFD",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the EU Water Framework Directive's deadline for 'good ecological status' of water bodies?",
+        "options": ["2021", "2025", "2027", "2030"],
+        "correct": 2,
+        "explanation": "The EU Water Framework Directive requires member states to achieve 'good ecological status' for all water bodies by 2027."
+      }
+    },
+    {
+      "id": 41768,
+      "category": "Aviation",
+      "severity": "medium",
+      "icon": "✈️",
+      "title": "Rostock-Laage Airport — Regional Air Traffic",
+      "subtitle": "MV's main airport — military and civilian combined",
+      "fullDescription": "Rostock-Laage Airport (RLG) is a combined civilian/military airport — the Bundeswehr Taktisches Luftwaffengeschwader 73 'Steinhoff' operates Eurofighters from the base. Civilian operations require coordination with military air traffic control. The airport handled 600,000+ passengers in 2023. Luftfahrtbehörde MV issues civilian operating permits. The NATO SOFA (Status of Forces Agreement) governs the legal status of military personnel and aircraft. The airport is expanding for Baltic Sea wind industry logistics.",
+      "penalty": "Unauthorized entry to military areas of Laage airport: criminal trespass under §6 VStGB",
+      "exceptions": ["Emergency diversions to Laage cleared by military tower without prior civil permit"],
+      "source": "https://www.rostock-airport.de",
+      "sourceLabel": "Rostock-Laage Airport",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What military aircraft operates from Rostock-Laage alongside civilian flights?",
+        "options": ["Tornado", "Typhoon (Eurofighter)", "F-35", "Tornado ECR"],
+        "correct": 1,
+        "explanation": "The Bundeswehr's TaktLwG 73 'Steinhoff' operates Eurofighter Typhoons from Rostock-Laage alongside civilian passenger operations."
+      }
+    },
+    {
+      "id": 41769,
+      "category": "Forestry",
+      "severity": "medium",
+      "icon": "🌲",
+      "title": "Landeswaldgesetz MV — Public Forest Access",
+      "subtitle": "MV's forests: public access right and timber regulations",
+      "fullDescription": "MV's Landeswaldgesetz (LWaldG MV) guarantees public access to all forests (Betretungsrecht) for recreation on foot. Cycling in forests requires designated paths. The state-owned Landesforst MV manages 550,000 ha of forest (35% of MV's area). Clear-cutting (Kahlschlag) exceeding 2 ha requires LWaldG permit. Tree trimming/felling in forests during bird breeding season (1 March–30 September) is prohibited under §39 BNatSchG. The Douglas fir expansion programme has drawn criticism from nature groups.",
+      "penalty": "Unauthorized Kahlschlag: mandatory reforestation + fines up to €50,000",
+      "exceptions": ["Salvage logging after storm or bark beetle damage may proceed with expedited permit"],
+      "source": "https://www.landesforst-mv.de",
+      "sourceLabel": "Landesforst MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of MV's area is covered by forest?",
+        "options": ["20%", "28%", "35%", "45%"],
+        "correct": 2,
+        "explanation": "Forests cover approximately 35% of Mecklenburg-Vorpommern's area, managed largely by state-owned Landesforst MV."
+      }
+    },
+    {
+      "id": 41770,
+      "category": "Political",
+      "severity": "info",
+      "icon": "🗳️",
+      "title": "MV Landtag — SPD Stronghold & AfD Rise",
+      "subtitle": "MV's 71-seat Landtag — political landscape",
+      "fullDescription": "MV's Landtag has 71 seats, elected every 5 years. MV has been SPD-governed since 1998 — Manuela Schwesig is Minister-President (since 2017). In 2021 Landtag elections, SPD won 39.6% — its best result nationally. However, the AfD received 17.7%, reflecting MV's socioeconomic challenges. Rostock holds Germany's largest per-capita AfD vote in some districts. The 5% threshold (Sperrklausel) applies; a 3-mandate clause allows smaller parties with 3 direct mandates to enter without 5%.",
+      "penalty": "N/A — political information",
+      "exceptions": [],
+      "source": "https://www.landtag-mv.de",
+      "sourceLabel": "Landtag MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many seats does MV's Landtag have?",
+        "options": ["51", "61", "71", "81"],
+        "correct": 2,
+        "explanation": "MV's Landtag has 71 seats. The SPD has governed MV continuously since 1998."
+      }
+    },
+    {
+      "id": 41771,
+      "category": "Crime",
+      "severity": "high",
+      "icon": "🚨",
+      "title": "MV Organised Crime — Rostock Clan Structures",
+      "subtitle": "MV's LKA targeting Baltic port smuggling and clan crime",
+      "fullDescription": "MV's Landeskriminalamt (LKA) focuses on port-based smuggling (drugs, cigarettes, people) via Rostock and Sassnitz, and organised crime (MC clubs, clan crime). The Peene river area historically facilitated cross-border crime with Poland via Swinemünde. Operation OSCAR (2019–2023) targeted a major Eastern European vehicle theft ring using Rostock's ferry connections. The Sicherheitskooperation MV-Polen coordinates cross-border policing under the Prüm Convention.",
+      "penalty": "Organised crime (§129 StGB): up to 5 years; gang smuggling (§30a BtMG): up to 15 years",
+      "exceptions": ["Persons cooperating with prosecutors may receive reduced sentences under Kronzeugenregelung"],
+      "source": "https://www.lka-mv.de",
+      "sourceLabel": "LKA Mecklenburg-Vorpommern",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which international agreement enables MV-Poland cross-border police cooperation?",
+        "options": ["Schengen Agreement", "Prüm Convention", "Europol Treaty", "Interpol Convention"],
+        "correct": 1,
+        "explanation": "The Prüm Convention enables EU states to share DNA, fingerprint, and vehicle registration data for cross-border policing — key for MV-Poland cooperation."
+      }
+    },
+    {
+      "id": 41772,
+      "category": "Healthcare",
+      "severity": "high",
+      "icon": "🏥",
+      "title": "MV Ärztemangel — Rural Doctor Shortage",
+      "subtitle": "Germany's worst rural doctor shortage — MV emergency measures",
+      "fullDescription": "MV has Germany's most severe rural doctor shortage (Ärztemangel) — many Landkreise have fewer than 1 GP per 2,000 residents. MV's Landarztgesetz (2019) provides grants of €50,000 to medical students committing to 10 years of rural practice in MV. The Kassenärztliche Vereinigung MV (KVMV) manages GP allocation. Telemedicine (Telemedizin) was expanded under SGB V. MV has the oldest population of any German state — increasing healthcare demand.",
+      "penalty": "GPs who breach rural practice commitments after receiving grants must repay in full",
+      "exceptions": ["Doctors establishing group practices (Gemeinschaftspraxis) in rural MV qualify for additional KVMV grants"],
+      "source": "https://www.kvmv.de",
+      "sourceLabel": "KVMV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What grant does MV's Landarztgesetz offer medical students committing to rural practice?",
+        "options": ["€20,000", "€35,000", "€50,000", "€75,000"],
+        "correct": 2,
+        "explanation": "MV's Landarztgesetz (2019) offers €50,000 grants to medical students who commit to 10 years of rural GP practice in Mecklenburg-Vorpommern."
+      }
+    },
+    {
+      "id": 41773,
+      "category": "Camping",
+      "severity": "low",
+      "icon": "⛺",
+      "title": "Wildcampen — MV Forest and Beach Camping Rules",
+      "subtitle": "Wild camping prohibited in MV — designated sites required",
+      "fullDescription": "Wild camping (Wildcampen) is prohibited throughout MV under the LWaldG MV and NatSchAG MV. Camping is only permitted at designated Campingplätze (registered campsites). Beach camping requires a Sondernutzungserlaubnis from the Amt. However, canoeists on designated Wasserwanderwege may use designated overnight stops (Paddler-Rastplätze) without full campsite registration. The MV Kanuführer designates 300+ authorised canoe overnight stops.",
+      "penalty": "Wild camping: fines €100–€1,000 per incident; repeat offences: confiscation of equipment",
+      "exceptions": ["Bivouacking (lightweight overnight shelter without tent) in forests tolerated in practice but not legally exempt"],
+      "source": "https://www.auf-nach-mv.de/camping",
+      "sourceLabel": "Tourismus MV Camping",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What special provision does MV allow for canoeists on Wasserwanderwege?",
+        "options": ["Free wild camping anywhere along river", "Use of designated Paddler-Rastplätze overnight stops", "Exemption from Kurgebühr", "Free ferry crossings"],
+        "correct": 1,
+        "explanation": "Canoeists on MV's designated Wasserwanderwege may use authorised Paddler-Rastplätze overnight stops without requiring full campsite registration."
+      }
+    },
+    {
+      "id": 41774,
+      "category": "Renewables",
+      "severity": "medium",
+      "icon": "☀️",
+      "title": "MV Solar and Biogas — Agricultural Energy",
+      "subtitle": "MV's rural energy mix: biogas and solar on farmland",
+      "fullDescription": "MV leads Germany in biogas production per capita — 500+ biogas plants using maize, manure, and agricultural waste. The EEG (Erneuerbare-Energien-Gesetz) governs feed-in tariffs. Agrivoltaik (solar panels above agricultural land) was legalised in Germany under EEG 2023 amendments. MV's Landesenergieprogramm targets 100% renewable electricity by 2035. The Bundesnetzagentur auctions offshore wind, solar, and onshore wind capacities in MV under the EEG bidding system.",
+      "penalty": "EEG violations (false self-consumption declarations): repayment of feed-in premiums + fines",
+      "exceptions": ["Biogas plants under 75 kW capacity qualify for simplified Kleinanlagen EEG registration"],
+      "source": "https://www.regierung-mv.de/energie",
+      "sourceLabel": "MV Energieprogramm",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does MV's Landesenergieprogramm target for renewable electricity by 2035?",
+        "options": ["50%", "75%", "100%", "120% (net exporter)"],
+        "correct": 2,
+        "explanation": "MV's Landesenergieprogramm targets 100% renewable electricity generation by 2035, leveraging its offshore wind, biogas, and solar resources."
+      }
+    },
+    {
+      "id": 41775,
+      "category": "University",
+      "severity": "info",
+      "icon": "🎓",
+      "title": "Universität Greifswald & Rostock — Oldest Baltic Universities",
+      "subtitle": "MV's two ancient universities — tuition-free higher education",
+      "fullDescription": "Greifswald University (founded 1456) and Rostock University (founded 1419 — Germany's oldest north of the Alps) are MV's two main universities. Higher education is tuition-free in MV under the Landeshochschulgesetz MV (LHG MV). Greifswald has a world-leading pharmacy and medicine faculty. Rostock has a strong maritime engineering programme. Both universities receive federal Excellence Initiative funding. MV struggles to retain graduates — 60% leave after graduation (Braindrain).",
+      "penalty": "Academic fraud (Täuschungsversuch): exmatrikulation; degree revocation",
+      "exceptions": ["International students from non-EU countries pay administrative fees only"],
+      "source": "https://www.uni-greifswald.de",
+      "sourceLabel": "Universität Greifswald",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which is Germany's oldest university north of the Alps?",
+        "options": ["Greifswald (1456)", "Rostock (1419)", "Hamburg (1919)", "Kiel (1665)"],
+        "correct": 1,
+        "explanation": "Rostock University (founded 1419) is Germany's oldest university north of the Alps and one of the oldest in the world still in operation."
+      }
+    },
+    {
+      "id": 41776,
+      "category": "Military",
+      "severity": "high",
+      "icon": "🛡️",
+      "title": "Peenemünde Historical-Technical Museum — Security Rules",
+      "subtitle": "Former WWII V-2 rocket facility — now museum with export control context",
+      "fullDescription": "Peenemünde on Usedom was the site of Germany's WWII V-2 rocket development under Wernher von Braun. The Historisch-Technisches Museum Peenemünde operates on the former military site. Under §3 KrWG and AWG, reproduction of WWII weapons technology for military use is prohibited. The museum operates under MV's Kultusministerium. The V-2 technology was fundamental to the US and Soviet space programmes. Visits require standard museum admission — no special security clearance.",
+      "penalty": "Attempting to replicate WWII weapons technology for military use: AWG/KWKG violations; criminal prosecution",
+      "exceptions": ["Historical replicas for museum display do not require weapons permits"],
+      "source": "https://www.peenemuende.de",
+      "sourceLabel": "Museum Peenemünde",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What was Peenemünde famous for in WWII?",
+        "options": ["U-Boot construction", "Messerschmitt aircraft production", "V-2 rocket development under Wernher von Braun", "Enigma code machine manufacture"],
+        "correct": 2,
+        "explanation": "Peenemünde was the WWII development site for the V-2 ballistic missile under Wernher von Braun — the world's first large-scale liquid-fuel rocket."
+      }
+    },
+    {
+      "id": 41777,
+      "category": "Hunting",
+      "severity": "medium",
+      "icon": "🦌",
+      "title": "LJagdG MV — Hunting and Wild Boar Management",
+      "subtitle": "MV's hunting law — deer, boar, and ASF control",
+      "fullDescription": "MV's Landesjagdgesetz (LJagdG MV) governs hunting seasons, Abschusspläne (culling quotas), and wildlife management. MV has Germany's highest red deer (Rotwild) density. Wild boar populations are actively controlled due to African Swine Fever (ASF) risk from Poland — ASF was detected in MV's wild boar in 2021. Night hunting with thermal imaging is permitted for wild boar. MV hunters are required to report all ASF-suspicious wild boar carcasses to the Veterinäramt.",
+      "penalty": "Failing to report ASF-suspicious carcass: administrative fine up to €5,000",
+      "exceptions": ["Hunters may kill wild boar during closed season if ASF risk is confirmed by Veterinäramt"],
+      "source": "https://www.lallf.de/jagd",
+      "sourceLabel": "LALLF MV Jagd",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was African Swine Fever (ASF) first detected in MV's wild boar?",
+        "options": ["2018", "2019", "2021", "2023"],
+        "correct": 2,
+        "explanation": "ASF was detected in MV's wild boar population in 2021, spreading from Poland and triggering mandatory reporting and expanded night hunting permissions."
+      }
+    },
+    {
+      "id": 41778,
+      "category": "Social",
+      "severity": "medium",
+      "icon": "👶",
+      "title": "MV Kita-Gesetz — Free Childcare",
+      "subtitle": "MV offers free Kita from age 1 — Germany's most generous",
+      "fullDescription": "Mecklenburg-Vorpommern provides free childcare (Kindertagesförderungsgesetz MV — KiföG MV) for all children from age 1 — the most generous provision in Germany. Parents pay only for meals (~€50/month). This policy dates from GDR tradition where childcare was universally provided. MV has Germany's highest Kita participation rate (95% of under-3s). The law requires a Kita place for every child from age 1 as an enforceable legal right.",
+      "penalty": "Municipalities failing to provide Kita places: legal action by parents; state supervision",
+      "exceptions": ["Parents preferring Tagespflege (childminding) may use the equivalent Gutschein value"],
+      "source": "https://www.regierung-mv.de/kita",
+      "sourceLabel": "MV Kita",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What childcare policy makes MV stand out among German states?",
+        "options": ["Mandatory Kita from age 3", "Free Kita from age 1 (parents pay meals only)", "Kita only for working parents", "Private Kita subsidy system"],
+        "correct": 1,
+        "explanation": "MV provides free Kita from age 1 with parents paying only for meals (~€50/month) — the most generous childcare provision in Germany, rooted in GDR tradition."
+      }
+    },
+    {
+      "id": 41779,
+      "category": "Flood",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Sturmflutsperrwerk — Baltic Storm Surge Protection",
+      "subtitle": "MV's coastal storm surge barriers and Deichschutz",
+      "fullDescription": "MV's low-lying Baltic coast is vulnerable to storm surges (Sturmfluten). The Deichschutzgesetz MV mandates maintenance of sea dikes to HN+1.5m standard. Greifswald's Ryck river Sperrwerk (flood gate) protects the city. The 1995 Oder-Odra flood (via Szczecin Lagoon) and 2011 Baltic storm surge prompted upgrades. The StALU (state land and environment office) coordinates deich maintenance. Climate change projections show 30–40 cm Baltic sea level rise by 2100 — requiring dike upgrades.",
+      "penalty": "Unauthorized modification of dikes or sea defences: criminal liability; restoration costs",
+      "exceptions": ["Emergency temporary flood barriers by THW and Feuerwehr may be placed without prior permit"],
+      "source": "https://www.stalu-mv.de/kuestenschutz",
+      "sourceLabel": "StALU MV Küstenschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What Baltic sea level rise do climate projections show for MV by 2100?",
+        "options": ["10–15 cm", "20–25 cm", "30–40 cm", "60–80 cm"],
+        "correct": 2,
+        "explanation": "Climate projections show 30–40 cm of Baltic Sea level rise affecting MV's low-lying coast by 2100, requiring significant dike upgrades."
+      }
+    },
+    {
+      "id": 41780,
+      "category": "Cross-Border",
+      "severity": "medium",
+      "icon": "🇵🇱",
+      "title": "MV–Poland Border (Oder-Neisse) — Schengen Rules",
+      "subtitle": "MV's border with Poland — open Schengen frontier",
+      "fullDescription": "MV shares a 200+ km border with Poland along the Oder and Neisse rivers and the Baltic coast (Swinemünde/Świnoujście on Usedom island is bisected by the border). Since Poland joined Schengen in 2007, the border is open. However, temporary controls were reintroduced in 2023 (by Germany, federal decision). Polish workers commute daily to MV farms and hospitality sector. The Euro Institute (Viadrina-Frankfurt Oder area connection) facilitates cross-border legal harmonisation studies.",
+      "penalty": "Illegal border crossing outside Schengen: §95 AufenthG — up to 1 year imprisonment",
+      "exceptions": ["EU citizens may enter Germany from Poland without documentation under freedom of movement"],
+      "source": "https://www.bundespolizei.de",
+      "sourceLabel": "Bundespolizei MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is unique about Usedom island on the MV-Poland border?",
+        "options": ["It is entirely in Germany", "It is entirely in Poland", "It is bisected by the German-Polish border", "It is shared EU territory without national designation"],
+        "correct": 2,
+        "explanation": "Usedom island is bisected by the German-Polish border — the city of Świnoujście (Swinemünde) is on the Polish side while the western part of the island is in MV."
+      }
+    },
+    {
+      "id": 41781,
+      "category": "Transport",
+      "severity": "medium",
+      "icon": "🚂",
+      "title": "VVW/VMV — MV Regional Transport Network",
+      "subtitle": "MV's integrated transport — sparse network challenges",
+      "fullDescription": "MV's Verkehrsgesellschaft Mecklenburg-Vorpommern (VMV) coordinates regional transport. The Deutschlandticket (€49/month) is valid on all VMV services. MV's rural areas face major public transport gaps — some villages have 2–3 buses/day. The on-demand Rufbus system (book-a-bus) was expanded in 2022 using EU Structural Funds. DB Regio operates regional rail under a concession. The Rügen Bäderbahn narrow-gauge steam railway is a heritage line with separate operating rules under §3 EBO.",
+      "penalty": "Schwarzfahren (fare evasion): €60 erhöhtes Beförderungsentgelt",
+      "exceptions": ["Children under 6 travel free; Deutschlandticket valid on all VMV services"],
+      "source": "https://www.vmv-mbh.de",
+      "sourceLabel": "VMV MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What innovative public transport solution did MV expand in 2022 for rural areas?",
+        "options": ["Autonomous minibuses", "Rufbus (on-demand book-a-bus) system", "Helicopter taxi services", "Cargo bike delivery hubs"],
+        "correct": 1,
+        "explanation": "MV expanded its Rufbus (on-demand book-a-bus) system in 2022 using EU Structural Funds to address public transport gaps in rural areas."
+      }
+    },
+    {
+      "id": 41782,
+      "category": "Cultural",
+      "severity": "low",
+      "icon": "🎭",
+      "title": "Mecklenburgisches Staatstheater Schwerin",
+      "subtitle": "Schwerin State Theatre — one of Germany's oldest",
+      "fullDescription": "The Mecklenburgisches Staatstheater Schwerin (founded 1836) is MV's leading theatre, operating from the historic Stadttheater. It receives Kulturförderung from MV's Kultusministerium. Under NV Bühne (theatre collective agreement), all performers have standardised contracts. Schwerin's Schlossfestspiele (castle festival, June–August) performs opera in the Schloss courtyard under a Sondernutzungserlaubnis. Schwerin Schloss (1857, UNESCO since 2023 proposal) dominates the city.",
+      "penalty": "Performing without NV Bühne compliance: IG Medien/ver.di arbitration",
+      "exceptions": ["Amateur productions at community centres exempt from NV Bühne professional requirements"],
+      "source": "https://www.staatstheater-schwerin.de",
+      "sourceLabel": "Staatstheater Schwerin",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was the Mecklenburgisches Staatstheater Schwerin founded?",
+        "options": ["1800", "1836", "1880", "1920"],
+        "correct": 1,
+        "explanation": "The Mecklenburgisches Staatstheater Schwerin was founded in 1836 and is one of Germany's oldest continuously operating theatres."
+      }
+    },
+    {
+      "id": 41783,
+      "category": "Economy",
+      "severity": "medium",
+      "icon": "💼",
+      "title": "MV Invest — EU Cohesion Funding",
+      "subtitle": "MV receives Germany's highest EU structural funding per capita",
+      "fullDescription": "MV is an EU 'Less Developed Region' (GDP per capita <75% EU average) and receives the highest EU Structural Fund allocation per capita in Germany: €2.5 billion from ERDF, ESF+, and EAFRD in 2021–2027. EFRE funds industrial parks, digitalisation, and climate projects. MV Invest GmbH (the state investment promotion agency) assists companies locating to MV with permit processing and grant applications. The Investitionsbank MV (IB.MV) administers state loan programmes.",
+      "penalty": "Misuse of EU Structural Funds: full repayment + interest; criminal prosecution for fraud",
+      "exceptions": ["SMEs (under 250 employees) receive higher grant rates (up to 35%) than large companies (up to 15%)"],
+      "source": "https://www.mv-invest.de",
+      "sourceLabel": "MV Invest",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much EU Structural Funding does MV receive in the 2021–2027 period?",
+        "options": ["€800 million", "€1.5 billion", "€2.5 billion", "€4 billion"],
+        "correct": 2,
+        "explanation": "MV receives €2.5 billion in EU Structural Funds (ERDF, ESF+, EAFRD) for 2021–2027 as Germany's most economically disadvantaged region."
+      }
+    },
+    {
+      "id": 41784,
+      "category": "Nudism",
+      "severity": "low",
+      "icon": "🏖️",
+      "title": "Freikörperkultur (FKK) — MV Baltic Nudist Beaches",
+      "subtitle": "MV's traditional FKK beaches — nudism legally protected",
+      "fullDescription": "Mecklenburg-Vorpommern has Germany's strongest Freikörperkultur (FKK/naturism) tradition, with 50+ designated FKK beaches on Rügen, Usedom, and the mainland coast. FKK is explicitly recognised in the Kurortegesetz MV. Nudism on FKK-designated beaches is legal and protected. Non-FKK beaches prohibit nudism under §118 OWiG (public indecency). The FKK tradition dates from the 1920s reform movement and was actively promoted by the GDR. Rügen's FKK beaches attract 500,000+ visitors annually.",
+      "penalty": "Nudism on non-designated beaches: §118 OWiG fine €100–500",
+      "exceptions": ["FKK-designated beaches: nudism fully legal and explicitly protected under Kurortegesetz MV"],
+      "source": "https://www.auf-nach-mv.de/fkk",
+      "sourceLabel": "Tourismus MV FKK",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many designated FKK beaches does MV have?",
+        "options": ["15", "30", "50+", "100"],
+        "correct": 2,
+        "explanation": "MV has 50+ designated FKK (nudist) beaches — more than any other German state — reflecting the GDR-era FKK tradition."
+      }
+    },
+    {
+      "id": 41785,
+      "category": "Marine",
+      "severity": "medium",
+      "icon": "🐬",
+      "title": "Harbour Porpoise (Schweinswal) Protection",
+      "subtitle": "Baltic harbour porpoise — EU FFH strict protection",
+      "fullDescription": "The Baltic harbour porpoise (Phocoena phocoena) is critically endangered — only ~500 remain in the Baltic. It is strictly protected under Annex II/IV FFH Directive and §44 BNatSchG. Gillnet fishing (Stellnetz) in designated porpoise protection areas in MV's Baltic territorial waters is banned or requires acoustic deterrents (Pinger). The Pinger obligation was upheld by German courts against fishermen. ASCOBANS (Agreement on Conservation of Small Cetaceans) applies.",
+      "penalty": "Bycatch of porpoise: mandatory report to LALLF; repeated violations: fishing licence revocation",
+      "exceptions": ["Traditional fyke net fishing (Reuse) with mesh size >8 cm may continue without pinger requirement"],
+      "source": "https://www.ascobans.org",
+      "sourceLabel": "ASCOBANS / LALLF MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many harbour porpoises remain in the Baltic Sea?",
+        "options": ["50", "500", "5,000", "50,000"],
+        "correct": 1,
+        "explanation": "Only approximately 500 harbour porpoises (Schweinswale) remain in the Baltic Sea, making it critically endangered and strictly protected."
+      }
+    },
+    {
+      "id": 41786,
+      "category": "Digital",
+      "severity": "medium",
+      "icon": "💻",
+      "title": "MV Breitbandausbau — Rural Broadband Expansion",
+      "subtitle": "MV's EU-funded rural fibre rollout",
+      "fullDescription": "MV has Germany's lowest broadband penetration in rural areas — 40% of rural households lacked gigabit access in 2022. The federal Breitbandförderprogramm and EU ERDF fund fibre rollout. MV's Breitbandkompetenzzentrum MV coordinates the rollout. Under the TKG 2021, Telekom and other providers must allow open access (Mitnutzung) to new infrastructure. Target: gigabit coverage for 90% of MV by 2030. Satellite internet (Starlink) is used as an interim solution in very remote areas.",
+      "penalty": "TKG §145 Mitnutzung refusal: Bundesnetzagentur enforcement; fines",
+      "exceptions": ["Remote islands (e.g. Hiddensee) may use satellite/microwave as alternative to fibre rollout"],
+      "source": "https://www.breitband-mv.de",
+      "sourceLabel": "Breitband MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of rural MV households lacked gigabit broadband access in 2022?",
+        "options": ["15%", "25%", "40%", "60%"],
+        "correct": 2,
+        "explanation": "Approximately 40% of rural Mecklenburg-Vorpommern households lacked gigabit broadband access in 2022 — the highest proportion in Germany."
+      }
+    },
+    {
+      "id": 41787,
+      "category": "Winter Sports",
+      "severity": "low",
+      "icon": "⛷️",
+      "title": "MV Cross-Country Skiing — Mecklenburg Hills",
+      "subtitle": "MV's modest winter sports — Feldberger Seenlandschaft",
+      "fullDescription": "MV is flat (highest point: Helpter Berg 179 m) — Alpine skiing is impossible. Cross-country skiing (Langlauf) is popular in the Feldberger Seenlandschaft in snowy winters. The Langlaufzentrum Feldberg operates prepared tracks. MV's winter tourism focuses on the spa resorts and indoor health facilities (Wellness). Ice fishing (Eisangeln) on frozen lakes requires compliance with the Fischereigesetz MV — minimum ice thickness 15 cm for safety. Skating on natural ice carries personal risk.",
+      "penalty": "Entering frozen lakes below 10 cm ice thickness: rescue costs charged to rescued person",
+      "exceptions": ["Organised ice fishing events with DLRG (lifeguards) present operate under event permit"],
+      "source": "https://www.auf-nach-mv.de/winter",
+      "sourceLabel": "Tourismus MV Winter",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Mecklenburg-Vorpommern's highest point?",
+        "options": ["Helpter Berg (179 m)", "Schmidtsberg (210 m)", "Teufelsberg (200 m)", "Rügen cliff (118 m)"],
+        "correct": 0,
+        "explanation": "Helpter Berg (179 m) is MV's highest point — making it Germany's lowest-lying state and unsuitable for Alpine skiing."
+      }
+    },
+    {
+      "id": 41788,
+      "category": "Energy",
+      "severity": "medium",
+      "icon": "🔥",
+      "title": "Lubmin LNG Terminal — Energy Security",
+      "subtitle": "Germany's first floating LNG terminal opened 2022",
+      "fullDescription": "Germany's first floating LNG (liquefied natural gas) terminal was opened at Lubmin, MV in December 2022 — Deutsche ReGas operated the FSRU (Floating Storage and Regasification Unit) 'Neptune' following the Nord Stream sabotage. A second terminal followed. The terminals required emergency permit procedures under the LNG-Beschleunigungsgesetz (2022). Lubmin was chosen because the Nord Stream pipelines originally landed there. The terminals significantly reduced German dependence on Russian pipeline gas.",
+      "penalty": "Operating LNG terminal without BImSchG permit: immediate closure; criminal liability",
+      "exceptions": ["Emergency energy supply provisions in LNG-Beschleunigungsgesetz allowed expedited environmental review"],
+      "source": "https://www.deutsche-regas.de",
+      "sourceLabel": "Deutsche ReGas Lubmin",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was Germany's first floating LNG terminal at Lubmin opened?",
+        "options": ["March 2022", "June 2022", "December 2022", "March 2023"],
+        "correct": 2,
+        "explanation": "Germany's first floating LNG terminal opened at Lubmin, MV in December 2022, just months after the Nord Stream pipeline sabotage."
+      }
+    },
+    {
+      "id": 41789,
+      "category": "Animal",
+      "severity": "medium",
+      "icon": "🦅",
+      "title": "White-Tailed Eagle (Seeadler) — MV Breeding Population",
+      "subtitle": "Germany's largest eagle — strictly protected in MV",
+      "fullDescription": "MV has Germany's largest white-tailed eagle (Seeadler, Haliaeetus albicilla) breeding population — 400+ breeding pairs. The species recovered from near-extinction in the 1980s due to DDT banning and protection under §44 BNatSchG/FFH Annex I. Nesting trees (Horstbäume) have a mandatory 300 m protection radius — no forestry or construction within this zone during breeding season (January–August). Disturbance of a Seeadler nest is a serious criminal offence.",
+      "penalty": "Disturbing eagle nests: up to €50,000 fine; criminal prosecution under §69 BNatSchG",
+      "exceptions": ["Existing utility lines within 300 m of eagle nests may be maintained with bird protection measures"],
+      "source": "https://www.lung.mv-regierung.de/seeadler",
+      "sourceLabel": "LUNG MV Seeadler",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How large is the mandatory protection radius around a white-tailed eagle nest in MV?",
+        "options": ["100 m", "200 m", "300 m", "500 m"],
+        "correct": 2,
+        "explanation": "A 300 m protection radius is mandatory around all white-tailed eagle nests in MV — no forestry or construction during breeding season (January–August)."
+      }
+    },
+    {
+      "id": 41790,
+      "category": "Police",
+      "severity": "high",
+      "icon": "🚔",
+      "title": "Sicherheits- und Ordnungsgesetz MV (SOG MV)",
+      "subtitle": "MV's police law — rural policing challenges",
+      "fullDescription": "MV's SOG MV governs police powers including preventive detention (Gewahrsam) up to 7 days with court approval, body searches, and surveillance. MV's Landespolizei has only 5,600 officers for 1.63 million people — Germany's lowest ratio. Rural response times can exceed 30 minutes. The 2018 SOG MV reform added bodycams and drone surveillance powers. MV's Verfassungsschutz (state intelligence) monitors right-wing extremism — MV has Germany's highest per-capita NPD/AfD voter share historically.",
+      "penalty": "Resisting police (§113 StGB): up to 3 years; assault on officers (§114 StGB): up to 5 years",
+      "exceptions": ["Citizens may use force to resist clearly unlawful police measures (§32 StGB self-defence)"],
+      "source": "https://www.polizei.mvnet.de",
+      "sourceLabel": "Polizei MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many police officers does MV's Landespolizei have for 1.63 million people?",
+        "options": ["2,800", "5,600", "8,400", "12,000"],
+        "correct": 1,
+        "explanation": "MV's Landespolizei has approximately 5,600 officers — Germany's lowest officer-to-population ratio — with rural response times sometimes exceeding 30 minutes."
+      }
+    },
+    {
+      "id": 41791,
+      "category": "Amber",
+      "severity": "low",
+      "icon": "💎",
+      "title": "Schatzregal — Baltic Amber Collection Rules",
+      "subtitle": "MV's treasure law — who owns Baltic amber?",
+      "fullDescription": "Baltic amber (Bernstein) washes up on MV's beaches after storms. Under MV's Denkmalschutzgesetz and Schatzregal (treasure trove law), large or archaeologically significant amber finds must be reported to the Landesamt für Kultur und Denkmalpflege. Personal collection of small amounts of washed-up amber for own use is generally tolerated. Amber with inclusions (insect fossils) has scientific value and should be reported. Commercial amber collection from the seabed requires a Genehmigung.",
+      "penalty": "Unreported archaeologically significant amber: confiscation; fines up to €10,000",
+      "exceptions": ["Small beach-collected amber for personal, non-commercial use generally tolerated without formal permit"],
+      "source": "https://www.denkmalpflege-mv.de",
+      "sourceLabel": "Denkmalpflege MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What type of amber find has special scientific value and must be reported in MV?",
+        "options": ["Amber over 50g", "Amber with insect or plant inclusions", "Blue amber", "Amber found below 2m depth"],
+        "correct": 1,
+        "explanation": "Amber with biological inclusions (trapped insects, plants, etc.) has scientific and archaeological value and should be reported to the Landesamt für Kultur und Denkmalpflege."
+      }
+    },
+    {
+      "id": 41792,
+      "category": "Canoe",
+      "severity": "low",
+      "icon": "🛶",
+      "title": "Wasserwanderwege MV — Canoe Trail Network",
+      "subtitle": "MV's 2,000 km canoe trail network — rules and permits",
+      "fullDescription": "MV has Germany's largest canoe trail network — 2,000+ km of designated Wasserwanderwege through the Mecklenburg Lake District. The Kanuführer MV (official guide) designates routes, portages, and overnight stops. Camping at designated Paddler-Rastplätzen is permitted. Non-motorised canoes and kayaks do not require registration on inland waters. Motorised canoes over 2.2 kW require BSH Sportbootführerschein Binnen. National park waters (Müritz NP) have restricted canoe zones requiring NP approval.",
+      "penalty": "Camping outside designated stops in NP waters: fines up to €25,000",
+      "exceptions": ["Traditional wooden boats (under 3 m) exempt from registration requirements"],
+      "source": "https://www.auf-nach-mv.de/kanu",
+      "sourceLabel": "MV Kanu",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many km of canoe trails does MV's Wasserwanderwege network cover?",
+        "options": ["500 km", "1,000 km", "2,000+ km", "4,000 km"],
+        "correct": 2,
+        "explanation": "MV has over 2,000 km of designated Wasserwanderwege — Germany's largest canoe trail network through the Mecklenburg Lake District."
+      }
+    },
+    {
+      "id": 41793,
+      "category": "Tax",
+      "severity": "medium",
+      "icon": "💰",
+      "title": "MV Grunderwerbsteuer — 6%",
+      "subtitle": "Property transfer tax in MV",
+      "fullDescription": "MV's Grunderwerbsteuer (property transfer tax) is 6% — above the national average. Despite low absolute property prices (MV has Germany's lowest average house prices — €1,800/m² vs. Munich €9,000/m²), the 6% tax represents a significant upfront cost. MV's Finanzministerium administers collection. The Länderfinanzausgleich means MV is a net recipient — receiving €800+ million/year from richer states. MV's property market has seen price increases of 40%+ since 2017 driven by Hamburg and Berlin urban flight.",
+      "penalty": "Late Grunderwerbsteuer: 1% monthly interest; evasion: §370 AO prosecution",
+      "exceptions": ["Transfers between spouses and first-degree relatives exempt under §3 GrEStG"],
+      "source": "https://www.fm.mv-regierung.de",
+      "sourceLabel": "Finanzministerium MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is MV's average property price per m² compared to Munich?",
+        "options": ["MV €1,800/m² vs Munich €9,000/m²", "MV €3,500/m² vs Munich €9,000/m²", "MV €1,800/m² vs Munich €5,000/m²", "Equal at €4,500/m²"],
+        "correct": 0,
+        "explanation": "MV has Germany's lowest average house prices (~€1,800/m²) versus Munich's ~€9,000/m² — one of the largest regional price disparities in Germany."
+      }
+    },
+    {
+      "id": 41794,
+      "category": "Coastal",
+      "severity": "medium",
+      "icon": "⛵",
+      "title": "Baltic Sailing Regulations — MV Territorial Waters",
+      "subtitle": "Sailing in MV's Baltic territorial waters — BSH rules",
+      "fullDescription": "MV's Baltic territorial waters (12 nautical miles) are governed by the SeeSchStrO (Seeschifffahrtsstraßen-Ordnung). Recreational vessels must display proper lights and shapes under COLREGS. Sailing vessels have right-of-way over motor vessels (except vessels constrained by draught). In Bodden and harbour approaches, traffic separation schemes (TSS) apply. Vessels entering MV's ports from non-EU countries must report to Zoll and Bundespolizei. BSH issues charts (Seekarten) for Baltic navigation.",
+      "penalty": "COLREGS violations: WSA fine; causing accident: §315a StGB dangerous interference with maritime traffic",
+      "exceptions": ["Racing yachts during officially sanctioned regattas may deviate from normal right-of-way rules"],
+      "source": "https://www.bsh.de",
+      "sourceLabel": "BSH Deutsche Seekarten",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under what rules must recreational vessels in MV's Baltic waters display lights and shapes?",
+        "options": ["SeeSchStrO alone", "COLREGS (International Regulations for Preventing Collisions at Sea)", "HPA Hafenordnung", "BSH internal guidelines"],
+        "correct": 1,
+        "explanation": "All vessels in MV's Baltic territorial waters must comply with COLREGS (International Regulations for Preventing Collisions at Sea) for lights, shapes, and right-of-way."
+      }
+    },
+    {
+      "id": 41795,
+      "category": "Right-Wing",
+      "severity": "high",
+      "icon": "🛡️",
+      "title": "MV Verfassungsschutz — Right-Wing Extremism Monitoring",
+      "subtitle": "MV has Germany's highest per-capita right-wing extremist activity",
+      "fullDescription": "MV's Landesamt für Verfassungsschutz (LfV MV) monitors approximately 1,100 right-wing extremists — the highest per-capita density in Germany. The NSU (National Socialist Underground) had connections to MV. The Identitäre Bewegung and NPD successor Heimat party are active. §130 StGB (Volksverhetzung/incitement to hatred) is the primary criminal charge. The Gedenkstätten (memorial sites) at Sachsenhausen (nearby in Brandenburg) and Holocaust remembrance events in MV are protected by police. AfD voter share in some MV districts exceeds 30%.",
+      "penalty": "Volksverhetzung (§130 StGB): up to 5 years; Nazi symbols (§86a StGB): up to 3 years",
+      "exceptions": ["Academic, artistic, and civic education use of banned symbols permitted under Sozialadäquanzklausel"],
+      "source": "https://www.verfassungsschutz-mv.de",
+      "sourceLabel": "Verfassungsschutz MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many right-wing extremists does MV's LfV monitor?",
+        "options": ["200", "600", "1,100", "3,000"],
+        "correct": 2,
+        "explanation": "MV's LfV monitors approximately 1,100 right-wing extremists — the highest per-capita density in Germany."
+      }
+    },
+    {
+      "id": 41796,
+      "category": "Marine Archaeology",
+      "severity": "medium",
+      "icon": "🏺",
+      "title": "Unterwasser-Kulturerbe — Baltic Shipwrecks",
+      "subtitle": "MV's underwater cultural heritage protection",
+      "fullDescription": "The Baltic Sea contains hundreds of historically significant shipwrecks in MV's waters, including Hanseatic cogs, Swedish warships, and WWII vessels. Under the Denkmalschutzgesetz MV, all wrecks over 50 years old are Kulturdenkmale — touching, raising, or removing artefacts is prohibited without permit from the Landesamt für Kultur und Denkmalpflege. UNESCO's Convention on the Protection of Underwater Cultural Heritage (2001) applies. The Stralsund Meeresmuseum displays Baltic maritime heritage including the Stralsunder Kogge.",
+      "penalty": "Unauthorized interference with underwater cultural heritage: fines up to €250,000",
+      "exceptions": ["Sports divers may visit and photograph wrecks without touching or removing anything"],
+      "source": "https://www.denkmalpflege-mv.de/unterwasser",
+      "sourceLabel": "Denkmalpflege MV Unterwasser",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under MV's Denkmalschutzgesetz, how old must a shipwreck be to be a protected Kulturdenkmal?",
+        "options": ["25 years", "50 years", "100 years", "All wrecks regardless of age"],
+        "correct": 1,
+        "explanation": "All shipwrecks over 50 years old in MV's territorial waters are protected Kulturdenkmale — touching or removing artefacts requires a permit."
+      }
+    },
+    {
+      "id": 41797,
+      "category": "Social",
+      "severity": "medium",
+      "icon": "🏘️",
+      "title": "MV Leerstand — Vacant Property Programme",
+      "subtitle": "MV's 10% building vacancy — Stadtumbau programme",
+      "fullDescription": "MV has Germany's highest rate of vacant residential buildings (Leerstand) — approximately 10% in some inner cities (Rostock, Neubrandenburg, Greifswald Plattenbau districts). The Stadtumbau Ost (urban restructuring east) programme funded demolition of excess GDR Plattenbau (prefabricated concrete) housing blocks. Federal funding under Städtebauförderung (§164a BauGB) pays 60% of demolition costs. MV's Investitionsbank (IB.MV) provides low-interest renovation loans to reduce vacancy.",
+      "penalty": "Neglected buildings declared baufällig (structurally unsafe) by Baubehörde: compulsory demolition at owner's cost",
+      "exceptions": ["Listed Plattenbau blocks (rare but possible) may not be demolished without Denkmalschutz waiver"],
+      "source": "https://www.stadtumbau-mv.de",
+      "sourceLabel": "Stadtumbau MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the typical vacant building rate in some MV inner cities?",
+        "options": ["2–3%", "5–6%", "10%", "20%"],
+        "correct": 2,
+        "explanation": "Some MV inner cities have approximately 10% building vacancy — Germany's highest — driven by post-reunification population loss from GDR-era Plattenbau districts."
+      }
+    },
+    {
+      "id": 41798,
+      "category": "Peat",
+      "severity": "high",
+      "icon": "🌿",
+      "title": "Moorschutz MV — Peatland Restoration",
+      "subtitle": "MV's peatlands: massive CO₂ stores — restoration law",
+      "fullDescription": "MV has Germany's largest peatland area (300,000+ ha, 12% of state area). Drained peatlands (entwässerte Moore) release massive CO₂ — drained peat is Germany's second-largest CO₂ source after transport. MV's Moorschutzprogramm targets rewetting (Wiedervernässung) of 50,000 ha by 2030. The Paludicultur (wet peatland agriculture — growing reed, cattail) is supported via ELER (EU rural development) funds. Under BNatSchG §30, peatlands are protected biotopes — drainage requires ministerial approval.",
+      "penalty": "Unauthorized peatland drainage: fines up to €50,000; mandatory rewetting at owner's cost",
+      "exceptions": ["Existing drainage systems in operation before 1992 may continue with Ordnungsamt registration"],
+      "source": "https://www.lung.mv-regierung.de/moor",
+      "sourceLabel": "LUNG MV Moor",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of MV's area is peatland?",
+        "options": ["4%", "8%", "12%", "20%"],
+        "correct": 2,
+        "explanation": "Peatlands cover approximately 12% of MV's area — Germany's largest peatland concentration and a critical CO₂ store if kept wet."
+      }
+    },
+    {
+      "id": 41799,
+      "category": "Ferry",
+      "severity": "medium",
+      "icon": "🚢",
+      "title": "Scandlines/Stena Ferry — Rostock–Denmark Route",
+      "subtitle": "International Baltic ferry regulations from Rostock",
+      "fullDescription": "Scandlines and Stena Line operate daily ferry services from Rostock to Gedser (Denmark) and Trelleborg (Sweden). These international ferry routes are governed by EU Maritime Directive 98/18/EC (passenger ship safety), IMO SOLAS, and MARPOL. Duty-free sales are permitted on non-EU legs. Vehicles must comply with German StVZO roadworthiness requirements to board. Ferry captains are responsible for ship safety under §106 SeemG (maritime labour law). The Lotsenbrüderschaft Rostock provides compulsory pilotage.",
+      "penalty": "SOLAS violations: PSC (Port State Control) detention; fines up to €500,000",
+      "exceptions": ["Duty-free allowances apply only on international legs — not on intra-EU ferry routes since 1999"],
+      "source": "https://www.scandlines.de",
+      "sourceLabel": "Scandlines Rostock",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When were EU intra-EU ferry duty-free sales abolished?",
+        "options": ["1993", "1999", "2004", "2009"],
+        "correct": 1,
+        "explanation": "Duty-free sales on intra-EU ferry routes were abolished in 1999 when the EU eliminated duty-free shopping between member states."
+      }
+    },
+    {
+      "id": 41800,
+      "category": "Climate",
+      "severity": "medium",
+      "icon": "🌍",
+      "title": "MV Klimaschutzgesetz 2021",
+      "subtitle": "MV's climate protection law — 2040 climate neutrality target",
+      "fullDescription": "MV's Klimaschutzgesetz (KSG MV, 2021) targets climate neutrality by 2040 — 5 years ahead of the federal 2045 target. Interim targets: 55% CO₂ reduction by 2030 vs. 1990. MV's main lever is renewable energy export (wind, biogas) to other states. The Klimaschutzrat MV advises the government. MV's per-capita emissions are low due to deindustrialisation, but peatland drainage (see above) creates a significant CO₂ liability. MV must also adapt to Baltic sea level rise under the KSG.",
+      "penalty": "State bodies must report emissions annually; no direct citizen liability for state targets",
+      "exceptions": ["Emergency energy supply provisions may temporarily override climate obligations"],
+      "source": "https://www.regierung-mv.de/klimaschutz",
+      "sourceLabel": "MV Klimaschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By when does MV's KSG MV target climate neutrality?",
+        "options": ["2035", "2040", "2045", "2050"],
+        "correct": 1,
+        "explanation": "MV's Klimaschutzgesetz targets climate neutrality by 2040 — 5 years ahead of the federal 2045 target in the Federal Climate Protection Act."
+      }
+    }
+  ,
+    {
+      "id": 41801,
+      "category": "Fisheries",
+      "severity": "medium",
+      "icon": "🦐",
+      "title": "Baltic Herring (Hering) Annual Quota — MV Fishermen",
+      "subtitle": "EU CFP annual herring TAC allocation to MV fishing fleet",
+      "fullDescription": "Baltic herring (Clupea harengus) is MV's most important commercial fishery. Annual TAC (Total Allowable Catch) quotas are set by the EU Council of Ministers each December based on ICES scientific advice. MV's fishing quota allocation is managed by the Fischereiamt MV. Quotas have been cut 50%+ since 2019 due to stock decline. Fish landing declarations (Anlandeerklärungen) are mandatory within 24 hours of landing. Undeclared landings (black fish) are treated as serious customs fraud.",
+      "penalty": "Black fish (undeclared landings): quota confiscation; licence suspension; fines up to €50,000",
+      "exceptions": ["Recreational anglers catching herring for own consumption do not require quota allocation"],
+      "source": "https://www.lallf.de/fischerei",
+      "sourceLabel": "LALLF MV Fischerei",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By how much have Baltic herring quotas been cut since 2019?",
+        "options": ["10%", "25%", "50%+", "80%"],
+        "correct": 2,
+        "explanation": "Baltic herring TAC quotas have been reduced by over 50% since 2019 due to declining stock assessments by ICES scientific advisers."
+      }
+    },
+    {
+      "id": 41802,
+      "category": "Spa",
+      "severity": "low",
+      "icon": "💆",
+      "title": "Heilbad Anerkennung — Spa Town Recognition Law",
+      "subtitle": "Strict criteria for official spa town (Heilbad) recognition in MV",
+      "fullDescription": "To be officially recognised as a Heilbad (spa resort) in MV, a town must meet criteria under the Kurortegesetz MV: proven therapeutic climate or mineral water, Kurhaus, promenade, minimum green space, and medical infrastructure. Recognition is granted by the Innenministerium MV and reviewed every 10 years. Loss of Heilbad status means losing the right to charge Kurgebühr. Heringsdorf (Usedom), Binz, Sellin, and Graal-Müritz are among MV's top-ranked spa resorts.",
+      "penalty": "Charging Kurgebühr without valid Heilbad recognition: fines; repayment to visitors",
+      "exceptions": ["Erholungsort (recreation place) — a lesser designation — allows reduced Kurgebühr without full Heilbad criteria"],
+      "source": "https://www.regierung-mv.de/kurortgesetz",
+      "sourceLabel": "Innenministerium MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which authority grants official Heilbad (spa town) recognition in MV?",
+        "options": ["Bundesgesundheitsministerium", "MV Innenministerium", "Deutsche Heilbäderbund", "EU Commission"],
+        "correct": 1,
+        "explanation": "MV's Innenministerium grants official Heilbad recognition under the Kurortegesetz MV, reviewed every 10 years."
+      }
+    },
+    {
+      "id": 41803,
+      "category": "Heritage",
+      "severity": "medium",
+      "icon": "🏰",
+      "title": "Schwerin Schloss — Candidate UNESCO World Heritage",
+      "subtitle": "MV's fairy-tale castle — pending UNESCO inscription",
+      "fullDescription": "Schwerin Schloss (1857, neo-Gothic/neo-Renaissance style on a lake island) is MV's most iconic building and seat of the Landtag. Germany submitted it as a candidate for UNESCO World Heritage status (as part of a 'Palace Landscapes of the Romantic Rhine' group) in 2023. Denkmalschutz prohibits exterior alterations. The Schloss museum contains the Ducal art collection. Schwerin's Bürgerschaft voted to maintain the Landtag in the Schloss despite restoration costs exceeding €200 million.",
+      "penalty": "Unauthorized changes to Schloss exterior: fines up to €500,000",
+      "exceptions": ["Urgent structural repairs may proceed with Denkmalschutzamt retroactive approval"],
+      "source": "https://www.schloss-schwerin.de",
+      "sourceLabel": "Schloss Schwerin",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What unusual function does Schwerin Schloss currently serve?",
+        "options": ["Federal government emergency seat", "MV state parliament (Landtag)", "Museum only", "Hotel and conference centre"],
+        "correct": 1,
+        "explanation": "Schwerin Schloss houses MV's Landtag (state parliament) — one of the world's most scenic parliament buildings, on an island in Schweriner See."
+      }
+    },
+    {
+      "id": 41804,
+      "category": "Transport",
+      "severity": "medium",
+      "icon": "🚂",
+      "title": "Rasender Roland — Heritage Railway EBO Rules",
+      "subtitle": "Rügen's narrow-gauge steam railway operating rules",
+      "fullDescription": "The Rügensche Bäderbahn 'Rasender Roland' (Raging Roland) is a 750 mm narrow-gauge steam railway operating 24 km on Rügen since 1895. It operates under §3 EBO (Eisenbahn-Bau- und Betriebsordnung) as a heritage railway. Passengers are transported in open carriages — special boarding safety rules apply. The EBA (Eisenbahn-Bundesamt) inspects the line annually. Maximum speed: 30 km/h. The railway is one of MV's most popular tourist attractions (600,000+ passengers/year).",
+      "penalty": "Operating heritage railway without EBA certification: immediate closure",
+      "exceptions": ["Heritage railways under §3 EBO have modified (lighter) safety requirements compared to mainline railways"],
+      "source": "https://www.rasender-roland.de",
+      "sourceLabel": "Rasender Roland",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What gauge does Rügen's Rasender Roland narrow-gauge railway use?",
+        "options": ["600 mm", "750 mm", "900 mm", "1,000 mm"],
+        "correct": 1,
+        "explanation": "The Rasender Roland uses 750 mm gauge — narrower than standard (1,435 mm) — and has operated on Rügen since 1895."
+      }
+    },
+    {
+      "id": 41805,
+      "category": "Environment",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Marine Protected Areas — Natura 2000 in Baltic",
+      "subtitle": "MV's offshore Natura 2000 sites — strict habitat protection",
+      "fullDescription": "MV has 15 offshore Natura 2000 sites in the Baltic Sea (Special Areas of Conservation — SAC, and Special Protection Areas — SPA) under the FFH and Birds Directives. These include the Greifswalder Bodden (internationally important waterbird area), the Rügen Bodden, and submarine sandbanks. Activities requiring 'appropriate assessment' (Verträglichkeitsprüfung) include: dredging, cable laying, aggregate extraction, and aquaculture. The LUNG (Landesamt für Umwelt, Naturschutz und Geologie) oversees Natura 2000 compliance.",
+      "penalty": "Unauthorized activities in Natura 2000 sites: injunction; fines up to €50,000; EU infringement proceedings against Germany",
+      "exceptions": ["Existing licensed fishing activities grandfathered in Natura 2000 sites may continue with monitoring"],
+      "source": "https://www.lung.mv-regierung.de/natura2000",
+      "sourceLabel": "LUNG MV Natura 2000",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many offshore Natura 2000 sites does MV have in the Baltic Sea?",
+        "options": ["5", "10", "15", "25"],
+        "correct": 2,
+        "explanation": "MV has 15 offshore Natura 2000 sites in the Baltic Sea, protecting habitats including the Greifswalder Bodden waterbird area."
+      }
+    },
+    {
+      "id": 41806,
+      "category": "Gastronomy",
+      "severity": "low",
+      "icon": "🐟",
+      "title": "Fischräucherei — Smoked Fish Market Rules",
+      "subtitle": "MV's traditional smoked fish stalls — food safety and licensing",
+      "fullDescription": "Roadside Fischräuchereien (smoked fish stalls) are iconic in MV — selling Räucheraal (smoked eel), Räucherhering, and Räucherforelle. Mobile stalls require a Reisegewerbekarte (travelling trade licence) and comply with EU Lebensmittelhygieneverordnung (852/2004/EC). The LALLF (food safety authority) inspects stalls. Eel fishing in MV is subject to EU eel management plans — eels are critically endangered (CITES Appendix II). Cold-smoking (<25°C) requires PAH (polycyclic aromatic hydrocarbon) monitoring.",
+      "penalty": "Operating without Reisegewerbekarte: fines; food safety violations: closure + €25,000 fine",
+      "exceptions": ["Small-scale farmers selling own-caught smoked fish at farm gate under €10,000/year revenue have simplified registration"],
+      "source": "https://www.lallf.de/lebensmittel",
+      "sourceLabel": "LALLF MV Lebensmittel",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under what CITES appendix is the European eel listed?",
+        "options": ["CITES Appendix I (most endangered)", "CITES Appendix II", "CITES Appendix III", "Not CITES listed"],
+        "correct": 1,
+        "explanation": "The European eel (Anguilla anguilla) is listed on CITES Appendix II, requiring export permits and sustainable use documentation."
+      }
+    },
+    {
+      "id": 41807,
+      "category": "Aviation",
+      "severity": "low",
+      "icon": "🪂",
+      "title": "MV Skydiving & Ultralight — Airspace Rules",
+      "subtitle": "MV's ultralight and parachute regulations in Baltic airspace",
+      "fullDescription": "MV's Baltic coast and flat landscape make it popular for ultralight aircraft (UL) and skydiving. UL aircraft (under 600 kg MTOM) require a UL pilot licence (DaeC/DULV) and registration with LBA. Parachute (Fallschirmspringen) operations require a designated Absprungplatz (drop zone) with LBA Genehmigung. The Ostsee restricted areas (ED-R) near Rostock-Laage military base require NOTAM coordination. Drone flights in controlled airspace require DFS clearance via the digital Droniq platform.",
+      "penalty": "UL flight without licence: criminal offence (§315a StGB); unauthorised airspace entry: fines up to €50,000",
+      "exceptions": ["Model aircraft under 250g (EU Open A1) require only UAS registration, not pilot licence"],
+      "source": "https://www.lba.de",
+      "sourceLabel": "Luftfahrt-Bundesamt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What EU drone category requires only UAS operator registration (no pilot licence)?",
+        "options": ["All drones under 2 kg", "Drones under 500g in Open A2", "Drones under 250g in Open A1", "All recreational drones"],
+        "correct": 2,
+        "explanation": "EU Drone Regulation Open Category A1 covers drones under 250g — operators need only register on the national UAS register, with no pilot licence required."
+      }
+    },
+    {
+      "id": 41808,
+      "category": "Agriculture",
+      "severity": "medium",
+      "icon": "🐄",
+      "title": "MV Tierhaltung — Large-Scale Livestock Farming",
+      "subtitle": "MV's intensive livestock farming — manure management rules",
+      "fullDescription": "MV has Germany's largest intensive livestock farms — some with 100,000+ poultry or 10,000+ pigs. Under the DüV (Düngemittelverordnung) and Tierschutz-Nutztierhaltungsverordnung (TierSchNutztV), minimum space requirements and manure storage (Gülle) rules apply. MV's 'roten Gebiete' (nitrate vulnerable zones) cover 42% of agricultural land — triggering reduced fertiliser application limits. Large livestock farms (Intensivtierhaltungsanlagen) require BImSchG environmental permits.",
+      "penalty": "TierSchNutztV violations: fines up to €25,000; repeat offences: operation ban",
+      "exceptions": ["Certified organic farms (EU Eco-Regulation 2018/848) have modified space and manure requirements"],
+      "source": "https://www.lallf.de/tierhaltung",
+      "sourceLabel": "LALLF MV Tierhaltung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of MV's agricultural land falls in 'roten Gebiete' (nitrate vulnerable zones)?",
+        "options": ["15%", "28%", "42%", "60%"],
+        "correct": 2,
+        "explanation": "42% of MV's agricultural land is designated as 'rote Gebiete' (nitrate vulnerable zones), triggering stricter fertiliser application limits."
+      }
+    },
+    {
+      "id": 41809,
+      "category": "Media",
+      "severity": "medium",
+      "icon": "📺",
+      "title": "NDR (Norddeutscher Rundfunk) — MV Broadcasting",
+      "subtitle": "MV is an NDR member state — public broadcasting governance",
+      "fullDescription": "MV is one of four NDR member states (alongside Hamburg, Schleswig-Holstein, and Lower Saxony). NDR Landesfunkhaus MV in Schwerin produces regional programming. The NDR-Staatsvertrag (interstate agreement) governs NDR's structure, funding, and independence. Rundfunkbeitrag (€18.36/month per household) is collected by ARD/ZDF/ORF-Beitragsservice. The Medienanstalt MV (MA MV) licenses private broadcasters. MV's small media market makes public broadcasting disproportionately important.",
+      "penalty": "Non-payment of Rundfunkbeitrag: debt collection; surcharges after warning",
+      "exceptions": ["Bürgergeld and social assistance recipients qualify for full Rundfunkbeitrag exemption"],
+      "source": "https://www.ndr.de/mv",
+      "sourceLabel": "NDR MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which four states are members of the NDR (Norddeutscher Rundfunk)?",
+        "options": ["MV, Hamburg, Bremen, Schleswig-Holstein", "MV, Hamburg, Schleswig-Holstein, Lower Saxony", "MV, Brandenburg, Hamburg, Schleswig-Holstein", "MV, Lower Saxony, Bremen, Hamburg"],
+        "correct": 1,
+        "explanation": "NDR's four member states are Mecklenburg-Vorpommern, Hamburg, Schleswig-Holstein, and Lower Saxony, governed by the NDR-Staatsvertrag."
+      }
+    },
+    {
+      "id": 41810,
+      "category": "Forestry",
+      "severity": "medium",
+      "icon": "🌲",
+      "title": "Schorfheide-Chorin — UNESCO Biosphere Reserve MV Border",
+      "subtitle": "MV shares Baltic UNESCO Biosphere Reserves",
+      "fullDescription": "MV has three UNESCO Biosphere Reserves: Südost-Rügen, Schaalsee, and (shared) Flusslandschaft Elbe MV section. The Biosphärenreservatsgesetz MV designates core zones (Kernzone — no human use), buffer zones, and transition zones. The Biosphärenreservatsverwaltung manages these areas under the Landesamt für Umwelt. Activities in core zones are prohibited; buffer zones allow low-impact recreation. MV's biosphere reserves cover 140,000+ ha and are part of the MAB (Man and Biosphere) UNESCO programme.",
+      "penalty": "Unauthorized activities in core zones: fines up to €50,000",
+      "exceptions": ["Scientific monitoring with Biosphärenreservatsverwaltung permit allowed in core zones"],
+      "source": "https://www.lung.mv-regierung.de/biosphaerenreservate",
+      "sourceLabel": "LUNG MV Biosphärenreservate",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many UNESCO Biosphere Reserves does MV have?",
+        "options": ["1", "2", "3", "5"],
+        "correct": 2,
+        "explanation": "MV has three UNESCO Biosphere Reserves: Südost-Rügen, Schaalsee, and the MV section of Flusslandschaft Elbe."
+      }
+    },
+    {
+      "id": 41811,
+      "category": "Veterans",
+      "severity": "info",
+      "icon": "🎖️",
+      "title": "NVA (Nationale Volksarmee) Veterans — MV Pension Rights",
+      "subtitle": "GDR military veterans' pension treatment in reunified Germany",
+      "fullDescription": "MV has a significant population of NVA (GDR National People's Army) veterans. Under the Einigungsvertrag (Unification Treaty 1990) and Rentenangleichungsgesetz, NVA service time counts toward German pension (Rentenversicherung) — but at reduced rates reflecting GDR wage levels. NVA officers' supplementary pensions (Zusatzversorgung) were capped at 1,250€/month. The BSG (Bundessozialgericht) has ruled repeatedly on NVA pension cases. Bundeswehr took over some NVA facilities and bases in MV.",
+      "penalty": "N/A — pension information",
+      "exceptions": ["NVA members involved in human rights violations may have pension entitlements reduced under §5 AAÜG"],
+      "source": "https://www.bsg.bund.de",
+      "sourceLabel": "BSG NVA Urteile",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "At what monthly amount were NVA officers' supplementary GDR pensions capped under German reunification law?",
+        "options": ["€800", "€1,000", "€1,250", "€1,800"],
+        "correct": 2,
+        "explanation": "NVA officers' supplementary GDR pensions (Zusatzversorgung) were capped at €1,250/month under German reunification pension law."
+      }
+    },
+    {
+      "id": 41812,
+      "category": "Economy",
+      "severity": "medium",
+      "icon": "🏭",
+      "title": "MV Shipbuilding — Werften Insolvency",
+      "subtitle": "MV's shipyards: MV Werften insolvency 2022 — Rostock/Warnemünde",
+      "fullDescription": "MV Werften (owned by Genting Hong Kong) operated shipyards at Rostock-Warnemünde, Wismar, and Stralsund. When Genting collapsed in 2022, MV Werften went insolvent — 2,000+ jobs lost. The German government had provided €193 million in state aid. The Insolvenzverwalter (insolvency administrator) sold assets — the unfinished Global Dream cruise ship was acquired by Disney Cruise Line. MV's Wirtschaftsministerium provided crisis support. German insolvency is governed by InsO (Insolvenzordnung).",
+      "penalty": "Trading while insolvent: directors criminally liable under §15a InsO; up to 3 years imprisonment",
+      "exceptions": ["Protective shield proceedings (Schutzschirmverfahren §270b InsO) allow self-administered restructuring for 3 months"],
+      "source": "https://www.wirtschaft-mv.de",
+      "sourceLabel": "Wirtschaftsministerium MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which cruise company acquired MV Werften's unfinished Global Dream cruise ship after the 2022 insolvency?",
+        "options": ["Royal Caribbean", "MSC", "Disney Cruise Line", "Carnival"],
+        "correct": 2,
+        "explanation": "Disney Cruise Line acquired the unfinished Global Dream cruise ship from MV Werften's insolvency estate in 2022."
+      }
+    },
+    {
+      "id": 41813,
+      "category": "Renewable",
+      "severity": "medium",
+      "icon": "⚡",
+      "title": "Lubmin Grid Connection — 50Hertz Baltic Link",
+      "subtitle": "Lubmin as Germany's Baltic offshore wind grid hub",
+      "fullDescription": "Lubmin in MV is Germany's most important grid connection point for Baltic offshore wind energy — the 50Hertz Ostwind 1 and 2 HVDC cables land here. Nord Stream pipelines also terminated at Lubmin (before sabotage). The EUGAL gas pipeline (from Lubmin to Czech border) reuses the former Nord Stream corridor. 50Hertz manages the transmission grid in eastern Germany. New offshore wind HVDC connections at Lubmin require BNetzA (Bundesnetzagentur) grid development plan approval.",
+      "penalty": "Unauthorized interference with grid infrastructure: §316b StGB up to 10 years",
+      "exceptions": ["Planned maintenance outages coordinated with 50Hertz permitted without additional authorisation"],
+      "source": "https://www.50hertz.com",
+      "sourceLabel": "50Hertz Lubmin",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which grid operator manages the high-voltage transmission network in eastern Germany including MV?",
+        "options": ["TenneT", "Amprion", "50Hertz", "TransnetBW"],
+        "correct": 2,
+        "explanation": "50Hertz Transmission manages the high-voltage grid in eastern Germany (including MV), operating Baltic offshore wind HVDC connections at Lubmin."
+      }
+    },
+    {
+      "id": 41814,
+      "category": "Charity",
+      "severity": "low",
+      "icon": "❤️",
+      "title": "Volunteer Fire Service — MV Freiwillige Feuerwehr",
+      "subtitle": "MV has 20,000 volunteer firefighters — compulsory participation debate",
+      "fullDescription": "MV's 20,000 volunteer firefighters (Freiwillige Feuerwehr) are governed by the Brand- und Katastrophenschutzgesetz MV (BrSchG MV). Municipalities must maintain functional fire brigades. In very small villages, compulsory volunteer fire service participation (Pflichtfeuerwehr) can be imposed on able-bodied male residents 18–60. This provision is used in ~30 MV municipalities. Training is funded by the Landesfeuerwehrschule Schwerin. Volunteer firefighters receive limited liability protection when acting in good faith.",
+      "penalty": "Refusal of compulsory Pflichtfeuerwehr without valid exemption: fines up to €500",
+      "exceptions": ["Persons with medical conditions, primary caregiver responsibilities, or professional conflicts may be exempted from Pflichtfeuerwehr"],
+      "source": "https://www.lfk-mv.de",
+      "sourceLabel": "Landesfeuerwehrschule MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is MV's Pflichtfeuerwehr?",
+        "options": ["Professional firefighter requirement", "Mandatory volunteer fire service for able-bodied men in underserved villages", "Compulsory fire safety training in schools", "Federal fire service reserve"],
+        "correct": 1,
+        "explanation": "Pflichtfeuerwehr allows MV municipalities to compel able-bodied male residents aged 18–60 to serve as volunteer firefighters when no sufficient volunteers exist."
+      }
+    },
+    {
+      "id": 41815,
+      "category": "Tourism Law",
+      "severity": "low",
+      "icon": "🧳",
+      "title": "MV Package Travel — Reisevertragsrecht",
+      "subtitle": "Package holiday law protecting MV tourists",
+      "fullDescription": "Germany's Reisevertragsrecht (§§651a–y BGB, implementing EU Directive 2015/2302) protects tourists booking package holidays including MV Baltic sea holidays. Travel organizers must provide insolvency insurance (Insolvenzabsicherung) via a Kundengeldabsicherer (currently Zurich or Deutsche Reiseversicherung). Cancellation rights (Rücktrittsrecht) allow free cancellation if unavoidable extraordinary circumstances (force majeure) occur at the destination. COVID-19 triggered mass cancellation disputes — German courts ruled lockdowns were force majeure.",
+      "penalty": "Tour operators without insolvency insurance: BaFin enforcement; criminal liability",
+      "exceptions": ["Business travel and individual transport/accommodation bookings not covered by package travel Directive"],
+      "source": "https://www.bundesrechtspflege.de",
+      "sourceLabel": "Reisevertragsrecht BGB",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What insurance must German package holiday operators provide to tourists?",
+        "options": ["Medical travel insurance", "Trip delay insurance", "Insolvency insurance (Kundengeldabsicherung)", "Liability insurance for activities"],
+        "correct": 2,
+        "explanation": "German package tour operators must provide Insolvenzabsicherung (insolvency insurance) guaranteeing refunds if the operator goes bankrupt before or during the trip."
+      }
+    },
+    {
+      "id": 41816,
+      "category": "Migration",
+      "severity": "medium",
+      "icon": "🌍",
+      "title": "MV Aufnahme Quota — Refugee Distribution",
+      "subtitle": "MV's Königsteiner Schlüssel quota for asylum seekers",
+      "fullDescription": "Germany distributes asylum seekers between states using the Königsteiner Schlüssel (a formula based on tax revenue 2/3 and population 1/3). MV's small population and tax base means it receives ~2.1% of all asylum seekers. The Erstaufnahmeeinrichtungen (initial reception centres) in MV are in Stern Buchholz (Schwerin) and Horst. Post-initial reception, asylum seekers are distributed to Landkreise. MV's Ausländerbehörden have historically low staff-to-case ratios, causing processing delays.",
+      "penalty": "Violating obligatory Wohnsitzauflage (residence requirement): loss of right to choose residence for 3 years",
+      "exceptions": ["Persons with recognised German language skills or confirmed employment may apply for Wohnsitzauflage exemption"],
+      "source": "https://www.innenministerium-mv.de",
+      "sourceLabel": "Innenministerium MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does the Königsteiner Schlüssel formula determine?",
+        "options": ["German state GDP rankings", "Distribution of asylum seekers between German states", "EU structural fund allocation", "Länderfinanzausgleich payments"],
+        "correct": 1,
+        "explanation": "The Königsteiner Schlüssel allocates asylum seekers between German states based 2/3 on tax revenue and 1/3 on population."
+      }
+    },
+    {
+      "id": 41817,
+      "category": "Energy",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Tidal & Wave Energy — MV Baltic Research",
+      "subtitle": "MV's marine energy research — Baltic tidal range too small",
+      "fullDescription": "The Baltic Sea has minimal tidal range (<30 cm) due to its semi-enclosed nature, making tidal energy unviable. MV's marine energy research focuses on offshore wind (dominant) and experimental wave energy converters at Greifswald. The Fraunhofer Institut für Großstrukturen in der Produktionstechnik (IGP) in Rostock develops offshore wind component manufacturing. The BMBF funds Baltic marine energy research at Greifswald University. MV's coastline is instead used for offshore wind cable routes and LNG import infrastructure.",
+      "penalty": "N/A — research information",
+      "exceptions": [],
+      "source": "https://www.igp.fraunhofer.de",
+      "sourceLabel": "Fraunhofer IGP Rostock",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why is tidal energy unviable on MV's Baltic coast?",
+        "options": ["Too shallow for turbines", "Baltic tidal range is less than 30 cm", "Environmental protections prohibit it", "No grid connection available"],
+        "correct": 1,
+        "explanation": "The Baltic Sea's semi-enclosed geography creates a tidal range of less than 30 cm — far too small to economically generate tidal energy."
+      }
+    },
+    {
+      "id": 41818,
+      "category": "Justice",
+      "severity": "medium",
+      "icon": "⚖️",
+      "title": "OLG Rostock — Maritime and Property Restitution Cases",
+      "subtitle": "MV's highest court handles GDR restitution and maritime disputes",
+      "fullDescription": "The Oberlandesgericht (OLG) Rostock is MV's highest civil and criminal court. Its specialities include: GDR-era property restitution appeals, Baltic maritime disputes (ship arrests, cargo claims), and cross-border disputes with Poland under EU Regulation 1215/2012 (Brussels I Recast). The OLG has jurisdiction over Oderonien (transboundary cases). MV's Staatliches Amt für Landwirtschaft und Umwelt handles administrative disputes which can reach OLG via VG (administrative courts).",
+      "penalty": "Court orders enforced by Gerichtsvollzieher; contempt: Ordnungsgeld up to €250,000",
+      "exceptions": ["EU small claims procedure (under €5,000) allows cross-border Baltic claims without OLG involvement"],
+      "source": "https://www.olg-rostock.de",
+      "sourceLabel": "OLG Rostock",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which EU regulation governs cross-border civil disputes between MV and Poland?",
+        "options": ["Rome I (contractual obligations)", "Brussels I Recast (EU Regulation 1215/2012)", "Rome II (non-contractual)", "EuGH Statute"],
+        "correct": 1,
+        "explanation": "EU Regulation 1215/2012 (Brussels I Recast) governs jurisdiction and enforcement of civil and commercial judgments across EU member states, including MV-Poland disputes."
+      }
+    },
+    {
+      "id": 41819,
+      "category": "Stork",
+      "severity": "low",
+      "icon": "🦢",
+      "title": "White Stork (Weißstorch) — MV Conservation Success",
+      "subtitle": "MV has Germany's largest white stork breeding population",
+      "fullDescription": "MV has Germany's largest white stork (Ciconia ciconia) breeding population — 1,000+ breeding pairs. The species is protected under §44 BNatSchG and EU Birds Directive Annex I. Stork nests on electricity pylons are protected — utility companies must fit nest platforms and cannot remove nests without BNatSchG permit. Agricultural meadow (Feuchtwiesen) management is essential for stork feeding — EU ELER agri-environment schemes fund wet meadow maintenance in MV.",
+      "penalty": "Destroying stork nest: fines up to €50,000; removing nest from pylon without permit: criminal offence",
+      "exceptions": ["Emergency pylon repairs may displace stork nests after breeding season with LUNG MV approval"],
+      "source": "https://www.lung.mv-regierung.de/storch",
+      "sourceLabel": "LUNG MV Weißstorch",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many white stork breeding pairs does MV have?",
+        "options": ["200+", "500+", "1,000+", "2,000+"],
+        "correct": 2,
+        "explanation": "MV has over 1,000 white stork breeding pairs — Germany's largest population — supported by wet meadow habitats and pylon nest platforms."
+      }
+    },
+    {
+      "id": 41820,
+      "category": "Cold War",
+      "severity": "info",
+      "icon": "🕊️",
+      "title": "Prora — GDR Seaside Resort Conversion",
+      "subtitle": "Nazi-era KdF resort on Rügen repurposed under MV planning law",
+      "fullDescription": "Prora on Rügen is a 4.5 km-long Nazi-era KdF (Kraft durch Freude) resort built 1936–1939, never completed. Post-reunification, after NVA use, the massive structure was redeveloped as youth hostels, a museum, and upscale apartments. Denkmalschutzgesetz MV applies — exterior must be preserved. Planning law changes (Bebauungsplan amendments) were required for residential conversion. The Dokumentationszentrum Prora educates on the complex's history. Rügen district received EU Structural Funds for Prora conversion.",
+      "penalty": "Unauthorized alteration of listed Prora buildings: fines up to €500,000",
+      "exceptions": ["Interior modernisation maintaining exterior shell is permitted with Baugenehmigung"],
+      "source": "https://www.dokumentationszentrum-prora.de",
+      "sourceLabel": "Dokumentationszentrum Prora",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long is the Prora KdF resort building complex on Rügen?",
+        "options": ["1.5 km", "2.8 km", "4.5 km", "7 km"],
+        "correct": 2,
+        "explanation": "Prora's resort building stretches 4.5 km along Rügen's Baltic coast — one of the world's largest buildings, planned to house 20,000 Nazi-era holidaymakers."
+      }
+    },
+    {
+      "id": 41821,
+      "category": "Aquaculture",
+      "severity": "medium",
+      "icon": "🐟",
+      "title": "MV Aquakultur — Baltic Mussel and Fish Farming",
+      "subtitle": "MV's emerging Baltic mussel farming sector",
+      "fullDescription": "Baltic mussel (Mytilus edulis) farming is growing in MV's coastal waters as traditional fisheries decline. Aquaculture operations require permits under WHG (water law), BNatSchG, and EU Regulation 1380/2013 (Common Fisheries Policy). The LALLF grants aquaculture licences. Baltic mussels naturally filter the water — mussel farms are considered a climate mitigation tool (nitrogen extraction). MV's Aquakulturstrategie 2025 targets 2,000 tonnes of Baltic mussel production. Imported farmed salmon must carry EU ecolabel.",
+      "penalty": "Aquaculture without LALLF licence: fines up to €25,000; confiscation of stock",
+      "exceptions": ["Small-scale non-commercial aquaculture ponds (under 1 tonne/year) exempt from full aquaculture licence"],
+      "source": "https://www.lallf.de/aquakultur",
+      "sourceLabel": "LALLF MV Aquakultur",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What environmental benefit do Baltic mussel farms provide?",
+        "options": ["CO₂ sequestration via shells", "Nitrogen extraction (water filtering)", "Providing fish habitat", "Reducing boat propeller fouling"],
+        "correct": 1,
+        "explanation": "Baltic mussels naturally filter seawater, extracting nitrogen — making mussel farms both a commercial venture and a water quality improvement tool."
+      }
+    },
+    {
+      "id": 41822,
+      "category": "Education",
+      "severity": "medium",
+      "icon": "🏫",
+      "title": "MV Schulgesetz — Small Rural Schools",
+      "subtitle": "MV protects small village schools despite demographic decline",
+      "fullDescription": "MV's Schulgesetz (SchulG MV) was amended in 2019 to protect small rural schools — the minimum school size was reduced from 40 to 25 students per Grundschule. This reversed earlier closures that had damaged rural communities. MV offers Schülerbeförderung (school transport) funded by Landkreise for students living over 2 km from school. Teacher training at Greifswald and Rostock universities includes mandatory rural placement. MV faces a critical teacher shortage — 30%+ of teachers are over 55.",
+      "penalty": "Truancy fines (Schulpflichtverletzung) up to €1,000; police escort in persistent cases",
+      "exceptions": ["Home schooling not permitted in MV — children must attend school (unlike some German states)"],
+      "source": "https://www.bildung-mv.de",
+      "sourceLabel": "Bildungsministerium MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum student number did MV set for rural Grundschulen in its 2019 school law?",
+        "options": ["15 students", "20 students", "25 students", "40 students"],
+        "correct": 2,
+        "explanation": "MV reduced the minimum Grundschule size to 25 students in 2019 to protect rural village schools from closure due to demographic decline."
+      }
+    },
+    {
+      "id": 41823,
+      "category": "Consumer",
+      "severity": "medium",
+      "icon": "🛒",
+      "title": "MV Sunday Trading — Ladenöffnungsgesetz",
+      "subtitle": "MV's Sunday retail closure law — tourist exceptions",
+      "fullDescription": "MV's Ladenöffnungsgesetz (LÖG MV) prohibits retail on Sundays and public holidays. Exceptions: petrol stations, pharmacies, kiosks, florists at cemeteries, airport/ferry terminal shops, and bakers before 12:00 Sunday. Critically for MV's tourist economy, shops in Heilbad/Seeheilbad designated areas may open up to 8 Sundays/year with Genehmigung. Souvenir shops in tourist centres (Rügen, Usedom) take full advantage of Sunday exceptions. MV has 4 state-specific public holidays.",
+      "penalty": "Trading on Sunday without exemption: fines up to €2,500; Ordnungsamt enforcement",
+      "exceptions": ["Rügen and Usedom resort areas may designate up to 8 Sunday openings annually"],
+      "source": "https://www.regierung-mv.de/ladenöffnung",
+      "sourceLabel": "Landesregierung MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Until what time on Sunday may MV bakers sell fresh products as an exception to Sunday closing?",
+        "options": ["10:00", "11:00", "12:00", "14:00"],
+        "correct": 2,
+        "explanation": "MV's Ladenöffnungsgesetz allows bakers to sell fresh products until 12:00 on Sundays as an exception to the general Sunday trading prohibition."
+      }
+    },
+    {
+      "id": 41824,
+      "category": "Biodiversity",
+      "severity": "high",
+      "icon": "🌿",
+      "title": "MV Biotopverbund — 15% Habitat Network Target",
+      "subtitle": "MV's legally required habitat connectivity network",
+      "fullDescription": "Under §21 BNatSchG (Federal Nature Conservation Act), Germany must establish a Biotopverbund (habitat network) covering at least 15% of land. MV's Landesbiotopverbundprogramm identifies priority corridors connecting Müritz NP, Jasmund NP, Vorpommersche Boddenlandschaft NP, and coastal habitats. Landowners in priority corridors receive ELER agri-environment payments for wildlife-friendly management. Construction projects crossing Biotopverbund corridors require compensatory measures (Ökokonto credits).",
+      "penalty": "Severing protected Biotopverbund corridor without compensation: BNatSchG fines; project injunction",
+      "exceptions": ["Linear infrastructure (roads, railways) crossing corridors must include wildlife passages (Grünbrücken)"],
+      "source": "https://www.lung.mv-regierung.de/biotopverbund",
+      "sourceLabel": "LUNG MV Biotopverbund",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum percentage of Germany's land must be covered by Biotopverbund under §21 BNatSchG?",
+        "options": ["5%", "10%", "15%", "20%"],
+        "correct": 2,
+        "explanation": "§21 BNatSchG requires Germany to maintain a Biotopverbund (habitat network) covering at least 15% of land area to ensure ecological connectivity."
+      }
+    },
+    {
+      "id": 41825,
+      "category": "Final",
+      "severity": "info",
+      "icon": "🌊",
+      "title": "Ostsee (Baltic Sea) — MV's Identity and Legal Framework",
+      "subtitle": "The Baltic Sea defines MV — summary of maritime legal framework",
+      "fullDescription": "The Baltic Sea (Ostsee) defines Mecklenburg-Vorpommern's economy, culture, and legal landscape. MV's 1,940 km coast is governed by: UNCLOS (international maritime law), EU CFP (fisheries), EU Water Framework Directive, EU Marine Strategy Framework Directive (MSFD), SeeSchStrO (German shipping), BNatSchG/FFH/Birds Directives (nature), and MV's own NatSchAG MV and Küstenschutzgesetz. The Bodden, national parks, Natura 2000 sites, UNESCO heritage, and fishing communities all operate under this layered legal framework that balances economic development with Baltic conservation.",
+      "penalty": "N/A — summary information",
+      "exceptions": [],
+      "source": "https://www.regierung-mv.de",
+      "sourceLabel": "Landesregierung MV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which EU directive specifically governs the ecological status of Germany's Baltic Sea marine environment?",
+        "options": ["Water Framework Directive", "Marine Strategy Framework Directive (MSFD)", "Habitats Directive", "Maritime Spatial Planning Directive"],
+        "correct": 1,
+        "explanation": "The EU Marine Strategy Framework Directive (MSFD, 2008/56/EC) requires member states to achieve 'Good Environmental Status' in their marine waters, including MV's Baltic Sea territory."
+      }
+    }
+  ]
+}

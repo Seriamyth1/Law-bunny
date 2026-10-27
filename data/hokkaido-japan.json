@@ -1,0 +1,1506 @@
+{
+  "country": "Hokkaido, Japan",
+  "slug": "hokkaido-japan",
+  "laws": [
+    {
+      "id": 42651,
+      "category": "Traffic & Driving",
+      "severity": "high",
+      "icon": "❄️",
+      "title": "Winter Tyre Obligation",
+      "subtitle": "Snow tyres mandatory November–March on Hokkaido roads",
+      "fullDescription": "Hokkaido Prefectural Police enforce Japan's Road Traffic Act provisions on winter tyres with particular rigour. All vehicles must fit winter (studless) tyres or carry chains when driving on Hokkaido roads between late November and late March. Studded tyres were banned nationally in 1991 due to road dust health concerns. Hokkaido records Japan's highest rate of winter traffic accidents. Rental car companies are legally required to fit winter tyres to all vehicles during the winter season.",
+      "penalty": "Driving without winter tyres in snowy conditions: up to ¥70,000 fine; accidents caused by improper tyres: civil liability + criminal negligence charges",
+      "exceptions": ["Vehicles on private land", "Emergency vehicles in exceptional situations"],
+      "source": "https://www.police.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefectural Police — Winter Road Safety",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why were studded tyres banned across Japan in 1991?",
+        "options": ["They damaged road surfaces causing dangerous dust and health problems", "They caused more accidents than studless tyres", "They were too expensive for most drivers", "International trade pressure from tyre manufacturers"],
+        "correct": 0,
+        "explanation": "Studded tyres were banned in 1991 because they ground road surfaces into fine dust, causing respiratory health problems in urban areas — studless (studless snow) tyres are the legal alternative."
+      }
+    },
+    {
+      "id": 42652,
+      "category": "Environmental",
+      "severity": "high",
+      "icon": "🐻",
+      "title": "Brown Bear Encounter Protocol",
+      "subtitle": "Hokkaido has Japan's only brown bear population — strict rules apply",
+      "fullDescription": "Hokkaido is home to approximately 10,000 Ezo brown bears (エゾヒグマ), Japan's largest land predator. Under the Wildlife Protection and Hunting Act (鳥獣保護管理法) and Hokkaido's own Bear Management Plan, feeding bears is strictly prohibited. Hiking in bear country requires bear bells and, in designated areas, group registration. Landowners and farmers may apply for damage-prevention culling permits. Fatal bear attacks have increased in recent years as the population expands into agricultural zones.",
+      "penalty": "Feeding bears: fines up to ¥500,000; unlicensed bear culling: up to 1 year imprisonment",
+      "exceptions": ["Licensed hunters during designated bear hunting season", "Emergency self-defence is not criminalised"],
+      "source": "https://www.pref.hokkaido.lg.jp/ks/skn/higuma/",
+      "sourceLabel": "Hokkaido Prefecture — Brown Bear Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many Ezo brown bears live in Hokkaido?",
+        "options": ["500", "2,000", "10,000", "50,000"],
+        "correct": 2,
+        "explanation": "Hokkaido's Ezo brown bear (エゾヒグマ) population is estimated at approximately 10,000 — Japan's only brown bear population and its largest land predator."
+      }
+    },
+    {
+      "id": 42653,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🦅",
+      "title": "Steller's Sea Eagle and White-Tailed Eagle Protection",
+      "subtitle": "Hokkaido hosts critically important raptor populations",
+      "fullDescription": "Hokkaido is winter habitat for Steller's sea eagles (オオワシ) and white-tailed eagles (オジロワシ) — both protected under Japan's Wildlife Protection Act and listed on the IUCN Red List. Lead ammunition used by deer hunters contaminates carcasses left in the field, causing fatal lead poisoning in these eagles — Hokkaido has the world's highest rate of lead-poisoned eagles. Hokkaido Prefecture has issued guidance strongly discouraging lead ammunition use, and some hunting areas mandate lead-free bullets.",
+      "penalty": "Killing or injuring protected raptors: up to 1 year imprisonment or ¥1,000,000 fine",
+      "exceptions": ["Accidental incidental take with immediate reporting obligation"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Raptor Protection",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the main cause of Steller's sea eagle deaths in Hokkaido?",
+        "options": ["Habitat loss from logging", "Lead poisoning from contaminated deer carcasses left by hunters", "Collision with power lines", "Climate change reducing fish stocks"],
+        "correct": 1,
+        "explanation": "Lead ammunition fragments in deer carcasses left by hunters are ingested by scavenging eagles, causing fatal lead poisoning — Hokkaido has the world's highest documented rate."
+      }
+    },
+    {
+      "id": 42654,
+      "category": "Indigenous Rights",
+      "severity": "medium",
+      "icon": "🪶",
+      "title": "Ainu People Promotion Act 2019",
+      "subtitle": "Japan officially recognises Ainu as indigenous people",
+      "fullDescription": "Japan's Act for Promotion of Measures to Realize a Society in Which the Pride of the Ainu People is Respected (アイヌの人々の誇りが尊重される社会を実現するための施策の推進に関する法律, 2019) was the first Japanese law to legally recognise the Ainu as an indigenous people. The Act mandates support for Ainu culture, language revitalisation, and economic development. The national Upopoy National Ainu Museum opened in Shiraoi, Hokkaido in 2020. Discriminatory treatment of Ainu people can be subject to administrative remedy under the Act.",
+      "penalty": "No direct criminal penalty in the Act; discrimination may trigger civil remedies under general anti-discrimination frameworks",
+      "exceptions": [],
+      "source": "https://www.kantei.go.jp/",
+      "sourceLabel": "Cabinet Secretariat — Ainu Policy Promotion Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What year did Japan legally recognise the Ainu as an indigenous people?",
+        "options": ["1997", "2007", "2019", "2021"],
+        "correct": 2,
+        "explanation": "Japan passed the Ainu Promotion Act in 2019 — the first law to formally recognise Ainu as Japan's indigenous people, following decades of advocacy."
+      }
+    },
+    {
+      "id": 42655,
+      "category": "Agriculture",
+      "severity": "medium",
+      "icon": "🥛",
+      "title": "Dairy Industry Regulations — Hokkaido",
+      "subtitle": "Hokkaido produces over half of Japan's milk",
+      "fullDescription": "Hokkaido produces approximately 55% of Japan's raw milk under the Milk and Dairy Products Hygiene Act (乳及び乳製品の成分規格等に関する省令). Dairy farms must register with prefectural health authorities, undergo regular milk quality inspections, and comply with antibiotic residue limits. The Hokkaido Dairy Milk Quota system (生乳生産枠) historically managed production volumes. Raw milk sales direct to consumers are heavily restricted — pasteurisation is mandatory for commercial distribution.",
+      "penalty": "Selling unpasteurised milk commercially: up to 3 years imprisonment or ¥3,000,000 fine",
+      "exceptions": ["Farm-gate raw milk sales directly to informed adult consumers in very limited quantities under prefecture guidance"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Dairy Industry Regulation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Japan's milk does Hokkaido produce?",
+        "options": ["25%", "40%", "55%", "75%"],
+        "correct": 2,
+        "explanation": "Hokkaido produces approximately 55% of Japan's total raw milk — making it by far Japan's dominant dairy region, with vast pastures in the Tokachi and Konsen plains."
+      }
+    },
+    {
+      "id": 42656,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Salmon Fishing Regulation — Hokkaido Rivers",
+      "subtitle": "River salmon fishing tightly controlled to protect spawning",
+      "fullDescription": "Hokkaido's rivers are critical spawning habitat for chum, pink, coho, and Chinook salmon. Under the Fishery Act (漁業法) and Hokkaido's Inland Fisheries Cooperative rules, recreational river salmon fishing is prohibited during the autumn spawning season. Only licenced commercial fishers and indigenous Ainu (under traditional rights provisions introduced in 2020) may take salmon from rivers at designated times. Poaching during spawning runs is actively enforced by fishery officers.",
+      "penalty": "Illegal salmon poaching: up to 3 years imprisonment or ¥3,000,000 fine; gear confiscation",
+      "exceptions": ["Ainu traditional salmon fishing at designated rivers under 2020 pilot scheme", "Commercial licence holders at permitted times"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Inland Fisheries",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What right was restored to Ainu people in 2020 regarding Hokkaido salmon?",
+        "options": ["Commercial fishing licences at no cost", "Traditional salmon fishing rights at designated rivers under a pilot scheme", "Unlimited salmon fishing year-round", "Ownership of all salmon rivers"],
+        "correct": 1,
+        "explanation": "In 2020, Japan piloted a scheme allowing Ainu people traditional salmon fishing rights at specific designated rivers — a partial restoration of ancestral fishing practices."
+      }
+    },
+    {
+      "id": 42657,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🏔️",
+      "title": "Mountain Registration System",
+      "subtitle": "Hikers in Hokkaido's backcountry must file tozan届",
+      "fullDescription": "Under Hokkaido's mountain safety guidelines and the guidelines of individual mountain authorities, hikers planning routes in Daisetsuzan (大雪山), Shiretoko (知床), and other backcountry areas must submit a mountain entry notification (登山届, tozan-todoke) to the relevant police station or mountain authority. While not criminally mandatory, failure to file complicates search and rescue. Hokkaido records Japan's highest rate of mountain rescue operations due to its vast wilderness and rapid weather changes.",
+      "penalty": "No direct criminal penalty for not filing; rescue costs may be billed if negligence is found (civil)",
+      "exceptions": ["Day hikes on well-maintained tourist trails at popular peaks"],
+      "source": "https://www.police.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefectural Police — Mountain Safety",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is a 'tozan-todoke' (登山届)?",
+        "options": ["A mountain summit certificate", "A mountain entry notification filed before backcountry hiking", "A mountain rescue insurance policy", "A permit to pick plants in national parks"],
+        "correct": 1,
+        "explanation": "A tozan-todoke (登山届) is a mountain entry notification — filed with police or mountain authorities before backcountry hikes to facilitate search and rescue if needed."
+      }
+    },
+    {
+      "id": 42658,
+      "category": "Environmental",
+      "severity": "high",
+      "icon": "🦊",
+      "title": "Echinococcosis Prevention — Fox Tapeworm",
+      "subtitle": "Handling foxes or drinking untreated water risks fatal parasite",
+      "fullDescription": "Hokkaido is the only Japanese prefecture where Echinococcus multilocularis (多包条虫) — a fox tapeworm causing alveolar echinococcosis in humans — is endemic. The disease is fatal if untreated and has a long incubation period. Hokkaido Prefecture prohibits feeding wild foxes, handling them without protective gear, and drinking untreated surface water or eating unwashed wild vegetables. Annual screening programmes are offered to high-risk groups. Importing foxes from Hokkaido to other prefectures requires health certification.",
+      "penalty": "Feeding wild foxes in designated prevention zones: administrative fines up to ¥50,000",
+      "exceptions": ["Licensed wildlife researchers with PPE protocols"],
+      "source": "https://www.pref.hokkaido.lg.jp/hf/ksts/ekinokokkusu.html",
+      "sourceLabel": "Hokkaido Prefecture — Echinococcosis Prevention",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What unique health risk makes feeding wild foxes in Hokkaido particularly dangerous?",
+        "options": ["Rabies (Japan's only rabies-endemic area)", "Fox tapeworm (Echinococcus) causing potentially fatal alveolar echinococcosis", "Avian influenza transmission", "Hantavirus from fox faeces"],
+        "correct": 1,
+        "explanation": "Hokkaido foxes carry Echinococcus multilocularis — a tapeworm causing alveolar echinococcosis in humans, a potentially fatal liver disease with a long incubation period."
+      }
+    },
+    {
+      "id": 42659,
+      "category": "Agriculture",
+      "severity": "medium",
+      "icon": "🌾",
+      "title": "Hokkaido Agricultural Land Ownership Restrictions",
+      "subtitle": "Foreigners face restrictions on buying Hokkaido farmland",
+      "fullDescription": "Following concerns about foreign purchases of Hokkaido agricultural and forest land — particularly by Chinese investors near Self-Defence Force bases — Japan strengthened land transaction rules under the revised Foreign Exchange and Foreign Trade Act (外為法, 2021) and the Act on Review of Economic Security (2022). Purchases of land near designated sensitive facilities require prior notification to the government. Hokkaido Prefecture itself passed additional local guidelines in 2022.",
+      "penalty": "Failure to notify on sensitive land purchases: up to 2 years imprisonment or ¥1,000,000 fine",
+      "exceptions": ["Long-term resident foreign nationals buying residential property in non-sensitive zones"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Land Ownership Guidelines",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What triggered Japan to tighten Hokkaido land purchase notification rules in 2021–2022?",
+        "options": ["Domestic price speculation by Tokyo investors", "Concerns about foreign purchases near Self-Defence Force bases", "EU trade agreement land access provisions", "Agricultural overproduction from new large farms"],
+        "correct": 1,
+        "explanation": "Reports of foreign investors purchasing land near JSDF bases in Hokkaido triggered national security-motivated tightening of land purchase notification requirements."
+      }
+    },
+    {
+      "id": 42660,
+      "category": "Tourism & Recreation",
+      "severity": "medium",
+      "icon": "⛷️",
+      "title": "Niseko Ski Area Safety Regulations",
+      "subtitle": "Off-piste skiing regulated after avalanche fatalities",
+      "fullDescription": "Niseko (ニセコ) — Hokkaido's internationally famous ski resort — has seen rapid foreign-led development and is now Japan's most visited ski resort by international tourists. After avalanche fatalities involving off-piste skiers, Niseko United (the resort operator group) implemented mandatory gate registration for backcountry entry. Hokkaido Prefecture's avalanche warning system (雪崩注意報) triggers area closures. Ski patrols can compel skiers to leave closed areas under resort bylaws.",
+      "penalty": "Entering closed ski terrain: resort-level: removal + ban; if causing rescue: civil cost recovery; criminal negligence if others harmed",
+      "exceptions": ["Licensed guides with groups in pre-approved backcountry zones"],
+      "source": "https://www.niseko.ne.jp/",
+      "sourceLabel": "Niseko United — Resort Safety Rules",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What has made Niseko famous internationally beyond its skiing quality?",
+        "options": ["Hosting Winter Olympics events", "Massive foreign (particularly Australian and Chinese) investment and tourism", "Japan's highest snowfall records", "Government-subsidised lift passes"],
+        "correct": 1,
+        "explanation": "Niseko became internationally famous through massive foreign investment — particularly Australian and more recently Chinese — transforming it into Japan's most internationally oriented ski resort."
+      }
+    },
+    {
+      "id": 42661,
+      "category": "Environmental",
+      "severity": "high",
+      "icon": "🏔️",
+      "title": "Shiretoko UNESCO World Heritage Regulations",
+      "subtitle": "Japan's most remote World Heritage site has strict access rules",
+      "fullDescription": "Shiretoko Peninsula (知床半島) — designated UNESCO World Natural Heritage in 2005 — has some of Japan's strictest wilderness access rules. The northern cape area (知床岬) is accessible only by sea in summer; no land trail exists. Brown bear encounters on trails require group hiking. Tour operators must hold prefecture licences. Drone flights are prohibited. The productive intersection of sea ice and forest ecosystems makes Shiretoko globally significant for brown bears, orcas, Steller's sea eagles, and salmon.",
+      "penalty": "Unauthorised access to restricted zones: fines up to ¥500,000; drone operation: up to ¥500,000",
+      "exceptions": ["Licensed research expeditions with advance approval"],
+      "source": "https://www.shiretoko.or.jp/",
+      "sourceLabel": "Shiretoko Nature Foundation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was Shiretoko designated as a UNESCO World Natural Heritage site?",
+        "options": ["1993", "1999", "2005", "2011"],
+        "correct": 2,
+        "explanation": "Shiretoko was inscribed as a UNESCO World Natural Heritage site in 2005, recognised for its exceptional marine-terrestrial ecosystem including sea ice habitat."
+      }
+    },
+    {
+      "id": 42662,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🍺",
+      "title": "Hokkaido Craft Beer and Alcohol Production",
+      "subtitle": "Micro-breweries require liquor manufacturing licence",
+      "fullDescription": "Hokkaido's thriving craft beer scene — centred on Sapporo, Otaru, and Furano — requires all breweries to hold a Beer Manufacturer's Licence (ビール製造免許) from the National Tax Agency. Minimum annual production thresholds apply (60 kilolitres for beer; reduced thresholds for happoshu and new genre drinks). Hokkaido's clean water and barley crops support both Sapporo Beer (founded 1876, Japan's oldest major brewery) and dozens of craft breweries.",
+      "penalty": "Unlicensed alcohol production: up to 5 years imprisonment or ¥500,000 fine + product confiscation",
+      "exceptions": ["Home brewing of sake/beer in quantities under 1% ABV for personal use only — legally ambiguous in practice"],
+      "source": "https://www.nta.go.jp/",
+      "sourceLabel": "National Tax Agency — Liquor Manufacturing Licence",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which major Japanese beer brand was founded in Hokkaido (Sapporo) in 1876?",
+        "options": ["Asahi", "Kirin", "Sapporo Beer", "Suntory"],
+        "correct": 2,
+        "explanation": "Sapporo Beer, founded in 1876, is Japan's oldest major brewery — established in Hokkaido during the Meiji period's northern development era."
+      }
+    },
+    {
+      "id": 42663,
+      "category": "Disaster Preparedness",
+      "severity": "high",
+      "icon": "🌋",
+      "title": "Volcanic Hazard Zones — Hokkaido",
+      "subtitle": "10 active volcanoes with restricted access zones",
+      "fullDescription": "Hokkaido has 10 active volcanoes including Meakan-dake (雌阿寒岳), Tokachi-dake (十勝岳), and Usu-zan (有珠山). The Japan Meteorological Agency issues volcanic alert levels (噴火警戒レベル 1–5); at Level 2 and above, entry to the crater zone is prohibited. Residents in Level 4 zones must evacuate. Usu-zan's 2000 eruption displaced 16,000 residents. Hokkaido's volcanic alert system and evacuation plans are among Japan's most sophisticated.",
+      "penalty": "Entering prohibited volcano crater zone: up to ¥100,000 fine; refusing evacuation order: fines under Disaster Countermeasures Basic Act",
+      "exceptions": ["Licensed volcanologists with JMA coordination", "Emergency services"],
+      "source": "https://www.jma.go.jp/",
+      "sourceLabel": "Japan Meteorological Agency — Volcanic Alerts",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many active volcanoes does Hokkaido have?",
+        "options": ["3", "6", "10", "15"],
+        "correct": 2,
+        "explanation": "Hokkaido has 10 active volcanoes — including Usu-zan, which last erupted in 2000 and displaced 16,000 residents."
+      }
+    },
+    {
+      "id": 42664,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Invasive Species Control — Giant Hogweed and Raccoons",
+      "subtitle": "Hokkaido battles multiple serious invasive species",
+      "fullDescription": "Hokkaido faces severe invasive species problems. North American raccoons (アライグマ), introduced as pets in the 1970s after an anime series made them popular, now number over 2 million and damage crops and historic buildings. Under the Invasive Alien Species Act (外来生物法), raccoons are designated as a specified invasive species — keeping them as pets is prohibited. Giant hogweed (オオハンゴンソウ) and other invasive plants must be controlled by landowners. Hokkaido culls over 100,000 raccoons annually.",
+      "penalty": "Keeping a raccoon as a pet: up to 3 years imprisonment or ¥3,000,000 fine",
+      "exceptions": ["Licensed wildlife rehabilitation facilities", "Research institutions with permits"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Invasive Alien Species Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What triggered the raccoon invasion problem in Hokkaido in the 1970s?",
+        "options": ["Deliberate release for fur farming", "Escapes from zoos", "An anime series ('Rascal the Raccoon') made them popular pets — many were released", "Accidental import via military bases"],
+        "correct": 2,
+        "explanation": "The 1977 anime 'Rascal the Raccoon' (あらいぐまラスカル) triggered a craze for raccoon pets in Japan — when owners couldn't manage adult raccoons, they released them into Hokkaido's wild."
+      }
+    },
+    {
+      "id": 42665,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "💴",
+      "title": "Hokkaido Regional Minimum Wage",
+      "subtitle": "Hokkaido's wage reflects its rural economy",
+      "fullDescription": "Hokkaido's regional minimum wage as of October 2024 is ¥1,010 per hour — lower than Tokyo (¥1,163) reflecting the prefecture's more rural, agricultural economy. Hokkaido's large seasonal workforce in tourism (ski season, summer tourism) and agriculture creates complex minimum wage compliance needs. The Labour Bureau's enforcement focuses on agricultural contractors, ski resort operators, and convenience store franchisees.",
+      "penalty": "Employers paying below minimum: fines up to ¥500,000",
+      "exceptions": ["Apprenticeships require Labour Bureau waiver application"],
+      "source": "https://jsite.mhlw.go.jp/hokkaido-roudoukyoku/",
+      "sourceLabel": "Hokkaido Labour Bureau — Minimum Wage",
+      "lastUpdated": "2024-10-01",
+      "quiz": {
+        "q": "How does Hokkaido's minimum wage compare to Tokyo's?",
+        "options": ["Equal to Tokyo", "About ¥150/hour lower than Tokyo", "Double Tokyo's rate", "There is no regional minimum in Hokkaido"],
+        "correct": 1,
+        "explanation": "Hokkaido's minimum wage (¥1,010) is approximately ¥150/hour lower than Tokyo's (¥1,163) — reflecting its more rural, agricultural economy."
+      }
+    },
+    {
+      "id": 42666,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🐟",
+      "title": "Illegal Fishing — Abalone and Sea Urchin Poaching",
+      "subtitle": "Hokkaido's premium seafood targeted by organised poaching rings",
+      "fullDescription": "Hokkaido is Japan's premier source of sea urchin (ウニ), abalone (アワビ), and king crab (タラバガニ). Organised poaching rings — sometimes with yakuza connections — illegally harvest these high-value species from marine protected areas. The Fishery Act (漁業法) provides strict penalties. Hokkaido Coast Guard and fishery officers patrol marine protected zones. Poached abalone is laundered through black-market channels and has appeared in illegal Chinese export operations.",
+      "penalty": "Commercial poaching: up to 3 years imprisonment or ¥30,000,000 fine; fishing in restricted waters: up to ¥3,000,000",
+      "exceptions": ["Licenced fishing cooperatives at permitted times and locations"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Fisheries Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which premium Hokkaido seafood is most targeted by organised poaching rings with yakuza connections?",
+        "options": ["Salmon", "Abalone (アワビ) and sea urchin (ウニ)", "King crab legs", "Scallops"],
+        "correct": 1,
+        "explanation": "Abalone and sea urchin from Hokkaido are prime poaching targets due to their high value — organised criminal networks harvest and export them illegally."
+      }
+    },
+    {
+      "id": 42667,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🌡️",
+      "title": "Cold Weather Emergency Welfare Checks",
+      "subtitle": "Hokkaido welfare law requires cold-weather elderly outreach",
+      "fullDescription": "Hokkaido records Japan's lowest winter temperatures (Asahikawa holds Japan's all-time low of -41°C). Under Hokkaido's Social Welfare Act implementation, municipalities must conduct welfare checks on elderly residents living alone when temperatures drop below designated thresholds. The Hokkaido Welfare Bureau coordinates with community volunteers (民生委員) for outreach. Cold-weather deaths (凍死) occur every winter — many of elderly residents found at home. Emergency heating assistance is available through municipal welfare offices.",
+      "penalty": "Municipalities failing in welfare duty: administrative accountability; no direct criminal penalty",
+      "exceptions": [],
+      "source": "https://www.pref.hokkaido.lg.jp/hf/",
+      "sourceLabel": "Hokkaido Welfare Bureau — Cold Weather Welfare",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Japan's all-time recorded low temperature, measured in Hokkaido?",
+        "options": ["-25°C", "-35°C", "-41°C", "-48°C"],
+        "correct": 2,
+        "explanation": "Asahikawa, Hokkaido recorded Japan's all-time low temperature of -41°C in January 1902 — illustrating the extreme cold that makes Hokkaido's winter welfare programmes critical."
+      }
+    },
+    {
+      "id": 42668,
+      "category": "Agriculture",
+      "severity": "low",
+      "icon": "🌸",
+      "title": "Lavender Farm Protection — Furano",
+      "subtitle": "Hokkaido's lavender fields protected as agricultural land",
+      "fullDescription": "Furano (富良野) and Biei (美瑛) in central Hokkaido are famous for lavender fields and patchwork hill farmland that attract millions of tourists. Under Hokkaido's Agricultural Land Act implementation, these farms cannot be converted to commercial development. Tourism activities on private farmland require landowner consent — trespassing into fields for photographs (damaging crops) is a civil tort and potentially criminal property damage. Several incidents of tourists entering and photographing in fields without permission have led to prosecution.",
+      "penalty": "Trespassing into private farmland and damaging crops: civil damages + potential criminal property damage charges",
+      "exceptions": ["Farm-gate tourism with landowner permission"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Agricultural Land Policy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which town in central Hokkaido is most famous for its lavender fields?",
+        "options": ["Otaru", "Noboribetsu", "Furano (富良野)", "Abashiri"],
+        "correct": 2,
+        "explanation": "Furano (富良野) in Hokkaido's Sorachi region is Japan's most famous lavender destination — attracting millions of visitors during the July bloom season."
+      }
+    },
+    {
+      "id": 42669,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🚢",
+      "title": "Sea of Japan Maritime Border Enforcement",
+      "subtitle": "Hokkaido waters patrolled against North Korean incursions",
+      "fullDescription": "Hokkaido's northern and western coasts face periodic illegal entry by North Korean fishing vessels and, historically, suspected spy operations. Japan Coast Guard (海上保安庁) patrols the Tsugaru Strait and Sea of Japan waters. The Law on Exclusion of Foreign Vessels from Japan's EEZ and the Immigration Control Act govern response to illegal maritime entry. North Korean vessels ('ghost ships' — 幽霊船) washing ashore on Hokkaido beaches have increased since 2017, containing human remains.",
+      "penalty": "Illegal entry by sea: up to 3 years imprisonment + deportation; maritime smuggling: up to 10 years",
+      "exceptions": ["Vessels in distress have right of innocent passage under UNCLOS"],
+      "source": "https://www.kaiho.mlit.go.jp/",
+      "sourceLabel": "Japan Coast Guard — Hokkaido Region",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What term describes the North Korean wooden boats that have increasingly washed ashore on Hokkaido beaches since 2017?",
+        "options": ["Refugee vessels", "Ghost ships (幽霊船)", "Spy boats", "Defector craft"],
+        "correct": 1,
+        "explanation": "Ghost ships (幽霊船) — North Korean wooden fishing vessels, often containing human remains — have increasingly washed ashore on Hokkaido beaches, believed to be from desperate deep-sea fishing operations."
+      }
+    },
+    {
+      "id": 42670,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Daisetsuzan National Park Access Rules",
+      "subtitle": "Japan's largest national park with wilderness zone rules",
+      "fullDescription": "Daisetsuzan National Park (大雪山国立公園) — Japan's largest national park at 2,267 km² — is managed under the Natural Parks Act (自然公園法) with strict zoning. The Special Protection Zone (特別保護地区) prohibits plant collection, off-trail camping, and vehicle access. The Wilderness Area within the park has Japan's most restrictive access rules — group sizes are capped, fires prohibited, and camping requires prior registration. The park is home to 250+ endemic or rare plant species.",
+      "penalty": "Plant collection in Special Protection Zone: up to 6 months imprisonment or ¥500,000 fine; off-trail camping without permit: fines up to ¥300,000",
+      "exceptions": ["Licensed scientific research with Ministry of Environment approval"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Daisetsuzan National Park",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the area of Daisetsuzan National Park — Japan's largest?",
+        "options": ["500 km²", "1,000 km²", "2,267 km²", "5,000 km²"],
+        "correct": 2,
+        "explanation": "Daisetsuzan National Park covers 2,267 km² — making it Japan's largest national park and home to the 'roof of Hokkaido' mountain range."
+      }
+    },
+    {
+      "id": 42671,
+      "category": "Public Transport",
+      "severity": "medium",
+      "icon": "🚆",
+      "title": "Hokkaido Shinkansen Extension Plans",
+      "subtitle": "Hakodate Shinkansen extension under construction",
+      "fullDescription": "The Hokkaido Shinkansen currently runs Shin-Hakodate-Hokuto to Tokyo (4h2m). The extension to Sapporo — approved and under construction — is targeted for 2030 completion, slated for the Sapporo Winter Olympics bid. Under the Shinkansen Network Development Act (全幹法), land acquisition along the route is subject to compulsory purchase powers. Existing local rail lines that parallel the Shinkansen route may be transferred from JR Hokkaido to local governments or face closure.",
+      "penalty": "Obstructing Shinkansen construction on compulsorily purchased land: civil + criminal contempt",
+      "exceptions": ["Heritage buildings along the route receive relocation rather than demolition where feasible"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Shinkansen Extension",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the target completion year for the Hokkaido Shinkansen extension to Sapporo?",
+        "options": ["2027", "2030", "2035", "2040"],
+        "correct": 1,
+        "explanation": "The Sapporo Shinkansen extension is targeted for 2030 completion — aligned with Sapporo's bid to host the Winter Olympics that year."
+      }
+    },
+    {
+      "id": 42672,
+      "category": "Tourism & Recreation",
+      "severity": "low",
+      "icon": "🦀",
+      "title": "Crab Season Regulations — Hairy Crab and King Crab",
+      "subtitle": "Hokkaido crab fishing tightly season-controlled",
+      "fullDescription": "Hokkaido's famous hairy crab (毛ガニ, kegani) and red king crab (タラバガニ) are subject to strict seasonal fishing controls under the Fishery Act and Hokkaido Fishing Cooperative (漁業協同組合) rules. Minimum size limits, fishing area restrictions, and seasonal closures protect breeding populations. Tourist restaurants in Sapporo's Nijo Market and Otaru must source from licensed wholesalers — mislabelling species origin is a violation of the Food Labelling Act.",
+      "penalty": "Fishing outside season or size limits: up to ¥3,000,000 fine; food labelling fraud for crab: up to 2 years imprisonment",
+      "exceptions": ["Scientific research catches with permit"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Fisheries Seasonal Controls",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Japanese name for Hokkaido's famous hairy crab?",
+        "options": ["Tarabagani", "Zuwaigani", "Kegani (毛ガニ)", "Hanasaki"],
+        "correct": 2,
+        "explanation": "Kegani (毛ガニ, hairy crab) is Hokkaido's most prized local crab species — its sweet, dense meat commands premium prices at Sapporo and Otaru markets."
+      }
+    },
+    {
+      "id": 42673,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🏳️‍🌈",
+      "title": "Sapporo Rainbow Pride and Partnership Scheme",
+      "subtitle": "Sapporo was Japan's first city to issue LGBT certificates (2017)",
+      "fullDescription": "Sapporo City became Japan's first major city to issue same-sex partnership certificates (パートナーシップ宣誓制度) in June 2017 — ahead of Tokyo (2022) and Osaka (2020). Sapporo Rainbow Pride is one of Japan's largest LGBT pride events. Hokkaido Prefecture followed with its own scheme in 2020. The Sapporo District Court ruled in March 2021 that the national ban on same-sex marriage was unconstitutional — the first such ruling in Japan.",
+      "penalty": "N/A — rights-granting provisions",
+      "exceptions": [],
+      "source": "https://www.city.sapporo.jp/",
+      "sourceLabel": "Sapporo City — Partnership Certificate",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What historic ruling did Sapporo District Court make in March 2021?",
+        "options": ["Ainu land rights must be restored", "The national ban on same-sex marriage is unconstitutional — Japan's first such ruling", "Foreign land ownership in Hokkaido must be restricted", "Compulsory Ainu language education in schools"],
+        "correct": 1,
+        "explanation": "Sapporo District Court ruled in March 2021 that Japan's ban on same-sex marriage is unconstitutional — the first court anywhere in Japan to make such a ruling."
+      }
+    },
+    {
+      "id": 42674,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🎆",
+      "title": "Sapporo Snow Festival Crowd Management",
+      "subtitle": "Japan's largest winter festival draws 2 million visitors",
+      "fullDescription": "The Sapporo Snow Festival (さっぽろ雪まつり), held in early February, attracts approximately 2 million visitors to Odori Park and the Susukino district. Hokkaido Prefectural Police and Sapporo City implement major traffic management, crowd flow controls, and temporary road closures. Snow and ice sculptures include JSDF-built giant structures — the JSDF's participation is governed by special public works authorisation. Drones are prohibited over the festival grounds.",
+      "penalty": "Drone in prohibited zone: up to ¥500,000; damage to snow sculptures (property): criminal property damage charges",
+      "exceptions": ["Official media drones with event management approval"],
+      "source": "https://www.snowfes.com/",
+      "sourceLabel": "Sapporo Snow Festival Executive Committee",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which Japanese organisation helps build the giant snow sculptures at the Sapporo Snow Festival?",
+        "options": ["Hokkaido University engineering students", "Japan Self-Defence Force (JSDF)", "Professional ice carvers from China", "Sapporo City Parks Department"],
+        "correct": 1,
+        "explanation": "The Japan Self-Defence Force (JSDF) constructs the largest snow sculptures at Sapporo Snow Festival — a tradition since 1955 that has become a JSDF public relations institution."
+      }
+    },
+    {
+      "id": 42675,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏠",
+      "title": "Hokkaido Akiya Crisis — Vacant Home Policy",
+      "subtitle": "Hokkaido has Japan's highest rural vacancy rates",
+      "fullDescription": "Hokkaido's rapid rural depopulation has created Japan's highest rural vacancy (akiya) rates — some small towns have 30–40% vacant housing. Under the 2023 Vacant House Special Measures Act, Hokkaido municipalities can designate dilapidated vacant homes for demolition. Many towns offer houses for ¥0 (free) or ¥1 with renovation obligations to attract new residents. The Hokkaido Government operates an Akiya Bank (空き家バンク) matchmaking service connecting vacant home owners with potential buyers.",
+      "penalty": "Owners of designated problem vacant homes: property tax reduction removed (effective 4× tax increase) + demolition orders",
+      "exceptions": ["Actively marketed or rented properties not subject to problem designation"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Vacant Home Policy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is an 'akiya bank' (空き家バンク) in Hokkaido?",
+        "options": ["A bank offering low-interest renovation loans", "A government matchmaking service connecting vacant home owners with potential buyers", "A trust fund for demolishing abandoned buildings", "A registry of condemned properties"],
+        "correct": 1,
+        "explanation": "An akiya bank (空き家バンク) is a government matchmaking platform connecting owners of vacant rural homes with people willing to buy, rent, or renovate them — used across rural Hokkaido."
+      }
+    },
+    {
+      "id": 42676,
+      "category": "Environmental",
+      "severity": "low",
+      "icon": "🌺",
+      "title": "Hokkaido Flower Tourism and Agricultural Rules",
+      "subtitle": "Farm flower fields open to tourism under specific rules",
+      "fullDescription": "Hokkaido's flower farms in Biei and Furano — famous for patchwork fields of sunflowers, canola, and lavender — increasingly open for agritourism under Hokkaido's Agricultural Management Act frameworks. Landowners set entry conditions; trespassing into crops for photos is prosecutable as property damage. The Hokkaido tourism board enforces a 'Maners of the Patchwork' (パッチワークのルール) code. Drone photography requires explicit landowner permission even for private recreational use.",
+      "penalty": "Crop damage from trespass: civil damages; property damage criminal charge if deliberate",
+      "exceptions": ["Designated viewing platforms and paths on farms with open-access signage"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture Tourism — Farm Etiquette",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the 'Patchwork Hills' (パッチワークの路) area near Biei, Hokkaido famous for?",
+        "options": ["Traditional Ainu textile weaving", "Rolling farm fields of different crops creating a colourful patchwork landscape", "A ski resort with colourful lift stations", "A traditional quilt-making craft village"],
+        "correct": 1,
+        "explanation": "Biei's Patchwork Hills (パッチワークの路) are rolling farm fields planted with different coloured crops — wheat, beet, potato, lavender — that create a natural patchwork of colours photographed worldwide."
+      }
+    },
+    {
+      "id": 42677,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "💊",
+      "title": "Hokkaido Stimulant Drug Enforcement",
+      "subtitle": "Cross-border trafficking via Hokkaido ports",
+      "fullDescription": "Hokkaido's proximity to Sakhalin (Russia) and the Kuril Islands makes it a potential entry point for drugs smuggled from Russia. Hokkaido Prefectural Police narcotics division and Japan Coast Guard coordinate interdiction. Stimulant drug seizures at Hokkaido ports have included methamphetamine shipments concealed in cargo from Russia. The Stimulants Control Act (覚醒剤取締法) applies with full force — trafficking from foreign entry points carries up to life imprisonment.",
+      "penalty": "Importing stimulants: up to life imprisonment; possession: up to 10 years",
+      "exceptions": [],
+      "source": "https://www.police.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefectural Police — Narcotics",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why is Hokkaido a particular concern for drug smuggling into Japan?",
+        "options": ["Its large port handles more cargo than Osaka", "Its proximity to Sakhalin (Russia) and the Kuril Islands creates smuggling routes", "Its large student population drives demand", "Its remote location reduces police presence"],
+        "correct": 1,
+        "explanation": "Hokkaido's proximity to Sakhalin and the contested Kuril Islands creates maritime smuggling routes from Russia — monitored jointly by Hokkaido police and Japan Coast Guard."
+      }
+    },
+    {
+      "id": 42678,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Sea Ice Tourism Regulation — Abashiri",
+      "subtitle": "Drift ice viewing vessels require maritime safety licences",
+      "fullDescription": "Abashiri (網走) on Hokkaido's Sea of Okhotsk coast hosts Japan's only drift ice (流氷) experience — sheets of sea ice drifting from the Amur River mouth in Siberia. The Aurora icebreaker tourist vessel requires Maritime Safety Act licences. Walking on sea ice is permitted in designated areas only — ice thickness must be certified daily by the Abashiri Tourism Association. Falling through sea ice into freezing water has caused fatalities; entry to uncertified ice is prohibited.",
+      "penalty": "Entering uncertified sea ice area: ¥50,000 fine under ordinance; vessel operating without licence: up to 1 year imprisonment",
+      "exceptions": ["Licensed drift ice walk guides during certified safe periods"],
+      "source": "https://www.city.abashiri.hokkaido.jp/",
+      "sourceLabel": "Abashiri City — Sea Ice Tourism Safety",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where does the drift ice that reaches Abashiri, Hokkaido originate?",
+        "options": ["Arctic Ocean via the Bering Sea", "The Amur River mouth in Siberia flowing into the Sea of Okhotsk", "Melting ice from the Kuril Islands", "Broken-off Arctic ice sheets"],
+        "correct": 1,
+        "explanation": "Hokkaido's drift ice originates from fresh water discharged by the Amur River in Siberia — it freezes in the Sea of Okhotsk and drifts south to reach Abashiri each January–March."
+      }
+    },
+    {
+      "id": 42679,
+      "category": "Public Health",
+      "severity": "low",
+      "icon": "🧊",
+      "title": "Frozen Food Safety Standards",
+      "subtitle": "Hokkaido's frozen food industry under strict hygiene laws",
+      "fullDescription": "Hokkaido is Japan's leading producer of frozen processed foods — supplying konbini chains and supermarkets nationwide. The Food Sanitation Act (食品衛生法) and Frozen Food Association standards require continuous cold chain maintenance from production through distribution. Thawing and refreezing is prohibited in commercial distribution. The 2013 Maruha Nichiro frozen food contamination incident (involving pesticide-contaminated gyoza produced in Hokkaido) led to strengthened internal contamination detection requirements.",
+      "penalty": "Cold chain violations: fines up to ¥3,000,000; deliberate contamination: criminal charges + recall costs",
+      "exceptions": ["Consumer purchase and home freezing is outside commercial regulation"],
+      "source": "https://www.mhlw.go.jp/",
+      "sourceLabel": "Ministry of Health — Food Sanitation Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What 2013 food safety incident linked to Hokkaido led to stronger contamination detection requirements?",
+        "options": ["E. coli in raw milk from Hokkaido dairy", "Pesticide-contaminated frozen gyoza at Maruha Nichiro", "Salmonella in Hokkaido salmon sashimi", "Foreign object contamination in Hokkaido potato chips"],
+        "correct": 1,
+        "explanation": "The 2013 Maruha Nichiro incident — pesticide (malathion) found in frozen gyoza produced at a Hokkaido plant — prompted industry-wide contamination detection upgrades."
+      }
+    },
+    {
+      "id": 42680,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏔️",
+      "title": "Hokkaido Development Agency Subsidies",
+      "subtitle": "Special national subsidies for Hokkaido's development",
+      "fullDescription": "Hokkaido operates under the Hokkaido Development Act (北海道開発法, 1950) — unique among Japan's prefectures in having a dedicated national development programme. The Hokkaido Development Bureau (北海道開発局) under the Ministry of Land manages significant public works investment (roads, ports, flood control) exceeding ¥2 trillion in cumulative post-war investment. This creates a unique governance overlap between prefecture and national government with additional transparency obligations.",
+      "penalty": "Misuse of Hokkaido Development subsidies: clawback + criminal fraud charges",
+      "exceptions": ["Standard national public works grant rules apply"],
+      "source": "https://www.hkd.mlit.go.jp/",
+      "sourceLabel": "Hokkaido Development Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes Hokkaido unique among Japanese prefectures in terms of national government support?",
+        "options": ["It receives the highest per-capita disaster relief", "It has a dedicated national Hokkaido Development Act and Development Bureau", "It is the only prefecture allowed to levy its own income tax", "It has a special US military basing agreement"],
+        "correct": 1,
+        "explanation": "Hokkaido has a unique Hokkaido Development Act (1950) and dedicated national Development Bureau — reflecting the Meiji government's vision of Hokkaido as Japan's northern frontier requiring special development."
+      }
+    },
+    {
+      "id": 42681,
+      "category": "Tourism & Recreation",
+      "severity": "medium",
+      "icon": "♨️",
+      "title": "Noboribetsu Onsen Environmental Protection",
+      "subtitle": "Hot spring source water protected from over-extraction",
+      "fullDescription": "Noboribetsu (登別) — Hokkaido's most famous onsen resort — is managed under the Hot Springs Act (温泉法) which requires registration for commercial hot spring use and prohibits extraction that threatens the source. The 'Hell Valley' (地獄谷) geothermal area is a prefectural natural monument where development is strictly prohibited. The dramatic volcanic landscape and sulphurous pools are protected under both the Natural Parks Act and cultural property law.",
+      "penalty": "Unlicensed hot spring extraction: fines up to ¥1,000,000; development in protected geothermal zone: demolition orders",
+      "exceptions": ["Existing licenced establishments with extraction rights maintain their status"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Hot Springs Act Implementation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What dramatic natural feature is the centrepiece of Noboribetsu's geothermal protection area?",
+        "options": ["A sacred mountain crater lake", "The 'Hell Valley' (地獄谷) — sulphurous volcanic pools and steam vents", "Japan's deepest hot spring well", "An active geyser field"],
+        "correct": 1,
+        "explanation": "The 'Hell Valley' (地獄谷) — Noboribetsu's dramatic volcanic depression of boiling sulphurous pools and steam vents — is a protected natural monument at the heart of the resort."
+      }
+    },
+    {
+      "id": 42682,
+      "category": "Criminal Law",
+      "severity": "medium",
+      "icon": "🦌",
+      "title": "Ezo Deer Hunting and Population Control",
+      "subtitle": "Ezo sika deer overpopulation requires active management",
+      "fullDescription": "Hokkaido's Ezo sika deer (エゾシカ) population has grown to approximately 680,000 — causing severe agricultural damage (¥6 billion/year) and traffic accidents. The prefecture issues hunting licences and operates subsidised culling programmes. Under the Wildlife Protection Act, hunters must hold a Hokkaido game licence, use approved weapons, and report harvests. Venison from culled deer is processed under a Hokkaido-specific food safety framework (エゾシカ衛生ガイドライン) and sold commercially.",
+      "penalty": "Unlicensed deer hunting: up to 1 year imprisonment or ¥1,000,000 fine; out-of-season hunting: same penalties",
+      "exceptions": ["Farmers may shoot deer damaging crops under damage prevention permits"],
+      "source": "https://www.pref.hokkaido.lg.jp/ks/skn/sika/",
+      "sourceLabel": "Hokkaido Prefecture — Ezo Deer Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how much agricultural damage do Ezo sika deer cause in Hokkaido annually?",
+        "options": ["¥500 million", "¥2 billion", "¥6 billion", "¥15 billion"],
+        "correct": 2,
+        "explanation": "Hokkaido's Ezo sika deer population (approximately 680,000) causes approximately ¥6 billion in agricultural damage annually — driving major hunting and culling programmes."
+      }
+    },
+    {
+      "id": 42683,
+      "category": "Education",
+      "severity": "low",
+      "icon": "🎓",
+      "title": "Hokkaido University — Research Governance",
+      "subtitle": "Hokkaido University governs research in Japan's northernmost imperial university",
+      "fullDescription": "Hokkaido University (北海道大学, Hokudai) — founded as Sapporo Agricultural College in 1876 under American agricultural scientist W.S. Clark ('Boys be ambitious!') — is one of Japan's eight imperial universities. Its Research Institute for Electronic Science, veterinary faculty (ranked among Asia's best), and agricultural sciences operate under the University Act and research ethics frameworks. The university's vast 177-hectare campus includes a designated historic landscape (ポプラ並木) protected under Sapporo City ordinance.",
+      "penalty": "Research misconduct: retraction, dismissal, and potential criminal fraud charges if funding was misused",
+      "exceptions": [],
+      "source": "https://www.hokudai.ac.jp/",
+      "sourceLabel": "Hokkaido University — Official Site",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What famous exhortation did American agricultural advisor W.S. Clark leave Hokkaido University students in 1877?",
+        "options": ["'Work hard, achieve more'", "'Boys be ambitious!'", "'Knowledge is power'", "'Serve Hokkaido, serve Japan'"],
+        "correct": 1,
+        "explanation": "'Boys, be ambitious!' (少年よ、大志を抱け) — W.S. Clark's farewell words to Hokkaido University students in 1877 — became one of Japan's most famous motivational phrases."
+      }
+    },
+    {
+      "id": 42684,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "💧",
+      "title": "Hokkaido Groundwater Protection",
+      "subtitle": "Aquifer protection for Japan's largest groundwater resource",
+      "fullDescription": "Hokkaido holds Japan's largest groundwater aquifer systems — supplying agriculture, industry, and drinking water for 5 million residents. Under the Water Pollution Prevention Act and Hokkaido's own Groundwater Conservation Ordinance, extraction volumes must be registered for large users, and pollution of aquifer zones (by agricultural chemicals, industrial waste, or landfill) is strictly prohibited. The Tokachi Plain aquifer is particularly critical for potato and beet agriculture.",
+      "penalty": "Aquifer pollution causing contamination: up to 1 year imprisonment or ¥1,000,000 fine; illegal large-scale extraction without registration: administrative fines",
+      "exceptions": ["Small-scale private well users below volume thresholds"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Groundwater Conservation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which Hokkaido plain has particularly critical groundwater resources supporting potato and sugar beet farming?",
+        "options": ["Ishikari Plain", "Tokachi Plain", "Konsen Plateau", "Yufutsu Plain"],
+        "correct": 1,
+        "explanation": "The Tokachi Plain in eastern Hokkaido is Japan's premier potato and sugar beet growing region — its groundwater aquifer is critical to agricultural production worth tens of billions of yen annually."
+      }
+    },
+    {
+      "id": 42685,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🐄",
+      "title": "BSE Testing — Cattle Health Regulations",
+      "subtitle": "All Hokkaido cattle slaughtered undergo BSE screening",
+      "fullDescription": "Following Japan's BSE (bovine spongiform encephalopathy) crisis of the early 2000s, all cattle slaughtered in Japan undergo mandatory ante-mortem and post-mortem inspection under the Food Safety Basic Act. Hokkaido — producing approximately 60% of Japan's beef cattle — has the highest volume of BSE testing in the country. Testing is conducted by prefectural food hygiene inspectors at all registered slaughterhouses. Japan was classified as 'negligible BSE risk' by the OIE in 2013.",
+      "penalty": "Slaughterhouse failing to conduct mandatory BSE testing: closure orders + criminal liability for operators",
+      "exceptions": ["Cattle under 30 months no longer require BSE testing under revised 2013 rules"],
+      "source": "https://www.maff.go.jp/",
+      "sourceLabel": "Ministry of Agriculture — BSE Control Programme",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What OIE (World Organisation for Animal Health) BSE classification did Japan achieve in 2013?",
+        "options": ["Controlled BSE risk", "Negligible BSE risk", "BSE-free status", "Under active monitoring"],
+        "correct": 1,
+        "explanation": "Japan achieved 'negligible BSE risk' classification from the OIE in 2013 — the highest standard — following a decade of intensive testing and feed controls after its 2001 BSE crisis."
+      }
+    },
+    {
+      "id": 42686,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "💹",
+      "title": "Hokkaido Tourism Tax",
+      "subtitle": "Niseko area destination marketing fee",
+      "fullDescription": "Following Tokyo and Kyoto, several Hokkaido municipalities including Kutchan (倶知安町) — the base town for Niseko ski resorts — introduced accommodation taxes (宿泊税) in 2019. Kutchan's fee is ¥2,000 per person per night for accommodation over ¥15,000 — one of Japan's highest per-night accommodation taxes. Revenue funds infrastructure, waste management, and multilingual services required by the overwhelming foreign tourist influx. The tax has been controversial with resort operators.",
+      "penalty": "Accommodation operators not collecting/remitting tax: back-assessment + 15% penalty surcharge",
+      "exceptions": ["Long-stay residents (30+ days)", "Children under 12"],
+      "source": "https://www.town.kutchan.hokkaido.jp/",
+      "sourceLabel": "Kutchan Town — Accommodation Tax",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Kutchan (Niseko area) accommodation tax for stays over ¥15,000 per night?",
+        "options": ["¥200", "¥500", "¥1,000", "¥2,000"],
+        "correct": 3,
+        "explanation": "Kutchan's accommodation tax is ¥2,000 per person per night for stays over ¥15,000 — one of Japan's highest, reflecting the premium nature of Niseko's international ski resort market."
+      }
+    },
+    {
+      "id": 42687,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🏒",
+      "title": "Ice Hockey and Winter Sport Facility Safety",
+      "subtitle": "Hokkaido's ice rinks under specific safety standards",
+      "fullDescription": "Hokkaido has Japan's highest concentration of ice hockey rinks and speed skating ovals — Sapporo hosted the 1972 Winter Olympics. Public skating facilities operate under the Building Standards Act and Sport Facility Safety Act. Helmet requirements for youth ice hockey are mandated by Japan Ice Hockey Federation rules (backed by local safety ordinances). The Makomanai Ice Arena and other Olympic legacy venues require maintenance funding under Sapporo City's sports facility management.",
+      "penalty": "Facility safety violations: closure orders + fines; liability for injuries from defective facilities: civil tort",
+      "exceptions": ["Private backyard skating on natural ice (residential ponds) minimal regulation"],
+      "source": "https://www.city.sapporo.jp/",
+      "sourceLabel": "Sapporo City — Sports Facilities",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What landmark winter sports event did Sapporo host in 1972?",
+        "options": ["Winter Asian Games", "1972 Winter Olympics", "World Ice Hockey Championship", "Nordic World Ski Championships"],
+        "correct": 1,
+        "explanation": "Sapporo hosted the 1972 Winter Olympics — the first Winter Games in Asia, and the catalyst for much of Hokkaido's winter sports infrastructure."
+      }
+    },
+    {
+      "id": 42688,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "⚖️",
+      "title": "Northern Territories (Kuril Islands) Dispute",
+      "subtitle": "Japanese nationals prohibited from visiting without government approval",
+      "fullDescription": "Japan claims sovereignty over the four southernmost Kuril Islands (北方領土 — Etorofu, Kunashiri, Shikotan, Habomai) occupied by Russia since 1945. Under Japan's position, Japanese nationals cannot visit these islands via Russia as doing so implies acceptance of Russian jurisdiction. A 'visa-free exchange' programme for former Japanese residents was suspended after Russia's 2022 Ukraine invasion. Hokkaido prefectural government maintains active Northern Territories return advocacy programmes.",
+      "penalty": "Visiting Northern Territories via Russia without Japanese government approval: no direct criminal penalty but strong administrative/diplomatic discouragement; commercial activity implies recognition of Russian sovereignty",
+      "exceptions": ["Former residents with special humanitarian permission"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Northern Territories Policy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What are the four islands Japan calls the 'Northern Territories' (北方領土)?",
+        "options": ["Sakhalin, Hokkaido, Iturup, Kunashir", "Etorofu, Kunashiri, Shikotan, and the Habomai islets", "The entire Kuril island chain", "Rebun, Rishiri, Okushiri, and Teuri"],
+        "correct": 1,
+        "explanation": "Japan's Northern Territories claim covers four island groups: Etorofu (Iturup), Kunashiri (Kunashir), Shikotan, and the Habomai islets — occupied by Soviet/Russian forces since August 1945."
+      }
+    },
+    {
+      "id": 42689,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌲",
+      "title": "Hokkaido Forest Management — 60% Forest Cover",
+      "subtitle": "Hokkaido's forests governed by Forest Act and harvest plans",
+      "fullDescription": "Approximately 60% of Hokkaido is forested — Japan's highest proportion among prefectures. The Forestry Agency manages national forests; private forests require 10-year management plans under the Forest Act (森林法). Clear-cutting of slopes over 30° gradient is prohibited to prevent landslides. Post-2016 Hokkaido Iburi earthquake (震度7, Sept 2018) landslides devastated forests and triggered stricter slope-stability standards for forest management operations.",
+      "penalty": "Illegal clear-cutting: up to 1 year imprisonment or ¥1,000,000 fine + reforestation order",
+      "exceptions": ["Emergency wind-throw or fire salvage operations with immediate notification"],
+      "source": "https://www.rinya.maff.go.jp/",
+      "sourceLabel": "Forestry Agency — Hokkaido Regional Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Hokkaido's land area is forested?",
+        "options": ["30%", "45%", "60%", "80%"],
+        "correct": 2,
+        "explanation": "Approximately 60% of Hokkaido is forested — the highest proportion of any Japanese prefecture — supporting major timber, paper, and biomass energy industries."
+      }
+    },
+    {
+      "id": 42690,
+      "category": "Consumer Protection",
+      "severity": "low",
+      "icon": "🧀",
+      "title": "Hokkaido Dairy Product Origin Labelling",
+      "subtitle": "Premium Hokkaido dairy branding protected",
+      "fullDescription": "Hokkaido's premium dairy products (butter, cheese, fresh cream, ice cream) command price premiums nationally. Under the Food Labelling Act and Unfair Competition Prevention Act, products cannot claim 'Hokkaido' origin unless the ingredients originate in Hokkaido. The Consumer Affairs Agency has investigated products mixing mainland and Hokkaido milk but labelling as purely Hokkaido. Hokkaido Butter and Hokkaido Brie-style cheese from specific dairies have informal GI-equivalent recognition.",
+      "penalty": "False Hokkaido origin labelling: up to 2 years imprisonment or ¥2,000,000 fine",
+      "exceptions": ["'Hokkaido-style' recipes without false origin claims"],
+      "source": "https://www.caa.go.jp/",
+      "sourceLabel": "Consumer Affairs Agency — Dairy Labelling",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What protects consumers from dairy products falsely claiming 'Hokkaido' origin?",
+        "options": ["A government Hokkaido Dairy Certification Board", "Food Labelling Act + Unfair Competition Prevention Act false origin provisions", "A Hokkaido voluntary seal system only", "There are no legal protections — it is voluntary"],
+        "correct": 1,
+        "explanation": "False 'Hokkaido origin' claims on dairy products violate both the Food Labelling Act and Unfair Competition Prevention Act — enforceable by the Consumer Affairs Agency."
+      }
+    },
+    {
+      "id": 42691,
+      "category": "Public Transport",
+      "severity": "medium",
+      "icon": "🚂",
+      "title": "JR Hokkaido Rural Line Closures",
+      "subtitle": "Depopulation forcing closure of unprofitable rail lines",
+      "fullDescription": "JR Hokkaido has closed or proposed closure of numerous rural rail lines due to severe passenger decline from depopulation. Under the Railway Business Act (鉄道事業法), operators must notify the Minister of Land 1 year before closing a line. Hokkaido's Nemuro, Sekihoku, and Furano-Shintoku lines are all under review. Municipal governments oppose closures as rail is the only transport for elderly residents without cars. The national government provides transitional subsidies but cannot compel operation of loss-making routes.",
+      "penalty": "Operating a rail line without safety certification: immediate service suspension; abandoning a line without proper notification: administrative penalties",
+      "exceptions": ["Tourist-only seasonal lines have modified operational requirements"],
+      "source": "https://www.jrhokkaido.co.jp/",
+      "sourceLabel": "JR Hokkaido — Network Review",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why is JR Hokkaido closing many rural rail lines?",
+        "options": ["High-speed rail replacement", "Severe passenger decline due to depopulation making lines unviable", "Government policy to shift to bus transport", "Earthquake damage to track infrastructure"],
+        "correct": 1,
+        "explanation": "JR Hokkaido's rural line closures are driven by severe depopulation — many lines carry fewer than 200 passengers per day, making them economically impossible to maintain without full subsidy."
+      }
+    },
+    {
+      "id": 42692,
+      "category": "Agriculture",
+      "severity": "low",
+      "icon": "🥔",
+      "title": "Hokkaido Potato and Sugar Beet Production Rules",
+      "subtitle": "Hokkaido produces virtually all of Japan's sugar beet",
+      "fullDescription": "Hokkaido produces nearly 100% of Japan's sugar beet (テンサイ) and approximately 80% of its potatoes (じゃがいも). These crops are governed by crop rotation requirements under the Soil Preservation Act and Hokkaido's own agricultural guidelines to prevent nematode buildup. Potatoes for seed use (種芋) require plant health certification and cannot be moved between prefectures without inspection. Hokkaido's Tokachi region is the centre of both industries.",
+      "penalty": "Moving uncertified seed potatoes across prefectural borders: up to ¥1,000,000 fine under Plant Protection Act",
+      "exceptions": ["Certified seed potato producers with phytosanitary certificates"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Agricultural Production",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately what percentage of Japan's sugar beet does Hokkaido produce?",
+        "options": ["50%", "70%", "Nearly 100%", "30%"],
+        "correct": 2,
+        "explanation": "Hokkaido produces nearly 100% of Japan's sugar beet — virtually the entire domestic supply of this cold-climate crop used to produce granulated white sugar."
+      }
+    },
+    {
+      "id": 42693,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🔥",
+      "title": "Forest Fire Prevention — Burn Bans",
+      "subtitle": "Hokkaido's dry springs create extreme wildfire risk",
+      "fullDescription": "Hokkaido's springs are characterised by dry, windy conditions before vegetation greens up — creating high wildfire risk. The Forest Act and Fire Services Act prohibit open burning near forested areas during designated fire prevention periods (typically March–May). Campfires are restricted to designated areas in national and quasi-national parks. Hokkaido sees Japan's most serious wildfires — including the 2004 Shiretoko fire that burned 1,700 hectares of UNESCO World Heritage forest.",
+      "penalty": "Negligent forest fire starting: up to 3 years imprisonment; deliberate arson of forest: up to life imprisonment",
+      "exceptions": ["Traditional controlled burns (野焼き) by farmers with advance fire department notification"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Forestry Department — Fire Prevention",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When is Hokkaido's highest wildfire risk period, requiring burn bans?",
+        "options": ["July–August (peak summer heat)", "October–November (dry autumn)", "March–May (dry spring before vegetation greens)", "December–January (frozen conditions paradoxically low risk)"],
+        "correct": 2,
+        "explanation": "Hokkaido's highest wildfire risk is March–May — dry, windy spring conditions before vegetation greens up create ideal fire conditions, similar to Australia's fire season dynamics."
+      }
+    },
+    {
+      "id": 42694,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🏨",
+      "title": "Hokkaido Ryokan Onsen Water Quality",
+      "subtitle": "Hot spring water must meet certified mineral content standards",
+      "fullDescription": "Hokkaido's 250+ hot spring (onsen) resorts must certify their water under the Hot Springs Act (温泉法). 'Onsen' designation requires meeting specific temperature (above 25°C) or mineral content thresholds. Resorts diluting, reheating, or adding additives to onsen water must disclose this clearly. A national scandal in 2004 revealed many 'onsens' were actually heated tap water — leading to mandatory disclosure regulations. Hokkaido's onsen monitoring is conducted by prefectural public health inspectors.",
+      "penalty": "False onsen certification or undisclosed additives: up to 6 months imprisonment or ¥1,000,000 fine",
+      "exceptions": ["Disclosed loop-heated or partially diluted springs labelled accurately"],
+      "source": "https://www.pref.hokkaido.lg.jp/hf/",
+      "sourceLabel": "Hokkaido Health Bureau — Hot Springs Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum temperature must a natural spring water source reach to qualify as 'onsen' in Japan?",
+        "options": ["15°C", "20°C", "25°C", "35°C"],
+        "correct": 2,
+        "explanation": "Japan's Hot Springs Act requires source water to be at least 25°C (or meet mineral content criteria) to qualify as certified onsen — any lower temperature source requires alternative certification."
+      }
+    },
+    {
+      "id": 42695,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🦭",
+      "title": "Spotted Seal and Marine Mammal Protection",
+      "subtitle": "Hokkaido's coastal seals protected under wildlife law",
+      "fullDescription": "Spotted seals (ゴマフアザラシ) haul out on Hokkaido's Sea of Okhotsk coast, particularly around Mombetsu and the Notsuke Peninsula. Under the Wildlife Protection Act, approaching seals is prohibited within 30 metres at designated haul-out sites. Fishers who accidentally kill or injure seals must report to the prefecture. Seals consuming fish from aquaculture nets may be deterred but not deliberately killed. Hokkaido's Akkeshi and Notsuke lagoon areas are critical marine mammal habitats.",
+      "penalty": "Deliberate killing of spotted seal: up to 1 year imprisonment or ¥1,000,000 fine; approaching within prohibited distance: fines up to ¥50,000",
+      "exceptions": ["Licensed scientific research", "Accidental bycatch with immediate reporting"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Marine Mammal Protection",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the minimum approach distance prohibited near spotted seal haul-out sites in Hokkaido?",
+        "options": ["10 metres", "20 metres", "30 metres", "50 metres"],
+        "correct": 2,
+        "explanation": "Approaching spotted seals within 30 metres at designated Hokkaido haul-out sites is prohibited — protecting them from human disturbance during rest and pupping periods."
+      }
+    },
+    {
+      "id": 42696,
+      "category": "Tourism & Recreation",
+      "severity": "low",
+      "icon": "🌌",
+      "title": "Dark Sky Preservation — Hokkaido Stargazing Sites",
+      "subtitle": "Hokkaido has Japan's darkest skies — light pollution rules apply",
+      "fullDescription": "Hokkaido's vast rural areas, particularly Shikaoi (鹿追町), Nakatombetsu, and the Konsen Plateau, have some of Japan's darkest night skies. Shikaoi was designated Japan's first 'Star Village' (星の村) in 2019. Under Hokkaido's rural landscape ordinances and specific star village designations, new commercial outdoor lighting must be directed downward (full cutoff fixtures). These designations are voluntary but carry tourism promotion benefits linked to compliance.",
+      "penalty": "Violations of star village lighting ordinances: administrative guidance; persistent non-compliance: loss of designation",
+      "exceptions": ["Safety-required road lighting with approved shielding"],
+      "source": "https://www.town.shikaoi.lg.jp/",
+      "sourceLabel": "Shikaoi Town — Star Village Designation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What was significant about Shikaoi Town (鹿追町) in Hokkaido in 2019?",
+        "options": ["It became Japan's first smart city", "It was designated Japan's first 'Star Village' for dark sky preservation", "It won Japan's cleanest town award", "It became the first town to ban all diesel vehicles"],
+        "correct": 1,
+        "explanation": "Shikaoi Town was designated Japan's first 'Star Village' (星の村) in 2019 — recognising its exceptional dark skies and commitment to light pollution control."
+      }
+    },
+    {
+      "id": 42697,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Sapporo Winter Olympics 2030 Bid Infrastructure",
+      "subtitle": "Planned Olympic spending subject to procurement law",
+      "fullDescription": "Sapporo bid for the 2030 Winter Olympics before the IOC deferred the decision amid local opposition and governance concerns (Sapporo shifted focus to 2034). The bid involved ¥300–500 billion in planned infrastructure including Shinkansen extension, venue upgrades, and athlete village construction. All Olympic-related procurement must comply with the Government Procurement Act (政府調達法) and anti-corruption provisions. Post-Tokyo 2020 bribery scandals led to strengthened procurement oversight requirements.",
+      "penalty": "Olympic contract bid-rigging: up to 5 years imprisonment under Anti-Monopoly Act; bribery: up to 7 years",
+      "exceptions": [],
+      "source": "https://www.city.sapporo.jp/",
+      "sourceLabel": "Sapporo City — Olympic Bid Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What caused increased procurement scrutiny on the Sapporo Winter Olympics bid?",
+        "options": ["Previous Sapporo 1972 cost overruns", "Environmental protests against mountain venue development", "Bribery scandals from the Tokyo 2020 Olympics procurement", "IOC requirements following FIFA corruption investigations"],
+        "correct": 2,
+        "explanation": "Tokyo 2020 Olympics procurement bribery scandals — resulting in multiple executive arrests — triggered demands for much stricter anti-corruption oversight of any future Japanese Olympic bid."
+      }
+    },
+    {
+      "id": 42698,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🪶",
+      "title": "Ainu Language Revitalisation Programme",
+      "subtitle": "Ainu language now supported by law for first time",
+      "fullDescription": "The 2019 Ainu Promotion Act mandated government support for Ainu language (アイヌ語) revitalisation — a language with fewer than 10 fully fluent native speakers remaining. Hokkaido Prefecture operates Ainu language classes, produces educational materials, and funds the Upopoy National Ainu Museum (ウポポイ) in Shiraoi as a living cultural centre. NHK broadcasts Ainu language radio programmes. The language is now taught in some Hokkaido public schools for the first time.",
+      "penalty": "N/A — support-based programme; discrimination against Ainu language users may trigger civil remedies",
+      "exceptions": [],
+      "source": "https://www.pref.hokkaido.lg.jp/ks/ass/",
+      "sourceLabel": "Hokkaido Prefecture — Ainu Culture Promotion",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many fully fluent native Ainu language speakers remain?",
+        "options": ["Under 10", "Around 100", "Around 1,000", "Around 10,000"],
+        "correct": 0,
+        "explanation": "Fewer than 10 fully fluent native Ainu language speakers remain — making it one of the world's most critically endangered languages and the target of urgent revitalisation efforts."
+      }
+    },
+    {
+      "id": 42699,
+      "category": "Environmental",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Hokkaido Earthquake and Tsunami Preparedness",
+      "subtitle": "Hokkaido faces Kuril Trench megaquake tsunami risk",
+      "fullDescription": "A magnitude 8–9 Kuril Trench earthquake (千島海溝地震) — with estimated 7–40% probability in the next 30 years — could generate tsunamis reaching 20+ metres on Hokkaido's Pacific coast within minutes. The 2003 Tokachi-oki earthquake (M8.0) generated a 4-metre tsunami. Hokkaido's coastal municipalities have invested in elevated evacuation towers, vertical evacuation buildings, and early-warning system upgrades. All coastal buildings must display tsunami hazard zone maps.",
+      "penalty": "Refusing evacuation orders during tsunami warning: fines under Disaster Countermeasures Basic Act; construction in tsunami inundation zone without compliance: planning refusal",
+      "exceptions": ["Emergency services remain to conduct rescue"],
+      "source": "https://www.pref.hokkaido.lg.jp/bousai/",
+      "sourceLabel": "Hokkaido Prefecture — Tsunami Preparedness",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What massive earthquake source threatens Hokkaido's Pacific coast with potential 20+ metre tsunamis?",
+        "options": ["Nankai Trough (same as Osaka's risk)", "Sagami Trough near Tokyo", "Kuril Trench (千島海溝) off eastern Hokkaido", "Japan Sea fault zone"],
+        "correct": 2,
+        "explanation": "The Kuril Trench (千島海溝) off Hokkaido's Pacific coast is the source of the anticipated megaquake — capable of generating 20+ metre tsunamis on Hokkaido's eastern coastline."
+      }
+    },
+    {
+      "id": 42700,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🦀",
+      "title": "Hakodate Morning Market Vendor Rules",
+      "subtitle": "Famous seafood market has hygiene and pricing conduct rules",
+      "fullDescription": "Hakodate's Asaichi (函館朝市) morning market — one of Japan's three great morning markets — operates under Hakodate City's market management rules and the Food Sanitation Act. Vendors must hold food handling certificates. The market is famous for 'ikura-don' (salmon roe rice) and live squid — but tourist-targeted pricing practices have drawn Consumer Affairs Agency guidance on transparent price display. Live seafood 'catch your own' tanks must meet animal welfare handling standards.",
+      "penalty": "Unlicensed food vending: fines up to ¥500,000; deceptive pricing: cease-and-desist; animal welfare violations: administrative guidance",
+      "exceptions": ["Approved festival stalls during Hakodate Harbor Festival"],
+      "source": "https://www.hakodateasaichi.com/",
+      "sourceLabel": "Hakodate Morning Market Association",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Hakodate's 朝市 (asaichi)?",
+        "options": ["A famous fish auction visible to tourists", "A morning market — one of Japan's three great markets — selling fresh Hokkaido seafood", "A street food festival held weekly", "A harbour-side restaurant district"],
+        "correct": 1,
+        "explanation": "Hakodate Asaichi (函館朝市) is one of Japan's three great morning markets — selling fresh seafood including live squid, crab, and roe-topped rice bowls to tourists and locals."
+      }
+    },
+    {
+      "id": 42701,
+      "category": "Public Health",
+      "severity": "low",
+      "icon": "🌿",
+      "title": "Hokkaido Wild Plant Foraging Rules",
+      "subtitle": "Collecting mountain vegetables regulated in parks",
+      "fullDescription": "Hokkaido's forests yield prized wild mountain vegetables (山菜, sansai) including fiddlehead ferns (ワラビ), butterbur (フキ), and wild garlic (行者ニンニク). Collection for personal use is generally tolerated on public land but prohibited in national and quasi-national park Special Protection Zones. Commercial harvesting requires forestry management agreements. Wild garlic resembles toxic lily-of-the-valley — Hokkaido poison control receives annual calls from foragers who misidentify species.",
+      "penalty": "Commercial foraging without agreement: fines; collection in protected zones: up to ¥500,000",
+      "exceptions": ["Small quantities for personal consumption on non-protected public forest land"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Mountain Vegetable Foraging Rules",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What dangerous misidentification risk affects Hokkaido wild garlic (行者ニンニク) foragers?",
+        "options": ["Confusion with poisonous mushrooms growing nearby", "Resemblance to toxic lily-of-the-valley leaves", "Misidentification with toxic rhubarb varieties", "Confusion with hemlock young shoots"],
+        "correct": 1,
+        "explanation": "Hokkaido's prized wild garlic (行者ニンニク) closely resembles toxic lily-of-the-valley (スズラン) — accidental harvest and consumption causes poisoning, prompting annual Hokkaido poison control warnings."
+      }
+    },
+    {
+      "id": 42702,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏪",
+      "title": "Hokkaido Cooperative Store System",
+      "subtitle": "Co-op Sapporo dominates Hokkaido retail under Cooperative Act",
+      "fullDescription": "Co-op Sapporo (コープさっぽろ) is Hokkaido's dominant grocery retailer and one of Japan's largest consumer cooperatives with over 1.9 million members. It operates under the Consumer Co-operative Society Act (消費生活協同組合法) rather than the Companies Act, with different governance and profit-distribution rules — surpluses are returned to members as dividends. Membership requires a share purchase (出資金). Its food delivery (宅配) service reaches remote Hokkaido communities beyond supermarket access.",
+      "penalty": "Co-operative operating outside Act provisions: Ministry of Health administrative guidance; financial mismanagement: audit and correction orders",
+      "exceptions": ["Agricultural cooperatives (JA) operate under a separate Agricultural Cooperative Act"],
+      "source": "https://www.coopsapporo.jp/",
+      "sourceLabel": "Co-op Sapporo",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many members does Co-op Sapporo have — making it one of Japan's largest consumer cooperatives?",
+        "options": ["200,000", "800,000", "1.9 million", "5 million"],
+        "correct": 2,
+        "explanation": "Co-op Sapporo has over 1.9 million members — roughly 30% of Hokkaido's population — reflecting the cooperative model's strong roots in Hokkaido's community-oriented rural society."
+      }
+    },
+    {
+      "id": 42703,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🏞️",
+      "title": "Kushiro Wetland Ramsar Protection",
+      "subtitle": "Japan's largest wetland — Japan's first Ramsar site",
+      "fullDescription": "Kushiro Marsh (釧路湿原) — Japan's largest wetland at 183 km² — was Japan's first Ramsar Convention site (1980) and is a National Park. Under the Natural Parks Act, the core area prohibits development, drainage, or agricultural conversion. The marsh supports Japan's largest population of red-crowned cranes (タンチョウ, approximately 1,500 birds). Motorboat access on the Kushiro River within the marsh is restricted. Restoration of drained agricultural land at the margins is actively funded.",
+      "penalty": "Development or drainage in protected wetland: up to 6 months imprisonment or ¥500,000 fine",
+      "exceptions": ["Traditional reed harvesting by licenced cutters with approved management plan"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Kushiro Wetland National Park",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What rare bird species — Japan's largest — lives primarily in Kushiro Wetland?",
+        "options": ["White-tailed eagle", "Whooper swan", "Red-crowned crane (タンチョウ)", "Steller's sea eagle"],
+        "correct": 2,
+        "explanation": "Kushiro Wetland supports approximately 1,500 red-crowned cranes (タンチョウ) — Japan's largest bird and a symbol of longevity, once reduced to just 33 individuals before conservation efforts."
+      }
+    },
+    {
+      "id": 42704,
+      "category": "Criminal Law",
+      "severity": "medium",
+      "icon": "🌡️",
+      "title": "Animal Cruelty — Livestock and Pet Standards",
+      "subtitle": "Animal welfare law applies equally to Hokkaido's vast livestock operations",
+      "fullDescription": "Japan's Act on Welfare and Management of Animals (動物の愛護及び管理に関する法律, strengthened 2019 and 2022) covers both companion animals and livestock. Hokkaido's massive dairy, beef, and poultry operations must meet welfare standards including space minimums, veterinary care access, and temperature management (critical in Hokkaido's extreme winters). The 2019 amendments added criminal penalties for animal abuse and introduced mandatory microchipping for dogs and cats from 2022.",
+      "penalty": "Deliberate animal cruelty: up to 5 years imprisonment or ¥5,000,000 fine (2022 strengthening); neglect causing death: up to 1 year or ¥1,000,000",
+      "exceptions": ["Lawful slaughter following prescribed welfare standards"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Animal Welfare Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What pet requirement did Japan's Animal Welfare Act amendments introduce from 2022?",
+        "options": ["Annual health certificates for all dogs", "Mandatory microchipping for dogs and cats", "Breed-specific licencing for large dogs", "Compulsory liability insurance for dog owners"],
+        "correct": 1,
+        "explanation": "From June 2022, Japan mandated microchipping for all dogs and cats sold by breeders and pet shops — applying nationally including Hokkaido's many farm and working dog populations."
+      }
+    },
+    {
+      "id": 42705,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🌋",
+      "title": "Hokkaido Iburi Earthquake Response Law",
+      "subtitle": "2018 earthquake led to new building and slope safety rules",
+      "fullDescription": "The 2018 Hokkaido Eastern Iburi Earthquake (M6.7, maximum intensity 7 — Japan's highest seismic scale) triggered massive landslides in Atsuma Town that buried entire communities, killing 36. Post-earthquake investigations revealed that steep slopes covered by pumice soil (火山灰) were uniquely vulnerable. Hokkaido enacted new Slope Failure Risk Assessment requirements under the Sediment Disaster Prevention Act, requiring landslide risk mapping and evacuation plans for identified vulnerable communities.",
+      "penalty": "Construction on designated landslide hazard slopes without safety measures: planning refusal + demolition orders",
+      "exceptions": ["Infrastructure with approved engineering mitigation"],
+      "source": "https://www.pref.hokkaido.lg.jp/bousai/",
+      "sourceLabel": "Hokkaido Prefecture — Iburi Earthquake Recovery",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What soil type made Hokkaido's 2018 Iburi earthquake landslides particularly devastating?",
+        "options": ["Clay-rich riverbank soil", "Volcanic pumice (火山灰) — lightweight and prone to collapse when saturated", "Limestone karst topography", "Sandy coastal dune deposits"],
+        "correct": 1,
+        "explanation": "Hokkaido's volcanic pumice soil (火山灰) — lightweight and moisture-retaining — became highly unstable during the 2018 earthquake, triggering catastrophic landslides that buried Atsuma Town communities."
+      }
+    },
+    {
+      "id": 42706,
+      "category": "Tourism & Recreation",
+      "severity": "low",
+      "icon": "🌅",
+      "title": "Cape Soya — Japan's Northernmost Point Rules",
+      "subtitle": "Northernmost Japan public land with border proximity regulations",
+      "fullDescription": "Cape Soya (宗谷岬) — Japan's northernmost point — is a public park 43 km from Sakhalin, Russia. Visitors are unrestricted but the surrounding area includes Japan Air Self-Defence Force radar installations subject to photography restrictions under the Self-Defence Forces Act (自衛隊法). On a clear day, Sakhalin is visible. The cape is a popular motorcycle pilgrimage destination — the town of Wakkanai manages crowd control during peak summer season.",
+      "penalty": "Photographing JSDF installations: up to 1 year imprisonment under Self-Defence Forces Act; trespassing into JSDF facilities: criminal trespass",
+      "exceptions": ["Photography of the cape monument and civilian infrastructure unrestricted"],
+      "source": "https://www.city.wakkanai.hokkaido.jp/",
+      "sourceLabel": "Wakkanai City — Cape Soya Information",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How far is Cape Soya — Japan's northernmost point — from Sakhalin, Russia?",
+        "options": ["10 km", "43 km", "100 km", "200 km"],
+        "correct": 1,
+        "explanation": "Cape Soya is approximately 43 km from Sakhalin — on clear days, the Russian island is visible from Japan's northernmost point, emphasising the geopolitical significance of Hokkaido's location."
+      }
+    },
+    {
+      "id": 42707,
+      "category": "Housing & Property",
+      "severity": "low",
+      "icon": "🏠",
+      "title": "Hokkaido Energy-Efficient Housing Standards",
+      "subtitle": "High insulation standards mandatory for cold climate",
+      "fullDescription": "Hokkaido's extreme winters make building energy efficiency critical. The Building Standards Act's energy conservation provisions are applied at their highest standard (省エネ基準 ZEH level) in Hokkaido. New residential buildings must achieve insulation and air-tightness standards far exceeding those required in warmer prefectures. Hokkaido pioneered Japan's 'next-generation energy conservation standard' housing — now the national model for cold-climate construction.",
+      "penalty": "New buildings not meeting energy standards: energy performance certificate refusal; non-compliant buildings ineligible for specific housing loans",
+      "exceptions": ["Heritage buildings and temporary structures"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Housing Energy Standards",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why does Hokkaido have Japan's highest building insulation standards?",
+        "options": ["To reduce noise from winter snowstorms", "Extreme winters make energy efficiency critical — Hokkaido pioneered Japan's cold-climate housing standards", "EU trade agreement requirements for building standards", "To protect against permafrost ground movement"],
+        "correct": 1,
+        "explanation": "Hokkaido's harsh winters (temperatures regularly below -15°C) make energy efficiency essential — the prefecture pioneered Japan's highest residential insulation standards, now the national model."
+      }
+    },
+    {
+      "id": 42708,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🧈",
+      "title": "Hokkaido Butter Shortage and Distribution Controls",
+      "subtitle": "Butter rationing reflects Japan's dairy import restrictions",
+      "fullDescription": "Japan protects its dairy sector with high tariffs (360% on butter imports) under the Agriculture Basic Act and WTO commitments. Hokkaido produces over 80% of Japan's butter, but domestic production cannot always meet demand — leading to periodic nationwide butter shortages (most notable 2014). During shortages, Hokkaido butter is subject to purchase limits at retail to prevent hoarding. The Agricultural and Livestock Industries Corporation (ALIC) manages government butter reserves and import quotas.",
+      "penalty": "Import of butter without ALIC authorisation: customs seizure + tariff penalties; retail hoarding for resale at markup may trigger consumer law action",
+      "exceptions": ["Travellers bringing personal quantities within duty-free limits"],
+      "source": "https://www.alic.go.jp/",
+      "sourceLabel": "Agricultural and Livestock Industries Corporation (ALIC)",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Japan's approximate import tariff rate on butter — protecting Hokkaido's dairy industry?",
+        "options": ["25%", "100%", "200%", "360%"],
+        "correct": 3,
+        "explanation": "Japan maintains approximately 360% import tariffs on butter — one of the world's highest agricultural tariffs, protecting Hokkaido's domestic dairy industry from cheaper imported alternatives."
+      }
+    },
+    {
+      "id": 42709,
+      "category": "Public Health",
+      "severity": "low",
+      "icon": "⛷️",
+      "title": "Ski Resort First Aid Obligations",
+      "subtitle": "Ski resorts must have certified first aid on-site",
+      "fullDescription": "Hokkaido's major ski resorts — Niseko, Rusutsu, Furano, Kiroro — are required under the Ski Area Safety Management Act and Hokkaido Resort Safety Ordinance to maintain certified ski patrol with first aid capability, avalanche rescue equipment, and helicopter landing zones. Foreign skiers (Niseko is majority foreign-visitor) must be covered by the resort's public liability insurance. Ski resort operators face liability if insufficient patrol staffing contributed to delayed rescue.",
+      "penalty": "Resort without mandatory safety staffing: operational suspension; civil liability for inadequate rescue: significant damages",
+      "exceptions": ["Small community ski hills below 200m vertical drop have reduced requirements"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Ski Resort Safety",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What safety infrastructure must Hokkaido ski resorts mandatorily maintain?",
+        "options": ["Emergency snowcat access only", "Certified ski patrol with first aid, avalanche rescue equipment, and helicopter landing zones", "A doctor on-site at all times", "Avalanche barriers on all runs"],
+        "correct": 1,
+        "explanation": "Hokkaido ski resorts must maintain certified ski patrol with first aid capability, avalanche rescue equipment, and helicopter landing zones — critical given the deep backcountry terrain and high foreign visitor numbers."
+      }
+    },
+    {
+      "id": 42710,
+      "category": "Environmental",
+      "severity": "low",
+      "icon": "🌾",
+      "title": "Hokkaido Peatland Conservation",
+      "subtitle": "Rare peatland ecosystems protected against drainage",
+      "fullDescription": "Hokkaido's peatlands (泥炭地) — particularly in the Kushiro and Sarobetsu areas — are among Japan's most ecologically important carbon sinks and biodiversity hotspots. The Sarobetsu Mire (サロベツ湿原) in northern Hokkaido is a Ramsar site. Post-war drainage for agriculture converted 80% of Hokkaido's original peatlands; remaining areas are now protected under the Natural Parks Act and Wetlands Conservation Act. Peatland drainage for new agricultural conversion is prohibited.",
+      "penalty": "Draining protected peatland: up to 6 months imprisonment or ¥500,000 fine; development in Ramsar buffer zone: administrative orders",
+      "exceptions": ["Existing drainage channels for established farmland may be maintained"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Wetlands Conservation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Hokkaido's original peatlands were drained for agriculture after WWII?",
+        "options": ["30%", "50%", "65%", "80%"],
+        "correct": 3,
+        "explanation": "Approximately 80% of Hokkaido's original peatlands were drained for post-war agricultural development — the remaining 20% are now strictly protected as critical carbon stores and biodiversity habitat."
+      }
+    },
+    {
+      "id": 42711,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏦",
+      "title": "Hokkaido Bank and Regional Finance",
+      "subtitle": "Regional bank critical to Hokkaido's rural economic stability",
+      "fullDescription": "Hokkaido Bank (北海道銀行) and North Pacific Bank (北洋銀行) are Hokkaido's two major regional banks — providing essential financial services to rural communities, agricultural businesses, and tourism operators. Under the Banking Act (銀行法) and FSA regional bank oversight framework, these banks are required to maintain adequate capital ratios and support regional economic development. Their consolidation (attempted merger withdrawn in 2021 after FTC concerns) reflects the challenges of rural bank viability.",
+      "penalty": "Capital ratio violations: mandatory remediation orders; anti-competitive merger without FTC clearance: up to ¥5,000,000 fine",
+      "exceptions": [],
+      "source": "https://www.hokuyo-bank.co.jp/",
+      "sourceLabel": "North Pacific Bank — Corporate Information",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why did the attempted merger of Hokkaido Bank and North Pacific Bank fail in 2021?",
+        "options": ["Inadequate capital levels", "FTC (Fair Trade Commission) concerns about reduced competition in Hokkaido's banking market", "Government opposition to foreign ownership", "COVID-19 disruption to merger proceedings"],
+        "correct": 1,
+        "explanation": "The FTC raised concerns that merging Hokkaido's two largest regional banks would create an entity with excessive market dominance in Hokkaido — the banks withdrew the application rather than proceed."
+      }
+    },
+    {
+      "id": 42712,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🚗",
+      "title": "Hokkaido Road Speed Limits — Expressway Rules",
+      "subtitle": "Japan's first 120 km/h expressway trial on Hokkaido's E5",
+      "fullDescription": "Hokkaido's E5 Doto Expressway between Kitami and Obihiro was one of Japan's first roads to trial a 120 km/h speed limit (up from the standard 100 km/h) as part of a national pilot programme. Standard Hokkaido expressways remain at 100 km/h; national and prefecture roads range from 40–80 km/h. Winter speed limits are reduced — typically to 50–60 km/h on expressways during snowfall or icy conditions as per Road Traffic Act provisions.",
+      "penalty": "Speeding over 30 km/h above limit: licence suspension + up to ¥120,000 fine; over 50 km/h: immediate arrest possible",
+      "exceptions": ["Emergency vehicles responding to incidents"],
+      "source": "https://www.police.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefectural Police — Traffic Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What speed limit was trialled on Hokkaido's E5 expressway — higher than Japan's standard expressway limit?",
+        "options": ["110 km/h", "120 km/h", "130 km/h", "140 km/h"],
+        "correct": 1,
+        "explanation": "Hokkaido's E5 expressway was one of Japan's first to trial a 120 km/h limit — higher than the standard 100 km/h — taking advantage of Hokkaido's straight, wide, low-traffic roads."
+      }
+    },
+    {
+      "id": 42713,
+      "category": "Education",
+      "severity": "low",
+      "icon": "🏫",
+      "title": "Hokkaido School Consolidation Policy",
+      "subtitle": "Depopulation forcing rural school mergers",
+      "fullDescription": "Hokkaido's severe depopulation has reduced many rural schools to single-digit enrolment. Under the School Education Act, schools with fewer than a minimum number of classes may be ordered to merge with neighbouring institutions. Hokkaido's Board of Education has closed over 1,000 schools since 1970. Small remote schools are sometimes retained as 'community hubs' (コミュニティ・スクール) under special designation. Children in areas losing schools may receive boarding school (寄宿舎) support.",
+      "penalty": "Operating an unregistered school: up to ¥1,000,000 fine",
+      "exceptions": ["One-teacher schools in remote areas with special ministry designation"],
+      "source": "https://www.pref.hokkaido.lg.jp/ks/",
+      "sourceLabel": "Hokkaido Board of Education",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many schools has Hokkaido closed since 1970 due to depopulation?",
+        "options": ["Over 100", "Over 500", "Over 1,000", "Over 2,000"],
+        "correct": 2,
+        "explanation": "Hokkaido has closed over 1,000 schools since 1970 — reflecting one of Japan's most extreme rural depopulation trajectories, with dozens of municipalities at risk of complete disappearance."
+      }
+    },
+    {
+      "id": 42714,
+      "category": "Immigration & Identity",
+      "severity": "medium",
+      "icon": "✈️",
+      "title": "New Chitose Airport Customs and Entry Rules",
+      "subtitle": "Hokkaido's main international gateway — strict entry controls",
+      "fullDescription": "New Chitose Airport (新千歳空港) handles 98% of Hokkaido's international arrivals. Japan Customs Act entry rules apply — travellers must declare cash over ¥1,000,000, prohibited agricultural imports, and goods over duty-free thresholds. Hokkaido-specific controls include strict biosecurity screening for agricultural products (particularly meat and fresh produce that could introduce disease to Hokkaido's livestock industry). The airport uses AI-assisted baggage X-ray analysis and random deep-inspection protocols.",
+      "penalty": "Undeclared cash over ¥1,000,000: confiscation; prohibited agricultural import: destruction + fines; drug smuggling: up to life imprisonment",
+      "exceptions": ["Diplomatic baggage with proper immunity documentation"],
+      "source": "https://www.customs.go.jp/",
+      "sourceLabel": "Japan Customs — New Chitose Airport",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What amount of cash must travellers to Japan declare at customs?",
+        "options": ["¥500,000", "¥1,000,000", "¥2,000,000", "No limit — declaration is voluntary"],
+        "correct": 1,
+        "explanation": "Travellers carrying more than ¥1,000,000 (approximately USD 6,500) in cash or equivalent must declare it to Japan Customs — failure to declare results in confiscation."
+      }
+    },
+    {
+      "id": 42715,
+      "category": "Civil Rights",
+      "severity": "low",
+      "icon": "📜",
+      "title": "Hokkaido Information Disclosure Ordinance",
+      "subtitle": "Hokkaido's prefecture-level freedom of information rules",
+      "fullDescription": "Hokkaido Prefecture's Information Disclosure Ordinance (情報公開条例) — enacted in 1998, ahead of the national Act — gives residents the right to request public documents from the prefecture and its agencies. Requestors need not state a reason. Exceptions cover personal privacy, ongoing investigations, and self-defence/diplomatic information. Hokkaido's government transparency record is considered above average nationally; the ordinance has been used to scrutinise bear management decisions and Olympic bid spending.",
+      "penalty": "Unlawful refusal of valid disclosure request: administrative court review; officials deliberately destroying requested documents: criminal misconduct",
+      "exceptions": ["National security, ongoing investigations, personal data of third parties"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Information Disclosure",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Hokkaido enact its Information Disclosure Ordinance — ahead of Japan's national equivalent?",
+        "options": ["1985", "1991", "1998", "2003"],
+        "correct": 2,
+        "explanation": "Hokkaido enacted its Information Disclosure Ordinance in 1998 — two years before Japan's national Act on Access to Information of Administrative Organs took effect in 2001."
+      }
+    },
+    {
+      "id": 42716,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌬️",
+      "title": "Hokkaido Wind Energy Development Rules",
+      "subtitle": "Japan's top wind energy potential — planning rules apply",
+      "fullDescription": "Hokkaido has Japan's highest wind energy potential — open plains, consistent winds, and low population density in the Teshio and Oshima areas make it ideal. The Act on Promotion of Use of Sea Areas for Marine Renewable Energy Power Generation (2019) opened offshore wind development. Large wind farms require environmental impact assessments (環境影響評価法) including bird strike surveys — critical given Hokkaido's Steller's sea eagle and white-tailed eagle populations. Hokkaido aims for 6.6 GW of wind capacity by 2030.",
+      "penalty": "Operating wind facility without environmental assessment: suspension orders; bird strike mitigation failure: administrative orders",
+      "exceptions": ["Small turbines under 10 kW have simplified assessment requirements"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Renewable Energy Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why must Hokkaido wind farm environmental assessments specifically survey birds?",
+        "options": ["For tourism impact on birdwatching", "Because Hokkaido has Steller's sea eagle and white-tailed eagle — both endangered and at risk from turbine collisions", "EU standards require bird surveys for all Japanese exports", "For migratory songbird protection"],
+        "correct": 1,
+        "explanation": "Hokkaido's Steller's sea eagles and white-tailed eagles — both globally threatened — face turbine collision risk, making bird strike surveys and mitigation essential in wind farm environmental assessments."
+      }
+    },
+    {
+      "id": 42717,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🎊",
+      "title": "Sapporo Susukino Entertainment District Rules",
+      "subtitle": "Japan's northernmost major entertainment district",
+      "fullDescription": "Sapporo's Susukino (すすきの) — one of Japan's largest entertainment districts after Kabukicho (Tokyo) and Namba (Osaka) — operates under Hokkaido's implementation of the Businesses Affecting Public Morals Act (風営法). Hostess clubs, karaoke bars, and adult entertainment establishments require licences from the Hokkaido Public Safety Commission. The Susukino area has experienced yakuza-related incidents; Hokkaido Police operate dedicated entertainment district patrols.",
+      "penalty": "Unlicensed entertainment business: up to 2 years imprisonment; employing minors in adult entertainment: up to 3 years",
+      "exceptions": ["Restaurants and bars with music below entertainment threshold have simplified licencing"],
+      "source": "https://www.police.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefectural Police — Entertainment Licensing",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "After Tokyo's Kabukicho and Osaka's Namba, Sapporo's Susukino is considered Japan's:",
+        "options": ["Fourth largest entertainment district", "Third largest entertainment district", "Largest entertainment district in northern Japan only", "Smallest major entertainment district"],
+        "correct": 1,
+        "explanation": "Susukino is considered Japan's third largest entertainment district after Kabukicho (Tokyo) and Namba (Osaka) — a major nightlife hub in Sapporo's dense city centre."
+      }
+    },
+    {
+      "id": 42718,
+      "category": "Agriculture",
+      "severity": "medium",
+      "icon": "🌸",
+      "title": "Hokkaido Organic Farming Certification",
+      "subtitle": "JAS organic certification required for organic labelling",
+      "fullDescription": "Organic agricultural products sold in Japan must carry JAS (Japanese Agricultural Standard) organic certification (有機JASマーク) under the Agricultural Standards Act. Hokkaido — with large farms, lower pesticide use than honshu vegetable operations, and growing consumer demand — has Japan's highest number of certified organic farms (approximately 20% of national total). Inspection by accredited certification bodies (認定機関) is required annually. Uncertified products cannot be labelled 'organic' (有機, ゆうき).",
+      "penalty": "Fraudulent use of 'organic' label without JAS certification: up to 2 years imprisonment or ¥2,000,000 fine",
+      "exceptions": ["Very small farms below ¥500,000 annual sales have simplified self-certification pathways"],
+      "source": "https://www.maff.go.jp/",
+      "sourceLabel": "Ministry of Agriculture — JAS Organic Certification",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Japan's certified organic farms are located in Hokkaido?",
+        "options": ["5%", "10%", "Approximately 20%", "40%"],
+        "correct": 2,
+        "explanation": "Hokkaido accounts for approximately 20% of Japan's JAS-certified organic farms — its large-scale, lower-pesticide-intensity agriculture is well-suited to organic transition."
+      }
+    },
+    {
+      "id": 42719,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🏥",
+      "title": "Hokkaido Medical Access — Remote Area Helicopter EMS",
+      "subtitle": "Hokkaido Air System and Doctor Helicopter serve remote communities",
+      "fullDescription": "Hokkaido's vast geography (83,000 km², Japan's largest prefecture) means many communities are hours from hospital care. The Doctor Helicopter (ドクターヘリ) programme — funded under the Emergency Medical Helicopters Act (救急医療用ヘリコプターを用いた救急医療の確保に関する特別措置法) — operates dedicated medical helicopters from Sapporo Medical University and other base hospitals. Remote fishing and farming communities depend on this service. Hokkaido operates the largest fleet of doctor helicopters in Japan.",
+      "penalty": "Obstruction of emergency helicopter landing zones: criminal interference charges; false emergency calls: criminal charges",
+      "exceptions": [],
+      "source": "https://www.pref.hokkaido.lg.jp/hf/",
+      "sourceLabel": "Hokkaido Prefecture — Emergency Medical Helicopter",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why does Hokkaido operate Japan's largest doctor helicopter fleet?",
+        "options": ["Highest mountain rescue rate in Japan", "Its vast geography (83,000 km² — Japan's largest prefecture) puts many communities hours from hospital care", "Military funding from JSDF base sharing", "High traffic accident rate on rural roads"],
+        "correct": 1,
+        "explanation": "Hokkaido's enormous size (83,000 km²) means remote fishing and farming communities can be hours from hospital — the doctor helicopter fleet is essential to providing emergency medical care across the prefecture."
+      }
+    },
+    {
+      "id": 42720,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "⚓",
+      "title": "Illegal Immigrant Labour — Hokkaido Fishing Industry",
+      "subtitle": "Fishery vessel foreign crew subject to immigration controls",
+      "fullDescription": "Hokkaido's fishing industry employs significant numbers of foreign crew members, primarily from Indonesia, the Philippines, and China. These workers must hold valid work or specified skilled worker visas. Immigration Services Agency (ISA) conducts periodic inspections of fishing vessels at Hokkaido ports. Operators employing undocumented workers face severe penalties. The 2024 reforms to the Technical Intern Training system particularly affect the fishing sector, which had high rates of exploitation.",
+      "penalty": "Employing undocumented workers: up to 3 years imprisonment or ¥3,000,000 fine per worker; knowingly transporting undocumented workers: up to 3 years",
+      "exceptions": ["Short-term port calls by foreign-flagged vessels (crew stay on board)"],
+      "source": "https://www.moj.go.jp/isa/",
+      "sourceLabel": "Immigration Services Agency — Fishery Vessel Inspection",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What major reform affected Hokkaido's fishing industry foreign worker system in 2024?",
+        "options": ["New Pacific fishing treaty changing vessel crew rules", "Replacement of Technical Intern Training with Ikusei Shuro — new worker protections", "Minimum wage increase for all fishery workers", "Mandatory Japanese language testing for all crew"],
+        "correct": 1,
+        "explanation": "The 2024 replacement of the Technical Intern Training system (criticized for exploitation) with the Ikusei Shuro programme significantly affected Hokkaido's fishing industry, which relied heavily on intern trainees."
+      }
+    },
+    {
+      "id": 42721,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Hokkaido Biomass Energy Rules",
+      "subtitle": "Wood biomass energy a major Hokkaido renewable strategy",
+      "fullDescription": "Hokkaido's forestry sector supports a growing wood biomass energy industry under Japan's Feed-in Tariff (FIT) system (固定価格買取制度). Biomass power plants must use certified sustainable wood sources — logging from protected forests or national parks is prohibited as fuel source. Hokkaido has 80+ certified biomass power plants generating electricity from wood chips, sawmill waste, and waste timber. The FIT rate for large wood biomass is ¥24/kWh — subsidised by all electricity ratepayers nationally.",
+      "penalty": "Using prohibited wood sources (national park timber) as biomass fuel: FIT certification revoked + administrative fines",
+      "exceptions": ["Agricultural biomass (corn, straw) has separate certification pathway"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Biomass Energy Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Japanese Feed-in Tariff (FIT) rate for large wood biomass power in Hokkaido?",
+        "options": ["¥8/kWh", "¥15/kWh", "¥24/kWh", "¥40/kWh"],
+        "correct": 2,
+        "explanation": "Japan's FIT pays ¥24/kWh for large wood biomass power — one of the highest renewable energy subsidies, making Hokkaido's forest-rich economy a natural centre for biomass generation."
+      }
+    },
+    {
+      "id": 42722,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "⛴️",
+      "title": "Hokkaido Ferry Services — Maritime Safety Rules",
+      "subtitle": "Major ferry routes connect Hokkaido to Honshu",
+      "fullDescription": "Hokkaido is connected to Honshu by multiple overnight ferry services — Shin Nihonkai Ferry (Otaru–Niigata), Stena Line (Tomakomai–Oarai), and Tsugaru Straits routes. These services are regulated under the Marine Transportation Act (海上運送法) and Maritime Safety Act. The 1954 Toya Maru disaster — a Tsugaru Strait ferry sunk by Typhoon Marie, killing 1,139 — transformed Japanese ferry safety regulations. Life jacket requirements, emergency drill obligations, and load line rules are strictly enforced.",
+      "penalty": "Ferry operating without Maritime Safety inspection certification: immediate suspension; inadequate life safety equipment: criminal charges for operator",
+      "exceptions": [],
+      "source": "https://www.mlit.go.jp/",
+      "sourceLabel": "MLIT — Maritime Transportation Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What 1954 disaster in the Tsugaru Strait transformed Japanese ferry safety regulations?",
+        "options": ["The Seikan Tunnel construction accident", "The Toya Maru ferry disaster — sunk by Typhoon Marie, killing 1,139", "A major oil tanker collision near Hakodate", "A submarine cable ferry collision"],
+        "correct": 1,
+        "explanation": "The 1954 Toya Maru disaster — a Tsugaru Strait car ferry sunk by Typhoon Marie with 1,139 deaths — was Japan's worst peacetime maritime disaster and transformed ferry safety requirements."
+      }
+    },
+    {
+      "id": 42723,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🌾",
+      "title": "Hokkaido Agricultural Mutual Aid (NOSAI)",
+      "subtitle": "Crop insurance mandatory for certain farm types",
+      "fullDescription": "Japan's Agricultural Mutual Relief (農業共済, NOSAI) system provides mandatory crop insurance for rice and certain other crops under the Agricultural Disaster Compensation Act (農業災害補償法). Hokkaido farmers participate heavily — crop losses from late frosts, typhoons, and prolonged rain are significant risks. Premium subsidies make the system accessible. A 2019 reform introduced optional income insurance (農業経営収入保険) covering all crops, complementing the mandatory scheme.",
+      "penalty": "Fraudulent crop loss claims: up to 5 years imprisonment; premium evasion: administrative assessment",
+      "exceptions": ["Small-scale subsistence farmers below thresholds"],
+      "source": "https://www.maff.go.jp/",
+      "sourceLabel": "Ministry of Agriculture — Agricultural Mutual Relief",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What new agricultural insurance option was introduced in Japan in 2019, complementing the mandatory NOSAI system?",
+        "options": ["Universal farm health insurance", "Agricultural income insurance (農業経営収入保険) covering all crops", "Livestock mortality bond scheme", "Drought reserve fund access"],
+        "correct": 1,
+        "explanation": "Japan's 2019 Agricultural Income Insurance (農業経営収入保険) covers income from all farm products — complementing the traditional mandatory NOSAI crop insurance, giving Hokkaido's diverse farmers broader protection."
+      }
+    },
+    {
+      "id": 42724,
+      "category": "Civil Rights",
+      "severity": "low",
+      "icon": "🏔️",
+      "title": "Hokkaido Wilderness Access Rights",
+      "subtitle": "Traditional access to mountains and forests debated",
+      "fullDescription": "Unlike some countries, Japan has no general legal right of access to private land — including forests and mountains. However, Hokkaido's vast national and prefecture-owned forests are publicly accessible without permit (outside protected zones). The Ainu Promotion Act 2019 creates a framework for Ainu traditional use of national forest resources (plant collection, small-scale hunting) under negotiated agreements with the Forestry Agency — a significant step toward recognising traditional land relationships.",
+      "penalty": "Trespassing on private forest land: civil damages; criminal trespass if clearly posted as prohibited",
+      "exceptions": ["National and prefectural forest land generally accessible to the public outside Protected Zones"],
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceLabel": "Hokkaido Prefecture — Forest Access",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Does Japan have a general 'right to roam' on private land like Scotland or Sweden?",
+        "options": ["Yes — a constitutional right of outdoor access", "No — access to private land requires permission; public forest land is generally accessible", "Only for agricultural land during harvest festivals", "Only for Ainu people under the 2019 Act"],
+        "correct": 1,
+        "explanation": "Japan has no general right to roam private land — unlike Scotland or Nordic countries. National and prefectural forests are generally publicly accessible, but private forests require landowner permission."
+      }
+    },
+    {
+      "id": 42725,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🌨️",
+      "title": "Snow Removal Responsibility — Roof and Footpath",
+      "subtitle": "Property owners legally responsible for snow clearing",
+      "fullDescription": "Hokkaido municipalities — including Sapporo, which receives 6 metres of snowfall annually — have ordinances requiring property owners to remove snow from footpaths adjacent to their land and to prevent dangerous snow or ice from rooftops falling on pedestrians. Sapporo City's Snow Clearing Ordinance (除雪条例) obligates prompt footpath clearing after snowfall. Several deaths from falling roof snow (落雪) have led to administrative orders to install snow guards on roofs of commercial buildings in snow belt areas.",
+      "penalty": "Failure to clear footpath causing pedestrian injury: civil tort liability; persistent non-compliance: administrative fines up to ¥50,000",
+      "exceptions": ["Elderly or physically unable residents may receive assistance from community volunteers without penalty"],
+      "source": "https://www.city.sapporo.jp/",
+      "sourceLabel": "Sapporo City — Snow Clearing Ordinance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how much annual snowfall does Sapporo receive?",
+        "options": ["1 metre", "3 metres", "6 metres", "10 metres"],
+        "correct": 2,
+        "explanation": "Sapporo receives approximately 6 metres of cumulative annual snowfall — making its Snow Clearing Ordinance essential for public safety on footpaths and to prevent dangerous roof snow falls."
+      }
+    }
+  ]
+}

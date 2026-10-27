@@ -1,0 +1,1506 @@
+{
+  "country": "Thuringia, Germany",
+  "slug": "thuringia-germany",
+  "laws": [
+    {
+      "id": 42351,
+      "category": "Constitutional Law",
+      "severity": "critical",
+      "icon": "⚖️",
+      "title": "Verfassung des Freistaates Thüringen 1993",
+      "subtitle": "State constitution with extensive social rights and cultural heritage protection",
+      "fullDescription": "Thuringia adopted its Verfassung on 25 October 1993. Art. 1 declares Thuringia a free, democratic, social and ecological state (Freistaat). It includes extensive social rights (Art. 18-35), environmental protection (Art. 31), and cultural heritage obligations (Art. 30). The Verfassungsgerichtshof des Freistaates Thüringen reviews state legislation. Thuringia was reconstituted in 1990 from GDR districts of Erfurt, Gera, and Suhl.",
+      "penalty": "Constitutional violations reviewed by ThürVerfGH; laws may be declared void",
+      "exceptions": ["Federal constitutional law takes precedence under Art. 31 GG"],
+      "source": "https://www.landesrecht.thueringen.de/bsth/document/jlr-VerfTHrahmen",
+      "sourceLabel": "Verfassung Thüringen 1993",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "From which former GDR districts was Thuringia reconstituted in 1990?",
+        "options": ["Halle, Magdeburg, Cottbus", "Erfurt, Gera, and Suhl", "Leipzig, Dresden, Karl-Marx-Stadt", "Rostock, Schwerin, Neubrandenburg"],
+        "correct": 1,
+        "explanation": "Thuringia was reconstituted in 1990 from the former GDR administrative districts of Erfurt, Gera, and Suhl (along with parts of other districts)."
+      }
+    },
+    {
+      "id": 42352,
+      "category": "Cultural Heritage Law",
+      "severity": "high",
+      "icon": "🏛️",
+      "title": "Weimar Klassik – UNESCO Welterbe 1998 & DSchG Thür",
+      "subtitle": "Bauhaus and Classical Weimar sites as UNESCO World Heritage",
+      "fullDescription": "The Classical Weimar UNESCO World Heritage Site (1998) includes 11 monuments: Goethe's House, Schiller's House, Duchess Anna Amalia Library, and the Bauhaus-affiliated sites in Weimar and Dessau. The Klassik Stiftung Weimar manages the estate under DSchG Thüringen (ThürDSchG). Weimar was the center of German intellectual life (Goethe, Schiller, Liszt, Nietzsche) and briefly capital of the Weimar Republic (1919–1933).",
+      "penalty": "Unauthorized alterations to UNESCO monuments: fines up to €500,000 under §17 ThürDSchG",
+      "exceptions": ["Routine conservation work by approved specialists on Klassik Stiftung mandate exempt from standard permit timelines"],
+      "source": "https://whc.unesco.org/en/list/846",
+      "sourceLabel": "UNESCO WHC 1998 / ThürDSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many monuments are included in the Classical Weimar UNESCO World Heritage Site?",
+        "options": ["3", "7", "11", "22"],
+        "correct": 2,
+        "explanation": "The Classical Weimar UNESCO World Heritage Site (1998) encompasses 11 monuments including Goethe's House, Schiller's House, the Duchess Anna Amalia Library, and associated parks."
+      }
+    },
+    {
+      "id": 42353,
+      "category": "Cultural Heritage Law",
+      "severity": "high",
+      "icon": "🎵",
+      "title": "Bach-Gedenkstätten Erfurt/Eisenach – UrhG Gemeinfreiheit",
+      "subtitle": "Johann Sebastian Bach's birthplace protected; works in public domain",
+      "fullDescription": "Johann Sebastian Bach (1685–1750) was born in Eisenach, Thuringia. The Bachhaus Eisenach and associated sites are protected under ThürDSchG. Bach's works entered public domain 70 years after his death (§64 UrhG, since 1820 under old law; modern copyright not applicable). The Bach-Archiv Leipzig and Neue Bachgesellschaft manage scholarly editions — new critical editions are protected under §70 UrhG as wissenschaftliche Ausgaben.",
+      "penalty": "Unauthorized reproduction of new critical Bach editions: §70 UrhG violations; monument damage: §304 StGB",
+      "exceptions": ["Original Bach compositions fully in public domain; only new critical editions protected under §70 UrhG"],
+      "source": "https://www.bachhaus.de",
+      "sourceLabel": "§64 UrhG / §70 UrhG / ThürDSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which Thuringian city was Johann Sebastian Bach born in 1685?",
+        "options": ["Erfurt", "Weimar", "Eisenach", "Gotha"],
+        "correct": 2,
+        "explanation": "Johann Sebastian Bach was born in Eisenach, Thuringia, on 21 March 1685. The Bachhaus Eisenach museum commemorates his birthplace."
+      }
+    },
+    {
+      "id": 42354,
+      "category": "Energy Law",
+      "severity": "high",
+      "icon": "⛏️",
+      "title": "WISMUT Uranbergbau – AtG & Altlastensanierung",
+      "subtitle": "Soviet uranium mining legacy: €6.4bn cleanup under atomic and mining law",
+      "fullDescription": "The WISMUT GmbH (100% federal) manages the cleanup of former Soviet uranium mining sites in Thuringia (Ronneburg) and Saxony. ~230,000 tonnes of uranium ore were extracted 1946–1990 for Soviet nuclear weapons, leaving massive radiological contamination. Cleanup under AtG and BBergG costs ~€6.4bn total. Ronneburg's Gessenhalde (mine dump) remediation is nearly complete.",
+      "penalty": "AtG radiation violations: BfS enforcement; disturbing cleanup sites: criminal prosecution",
+      "exceptions": ["Research access to remediated sites permitted with BfS radiation protection supervision"],
+      "source": "https://www.wismut.de",
+      "sourceLabel": "AtG / BBergG / WISMUT GmbH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What organization manages the uranium mining cleanup in Thuringia and Saxony?",
+        "options": ["LEAG", "LMBV", "WISMUT GmbH (100% federal)", "Thüringen Forst"],
+        "correct": 2,
+        "explanation": "WISMUT GmbH, a 100% federally owned company, manages the €6.4bn cleanup of former Soviet uranium mining sites in Thuringia (Ronneburg) and Saxony."
+      }
+    },
+    {
+      "id": 42355,
+      "category": "Broadcasting Law",
+      "severity": "medium",
+      "icon": "📺",
+      "title": "MDR Thüringen – Rundfunkstaatsvertrag",
+      "subtitle": "MDR serves Thuringia jointly with Saxony and Saxony-Anhalt",
+      "fullDescription": "Thuringia is served by MDR (Mitteldeutscher Rundfunk), the joint ARD broadcaster for Thuringia, Saxony, and Saxony-Anhalt. The Thüringer Landesmedienanstalt (TLM) supervises private broadcasters under MStV 2020. MDR's €650M annual budget covers the three states. Thuringia contributes proportionally via the €18.36/month Rundfunkbeitrag.",
+      "penalty": "Rundfunkbeitrag evasion: enforcement by Rundfunkbeitragsservice; fines for persistent refusal",
+      "exceptions": ["Recipients of Bürgergeld/Grundsicherung may apply for full Rundfunkbeitrag exemption"],
+      "source": "https://www.tlm.de",
+      "sourceLabel": "MDR-Staatsvertrag / TLM / MStV 2020",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the role of the TLM (Thüringer Landesmedienanstalt)?",
+        "options": ["Operates MDR for Thuringia", "Supervises private broadcasters under MStV 2020", "Collects the Rundfunkbeitrag", "Manages state television archives"],
+        "correct": 1,
+        "explanation": "The TLM (Thüringer Landesmedienanstalt) supervises private broadcasters in Thuringia under the Medienstaatsvertrag 2020, separate from the public MDR broadcaster."
+      }
+    },
+    {
+      "id": 42356,
+      "category": "Education Law",
+      "severity": "medium",
+      "icon": "🎓",
+      "title": "Friedrich-Schiller-Universität Jena – ThürHG",
+      "subtitle": "Founded 1558, excellence university under Thuringian higher education law",
+      "fullDescription": "Friedrich-Schiller-Universität Jena (FSU), founded 1558, has ~18,000 students across 10 faculties. It operates under Thüringer Hochschulgesetz (ThürHG). FSU is home to the Ernst Abbe Stiftung (Zeiss Foundation connection) and hosts leading physics/photonics research. Notable alumni: Hegel, Fichte, Schiller. In 2019, FSU Jena received Excellence cluster funding for Balance of the Microverse.",
+      "penalty": "Degree fraud: up to 3 years under §132a StGB; plagiarism: degree revocation under ThürHG §30",
+      "exceptions": ["Gasthörer (audit students) may attend lectures without degree enrollment requirements"],
+      "source": "https://www.uni-jena.de",
+      "sourceLabel": "ThürHG / FSU Jena",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year was Friedrich-Schiller-Universität Jena founded?",
+        "options": ["1409", "1502", "1558", "1694"],
+        "correct": 2,
+        "explanation": "Friedrich-Schiller-Universität Jena was founded in 1558 as the Collegium Jenense, making it one of Germany's oldest universities."
+      }
+    },
+    {
+      "id": 42357,
+      "category": "Optical Industry Law",
+      "severity": "high",
+      "icon": "🔭",
+      "title": "Carl Zeiss Jena – Ernst-Abbe-Stiftung & GmbH-Recht",
+      "subtitle": "World-leading optics company under foundation law and corporate governance",
+      "fullDescription": "Carl Zeiss AG (optics, medical technology, semiconductor equipment) is majority-owned by the Carl Zeiss Stiftung — Germany's oldest science and technology foundation (founded 1889 by Ernst Abbe). The Stiftung structure requires profit reinvestment for research under the Stiftungssatzung (foundation statutes governed by ThürStiftG). Zeiss employs ~40,000 globally, ~10,000 in Jena. Semiconductor lithography optics for ASML EUV machines are Zeiss-made.",
+      "penalty": "Foundation governance violations: Stiftungsaufsicht (state supervision) intervention under ThürStiftG",
+      "exceptions": ["Foundation distributions for public benefit purposes exempt from corporate tax under §52 AO"],
+      "source": "https://www.zeiss.de",
+      "sourceLabel": "ThürStiftG / Ernst-Abbe-Stiftung / GmbHG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What unique corporate structure governs Carl Zeiss AG, distinguishing it from typical shareholder companies?",
+        "options": ["State-owned enterprise", "Employee cooperative", "Foundation ownership (Carl Zeiss Stiftung, founded 1889)", "Listed public company with dispersed ownership"],
+        "correct": 2,
+        "explanation": "Carl Zeiss AG is majority-owned by the Carl Zeiss Stiftung, founded 1889 by Ernst Abbe, requiring profit reinvestment for research — Germany's oldest science and technology foundation structure."
+      }
+    },
+    {
+      "id": 42358,
+      "category": "Electoral Law",
+      "severity": "high",
+      "icon": "🗳️",
+      "title": "Landtag Thüringen – AfD Stärkste Kraft 2024",
+      "subtitle": "88-seat parliament; 2024 election saw AfD as largest party",
+      "fullDescription": "The Thüringer Landtag has a minimum of 88 seats elected every 5 years under ThürLWG. In the September 2024 election, AfD won 32.8% (largest party, first time a far-right party won a German state election), followed by BSW 15.8%, CDU 23.6%. ThürVerfGH confirmed AfD as largest faction. Coalition negotiations without AfD were complex; CDU-BSW-SPD minority government formed. The election triggered national constitutional debate.",
+      "penalty": "Electoral fraud: up to 5 years imprisonment under §107a StGB",
+      "exceptions": ["National minority parties exempt from 5% threshold — not applicable in Thuringia"],
+      "source": "https://www.wahlen.thueringen.de",
+      "sourceLabel": "ThürLWG / ThürVerfGH",
+      "lastUpdated": "2025-01-01",
+      "quiz": {
+        "q": "What historic electoral milestone did the AfD achieve in the 2024 Thuringia Landtag election?",
+        "options": ["First party to win 50%+ in a German state", "First far-right party to finish first in a German state election", "First party to win without any coalition partners", "First party to be banned after winning an election"],
+        "correct": 1,
+        "explanation": "The AfD's 32.8% victory in the 2024 Thuringia Landtag election made it the first time a far-right party had finished first in a German state election since WWII."
+      }
+    },
+    {
+      "id": 42359,
+      "category": "Police Law",
+      "severity": "high",
+      "icon": "👮",
+      "title": "ThürPAG – Polizeiaufgabengesetz & VS Thüringen",
+      "subtitle": "Police law in Germany's far-right extremism hotspot",
+      "fullDescription": "The Thüringer Polizeiaufgabengesetz (ThürPAG) governs SH's ~8,500 police officers. Thuringia has consistently the highest far-right extremism rates per capita in Germany. The Thüringer Landesamt für Verfassungsschutz (TLfV) monitors extremist groups. The NSU (Nationalsozialistischer Untergrund) terror cell, responsible for 10 murders 2000–2006, had roots in Thuringia — the TLfV's failure to prevent the NSU was a major scandal.",
+      "penalty": "Police powers include preventive detention up to 14 days; terrorism support: §129a StGB up to 10 years",
+      "exceptions": ["VSG Thüringen monitoring of protected political activity must respect Art. 8, 9 GG assembly and association rights"],
+      "source": "https://www.thueringen.de/polizei",
+      "sourceLabel": "ThürPAG / ThürVSG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "The NSU (Nationalsozialistischer Untergrund) terror cell, responsible for 10 murders 2000–2006, had roots in which German state?",
+        "options": ["Saxony", "Bavaria", "Thuringia", "Brandenburg"],
+        "correct": 2,
+        "explanation": "The NSU terror cell had its roots in Thuringia, and the Thüringer Landesamt für Verfassungsschutz's failure to prevent or detect the murders became a major scandal leading to parliamentary investigations."
+      }
+    },
+    {
+      "id": 42360,
+      "category": "Cultural Heritage Law",
+      "severity": "high",
+      "icon": "🏰",
+      "title": "Wartburg Eisenach – UNESCO Welterbe 1999 & DSchG",
+      "subtitle": "Luther's refuge and Minnesang castle as World Heritage",
+      "fullDescription": "Wartburg Castle (Eisenach) was inscribed UNESCO World Heritage in 1999. Martin Luther translated the New Testament into German here (1521–22, 'Junker Jörg'). The castle hosted the Wartburgfest 1817 (first national liberal student assembly, precursor to German unity movement) and the Sängerkrieg auf der Wartburg (Minnesänger competition). Protected under ThürDSchG; managed by the Wartburg-Stiftung.",
+      "penalty": "Unauthorized alterations: fines up to €500,000 under §17 ThürDSchG; vandalism: §304 StGB",
+      "exceptions": ["Annual Wartburg Foundation events (concerts, special exhibitions) exempt from normal event permit complexities under GewO"],
+      "source": "https://whc.unesco.org/en/list/897",
+      "sourceLabel": "UNESCO WHC 1999 / ThürDSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What major literary work did Martin Luther complete while hiding at Wartburg Castle in 1521–22?",
+        "options": ["The 95 Theses", "Translation of the New Testament into German", "Augsburg Confession", "Large Catechism"],
+        "correct": 1,
+        "explanation": "While hiding at Wartburg Castle under the alias 'Junker Jörg' (1521–22), Luther translated the New Testament into German in just 11 weeks, a foundational work for the German language."
+      }
+    },
+    {
+      "id": 42361,
+      "category": "Healthcare Law",
+      "severity": "high",
+      "icon": "🏥",
+      "title": "ThürKHG – Krankenhausgesetz 40 Kliniken",
+      "subtitle": "Hospital planning law for Thuringia's shrinking hospital network",
+      "fullDescription": "The Thüringer Krankenhausgesetz (ThürKHG) governs 40 hospitals with ~10,000 beds. Universitätsklinikum Jena (UKJ) is the only academic hospital (~6,500 employees, 1,400 beds). Rural hospital closures due to demographic decline (Thuringia lost 15%+ population since 1990) have been contentious. SRH Wald-Klinikum Gera and Helios Erfurt are major private operators.",
+      "penalty": "Unauthorized hospital operation: criminal prosecution and closure orders",
+      "exceptions": ["Ermächtigungen (ambulatory care permits) for hospital physicians under SGB V §116 for specialist outpatient care"],
+      "source": "https://www.landesrecht.thueringen.de/bsth/document/jlr-KHGTHrahmen",
+      "sourceLabel": "ThürKHG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many hospitals does the ThürKHG govern approximately?",
+        "options": ["15", "40", "86", "130"],
+        "correct": 1,
+        "explanation": "Thuringia's ThürKHG covers approximately 40 hospitals, a significantly reduced network compared to GDR times due to demographic decline and consolidation."
+      }
+    },
+    {
+      "id": 42362,
+      "category": "Environmental Law",
+      "severity": "high",
+      "icon": "🌲",
+      "title": "Thüringer Wald – Biosphärenreservat & BNatSchG",
+      "subtitle": "Central Germany's most important forested mountain range",
+      "fullDescription": "The Thüringer Wald (Thuringian Forest) covers 3,400 km² and is designated as a Biosphärenreservat under UNESCO. The Rennsteig ridgeway (historically separating Thuringia from Franconia) runs through the forest. National parks and nature reserves under BNatSchG §§20-36 protect rare habitats. 75,000 ha of the Thüringer Wald is protected. The Rennsteig-Wanderweg is one of Germany's most historic hiking trails.",
+      "penalty": "Illegal logging in protected zones: fines up to €50,000 + reforestation obligation",
+      "exceptions": ["Traditional firewood collection by local residents in designated areas under ThürWaldG §§10-12"],
+      "source": "https://www.thueringen.de/biosphaerenreservat",
+      "sourceLabel": "BNatSchG / UNESCO Biosphäre / ThürWaldG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What historic ridgeway runs through the Thüringer Wald, historically dividing Thuringia from Franconia?",
+        "options": ["Limes Germanicus", "Rennsteig", "Römerstraße", "Saalesteig"],
+        "correct": 1,
+        "explanation": "The Rennsteig is a historic ridgeway running ~168 km through the Thüringer Wald, serving as the watershed and historical boundary between Thuringia and Franconia."
+      }
+    },
+    {
+      "id": 42363,
+      "category": "Industrial Law",
+      "severity": "high",
+      "icon": "💡",
+      "title": "JENOPTIK Jena – AusfKontrolle & Photonik",
+      "subtitle": "Photonics and defense technology company under export control law",
+      "fullDescription": "JENOPTIK AG (formerly Carl Zeiss Jena's DRAM production and later photonics), Jena, employs ~4,500 in photonics, smart mobility, and defense technology. Products include laser systems, traffic enforcement cameras, and military optics. Operations subject to AWG/Außenwirtschaftsverordnung export controls (BAFA licensing for dual-use items and military goods). JENOPTIK is listed on MDAX.",
+      "penalty": "Unauthorized export of military/dual-use photonics: AWG §17 criminal prosecution; up to 10 years imprisonment for serious cases",
+      "exceptions": ["Intra-EU transfers of controlled goods require EU transfer license under EU 258/2019"],
+      "source": "https://www.jenoptik.de",
+      "sourceLabel": "AWG / BAFA / EU 258/2019",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What regulatory authority issues export licenses for dual-use and military goods in Germany?",
+        "options": ["Zoll (Customs)", "BND", "BAFA (Bundesamt für Wirtschaft und Ausfuhrkontrolle)", "BMVg"],
+        "correct": 2,
+        "explanation": "BAFA (Bundesamt für Wirtschaft und Ausfuhrkontrolle) issues export licenses for dual-use goods, military equipment, and controlled technologies under AWG and EU export control regulations."
+      }
+    },
+    {
+      "id": 42364,
+      "category": "Labor Law",
+      "severity": "high",
+      "icon": "🏭",
+      "title": "VW Werk Erfurt – BetrVG & IG Metall Thuringia",
+      "subtitle": "Volkswagen logistics and parts operation under codetermination law",
+      "fullDescription": "VW operates logistics and parts operations near Erfurt with ~1,400 employees. The broader Thuringian automotive supply chain (Magna, Bosch, Brose) employs ~50,000. All subject to BetrVG works councils and IG Metall Tarifvertrag Metall Thüringen. The 2023 VW cost-cutting dispute (first threatened Germany plant closures since founding) affected Thuringia's supply chain significantly.",
+      "penalty": "BetrVG violations: fines up to €10,000 per offense; lockouts prohibited under Art. 9 Abs. 3 GG collective bargaining law",
+      "exceptions": ["Betriebliche Bündnisse für Arbeit (company pacts for work) may derogate from sectoral Tarifvertrag with works council agreement"],
+      "source": "https://www.igmetall.de/thueringen",
+      "sourceLabel": "BetrVG / IG Metall Tarifvertrag / ThürArbSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What unprecedented threat did Volkswagen make in 2023 that affected Thuringia's automotive supply chain?",
+        "options": ["Relocating headquarters to Munich", "First-ever threatened plant closures in Germany since VW's founding", "Cancelling all electric vehicle production", "Moving all production to Slovakia"],
+        "correct": 1,
+        "explanation": "In 2023, VW threatened plant closures in Germany for the first time since its founding, a major escalation in cost-cutting negotiations with IG Metall that directly threatened Thuringia's automotive supply chain."
+      }
+    },
+    {
+      "id": 42365,
+      "category": "Data Protection Law",
+      "severity": "high",
+      "icon": "🔒",
+      "title": "ThürDSG – Datenschutzgesetz & TLfDI",
+      "subtitle": "State GDPR implementation and independent data protection commissioner",
+      "fullDescription": "The Thüringer Datenschutzgesetz (ThürDSG) implements GDPR (EU 2016/679) at state level. The Thüringer Landesbeauftragte für den Datenschutz und die Informationsfreiheit (TLfDI) supervises public authorities and handles data subject complaints. Notable focus areas: AfD-related data processing issues, WISMUT contamination data access, and surveillance camera regulation in Erfurt's city center.",
+      "penalty": "GDPR violations: up to €20M or 4% global annual turnover under Art. 83(5) GDPR",
+      "exceptions": ["Press and journalistic data processing under §8 ThürDSG with reduced GDPR requirements"],
+      "source": "https://www.tlfdi.de",
+      "sourceLabel": "ThürDSG / GDPR / TLfDI",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does 'TLfDI' stand for in Thuringia's data protection authority?",
+        "options": ["Thüringer Landesamt für Digitale Infrastruktur", "Thüringer Landesbeauftragte für den Datenschutz und die Informationsfreiheit", "Thüringer Landesdirektion für Inneres", "Thüringer Landesbehörde für Datenintegrität"],
+        "correct": 1,
+        "explanation": "TLfDI stands for 'Thüringer Landesbeauftragte für den Datenschutz und die Informationsfreiheit' — Thuringia's independent commissioner for data protection and freedom of information."
+      }
+    },
+    {
+      "id": 42366,
+      "category": "Social Law",
+      "severity": "high",
+      "icon": "👶",
+      "title": "ThürKitaG – Kindertagesbetreuungsgesetz",
+      "subtitle": "Fee-free childcare from age 1 with GDR-legacy high coverage",
+      "fullDescription": "The Thüringer Kindertagesbetreuungsgesetz (ThürKitaG) provides fee-free childcare (Kita) from age 1, with parents paying only for meals — one of Germany's most generous provisions. Coverage rate for under-3s: ~57% (GDR legacy). ~1,600 Kitas serve 95,000 children. Thuringia's total fertility rate (~1.45) has recovered more than other eastern states. ~€550M annually in state subsidy.",
+      "penalty": "Unlicensed Kita operation: immediate closure + fines up to €10,000 under §26 ThürKitaG",
+      "exceptions": ["Betriebskitas (workplace crèches) may operate under streamlined ThürKitaG provisions with employer support"],
+      "source": "https://www.landesrecht.thueringen.de/bsth/document/jlr-KiTaGTHrahmen",
+      "sourceLabel": "ThürKitaG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What do parents pay in Thuringia's fee-free Kita system?",
+        "options": ["Full monthly fee", "Income-based sliding scale", "Only for meals — Kita itself is free", "Nothing at all including meals"],
+        "correct": 2,
+        "explanation": "Thuringia's ThürKitaG provides fee-free childcare — parents pay only for meals, making it one of Germany's most generous childcare provision systems."
+      }
+    },
+    {
+      "id": 42367,
+      "category": "Fiscal Law",
+      "severity": "high",
+      "icon": "💰",
+      "title": "Thüringen Schuldenbremse – §98 ThürVerf",
+      "subtitle": "State debt brake mirroring federal rule, with €17bn public debt",
+      "fullDescription": "Thuringia carries ~€17bn in public debt (~€8,000 per capita). The Verfassung Art. 98 mirrors the federal Schuldenbremse (Art. 109 GG), prohibiting structural net borrowing. Thuringia receives ~€1.2bn annually through Länderfinanzausgleich. Kohlestrukturhilfen under Strukturstärkungsgesetz provide additional federal support for the Mitteldeutsches Revier transition. Annual budget: ~€12bn.",
+      "penalty": "Budget violations subject to Stabilitätsrat review and ThürVerfGH proceedings",
+      "exceptions": ["Emergency borrowing permitted under Art. 98 Abs. 2 ThürVerf with Landtag 2/3 majority and repayment obligation"],
+      "source": "https://www.thueringen.de/finanzen",
+      "sourceLabel": "Art. 98 ThürVerf / Stabilitätsrat",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how much does Thuringia receive annually through the Länderfinanzausgleich?",
+        "options": ["€120M", "€400M", "€1.2bn", "€4bn"],
+        "correct": 2,
+        "explanation": "Thuringia receives approximately €1.2bn annually through the Länderfinanzausgleich horizontal fiscal equalization system from wealthier German states."
+      }
+    },
+    {
+      "id": 42368,
+      "category": "Heritage Law",
+      "severity": "medium",
+      "icon": "🎨",
+      "title": "Bauhaus Weimar – UNESCO & Stiftung Bauhaus",
+      "subtitle": "Original Bauhaus school buildings as UNESCO World Heritage",
+      "fullDescription": "The original Bauhaus buildings in Weimar (Hauptgebäude by Walter Gropius, 1923, and Haus am Horn) are part of the 1996 UNESCO World Heritage Site shared with Dessau and Bernau. The Klassik Stiftung Weimar and Bauhaus-Universität Weimar manage the heritage. The Bauhaus was expelled from Weimar in 1925 (moving to Dessau) by conservative local government — an early political intervention in art.",
+      "penalty": "Unauthorized alterations to Bauhaus UNESCO sites: fines up to €500,000 under §17 ThürDSchG",
+      "exceptions": ["University teaching activities in historic Bauhaus buildings exempt from certain conservation restrictions"],
+      "source": "https://whc.unesco.org/en/list/729",
+      "sourceLabel": "UNESCO WHC 1996 / ThürDSchG / Bauhaus-Universität",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why did the Bauhaus move from Weimar to Dessau in 1925?",
+        "options": ["Weimar buildings were too small", "Conservative Weimar government expelled the Bauhaus due to its modernist politics", "Dessau offered better facilities", "Walter Gropius preferred Dessau"],
+        "correct": 1,
+        "explanation": "The conservative Weimar state government, hostile to the Bauhaus's modernist and left-leaning politics, withdrew funding and effectively expelled the school, forcing it to relocate to the more welcoming Dessau in 1925."
+      }
+    },
+    {
+      "id": 42369,
+      "category": "Environmental Law",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Saale-Elster-Talsperre – WHG & Hochwasserschutz",
+      "subtitle": "Reservoir system for flood control and water supply under water law",
+      "fullDescription": "Thuringia operates Germany's densest network of Talsperren (reservoirs) — 65+ reservoirs including the Bleilochtalsperre (Germany's largest by volume at 215 Mio. m³) and Hohenwarte reservoir. All governed under WHG and ThürWG (Thüringer Wassergesetz). They provide drinking water (1.5M people), hydropower (140 MW), and flood control for downstream Saale/Elbe regions.",
+      "penalty": "Unauthorized water extraction from reservoirs: WHG §89 liability; pollution of drinking water reservoirs: criminal prosecution",
+      "exceptions": ["Emergency water extraction during drought permitted by TLUG (Thüringer Landesanstalt für Umwelt) under WHG §50"],
+      "source": "https://www.thueringen.de/talsperren",
+      "sourceLabel": "WHG / ThürWG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which reservoir in Thuringia is Germany's largest by volume?",
+        "options": ["Hohenwarte", "Bleilochtalsperre (215 Mio. m³)", "Edersee", "Möhnesee"],
+        "correct": 1,
+        "explanation": "The Bleilochtalsperre in Thuringia, with a volume of approximately 215 million m³, is Germany's largest reservoir by volume."
+      }
+    },
+    {
+      "id": 42370,
+      "category": "Transport Law",
+      "severity": "medium",
+      "icon": "🚄",
+      "title": "VDE 8 Erfurt Knoten – AEG & ICE Strecke",
+      "subtitle": "Erfurt as central node in Germany's high-speed rail network",
+      "fullDescription": "Erfurt is the central node of the VDE 8 (Verkehrsprojekt Deutsche Einheit Nr. 8) high-speed rail network connecting Berlin-Erfurt-München (300 km/h). The Erfurt Hauptbahnhof underwent €400M renovation (1999–2008). New tunnels through the Thüringer Wald (Rennsteigtunnel, 8.3 km) and the Thüringer-Wald-Tunnel (8.3 km). Erfurt-Halle/Leipzig Neubaustrecke opened 2015.",
+      "penalty": "Railway safety violations: EBA enforcement; unauthorized track access: criminal prosecution",
+      "exceptions": ["Heritage steam railways operating on historic Thüringer Wald narrow-gauge routes under simplified EBO provisions"],
+      "source": "https://www.vde8.de",
+      "sourceLabel": "AEG / EBO / VDE 8",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the length of the Rennsteigtunnel, built for the VDE 8 high-speed line through the Thüringer Wald?",
+        "options": ["2.1 km", "4.5 km", "8.3 km", "18.0 km"],
+        "correct": 2,
+        "explanation": "The Rennsteigtunnel, built for the VDE 8 ICE line through the Thüringer Wald, is 8.3 km long — one of Germany's longest railway tunnels."
+      }
+    },
+    {
+      "id": 42371,
+      "category": "Criminal Law",
+      "severity": "critical",
+      "icon": "🎯",
+      "title": "NSU-Komplex – §129a StGB & Verfassungsschutzversagen",
+      "subtitle": "Neo-Nazi terror cell with Thuringian roots killed 10 people 2000–2006",
+      "fullDescription": "The NSU (Nationalsozialistischer Untergrund), formed in Thuringia's Jena, committed 10 racially motivated murders, 3 bombings, and 15 bank robberies 2000–2011. Beate Zschäpe was convicted (§211 murder, §129a terrorism) to life imprisonment plus preventive detention (2018). The TLfV's failure to detect the NSU despite informant contacts triggered massive reforms to Verfassungsschutz oversight and the NSU parliamentary inquiry.",
+      "penalty": "NSU-type terrorism (§129a StGB): up to life imprisonment + preventive detention (Sicherungsverwahrung) under §66 StGB",
+      "exceptions": ["Peripheral associates who provided minimal support may face reduced charges under §129a Abs. 6 StGB"],
+      "source": "https://www.bundesgerichtshof.de/nsu",
+      "sourceLabel": "§129a StGB / §211 StGB / §66 StGB",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many murders did the NSU commit between 2000 and 2011?",
+        "options": ["3", "7", "10", "14"],
+        "correct": 2,
+        "explanation": "The NSU committed 10 racially motivated murders (9 of Turkish/Greek background, 1 German police officer), 3 bombings, and 15 bank robberies before being exposed in 2011."
+      }
+    },
+    {
+      "id": 42372,
+      "category": "Agricultural Law",
+      "severity": "medium",
+      "icon": "🌾",
+      "title": "Thüringer Agrarstruktur – Große Betriebe & EU GAP",
+      "subtitle": "GDR collectivization legacy creates Germany's third-largest average farm size",
+      "fullDescription": "Thuringia has ~790,000 ha of agricultural land with Germany's third-largest average farm size (~180 ha) due to GDR collectivization into LPGs. ~5,500 farms operate with EU CAP direct payments of ~€250M/year. Thüringer Ökoherz promotes organic farming (10% of farmland). Sugar beet, grain, and rapeseed are the main crops. Thuringia's Saale valley produces quality sparkling wine (Sekt).",
+      "penalty": "EU GAP subsidy fraud: full repayment + 50% penalty + criminal prosecution under §264 StGB",
+      "exceptions": ["Small farmers under 5 ha may use simplified EU CAP application procedures"],
+      "source": "https://www.thueringen.de/landwirtschaft",
+      "sourceLabel": "EU GAP / InVeKoS / ThürLandwG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Thuringia's average farm size approximately, reflecting GDR collectivization?",
+        "options": ["45 ha", "90 ha", "180 ha", "350 ha"],
+        "correct": 2,
+        "explanation": "Thuringia's average farm size is approximately 180 ha — Germany's third-largest — a legacy of GDR collectivization that created large agricultural production units."
+      }
+    },
+    {
+      "id": 42373,
+      "category": "Cultural Heritage Law",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Buchenwald KZ-Gedenkstätte – Erinnerungsrecht & StGB",
+      "subtitle": "Nazi concentration camp memorial protected under criminal law and heritage rules",
+      "fullDescription": "KZ Buchenwald (near Weimar, 1937–1945, ~56,000 deaths) is now a protected memorial under ThürDSchG and federal Denkmalschutz. Holocaust denial at the site triggers §130 StGB prosecution. The Gedenkstätte Buchenwald und Mittelbau-Dora is federally co-funded (~€11M/year). Post-1945, the Soviet NKVD used the site as Speziallager Nr. 2 (1945–1950), adding a second layer of memorial complexity.",
+      "penalty": "Holocaust denial at memorial sites: §130 StGB (Volksverhetzung) up to 5 years imprisonment; vandalism: §304 StGB",
+      "exceptions": ["Academic research and teaching at memorial sites protected under Art. 5 Abs. 3 GG Wissenschaftsfreiheit"],
+      "source": "https://www.buchenwald.de",
+      "sourceLabel": "§130 StGB / ThürDSchG / Art. 5 GG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many people died in KZ Buchenwald near Weimar between 1937 and 1945?",
+        "options": ["5,600", "12,000", "56,000", "250,000"],
+        "correct": 2,
+        "explanation": "Approximately 56,000 people died in KZ Buchenwald (near Weimar) between its establishment in 1937 and liberation in 1945, from execution, starvation, disease, and medical experiments."
+      }
+    },
+    {
+      "id": 42374,
+      "category": "Tax Law",
+      "severity": "medium",
+      "icon": "💰",
+      "title": "Grunderwerbsteuer Thüringen – 6.5%",
+      "subtitle": "Highest German real estate transfer tax rate",
+      "fullDescription": "Thuringia sets its Grunderwerbsteuer at 6.5% under GrEStG §11 — tied for Germany's highest alongside Brandenburg, NRW, Saarland, and Schleswig-Holstein. Given relatively low Thuringian property values (Erfurt apartment avg. ~€3,000/m²), the absolute tax burden is moderate. The state debates reducing the rate to attract homebuyers following eastern Germany's demographic challenges.",
+      "penalty": "Property transfer tax evasion: surcharges + interest + criminal prosecution under §370 AO",
+      "exceptions": ["Family transfers (spouse, children) exempt under §3 GrEStG; real estate investment trusts (REITs) under §3 Nr. 9 GrEStG"],
+      "source": "https://www.thueringen.de/steuern",
+      "sourceLabel": "GrEStG §11",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Thuringia's Grunderwerbsteuer (real estate transfer tax) rate?",
+        "options": ["3.5%", "5.5%", "6%", "6.5%"],
+        "correct": 3,
+        "explanation": "Thuringia sets the Grunderwerbsteuer at 6.5%, tied for Germany's highest rate alongside Brandenburg, NRW, Saarland, and Schleswig-Holstein."
+      }
+    },
+    {
+      "id": 42375,
+      "category": "Police Law",
+      "severity": "high",
+      "icon": "🏛️",
+      "title": "ThürVerfGH – Landesverfassungsgericht Thüringen",
+      "subtitle": "State constitutional court with landmark far-right exclusion rulings",
+      "fullDescription": "The Verfassungsgerichtshof des Freistaates Thüringen (ThürVerfGH) reviews state laws and resolves organ disputes. It has 10 judges (5 judges and 5 lay judges) appointed by the Landtag. Notable 2020 ruling: the ThürVerfGH upheld the Landtag's right to elect a Minister-President with AfD votes (Thomas Kemmerich FDP incident), causing a national political crisis. The Kemmerich affair triggered §§60-62 Verfassung debates.",
+      "penalty": "Unconstitutional laws declared void; organ decisions binding on Landtag and state government",
+      "exceptions": ["ThürVerfGH cannot review constitutionality of federal laws — BVerfG exclusively competent"],
+      "source": "https://www.thueringen.de/verfassungsgerichtshof",
+      "sourceLabel": "ThürVerfGHG / Art. 80 ThürVerf",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What nationally controversial political event in 2020 involved Thuringia's Landtag and the AfD?",
+        "options": ["AfD banned from the Landtag by ThürVerfGH", "FDP's Thomas Kemmerich elected Minister-President with AfD votes, triggering national crisis", "AfD formed a coalition with CDU", "Thuringia held a second election after AfD interference"],
+        "correct": 1,
+        "explanation": "In February 2020, FDP's Thomas Kemmerich was elected Thuringia's Minister-President with decisive AfD votes, triggering a national political crisis and his immediate resignation — the first time the far-right had co-determined a state government leadership."
+      }
+    },
+    {
+      "id": 42376,
+      "category": "Energy Law",
+      "severity": "high",
+      "icon": "☀️",
+      "title": "Klimaschutzgesetz Thüringen – ThürKlimaG",
+      "subtitle": "Climate neutrality by 2045 with 65% renewable energy target 2030",
+      "fullDescription": "Thuringia's Klimaschutzgesetz (ThürKlimaG) 2022 targets 65% renewable electricity by 2030 and climate neutrality by 2045. Wind energy expansion is constrained by the Thüringer Wald's protected status and tourism concerns. Solar energy on rooftops and agricultural land (Agri-PV) is being accelerated. Coal transition support through Strukturstärkungsgesetz (Mitteldeutsches Revier) provides ~€700M for Thuringia.",
+      "penalty": "Climate program targets without binding individual penalties; industrial operators subject to EU ETS and BImSchG",
+      "exceptions": ["Agri-PV installations on agricultural land may qualify for both EEG and EU agricultural support simultaneously"],
+      "source": "https://www.landesrecht.thueringen.de/bsth/document/jlr-KlimaGTHrahmen",
+      "sourceLabel": "ThürKlimaG 2022 / EEG / EU ETS",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What share of Thuringia's electricity should come from renewables by 2030 under ThürKlimaG?",
+        "options": ["35%", "50%", "65%", "100%"],
+        "correct": 2,
+        "explanation": "Thuringia's ThürKlimaG 2022 targets 65% renewable electricity by 2030, with full climate neutrality by 2045."
+      }
+    },
+    {
+      "id": 42377,
+      "category": "Heritage Law",
+      "severity": "medium",
+      "icon": "📚",
+      "title": "Herzogin Anna Amalia Bibliothek – Brandschutz & UNESCO",
+      "subtitle": "Historic library damaged by fire 2004; restoration complete 2007",
+      "fullDescription": "The Duchess Anna Amalia Bibliothek (Weimar, founded 1691), UNESCO World Heritage part, suffered a devastating fire in September 2004, destroying 50,000 volumes and damaging 62,000 more. Restoration cost ~€17M (2004–2007). The fire triggered national reform of DIN 14096 (fire protection in libraries). The library holds 1M volumes including the only known copy of a 16th-century Luther Bible.",
+      "penalty": "Fire safety violations in heritage buildings: BrSchG Thür enforcement; criminal arson: §306 StGB",
+      "exceptions": ["Emergency digitization of unique manuscripts permitted without full copyright clearance under §60e UrhG (archiving exception)"],
+      "source": "https://www.klassik-stiftung.de/einrichtungen/herzogin-anna-amalia-bibliothek",
+      "sourceLabel": "DIN 14096 / §306 StGB / §60e UrhG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many volumes were destroyed or damaged in the 2004 Herzogin Anna Amalia Bibliothek fire?",
+        "options": ["5,000 destroyed, 6,000 damaged", "50,000 destroyed, 62,000 damaged", "500,000 total lost", "All 1M volumes affected"],
+        "correct": 1,
+        "explanation": "The 2004 fire destroyed approximately 50,000 volumes and damaged 62,000 more at the Herzogin Anna Amalia Bibliothek, with restoration costing ~€17M over three years."
+      }
+    },
+    {
+      "id": 42378,
+      "category": "Pharmaceutical Law",
+      "severity": "medium",
+      "icon": "💊",
+      "title": "Apotheken Thüringen – ApoG & Dichte",
+      "subtitle": "Pharmacy regulation in a state with below-average pharmacy density",
+      "fullDescription": "Thuringia has ~600 licensed pharmacies (Apotheken) regulated under ApoG and supervised by Landesapothekerkammer Thüringen. Pharmacy density: ~28 per 100,000 inhabitants (below national average of 22/100,000 — actually above, but rural access is poor). DocMorris online pharmacy (EUGH C-322/01) case affects cross-border mail-order. Rural Thuringia faces Apothekensterben (pharmacy closures) threatening Daseinsvorsorge.",
+      "penalty": "Operating pharmacy without Approbation: criminal prosecution under §5 HeilprG; prescription violations: up to 3 years under §95 AMG",
+      "exceptions": ["Notfallversorgung (emergency dispensing) by hospitals permitted when no pharmacy available within reasonable distance"],
+      "source": "https://www.thueringen.de/apotheken",
+      "sourceLabel": "ApoG / AMG / EUGH C-322/01",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What phenomenon describes the ongoing closure of rural pharmacies in Thuringia and other eastern states?",
+        "options": ["Apothekenmigration", "Apothekensterben", "Apothekenreform", "Apothekenfusion"],
+        "correct": 1,
+        "explanation": "Apothekensterben (pharmacy dying) describes the ongoing closure of rural pharmacies across eastern Germany including Thuringia, threatening pharmaceutical care in rural areas."
+      }
+    },
+    {
+      "id": 42379,
+      "category": "Cultural Law",
+      "severity": "medium",
+      "icon": "🎻",
+      "title": "Staatskapelle Weimar – Ältestes Berufsorchester Deutschlands",
+      "subtitle": "Founded 1482, world's oldest professional orchestra under TVK",
+      "fullDescription": "Staatskapelle Weimar, founded 1482, is the world's oldest professional orchestra and formerly directed by Liszt, Humperdinck, and Strauss. Its ~80 musicians are employed under Tarifvertrag für Musiker in Kulturorchestern (TVK) by the state of Thuringia via the Deutsches Nationaltheater Weimar. Annual subsidy: ~€12M. The DNT (Deutsches Nationaltheater) was where the Weimar Republic's constitution was proclaimed in 1919.",
+      "penalty": "TVK collective agreement violations: labor court proceedings; collective action rights protected under Art. 9 Abs. 3 GG",
+      "exceptions": ["Guest performers engaged on short-term contracts outside TVK provisions for individual engagements"],
+      "source": "https://www.nationaltheater-weimar.de",
+      "sourceLabel": "TVK / ThürKulturFG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year was the Staatskapelle Weimar founded, making it the world's oldest professional orchestra?",
+        "options": ["1382", "1482", "1582", "1682"],
+        "correct": 1,
+        "explanation": "The Staatskapelle Weimar was founded in 1482, making it the world's oldest professional orchestra — still active over 540 years later."
+      }
+    },
+    {
+      "id": 42380,
+      "category": "Wildlife Law",
+      "severity": "medium",
+      "icon": "🐺",
+      "title": "Wolf Rückkehr Thüringen – §44 BNatSchG & Herdenschutz",
+      "subtitle": "Expanding wolf population under strict protection",
+      "fullDescription": "Wolves returned to Thuringia around 2015, with 5+ packs established by 2023 mainly in the Thüringer Wald and Schiefergebirge. Strictly protected under §44 BNatSchG and FFH Annex IV. The ThürWolfFonds provides compensation for livestock losses and subsidizes electric fencing (Herdenschutz). Removal permits (Entnahme) require federal-state authorization and systematic livestock damage threshold.",
+      "penalty": "Illegal wolf killing: up to 5 years imprisonment under §69 BNatSchG + fines up to €50,000",
+      "exceptions": ["Immediate defense of directly attacked livestock or humans may justify scaring without criminal liability"],
+      "source": "https://www.thueringen.de/wolf",
+      "sourceLabel": "§44 BNatSchG / FFH Annex IV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many wolf packs are established in Thuringia?",
+        "options": ["1", "3", "5+", "15"],
+        "correct": 2,
+        "explanation": "By 2023, Thuringia has 5+ established wolf packs, primarily in the Thüringer Wald and Schiefergebirge, since wolves returned around 2015."
+      }
+    },
+    {
+      "id": 42381,
+      "category": "Building Law",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "ThürBO – Bauordnung 2014 & Solar Pflicht",
+      "subtitle": "Building code with 2023 solar mandate for new construction",
+      "fullDescription": "The Thüringer Bauordnung (ThürBO) 2014 governs building permits and construction safety. Solar installation mandatory for new commercial buildings since 2023 ThürBO amendment. Buildings over 22m require fire-resistant construction. Denkmalschutz areas (extensive in Erfurt, Weimar, Gotha) require special consultation with ThürDSchG authorities before construction.",
+      "penalty": "Unauthorized construction: fines up to €500,000 + demolition orders under §79 ThürBO",
+      "exceptions": ["Structures under 10m² without residential use may be erected without full ThürBO permit in many zones"],
+      "source": "https://www.landesrecht.thueringen.de/bsth/document/jlr-BauOTHrahmen",
+      "sourceLabel": "ThürBO 2014 / ThürDSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Since when is solar installation mandatory for new commercial buildings under ThürBO?",
+        "options": ["2019", "2021", "2023", "Not yet mandatory"],
+        "correct": 2,
+        "explanation": "Thuringia's 2023 ThürBO amendment introduced mandatory solar installation for new commercial buildings, following similar reforms in other German states."
+      }
+    },
+    {
+      "id": 42382,
+      "category": "Social Law",
+      "severity": "high",
+      "icon": "💼",
+      "title": "Jobcenter Thüringen – SGB II 85,000 Empfänger",
+      "subtitle": "Social welfare for 85,000 Bürgergeld recipients in shrinking state",
+      "fullDescription": "Thuringia's 17 Jobcenter serve ~85,000 Bürgergeld recipients under SGB II. Unemployment: ~5.7%, near national average but structural youth unemployment is higher in rural areas. The Bürgergeldgesetz 2023 raised rates to €563/month. Thuringia's population declined from 2.7M (1990) to 2.1M (2024), reducing the tax base and increasing per-capita social spending.",
+      "penalty": "SGB II fraud: repayment + up to 5 years imprisonment for systematic cases under §263 StGB",
+      "exceptions": ["Selbständige (self-employed) in Bürgergeld may deduct reasonable business costs under §11b SGB II"],
+      "source": "https://www.arbeitsagentur.de/thueringen",
+      "sourceLabel": "SGB II / Bürgergeldgesetz 2023",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much has Thuringia's population declined from 1990 to 2024?",
+        "options": ["From 2.3M to 2.1M", "From 2.7M to 2.1M", "From 3.1M to 2.1M", "From 1.9M to 2.1M"],
+        "correct": 1,
+        "explanation": "Thuringia's population declined from approximately 2.7M in 1990 to 2.1M in 2024 — a loss of ~600,000 people due to emigration and low birth rates following reunification."
+      }
+    },
+    {
+      "id": 42383,
+      "category": "Commercial Law",
+      "severity": "medium",
+      "icon": "🏪",
+      "title": "LadÖffG Thüringen – 4 Sonntagsöffnungen",
+      "subtitle": "Shop opening law permitting 4 trading Sundays in Thuringia",
+      "fullDescription": "Thuringia's Ladenöffnungsgesetz (ThürLadÖffG) permits shops to open on 4 Sundays per year with municipal approval — among the most restrictive in Germany. Workers receive Sunday premium pay under ArbZG §9. Major events like the Erfurt Christmas Market (Weihnachtsmarkt on Domplatz, running since 1300s) generate the primary Sunday openings. Pharmacies, gas stations, and flower shops are exempt.",
+      "penalty": "Unauthorized Sunday trading: fines up to €25,000 per offense under §8 ThürLadÖffG",
+      "exceptions": ["Tourist infrastructure (museums, attractions, restaurants) not subject to Ladenöffnungsgesetz Sunday restrictions"],
+      "source": "https://www.landesrecht.thueringen.de/bsth/document/jlr-LadÖffGTHrahmen",
+      "sourceLabel": "ThürLadÖffG / ArbZG §9",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many trading Sundays per year does Thuringia permit under ThürLadÖffG?",
+        "options": ["2", "4", "8", "12"],
+        "correct": 1,
+        "explanation": "Thuringia permits retail shops to open on 4 Sundays per year under ThürLadÖffG — among Germany's most restrictive Sunday trading rules."
+      }
+    },
+    {
+      "id": 42384,
+      "category": "Heritage Law",
+      "severity": "medium",
+      "icon": "🏰",
+      "title": "Erfurter Altstadt – Mittelalterliche Synagoge & DSchG",
+      "subtitle": "Medieval Jewish heritage and Altstadtschutz in Thuringia's capital",
+      "fullDescription": "Erfurt's medieval Jewish heritage includes the Old Synagogue (Alte Synagoge, built 1094, one of Europe's oldest preserved synagogues) and the Mikveh (ritual bath), inscribed UNESCO World Heritage in 2023 as part of ShUM-Sites network (Speyer-Worms-Mainz-Erfurt extension). Protected under ThürDSchG. Erfurt's Altstadt has 5,000+ protected buildings — the largest historic city center in Thuringia.",
+      "penalty": "Unauthorized alterations to Erfurt Altstadt protected buildings: fines up to €500,000 under §17 ThürDSchG",
+      "exceptions": ["Standard residential maintenance using materials approved by Denkmalschutzbehörde exempt from full permit procedures"],
+      "source": "https://whc.unesco.org/en/list/1727",
+      "sourceLabel": "UNESCO WHC 2023 / ThürDSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was Erfurt's Old Synagogue (Alte Synagoge) built?",
+        "options": ["792 AD", "1094 AD", "1348 AD", "1492 AD"],
+        "correct": 1,
+        "explanation": "Erfurt's Alte Synagoge (Old Synagogue) was built in 1094 AD, making it one of the oldest preserved synagogues in Europe and now part of a UNESCO World Heritage Site."
+      }
+    },
+    {
+      "id": 42385,
+      "category": "Fire Safety Law",
+      "severity": "high",
+      "icon": "🚒",
+      "title": "ThürBKG – Brandschutz- und Katastrophenschutzgesetz",
+      "subtitle": "Fire service and civil protection law for Thuringia",
+      "fullDescription": "The Thüringer Brand- und Katastrophenschutzgesetz (ThürBKG) governs fire protection and civil defense. Thuringia has ~1,100 volunteer fire departments (Freiwillige Feuerwehren) with 40,000+ members and 5 professional departments (Berufsfeuerwehren: Erfurt, Jena, Gera, Suhl, Eisenach). The Landesfeuerwehrschule Thüringen trains firefighters. Rural demographic decline threatens volunteer recruitment.",
+      "penalty": "Arson (§306 StGB): up to 10 years; schwere Brandstiftung (§306a): up to life if deaths result",
+      "exceptions": ["Controlled burns for heathland management permitted with advance TLfV/fire authority notification"],
+      "source": "https://www.landesrecht.thueringen.de/bsth/document/jlr-BrandKatSchGTHrahmen",
+      "sourceLabel": "ThürBKG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many volunteer fire department members does Thuringia have approximately?",
+        "options": ["10,000", "25,000", "40,000+", "80,000"],
+        "correct": 2,
+        "explanation": "Thuringia has over 40,000 volunteer fire department members across approximately 1,100 departments, supplemented by 5 professional fire departments in larger cities."
+      }
+    },
+    {
+      "id": 42386,
+      "category": "Administrative Law",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Kommunalrecht Thüringen – ThürKO 17 Landkreise",
+      "subtitle": "Municipal law for Thuringia's 800+ municipalities",
+      "fullDescription": "The Thüringer Kommunalordnung (ThürKO) governs ~800 municipalities organized into 17 Landkreise plus 6 independent cities (Erfurt, Jena, Gera, Suhl, Weimar, Eisenach). Thuringia completed a major Gemeindegebietsreform 2013 reducing municipalities from 1,000+ to 800. Bürgerentscheide (citizen referenda) permitted for local issues under §17a ThürKO. Ehrenamtliche Bürgermeister prevalent in small communities.",
+      "penalty": "Municipal budget violations: Kommunalaufsicht intervention (ThürTMBV); personal liability for Bürgermeister under ThürKO §29",
+      "exceptions": ["Municipalities under 3,000 may form Verwaltungsgemeinschaften for shared administrative services"],
+      "source": "https://www.landesrecht.thueringen.de/bsth/document/jlr-GemOTHrahmen",
+      "sourceLabel": "ThürKO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many Landkreise does Thuringia have alongside 6 independent cities?",
+        "options": ["8", "12", "17", "23"],
+        "correct": 2,
+        "explanation": "Thuringia has 17 Landkreise plus 6 kreisfreie Städte (independent cities: Erfurt, Jena, Gera, Suhl, Weimar, Eisenach)."
+      }
+    },
+    {
+      "id": 42387,
+      "category": "Nature Law",
+      "severity": "high",
+      "icon": "🌿",
+      "title": "Naturpark Thüringer Wald – LNatSchG & Tourismus",
+      "subtitle": "Thuringia's main nature park balancing tourism and conservation",
+      "fullDescription": "Naturpark Thüringer Wald (200,000+ ha) is Thuringia's largest protected area under LNatSchG Thüringen and BNatSchG. The park supports €500M+ annual tourism revenue (skiing, hiking, Rennsteig route). Bark beetle damage from 2018–2022 droughts required emergency management. The Biosphärenreservat Thüringer Wald (1990, UNESCO) overlaps with the national park.",
+      "penalty": "Prohibited activities in nature park core zones: fines up to €25,000; commercial timber harvesting without permit: §24 LNatSchG TH",
+      "exceptions": ["Traditional Kalibergbau (traditional crafts) and existing agricultural use continue under conservation plans"],
+      "source": "https://www.naturpark-thueringer-wald.de",
+      "sourceLabel": "LNatSchG TH / BNatSchG §20",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately what annual tourism revenue does the Thüringer Wald nature park generate?",
+        "options": ["€50M", "€150M", "€500M+", "€2bn"],
+        "correct": 2,
+        "explanation": "The Thüringer Wald generates over €500M annually in tourism revenue from hiking, skiing, cycling, and cultural tourism along the Rennsteig and surrounding areas."
+      }
+    },
+    {
+      "id": 42388,
+      "category": "Disability Law",
+      "severity": "medium",
+      "icon": "♿",
+      "title": "ThürBGG – Behindertengleichstellungsgesetz Thüringen",
+      "subtitle": "State accessibility law for 160,000 severely disabled Thuringians",
+      "fullDescription": "The Thüringer Behindertengleichstellungsgesetz (ThürBGG) implements UNCRPD at state level. ~160,000 persons in Thuringia hold Schwerbehindertenausweis (GdB ≥50%). Public authority websites must meet WCAG 2.1 AA under BITV 2.0. The Thüringer Beauftragter für Menschen mit Behinderungen represents interests before the Landtag. Rural accessibility (transport, public buildings) remains a major challenge.",
+      "penalty": "Public authority accessibility failures: administrative proceedings; significant projects may require Behindertenbeauftragter consultation",
+      "exceptions": ["Disproportionate burden exemption available for small public bodies with written justification"],
+      "source": "https://www.landesrecht.thueringen.de/bsth/document/jlr-BehGlGTHrahmen",
+      "sourceLabel": "ThürBGG / UNCRPD / BITV 2.0",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many Thuringians hold a Schwerbehindertenausweis (GdB ≥50%)?",
+        "options": ["16,000", "60,000", "160,000", "500,000"],
+        "correct": 2,
+        "explanation": "Approximately 160,000 Thuringians hold a Schwerbehindertenausweis indicating a Grad der Behinderung of 50% or higher, entitling them to various legal protections and benefits."
+      }
+    },
+    {
+      "id": 42389,
+      "category": "Food Law",
+      "severity": "medium",
+      "icon": "🌭",
+      "title": "Thüringer Rostbratwurst – GI EU 1151/2012",
+      "subtitle": "Germany's most famous regional sausage protected as geographical indication",
+      "fullDescription": "The Thüringer Rostbratwurst (grilled sausage) is protected as a geographical indication under EU 1151/2012 (PGI — Protected Geographical Indication). Only sausages produced in Thuringia using the traditional recipe (predominantly pork, marjoram, caraway) may use the designation. Thuringia produces ~200M Rostbratwürste annually. The Thüringer Bratwurstfest in Erfurt is the world's largest bratwurst festival.",
+      "penalty": "False Thüringer Rostbratwurst labeling: injunctions + fines under EU 1151/2012; LFGB §59 food fraud",
+      "exceptions": ["Home production using traditional recipe without commercial sale exempt from GI restrictions"],
+      "source": "https://door.ec.europa.eu",
+      "sourceLabel": "EU PGI 1151/2012 / LFGB",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What key spices characterize the traditional Thüringer Rostbratwurst recipe protected as EU PGI?",
+        "options": ["Paprika and garlic", "Marjoram and caraway", "Pepper and nutmeg", "Thyme and rosemary"],
+        "correct": 1,
+        "explanation": "The Thüringer Rostbratwurst's traditional recipe, protected as EU PGI, is characterized by marjoram and caraway as the dominant spices in predominantly pork sausage."
+      }
+    },
+    {
+      "id": 42390,
+      "category": "Research Law",
+      "severity": "medium",
+      "icon": "🔬",
+      "title": "Fraunhofer IOF Jena – ArbEG & Photonik-Patente",
+      "subtitle": "Photonics research institute IP law and employee invention rights",
+      "fullDescription": "Fraunhofer Institut für Angewandte Optik und Feinmechanik (IOF) Jena employs ~470 scientists in photonics, laser technology, and optical systems for defense/space. Employee inventions under ArbEG §5 require 4-month disclosure to employer; Fraunhofer takes ownership with inventor compensation. Photonics-related patents are Thuringia's primary IP export. IOF cooperates with ZEISS, JENOPTIK, and Schott (glass, Mainz).",
+      "penalty": "Failure to disclose employee inventions: employer may lose patent rights under ArbEG §9; inventor underpayment: civil claims",
+      "exceptions": ["Free inventions (Freie Erfindungen) — unrelated to employer's business — remain employee property under ArbEG §4"],
+      "source": "https://www.iof.fraunhofer.de",
+      "sourceLabel": "ArbEG / §52 AO / PatG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under ArbEG §5, how long does an employee have to disclose an invention made during employment?",
+        "options": ["1 month", "4 months", "6 months", "1 year"],
+        "correct": 1,
+        "explanation": "ArbEG §5 requires employees to disclose inventions made during their employment to their employer within 4 months (Unverzüglichkeit — without undue delay)."
+      }
+    },
+    {
+      "id": 42391,
+      "category": "Constitutional Law",
+      "severity": "high",
+      "icon": "🏛️",
+      "title": "Weimarer Republik – Reichsverfassung 1919 & Nationalversammlung",
+      "subtitle": "Historical constitutional significance of Weimar as birthplace of German democracy",
+      "fullDescription": "The Weimar Republic's constitution (Weimarer Reichsverfassung) was drafted and adopted in Weimar's National Theatre on 31 July 1919. Weimar was chosen as safer than Berlin amid post-WWI unrest. The constitution introduced universal suffrage including women, proportional representation, and strong presidential powers (Art. 48 emergency decree). The WRV remained technically in force until 1945. Thuringia's connection to this foundational democratic document is commemorated at the Deutsches Nationaltheater Weimar.",
+      "penalty": "Historical law — no current penalties; Art. 48 WRV emergency decrees were used to undermine democracy 1930–1933",
+      "exceptions": ["GG 1949 superseded WRV; Basic Law's eternity clause (Art. 79(3) GG) protects against WRV-style concentration of executive power"],
+      "source": "https://www.reichstagsprotokolle.de/Blatt_k10_bsb00000073_00023.html",
+      "sourceLabel": "Weimarer Reichsverfassung 1919",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why was the German National Assembly held in Weimar rather than Berlin in 1919?",
+        "options": ["Berlin had been bombed", "Weimar had a larger parliament building", "Berlin was considered too dangerous amid post-WWI unrest", "It was required by the Versailles Treaty"],
+        "correct": 2,
+        "explanation": "Weimar was chosen because Berlin was considered unsafe due to the Spartacist uprising and ongoing political violence in early 1919. The National Theatre in Weimar provided a neutral, stable venue."
+      }
+    },
+    {
+      "id": 42392,
+      "category": "Mining Law",
+      "severity": "high",
+      "icon": "⛏️",
+      "title": "Kalibergbau Bischofferode – BBergG & Treuhandanstalt",
+      "subtitle": "Potash mining closure and worker resistance after German reunification",
+      "fullDescription": "The Bischofferode potash mine in Thuringia became a symbol of post-reunification industrial collapse. Workers staged a hunger strike in 1993 against Treuhandanstalt's decision to close the profitable mine to protect West German competitor Kali+Salz (K+S). Under BBergG (Bundesberggesetz), mine closures require state authority approval and social plans. The Treuhand closed 80% of GDR industrial enterprises; BBergG §55 requires mine operators to restore land after closure.",
+      "penalty": "Illegal mine operation without permit: BBergG §145 up to 5 years; inadequate land restoration: fines up to €50,000",
+      "exceptions": ["Mines operated before BBergG 1980 have transitional grandfather provisions under §169 BBergG"],
+      "source": "https://www.bgr.bund.de/DE/Themen/Rohstoffe/Bundesberggesetz/bundesberggesetz_node.html",
+      "sourceLabel": "BBergG / Treuhandanstalt-Abwicklungsgesetz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What form of protest did Bischofferode miners use in 1993 against the planned mine closure?",
+        "options": ["Strike and blockade", "Court injunction", "Hunger strike", "EU petition"],
+        "correct": 2,
+        "explanation": "Bischofferode miners conducted a widely publicized hunger strike in 1993, becoming a national symbol of resistance against the Treuhandanstalt's controversial closure of economically viable GDR enterprises."
+      }
+    },
+    {
+      "id": 42393,
+      "category": "Water Law",
+      "severity": "medium",
+      "icon": "💧",
+      "title": "ThürWG – Thüringer Wassergesetz & Talsperren",
+      "subtitle": "State water law governing reservoirs and drinking water protection",
+      "fullDescription": "The Thüringer Wassergesetz (ThürWG) implements WHG (Wasserhaushaltsgesetz) at state level. Thuringia has 6 major reservoirs (Talsperren) providing drinking water to 1.2 million people. The Bleilochtalsperre (215 million m³) is Germany's largest reservoir; the Hohenwartetalsperre stores 182 million m³. Water protection zones (Wasserschutzgebiete) prohibit agriculture within 10–100m of intake points. The Thüringer Fernwasserversorgung (TFW) manages inter-municipal water supply.",
+      "penalty": "Unauthorized discharge into water protection zones: WHG §89 up to €50,000; unlicensed water extraction: ThürWG fines up to €25,000",
+      "exceptions": ["Emergency fire-fighting water withdrawal exempt from normal extraction licensing under ThürWG §20"],
+      "source": "https://www.thueringen.de/th8/tlug/wasser/",
+      "sourceLabel": "ThürWG / WHG / TFW",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which reservoir in Thuringia is Germany's largest by volume?",
+        "options": ["Hohenwartetalsperre", "Bleilochtalsperre", "Schmalwassertalsperre", "Leibistalsperre"],
+        "correct": 1,
+        "explanation": "The Bleilochtalsperre on the Saale River holds approximately 215 million m³, making it Germany's largest reservoir by capacity, used for drinking water supply and hydroelectric power."
+      }
+    },
+    {
+      "id": 42394,
+      "category": "Education Law",
+      "severity": "medium",
+      "icon": "🎓",
+      "title": "ThürSchulG – Schulpflicht & Regelschulsystem",
+      "subtitle": "Compulsory education law and Thuringia's distinctive school structure",
+      "fullDescription": "The Thüringer Schulgesetz (ThürSchulG) mandates 9 years of full-time and 3 years of vocational schooling (12 years total). Thuringia retains the Regelschule (years 5–10) combining Hauptschule and Realschule tracks, abolished in most western states. PISA studies consistently rank Thuringia among Germany's top 3 states in educational performance despite high rural depopulation. Homeschooling is illegal under ThürSchulG §23; violations lead to Bußgeld up to €5,000 and compulsory school attendance enforcement.",
+      "penalty": "Homeschooling violations: Bußgeld up to €5,000; repeated truancy: criminal referral under §171 StGB (educational neglect)",
+      "exceptions": ["Temporary illness exemptions from school attendance require medical certificate for more than 3 consecutive days"],
+      "source": "https://www.landesrecht.thueringen.de/bsth/document/jlr-SchulGTHrahmen",
+      "sourceLabel": "ThürSchulG / KMK PISA Rankings",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Thuringia's distinctive secondary school type that combines Hauptschule and Realschule tracks?",
+        "options": ["Gemeinschaftsschule", "Regelschule", "Gesamtschule", "Mittelschule"],
+        "correct": 1,
+        "explanation": "Thuringia retains the Regelschule (years 5–10), a combined Hauptschule/Realschule track abolished in most western German states, which has contributed to Thuringia's consistently strong PISA performance."
+      }
+    },
+    {
+      "id": 42395,
+      "category": "Pharmaceutical Law",
+      "severity": "high",
+      "icon": "💊",
+      "title": "Jenapharm & AMG – Arzneimittelrecht in Thüringen",
+      "subtitle": "Pharmaceutical manufacturing regulation and Jena's drug industry heritage",
+      "fullDescription": "Jenapharm GmbH (Jena), founded 1950 as VEB Jenapharm, was the GDR's primary pharmaceutical manufacturer producing hormones and contraceptives (Ovosiston, first GDR contraceptive pill 1965). Post-reunification acquired by Schering AG (now Bayer), it employs ~600 in steroid hormone synthesis. Under AMG (Arzneimittelgesetz), pharmaceutical manufacturers require Herstellungserlaubnis from state health authority (TLVWA). Thuringia has ~40 pharmaceutical companies generating €1.2bn revenue.",
+      "penalty": "Manufacturing without Herstellungserlaubnis: AMG §96 up to 3 years imprisonment or fines; GMP violations: immediate production halt",
+      "exceptions": ["Magistral preparations (individualized compounding) by licensed pharmacies exempt from full AMG manufacturing permit under §13(2)"],
+      "source": "https://www.bfarm.de/DE/Arzneimittel/_node.html",
+      "sourceLabel": "AMG / TLVWA / Jenapharm Geschichte",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What was Jenapharm's landmark pharmaceutical product introduced in 1965?",
+        "options": ["Aspirin East German version", "GDR's first contraceptive pill (Ovosiston)", "First East German antibiotic", "First synthetic insulin"],
+        "correct": 1,
+        "explanation": "VEB Jenapharm introduced Ovosiston in 1965, the GDR's first oral contraceptive pill, making Jenapharm the GDR's leading pharmaceutical company in reproductive health and hormone synthesis."
+      }
+    },
+    {
+      "id": 42396,
+      "category": "Nature Conservation Law",
+      "severity": "medium",
+      "icon": "🏔️",
+      "title": "Kyffhäusergebirge – NatParkG & Gipskarst-Schutz",
+      "subtitle": "Nature park law and the Kyffhäuser Monument's legal status",
+      "fullDescription": "The Kyffhäusergebirge is a nature park (Naturpark) under ThürNatG and BNatSchG, covering 18,600 ha with gypsum karst geology unique in Germany. The Kyffhäuser Monument (1896), depicting Kaiser Barbarossa and Wilhelm I, is a listed Kulturdenkmal under ThürDSchG. The Barbarossahöhle cave system is a registered Naturdenkmal. The park hosts the Kyffhäuser National Geopark (UNESCO Geopark application pending). Mining of the Kyffhäuser copper shale was banned under nature protection orders from 1990.",
+      "penalty": "Unauthorized excavation in Naturdenkmal: BNatSchG §69 fines up to €50,000; monument damage: ThürDSchG §19 up to €250,000",
+      "exceptions": ["Scientific geological surveys by TLU (Thüringer Landesanstalt für Umwelt) permitted with ThürNatG authorization"],
+      "source": "https://www.thueringen.de/th8/tlug/naturschutz/",
+      "sourceLabel": "ThürNatG / BNatSchG / ThürDSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What geological feature makes the Kyffhäusergebirge nature park unique in Germany?",
+        "options": ["Volcanic basalt formations", "Gypsum karst geology", "Granite massif", "Coal seam outcrops"],
+        "correct": 1,
+        "explanation": "The Kyffhäusergebirge contains gypsum karst geology (Gipskarst) that is unique in Germany, including the Barbarossahöhle cave system, which is a registered Naturdenkmal under nature conservation law."
+      }
+    },
+    {
+      "id": 42397,
+      "category": "Agricultural Law",
+      "severity": "medium",
+      "icon": "🌱",
+      "title": "Zuckerrübenanbau Thüringen – EU-Zuckermarktordnung & GAP",
+      "subtitle": "Sugar beet agriculture and EU Common Market Organisation regulation",
+      "fullDescription": "Thuringia is one of Germany's major sugar beet producing regions (Kyffhäuserkreis, Unstrut-Hainich). The EU's Zuckermarktordnung (ZMO) regulated sugar beet quotas until their abolition in 2017, causing market disruption. Nordzucker and Südzucker operate processing plants near Thuringia. Under GAPÄndG (EU Common Agricultural Policy), sugar beet farmers receive direct payments via TLLLR (Thüringer Landesanstalt für Landwirtschaft). Thuringia produces approximately 2.5 million tonnes of sugar beet annually on 40,000 ha.",
+      "penalty": "GAP subsidy fraud: §264 StGB fraud up to 5 years; incorrect area declarations: administrative fines and subsidy repayment with interest",
+      "exceptions": ["Organic sugar beet cultivation receives higher agri-environment payments under KULAP (Kulturlandschaftsprogramm Thüringen)"],
+      "source": "https://www.thueringen.de/th9/tlllr/",
+      "sourceLabel": "EU ZMO / GAP / TLLLR",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did the EU abolish sugar beet production quotas, disrupting the Thuringian sugar beet industry?",
+        "options": ["2010", "2013", "2017", "2020"],
+        "correct": 2,
+        "explanation": "The EU abolished sugar beet production quotas in 2017 under the reformed EU Sugar Market Organisation (ZMO), ending decades of protected pricing and causing significant restructuring in Germany's sugar beet sector."
+      }
+    },
+    {
+      "id": 42398,
+      "category": "Criminal Law",
+      "severity": "critical",
+      "icon": "🚨",
+      "title": "Erfurter Schulamok 2002 – WaffG & Waffenrechtreform",
+      "subtitle": "School shooting law reform following Germany's deadliest school attack",
+      "fullDescription": "On 26 April 2002, Robert Steinhäuser killed 16 people (13 teachers, 2 students, 1 police officer) at Gutenberg-Gymnasium Erfurt before being shot — Germany's deadliest school shooting. The attack prompted WaffG reform (2002): minimum age for large-caliber sport shooting raised to 21, stricter safe storage requirements (§36 WaffG — gun safes, ammunition separate), and mandatory psychological screening. Schools implemented security protocols (Schulschutzkonzepte). The perpetrator used a licensed Glock 17 obtained through a sport shooting club.",
+      "penalty": "WaffG §36 storage violations: up to 3 years; negligent weapon access by third parties: §52 WaffG fines; school threats: §241 StGB threatening",
+      "exceptions": ["Licensed hunters and sport shooters at competitions exempt from minimum age under specific WaffG provisions with club supervision"],
+      "source": "https://www.bmi.bund.de/DE/themen/sicherheit/waffenrecht/waffenrecht-node.html",
+      "sourceLabel": "WaffG 2002 Reform / §36 WaffG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many people were killed in the 2002 Erfurt school shooting, making it Germany's deadliest school attack?",
+        "options": ["9", "12", "16", "21"],
+        "correct": 2,
+        "explanation": "The Erfurt school shooting on 26 April 2002 killed 16 people — 13 teachers, 2 students, and 1 police officer — making it Germany's deadliest school shooting. It triggered significant reforms to the Waffengesetz."
+      }
+    },
+    {
+      "id": 42399,
+      "category": "Land Registry Law",
+      "severity": "medium",
+      "icon": "📋",
+      "title": "Grundbuchordnung & ALKIS – Liegenschaftskataster Thüringen",
+      "subtitle": "Land registry and cadastral system in Thuringia",
+      "fullDescription": "Thuringia's land registry (Grundbuch) is maintained under GBO (Grundbuchordnung) by Amtsgerichte. The unified geospatial information system ALKIS (Amtliches Liegenschaftskatasterinformationssystem) replaced the separate ALK (Automatisierte Liegenschaftskarte) and ALB (Automatisiertes Liegenschaftsbuch) in Thuringia by 2014. All property transfers (Auflassung) must be notarized (§925 BGB) and registered in Grundbuch. Thuringia has 12 Amtsgerichte maintaining local Grundbuchämter; the TLBG (Landesamt für Bodenmanagement und Geoinformation) administers ALKIS statewide.",
+      "penalty": "Unregistered land transfer: §925 BGB Auflassung ineffective without notarization; mortgage fraud via Grundbuch manipulation: §263 StGB",
+      "exceptions": ["Inheritance (Erbfolge) transfers ownership without Auflassung under §1922 BGB; Grundbuch must be updated within 2 years or court-ordered"],
+      "source": "https://www.thueringen.de/th3/tlbg/",
+      "sourceLabel": "GBO / ALKIS / TLBG Thüringen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What replaced the separate ALK and ALB cadastral systems in Thuringia?",
+        "options": ["ATKIS", "ALKIS", "GeoBasIS", "INSPIRE"],
+        "correct": 1,
+        "explanation": "ALKIS (Amtliches Liegenschaftskatasterinformationssystem) replaced the separate ALK (map) and ALB (attribute database) systems across Germany including Thuringia by 2014, creating a unified land information system."
+      }
+    },
+    {
+      "id": 42400,
+      "category": "Waste Management Law",
+      "severity": "medium",
+      "icon": "♻️",
+      "title": "KrWG & ThürAbfG – Kreislaufwirtschaft Thüringen",
+      "subtitle": "Circular economy waste law and Thuringia's waste management system",
+      "fullDescription": "The Kreislaufwirtschaftsgesetz (KrWG 2012) implements EU Waste Framework Directive in Germany; ThürAbfG supplements at state level. Thuringia operates 17 Landkreise-level waste authorities. The state's 5-tier waste hierarchy: prevention, reuse, recycling, energy recovery, disposal. Thuringia has 3 operating landfills (Deponien Klasse II) and waste-to-energy plants at Erfurt (EVE, 140,000 t/year). Illegal dumping (wildes Kippen) is tracked via state monitoring program; ~15,000 illegal dumps cleared annually at €8M cost.",
+      "penalty": "Illegal commercial waste dumping: KrWG §69 up to €100,000 fine; organized illegal dumping (Umweltkriminalität): §326 StGB up to 5 years",
+      "exceptions": ["Agricultural composting of own organic waste on-site exempt from KrWG licensing if under 1,000 t/year threshold"],
+      "source": "https://www.landesrecht.thueringen.de/bsth/document/jlr-AbfGTHrahmen",
+      "sourceLabel": "KrWG / ThürAbfG / UBA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the annual waste processing capacity of the Erfurt waste-to-energy plant (EVE)?",
+        "options": ["50,000 tonnes", "90,000 tonnes", "140,000 tonnes", "250,000 tonnes"],
+        "correct": 2,
+        "explanation": "The Erfurter Versorgungs- und Verkehrsgesellschaft (EVE) waste-to-energy plant processes approximately 140,000 tonnes of residual waste annually, generating electricity and district heating for Erfurt."
+      }
+    },
+    {
+      "id": 42401,
+      "category": "Cultural Heritage Law",
+      "severity": "high",
+      "icon": "🎻",
+      "title": "Staatskapelle Weimar 1482 – Kunstfreiheit & Kulturförderungsrecht",
+      "subtitle": "World's oldest professional orchestra and arts freedom law",
+      "fullDescription": "The Staatskapelle Weimar, founded 1482 under Duke Wilhelm III, is the world's oldest continuously operating professional orchestra. It operates under the Kulturbetrieb des Freistaates Thüringen with ThürKultG (Thüringer Kultusgesetz). Art. 5(3) GG (Kunstfreiheit — freedom of art) is absolute, not subject to proportionality. The Deutsches Nationaltheater Weimar (DNT) and Staatskapelle receive €30M+ annual state subsidies. Programming decisions are protected by Kunstfreiheit; political interference in repertoire violates Art. 5(3) GG.",
+      "penalty": "State interference in artistic programming violates Art. 5(3) GG; public institutions restricting artistic freedom liable under §839 BGB (official liability)",
+      "exceptions": ["Public order restrictions on performances (e.g. noise limits) permissible under proportionality if not targeting artistic content"],
+      "source": "https://www.staatskapelle-weimar.de/orchester/geschichte/",
+      "sourceLabel": "Art. 5(3) GG / ThürKultG / Staatskapelle Weimar",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which year was the Staatskapelle Weimar founded, making it the world's oldest professional orchestra?",
+        "options": ["1482", "1560", "1650", "1717"],
+        "correct": 0,
+        "explanation": "The Staatskapelle Weimar was founded in 1482 under Duke Wilhelm III of Saxony, making it the world's oldest continuously operating professional orchestra, predating many other famous ensembles by centuries."
+      }
+    },
+    {
+      "id": 42402,
+      "category": "Social Law",
+      "severity": "medium",
+      "icon": "👴",
+      "title": "Demografischer Wandel Thüringen – SGB XII & ThürPflegeG",
+      "subtitle": "Demographic decline, elderly care law and rural depopulation",
+      "fullDescription": "Thuringia's population fell from 2.7 million (1990) to 2.1 million (2024), the steepest decline of any German state. The 65+ cohort represents 27% of residents. Under SGB XII (Sozialhilfe) and SGB XI (Pflegeversicherung), care facilities (Pflegeheime) must meet ThürPflegeG staffing ratios. Thuringia has ~350 Pflegeheime serving 35,000 residents; rural areas face acute care staff shortages. The Thüringer Pflegestützpunkte network (50+ locations) coordinates outpatient care. Care facility insolvencies rose 40% 2020–2024.",
+      "penalty": "Pflegeheim operating without license: ThürPflegeG §28 fines up to €25,000; inadequate staffing ratios: immediate regulatory intervention by TLVWA",
+      "exceptions": ["Small-scale assisted living (Wohngemeinschaften up to 12 persons) subject to lighter ThürWTG oversight rather than full Pflegeheim licensing"],
+      "source": "https://www.thueringen.de/th3/tmsfg/pflege/",
+      "sourceLabel": "ThürPflegeG / SGB XI / SGB XII",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By how much has Thuringia's population declined since 1990?",
+        "options": ["From 3.5M to 2.7M", "From 2.7M to 2.1M", "From 2.1M to 1.8M", "From 4.0M to 2.7M"],
+        "correct": 1,
+        "explanation": "Thuringia's population declined from approximately 2.7 million in 1990 to about 2.1 million by 2024, a loss of roughly 600,000 people representing the steepest population decline of any German state."
+      }
+    },
+    {
+      "id": 42403,
+      "category": "Forest Law",
+      "severity": "medium",
+      "icon": "🌲",
+      "title": "ThürWaldG – Thüringer Waldgesetz & Borkenkäferschäden",
+      "subtitle": "Forest law and Thuringia's extensive woodland management",
+      "fullDescription": "The Thüringer Waldgesetz (ThürWaldG) governs Thuringia's 549,000 ha of forest (34% of state area, Germany's 3rd-highest forest cover). ThüringenForst AöR manages 192,000 ha of state forest (Staatswald). Public access rights (Betretungsrecht) allow hiking and mushroom/berry picking under §14 ThürWaldG, but commercial picking requires permit. Bark beetle (Borkenkäfer) infestations destroyed 30,000 ha 2018–2022 due to drought. Climate-adapted reforestation (mixed deciduous species replacing monoculture conifers) is mandated under ThürWaldG.",
+      "penalty": "Unauthorized commercial wood removal: ThürWaldG fines up to €10,000; forest damage from off-road vehicles: up to €5,000",
+      "exceptions": ["Emergency salvage logging of bark beetle-infested trees permitted without normal felling permit under ThürWaldG §23 emergency provision"],
+      "source": "https://www.thueringenforst.de",
+      "sourceLabel": "ThürWaldG / ThüringenForst AöR",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Thuringia's area is covered by forest, making it Germany's third-highest forest cover state?",
+        "options": ["18%", "25%", "34%", "45%"],
+        "correct": 2,
+        "explanation": "Forests cover approximately 549,000 ha or 34% of Thuringia's total area, making it one of Germany's most densely forested states, managed primarily by ThüringenForst AöR which oversees 192,000 ha of state forest."
+      }
+    },
+    {
+      "id": 42404,
+      "category": "Transportation Law",
+      "severity": "medium",
+      "icon": "🛤️",
+      "title": "Rennsteig – ThürNatG & Wanderwegrecht Thüringer Wald",
+      "subtitle": "Legal status of the historic Rennsteig ridge trail",
+      "fullDescription": "The Rennsteig is a 168km ridge trail along the Thuringian Forest (Thüringer Wald) that historically served as the boundary between Thuringia and Franconia/Hesse. The trail is protected under ThürNatG as a Landschaftsschutzgebiet. It crosses the Rennsteig Biosphärenreservat (UNESCO MAB). The Rennsteig railway (Rennsteigbahn, closed 1945) bed is partly converted to cycle path under Thüringen's Radwegekonzept. The Rennsteig-Aquädukt (water aqueduct, historical) is a listed Kulturdenkmal. Annual Rennsteig-Lauf running event draws 8,000 participants under StrG Thüringen event permits.",
+      "penalty": "Off-trail driving in Landschaftsschutzgebiet: ThürNatG fines up to €25,000; unauthorized trail modification: up to €50,000",
+      "exceptions": ["Forestry operations and emergency vehicle access on Rennsteig forest tracks exempt from recreational trail regulations"],
+      "source": "https://www.thueringen.de/th8/tlug/naturschutz/schutzgebiete/",
+      "sourceLabel": "ThürNatG / BNatSchG / Rennsteig-Verein",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long is the Rennsteig ridge trail through the Thuringian Forest?",
+        "options": ["68 km", "98 km", "168 km", "230 km"],
+        "correct": 2,
+        "explanation": "The Rennsteig extends approximately 168 km along the main ridge of the Thuringian Forest, historically serving as a boundary between Thuringia and Franconia/Hesse, now protected under Thuringian nature conservation law."
+      }
+    },
+    {
+      "id": 42405,
+      "category": "Economic Law",
+      "severity": "high",
+      "icon": "🔭",
+      "title": "SCHOTT AG Jena – AktG & Carl-Zeiss-Stiftungsrecht",
+      "subtitle": "SCHOTT glass company legal structure under foundation ownership",
+      "fullDescription": "SCHOTT AG, founded in Jena (1884) by Otto Schott and Ernst Abbe, is wholly owned by Carl-Zeiss-Stiftung — a unique legal structure where both SCHOTT and Zeiss are foundation-owned companies with no shareholders. Under AktG and Stiftungsrecht (BGB §80ff.), the foundation cannot be dissolved or sold; profits are reinvested or donated to science. SCHOTT employs 17,000 globally producing specialty glass (pharmaceutical packaging, telescope mirrors, ceramic cooktops). The Stiftungssitz (registered seat) remains Jena/Heidenheim under the Carl-Zeiss-Stiftungsstatut.",
+      "penalty": "Foundation statutory violations subject to state supervisory authority (Stiftungsaufsicht) of Baden-Württemberg and Thuringia jointly; dissolution only by court order",
+      "exceptions": ["Foundation-owned companies not subject to hostile takeover as no shares exist; exempt from standard Übernahmegesetz (WpÜG) provisions"],
+      "source": "https://www.schott.com/en-us/company/about-schott/history",
+      "sourceLabel": "Carl-Zeiss-Stiftungsstatut / BGB §80 / AktG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who co-founded SCHOTT AG in Jena in 1884, alongside Ernst Abbe?",
+        "options": ["Carl Zeiss", "Otto Schott", "Werner Siemens", "Heinrich Hertz"],
+        "correct": 1,
+        "explanation": "Otto Schott founded the Jenaer Glaswerk (later SCHOTT AG) in 1884 in collaboration with Ernst Abbe and Carl Zeiss, developing specialty optical glass that enabled modern microscopy and telescope manufacturing."
+      }
+    },
+    {
+      "id": 42406,
+      "category": "Criminal Law",
+      "severity": "critical",
+      "icon": "🧬",
+      "title": "WISMUT-Strahlenerkrankungen – BerKrankV BK 4113 & Entschädigung",
+      "subtitle": "Uranium miner compensation law for occupational radiation disease",
+      "fullDescription": "Former WISMUT uranium miners in Thuringia and Saxony represent the world's largest cohort of occupationally radiation-exposed workers (~100,000 total). Lung cancer from radon exposure is recognized as Berufskrankheit Nr. 4113 (BK 4113) under BerKrankV. The Bundesknappschaft/Deutsche Rentenversicherung Knappschaft-Bahn-See administers compensation. The WISMUT-Studie is one of the world's largest radiation epidemiology studies. Compensation includes Verletztenrente, Hinterbliebenenrente, and rehabilitation payments. The BMAS estimates 7,000+ recognized BK cases.",
+      "penalty": "Employer concealment of radiation exposure history: §8 OWiG administrative offense; WISMUT GmbH cleanup violations: immediate federal oversight",
+      "exceptions": ["Compensation available retroactively to heirs (Hinterbliebene) even if miner died before formal recognition of BK 4113 in 1997"],
+      "source": "https://www.baua.de/DE/Themen/Arbeit-und-Gesundheit/Berufskrankheiten/",
+      "sourceLabel": "BerKrankV BK 4113 / BMAS / WISMUT-Studie",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What Berufskrankheit number covers lung cancer from radon exposure in uranium mines?",
+        "options": ["BK 1301", "BK 2301", "BK 4113", "BK 5101"],
+        "correct": 2,
+        "explanation": "Berufskrankheit Nr. 4113 (BK 4113) under the BerKrankV covers lung cancer caused by crystalline silica dust and radon in underground mining, enabling former WISMUT uranium miners and their heirs to claim occupational disease compensation."
+      }
+    },
+    {
+      "id": 42407,
+      "category": "Cultural Heritage Law",
+      "severity": "high",
+      "icon": "🏰",
+      "title": "Erfurt Stadtrecht – ThürKO & Krämerbrücke Denkmalschutz",
+      "subtitle": "Erfurt's medieval city rights and contemporary municipal law",
+      "fullDescription": "Erfurt received city rights (Stadtrecht) in 1073, making it one of Germany's oldest cities with documented municipal law. As Thuringia's capital and largest city (220,000 population), Erfurt is governed under ThürKO (Kommunalordnung) as kreisfreie Stadt. The Erfurt Dom (Cathedral, begun 744) and Severikirche are UNESCO World Heritage candidates. The Krämerbrücke (1325) — Europe's longest inhabited medieval bridge (32 inhabited shops) — is a protected monument. Erfurt's Egapark (73 ha) hosted IGA 2021.",
+      "penalty": "Unauthorized alteration of listed Krämerbrücke structures: ThürDSchG fines up to €500,000; ThürKO violations: Kommunalaufsicht intervention by Freistaat",
+      "exceptions": ["Krämerbrücke shopkeepers retain Nutzungsrecht (usage rights) under long-standing Erbpacht (ground lease) arrangements predating modern DSchG"],
+      "source": "https://www.erfurt.de/ef/de/stadtentwicklung/stadtgeschichte/",
+      "sourceLabel": "ThürKO / ThürDSchG / Stadtarchiv Erfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes the Erfurt Krämerbrücke unique in Europe?",
+        "options": ["It is Europe's longest bridge", "It is Europe's oldest stone bridge", "It is Europe's longest inhabited medieval bridge with 32 occupied shops", "It is the only bridge with a church on it"],
+        "correct": 2,
+        "explanation": "The Erfurt Krämerbrücke (1325) is Europe's longest inhabited medieval bridge, with 32 shops and residences still occupied — a unique blend of medieval urban infrastructure and living commercial space protected under monument law."
+      }
+    },
+    {
+      "id": 42408,
+      "category": "Energy Law",
+      "severity": "high",
+      "icon": "⚡",
+      "title": "ThürKlimaG 2022 – 65% Erneuerbare & Windkraftplanung",
+      "subtitle": "Thuringia's ambitious climate law and wind energy spatial planning",
+      "fullDescription": "Thüringen Klimagesetz (ThürKlimaG) 2022 mandates climate neutrality by 2045, 65% renewable electricity by 2030. Wind energy (Windkraft) expansion requires 1.8% of state area designated in Thüringer Windkrafterlass (ThürWEG). The ThürWEG sets minimum 1,000m setback from residential areas. Thuringia currently generates 35% electricity from renewables (wind 18%, solar 10%, biomass 7%). The 2024 Landtag political crisis threatened climate legislation rollback. Solar mandate (ThürBO §9a) requires PV on new commercial buildings from 2023.",
+      "penalty": "Wind turbine without ThürWEG permit: BImSchG §15 immediate shutdown; violations of setback rules: injunction rights for affected residents under BImSchG §3",
+      "exceptions": ["Repowering existing wind installations exempt from new setback rules if capacity increase under 25% under ThürWEG §6 grandfather provision"],
+      "source": "https://www.thueringen.de/th8/tmuen/klimaschutz/",
+      "sourceLabel": "ThürKlimaG 2022 / ThürWEG / BImSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Thuringia's land area must be designated for wind energy under the ThürWEG wind energy decree?",
+        "options": ["0.5%", "1.0%", "1.8%", "3.0%"],
+        "correct": 2,
+        "explanation": "Thuringia's Windkrafterlass (ThürWEG) requires that 1.8% of the state's area be designated in regional plans (Regionalpläne) for wind energy development, supporting the ThürKlimaG 2022 target of 65% renewable electricity by 2030."
+      }
+    },
+    {
+      "id": 42409,
+      "category": "Labor Law",
+      "severity": "medium",
+      "icon": "🏭",
+      "title": "Automobilindustrie Thüringen – BetrVG & E-Mobilitätswandel",
+      "subtitle": "Automotive industry co-determination and EV transition law",
+      "fullDescription": "Thuringia's automotive supply chain (50,000 employees, €5bn revenue) faces structural disruption from e-mobility transition. Major employers include ZF Friedrichshafen (Gotha), Robert Bosch (Eisenach), and DRÄXLMAIER (automotive cables). Under BetrVG (Betriebsverfassungsgesetz), companies with 100+ employees must form Wirtschaftsausschuss; plants with 20+ have Betriebsrat. Sozialplanpflicht (§111 BetrVG) requires negotiated social plans for mass redundancies. The Opel/VW Werk Eisenach (mothballed since 2021) represents the challenge of legacy ICE production sites.",
+      "penalty": "BetrVG §23: court injunction for severe violations of co-determination; ignoring Sozialplanpflicht: Einigungsstellenzwang (mandatory arbitration)",
+      "exceptions": ["Church employers (Diakonie, Caritas) subject to parallel Mitarbeitervertretungsrecht (MVG) instead of BetrVG in Thuringia"],
+      "source": "https://www.thueringen.de/th3/tmwwdg/wirtschaft/",
+      "sourceLabel": "BetrVG / §111 BetrVG / TMWWDG Thüringen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under BetrVG, at what company size threshold is a Wirtschaftsausschuss (economic committee) mandatory?",
+        "options": ["20 employees", "50 employees", "100 employees", "500 employees"],
+        "correct": 2,
+        "explanation": "BetrVG §106 requires companies with 100 or more employees to establish a Wirtschaftsausschuss (economic committee), which must be informed and consulted on significant business matters affecting the workforce."
+      }
+    },
+    {
+      "id": 42410,
+      "category": "Public Order Law",
+      "severity": "high",
+      "icon": "🗳️",
+      "title": "AfD Thüringen – VerfSchG & §86a StGB (Höcke-Urteil 2024)",
+      "subtitle": "Far-right party constitutional surveillance and criminal conviction",
+      "fullDescription": "Thuringia's AfD (Landesverband Thüringen), led by Björn Höcke, was classified as 'gesichert rechtsextremistisch' (confirmed far-right extremist) by TLfV (Thüringer Landesamt für Verfassungsschutz) in 2021. The AfD became the largest Landtag party (32.8%) in September 2024 elections — first time a far-right party topped a German state election. VerfSchG Thüringen §4 authorizes surveillance of extremist parties. Höcke was convicted of using the SA slogan 'Alles für Deutschland' under §86a StGB in May 2024, sentenced to a fine.",
+      "penalty": "§86a StGB use of banned organization symbols/slogans: up to 3 years (Höcke conviction 2024 — fine of €13,000); Verfassungsschutz surveillance requires no judicial warrant for open-source intelligence",
+      "exceptions": ["Party ban (Art. 21(2) GG) requires BVerfG ruling on federal application; state Verfassungsschutz classification alone does not restrict party activities"],
+      "source": "https://www.verfassungsschutz.thueringen.de",
+      "sourceLabel": "VerfSchG Thür / Art. 21 GG / §86a StGB",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of votes did the AfD receive in the 2024 Thuringia Landtag election, making it the first far-right party to top a German state election?",
+        "options": ["24.3%", "28.6%", "32.8%", "38.1%"],
+        "correct": 2,
+        "explanation": "The AfD received 32.8% in the September 2024 Thuringia Landtag election, becoming the largest party — a historic first in post-war Germany for a party classified as confirmed far-right extremist by the state Verfassungsschutz."
+      }
+    },
+    {
+      "id": 42411,
+      "category": "Media Law",
+      "severity": "medium",
+      "icon": "📺",
+      "title": "MDR/TLM – Rundfunkrecht & Medienstaatsvertrag Thüringen",
+      "subtitle": "Public broadcasting law and Thuringia's media authority",
+      "fullDescription": "Thuringia is part of the MDR (Mitteldeutscher Rundfunk) broadcasting area alongside Saxony and Saxony-Anhalt; MDR is governed by MDR-Staatsvertrag. The TLM (Thüringer Landesmedienanstalt) regulates private broadcasters, OTT platforms (MStV 2020), and social media (§93 MStV influencer rules). The Rundfunkbeitrag (€18.36/month from 2025) is collected by ARD ZDF Beitragsservice; non-payment leads to civil debt enforcement (Vollstreckung). Thuringia's state government attempted to block ARD/ZDF fee increases in 2024, triggering federal constitutional review.",
+      "penalty": "Operating unlicensed broadcast: MStV §52 fines up to €500,000; TLM can revoke licenses for repeated content violations",
+      "exceptions": ["Podcasters and streaming services with under 20,000 average monthly listeners/viewers exempt from full MStV registration requirements"],
+      "source": "https://www.tlm.de",
+      "sourceLabel": "MStV 2020 / MDR-Staatsvertrag / TLM",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which German states share the MDR (Mitteldeutscher Rundfunk) broadcasting area?",
+        "options": ["Thuringia, Bavaria, Hesse", "Thuringia, Saxony, Saxony-Anhalt", "Thuringia, Brandenburg, Saxony", "Thuringia, Saxony, Hesse"],
+        "correct": 1,
+        "explanation": "MDR serves the three central German states of Thuringia, Saxony, and Saxony-Anhalt, established under the MDR-Staatsvertrag. TLM (Thüringer Landesmedienanstalt) regulates private broadcasting within Thuringia."
+      }
+    },
+    {
+      "id": 42412,
+      "category": "Social Law",
+      "severity": "medium",
+      "icon": "🏥",
+      "title": "ThürKHG – Krankenhausplanung & Universitätsklinikum Jena",
+      "subtitle": "Hospital planning law and university medicine in Thuringia",
+      "fullDescription": "The Thüringer Krankenhausgesetz (ThürKHG) governs Krankenhausplanung (hospital planning) for Thuringia's 40 acute care hospitals. The Universitätsklinikum Jena (UKJ) is Thuringia's only university hospital (1,400 beds, 7,500 employees, €600M revenue), providing maximum care (Maximalversorger) level. Under KHG (Krankenhausfinanzierungsgesetz), investment costs are state-funded; operating costs via DRG-Fallpauschalen (diagnosis-related groups). Thuringia underfunds hospital investment (€95M 2023 vs. estimated need €250M), contributing to rural hospital closures.",
+      "penalty": "Operation outside Krankenhausplan: KHG §10 loss of public funding; patient data breaches: DSGVO + §75a SGB V up to €10M",
+      "exceptions": ["Hochschulkliniken (university hospitals) receive additional Hochschulmittel under ThürHSChG separate from standard KHG investment grants"],
+      "source": "https://www.thueringen.de/th3/tmsfg/gesundheit/krankenhaus/",
+      "sourceLabel": "ThürKHG / KHG / UKJ Jena",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many acute care hospitals does Thuringia's Krankenhausplan cover?",
+        "options": ["18", "28", "40", "65"],
+        "correct": 2,
+        "explanation": "Thuringia's Krankenhausplan covers approximately 40 acute care hospitals, with UKJ Jena as the sole university hospital providing maximum care. Chronic underfunding of hospital investment has led to increasing rural hospital closures."
+      }
+    },
+    {
+      "id": 42413,
+      "category": "Cultural Heritage Law",
+      "severity": "high",
+      "icon": "🎨",
+      "title": "Bauhaus Weimar 1919 – UrhG & Designrecht",
+      "subtitle": "Bauhaus heritage law and design intellectual property",
+      "fullDescription": "The Bauhaus was founded by Walter Gropius in Weimar in 1919 and operated until 1925 (then Dessau 1925–1932, Berlin 1932–1933). The Bauhaus-Universität Weimar carries its legacy. UNESCO-listed Bauhaus sites in Weimar (1996) include the Hauptgebäude and Haus Am Horn. Bauhaus designs (Wagenfeld lamp, Breuer chair) entered public domain (70 years post-author death). EUIPO registered 'Bauhaus' trademark controversy: commercial misuse by Bauhaus AG hardware chain litigated since 1990s. Klassik Stiftung Weimar holds authentic Bauhaus collection under ThürDSchG.",
+      "penalty": "Misuse of protected Bauhaus trademark: EUIPO opposition proceedings; unauthorized reproduction of non-PD Bauhaus works: §97 UrhG damages",
+      "exceptions": ["Bauhaus designs whose authors died before 1954 are in public domain (70-year term UrhG §64); reproduction freely permitted"],
+      "source": "https://www.klassik-stiftung.de/bauhaus/",
+      "sourceLabel": "UNESCO WHC 1996 / UrhG §64 / EUIPO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which year and city was the Bauhaus school founded by Walter Gropius?",
+        "options": ["1905 Berlin", "1913 Dresden", "1919 Weimar", "1922 Dessau"],
+        "correct": 2,
+        "explanation": "Walter Gropius founded the Staatliches Bauhaus in Weimar in 1919, combining fine arts and crafts in a unified school of design. It moved to Dessau in 1925 and Berlin in 1932 before being closed by the Nazis in 1933."
+      }
+    },
+    {
+      "id": 42414,
+      "category": "Administrative Law",
+      "severity": "medium",
+      "icon": "⚖️",
+      "title": "ThürVerfGH – Kemmerich-Urteil 2020 & Verfassungsgerichtsbarkeit",
+      "subtitle": "Thuringia's constitutional court structure and landmark rulings",
+      "fullDescription": "The Thüringer Verfassungsgerichtshof (ThürVerfGH) was established under Art. 79 ThürVerf and ThürVerfGHG. It has 9 judges: 3 appointed by Landtag, 3 by the judiciary, 3 by Landesregierung for 8-year terms. The 2020 Kemmerich ruling examined the Ministerpräsident election (with AfD votes), finding it did not formally violate ThürVerf but triggering a national political crisis. ThürVerfGH also declared the 2021 budget unconstitutional (debt brake violation). Its decisions are final within state law, subject to BVerfG only on GG questions.",
+      "penalty": "State organs ignoring ThürVerfGH decisions: no direct enforcement mechanism; political compliance expected; federal BVerfG jurisdiction if GG violated",
+      "exceptions": ["ThürVerfGH lacks jurisdiction over federal law questions — those go directly to BVerfG under Art. 93 GG"],
+      "source": "https://www.thverfgh.thueringen.de",
+      "sourceLabel": "Art. 79 ThürVerf / ThürVerfGHG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many judges does the Thüringer Verfassungsgerichtshof have, and what are their term lengths?",
+        "options": ["7 judges, 6-year terms", "9 judges, 8-year terms", "11 judges, 10-year terms", "5 judges, 5-year terms"],
+        "correct": 1,
+        "explanation": "The Thüringer Verfassungsgerichtshof has 9 judges serving 8-year terms, appointed in equal thirds by the Landtag, the judiciary, and the Landesregierung, established under Art. 79 of the Thuringian constitution."
+      }
+    },
+    {
+      "id": 42415,
+      "category": "Nature Conservation Law",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Biosphärenreservat Thüringer Wald – UNESCO MAB & Kernzonenschutz",
+      "subtitle": "UNESCO biosphere reserve law and sustainable land use regulation",
+      "fullDescription": "The Biosphärenreservat Thüringer Wald covers 171,000 ha, UNESCO-designated as MAB (Man and Biosphere) reserve in 1979. Zone structure: core zone (Kernzone, 3% — no human activity), buffer zone (Pflegezone, 11%), and development zone (Entwicklungszone, 86% — sustainable use). ThürNatG §30 protects biotopes in core/buffer zones; farming only with KULAP agri-environment contracts. The Biosphärenreservat is distinct from the Naturpark Thüringer Wald (200,000 ha). Annual visitor numbers: ~3.5 million generating €350M tourism revenue.",
+      "penalty": "Core zone trespass: ThürNatG §69 fines up to €50,000; prohibited hunting in core zone: BJagdG §38 criminal offense",
+      "exceptions": ["Scientific monitoring activities in core zones permitted by written authorization from Biosphärenreservat administration"],
+      "source": "https://www.biosphaerenreservat-thueringer-wald.de",
+      "sourceLabel": "UNESCO MAB 1979 / ThürNatG §30",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of the Biosphärenreservat Thüringer Wald is designated as Kernzone (core zone) with no human activity?",
+        "options": ["1%", "3%", "10%", "25%"],
+        "correct": 1,
+        "explanation": "In the Biosphärenreservat Thüringer Wald, only 3% of the total area is designated as Kernzone (core zone) where no human activity is permitted, while 86% forms the Entwicklungszone allowing sustainable economic use."
+      }
+    },
+    {
+      "id": 42416,
+      "category": "Tax Law",
+      "severity": "medium",
+      "icon": "💰",
+      "title": "Länderfinanzausgleich – FAG & Thüringens Empfängerstatus",
+      "subtitle": "Fiscal equalization law and Thuringia's status as net recipient state",
+      "fullDescription": "Under the Finanzausgleichsgesetz (FAG) and Art. 107 GG, Thuringia is a permanent Empfängerland (recipient state) in Germany's horizontal Länderfinanzausgleich. In 2023, Thuringia received approximately €900M in equalization payments. Thuringia's fiscal capacity (Steuereinnahmen per capita) is 65% of national average; it also received Solidarpakt II Sonderbedarfsbundesergänzungszuweisungen (now replaced by newer federal transfer mechanisms). The TFM (Thüringer Finanzministerium) manages Thuringia's €9bn annual budget. State debt brake (Art. 98 ThürVerf) limits structural deficit to zero.",
+      "penalty": "Constitutional debt brake violation: ThürVerfGH may void budget law; municipal fiscal violations: Kommunalaufsicht can impose Haushaltsaufsicht (financial supervision)",
+      "exceptions": ["Natural disasters and extraordinary emergencies allow temporary debt brake suspension under Art. 98(2) ThürVerf with simple majority Landtag vote"],
+      "source": "https://www.thueringen.de/th3/tfm/",
+      "sourceLabel": "FAG / Art. 107 GG / Art. 98 ThürVerf",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how much did Thuringia receive in Länderfinanzausgleich equalization payments in 2023?",
+        "options": ["€200M", "€500M", "€900M", "€2bn"],
+        "correct": 2,
+        "explanation": "Thuringia received approximately €900 million in Länderfinanzausgleich horizontal equalization payments in 2023, reflecting its below-average fiscal capacity of about 65% of the national per-capita tax revenue average."
+      }
+    },
+    {
+      "id": 42417,
+      "category": "Cultural Heritage Law",
+      "severity": "high",
+      "icon": "📚",
+      "title": "Herzogin Anna Amalia Bibliothek Brand 2004 – KGSG & Kulturgutschutz",
+      "subtitle": "Library fire law, cultural property protection and reconstruction",
+      "fullDescription": "The Herzogin Anna Amalia Bibliothek fire on 2 September 2004 destroyed 50,000 volumes (3,700 irreplaceable); 28,000 more volumes damaged. The library, a UNESCO World Heritage Site, was rebuilt and reopened 2007. Under ThürDSchG and KGSG (Kulturgutschutzgesetz 2016), national cultural property may not be exported without permit (Ausfuhrgenehmigung). Post-fire forensic work investigated arson; §306 StGB (Brandstiftung) reviewed but cause determined electrical. EU-KGSG implements Directive 2014/60/EU on cultural property restitution. Digital preservation now mandatory for Thuringian state archives.",
+      "penalty": "KGSG §28: illegal export of protected cultural property up to 5 years; §306a StGB aggravated arson of cultural monuments: up to 15 years",
+      "exceptions": ["Loans to foreign museums for exhibitions under bilateral cultural agreements exempt from standard KGSG export restrictions for up to 12 months"],
+      "source": "https://www.klassik-stiftung.de/herzogin-anna-amalia-bibliothek/",
+      "sourceLabel": "KGSG 2016 / ThürDSchG / UNESCO WHC",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many volumes were destroyed in the 2004 Herzogin Anna Amalia Bibliothek fire?",
+        "options": ["5,000", "20,000", "50,000", "100,000"],
+        "correct": 2,
+        "explanation": "The fire at the Herzogin Anna Amalia Bibliothek on 2 September 2004 destroyed approximately 50,000 volumes, of which 3,700 were considered irreplaceable, with 28,000 additional volumes suffering damage. The library was reconstructed and reopened in 2007."
+      }
+    },
+    {
+      "id": 42418,
+      "category": "Public Order Law",
+      "severity": "medium",
+      "icon": "🎪",
+      "title": "Domstufenfestspiele Erfurt – VersG & Großveranstaltungsrecht",
+      "subtitle": "Open-air festival law and Erfurt Cathedral Steps Festival",
+      "fullDescription": "The Domstufenfestspiele Erfurt is Germany's largest open-air opera and classical music festival, held annually at the Erfurter Dom steps (Domtreppe). Up to 25,000 spectators per performance require compliance with VersG (Versammlungsgesetz) and StrG Thüringen event permits. Large-scale events require Sicherheitskonzept (safety concept) under §30 ThürBauO, fire safety certification, and medical standby. Events on public premises require Gestattung under GastG. The festival generates €30M+ annual economic impact for Erfurt. Monument protection (ThürDSchG) limits technical infrastructure anchoring on the cathedral steps.",
+      "penalty": "Event without required Gestattung: GastG §28 fines up to €5,000; crowd safety violations: immediate event shutdown by Ordnungsamt; §315 StGB endangering public traffic near mass events",
+      "exceptions": ["Religious church services at Dom exempt from secular VersG/GastG event permit requirements under Art. 140 GG / Art. 137 WRV Kirchenrecht"],
+      "source": "https://www.domstufenfestspiele.de",
+      "sourceLabel": "VersG / StrG Thür / ThürBauO §30",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum spectator capacity per performance at the Domstufenfestspiele Erfurt?",
+        "options": ["5,000", "10,000", "25,000", "50,000"],
+        "correct": 2,
+        "explanation": "The Domstufenfestspiele Erfurt accommodates up to approximately 25,000 spectators per performance at the Cathedral Steps, making it Germany's largest open-air opera festival, subject to comprehensive VersG and safety regulation."
+      }
+    },
+    {
+      "id": 42419,
+      "category": "Research Law",
+      "severity": "medium",
+      "icon": "🏫",
+      "title": "FSU Jena 1558 – ThürHSChG & Hochschulrecht",
+      "subtitle": "University law, foundation funding and Thuringia's academic landscape",
+      "fullDescription": "The Thüringer Hochschulgesetz (ThürHSChG) governs Thuringia's 12 universities and Fachhochschulen. FSU Jena (Friedrich-Schiller-Universität, 1558) has 20,000 students; TU Ilmenau specializes in engineering and technology; Erfurt University is Germany's only university refounded under canon law tradition. Under HRG (Hochschulrahmengesetz) and ThürHSChG, universities have Lehrfreiheit (academic freedom). The Ernst Abbe Stiftung supports science education in Jena. Thuringia spends €700M annually on higher education; 60,000 students total.",
+      "penalty": "Academic fraud (Täuschung in Prüfungen): Exmatrikulation (expulsion) under ThürHSChG §23; plagiarism leading to fraudulent doctorate: §263 StGB title fraud",
+      "exceptions": ["Private Hochschulen accredited by Akkreditierungsrat but not state-funded are not subject to full ThürHSChG public governance provisions"],
+      "source": "https://www.uni-jena.de/universitaet/geschichte",
+      "sourceLabel": "ThürHSChG / HRG / DAAD Statistics",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which year was the Friedrich-Schiller-Universität Jena (FSU) founded?",
+        "options": ["1386", "1477", "1558", "1694"],
+        "correct": 2,
+        "explanation": "The Friedrich-Schiller-Universität Jena (FSU) was founded in 1558 under Duke Johann Friedrich II of Saxony. Today it has approximately 20,000 students and is Thuringia's flagship research university."
+      }
+    },
+    {
+      "id": 42420,
+      "category": "Consumer Protection Law",
+      "severity": "low",
+      "icon": "🍺",
+      "title": "Thüringer Rostbratwurst PGI & Saale-Unstrut WeinG",
+      "subtitle": "Geographical indication law and Thuringia's culinary heritage",
+      "fullDescription": "Thuringia has multiple EU-protected food products: Thüringer Rostbratwurst (PGI since 2004), Thüringer Leberwurst (PGI), and Thüringer Rotwurst (PGI). The Thüringer Klöße (potato dumplings) are a regional specialty but lack formal GI protection. Under UWG (Gesetz gegen unlauteren Wettbewerb) §5, misleading geographical origin claims are prohibited. EU Regulation 1151/2012 governs PDO/PGI registrations; applications by regional producer associations. Thuringia's Saale-Unstrut wine region (700 ha, Germany's northernmost) has Qualitätswein status under WeinG.",
+      "penalty": "False PGI origin labeling: UWG §5 injunction and damages; EU Regulation 1151/2012 violation: fines up to €500,000 at member state discretion",
+      "exceptions": ["Generic terms such as Bratwurst or Leberwurst without regional modifier are not protected; only the full designation 'Thüringer Rostbratwurst' carries PGI protection"],
+      "source": "https://www.dpma.de/marken/geografische_herkunftsangaben/",
+      "sourceLabel": "EU VO 1151/2012 / UWG §5 / WeinG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Since what year has the Thüringer Rostbratwurst been protected as an EU Protected Geographical Indication (PGI)?",
+        "options": ["1992", "1998", "2004", "2010"],
+        "correct": 2,
+        "explanation": "The Thüringer Rostbratwurst received EU PGI status in 2004, protecting its distinctive recipe — primarily pork seasoned with marjoram and caraway — from imitation by non-Thuringian producers."
+      }
+    },
+    {
+      "id": 42421,
+      "category": "Environmental Law",
+      "severity": "high",
+      "icon": "☢️",
+      "title": "WISMUT Sanierung Ronneburg – AtG & Umwelthaftungsrecht",
+      "subtitle": "Federal uranium mining cleanup law and environmental liability",
+      "fullDescription": "WISMUT GmbH, jointly owned by the Federal Republic (100%), has spent €6.4bn cleaning up uranium mining contamination across Thuringia (Ronneburg) and Saxony (Aue, Schlema). Under AtG (Atomgesetz) and WISMUT-Bereinigungsgesetz 1991, the federal government assumed full liability for all environmental damage. Ronneburg's waste pile (Haldenkomplex Lichtenberg) — the world's largest uranium tailings pile at 130 million tonnes — was remediated for the 2007 Federal Garden Show (Bundesgartenschau). Groundwater monitoring continues until 2045.",
+      "penalty": "AtG §46: nuclear facility operator strict liability (Gefährdungshaftung) without proof of fault; unlimited liability for nuclear damage",
+      "exceptions": ["WISMUT GmbH government ownership means §839 BGB state liability applies; private contractors on WISMUT sites covered by WISMUT GmbH indemnity agreements"],
+      "source": "https://www.wismut.de",
+      "sourceLabel": "AtG / WISMUT-Bereinigungsgesetz 1991 / UmweltHG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much has the federal government spent on WISMUT uranium mining cleanup in Thuringia and Saxony?",
+        "options": ["€1.2bn", "€3.5bn", "€6.4bn", "€12bn"],
+        "correct": 2,
+        "explanation": "WISMUT GmbH, 100% federally owned, has spent approximately €6.4 billion on uranium mining remediation across its former operations in Thuringia (Ronneburg) and Saxony, with groundwater monitoring continuing until 2045."
+      }
+    },
+    {
+      "id": 42422,
+      "category": "Administrative Law",
+      "severity": "medium",
+      "icon": "🏘️",
+      "title": "ThürKO – Kommunalordnung & Gebietsreform 6 Kreisfreie Städte",
+      "subtitle": "Municipal law and Thuringia's territorial reform",
+      "fullDescription": "The Thüringer Kommunalordnung (ThürKO) governs Thuringia's 17 Landkreise, 6 kreisfreie Städte (Erfurt, Jena, Gera, Weimar, Suhl, Eisenach), and approximately 700 municipalities (Gemeinden) following the 2019–2021 voluntary merger reform. Pre-reform Thuringia had 840+ municipalities, many with fewer than 200 inhabitants. ThürKO allows Gemeinschaftsverwaltungen (shared administrations) for small municipalities. The Bürgermeister (directly elected) and Gemeinderat (council) form the dual executive-representative structure. ThürKO §36 mandates balanced Gemeinde budgets; persistent deficit leads to Haushaltssicherungskonzept.",
+      "penalty": "Unauthorized Gemeinde spending beyond budget: ThürKO §70 Landratsamt intervention; Bürgermeister financial misconduct: §266 StGB Untreue (breach of trust)",
+      "exceptions": ["Zweckverbände (special-purpose associations) formed between municipalities for joint services (water, waste) governed separately under ThürKGG rather than ThürKO"],
+      "source": "https://www.landesrecht.thueringen.de/bsth/document/jlr-GemOTHrahmen",
+      "sourceLabel": "ThürKO / ThürKGG / Thüringer Innenministerium",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many kreisfreie Städte (independent cities) does Thuringia have under the ThürKO?",
+        "options": ["3", "4", "6", "9"],
+        "correct": 2,
+        "explanation": "Thuringia has 6 kreisfreie Städte not belonging to a Landkreis: Erfurt, Jena, Gera, Weimar, Suhl, and Eisenach, each governed directly under the ThürKO with full municipal and Landkreis-level administrative competencies."
+      }
+    },
+    {
+      "id": 42423,
+      "category": "Economic Law",
+      "severity": "high",
+      "icon": "💎",
+      "title": "JENOPTIK AG – AWG & Dual-Use Exportkontrolle",
+      "subtitle": "Jena precision optics company and arms export control law",
+      "fullDescription": "JENOPTIK AG (Jena, SDAX-listed) employs 4,400 globally in photonics, sensors, and smart transportation systems. Spun off from Carl-Zeiss-Stiftung 1991 via Treuhand restructuring; the state of Thuringia sold its last stake in 2004. JENOPTIK's defense division (optics for Leopard tanks, missiles) requires BAFA (Bundesamt für Wirtschaft und Ausfuhrkontrolle) export licenses under AWG (Außenwirtschaftsgesetz) and AVV (Außenwirtschaftsverordnung). EU Dual-Use Regulation 2021/821 governs civilian-military dual-use optics. JENOPTIK annual revenue: €1.1bn (2023).",
+      "penalty": "Unauthorized dual-use export: AWG §17 up to 5 years imprisonment and unlimited fine; BAFA license violation: immediate business suspension",
+      "exceptions": ["Intra-EU transfers of dual-use goods under EU Regulation 2021/821 simplified to general export authorization (GEA) for low-risk items between EU member states"],
+      "source": "https://www.jenoptik.com/company/about-jenoptik",
+      "sourceLabel": "AWG / AVV / EU VO 2021/821 / BAFA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which federal authority issues export licenses for JENOPTIK's dual-use defense optics under German export control law?",
+        "options": ["Bundesnachrichtendienst (BND)", "Bundesministerium der Verteidigung (BMVg)", "BAFA (Bundesamt für Wirtschaft und Ausfuhrkontrolle)", "Zollkriminalamt (ZKA)"],
+        "correct": 2,
+        "explanation": "BAFA (Bundesamt für Wirtschaft und Ausfuhrkontrolle) is the federal authority responsible for issuing export licenses for dual-use goods and military equipment under AWG and AVV, including JENOPTIK's defense optics destined for military applications abroad."
+      }
+    },
+    {
+      "id": 42424,
+      "category": "Social Law",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "ILB/IFB Thüringen – ThürAufbauBankG & Wirtschaftsförderung",
+      "subtitle": "State development bank law and investment promotion in Thuringia",
+      "fullDescription": "The Thüringer Aufbaubank (TAB) is Thuringia's state development bank (Förderbank), established under ThürAufbauBankG, providing subsidized loans (Förderkredite), guarantees, and EU structural fund (EFRE, ESF) distribution. TAB manages €3bn+ in loan commitments supporting SME investment, housing construction, and renewable energy. In 2024, TAB administered €400M in EFRE funds under the Thuringia REACT-EU program. Beneficiary eligibility and grant conditions are binding under public subsidy law (Subventionsrecht); misuse leads to full repayment under §49a VwVfG.",
+      "penalty": "Subsidy fraud (Subventionsbetrug): §264 StGB up to 5 years; incorrect TAB grant applications: €49a VwVfG full repayment plus interest at 3% above base rate",
+      "exceptions": ["De minimis aid under EU Regulation 1407/2013 (up to €300,000 per 3 years) exempt from full state aid notification requirements to EU Commission"],
+      "source": "https://www.aufbaubank.de",
+      "sourceLabel": "ThürAufbauBankG / §264 StGB / EU EFRE",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the EU de minimis aid threshold that exempts state grants from full EU Commission notification requirements?",
+        "options": ["€100,000 per year", "€200,000 per 3 years", "€300,000 per 3 years", "€500,000 per 5 years"],
+        "correct": 2,
+        "explanation": "Under EU Regulation 1407/2013, state aid of up to €300,000 per 3-year period per enterprise qualifies as de minimis aid, exempt from the standard EU state aid notification and approval procedure applicable to larger grants."
+      }
+    },
+    {
+      "id": 42425,
+      "category": "Public Order Law",
+      "severity": "high",
+      "icon": "🔒",
+      "title": "Thüringer Datenschutzgesetz – TLfDI & DSGVO-Vollzug",
+      "subtitle": "State data protection law and Thuringia's data protection authority",
+      "fullDescription": "The Thüringer Datenschutzgesetz (ThürDSG) supplements DSGVO (EU GDPR) for public sector bodies; the TLfDI (Thüringer Landesbeauftragter für den Datenschutz und die Informationsfreiheit) is the independent supervisory authority under Art. 51 DSGVO. TLfDI supervises all Thuringia state agencies, municipalities, and public companies. Private sector GDPR enforcement falls to TLfDI under §40 BDSG allocation. ThürIFG (Thüringer Informationsfreiheitsgesetz) grants public access to government information within 1 month; exemptions for ongoing investigations and personal data. The AfD-led government's 2024 data retention proposals were reviewed by TLfDI for DSGVO compatibility.",
+      "penalty": "DSGVO Art. 83(4): administrative fines up to €10M or 2% global turnover for processor violations; Art. 83(5): up to €20M or 4% global turnover for core principle violations",
+      "exceptions": ["Journalistic privilege under §9c BDSG and ThürDSG allows media processing personal data without full DSGVO compliance for editorial purposes"],
+      "source": "https://www.tlfdi.de",
+      "sourceLabel": "ThürDSG / DSGVO / ThürIFG / TLfDI",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum GDPR fine for core principle violations under Art. 83(5) DSGVO?",
+        "options": ["€5M or 1% global turnover", "€10M or 2% global turnover", "€20M or 4% global turnover", "€50M or 10% global turnover"],
+        "correct": 2,
+        "explanation": "DSGVO Art. 83(5) sets the maximum administrative fine at €20 million or 4% of total worldwide annual turnover (whichever is higher) for violations of core principles such as lawfulness of processing, data subject rights, and international transfer rules."
+      }
+    }
+  ]
+}

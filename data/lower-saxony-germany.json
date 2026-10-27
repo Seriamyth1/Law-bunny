@@ -1,0 +1,1507 @@
+{
+  "country": "Lower Saxony, Germany",
+  "slug": "lower-saxony-germany",
+  "laws": [
+    {
+      "id": 41826,
+      "category": "Constitutional",
+      "severity": "info",
+      "icon": "🏛️",
+      "title": "Niedersächsische Verfassung 1993",
+      "subtitle": "Lower Saxony's constitution — Germany's second-largest state",
+      "fullDescription": "Lower Saxony (Niedersachsen) is Germany's second-largest state by area (47,600 km²) and fourth by population (8 million). Its constitution (1993) establishes the Landtag (137 seats). Capital: Hanover (Hannover). The state spans from North Sea coast to Harz mountains. Lower Saxony holds a 20% stake in Volkswagen AG under the Volkswagen-Gesetz.",
+      "penalty": "N/A — constitutional information",
+      "exceptions": [],
+      "source": "https://www.niedersachsen.de",
+      "sourceLabel": "Niedersachsen.de",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Lower Saxony's rank among German states by area?",
+        "options": ["Largest", "Second largest", "Third largest", "Fourth largest"],
+        "correct": 1,
+        "explanation": "Lower Saxony is Germany's second-largest state by area (47,600 km²) after Bavaria."
+      }
+    },
+    {
+      "id": 41827,
+      "category": "Automotive",
+      "severity": "high",
+      "icon": "🚗",
+      "title": "Volkswagen-Gesetz — Lower Saxony's VW Stake",
+      "subtitle": "Unique state law protecting Volkswagen from hostile takeovers",
+      "fullDescription": "The Volkswagen-Gesetz (VW Act) gives Lower Saxony a permanent 20% stake in Volkswagen AG and the right to block major decisions with a 20% minority (compared to normal 25% threshold). The law was challenged by the EU Commission as incompatible with free movement of capital — the ECJ ruled partially against it in 2007, forcing amendments. VW employs 120,000+ in Lower Saxony (Wolfsburg, Hannover, Emden, Salzgitter). The state's VW dividend income is a major budget item.",
+      "penalty": "N/A — state corporate governance law",
+      "exceptions": ["EU free movement of capital limits the blocking right to extraordinary decisions only post-ECJ 2007"],
+      "source": "https://www.volkswagen-group.com",
+      "sourceLabel": "Volkswagen Group",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What stake does Lower Saxony hold in Volkswagen AG under the VW-Gesetz?",
+        "options": ["10%", "15%", "20%", "25%"],
+        "correct": 2,
+        "explanation": "Lower Saxony holds a 20% stake in VW AG and can block major decisions with this minority — a unique arrangement challenged by the EU Commission."
+      }
+    },
+    {
+      "id": 41828,
+      "category": "Nuclear",
+      "severity": "high",
+      "icon": "☢️",
+      "title": "Gorleben & Konrad — Nuclear Waste Storage",
+      "subtitle": "Lower Saxony hosts Germany's controversial nuclear waste sites",
+      "fullDescription": "Lower Saxony is at the centre of Germany's nuclear waste controversy. The Gorleben salt dome was investigated as a nuclear waste repository for 40 years before being abandoned in 2013. The Schacht Konrad iron ore mine near Salzgitter is Germany's only approved deep geological repository (for low/intermediate-level waste), under construction. The BGE (Bundesgesellschaft für Endlagerung) manages both sites. Anti-nuclear protests in the Wendland region (Castor transports) were Germany's largest civil disobedience actions.",
+      "penalty": "Obstruction of Castor nuclear waste transports: criminal trespass, §315b StGB dangerous interference with transport",
+      "exceptions": ["Peaceful protest outside transport route perimeters is constitutionally protected"],
+      "source": "https://www.bge.de",
+      "sourceLabel": "BGE Bundesgesellschaft für Endlagerung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Schacht Konrad near Salzgitter designated as?",
+        "options": ["Active uranium mine", "Germany's only approved deep geological nuclear repository", "Emergency nuclear power storage", "Decommissioned nuclear plant site"],
+        "correct": 1,
+        "explanation": "Schacht Konrad is Germany's only approved deep geological repository for low and intermediate-level nuclear waste, currently under construction."
+      }
+    },
+    {
+      "id": 41829,
+      "category": "Agriculture",
+      "severity": "high",
+      "icon": "🐷",
+      "title": "Lower Saxony Intensive Livestock Farming",
+      "subtitle": "Germany's largest pork producer — strict manure and welfare rules",
+      "fullDescription": "Lower Saxony is Germany's largest pork and poultry producer (30% of national output). The Emsland and Weser-Ems region has Germany's highest livestock density, causing significant nitrate groundwater pollution. Lower Saxony has more nitrate vulnerable zones (rote Gebiete) than any other state. The TierSchNutztV requires minimum space per animal. The Niedersächsisches Tierschutzgesetz adds state-level requirements. Animal welfare labelling (Haltungsstufen 1–4) is voluntary but increasingly mandatory for retailers.",
+      "penalty": "TierSchNutztV violations: fines up to €25,000; persistent violations: operating ban",
+      "exceptions": ["Organic farms (EU 2018/848) have modified space requirements"],
+      "source": "https://www.ml.niedersachsen.de",
+      "sourceLabel": "NI Landwirtschaftsministerium",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Germany's pork and poultry output does Lower Saxony produce?",
+        "options": ["10%", "20%", "30%", "40%"],
+        "correct": 2,
+        "explanation": "Lower Saxony produces approximately 30% of Germany's pork and poultry — making it the nation's largest livestock farming state."
+      }
+    },
+    {
+      "id": 41830,
+      "category": "Trade Fair",
+      "severity": "medium",
+      "icon": "🏟️",
+      "title": "Hannover Messe — World's Largest Industrial Fair",
+      "subtitle": "Hannover's annual industrial trade fair — global regulations",
+      "fullDescription": "Hannover Messe is the world's largest industrial trade fair (200,000+ visitors, 6,500+ exhibitors, 27 halls). Deutsche Messe AG operates the Hannover Exhibition Centre (496,000 m² gross floor area). Exhibitors must comply with German product liability (ProdHaftG), CE marking requirements, and Hessian fire safety rules that apply via the Niedersächsische Versammlungsstättenverordnung (NVStättVO). CeBIT (IT trade fair) ran alongside until 2018. The EXPO 2000 was hosted at the Hannover Messe site.",
+      "penalty": "Fire safety violations: immediate stand closure; CE marking fraud: criminal prosecution",
+      "exceptions": ["Prototype exhibits not for sale exempt from mandatory CE marking at trade fairs"],
+      "source": "https://www.hannovermesse.de",
+      "sourceLabel": "Hannover Messe",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many exhibitors attend Hannover Messe annually?",
+        "options": ["1,500", "3,000", "6,500+", "10,000"],
+        "correct": 2,
+        "explanation": "Hannover Messe attracts 6,500+ exhibitors and 200,000+ visitors, making it the world's largest industrial trade fair."
+      }
+    },
+    {
+      "id": 41831,
+      "category": "Aviation",
+      "severity": "medium",
+      "icon": "✈️",
+      "title": "Hannover Airport & Airbus Stade",
+      "subtitle": "Hannover Airport and Airbus composite wing production in Stade",
+      "fullDescription": "Hannover Airport (HAJ) handles 5+ million passengers/year. Lower Saxony's aviation sector also includes Airbus in Stade — the world's largest carbon-fibre composite production facility for the A380 wings and A350 fuselage sections. Stade operates under EASA Part 21 production approval. The NI Luftfahrtbehörde issues airport operating certificates. CFPR (carbon fibre reinforced polymer) waste disposal is subject to special chemical waste rules under KrWG and REACH Regulation.",
+      "penalty": "EASA Part 21 violation: production approval suspension; civil liability for defective aircraft parts",
+      "exceptions": ["Experimental aircraft built under EASA Annex I (non-certified) have lighter oversight rules"],
+      "source": "https://www.airbus.com/stade",
+      "sourceLabel": "Airbus Stade",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What aircraft components are manufactured at Airbus's Stade facility in Lower Saxony?",
+        "options": ["Engines", "Carbon-fibre composite wings and fuselage sections", "Landing gear", "Avionics"],
+        "correct": 1,
+        "explanation": "Airbus Stade is the world's largest carbon-fibre composite facility, producing A380 wings and A350 fuselage sections."
+      }
+    },
+    {
+      "id": 41832,
+      "category": "Maritime",
+      "severity": "high",
+      "icon": "⚓",
+      "title": "Emden & Wilhelmshaven — North Sea Ports",
+      "subtitle": "Germany's deepest seaport — Jade WeserPort Wilhelmshaven",
+      "fullDescription": "Jade WeserPort in Wilhelmshaven is Germany's only deepwater container port (17m depth), opened 2012 and operating below capacity due to rail/road connectivity issues. It is the only German port that can fully accommodate ultra-large container vessels (ULCV, 24,000+ TEU). Emden is Volkswagen's main car export port (700,000 vehicles/year). Both ports are governed by NPort (Niedersächsische Hafengesellschaft). Compulsory pilotage on the Jade/Weser/Ems rivers is enforced by Lotsenbrüderschaft.",
+      "penalty": "Port pilotage refusal: criminal offence; non-compliant vessels denied entry",
+      "exceptions": ["Regular service vessels with 12+ port calls may apply for pilotage exemption certificate"],
+      "source": "https://www.jadeweserport.de",
+      "sourceLabel": "Jade WeserPort",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes Jade WeserPort in Wilhelmshaven unique among German ports?",
+        "options": ["Largest container terminal by TEU", "Germany's only deepwater port at 17m depth", "Only port with rail direct loading", "Germany's oldest port"],
+        "correct": 1,
+        "explanation": "Jade WeserPort is Germany's only deepwater container port (17m), capable of accommodating ultra-large container vessels that cannot enter other German ports."
+      }
+    },
+    {
+      "id": 41833,
+      "category": "Environment",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Wattenmeer National Park — UNESCO World Heritage",
+      "subtitle": "Lower Saxony's Wadden Sea — world's largest tidal flat",
+      "fullDescription": "Nationalpark Niedersächsisches Wattenmeer (2,777 km²) is Germany's largest national park and part of the trilateral UNESCO World Heritage Wadden Sea (Germany-Netherlands-Denmark, 2009). The tidal flats support 10,000+ species. Human access to core zones is restricted; guided Wattwanderungen (mudflat walks) require licensed guide. Offshore wind turbines may not be built within the UNESCO buffer zone. The NI Nationalparkverwaltung manages the park from Wilhelmshaven.",
+      "penalty": "Unauthorized access to core zones: fines up to €50,000; dog off-lead in NP: fines up to €5,000",
+      "exceptions": ["Traditional shrimp fishing (Krabbenfischerei) continues under a grandfathered exemption in transition zones"],
+      "source": "https://www.nationalpark-wattenmeer.de",
+      "sourceLabel": "NP Niedersächsisches Wattenmeer",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did the Wadden Sea gain UNESCO World Heritage status?",
+        "options": ["1999", "2004", "2009", "2014"],
+        "correct": 2,
+        "explanation": "The trilateral Wadden Sea (Germany-Netherlands-Denmark) was inscribed as UNESCO World Heritage in 2009, expanded in 2014."
+      }
+    },
+    {
+      "id": 41834,
+      "category": "Industry",
+      "severity": "medium",
+      "icon": "⚙️",
+      "title": "Continental AG — Hannover Automotive Supplier HQ",
+      "subtitle": "World's largest tyre and automotive supplier — Hannover headquarters",
+      "fullDescription": "Continental AG, headquartered in Hannover, is the world's fourth-largest automotive supplier (tyres, brakes, electronics). Continental employs 200,000+ globally and 50,000+ in Germany. The company is subject to German corporate governance (Aktiengesetz, Mitbestimmungsgesetz — co-determination with IG BCE union). Continental's Conti-Werk Hannover tyre plant is one of the world's largest. Under the Produkthaftungsgesetz (ProdHaftG), Continental is strictly liable for defective automotive components.",
+      "penalty": "Product liability: unlimited compensation for death/injury from defective tyres",
+      "exceptions": ["State-of-the-art defence available if defect was undetectable at time of manufacture"],
+      "source": "https://www.continental.com",
+      "sourceLabel": "Continental AG Hannover",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Continental AG's global rank among automotive suppliers?",
+        "options": ["1st", "2nd", "4th", "7th"],
+        "correct": 2,
+        "explanation": "Continental AG is the world's fourth-largest automotive supplier, headquartered in Hannover and known for tyres, brakes, and vehicle electronics."
+      }
+    },
+    {
+      "id": 41835,
+      "category": "Natural Gas",
+      "severity": "high",
+      "icon": "🔥",
+      "title": "Erdgas Niedersachsen — Onshore Gas Extraction",
+      "subtitle": "Lower Saxony supplies 90% of Germany's domestic natural gas",
+      "fullDescription": "Lower Saxony's Rotliegend sandstone formations hold Germany's largest domestic natural gas reserves. The Emsland and Elbe-Weser region supplies ~90% of Germany's domestic gas production (declining). Wintershall Dea and ExxonMobil are major operators. Gas extraction requires BImSchG permits and seismic monitoring. Fracking (hydraulic fracturing) for tight gas/shale is effectively banned in Germany under the Wasserhaushaltsgesetz (WHG) 2016 amendment except for very limited research. The Erdgasnetz connects NI production to the national grid.",
+      "penalty": "Unauthorized drilling: immediate injunction; environmental damage: §324 StGB up to 5 years",
+      "exceptions": ["Scientific research fracking permitted with BBodSchG, WHG, and BImSchG approval bundle"],
+      "source": "https://www.wintershalldea.com",
+      "sourceLabel": "Wintershall Dea",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Germany's domestic natural gas is produced in Lower Saxony?",
+        "options": ["30%", "60%", "90%", "100%"],
+        "correct": 2,
+        "explanation": "Lower Saxony produces approximately 90% of Germany's domestic natural gas from Rotliegend sandstone formations in the Emsland and Elbe-Weser region."
+      }
+    },
+    {
+      "id": 41836,
+      "category": "Football",
+      "severity": "low",
+      "icon": "⚽",
+      "title": "Hannover 96 & VfL Wolfsburg — DFL Stadium Rules",
+      "subtitle": "Lower Saxony's Bundesliga clubs — stadium licensing",
+      "fullDescription": "Hannover 96 (HDI-Arena, 49,000 capacity) and VfL Wolfsburg (Volkswagen Arena, 30,000 capacity) are Lower Saxony's Bundesliga clubs. Stadium events require NI Versammlungsstättenverordnung permits. DFL Sicherheitsrichtlinien mandate stewards (1 per 250 seats), CCTV, and crowd management plans. VfL Wolfsburg is owned 100% by Volkswagen AG — an exception to the 50+1 DFL rule as a grandfathered owner (Volkswagen controlling since 1945). Hannover 96 has faced 50+1 disputes over investor influence.",
+      "penalty": "DFL 50+1 violations: licence revocation; stadium safety violations: immediate closure",
+      "exceptions": ["VfL Wolfsburg and Bayer Leverkusen grandfathered under 50+1 rule due to 20+ years of continuous company ownership"],
+      "source": "https://www.dfl.de",
+      "sourceLabel": "DFL Deutsche Fußball Liga",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why is VfL Wolfsburg exempt from the DFL's 50+1 rule?",
+        "options": ["It is a publicly listed company", "Volkswagen AG has owned it since 1945 (grandfathered)", "It has no professional league history", "It operates as a charitable foundation"],
+        "correct": 1,
+        "explanation": "VfL Wolfsburg is grandfathered under the DFL's 50+1 rule because Volkswagen AG has controlled the club since its founding in 1945 — over 20 years of continuous ownership."
+      }
+    },
+    {
+      "id": 41837,
+      "category": "North Sea",
+      "severity": "high",
+      "icon": "🌬️",
+      "title": "Offshore Wind — Lower Saxony North Sea Cluster",
+      "subtitle": "Borkum, Norderney — Lower Saxony's offshore wind zone",
+      "fullDescription": "Lower Saxony's North Sea coast is Germany's primary offshore wind zone. Projects including Borkum Riffgrund (Ørsted), Triton Knoll, and Gode Wind operate from NI's Exclusive Economic Zone (EEZ). Onshore grid connections land at Dörpen and Conneforde. TenneT operates NordLink (1,400 MW HVDC to Norway) from Wilster (SH)/Büttel. The Niedersächsisches Küstenmeer covers 12 nm, after which the federal EEZ applies. Offshore wind permits are issued by BSH (federal) for EEZ and NI Landesbehörde für Bergbau within territorial waters.",
+      "penalty": "Operating offshore wind farm without BSH permit: immediate shutdown; fines",
+      "exceptions": ["Research turbines in designated test fields may operate under simplified BSH test zone permit"],
+      "source": "https://www.bsh.de",
+      "sourceLabel": "BSH Offshore Wind",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which HVDC cable connects Lower Saxony/Schleswig-Holstein to Norway for power exchange?",
+        "options": ["NordBalt", "NordLink", "Baltic Cable", "Cobra Cable"],
+        "correct": 1,
+        "explanation": "NordLink (1,400 MW HVDC cable) connects Germany to Norway for renewable energy exchange, landing at Wilster/Büttel in the NI/SH border area."
+      }
+    },
+    {
+      "id": 41838,
+      "category": "Heritage",
+      "severity": "medium",
+      "icon": "🏰",
+      "title": "Goslar & Rammelsberg — UNESCO World Heritage",
+      "subtitle": "Goslar's medieval old town and Rammelsberg mine — UNESCO since 1992",
+      "fullDescription": "Goslar's historic old town and the Rammelsberg ore mine were inscribed as UNESCO World Heritage in 1992 (expanded 2010 to include the Upper Harz Water Management System). Rammelsberg operated for 1,000 years (968–1988) producing silver, copper, and zinc. The Denkmalschutzbehörde NI prohibits exterior alterations in the historic centre. Goslar's Kaiserpfalz (imperial palace) is a protected national monument. The Welterbestätten Niedersachsen coordinates seven UNESCO sites in Lower Saxony.",
+      "penalty": "Unauthorized alterations to UNESCO-listed buildings: fines up to €500,000",
+      "exceptions": ["Emergency structural repairs proceed with Denkmalschutzamt retroactive approval"],
+      "source": "https://www.rammelsberg.de",
+      "sourceLabel": "Bergwerk Rammelsberg Goslar",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long did the Rammelsberg ore mine near Goslar operate?",
+        "options": ["200 years", "500 years", "800 years", "1,000 years"],
+        "correct": 3,
+        "explanation": "Rammelsberg operated for approximately 1,000 years (from 968 to 1988), producing silver, copper, lead, and zinc — one of history's longest-operating mines."
+      }
+    },
+    {
+      "id": 41839,
+      "category": "Animal Welfare",
+      "severity": "high",
+      "icon": "🐔",
+      "title": "Niedersächsisches Tierschutzgesetz — Poultry Welfare",
+      "subtitle": "Lower Saxony's strict poultry welfare rules — beak trimming ban",
+      "fullDescription": "Lower Saxony banned beak trimming of laying hens (Schnabelkürzung) from 2017 — the first German state to do so. This requires higher welfare management. The state piloted the 'Niedersachsenweg' concept (voluntary agreement with industry on phasing out cage systems). Battery cages were banned EU-wide in 2012; enriched cages permitted until further notice. Lower Saxony also moved to phase out the killing of male chicks (Kükentöten) before the national ban in 2022. In-ovo sexing technology was commercially deployed in NI first.",
+      "penalty": "TierSchG violations on poultry farms: fines up to €25,000; persistent violations: licence revocation",
+      "exceptions": ["Free-range and organic farms have modified welfare management requirements"],
+      "source": "https://www.ml.niedersachsen.de/tierschutz",
+      "sourceLabel": "NI Tierschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Lower Saxony ban beak trimming of laying hens?",
+        "options": ["2012", "2015", "2017", "2020"],
+        "correct": 2,
+        "explanation": "Lower Saxony banned beak trimming (Schnabelkürzung) of laying hens from 2017 — the first German state to do so — requiring higher-welfare flock management."
+      }
+    },
+    {
+      "id": 41840,
+      "category": "Police",
+      "severity": "high",
+      "icon": "🚔",
+      "title": "Niedersächsisches Polizei- und Ordnungsbehördengesetz (NPOG)",
+      "subtitle": "Lower Saxony's police law — G7 and major event policing",
+      "fullDescription": "Lower Saxony hosted the G7 summit at Schloss Elmau's predecessor site and regularly polices major protests at Gorleben. The NPOG (2019 update) expanded powers: predictive policing data analysis, ankle tagging, bodycams, and preventive detention up to 10 days with court approval. The Niedersächsisches LKA cooperates with BKA nationally. The Hannover Verfassungsschutz (NI LfV) monitors extremism. Lower Saxony trains German police at the Deutsche Hochschule der Polizei (partly in NI).",
+      "penalty": "Preventive detention under NPOG: max 10 days with court approval; review within 48 hours",
+      "exceptions": ["Journalists covering protests have special access rights under Presserecht"],
+      "source": "https://www.polizei.niedersachsen.de",
+      "sourceLabel": "Polizei Niedersachsen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long may Lower Saxony hold a person in preventive detention under NPOG?",
+        "options": ["48 hours", "5 days", "10 days", "30 days"],
+        "correct": 2,
+        "explanation": "Lower Saxony's NPOG allows preventive detention up to 10 days with court approval — with mandatory judicial review within 48 hours of initial detention."
+      }
+    },
+    {
+      "id": 41841,
+      "category": "University",
+      "severity": "info",
+      "icon": "🎓",
+      "title": "Leibniz University Hannover & TU Braunschweig",
+      "subtitle": "Lower Saxony's leading technical universities",
+      "fullDescription": "Leibniz Universität Hannover (LUH, founded 1831, 28,000 students) and TU Braunschweig (founded 1745 — Germany's oldest technical university) are Lower Saxony's leading institutions. Higher education is tuition-free under the NHG (Niedersächsisches Hochschulgesetz). Göttingen University (founded 1737) is world-famous for mathematics and natural sciences (45 Nobel laureates). The Hannover Medical School (MHH) is Germany's third-largest university hospital.",
+      "penalty": "Academic fraud: exmatrikulation; degree revocation possible for serious cases",
+      "exceptions": ["Long-term study fees (Langzeitstudiengebühren) apply after 14 semesters in NI"],
+      "source": "https://www.uni-hannover.de",
+      "sourceLabel": "Leibniz University Hannover",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which is Germany's oldest technical university, located in Lower Saxony?",
+        "options": ["TU München (1868)", "TU Berlin (1879)", "TU Braunschweig (1745)", "TU Darmstadt (1877)"],
+        "correct": 2,
+        "explanation": "TU Braunschweig, founded in 1745 as Collegium Carolinum, is Germany's oldest technical university."
+      }
+    },
+    {
+      "id": 41842,
+      "category": "Transport",
+      "severity": "medium",
+      "icon": "🚂",
+      "title": "Hannover S-Bahn & ÜSTRA — Regional Transport",
+      "subtitle": "Hannover's Stadtbahn and regional transport network",
+      "fullDescription": "The GVH (Großraum-Verkehr Hannover) integrates Hannover's Stadtbahn (light rail — not underground), S-Bahn, and regional buses. Unusually, Hannover's Stadtbahn runs largely underground in the city centre but above ground in suburbs. ÜSTRA operates 13 Stadtbahn lines. Schwarzfahren carries a €60 penalty. The Deutschlandticket (€49/month) is valid. Hannover Hauptbahnhof is a major ICE hub on the Hamburg-Frankfurt high-speed line. The A2 motorway (Ruhrgebiet–Berlin) passes through Hannover — Germany's busiest east-west motorway.",
+      "penalty": "Fare evasion: €60 erhöhtes Beförderungsentgelt",
+      "exceptions": ["Children under 6 travel free; Deutschlandticket valid on all GVH services"],
+      "source": "https://www.uestr.de",
+      "sourceLabel": "ÜSTRA Hannover",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is unusual about Hannover's Stadtbahn system?",
+        "options": ["It runs on 750 mm narrow gauge", "It is entirely above ground", "It runs underground in the city centre but above ground in suburbs", "It is diesel-powered"],
+        "correct": 2,
+        "explanation": "Hannover's Stadtbahn runs underground through the city centre (like a U-Bahn) but transitions to above-ground light rail in the suburbs — a hybrid system."
+      }
+    },
+    {
+      "id": 41843,
+      "category": "Media",
+      "severity": "medium",
+      "icon": "📡",
+      "title": "NDR Lower Saxony — Public Broadcasting",
+      "subtitle": "Lower Saxony as NDR member state — Hannover Landesfunkhaus",
+      "fullDescription": "Lower Saxony is an NDR member state (alongside Hamburg, Schleswig-Holstein, and MV). NDR Niedersachsen in Hannover produces regional news and NDR 1 Niedersachsen radio. The Niedersächsische Landesmedienanstalt (NLM) licenses private broadcasters. The Rundfunkbeitrag (€18.36/month) funds NDR and other ARD/ZDF broadcasters. Lower Saxony hosts major media production including Tele 5 and various streaming platforms. Press freedom is protected under Art. 5 GG and the NI Pressegesetz.",
+      "penalty": "Non-payment of Rundfunkbeitrag: debt collection; defamation injunctions under NI Pressegesetz",
+      "exceptions": ["Bürgerrundfunk (community radio) licence exempt from standard commercial broadcasting fees"],
+      "source": "https://www.ndr.de/niedersachsen",
+      "sourceLabel": "NDR Niedersachsen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which body licenses private broadcasters in Lower Saxony?",
+        "options": ["ARD", "Bundesnetzagentur", "Niedersächsische Landesmedienanstalt (NLM)", "Landesregierung NI"],
+        "correct": 2,
+        "explanation": "The Niedersächsische Landesmedienanstalt (NLM) licenses and supervises private radio and TV broadcasters in Lower Saxony."
+      }
+    },
+    {
+      "id": 41844,
+      "category": "Environment",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Harz National Park — Cross-Border Protection",
+      "subtitle": "Lower Saxony/Saxony-Anhalt NP — largest NI national park",
+      "fullDescription": "Nationalpark Harz (247 km²) straddles Lower Saxony and Saxony-Anhalt. The NI portion (160 km²) is managed by the Nationalparkverwaltung Harz in Wernigerode (SA). The Brocken (1,141 m — NI's highest mountain is actually in SA, but the Wurmberg 971 m is in NI). Spruce bark beetle (Borkenkäfer) infestations have killed millions of trees since 2018 — rewilding is the park's management approach (no intervention). Wild camping prohibited; dogs must be on leads. The Harz is Germany's northernmost mountain range.",
+      "penalty": "Wild camping in NP: fines up to €25,000; picking protected plants: up to €50,000",
+      "exceptions": ["Designated camping areas at NP boundaries permitted for hikers"],
+      "source": "https://www.nationalpark-harz.de",
+      "sourceLabel": "NP Harz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Harz National Park's management approach to bark beetle devastation?",
+        "options": ["Aerial pesticide spraying", "Mass clear-cutting of dead trees", "Rewilding — no intervention, letting nature recover", "Importing natural predators"],
+        "correct": 2,
+        "explanation": "Harz NP uses a rewilding, non-intervention approach to bark beetle devastation — allowing dead trees to become deadwood habitats and natural forest regeneration to occur."
+      }
+    },
+    {
+      "id": 41845,
+      "category": "Chemicals",
+      "severity": "high",
+      "icon": "⚗️",
+      "title": "Salzgitter AG — Steel Production Decarbonisation",
+      "subtitle": "Salzgitter's SALCOS green steel programme under EU ETS",
+      "fullDescription": "Salzgitter AG (25% owned by Lower Saxony state) operates one of Germany's largest integrated steelworks in Salzgitter. Steel is responsible for 7% of Germany's CO₂ emissions. Salzgitter's SALCOS (Salzgitter Low CO₂ Steelmaking) programme targets 95% CO₂ reduction using hydrogen direct reduction (DR-EAF) by 2033. EU ETS carbon prices make green steel economically viable. The Federal Transformation Fund (KTF) and EU IPCEI Hydrogen programme fund SALCOS. Blast furnace emissions are regulated under BImSchG TA Luft.",
+      "penalty": "BImSchG TA Luft violations: stop-work; fines; EU ETS missing allowances: €100/tonne surcharge",
+      "exceptions": ["Phase-in periods under EU ETS allow free allowance allocation during transition to green steel"],
+      "source": "https://www.salzgitter-ag.com/salcos",
+      "sourceLabel": "Salzgitter SALCOS",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What CO₂ reduction does Salzgitter's SALCOS programme target by 2033?",
+        "options": ["40%", "65%", "80%", "95%"],
+        "correct": 3,
+        "explanation": "Salzgitter's SALCOS programme targets a 95% CO₂ reduction in steelmaking by 2033 using hydrogen direct reduction instead of coal-based blast furnaces."
+      }
+    },
+    {
+      "id": 41846,
+      "category": "Water",
+      "severity": "medium",
+      "icon": "💧",
+      "title": "Nitratbelastung Niedersachsen — Groundwater Protection",
+      "subtitle": "Germany's most severe nitrate groundwater problem in Lower Saxony",
+      "fullDescription": "Lower Saxony has Germany's most severe agricultural nitrate groundwater pollution problem. The EU Commission took Germany to the ECJ for failing to implement the Nitrates Directive — Germany was fined €860,000/day in 2023. Lower Saxony's Rote Gebiete (nitrate vulnerable zones) cover 44% of agricultural land. The DüV (2020 revision) imposes mandatory nitrogen application reductions of 20%, winter application bans, and buffer strips near water bodies. The NI Grundwasserüberwachungsprogramm monitors 1,200 sampling points.",
+      "penalty": "DüV violations in Rote Gebiete: fines up to €25,000; loss of EU CAP direct payments",
+      "exceptions": ["Certified organic farms have modified DüV obligations reflecting lower synthetic input use"],
+      "source": "https://www.nlwkn.niedersachsen.de",
+      "sourceLabel": "NLWKN Niedersachsen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What daily fine did the EU Commission impose on Germany for nitrate directive failures?",
+        "options": ["€100,000/day", "€350,000/day", "€860,000/day", "€2,000,000/day"],
+        "correct": 2,
+        "explanation": "The EU Commission imposed a daily fine of €860,000 on Germany in 2023 for persistent failure to adequately implement the EU Nitrates Directive — largely driven by Lower Saxony's intensive livestock farming."
+      }
+    },
+    {
+      "id": 41847,
+      "category": "Shipbuilding",
+      "severity": "medium",
+      "icon": "🛳️",
+      "title": "Meyer Werft Papenburg — Cruise Ship Construction",
+      "subtitle": "World's leading cruise ship builder in Lower Saxony",
+      "fullDescription": "Meyer Werft in Papenburg is one of the world's largest cruise ship builders — constructing Disney Wish, AIDAcosma, and MSC vessels. Ships built in Papenburg must be floated down the Ems river to the North Sea — requiring a Spülstoß (controlled water release) from the Emssperrwerk. This controversial practice raised water levels damaging Ems ecology. The Emssperrwerk operations are governed by a court-approved compromise between NI, BGE, and environmental groups. Workers are represented by IG Metall.",
+      "penalty": "Unauthorized Ems Spülstoß without ministerial approval: injunction; fines",
+      "exceptions": ["Cruise ship transports approved under a special annual permit process with ecological monitoring"],
+      "source": "https://www.meyerwerft.de",
+      "sourceLabel": "Meyer Werft Papenburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Spülstoß used for at Meyer Werft Papenburg?",
+        "options": ["Cleaning drydock facilities", "Controlled water release to float new cruise ships down the Ems river", "Industrial wastewater treatment", "Flood control upstream"],
+        "correct": 1,
+        "explanation": "The Spülstoß (controlled water surge from the Emssperrwerk) raises the Ems river level to allow newly built cruise ships to be floated from Papenburg to the North Sea."
+      }
+    },
+    {
+      "id": 41848,
+      "category": "Heritage",
+      "severity": "medium",
+      "icon": "🏰",
+      "title": "Herrenhausen Gardens — Royal Baroque Heritage",
+      "subtitle": "Hannover's royal gardens — Niedersachsen cultural heritage",
+      "fullDescription": "Herrenhausen Gardens in Hannover is one of Europe's most important Baroque garden complexes, created by the Hanoverian Electors (who also became British monarchs as the House of Hanover). The Großer Garten (1696, French Baroque) and Georgengarten are protected Kulturdenkmale. The KunstFestSpiele Herrenhausen (annual arts festival) draws 80,000+ visitors. Herrenhausen's fountains (82m — Europe's highest garden fountain) operate under city of Hannover permit. Drone photography requires permit from Niedersächsisches Landesamt für Denkmalpflege.",
+      "penalty": "Denkmalschutz violations: fines up to €500,000",
+      "exceptions": ["Pre-approved professional photography sessions permitted with advance booking"],
+      "source": "https://www.herrenhausen.de",
+      "sourceLabel": "Herrenhausen Hannover",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is notable about Herrenhausen's Great Garden fountain?",
+        "options": ["Oldest in Europe", "Largest in Germany", "82 metres high — Europe's highest garden fountain", "Runs on geothermal energy"],
+        "correct": 2,
+        "explanation": "Herrenhausen's Great Garden fountain reaches 82 metres, making it Europe's highest garden fountain."
+      }
+    },
+    {
+      "id": 41849,
+      "category": "Energy",
+      "severity": "medium",
+      "icon": "⚡",
+      "title": "Lower Saxony Energiewende — 200% Renewable Target",
+      "subtitle": "Lower Saxony aims to export double its electricity needs from renewables",
+      "fullDescription": "Lower Saxony's Energiepolitik targets producing 200% of its own electricity needs from renewables by 2040 — making it a major net exporter to energy-poor southern Germany. Wind energy (on- and offshore) provides the bulk. The NI Klimaschutzgesetz (2021) targets climate neutrality by 2040. The Netzausbau (grid expansion) is critical — new 380 kV lines through Lower Saxony face NIMBY opposition requiring NetzausbauBeschleunigungsgesetz (NABEG) fast-track procedures.",
+      "penalty": "Obstruction of approved grid construction: §11 NABEG; fines; courts may authorise forcible access",
+      "exceptions": ["Landowners have right to compensation for grid easements across their property"],
+      "source": "https://www.umwelt.niedersachsen.de/energie",
+      "sourceLabel": "Niedersachsen Energie",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What renewable electricity production target has Lower Saxony set?",
+        "options": ["75% of own needs", "100% of own needs", "150% of own needs", "200% of own needs"],
+        "correct": 3,
+        "explanation": "Lower Saxony targets 200% of its own electricity needs from renewables by 2040 — making it a major exporter to energy-intensive southern German states."
+      }
+    },
+    {
+      "id": 41850,
+      "category": "Food",
+      "severity": "medium",
+      "icon": "🍫",
+      "title": "Hannover Food Industry — Bahlsen, Pelikan",
+      "subtitle": "Hannover's confectionery and food production hub",
+      "fullDescription": "Hannover is home to Bahlsen (biscuits, founded 1889 — Leibniz Butter Biscuit is Germany's best-selling biscuit) and other major food producers. The Leibniz-Keks is not a PDO product but its name is protected by Bahlsen's trademark. Food production in Lower Saxony is governed by LFGB, EU Regulation 178/2002, and Lebensmittelhygieneverordnung 852/2004. Lower Saxony's LAVES (Landesamt für Verbraucherschutz und Lebensmittelsicherheit) conducts food safety inspections. The annual Anuga food fair (Cologne) features NI producers.",
+      "penalty": "Food labelling fraud: fines up to €100,000; health risk violations: immediate production stop",
+      "exceptions": ["Small producers under €10,000/year turnover have simplified food hygiene registration"],
+      "source": "https://www.bahlsen.de",
+      "sourceLabel": "Bahlsen Hannover",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was Bahlsen founded in Hannover?",
+        "options": ["1855", "1889", "1905", "1921"],
+        "correct": 1,
+        "explanation": "Bahlsen was founded in Hannover in 1889 and is famous for the Leibniz Butter Biscuit — Germany's best-selling biscuit."
+      }
+    },
+    {
+      "id": 41851,
+      "category": "Cycling",
+      "severity": "low",
+      "icon": "🚲",
+      "title": "Lower Saxony Cycling Network — D-Routes",
+      "subtitle": "NI's 7,700 km cycling network and EuroVelo connections",
+      "fullDescription": "Lower Saxony has a 7,700 km signposted cycling network, including parts of EuroVelo routes (EV1 Atlantic Coast, EV3 Pilgrims Route). The NI Radverkehrskonzept 2030 targets 30% of short journeys by bike. The Weserradweg (500 km) and Ems-Radweg are popular long-distance routes. E-bike charging stations are subsidised at 50% by the NI Wirtschaftsministerium along D-route tourism corridors. Lower Saxony's flat north (Ostfriesland, Emsland) is ideal for cycling tourism.",
+      "penalty": "Cycling without lights at night: €20 fine under StVO",
+      "exceptions": ["Children under 8 must use footpaths; under 10 may choose pavement or cycle path"],
+      "source": "https://www.radfahren-in-niedersachsen.de",
+      "sourceLabel": "Radfahren Niedersachsen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many km of signposted cycling routes does Lower Saxony's network cover?",
+        "options": ["2,500 km", "5,000 km", "7,700 km", "12,000 km"],
+        "correct": 2,
+        "explanation": "Lower Saxony has 7,700 km of signposted cycling routes, including EuroVelo connections and the Weserradweg and Ems-Radweg long-distance routes."
+      }
+    },
+    {
+      "id": 41852,
+      "category": "Chemicals",
+      "severity": "high",
+      "icon": "🏭",
+      "title": "BASF Verbundstandort — Chemicals Sites in NI",
+      "subtitle": "BASF and Bayer CropScience operations in Lower Saxony",
+      "fullDescription": "Lower Saxony hosts major chemical operations: BASF's Verbundstandort in several locations, Bayer CropScience in Wunstorf/Hanover (pesticide production), and Solvay in Hannover. These are SEVESO III upper-tier sites regulated under the 12. BImSchV Störfall-Verordnung. The Gewerbeaufsicht NI (trade inspection authority) conducts SEVESO inspections. Chemical plant operators must file Sicherheitsberichte (safety reports) every 5 years. Major accident emergency plans coordinate with Feuerwehr and THW.",
+      "penalty": "SEVESO violation: immediate closure; environmental damage: §324a StGB up to 5 years",
+      "exceptions": ["Research laboratories using quantities below SEVESO thresholds classified as lower-tier or non-SEVESO"],
+      "source": "https://www.gewerbeaufsicht.niedersachsen.de",
+      "sourceLabel": "Gewerbeaufsicht Niedersachsen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How often must SEVESO upper-tier chemical sites file safety reports in Germany?",
+        "options": ["Annually", "Every 3 years", "Every 5 years", "Only after incidents"],
+        "correct": 2,
+        "explanation": "SEVESO III upper-tier sites must submit comprehensive Sicherheitsberichte (safety reports) to authorities every 5 years under the 12. BImSchV."
+      }
+    },
+    {
+      "id": 41853,
+      "category": "Social",
+      "severity": "medium",
+      "icon": "👴",
+      "title": "Lower Saxony Pflegegesetz — Elderly Care",
+      "subtitle": "NI's nursing home regulation and inspection system",
+      "fullDescription": "Lower Saxony's Niedersächsisches Pflegegesetz (NPflegeG) regulates nursing homes and home care agencies. The Niedersächsisches Landesamt für Soziales, Jugend und Familie (LS) conducts annual unannounced inspections of all licensed care facilities. Nursing staff ratios must meet Fachkraftquote (skilled nurse ratio — minimum 50%). The Heimvertrag (care home contract) must include all cost components and complaint procedures. Lower Saxony implemented the bundesweite Personalbemessungsinstrument (PBI) for staff allocation from 2025.",
+      "penalty": "Care home operating without licence: immediate closure; ratio violations: fines up to €25,000",
+      "exceptions": ["24-hour live-in carers from Eastern Europe in private homes operate under separate legal framework with reduced obligations"],
+      "source": "https://www.soziales.niedersachsen.de/pflege",
+      "sourceLabel": "NI Sozialministerium Pflege",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum skilled nurse ratio (Fachkraftquote) do NI nursing homes require?",
+        "options": ["25%", "35%", "50%", "75%"],
+        "correct": 2,
+        "explanation": "Lower Saxony nursing homes must maintain a minimum 50% Fachkraftquote (proportion of qualified nursing staff) to retain their operating licence."
+      }
+    },
+    {
+      "id": 41854,
+      "category": "Refugees",
+      "severity": "medium",
+      "icon": "🌍",
+      "title": "NI Aufnahmegesetz — Refugee Housing",
+      "subtitle": "Lower Saxony's refugee reception and accommodation law",
+      "fullDescription": "Lower Saxony's Aufnahmegesetz (NI AufnG) governs initial refugee accommodation in Landesaufnahmeeinrichtungen (LAE) — the Bramsche/Osnabrück LAE is one of Germany's largest (5,000 capacity). After initial processing, asylum seekers are distributed to Landkreise using the NI distribution formula. Integration measures include German courses (Integrationskurs §44 AufenthG), NI-specific Willkommensklassen (welcome classes) in schools, and the NI Fachkräfteeinwanderungsgesetz implementation. Lower Saxony received 80,000+ refugees in 2015–2016.",
+      "penalty": "Violation of Wohnsitzauflage (residence requirement): loss of freedom to choose location for 3 years",
+      "exceptions": ["Persons with recognized EU Blue Card or confirmed employment may apply for Wohnsitzauflage waiver"],
+      "source": "https://www.mi.niedersachsen.de/asyl",
+      "sourceLabel": "NI Innenministerium Asyl",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What capacity does Lower Saxony's Bramsche/Osnabrück Landesaufnahmeeinrichtung have?",
+        "options": ["500", "1,500", "3,000", "5,000"],
+        "correct": 3,
+        "explanation": "The Landesaufnahmeeinrichtung Bramsche/Osnabrück has a capacity of approximately 5,000 — one of Germany's largest initial refugee reception centres."
+      }
+    }
+  ,
+    {
+      "id": 41855,
+      "category": "Ostfriesland",
+      "severity": "low",
+      "icon": "🫖",
+      "title": "Ostfriesischer Tee — Tea Culture UNESCO Heritage",
+      "subtitle": "Ostfriesland's tea ceremony — Germany's highest tea consumption",
+      "fullDescription": "Ostfriesland (East Frisia) is Germany's only tea culture region — per capita tea consumption is 300 litres/year (vs. 28 litres national average). The Ostfriesische Teezeremonie (rock candy Kluntje, cream poured over a spoon) was inscribed on Germany's intangible cultural heritage list in 2016. The Teeverband Ostfriesischer Tee protects the geographical indication. Tea blends sold as 'Ostfriesische Mischung' must originate from licenced roasters. Serving tea incorrectly in a tourist context can draw local disapproval but carries no legal penalty.",
+      "penalty": "Misuse of 'Ostfriesische Mischung' designation: trademark violation; fines",
+      "exceptions": ["Home blending of teas for personal consumption has no legal restriction"],
+      "source": "https://www.ostfriesischer-tee.de",
+      "sourceLabel": "Teeverband Ostfriesland",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much tea does an Ostfriesland resident drink per year on average?",
+        "options": ["28 litres (national average)", "100 litres", "300 litres", "500 litres"],
+        "correct": 2,
+        "explanation": "Ostfriesland residents drink approximately 300 litres of tea per year — over 10 times the German national average — reflecting their unique tea culture."
+      }
+    },
+    {
+      "id": 41856,
+      "category": "Islands",
+      "severity": "medium",
+      "icon": "🏝️",
+      "title": "East Frisian Islands — Car-Free Rules",
+      "subtitle": "Borkum, Norderney, Juist — motor vehicle restrictions",
+      "fullDescription": "Lower Saxony's 7 East Frisian Islands (Borkum, Juist, Norderney, Baltrum, Langeoog, Spiekeroog, Wangerooge) are UNESCO Wadden Sea World Heritage components. Juist and Spiekeroog ban all motor vehicles (except emergency services and supply vehicles). Others restrict vehicles with day-visitor permits. Ferry access is operated under BSH certification. The Nationalpark Niedersächsisches Wattenmeer surrounds the islands. Island residents have Inselbewohnerprivileg for essential vehicle access.",
+      "penalty": "Unauthorized motor vehicles on car-free islands: fines up to €1,000; vehicle removal at owner's cost",
+      "exceptions": ["Medical emergency, police, fire, and supply vehicles exempt from car-free island rules"],
+      "source": "https://www.ostfriesische-inseln.de",
+      "sourceLabel": "Ostfriesische Inseln",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which East Frisian Islands ban all private motor vehicles?",
+        "options": ["Borkum and Norderney", "Juist and Spiekeroog", "Langeoog and Baltrum", "All 7 islands"],
+        "correct": 1,
+        "explanation": "Juist and Spiekeroog ban all private motor vehicles — only emergency, medical, and supply vehicles are permitted."
+      }
+    },
+    {
+      "id": 41857,
+      "category": "Groundwater",
+      "severity": "high",
+      "icon": "💧",
+      "title": "Trinkwasserschutzgebiete — Drinking Water Protection Zones",
+      "subtitle": "NI's drinking water protection zones — agriculture restrictions",
+      "fullDescription": "Lower Saxony's NLWKN (Niedersächsischer Landesbetrieb für Wasserwirtschaft) designates Trinkwasserschutzgebiete (drinking water protection zones) Zones I–III around all water extraction points. Zone I (immediate catchment): no entry except water authority; Zone II (near catchment): no pesticide use, no fertiliser; Zone III (wider catchment): reduced agricultural inputs. Violations in Zone I are criminal offences under §330 StGB. Lower Saxony provides 5 billion litres/day of drinking water to 8 million residents.",
+      "penalty": "Pollution in Zone I: §330 StGB up to 5 years; Zones II/III: fines up to €50,000",
+      "exceptions": ["Emergency pipeline repairs in Zone I permitted with NLWKN coordination"],
+      "source": "https://www.nlwkn.niedersachsen.de",
+      "sourceLabel": "NLWKN Niedersachsen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What activities are prohibited in drinking water protection Zone II in Lower Saxony?",
+        "options": ["All human activity", "Pesticide and fertiliser use", "Swimming and fishing", "Construction of any kind"],
+        "correct": 1,
+        "explanation": "Zone II (near catchment) of NI's drinking water protection zones prohibits pesticide and fertiliser use to protect groundwater quality."
+      }
+    },
+    {
+      "id": 41858,
+      "category": "Labour",
+      "severity": "medium",
+      "icon": "⚙️",
+      "title": "IG BCE — Mining and Chemical Union in NI",
+      "subtitle": "NI's industrial heartland — IG BCE collective bargaining",
+      "fullDescription": "IG BCE (Industriegewerkschaft Bergbau, Chemie, Energie) is the major union in Lower Saxony's mining (Kali+Salz potash mines in Hannover/Wolfenbüttel), chemical (BASF, Bayer), and energy sectors. Collective agreements (Tarifverträge) under TVG bind NI employers. The Kalibergbau (potash mining) in NI employs 6,000+ at K+S/Werra-Kalibergbau. Potash mining creates saline wastewater (Laugen) discharged to rivers — regulated under water law. IG BCE and IG Metall together cover 70%+ of NI industrial workers.",
+      "penalty": "Employers undercutting TVG wage rates: arbitration; IG BCE Abmahnung; strikers protected from dismissal",
+      "exceptions": ["Small enterprises with fewer than 5 workers exempt from co-determination (Mitbestimmung) obligations"],
+      "source": "https://www.igbce.de",
+      "sourceLabel": "IG BCE",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What environmental concern comes from potash mining in Lower Saxony?",
+        "options": ["Subsidence", "Saline wastewater (Laugen) discharged to rivers", "Radioactive dust", "Heavy metal contamination"],
+        "correct": 1,
+        "explanation": "Potash mining produces saline wastewater (Laugen) that is discharged to rivers, causing salinity problems for aquatic ecosystems and downstream water users."
+      }
+    },
+    {
+      "id": 41859,
+      "category": "Cultural",
+      "severity": "low",
+      "icon": "🎭",
+      "title": "Niedersächsisches Landesmuseum & Sprengel Museum",
+      "subtitle": "Hannover's world-class art museums — Kulturförderung",
+      "fullDescription": "Hannover's Sprengel Museum is one of Germany's most important modern art museums, housing works by Kurt Schwitters (inventor of Merz art), Max Ernst, and Niki de Saint Phalle. The Niedersächsisches Landesmuseum covers natural history and art history. Both receive NI Kulturförderung under the Niedersächsisches Kulturförderungsgesetz (NKultFG). The Kestnergesellschaft (founded 1916) is Germany's oldest private art association. Copyright in exhibited artworks is governed by UrhG (70 years post-death for living artists' works).",
+      "penalty": "Unauthorized reproduction of copyrighted artworks: injunction; damages",
+      "exceptions": ["Photographing artworks for personal, non-commercial use permitted in most NI museums"],
+      "source": "https://www.sprengel-museum.de",
+      "sourceLabel": "Sprengel Museum Hannover",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which artist, inventor of 'Merz' art, is closely associated with Hannover's Sprengel Museum?",
+        "options": ["Joseph Beuys", "Kurt Schwitters", "Ernst Ludwig Kirchner", "Max Beckmann"],
+        "correct": 1,
+        "explanation": "Kurt Schwitters, inventor of Merz collage art, was born and worked in Hannover — the Sprengel Museum holds the world's largest Schwitters collection."
+      }
+    },
+    {
+      "id": 41860,
+      "category": "Animal",
+      "severity": "medium",
+      "icon": "🐝",
+      "title": "Niedersächsisches Bienenseuchengesetz — Bee Protection",
+      "subtitle": "Lower Saxony's bee disease law — varroa mite control",
+      "fullDescription": "Lower Saxony's beekeeping is regulated under the Bienenseuchengesetz (BienSeuG) and NI veterinary orders. Varroa destructor mite infestation is a notifiable animal disease — beekeepers must treat colonies. American Foulbrood (Amerikanische Faulbrut) requires mandatory destruction of affected colonies and hive equipment. The NI Bieneninstitut Celle (world-leading bee research institute) advises on disease management. EU pesticide regulations (Regulation 1107/2009) restrict neonicotinoids harmful to bees.",
+      "penalty": "Failure to report American Foulbrood: criminal offence; spreading disease negligently: fines up to €5,000",
+      "exceptions": ["Hobbyist beekeepers with fewer than 5 hives have simplified reporting obligations"],
+      "source": "https://www.bieneninstitut-celle.de",
+      "sourceLabel": "Bieneninstitut Celle",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where is Germany's world-leading bee research institute located?",
+        "options": ["Munich", "Freiburg", "Celle, Lower Saxony", "Würzburg"],
+        "correct": 2,
+        "explanation": "The Bieneninstitut Celle in Lower Saxony is Germany's — and one of the world's — leading bee research institutes, particularly known for varroa mite control research."
+      }
+    },
+    {
+      "id": 41861,
+      "category": "Justice",
+      "severity": "medium",
+      "icon": "⚖️",
+      "title": "OLG Braunschweig — VW Dieselgate Cases",
+      "subtitle": "Braunschweig courts handled Germany's largest consumer fraud cases",
+      "fullDescription": "OLG Braunschweig handled thousands of VW Dieselgate (Abgasskandal) consumer compensation cases — the largest consumer fraud in German legal history. VW installed defeat devices (Abschalteinrichtungen) that reduced NOx emissions only during test cycles. The BGH (Bundesgerichtshof) ruled in 2020 that VW engaged in intentional immoral damage (§826 BGB) — entitling consumers to damages. VW agreed to €830 million settlement (2020) for 260,000 German consumers. Criminal charges against VW managers were filed in Braunschweig.",
+      "penalty": "§826 BGB intentional immoral damage: full compensation; managers: criminal fraud charges",
+      "exceptions": ["Consumers who knew of the manipulation before purchase may have reduced claims"],
+      "source": "https://www.olg-braunschweig.niedersachsen.de",
+      "sourceLabel": "OLG Braunschweig",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much did VW agree to pay in the 2020 German Dieselgate consumer settlement?",
+        "options": ["€200 million", "€500 million", "€830 million", "€2 billion"],
+        "correct": 2,
+        "explanation": "VW agreed to an €830 million settlement in 2020 for 260,000 German Dieselgate consumers, following the BGH's 2020 ruling on §826 BGB intentional immoral damage."
+      }
+    },
+    {
+      "id": 41862,
+      "category": "Waste",
+      "severity": "medium",
+      "icon": "♻️",
+      "title": "Lower Saxony Waste Management — Ökopark Hannover",
+      "subtitle": "NI's waste law and circular economy targets",
+      "fullDescription": "Lower Saxony's Abfallgesetz implements the KrWG and EU Waste Framework Directive. The AVN (Abfallverwertungsgesellschaft des Landkreises Northeim) is one of many Landkreis waste management companies. Hannover's Aha Zweckverband Abfallwirtschaft operates the Ökopark Hannover waste complex (incineration + recycling). NI targets 70% municipal recycling by 2025. Illegal dumping of construction waste in the Harz forests is prosecuted under §326 StGB with cleanup cost liability. Extended Producer Responsibility (EPR) under VerpackG and ElektroG applies.",
+      "penalty": "Illegal construction waste dumping: criminal prosecution; cleanup costs charged to polluter; fines up to €50,000",
+      "exceptions": ["Composting of own garden waste on own property exempt from Abfallgesetz obligations"],
+      "source": "https://www.aha-region.de",
+      "sourceLabel": "Aha Hannover",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What municipal recycling rate does Lower Saxony target by 2025?",
+        "options": ["50%", "60%", "70%", "80%"],
+        "correct": 2,
+        "explanation": "Lower Saxony targets 70% municipal waste recycling by 2025, in line with the EU Waste Framework Directive's trajectory."
+      }
+    },
+    {
+      "id": 41863,
+      "category": "Ferry",
+      "severity": "medium",
+      "icon": "⛴️",
+      "title": "Fährverbindungen Nordseeküste — North Sea Ferry Rules",
+      "subtitle": "Lower Saxony's North Sea island ferry connections",
+      "fullDescription": "AG EMS and Wyker Dampfschiffs-Reederei (WDR) operate ferry services to the East Frisian Islands. Services are PSO (Public Service Obligation) under EU Regulation 3577/92 — subsidised by NI for year-round island connectivity. Ferry operators hold BSH passenger vessel certificates. The Wattwagen (horse-drawn carts crossing the tidal flats to Neuwerk island) operate under a special Gemeingebrauch exemption. The Niedersächsisches Hafengesetz (NHafenG) governs NI's 14 seaports.",
+      "penalty": "Operating island ferries without BSH certification: immediate closure; PSO fraud: repayment of subsidies",
+      "exceptions": ["Wattwagen guided tours to Neuwerk operate under local Gemeinde permit, not maritime law"],
+      "source": "https://www.ag-ems.de",
+      "sourceLabel": "AG EMS",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under what EU regulation are Lower Saxony's island ferry services subsidised as public service obligations?",
+        "options": ["EU Regulation 1370/2007", "EU Regulation 3577/92", "EU Regulation 1008/2008", "EU Regulation 715/2007"],
+        "correct": 1,
+        "explanation": "EU Regulation 3577/92 applies freedom to provide maritime transport services to EU member states and governs PSO (public service obligation) subsidies for island ferry connections."
+      }
+    },
+    {
+      "id": 41864,
+      "category": "University Hospital",
+      "severity": "medium",
+      "icon": "🏥",
+      "title": "Hannover Medical School (MHH) — Clinical Research",
+      "subtitle": "Germany's third-largest university hospital — Hannover",
+      "fullDescription": "The Medizinische Hochschule Hannover (MHH) is Germany's third-largest university hospital (1,400 beds, 10,000 staff). MHH pioneered heart transplants in Germany (1983) and cochlear implant surgery. All clinical research requires Ethikkommission MHH approval and BfArM/PEI registration for trials with drugs/devices. Patient data processing requires strict DSGVO compliance — MHH uses a Trusted Third Party model. MHH operates under the Niedersächsisches Hochschulgesetz and receives state and federal research funding.",
+      "penalty": "Clinical trials without ethics approval: AMG violation; criminal prosecution under §96 AMG",
+      "exceptions": ["Non-interventional studies (observational only) require ethics notification, not full approval"],
+      "source": "https://www.mh-hannover.de",
+      "sourceLabel": "Medizinische Hochschule Hannover",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What medical first did MHH Hannover achieve in Germany in 1983?",
+        "options": ["First kidney transplant", "First heart transplant in Germany", "First IVF baby", "First robotic surgery"],
+        "correct": 1,
+        "explanation": "MHH Hannover performed Germany's first heart transplant in 1983 and remains a world leader in cardiac and transplantation surgery."
+      }
+    },
+    {
+      "id": 41865,
+      "category": "Digitalisation",
+      "severity": "medium",
+      "icon": "💻",
+      "title": "NI Digitalstrategie — OZG Implementation",
+      "subtitle": "Lower Saxony's digital government — Serviceportal Niedersachsen",
+      "fullDescription": "Lower Saxony's Digitalstrategie 2025 targets 100% of administrative services online via the Serviceportal Niedersachsen under the OZG (Onlinezugangsgesetz). NI worked with the Dataport IT provider (shared with other northern states). Key digital services: Kfz-Zulassung (vehicle registration online), Elterngeld digital application, and Baugenehmigung digital pilot. The NI IT-Planerrat coordinates across 46 NI municipalities. NI's approach to eID (electronic ID) enables paperless administrative processes.",
+      "penalty": "State bodies failing OZG deadlines: federal monitoring; political accountability",
+      "exceptions": ["Persons without internet access retain right to in-person service provision"],
+      "source": "https://www.serviceportal.niedersachsen.de",
+      "sourceLabel": "Serviceportal Niedersachsen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does the German OZG (Onlinezugangsgesetz) require?",
+        "options": ["5G rollout to all towns", "All government administrative services available online", "Mandatory digital ID for all citizens", "Online voting in federal elections"],
+        "correct": 1,
+        "explanation": "The OZG (Online Access Act) requires all levels of German government to make administrative services available digitally — Lower Saxony implements this via the Serviceportal."
+      }
+    },
+    {
+      "id": 41866,
+      "category": "Housing",
+      "severity": "high",
+      "icon": "🏠",
+      "title": "Hannover Mietpreisbremse",
+      "subtitle": "Hannover's rent control — designated tight housing market",
+      "fullDescription": "Hannover and 80+ other NI municipalities are designated tight housing markets (angespannter Wohnungsmarkt) under §556d BGB. New rents may not exceed 10% above the ortsübliche Vergleichsmiete (local comparative rent). Hannover's Mietspiegel 2024 shows average rents of €10.80/m². The NI Wohnraumförderungsgesetz (NWoFG) funds social housing — Lower Saxony builds 10,000+ units/year. The Niedersächsisches Wohnungsaufsichtsgesetz requires housing safety inspections.",
+      "penalty": "Excess rent: landlord must repay excess; systematic violation: fines up to €500,000",
+      "exceptions": ["Newly built apartments (post-2014) exempt from Mietpreisbremse for first rental"],
+      "source": "https://www.hannover.de/wohnen",
+      "sourceLabel": "Hannover Wohnen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Hannover's average rent per m² in 2024?",
+        "options": ["€7.50/m²", "€9.20/m²", "€10.80/m²", "€13.50/m²"],
+        "correct": 2,
+        "explanation": "Hannover's 2024 Mietspiegel shows average rents around €10.80/m², triggering Mietpreisbremse restrictions on new rental contracts."
+      }
+    },
+    {
+      "id": 41867,
+      "category": "Peat",
+      "severity": "high",
+      "icon": "🌿",
+      "title": "Emsland Moorschutz — Peatland Restoration",
+      "subtitle": "Lower Saxony's massive peatland restoration programme",
+      "fullDescription": "Lower Saxony has Germany's second-largest peatland area (180,000 ha) after MV. Drained peat in Emsland and Ostfriesland emits 5+ million tonnes CO₂/year. The NI Moorschutzprogramm targets rewetting 55,000 ha by 2030. Paludiculture (sphagnum farming, reed cultivation on rewetted peat) is promoted as an alternative land use. The BUND (environmental NGO) and NI cooperate on moor restoration. EU LIFE+ funds major restoration projects. BNatSchG §30 protects active bogs as priority biotopes.",
+      "penalty": "Unauthorized peatland drainage: fines up to €50,000; mandatory rewetting at owner's cost",
+      "exceptions": ["Existing agricultural drainage systems registered before 1992 may continue with Ordnungsamt notification"],
+      "source": "https://www.umwelt.niedersachsen.de/moor",
+      "sourceLabel": "NI Moorschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much CO₂ per year does Lower Saxony's drained peatland emit?",
+        "options": ["500,000 tonnes", "1 million tonnes", "5+ million tonnes", "15 million tonnes"],
+        "correct": 2,
+        "explanation": "Lower Saxony's drained peatland in Emsland and Ostfriesland emits over 5 million tonnes of CO₂ per year — a major climate liability driving the Moorschutzprogramm."
+      }
+    },
+    {
+      "id": 41868,
+      "category": "Church",
+      "severity": "low",
+      "icon": "⛪",
+      "title": "Evangelisch-Lutherische Landeskirche Hannovers",
+      "subtitle": "Lower Saxony's Protestant church — largest Lutheran church in Germany",
+      "fullDescription": "The Evangelisch-Lutherische Landeskirche Hannovers is Germany's largest Lutheran church (2.5 million members). It receives Kirchensteuer (church tax — 9% of income tax) via NI's Finanzämter. The Marktkirche Hannover (1350 Gothic) is the church's main cathedral. Martin Luther's influence shaped the entire region — the Reformation Museum in Wittenberg (Saxony-Anhalt) commemorates Luther's 95 Theses. Kirchenaustritt (leaving the church) requires declaration at the Amtsgericht. The church operates social services under Diakonie.",
+      "penalty": "Continuing Kirchensteuer deduction after valid Kirchenaustritt: Finanzamt liability",
+      "exceptions": ["Persons with no church affiliation registered at Einwohnermeldeamt pay no Kirchensteuer"],
+      "source": "https://www.landeskirche-hannovers.de",
+      "sourceLabel": "Landeskirche Hannovers",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many members does the Evangelisch-Lutherische Landeskirche Hannovers have?",
+        "options": ["800,000", "1.5 million", "2.5 million", "4 million"],
+        "correct": 2,
+        "explanation": "With 2.5 million members, the Evangelisch-Lutherische Landeskirche Hannovers is Germany's largest Lutheran church."
+      }
+    },
+    {
+      "id": 41869,
+      "category": "Flood",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Deichverband Niedersachsen — Flood Protection",
+      "subtitle": "NI's dike associations maintain 2,500 km of flood defences",
+      "fullDescription": "Lower Saxony's Deichverbände (dike associations) maintain 2,500 km of flood defences along the North Sea coast, Elbe, Weser, and Ems rivers. The Niedersächsisches Deichgesetz (NDG) governs dike maintenance obligations. Property owners within 50 m of dikes must allow access for maintenance. The 1962 Hamburg flood (also devastated NI coast) triggered major dike reinforcement. Climate change sea level rise requires continuous dike heightening under the NI Küstenschutzprogramm. The NLWKN manages coastal protection centrally.",
+      "penalty": "Unauthorized weakening of dikes: criminal offence; §318 StGB up to 5 years",
+      "exceptions": ["DHewährtes (established historic) dike openings for drainage may continue with NLWKN registration"],
+      "source": "https://www.nlwkn.niedersachsen.de/kuestenschutz",
+      "sourceLabel": "NLWKN Küstenschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many km of flood defences do Lower Saxony's Deichverbände maintain?",
+        "options": ["500 km", "1,000 km", "2,500 km", "5,000 km"],
+        "correct": 2,
+        "explanation": "Lower Saxony's dike associations maintain 2,500 km of flood defences along its North Sea coast and major rivers."
+      }
+    },
+    {
+      "id": 41870,
+      "category": "Rail",
+      "severity": "medium",
+      "icon": "🚆",
+      "title": "Hannover–Würzburg High-Speed Line — Neubaustrecke",
+      "subtitle": "Germany's first high-speed rail line passes through Lower Saxony",
+      "fullDescription": "The Hannover–Würzburg Neubaustrecke (NBS, opened 1991) was Germany's first purpose-built high-speed rail line (250 km/h, 327 km). It passes through Lower Saxony (Hannover to Fulda border section). DB Netz operates the line under EBO and TSI (Technical Specifications for Interoperability). The NBS reduced Hannover–Frankfurt journey time from 3h to 1h40min. ICE trains on the NBS are governed by EU Directive 2016/797 (railway interoperability). Noise protection walls are mandatory under 16. BImSchV.",
+      "penalty": "Unauthorized access to high-speed rail track: §315a StGB up to 5 years",
+      "exceptions": ["DB maintenance personnel have access under TSI infrastructure manager rules"],
+      "source": "https://www.dbnetze.com",
+      "sourceLabel": "DB Netz Neubaustrecke",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Germany's first high-speed rail line (Hannover–Würzburg) open?",
+        "options": ["1985", "1988", "1991", "1994"],
+        "correct": 2,
+        "explanation": "The Hannover–Würzburg Neubaustrecke opened in 1991 as Germany's first purpose-built high-speed rail line, allowing 250 km/h operations."
+      }
+    },
+    {
+      "id": 41871,
+      "category": "Agriculture",
+      "severity": "medium",
+      "icon": "🥔",
+      "title": "Niedersächsischer Kartoffelanbau — Potato Production Rules",
+      "subtitle": "NI produces 30% of Germany's potatoes",
+      "fullDescription": "Lower Saxony produces ~30% of Germany's potatoes — the Lüneburger Heide, Emsland, and Hannover regions are key growing areas. Potatoes are subject to the Pflanzenschutzgesetz (plant protection law) and EU pesticide regulations. Certified seed potatoes require PHyto (phytosanitary) certificates. The Kartoffelkrankheit (potato blight, Phytophthora infestans) is a notifiable disease requiring mandatory field measures. NI's Landwirtschaftskammer advises on rotation, variety selection, and integrated pest management (IPM).",
+      "penalty": "Failure to notify potato blight outbreak: fines up to €5,000; crop isolation orders",
+      "exceptions": ["Home garden potato growing exempt from certified seed requirement for personal consumption"],
+      "source": "https://www.lwk-niedersachsen.de",
+      "sourceLabel": "Landwirtschaftskammer NI",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Germany's potatoes does Lower Saxony produce?",
+        "options": ["10%", "20%", "30%", "45%"],
+        "correct": 2,
+        "explanation": "Lower Saxony produces approximately 30% of Germany's potatoes, with the Lüneburger Heide, Emsland, and Hannover regions being the main growing areas."
+      }
+    },
+    {
+      "id": 41872,
+      "category": "Hannover Expo",
+      "severity": "info",
+      "icon": "🌍",
+      "title": "EXPO 2000 Hannover — World Exhibition Legacy",
+      "subtitle": "Germany's only World Exposition — lasting infrastructure",
+      "fullDescription": "Hannover hosted the EXPO 2000 world exposition (June–October 2000, 18 million visitors) — Germany's only World Exposition. The EXPO site (160 ha on the Hannover Messe grounds) left lasting infrastructure: Deutsche Messe halls, EXPO Park, and residential districts. The EXPO 2000 theme 'Humankind Nature Technology' is reflected in NI's subsequent sustainability policies. Legal framework: BIE (Bureau International des Expositions) recognition, federal and NI legislation. Post-EXPO, the site operates under normal NI planning law.",
+      "penalty": "N/A — historical information",
+      "exceptions": [],
+      "source": "https://www.hannover.de/expo2000",
+      "sourceLabel": "Hannover EXPO Legacy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many visitors attended EXPO 2000 in Hannover?",
+        "options": ["8 million", "12 million", "18 million", "25 million"],
+        "correct": 2,
+        "explanation": "EXPO 2000 in Hannover attracted 18 million visitors over its 5-month run from June to October 2000."
+      }
+    },
+    {
+      "id": 41873,
+      "category": "Animal",
+      "severity": "medium",
+      "icon": "🐴",
+      "title": "Hannoveraner Horse Breeding — Zuchtverband",
+      "subtitle": "Hannover's world-famous Warmblood horse breed regulations",
+      "fullDescription": "The Hannoveraner Verband registers and regulates the Hannoveraner Warmblood — one of the world's most successful sport horse breeds (Olympics, showjumping). Breeding regulations under the Tierzuchtgesetz (TierZG) require licensed stallions (Hengstliste) approved by the Niedersächsisches Landespferdezuchtgesetz. All registered Hanoverians receive brand marks (Hannover 'H' brand on left thigh — regulated under TierSchG — or microchip as alternative since 2016). The Celle National Stud (Landgestüt Celle) is Europe's largest state stud farm.",
+      "penalty": "Registering unauthorized breeds as Hannoveraner: trade fraud; TierZG violations: fines",
+      "exceptions": ["Microchipping (since 2016) is accepted as alternative to traditional branding under TierSchG"],
+      "source": "https://www.hannoveraner.com",
+      "sourceLabel": "Hannoveraner Verband",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Hannoveraner Verband's registry method for identifying purebred Hannoveraner horses?",
+        "options": ["DNA testing only", "Ear tag and passport", "Traditional 'H' brand mark or microchip (since 2016)", "Colour coat documentation"],
+        "correct": 2,
+        "explanation": "Hannoveraner horses are identified by the traditional 'H' brand on the left thigh or (since 2016) by microchip as an animal-welfare-friendly alternative."
+      }
+    },
+    {
+      "id": 41874,
+      "category": "Tourism",
+      "severity": "low",
+      "icon": "🌲",
+      "title": "Lüneburger Heide — Heath Nature Reserve",
+      "subtitle": "Germany's largest contiguous heath landscape — visitor management",
+      "fullDescription": "The Lüneburger Heide is Germany's largest heathland landscape (7,500 km²). The core Naturschutzgebiet (100 km²) is car-free — visitors must use horse-drawn carriages (Kutschfahrten) or walk. Heather (Calluna vulgaris) blooms August–September — Heideblüte is the peak tourist season (1 million visitors). The NSG-Verordnung prohibits cycling, fires, and camping. Managed grazing by Heidschnucken sheep (traditional Heide sheep breed) maintains the open heathland. The Naturpark Lüneburger Heide covers 2,350 km².",
+      "penalty": "Motor vehicle in car-free heath NSG: fines up to €5,000; open fire: fines up to €2,500",
+      "exceptions": ["Landowners and agricultural operators may use vehicles for heathland management"],
+      "source": "https://www.lueneburger-heide.de",
+      "sourceLabel": "Lüneburger Heide",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What keeps the Lüneburger Heide's characteristic open heathland landscape?",
+        "options": ["Annual burning", "Mechanical mowing only", "Managed grazing by Heidschnucken sheep", "Chemical vegetation control"],
+        "correct": 2,
+        "explanation": "Traditional managed grazing by Heidschnucken (Heide sheep) maintains the Lüneburger Heide's open character — without grazing, trees would colonise the heath."
+      }
+    },
+    {
+      "id": 41875,
+      "category": "Consumer",
+      "severity": "medium",
+      "icon": "🛒",
+      "title": "Lower Saxony Ladenöffnungsgesetz",
+      "subtitle": "Sunday retail closure in NI — tourist area exceptions",
+      "fullDescription": "Lower Saxony's Niedersächsisches Gesetz über Ladenöffnungs- und Schließzeiten (NLÖffZG) prohibits retail on Sundays and public holidays. NI has 11 public holidays. Exceptions: petrol stations, pharmacies, airports, ferries, and bakers before 12:00. Tourist areas (East Frisian Islands, Lüneburger Heide, Harz) may designate up to 8 shopping Sundays per year with local authority approval. NI courts have upheld Sunday trading bans against EU internal market challenges.",
+      "penalty": "Trading on Sunday without exemption: fines up to €2,500 per violation",
+      "exceptions": ["Island and coastal resort shops may use all 8 permitted shopping Sundays during peak tourist season"],
+      "source": "https://www.niedersachsen.de/ladenöffnung",
+      "sourceLabel": "Niedersachsen.de",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many shopping Sundays per year may Lower Saxony tourist areas designate?",
+        "options": ["4", "6", "8", "12"],
+        "correct": 2,
+        "explanation": "Lower Saxony's NLÖffZG permits tourist areas to designate up to 8 shopping Sundays per year with local authority approval."
+      }
+    },
+    {
+      "id": 41876,
+      "category": "Defence",
+      "severity": "high",
+      "icon": "🛡️",
+      "title": "Bergen-Hohne — Bundeswehr Training Area",
+      "subtitle": "Europe's largest military training area in Lower Saxony",
+      "fullDescription": "The Truppenübungsplatz Bergen-Hohne near Celle is Europe's largest military training area (284 km²). It is used by British Army Rhine (until UK withdrawal 2020) and now Bundeswehr exclusively. The NATO SOFA (Status of Forces Agreement) governs military personnel. Live-fire exercises require civilian exclusion zones (Gefahrenbereiche). Unexploded ordnance (UXO/Blindgänger) from WWII and exercises poses ongoing risks — NI Kampfmittelbeseitigungsdienst handles clearance. Entry without authorization is a criminal offence under §§1–3 TÜPlG.",
+      "penalty": "Unauthorized entry to military training area: criminal trespass; accidental detonation: state liability if inadequate warnings",
+      "exceptions": ["Adjacent forest Naturschutzgebiet (Heide-Wald) accessible via designated footpaths away from active ranges"],
+      "source": "https://www.bundeswehr.de",
+      "sourceLabel": "Bundeswehr Bergen-Hohne",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How large is the Bergen-Hohne military training area near Celle?",
+        "options": ["50 km²", "120 km²", "284 km²", "500 km²"],
+        "correct": 2,
+        "explanation": "Bergen-Hohne (284 km²) is Europe's largest military training area, used by Bundeswehr for live-fire exercises."
+      }
+    },
+    {
+      "id": 41877,
+      "category": "Economy",
+      "severity": "info",
+      "icon": "📊",
+      "title": "Lower Saxony GDP & Länderfinanzausgleich",
+      "subtitle": "NI: mid-level Finanzausgleich contributor",
+      "fullDescription": "Lower Saxony has a GDP per capita slightly above the German average (€42,000 in 2023), driven by VW, Continental, chemical industry, and agriculture. NI was a net recipient of Länderfinanzausgleich until 2014, then transitioned to a minor net payer position. The VW dividend (from its 20% stake) contributes €400–700 million annually to NI's budget. NI's state debt stood at €58 billion in 2024. The Schuldenbremse (balanced budget rule, Art. 109 GG) limits new borrowing. NI's 2024 budget was €39 billion.",
+      "penalty": "N/A — economic information",
+      "exceptions": [],
+      "source": "https://www.fm.niedersachsen.de",
+      "sourceLabel": "NI Finanzministerium",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much does Lower Saxony's VW dividend contribute annually to the state budget?",
+        "options": ["€50–100 million", "€200–300 million", "€400–700 million", "€1–2 billion"],
+        "correct": 2,
+        "explanation": "Lower Saxony's 20% VW stake generates approximately €400–700 million in annual dividend income — a significant state budget contribution."
+      }
+    },
+    {
+      "id": 41878,
+      "category": "Culture",
+      "severity": "low",
+      "icon": "🎻",
+      "title": "NDR Radiophilharmonie Hannover",
+      "subtitle": "NI's NDR orchestra — Kulturförderpflicht",
+      "fullDescription": "The NDR Radiophilharmonie in Hannover is one of Germany's leading symphony orchestras, operated by NDR as part of its cultural mandate (Kulturauftrag). It gives 60+ concerts/year and broadcasts on NDR Kultur. Musicians have standardised contracts under TVöD-K (collective agreement for public service, hospitals and culture sector) or Rundfunk-TV-Film collective agreement. NI's Staatstheater Hannover (Oper, Schauspiel, Ballett) also operates under NV Bühne collective agreement. The NI Kulturförderprogramm funds regional theatres and music schools.",
+      "penalty": "Loss of Kulturfördermittel for non-compliant arts organisations",
+      "exceptions": ["Amateur orchestras and choirs exempt from professional collective agreement obligations"],
+      "source": "https://www.ndr.de/radiophilharmonie",
+      "sourceLabel": "NDR Radiophilharmonie",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the NDR Radiophilharmonie's role in the NDR's broadcasting mandate?",
+        "options": ["Film score recording only", "Part of NDR's cultural mandate (Kulturauftrag) with 60+ public concerts/year", "Emergency orchestral backup", "Children's education only"],
+        "correct": 1,
+        "explanation": "The NDR Radiophilharmonie fulfils NDR's constitutional cultural mandate (Kulturauftrag), giving 60+ public concerts/year in Hannover and broadcasting on NDR Kultur."
+      }
+    },
+    {
+      "id": 41879,
+      "category": "River",
+      "severity": "medium",
+      "icon": "🚤",
+      "title": "Weser Navigation — WSA Weser-Jade-Nordsee",
+      "subtitle": "Weser river navigation — shipping rules from Bremen to North Sea",
+      "fullDescription": "The Weser is a federal waterway (Bundeswasserstraße) from Hann.Münden to Bremerhaven, administered by WSA Weser-Jade-Nordsee. Vessels over 90 m require compulsory pilots (Lotsenbrüderschaft Weser I and II). Speed limits: 12 km/h (upper Weser), 18 km/h (lower Weser). The Weser deepening controversy (similar to Elbe) concerned ecological impacts on the Weser estuary. EU WFD requires improving Weser water quality to 'good status' by 2027. Recreational motorboats require Sportbootführerschein Binnen for 15 kW+.",
+      "penalty": "Pilotage refusal on compulsory sections: criminal offence; speed violations: WSA fines",
+      "exceptions": ["Vessels in regular service on the Weser with 12+ port calls/year may apply for pilot exemption"],
+      "source": "https://www.wsa-weser-jade-nordsee.wsv.de",
+      "sourceLabel": "WSA Weser-Jade-Nordsee",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "At what length do Weser river vessels require compulsory pilots?",
+        "options": ["60 m", "75 m", "90 m", "120 m"],
+        "correct": 2,
+        "explanation": "Vessels over 90 metres navigating the Weser must take on a licensed river pilot from the Lotsenbrüderschaft Weser."
+      }
+    },
+    {
+      "id": 41880,
+      "category": "Innovation",
+      "severity": "medium",
+      "icon": "🔬",
+      "title": "L3S Research Center Hannover — AI and Web Research",
+      "subtitle": "Hannover's AI research centre — EU AI Act compliance hub",
+      "fullDescription": "The L3S Research Center at Leibniz Universität Hannover is a leading European AI and web science research institute. L3S research on algorithmic transparency and explainable AI (XAI) directly informs EU AI Act compliance approaches. Under the EU AI Act (2024), high-risk AI systems in hiring, credit scoring, and law enforcement require conformity assessment. NI's Niedersächsisches Ministerium für Wissenschaft und Kultur funds AI research at L3S and TU Braunschweig. NI aims to become a Leitregion for responsible AI.",
+      "penalty": "EU AI Act violations: up to €35 million or 7% global turnover for prohibited AI practices",
+      "exceptions": ["Open-source AI models with limited deployment exempt from full EU AI Act conformity assessment"],
+      "source": "https://www.l3s.de",
+      "sourceLabel": "L3S Research Center Hannover",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does XAI stand for in AI regulation discussions?",
+        "options": ["External AI", "Explainable AI", "Extended AI", "Experimental AI"],
+        "correct": 1,
+        "explanation": "XAI stands for Explainable AI — AI systems whose decisions can be understood and audited by humans, a key requirement under the EU AI Act for high-risk applications."
+      }
+    },
+    {
+      "id": 41881,
+      "category": "Gambling",
+      "severity": "medium",
+      "icon": "🎰",
+      "title": "Lower Saxony Casinos & Spielhallen",
+      "subtitle": "NI's state-licensed casinos and slot machine regulations",
+      "fullDescription": "Lower Saxony operates 7 state-licensed casinos (Spielbanken) through Niedersächsische Spielbanken GmbH (a state company). Under the GlüStV 2021 (Glücksspielstaatsvertrag), online gambling was partially liberalised. Slot machines (Geldspielgeräte) in Spielhallen (arcades) are limited to 12 per venue under SpielV and the GlüStV 2021. The NI Glücksspielaufsicht (gambling supervisory authority) issues Spielhallen licences. Mandatory Sozialkonzepte (problem gambling prevention plans) required for all licensed operators.",
+      "penalty": "Unlicensed gambling operation: up to 2 years imprisonment; arcades without Sozialkonzept: licence revocation",
+      "exceptions": ["Charity lotteries under €10,000 prize pool operate under simplified licensing"],
+      "source": "https://www.nsspielbanken.de",
+      "sourceLabel": "Niedersächsische Spielbanken",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many slot machines are permitted per Spielhalle (arcade) under German gambling law?",
+        "options": ["6", "8", "12", "20"],
+        "correct": 2,
+        "explanation": "German gambling regulations (SpielV and GlüStV 2021) limit Spielhallen (gaming arcades) to a maximum of 12 slot machines per venue."
+      }
+    },
+    {
+      "id": 41882,
+      "category": "Cannabis",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Lower Saxony Cannabis Social Clubs",
+      "subtitle": "NI's implementation of CanG 2024",
+      "fullDescription": "Following Germany's Cannabis Act (CanG, April 2024), Lower Saxony's Gewerbeämter license cannabis social clubs (CSCs). NI adopted a practical, non-restrictive licensing approach — Hannover had the highest initial CSC application volume after Bavaria. Clubs must maintain 200m distance from schools, max 500 members, max 50g/month per adult member. The NI Justizministerium issued implementation guidance. Hannover's harm-reduction tradition (active Drogenberatung network) shaped a pragmatic approach.",
+      "penalty": "Non-compliant CSC: licence revocation; fines up to €30,000",
+      "exceptions": ["Medical cannabis continues under BtMG/MedCanG pharmacy pathway regardless of CanG"],
+      "source": "https://www.niedersachsen.de/cannabis",
+      "sourceLabel": "NI Cannabis Info",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What distance must cannabis social clubs maintain from schools under the CanG?",
+        "options": ["100 m", "150 m", "200 m", "500 m"],
+        "correct": 2,
+        "explanation": "Germany's Cannabis Act (CanG) requires cannabis social clubs to maintain a minimum 200-metre distance from schools and childcare facilities."
+      }
+    },
+    {
+      "id": 41883,
+      "category": "Archaeology",
+      "severity": "medium",
+      "icon": "🏺",
+      "title": "Niedersächsisches Denkmalschutzgesetz — Archaeological Finds",
+      "subtitle": "NI's heritage law — Schatzregal and Bronze Age finds",
+      "fullDescription": "Lower Saxony's Niedersächsisches Denkmalschutzgesetz (NDSchG) establishes a Schatzregal (treasure trove law): all archaeological finds belong to the state. Metal detectorist (Sondengänger) use requires a Grabungsgenehmigung from the NI Landesamt für Denkmalpflege (NLD). Unauthorized metal detecting is a criminal offence. NI has exceptional Bronze Age finds — the Goldenstedt amber hoard and the Wittenwater boat (Germany's oldest plank-built vessel). The Niedersächsisches Landesmuseum Hannover displays major archaeological collections.",
+      "penalty": "Unauthorized metal detecting: criminal offence; keeping found artefacts: theft of state property",
+      "exceptions": ["Surface collection of clearly modern lost items (coins after 1945) in non-protected areas tolerated without licence"],
+      "source": "https://www.denkmalpflege.niedersachsen.de",
+      "sourceLabel": "NLD Niedersachsen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under NI's Schatzregal, who owns archaeological finds discovered in Lower Saxony?",
+        "options": ["The landowner", "The finder, if reported within 30 days", "The state (Land Niedersachsen)", "Split 50/50 between finder and state"],
+        "correct": 2,
+        "explanation": "Lower Saxony's Schatzregal (NDSchG) declares all archaeological finds to be state property regardless of where they are found."
+      }
+    },
+    {
+      "id": 41884,
+      "category": "Ports",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "NPort — Lower Saxony Port Authority",
+      "subtitle": "NI's seaport authority manages 14 state-owned ports",
+      "fullDescription": "Niedersächsische Häfen-Gesellschaft (NPort) manages 14 Lower Saxony seaports including Wilhelmshaven, Emden, Brake, Nordenham, and Cuxhaven (shared with Hamburg). NPort was created in 2005 consolidating port management. Port operations are governed by NHafenG (Niedersächsisches Hafengesetz). Environmental permits for port expansion (e.g. Jade WeserPort Phase 2) require BImSchG and WHG approval. Port security (ISPS Code — International Ship and Port Facility Security Code) requires port facility security plans (PFSP).",
+      "penalty": "ISPS non-compliance: port facility access denied; vessel denied entry; fines",
+      "exceptions": ["Fishing harbours under 500 GT vessel calls exempt from full ISPS certification requirements"],
+      "source": "https://www.nports.de",
+      "sourceLabel": "NPort Lower Saxony",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many state-owned seaports does NPort manage in Lower Saxony?",
+        "options": ["5", "9", "14", "20"],
+        "correct": 2,
+        "explanation": "NPort manages 14 Lower Saxony seaports, including major facilities at Wilhelmshaven, Emden, Brake, and Nordenham."
+      }
+    },
+    {
+      "id": 41885,
+      "category": "Climate",
+      "severity": "high",
+      "icon": "🌍",
+      "title": "NI Klimaschutzgesetz 2021 — State Climate Law",
+      "subtitle": "Lower Saxony's climate protection law — 2040 neutrality",
+      "fullDescription": "Lower Saxony's Niedersächsisches Klimaschutzgesetz (NKlimaSchG 2021) targets climate neutrality by 2040. Interim targets: 55% CO₂ reduction by 2030 vs. 1990. The law requires all state bodies to prepare Klimaschutzpläne (climate action plans). The NI Klimaschutzbericht is published annually. NI's agriculture sector (livestock, peat, fertiliser) is the main challenge. The Klimaschutzrat NI (expert council) advises the Landtag. Municipalities receive Klimaschutzmittel (funding) under the Kommunale Klimaschutzrichtlinie.",
+      "penalty": "State bodies failing climate reporting obligations: political accountability; no direct fines",
+      "exceptions": ["Emergency provisions allow temporary climate target derogation for energy security"],
+      "source": "https://www.umwelt.niedersachsen.de/klimaschutz",
+      "sourceLabel": "NI Klimaschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By when does Lower Saxony's NKlimaSchG target climate neutrality?",
+        "options": ["2035", "2040", "2045", "2050"],
+        "correct": 1,
+        "explanation": "Lower Saxony's Niedersächsisches Klimaschutzgesetz (2021) targets climate neutrality by 2040 — 5 years ahead of the federal 2045 target."
+      }
+    },
+    {
+      "id": 41886,
+      "category": "Brewing",
+      "severity": "low",
+      "icon": "🍺",
+      "title": "Einbecker Brauhaus — Historic Bock Beer",
+      "subtitle": "Einbeck — birthplace of Bock beer, 14th century",
+      "fullDescription": "Einbeck (Lower Saxony) is the birthplace of Bock beer — first brewed around 1351. The Einbecker Brauhaus claims the world's oldest surviving Bock beer recipe. 'Einpöckisch' beer became 'Bockbier' in Bavarian dialect. Beer production is regulated by the Vorläufiges Deutsches Reinheitsgebot (German Beer Purity Law — applicable to all German breweries under the BierStV and EU Bierrichtlinie). The Einbecker Brauerei is a GI (geographical indication) beer under EU quality scheme. Bockbier must exceed 16° Plato original gravity.",
+      "penalty": "Mislabelling ordinary lager as Bockbier: food fraud; fines up to €100,000",
+      "exceptions": ["Non-German beers may use the term 'Bock' outside Germany under looser EU rules"],
+      "source": "https://www.einbecker.de",
+      "sourceLabel": "Einbecker Brauhaus",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what century was Bock beer first brewed in Einbeck, Lower Saxony?",
+        "options": ["11th century", "12th century", "14th century", "16th century"],
+        "correct": 2,
+        "explanation": "Bock beer was first brewed in Einbeck around 1351 (14th century) — the name 'Bockbier' comes from the Bavarian pronunciation of 'Einpöckisch'."
+      }
+    },
+    {
+      "id": 41887,
+      "category": "Potash",
+      "severity": "medium",
+      "icon": "⛏️",
+      "title": "K+S Kalibergwerk — Potash Mining Law",
+      "subtitle": "Lower Saxony's potash mines — saline water discharge controversy",
+      "fullDescription": "K+S AG operates potash mines (Kalibergwerk) at Sigmundshall (closed 2018) and Niedersachsen Ronnenberg near Hannover (closing 2023). Potash processing produces saline tailings water (Laugen) — discharge to the Werra and Leine rivers caused severe ecological damage. Court orders and WHG obligations require K+S to implement zero-discharge systems. Underground storage of brine in old mine shafts is regulated under BBergG (Federal Mining Act). The Oberbergamt Clausthal-Zellerfeld regulates all mining in NI.",
+      "penalty": "Illegal Laugen discharge: §324 StGB water pollution up to 5 years; civil liability for ecological damage",
+      "exceptions": ["Emergency brine release permitted with NLWKN emergency approval to prevent mine flooding"],
+      "source": "https://www.kplus.com",
+      "sourceLabel": "K+S Kalibergwerk",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which authority regulates all mining operations in Lower Saxony?",
+        "options": ["Niedersächsisches Bergamt Hannover", "Oberbergamt Clausthal-Zellerfeld", "NLWKN", "Gewerbeaufsicht NI"],
+        "correct": 1,
+        "explanation": "The Oberbergamt Clausthal-Zellerfeld regulates all mining operations in Lower Saxony under the Federal Mining Act (BBergG)."
+      }
+    },
+    {
+      "id": 41888,
+      "category": "Schools",
+      "severity": "medium",
+      "icon": "🏫",
+      "title": "Niedersächsisches Schulgesetz — Inclusion & G9",
+      "subtitle": "NI's school system — G9 return and inclusive education",
+      "fullDescription": "Lower Saxony returned to G9 (9-year Gymnasium, Abitur at 18/19) in 2015 after the G8 experiment. The NSchG (Niedersächsisches Schulgesetz) mandates inclusive education (gemeinsames Lernen) for disabled students following UN CRPD. NI has 16 school types including Gesamtschulen and Oberschulen. Compulsory schooling starts at age 6 (12 years: 9 Vollzeit + 3 Berufsschule). Teacher shortages are severe — NI employs Quer- and Seiteneinsteiger (career changers) as emergency teachers. Abitur average 2023: 2.4.",
+      "penalty": "Schulpflichtverletzung (truancy): fines up to €1,000 per parent; police involvement for persistent cases",
+      "exceptions": ["Homeschooling not permitted in NI; prolonged illness: hospital schooling provided"],
+      "source": "https://www.mk.niedersachsen.de",
+      "sourceLabel": "NI Kultusministerium",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Lower Saxony return to the G9 (9-year Gymnasium) model?",
+        "options": ["2010", "2013", "2015", "2018"],
+        "correct": 2,
+        "explanation": "Lower Saxony returned to G9 (Abitur after 9 Gymnasium years) in 2015 after criticism that the G8 experiment caused stress and reduced educational quality."
+      }
+    },
+    {
+      "id": 41889,
+      "category": "Tidal Energy",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Ems-Sperrwerk — Tidal Flood Gate Operations",
+      "subtitle": "Lower Saxony's Ems estuary tidal gate — ecological restoration",
+      "fullDescription": "The Emssperrwerk at Gandersum (opened 2002) is a tidal flood gate protecting Leer and the Ems estuary. It was primarily built to enable cruise ship transports from Meyer Werft Papenburg. However, the Emssperrwerk's operation raised estuary water levels, cutting off oxygen (Sauerstoffloch — oxygen deficit killing fish). Court-mandated ecological measures require limiting Sperrwerk use and restoring tidal dynamics. EU WFD requires restoring the Ems to 'good ecological status'. The WSA manages the Sperrwerk operationally.",
+      "penalty": "Operating Emssperrwerk outside court-approved operational plan: injunction; contempt order",
+      "exceptions": ["Extreme storm surge threat allows emergency Sperrwerk closure regardless of ecological restrictions"],
+      "source": "https://www.wsa-emden.wsv.de",
+      "sourceLabel": "WSA Emden Emssperrwerk",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What ecological problem did the Emssperrwerk cause in the Ems estuary?",
+        "options": ["Saltwater intrusion upstream", "Oxygen deficits (Sauerstoffloch) killing fish", "Increased flooding of meadows", "Blocking salmon migration"],
+        "correct": 1,
+        "explanation": "The Emssperrwerk raised estuary water levels, creating oxygen deficits (Sauerstoffloch) that killed fish — triggering court-ordered ecological restoration measures."
+      }
+    },
+    {
+      "id": 41890,
+      "category": "E-Mobility",
+      "severity": "medium",
+      "icon": "⚡",
+      "title": "Volkswagen ID. Production — EV Transition Rules",
+      "subtitle": "VW's electric vehicle production in Wolfsburg — NI clean energy obligations",
+      "fullDescription": "Volkswagen produces the ID.3, ID.4, and ID.7 electric vehicles at Wolfsburg and Emden. VW's Wolfsburg plant is the world's largest car factory by area (6.5 km²). Under EU CO₂ fleet regulations (Regulation 2019/631), VW must reduce average fleet CO₂ to 0 g/km by 2035 (ICE ban). VW signed a green electricity supply agreement with Enertrag and Vattenfall for NI wind power to directly supply Wolfsburg. The Niedersächsische Klimaschutzagent (NKA) assists businesses in NI's energy transition.",
+      "penalty": "EU fleet CO₂ non-compliance: €95/g CO₂/km per vehicle sold — billions in fines for large manufacturers",
+      "exceptions": ["Small-volume manufacturers (fewer than 1,000 vehicles/year) qualify for derogation from 2035 ICE ban"],
+      "source": "https://www.volkswagen.de/de/elektroautos.html",
+      "sourceLabel": "Volkswagen Elektromobilität",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the EU CO₂ penalty per gram over the fleet limit for carmakers like VW?",
+        "options": ["€50/g CO₂/km", "€75/g CO₂/km", "€95/g CO₂/km", "€120/g CO₂/km"],
+        "correct": 2,
+        "explanation": "The EU CO₂ fleet regulation imposes a penalty of €95 per gram of CO₂/km above the fleet average target — making compliance essential for large manufacturers like VW."
+      }
+    },
+    {
+      "id": 41891,
+      "category": "Groundwater",
+      "severity": "high",
+      "icon": "🏭",
+      "title": "Contaminant Sites (Altlasten) — Lower Saxony Registry",
+      "subtitle": "NI's contaminated land register and cleanup obligations",
+      "fullDescription": "Lower Saxony's Altlastenkataster (contaminated site register) lists 40,000+ sites requiring investigation or cleanup under BBodSchG (Federal Soil Protection Act) and NI BodSchG. Major contamination types: former gas works (Teer/PAH), military sites (UXO, fuel), chemical plants (chlorinated solvents), and mining (Schwermetalle). The Niedersächsisches Boden- und Altlastengesetz (NiedBodSchG) requires property owners to investigate and remediate identified Verdachtsflächen (suspect sites). Contamination discovered during construction must be reported.",
+      "penalty": "Failure to remediate obligatory Altlasten: compulsory cleanup by authority at polluter's cost; §326 StGB for concealment",
+      "exceptions": ["Bona fide purchasers who discover contamination post-purchase may seek contribution from original polluter under BBodSchG §4"],
+      "source": "https://www.nlwkn.niedersachsen.de/altlasten",
+      "sourceLabel": "NLWKN Altlasten",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many contaminated sites (Altlasten/Verdachtsflächen) are registered in Lower Saxony?",
+        "options": ["5,000", "15,000", "40,000+", "100,000"],
+        "correct": 2,
+        "explanation": "Lower Saxony's Altlastenkataster lists over 40,000 sites requiring investigation or cleanup under the Federal Soil Protection Act."
+      }
+    },
+    {
+      "id": 41892,
+      "category": "Bundeswehr",
+      "severity": "medium",
+      "icon": "🛡️",
+      "title": "Bundeswehr NI — NATO Eastern Flank Reinforcement",
+      "subtitle": "Lower Saxony hosts major NATO reinforcement from west to east",
+      "fullDescription": "Lower Saxony is a key NATO transit state — the A2 (Hannover–Berlin) and A7 (Hamburg–Kassel) motorways carry Bundeswehr and allied forces eastward for NATO eFP (enhanced Forward Presence) exercises. The Hardthöhe (Bundesministerium der Verteidigung in Bonn) coordinates with NI's Wehrbereichskommando. Military convoys on NI roads require police escort and A-Schein permits from NI Innenministerium. Bundeswehr training areas in NI (Bergen-Hohne, Munster-Süd) host UK, US and Canadian forces under NATO SOFA.",
+      "penalty": "Obstruction of authorized Bundeswehr convoy: fines; §315b StGB dangerous interference with road traffic",
+      "exceptions": ["Local authorities must be notified 7 days in advance of Bundeswehr convoys exceeding 100 vehicles"],
+      "source": "https://www.bundeswehr.de",
+      "sourceLabel": "Bundeswehr",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which two major motorways run through Lower Saxony as NATO reinforcement routes?",
+        "options": ["A1 and A3", "A2 (Hannover-Berlin) and A7 (Hamburg-Kassel)", "A9 and A6", "A4 and A8"],
+        "correct": 1,
+        "explanation": "The A2 (Hannover–Berlin) and A7 (Hamburg–Kassel) are Lower Saxony's key NATO military transit motorways for reinforcing the eastern flank."
+      }
+    },
+    {
+      "id": 41893,
+      "category": "Volunteering",
+      "severity": "low",
+      "icon": "❤️",
+      "title": "Niedersächsisches Ehrenamtsstärkungsgesetz",
+      "subtitle": "NI's law strengthening volunteer work and associations",
+      "fullDescription": "Lower Saxony's Ehrenamtsstärkungsgesetz provides legal protections for volunteers. Vereinsrecht (association law, §§21–79 BGB) governs NI's 120,000+ registered associations (eingetragene Vereine, e.V.). Volunteers receive liability protection (§31a BGB: personal liability capped at €840/year for minor negligence). The NI Ehrenamtskarte provides discounts at cultural venues. The Freiwilligenagentur NI coordinates voluntary services. Ehrenamt (honorary post) holders are exempt from income tax on allowances up to €840/year (Ehrenamtspauschale).",
+      "penalty": "Association directors personally liable for tax and social security debts if negligent",
+      "exceptions": ["Honorary association officers are exempt from personal liability for ordinary negligence under §31a BGB (cap €840/year)"],
+      "source": "https://www.niedersachsen.de/ehrenamt",
+      "sourceLabel": "Niedersachsen Ehrenamt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the annual tax-free Ehrenamtspauschale for volunteers in Germany?",
+        "options": ["€350", "€500", "€840", "€1,200"],
+        "correct": 2,
+        "explanation": "Germany's Ehrenamtspauschale allows volunteers to receive up to €840/year in association allowances tax-free under §3 Nr. 26a EStG."
+      }
+    },
+    {
+      "id": 41894,
+      "category": "Cross-Border",
+      "severity": "medium",
+      "icon": "🇳🇱",
+      "title": "NI–Netherlands Border Region — EUREGIO",
+      "subtitle": "Lower Saxony's Dutch border — EUREGIO cross-border cooperation",
+      "fullDescription": "Lower Saxony shares a 600+ km border with the Netherlands. The EUREGIO cross-border region (Eems-Dollard, Gronau area) facilitates cross-border working, living, and studying. Schengen open borders since 1995. Dutch commuters working in NI pay German income tax and social security. The Zoll monitors for goods limit violations (800 cigarettes, 10 litres spirits duty-free for personal use). NI-Dutch police cooperation under Prüm Convention and bilateral police treaty. The Dollart (bay) is shared German-Dutch water managed jointly.",
+      "penalty": "Exceeding duty-free personal import limits: Zoll seizure + customs duty + penalty tax",
+      "exceptions": ["EU residents may import unlimited quantities of legally purchased goods for personal use — commercial quantity presumption triggers investigation"],
+      "source": "https://www.euregio.de",
+      "sourceLabel": "EUREGIO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long has the German-Dutch border been open under the Schengen Agreement?",
+        "options": ["Since 1990", "Since 1993", "Since 1995", "Since 2004"],
+        "correct": 2,
+        "explanation": "The Schengen Agreement eliminated passport controls at the German-Dutch border in 1995 — allowing free movement for all Schengen area residents."
+      }
+    },
+    {
+      "id": 41895,
+      "category": "Housing",
+      "severity": "medium",
+      "icon": "🏘️",
+      "title": "Cuxhaven & Wolfsburg Zweckentfremdungsverbot",
+      "subtitle": "NI's Airbnb regulation in designated tight housing markets",
+      "fullDescription": "Under the Niedersächsisches Zweckentfremdungsgesetz (NZwEG), municipalities in NI can prohibit the misuse of residential property (e.g. holiday letting). NI municipalities with acute housing shortages (including Wolfsburg, Hannover, and coastal areas) require permits to short-term let entire apartments. Wolfsburg's worker hostel shortage is particularly acute given VW shift workers. East Frisian Island municipalities use Zweckentfremdungsverbote to protect housing stock from permanent holiday conversion.",
+      "penalty": "Zweckentfremdung without permit: fines up to €50,000; forced return to residential use",
+      "exceptions": ["Renting out own primary residence while absent for up to 8 weeks/year exempt from Zweckentfremdungsverbot"],
+      "source": "https://www.niedersachsen.de/wohnraumschutz",
+      "sourceLabel": "NI Wohnraumschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long may NI residents short-term let their own primary residence without a Zweckentfremdungsverbot permit?",
+        "options": ["2 weeks/year", "4 weeks/year", "8 weeks/year", "No restriction for own home"],
+        "correct": 2,
+        "explanation": "NI's Zweckentfremdungsgesetz exempts own primary residences rented out for up to 8 weeks per year while the owner is absent."
+      }
+    },
+    {
+      "id": 41896,
+      "category": "Chemistry",
+      "severity": "medium",
+      "icon": "🧪",
+      "title": "Sartorius AG — Biotech Equipment from Göttingen",
+      "subtitle": "Global biotech equipment leader headquartered in Göttingen, NI",
+      "fullDescription": "Sartorius AG, headquartered in Göttingen, is a world leader in bioprocess equipment and laboratory instruments (filters, bioreactors, balances). Sartorius supplies pharmaceutical manufacturers including COVID-19 vaccine producers. Its products are classified as critical medical device components under EU MDR (Medical Device Regulation 2017/745). Sartorius holds ISO 13485 quality certification. REACH Regulation (EC 1907/2006) applies to all chemical substances used in production. Sartorius employs 14,000+ globally.",
+      "penalty": "EU MDR non-compliance: product recall; CE mark withdrawal; manufacturer liability for defective medical components",
+      "exceptions": ["Legacy bioprocess equipment placed on market before 2021 MDR deadline may continue in use under grandfathering provisions"],
+      "source": "https://www.sartorius.com",
+      "sourceLabel": "Sartorius Göttingen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which EU regulation governs medical devices like Sartorius bioprocess equipment?",
+        "options": ["EU MDR 2017/745", "REACH Regulation", "GMP Directive 2003/94/EC", "IVD Regulation 2017/746"],
+        "correct": 0,
+        "explanation": "EU MDR (Medical Device Regulation 2017/745) governs bioprocess equipment components used in pharmaceutical manufacturing — requiring CE marking and strict quality management."
+      }
+    },
+    {
+      "id": 41897,
+      "category": "Emergency",
+      "severity": "high",
+      "icon": "🚑",
+      "title": "NI Rettungsdienstgesetz — Emergency Medical Services",
+      "subtitle": "Lower Saxony's emergency service law — response time standards",
+      "fullDescription": "Lower Saxony's Niedersächsisches Rettungsdienstgesetz (NRettDG) sets mandatory response time standards: ambulance on scene within 12 minutes (95% of cases in urban areas) or 15 minutes (rural). The Landkreise are responsible for EMS provision — usually contracted to DRK (German Red Cross), ASB, or Johanniter. Air rescue (ADAC Luftrettung, DRF) operates from Hannover and Braunschweig. The Rettungsleitstellen (rescue coordination centres) dispatch via emergency number 112. Helicopter landing zone clearing by police.",
+      "penalty": "EMS providers failing response time standards: contract penalties; Landkreis must intervene",
+      "exceptions": ["Extreme weather and multiple simultaneous incidents justify extended response times without penalty"],
+      "source": "https://www.mi.niedersachsen.de/rettungsdienst",
+      "sourceLabel": "NI Innenministerium Rettungsdienst",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the NRettDG response time target for ambulances in Lower Saxony's urban areas?",
+        "options": ["8 minutes (90%)", "10 minutes (95%)", "12 minutes (95%)", "15 minutes (90%)"],
+        "correct": 2,
+        "explanation": "Lower Saxony's NRettDG requires ambulances to arrive on scene within 12 minutes in 95% of urban emergency calls."
+      }
+    },
+    {
+      "id": 41898,
+      "category": "Coastal",
+      "severity": "medium",
+      "icon": "🦐",
+      "title": "North Sea Shrimp (Garnele) Fishery — NI Rules",
+      "subtitle": "Wadden Sea shrimp: traditional fishery under ecological rules",
+      "fullDescription": "North Sea brown shrimp (Crangon crangon) fishing in NI's Wadden Sea is a traditional fishery employing 150+ vessels from Büsum and Norddeich. Under the EU CFP and national BinSchStrO, trawl fishing in Nationalpark core zones is prohibited. Shrimp vessels use fine-mesh nets (6mm) — bycatch reduction devices (BRDs) are mandatory. The Garnelenfischerei association negotiates with NP authorities annually on permitted zones. EU organic shrimp certification is increasingly sought to add market value.",
+      "penalty": "Fishing in NP core zones: licence suspension; illegal net mesh size: confiscation + fines up to €50,000",
+      "exceptions": ["Traditional Reusen (fish traps) for shrimp in designated zones may continue without BRD requirement"],
+      "source": "https://www.garnelenfischerei.de",
+      "sourceLabel": "Garnelenfischerei NI",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum mesh size must North Sea shrimp trawl nets have in Lower Saxony's Wadden Sea?",
+        "options": ["3 mm", "6 mm", "10 mm", "20 mm"],
+        "correct": 1,
+        "explanation": "North Sea shrimp trawl nets must have a minimum 6 mm mesh size in NI's Wadden Sea to reduce bycatch of juvenile fish."
+      }
+    },
+    {
+      "id": 41899,
+      "category": "Innovation",
+      "severity": "medium",
+      "icon": "🔬",
+      "title": "Helmholtz-Zentrum Hereon — Materials Research",
+      "subtitle": "NI-based Helmholtz research on coastal and materials science",
+      "fullDescription": "The Helmholtz-Zentrum Hereon (formerly HZG) has research sites in Geesthacht (SH) and Hannover. It focuses on coastal systems research, climate change impacts on North Sea coasts, and advanced materials (magnesium, titanium alloys for aviation). Research funding comes from the Helmholtz Association (federal) and NI state. Hereon holds multiple patents on lightweight alloys used in Airbus aircraft — governed by German patent law (PatG) and EPO (European Patent Office) filings. Technology transfer to NI industry is promoted via InnoVation Alliance.",
+      "penalty": "Patent infringement: injunction; damages; criminal patent theft under §142 PatG up to 3 years",
+      "exceptions": ["Research exception (Forschungsprivileg) under §11 PatG allows academic use of patented inventions without licence"],
+      "source": "https://www.hereon.de",
+      "sourceLabel": "Helmholtz Hereon",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does Germany's §11 PatG Forschungsprivileg allow?",
+        "options": ["Universities to commercialise patents freely", "Academic research use of patented inventions without requiring a licence", "Government to compulsorily licence any patent", "Free use of patents after 10 years"],
+        "correct": 1,
+        "explanation": "§11 PatG (Forschungsprivileg) allows academic and research institutions to use patented inventions for research purposes without requiring a commercial licence."
+      }
+    },
+    {
+      "id": 41900,
+      "category": "Summary",
+      "severity": "info",
+      "icon": "🌾",
+      "title": "Lower Saxony — Germany's Food and Energy Powerhouse",
+      "subtitle": "Summary: NI's key legal and economic framework",
+      "fullDescription": "Lower Saxony combines Germany's second-largest territory with a uniquely diverse economy: Volkswagen (autos), offshore wind and gas (energy), intensive livestock farming (food), Meyer Werft (shipbuilding), Continental (automotive suppliers), Salzgitter (steel), and EXPO/Hannover Messe (trade). The state's legal framework is shaped by the VW-Gesetz (corporate governance), nuclear waste controversies (Gorleben/Konrad), nitrate groundwater crisis (EU fines), Wadden Sea UNESCO protection, and the Energiewende target of 200% renewable electricity by 2040.",
+      "penalty": "N/A — summary information",
+      "exceptions": [],
+      "source": "https://www.niedersachsen.de",
+      "sourceLabel": "Niedersachsen.de",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which unique state law gives Lower Saxony special minority blocking rights at Volkswagen AG?",
+        "options": ["NI Aktiengesetz", "Volkswagen-Gesetz (VW Act)", "NI Beteiligungsgesetz", "EU Free Movement of Capital"],
+        "correct": 1,
+        "explanation": "The Volkswagen-Gesetz gives Lower Saxony (20% stake) special minority blocking rights at VW AG — a unique arrangement partially challenged by the EU Commission."
+      }
+    }
+  ]
+}

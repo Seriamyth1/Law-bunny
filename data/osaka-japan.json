@@ -1,0 +1,1506 @@
+{
+  "country": "Osaka, Japan",
+  "slug": "osaka-japan",
+  "laws": [
+    {
+      "id": 42501,
+      "category": "Traffic & Driving",
+      "severity": "high",
+      "icon": "🚗",
+      "title": "0.03% BAC Driving Limit",
+      "subtitle": "Japan's road traffic law applies equally in Osaka",
+      "fullDescription": "Osaka's drivers are subject to the same Road Traffic Act (道路交通法) BAC limit of 0.03% as the rest of Japan. The Osaka Prefectural Police (大阪府警察) actively enforces this on the Hanshin Expressway network, surface roads, and near the entertainment district of Dotonbori, where drink-driving accidents involving tourists are monitored. The Keiji region (Osaka, Kyoto, Kobe) has historically higher enforcement rates.",
+      "penalty": "Up to 3 years imprisonment or ¥500,000 fine; licence suspension for BAC 0.03–0.08%; revocation above 0.08%",
+      "exceptions": ["Zero tolerance effectively applies to commercial/professional drivers"],
+      "source": "https://www.police.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefectural Police",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Japan's BAC driving limit of 0.03% — how does it compare to the UK's 0.08% limit?",
+        "options": ["Same", "Stricter — more than 2.5× lower", "More lenient", "Only applies to expressways"],
+        "correct": 1,
+        "explanation": "Japan's 0.03% limit is more than 2.5× stricter than the UK's 0.08% — nearly the lowest in the world."
+      }
+    },
+    {
+      "id": 42502,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🏮",
+      "title": "Dotonbori Public Conduct Ordinance",
+      "subtitle": "Osaka's entertainment district has special crowd rules",
+      "fullDescription": "Osaka's Minami district, centred on Dotonbori, is famous for rowdy New Year celebrations where crowds historically jumped from the Ebisubashi bridge into the Dotonbori Canal. Osaka Prefectural Police and the city's special ordinances prohibit diving from the bridge, regulate street drinking hours in Namba, and restrict busking without permits. The Glico Running Man and other Dotonbori icons are municipal property subject to damage penalties.",
+      "penalty": "Bridge-jumping: fine ¥50,000 under public nuisance ordinance; busking without permit: ¥30,000 fine",
+      "exceptions": ["Permitted festival events with city approval"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City — Minami District Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What famous Osaka tradition does the city's ordinance now prohibit?",
+        "options": ["Shooting fireworks from boats", "Jumping from Ebisubashi bridge into the Dotonbori Canal", "Playing taiko drums after midnight", "Mass Takoyaki eating competitions"],
+        "correct": 1,
+        "explanation": "Jumping from Ebisubashi into the Dotonbori Canal — once a popular celebration — is now prohibited under Osaka's public conduct ordinances."
+      }
+    },
+    {
+      "id": 42503,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Osaka IR Casino Development Zone",
+      "subtitle": "Japan's first legal casino resort approved for Osaka",
+      "fullDescription": "Osaka's Integrated Resort (IR) development plan — approved by the national government in 2023 — will establish Japan's first legal casino resort on Yumeshima (夢洲) artificial island, targeting a 2030 opening coinciding with Expo 2025. The IR Promotion Act (IR整備法) permits gambling within the complex, surrounded by casino entry taxes of ¥6,000 per entry for Japanese nationals (free for foreigners). Osaka's special economic zone designation governs construction and operations.",
+      "penalty": "Illegal casino operation outside IR zone: up to 3 years imprisonment; entry tax evasion by Japanese nationals: fines",
+      "exceptions": ["Foreign passport holders exempt from the ¥6,000 entry fee"],
+      "source": "https://www.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefecture — IR Development Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where in Osaka is Japan's first legal casino resort being developed?",
+        "options": ["Nakanoshima Island", "Sakishima Cosmos Tower area", "Yumeshima (夢洲) artificial island", "Kansai Airport island"],
+        "correct": 2,
+        "explanation": "Japan's first IR casino resort is being built on Yumeshima (夢洲) artificial island in Osaka Bay, targeting a 2030 opening."
+      }
+    },
+    {
+      "id": 42504,
+      "category": "Consumer Protection",
+      "severity": "low",
+      "icon": "🍡",
+      "title": "Takoyaki and Street Food Hygiene Standards",
+      "subtitle": "Street vendors require food hygiene certification",
+      "fullDescription": "Osaka is the birthplace of takoyaki (たこ焼き) and a global street food culture icon. All food vendors — including festival stall operators at Osaka's numerous matsuri — must comply with the Food Sanitation Act (食品衛生法) and hold a Osaka Prefecture food hygiene certification. Temporary stalls at major events (Tenjin Matsuri, etc.) require additional temporary establishment permits from the Namba Health Centre. Mobile food trucks have separate licencing since 2021 reform.",
+      "penalty": "Unlicensed food vending: fines up to ¥500,000; hygiene violations: closure orders and up to 2 years imprisonment",
+      "exceptions": ["Truly temporary charitable/school events with pre-approval"],
+      "source": "https://www.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefecture Health Department — Food Sanitation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What famous ball-shaped street food originated in Osaka?",
+        "options": ["Taiyaki (fish-shaped cakes)", "Okonomiyaki", "Takoyaki (octopus balls)", "Gyoza"],
+        "correct": 2,
+        "explanation": "Takoyaki (たこ焼き) — octopus balls — was invented in Osaka's Naniwa ward and remains the city's most iconic street food."
+      }
+    },
+    {
+      "id": 42505,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Osaka Bay Coastal Management Act",
+      "subtitle": "Land reclamation and industrial discharge regulated",
+      "fullDescription": "Osaka Bay, site of major industrial reclamation since the postwar period, is regulated under the Coast Act (海岸法) and Osaka's own Bay Area Environmental Plan. The Yodo River feeding into the bay is Japan's most heavily used river per capita; its water quality is monitored under the Water Pollution Prevention Act (水質汚濁防止法). Industrial dischargers must report and meet effluent standards. Osaka has improved bay water quality significantly since the 1960s high-pollution era.",
+      "penalty": "Industrial discharge exceeding limits: up to 6 months imprisonment or ¥1,000,000 fine",
+      "exceptions": ["Emergency overflow events with immediate reporting"],
+      "source": "https://www.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefecture Environmental Management Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which river, flowing through Osaka into Osaka Bay, is Japan's most heavily used per capita?",
+        "options": ["Kamo River", "Yodo River", "Namba River", "Yamato River"],
+        "correct": 1,
+        "explanation": "The Yodo River (淀川) supplies water to Osaka and the greater Kansai region — Japan's most heavily utilised river per person."
+      }
+    },
+    {
+      "id": 42506,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "💴",
+      "title": "Osaka Regional Minimum Wage",
+      "subtitle": "Second-highest minimum wage in Japan after Tokyo",
+      "fullDescription": "Osaka's regional minimum wage, set by the Osaka Labour Bureau annually, is consistently one of Japan's highest. As of October 2024, it stands at ¥1,114 per hour — second only to Tokyo's ¥1,163. Osaka's large service sector, including restaurants, retail, and hospitality focused on domestic and inbound tourism, is the primary setting for minimum wage compliance enforcement.",
+      "penalty": "Employers paying below minimum: fines up to ¥500,000",
+      "exceptions": ["Apprenticeship exceptions require application to Labour Bureau"],
+      "source": "https://jsite.mhlw.go.jp/osaka-roudoukyoku/",
+      "sourceLabel": "Osaka Labour Bureau — Minimum Wage",
+      "lastUpdated": "2024-10-01",
+      "quiz": {
+        "q": "How does Osaka's minimum wage rank nationally in Japan?",
+        "options": ["First (highest)", "Second highest", "Average (middle)", "Below national average"],
+        "correct": 1,
+        "explanation": "Osaka's minimum wage is second-highest in Japan after Tokyo — reflecting its status as the country's second major economic centre."
+      }
+    },
+    {
+      "id": 42507,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🔪",
+      "title": "Knife Carry Law — Same as National Standard",
+      "subtitle": "Blades over 6cm prohibited in public",
+      "fullDescription": "Osaka's enforcement of the Firearms and Swords Control Law is particularly active given the city's historically higher violent crime rate compared to Tokyo. The Namba and Shinsaibashi entertainment districts see regular police stop-and-search operations targeting knife carrying. Osaka has also seen yakuza-related knife crimes — the prefecture operates a dedicated organised crime suppression division.",
+      "penalty": "Up to 2 years imprisonment or ¥300,000 fine for carrying blades over 6cm in public",
+      "exceptions": ["Professional use (chefs, tradespeople) with demonstrable need"],
+      "source": "https://www.police.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefectural Police",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Compared to Tokyo, Osaka historically has:",
+        "options": ["Lower violent crime rates", "Similar violent crime rates", "Higher violent crime rates", "No meaningful crime statistics"],
+        "correct": 2,
+        "explanation": "Osaka has historically recorded higher violent crime rates than Tokyo, partly related to yakuza activity in the Kansai region."
+      }
+    },
+    {
+      "id": 42508,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🎰",
+      "title": "Pachinko Density — Osaka Concentration",
+      "subtitle": "Osaka has Japan's highest pachinko parlour density",
+      "fullDescription": "Osaka Prefecture has the highest concentration of pachinko parlours per capita in Japan. Under the Act on Control and Improvement of Amusement Business (風営法), parlours must be licenced by the prefectural public safety commission (公安委員会). Machines are capped at payout rates to prevent excessive gambling behaviour. Osaka's 2023 IR discussions highlighted tension between the existing pachinko industry and incoming casino competition.",
+      "penalty": "Unlicensed operation: up to 3 years imprisonment; machine manipulation: up to 5 years",
+      "exceptions": ["Out-of-scope: legal horse/boat racing"],
+      "source": "https://www.police.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefectural Police — Amusement Business Licensing",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which body issues pachinko parlour licences in Osaka?",
+        "options": ["City Hall", "Ministry of Finance", "Prefectural Public Safety Commission (公安委員会)", "National Gaming Authority"],
+        "correct": 2,
+        "explanation": "Pachinko parlours are licenced by the Prefectural Public Safety Commission (公安委員会) under the Amusement Business Control Act."
+      }
+    },
+    {
+      "id": 42509,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🚬",
+      "title": "Osaka Indoor Smoking Regulations",
+      "subtitle": "Aligned with national 2020 health promotion changes",
+      "fullDescription": "Osaka implemented the national Health Promotion Act indoor smoking ban in line with Tokyo for the 2020 Olympics period. However, enforcement in Osaka's dense restaurant and izakaya (居酒屋) districts has been noted by health inspectors as less rigorous than in Tokyo, given the local hospitality culture ('kuidaore' — eat yourself bankrupt). Osaka City operates its own inspection programme separate from prefecture.",
+      "penalty": "Businesses: up to ¥500,000 fine; individuals violating in prohibited areas: ¥30,000 fine",
+      "exceptions": ["Outdoor designated smoking areas", "Hotels with designated smoking floors"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City Health Department — Smoking Regulations",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Osaka cultural phrase for eating extravagantly until you go broke?",
+        "options": ["Ikigai", "Kuidaore (食い倒れ)", "Wabi-sabi", "Omoiyari"],
+        "correct": 1,
+        "explanation": "Kuidaore (食い倒れ) — 'eat yourself bankrupt' — reflects Osaka's identity as Japan's food capital and explains the city's vibrant restaurant culture."
+      }
+    },
+    {
+      "id": 42510,
+      "category": "Environmental",
+      "severity": "low",
+      "icon": "♻️",
+      "title": "Osaka Waste Separation System",
+      "subtitle": "Four-category waste separation required",
+      "fullDescription": "Osaka City requires residents to separate waste into four main categories: burnable (可燃ごみ), non-burnable (不燃ごみ), resource recyclables (資源ごみ), and large items (粗大ごみ). Collection schedules vary by ward. Osaka's Rinkai Kousoku Tetsudo (Osaka Metro) system stations display waste sorting instructions. Osaka Prefecture operates the Maishima Incineration Plant (designed by Friedensreich Hundertwasser) which handles a significant portion of burnable waste.",
+      "penalty": "Improper disposal: ¥2,000–¥30,000 fines; bulk illegal dumping: up to ¥1,000,000",
+      "exceptions": ["Industrial waste handled under separate Industrial Waste Management Act"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City Environment Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who designed Osaka's visually distinctive Maishima Incineration Plant?",
+        "options": ["Tadao Ando", "Kenzo Tange", "Friedensreich Hundertwasser", "Kisho Kurokawa"],
+        "correct": 2,
+        "explanation": "Osaka's Maishima Incineration Plant was co-designed by Austrian artist Friedensreich Hundertwasser, giving it a colourful, organic appearance."
+      }
+    },
+    {
+      "id": 42511,
+      "category": "Civil Rights",
+      "severity": "low",
+      "icon": "🏳️‍🌈",
+      "title": "Osaka City LGBT Partnership Scheme",
+      "subtitle": "Partnership certificates since 2020",
+      "fullDescription": "Osaka City introduced its partnership certificate system (パートナーシップ宣誓制度) in January 2020, ahead of Tokyo's 2022 scheme, making it one of Japan's earliest major city adopters. Osaka Prefecture followed with its own scheme. Certificates provide practical recognition for hospital visiting rights, public housing applications, and some employer benefits. As of 2024, all of Osaka Prefecture's municipalities offer some form of recognition.",
+      "penalty": "N/A — rights-granting provision",
+      "exceptions": ["National marriage law remains between opposite-sex couples"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City — Partnership Certificate Scheme",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which major Japanese city introduced its LGBT partnership certificate scheme first — Osaka or Tokyo?",
+        "options": ["Tokyo (2018)", "Both at the same time (2020)", "Osaka (2020) — 2 years before Tokyo", "Tokyo (2020) — same year as Osaka"],
+        "correct": 2,
+        "explanation": "Osaka City introduced its partnership certificate scheme in January 2020 — Tokyo followed in November 2022."
+      }
+    },
+    {
+      "id": 42512,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "🚇",
+      "title": "Osaka Metro IC Card System",
+      "subtitle": "Osaka Pitapa vs national Suica/Pasmo",
+      "fullDescription": "Osaka's public transport uses the Pitapa (ピタパ) post-payment IC card system for Osaka Metro, as well as accepting Suica and Pasmo. Unlike Suica/Pasmo (prepaid top-up), Pitapa is a credit-linked system. Since 2023, Osaka Metro also accepts QR code tickets — a first among major Japanese metro systems. Fare evasion on Osaka Metro is prosecuted under the same theft/fraud provisions as Tokyo.",
+      "penalty": "Fare evasion: back-fare + surcharge; criminal: up to 10 years (theft/fraud provisions)",
+      "exceptions": [],
+      "source": "https://www.osakametro.co.jp/",
+      "sourceLabel": "Osaka Metro",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What distinguishes Osaka's Pitapa IC card from Tokyo's Suica?",
+        "options": ["Pitapa is prepaid, Suica is post-payment", "Pitapa is post-payment/credit-linked; Suica is prepaid top-up", "They are identical systems with different branding", "Pitapa only works on buses"],
+        "correct": 1,
+        "explanation": "Pitapa is a credit-linked post-payment system unique to Kansai, while Suica and Pasmo are prepaid top-up cards."
+      }
+    },
+    {
+      "id": 42513,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏠",
+      "title": "Minpaku (Airbnb) Local Restrictions",
+      "subtitle": "Osaka City has stricter rules than national minimum",
+      "fullDescription": "Under Japan's Minpaku Law (2018), Osaka City additionally restricts short-term rentals in residential zones to weekends only (Friday–Sunday) in certain wards. Dotonbori and Namba-area rentals in tourist zones have fewer restrictions. Osaka was an early adopter of registration requirements and operates one of Japan's largest minpaku databases. The city saw a 70% cancellation rate from hosts when the law took effect in June 2018 — a significant market disruption.",
+      "penalty": "Unregistered operation: up to ¥1,000,000 fine; operating in restricted zone: rental suspension orders",
+      "exceptions": ["Ryokan and hotel licences under Hotel Business Act operate normally"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City — Minpaku Registration",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What happened to Osaka's Airbnb market when Japan's Minpaku Law took effect in June 2018?",
+        "options": ["It doubled in size", "70% of listings were cancelled", "Nothing significant changed", "The city banned all listings"],
+        "correct": 1,
+        "explanation": "Approximately 70% of Osaka's Airbnb listings were cancelled when the Minpaku Law took effect — hosts couldn't meet registration requirements."
+      }
+    },
+    {
+      "id": 42514,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏦",
+      "title": "Osaka Financial Exchange (OFX) Regulation",
+      "subtitle": "Derivatives and FX trading regulated by FSA",
+      "fullDescription": "The Osaka Exchange (大阪取引所), part of Japan Exchange Group (JPX) after a 2013 merger with Tokyo Stock Exchange, hosts all Japanese equity derivatives trading. Nikkei 225 futures are the world's most actively traded stock index futures contracts. The Financial Services Agency regulates all trading under the Financial Instruments and Exchange Act. Osaka historically hosted Japan's rice commodity exchange — the world's first futures market (established 1697).",
+      "penalty": "Market manipulation: up to 10 years imprisonment; fraud: up to ¥10,000,000 fine",
+      "exceptions": [],
+      "source": "https://www.jpx.co.jp/",
+      "sourceLabel": "Japan Exchange Group (JPX)",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Osaka hosted the world's first futures market in 1697 — what commodity was traded?",
+        "options": ["Silk", "Gold", "Rice", "Tea"],
+        "correct": 2,
+        "explanation": "Osaka's Dōjima Rice Exchange (堂島米会所), established in 1697, is widely recognised as the world's first organised futures market."
+      }
+    },
+    {
+      "id": 42515,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "⚔️",
+      "title": "Yakuza Exclusion — Kansai Focus",
+      "subtitle": "Yamaguchi-gumi headquartered in Kobe, active in Osaka",
+      "fullDescription": "The Osaka Prefectural Organised Crime Group Exclusion Ordinance (暴力団排除条例, 2011) mirrors Tokyo's version but targets Kansai-based groups. The Yamaguchi-gumi (headquartered in Kobe) and its Osaka-active subsidiary groups are designated. Osaka's entertainment and real estate industries face specific anti-yakuza clauses. The city maintains a yakuza exclusion database for public housing applicants.",
+      "penalty": "Businesses providing benefits to yakuza: fines up to ¥5,000,000 and public naming",
+      "exceptions": [],
+      "source": "https://www.police.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefectural Police — Organised Crime",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where is Japan's largest yakuza organisation, the Yamaguchi-gumi, headquartered?",
+        "options": ["Osaka", "Tokyo", "Kobe", "Kyoto"],
+        "correct": 2,
+        "explanation": "The Yamaguchi-gumi is headquartered in Kobe — but its activities extend throughout Kansai, including Osaka's entertainment districts."
+      }
+    },
+    {
+      "id": 42516,
+      "category": "Disaster Preparedness",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Nankai Trough Tsunami Preparedness",
+      "subtitle": "Osaka faces 30m tsunami risk from megaquake scenario",
+      "fullDescription": "Government assessments estimate a magnitude 9 Nankai Trough earthquake (南海トラフ地震) — with 70–80% probability within 30 years — could send a 3–5m tsunami into Osaka Bay within 90 minutes. In worst-case modelling, central Osaka could see flooding up to 3m deep. Osaka has invested ¥400 billion in seawall upgrades and evacuation tower infrastructure. Residents in designated tsunami hazard zones are registered in evacuation protocols.",
+      "penalty": "Failure to comply with official evacuation orders during declared emergencies: fines under Disaster Countermeasures Basic Act",
+      "exceptions": [],
+      "source": "https://www.pref.osaka.lg.jp/bousai/",
+      "sourceLabel": "Osaka Prefecture — Nankai Trough Disaster Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much time would Osaka have before tsunami waves arrived after a Nankai Trough megaquake?",
+        "options": ["15 minutes", "30 minutes", "90 minutes", "3 hours"],
+        "correct": 2,
+        "explanation": "Government modelling estimates Osaka Bay would receive tsunami waves approximately 90 minutes after a Nankai Trough megaquake."
+      }
+    },
+    {
+      "id": 42517,
+      "category": "Education",
+      "severity": "medium",
+      "icon": "🏫",
+      "title": "Osaka府立 School Governance Reform",
+      "subtitle": "Osaka Ishin no Kai education reforms — school choice expanded",
+      "fullDescription": "Under Osaka Ishin no Kai (Osaka Restoration Association) governance since 2008, Osaka Prefecture implemented major education reforms including school choice policies, external evaluation of teachers, and integration of prefectural and Osaka City school administration. The Osaka Municipal University and Osaka Prefecture University were merged into Osaka Metropolitan University (大阪公立大学) in 2022 — Japan's largest public university by student numbers.",
+      "penalty": "N/A — administrative reform law; compulsory education failure to enrol: fines as per national standard",
+      "exceptions": [],
+      "source": "https://www.pref.osaka.lg.jp/kyoisomu/",
+      "sourceLabel": "Osaka Prefecture Education Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What new institution was created in 2022 by merging Osaka's two major public universities?",
+        "options": ["Osaka National University", "Osaka Metropolitan University (大阪公立大学)", "Kansai University of Technology", "Osaka Integrated Sciences University"],
+        "correct": 1,
+        "explanation": "Osaka Metropolitan University (大阪公立大学) formed in 2022 through the merger of Osaka Municipal and Osaka Prefecture Universities — Japan's largest public university."
+      }
+    },
+    {
+      "id": 42518,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🎊",
+      "title": "Tenjin Matsuri Public Safety Rules",
+      "subtitle": "Japan's top festival regulated for crowd safety",
+      "fullDescription": "The Tenjin Matsuri (天神祭), held on July 24–25 and considered one of Japan's top three festivals, draws over 1.3 million visitors to Osaka. The city enacts temporary public safety zones along the Okawa River route, restricts alcohol consumption in certain areas, and requires fire/fireworks display operators to hold pyrotechnics licences under the Fire Service Act (消防法). The river parade (船渡御) involves over 100 vessels subject to maritime safety rules.",
+      "penalty": "Illegal fireworks: up to 3 years imprisonment; crowd violation zones: fines per ordinance; unlicensed riverside stalls: closure",
+      "exceptions": ["Shrine and traditional participants exempt from some pedestrian traffic rules"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City — Festival Safety Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many people attend the Tenjin Matsuri festival in Osaka?",
+        "options": ["100,000", "500,000", "1.3 million", "5 million"],
+        "correct": 2,
+        "explanation": "The Tenjin Matsuri attracts over 1.3 million visitors over two days — making it one of Japan's largest and most logistically complex festivals."
+      }
+    },
+    {
+      "id": 42519,
+      "category": "Privacy & Technology",
+      "severity": "medium",
+      "icon": "📷",
+      "title": "Expo 2025 Data Collection Rules",
+      "subtitle": "Osaka Expo piloting facial recognition with consent framework",
+      "fullDescription": "Osaka's Expo 2025 (April–October 2025, Yumeshima) is piloting data collection systems including facial recognition for entry management, using consent-based frameworks under the Personal Information Protection Act (APPI). Expo operators, under guidance from Japan's Personal Information Protection Commission, must obtain explicit consent, store data for no longer than necessary, and provide access and deletion rights. This is Japan's largest single-event data protection compliance exercise.",
+      "penalty": "APPI violations at Expo: up to ¥100,000,000 corporate fines; individual: up to ¥1,000,000 fine",
+      "exceptions": ["Security emergency imaging with post-event notification"],
+      "source": "https://www.expo2025.or.jp/",
+      "sourceLabel": "Japan Association for the 2025 World Exposition",
+      "lastUpdated": "2025-04-01",
+      "quiz": {
+        "q": "Where in Osaka is Expo 2025 being held?",
+        "options": ["Nakanoshima", "Umeda Sky Building site", "Yumeshima (夢洲)", "Osaka Castle Park"],
+        "correct": 2,
+        "explanation": "Expo 2025 is held on Yumeshima (夢洲) — the same artificial island that will later host Osaka's IR casino resort."
+      }
+    },
+    {
+      "id": 42520,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "💊",
+      "title": "Stimulant Drug Enforcement — Osaka",
+      "subtitle": "Osaka historically a major drug trafficking hub",
+      "fullDescription": "Osaka's port and proximity to Korea and China historically made it a major entry point for methamphetamine. The Osaka Prefectural Police narcotics division operates one of Japan's largest anti-stimulant drug enforcement units. The Stimulants Control Act (覚醒剤取締法) applies nationally; Osaka cases represent approximately 20% of all Japan stimulant arrests despite being ~8% of population — indicating elevated enforcement and trafficking levels.",
+      "penalty": "Possession: up to 10 years; trafficking: up to life imprisonment",
+      "exceptions": [],
+      "source": "https://www.police.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefectural Police — Narcotics Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why has Osaka historically been a major drug trafficking entry point?",
+        "options": ["Its large student population", "Osaka's port location and proximity to Korea and China", "Weak police presence", "Its status as Japan's pharmaceutical manufacturing hub"],
+        "correct": 1,
+        "explanation": "Osaka's port and geographic proximity to Korea and China historically made it a primary entry point for methamphetamine into Japan."
+      }
+    },
+    {
+      "id": 42521,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🧴",
+      "title": "Tattoo Practice Licensing — Osaka Ruling",
+      "subtitle": "Supreme Court ruling: tattooing is not medical practice",
+      "fullDescription": "In 2020, Japan's Supreme Court overturned an Osaka lower court ruling that had convicted a tattoo artist for practising medicine without a licence. The Supreme Court held that tattooing is a traditional art form, not medical practice, and thus does not require a medical licence. This ruling reversed years of legal uncertainty for Japan's tattoo industry and set a national precedent. Osaka has the highest concentration of professional tattoo studios in Japan.",
+      "penalty": "Pre-2020: medical licence violations (up to 3 years); post-ruling: tattooing itself is no longer a criminal act for non-medical practitioners",
+      "exceptions": ["Permanent makeup for medical purposes requires medical licence"],
+      "source": "https://www.courts.go.jp/",
+      "sourceLabel": "Supreme Court of Japan — 2020 Tattoo Ruling",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What did Japan's 2020 Supreme Court rule about tattooing?",
+        "options": ["It requires a medical licence", "It is illegal for non-Japanese practitioners", "It is a traditional art, not medical practice — no medical licence required", "It must be performed in registered studios only"],
+        "correct": 2,
+        "explanation": "Japan's Supreme Court ruled in 2020 that tattooing is a traditional art form, overturning convictions of Osaka tattoo artists."
+      }
+    },
+    {
+      "id": 42522,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "⏰",
+      "title": "Osaka 36 Agreement Compliance",
+      "subtitle": "Overtime tracking required with Tokyo-equivalent standards",
+      "fullDescription": "Osaka's Labour Standards Inspection Offices (労働基準監督署) enforce the same 36 Agreement overtime caps as national law (45 hours/month, 360 hours/year). Osaka's manufacturing sector (chemicals, precision equipment, food processing) and retail sector are priority enforcement targets. The Osaka Labour Bureau's 2023 enforcement data showed Osaka companies had the third-highest rate of overtime violations nationally.",
+      "penalty": "Employers: up to 6 months imprisonment or ¥300,000 fine for violation of agreed overtime caps",
+      "exceptions": ["Construction and transport industries had phase-in until April 2024"],
+      "source": "https://jsite.mhlw.go.jp/osaka-roudoukyoku/",
+      "sourceLabel": "Osaka Labour Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the standard monthly overtime cap under Japan's 36 Agreement framework?",
+        "options": ["20 hours", "30 hours", "45 hours", "60 hours"],
+        "correct": 2,
+        "explanation": "Japan's Work Style Reform Act caps general overtime at 45 hours per month and 360 hours per year under 36 Agreements."
+      }
+    },
+    {
+      "id": 42523,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "💹",
+      "title": "Nikkei 225 Derivatives Trading Rules",
+      "subtitle": "World's most traded stock index futures — Osaka regulated",
+      "fullDescription": "The Osaka Exchange hosts Nikkei 225 futures and options — Japan's benchmark stock index derivatives. Under the Financial Instruments and Exchange Act, position limits, reporting thresholds, and margin requirements are set by the Japan Exchange Group (JPX). High-frequency trading (HFT) firms operating on Osaka Exchange must register as electronic trading system users. The 2013 Tokyo-Osaka exchange merger concentrated all equity derivatives in Osaka.",
+      "penalty": "Position limit violations: cease-and-desist; market manipulation: up to 10 years imprisonment",
+      "exceptions": ["Delta-neutral hedging positions exempt from some limits"],
+      "source": "https://www.jpx.co.jp/",
+      "sourceLabel": "Japan Exchange Group (JPX) — Osaka Exchange",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What happened to Japan's equity derivatives market after the 2013 Tokyo-Osaka exchange merger?",
+        "options": ["Split equally between both cities", "Moved entirely to Tokyo", "Concentrated in Osaka's exchange", "Moved to a neutral digital platform"],
+        "correct": 2,
+        "explanation": "The 2013 merger of Tokyo and Osaka exchanges (creating JPX) concentrated all equity derivatives trading in Osaka's exchange."
+      }
+    },
+    {
+      "id": 42524,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🛍️",
+      "title": "Osaka's Retail Discount Culture — Legal Limits",
+      "subtitle": "Discount vouchers and price reductions regulated",
+      "fullDescription": "Osaka's commercial culture of aggressive discounting ('makeppuri,' 'ne-giri' bargaining in markets like Kuromon Ichiba) intersects with the Act against Unjustifiable Premiums and Misleading Representations. Retailers cannot display a 'regular price' that was never actually charged. The Consumer Affairs Agency has investigated Osaka retailers — particularly in electronics (Den-Den Town) and food markets — for fake reference pricing.",
+      "penalty": "Fake reference pricing: cease-and-desist orders; fines up to 3% of related sales",
+      "exceptions": ["Genuine clearance sales of stock at original purchase price"],
+      "source": "https://www.caa.go.jp/",
+      "sourceLabel": "Consumer Affairs Agency — Price Display Rules",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Osaka's Den-Den Town is Japan's equivalent of which Tokyo electronics district?",
+        "options": ["Shibuya 109", "Akihabara", "Harajuku", "Roppongi"],
+        "correct": 1,
+        "explanation": "Den-Den Town (でんでんタウン) in Nipponbashi, Osaka is the Kansai equivalent of Tokyo's Akihabara — electronics, gaming, and anime retail."
+      }
+    },
+    {
+      "id": 42525,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "🚢",
+      "title": "Osaka Ferry and Water Taxi Rules",
+      "subtitle": "Osaka's canal network subject to maritime safety rules",
+      "fullDescription": "Osaka's historic network of canals (once called the 'Venice of the East') supports a growing tourism water transport sector. Water taxis and aqua buses operating on the Okawa, Dotonbori, and Namba canals require licences from the Ministry of Land, Infrastructure, Transport and Tourism under the Maritime Safety Act. Life jackets are compulsory. The revived water transport network targets 1 million annual riders by 2030.",
+      "penalty": "Operating without maritime licence: up to 1 year imprisonment; life jacket non-provision: administrative fines",
+      "exceptions": ["Unpowered traditional boats at permitted festivals"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City — Water Transport Policy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What historical nickname was once given to Osaka because of its extensive canal network?",
+        "options": ["The Amsterdam of Asia", "The Venice of the East", "The Water Capital", "The Canal City"],
+        "correct": 1,
+        "explanation": "Osaka was known as 'the Venice of the East' (水都大阪) for its extensive historical canal network — much of which has been restored for tourism."
+      }
+    },
+    {
+      "id": 42526,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌳",
+      "title": "Osaka Castle Park Conservation Zone",
+      "subtitle": "Development around historic park tightly restricted",
+      "fullDescription": "Osaka Castle Park (大阪城公園) and its surrounding Special Historical Zone are designated under both Japan's Cultural Properties Protection Law and Osaka City's Urban Park Act implementation. Development, advertising signage heights, and tree removal within the zone require city approval. The 2017 public-private partnership (Park Management Team) revitalized the park's facilities while maintaining conservation rules. The castle's inner compound is a National Special Historic Site.",
+      "penalty": "Unapproved development in historic zone: demolition orders + fines up to ¥1,000,000",
+      "exceptions": ["Emergency public works with notification"],
+      "source": "https://www.osakacastlepark.jp/",
+      "sourceLabel": "Osaka Castle Park Management Team",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What type of landmark designation protects Osaka Castle's inner compound?",
+        "options": ["UNESCO World Heritage Site", "National Special Historic Site", "Prefectural Cultural Property", "UN Cultural Monument"],
+        "correct": 1,
+        "explanation": "Osaka Castle's inner compound is designated a National Special Historic Site (国の特別史跡) — Japan's highest category of historic site protection."
+      }
+    },
+    {
+      "id": 42527,
+      "category": "Immigration & Identity",
+      "severity": "medium",
+      "icon": "🌏",
+      "title": "Zainichi Korean Community Legal Status",
+      "subtitle": "Special Permanent Resident status for long-term Korean residents",
+      "fullDescription": "Osaka has the largest Zainichi Korean (在日コリアン) community in Japan — approximately 120,000 people, concentrated in the Tsuruhashi and Ikuno districts. Special Permanent Resident (特別永住者) status, established under the 1991 Japan-Korea Memorandum, grants residence rights to Koreans and their descendants who came to Japan before WWII. Holders are exempt from regular residency card renewal cycles but are still foreign nationals without automatic citizenship.",
+      "penalty": "N/A — status grant, not penalty; violations of residence conditions: deportation proceedings",
+      "exceptions": ["Naturalisation is possible under standard procedures — approximately 10,000 Zainichi naturalise per year nationwide"],
+      "source": "https://www.moj.go.jp/",
+      "sourceLabel": "Ministry of Justice — Special Permanent Residents",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which area of Osaka has Japan's largest Zainichi Korean community?",
+        "options": ["Namba", "Umeda", "Tsuruhashi/Ikuno district", "Tennoji"],
+        "correct": 2,
+        "explanation": "Osaka's Tsuruhashi and Ikuno districts host Japan's largest Zainichi Korean community — home to vibrant Korean commercial and cultural life."
+      }
+    },
+    {
+      "id": 42528,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "⚖️",
+      "title": "Osaka District Court — Major Trial Jurisdiction",
+      "subtitle": "Handles serious Kansai criminal and civil cases",
+      "fullDescription": "Osaka District Court (大阪地方裁判所) is Japan's second-largest district court by caseload. It has jurisdiction over serious criminal matters in Osaka, Hyogo (Kobe), and adjacent prefectures. High-profile yakuza trials and corporate fraud cases involving Kansai companies (Kanebo, Duskin scandals) have been heard here. The Osaka High Court sits above it, handling appeals from four western Japan districts.",
+      "penalty": "N/A — jurisdictional provision, not penal",
+      "exceptions": [],
+      "source": "https://www.courts.go.jp/",
+      "sourceLabel": "Japan Courts — Osaka District Court",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which court handles appeals from Osaka District Court's criminal decisions?",
+        "options": ["Kyoto High Court", "Osaka High Court", "Tokyo High Court", "Supreme Court directly"],
+        "correct": 1,
+        "explanation": "The Osaka High Court (大阪高等裁判所) handles criminal and civil appeals from Osaka District Court and four other western Japan districts."
+      }
+    },
+    {
+      "id": 42529,
+      "category": "Public Health",
+      "severity": "low",
+      "icon": "🏊",
+      "title": "Universal Health Insurance — Osaka Implementation",
+      "subtitle": "Osaka's NHI premium non-payment rate among Japan's highest",
+      "fullDescription": "Osaka City consistently records one of Japan's highest rates of National Health Insurance (NHI) premium non-payment — estimated at 16% of eligible enrollees — reflecting the city's higher poverty rate. The Osaka City Government operates targeted outreach and payment plan programmes. Chronic non-payers may have benefits restricted to emergency-only coverage. This creates a de facto access gap despite universal coverage in principle.",
+      "penalty": "Premium garnishment from wages or assets; benefits restricted to 6-month vouchers for persistent non-payers",
+      "exceptions": ["Hardship waiver programmes for lowest-income households"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City — National Health Insurance Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What distinguishes Osaka City's NHI non-payment rate compared to Japan's national average?",
+        "options": ["Osaka has the lowest non-payment rate", "Osaka is at the national average", "Osaka has one of Japan's highest non-payment rates (~16%)", "Osaka has eliminated non-payment through automation"],
+        "correct": 2,
+        "explanation": "Osaka City's NHI premium non-payment rate of approximately 16% is among Japan's highest — reflecting the city's elevated poverty levels."
+      }
+    },
+    {
+      "id": 42530,
+      "category": "Intellectual Property",
+      "severity": "medium",
+      "icon": "🎮",
+      "title": "Video Game and Arcade Machine Copyright",
+      "subtitle": "Osaka's gaming industry subject to Copyright Act",
+      "fullDescription": "Osaka is home to major game developers (Capcom, Konami — both headquartered or developed significantly in Osaka/Kobe region). The Copyright Act (著作権法) protects video games as cinematographic works, giving rights holders control over reproduction, public display, and modification. Unauthorized ROM dumping, emulator distribution, and cheating device manufacturing have all been prosecuted in Osaka courts. Game preservation by libraries is a grey area under discussion.",
+      "penalty": "Unauthorised game reproduction/distribution: up to 10 years imprisonment or ¥10,000,000 fine",
+      "exceptions": ["Fair use for criticism, commentary, and educational purposes"],
+      "source": "https://www.bunka.go.jp/",
+      "sourceLabel": "Agency for Cultural Affairs — Software Copyright",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which major game company is headquartered in Osaka?",
+        "options": ["Nintendo", "Sony PlayStation", "Capcom", "Sega"],
+        "correct": 2,
+        "explanation": "Capcom (Street Fighter, Resident Evil, Monster Hunter) is headquartered in Osaka — one of Japan's major game publishers based outside Tokyo."
+      }
+    },
+    {
+      "id": 42531,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🎭",
+      "title": "Manzai Comedy Performance Licensing",
+      "subtitle": "Commercial entertainment venues require amusement business licence",
+      "fullDescription": "Osaka is the birthplace and centre of manzai (漫才) — the two-person stand-up comedy style that dominates Japanese popular culture through agencies like Yoshimoto Kogyo. Live comedy venues, theatres, and performance spaces require Amusement Business licences (風営法) from the Osaka Public Safety Commission. Content regulations exist: performances must not incite discrimination or be obscene. Osaka's Namba Grand Kagetsu theatre is the industry's premier venue.",
+      "penalty": "Unlicensed commercial performance venue: up to 6 months imprisonment or ¥1,000,000 fine",
+      "exceptions": ["Free public performances in parks with permit; shrine/temple events"],
+      "source": "https://www.police.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefectural Police — Amusement Business",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is 'manzai' — the traditional comedy form associated with Osaka?",
+        "options": ["Solo stand-up comedy", "Two-person rapid-fire comedy dialogues", "Puppet theatre comedy", "Musical comedy with dance"],
+        "correct": 1,
+        "explanation": "Manzai (漫才) is a traditional Japanese comedy form featuring two performers (boke and tsukkomi) in rapid-fire dialogue — Osaka's most iconic cultural export."
+      }
+    },
+    {
+      "id": 42532,
+      "category": "Disaster Preparedness",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Osaka Underground Mall Flood Safety",
+      "subtitle": "World's largest underground shopping network — strict safety rules",
+      "fullDescription": "Osaka's underground shopping complex (地下街) — Crysta Nagahori, Whity Umeda, Diamor, etc. — is the world's largest urban underground retail network by area. Under the Fire Service Act and Building Standards Act, these spaces have comprehensive flood emergency protocols, automatic flood gates (止水板), and evacuation procedures given the risk of surface flooding in a Nankai Trough event. Inspection and drill compliance is mandatory.",
+      "penalty": "Fire/safety code violations in underground malls: closure orders; operators: up to ¥10,000,000 fines",
+      "exceptions": ["Emergency renovation work with approval"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City — Underground Safety Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What feature of Osaka's underground malls protects against tsunami flooding?",
+        "options": ["Elevated floors", "Automatic flood gates (止水板)", "Underground drainage chambers", "Watertight external walls only"],
+        "correct": 1,
+        "explanation": "Osaka's underground shopping malls install automatic flood gates (止水板) as part of mandatory safety protocols for tsunami scenarios."
+      }
+    },
+    {
+      "id": 42533,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🐟",
+      "title": "Kuromon Market Vendor Standards",
+      "subtitle": "Osaka's kitchen market subject to strict hygiene licensing",
+      "fullDescription": "Kuromon Ichiba (黒門市場), Osaka's historic fresh produce and seafood market ('Osaka's Kitchen'), operates under strict Food Sanitation Act requirements. Each vendor must hold individual food handling certification. The market has expanded to allow direct retail eating (eat-while-walking) — a shift requiring additional hygiene standards for prepared foods sold for immediate consumption. The Osaka Health Centre conducts regular inspections.",
+      "penalty": "Unlicensed food preparation/sale: up to ¥500,000 fine and closure; hygiene violations: immediate suspension",
+      "exceptions": ["Non-food vendors exempt from food sanitation requirements"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City Health Department — Market Inspection",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What nickname is given to Kuromon Ichiba market, reflecting its role in Osaka's food culture?",
+        "options": ["Osaka's Pantry", "Osaka's Kitchen", "Osaka's Dining Room", "Osaka's Spice Bazaar"],
+        "correct": 1,
+        "explanation": "Kuromon Ichiba (黒門市場) is known as 'Osaka's Kitchen' — a fresh produce, seafood, and food market central to the city's culinary identity."
+      }
+    },
+    {
+      "id": 42534,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "♿",
+      "title": "Osaka Barrier-Free Promotion — Station Lifts",
+      "subtitle": "All major Osaka Metro stations mandated lift-accessible",
+      "fullDescription": "Under the Barrier-Free Act and Osaka City's own accessibility ordinance, all Osaka Metro stations must achieve 100% lift accessibility. As of 2024, 97 of 130 Osaka Metro stations have lifts covering all platforms. The 2025 Expo drove accelerated investment in accessibility. Osaka City also operates a guaranteed taxi subsidy for wheelchair users where no accessible public transport route is available.",
+      "penalty": "New infrastructure projects not meeting barrier-free standards: planning refusal",
+      "exceptions": ["Micro-stations (below 3,000 daily users) have extended compliance timelines"],
+      "source": "https://www.osakametro.co.jp/",
+      "sourceLabel": "Osaka Metro — Accessibility Programme",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Osaka Metro's 130 stations had lift access as of 2024?",
+        "options": ["60%", "75%", "~75% (97 of 130)", "100%"],
+        "correct": 2,
+        "explanation": "As of 2024, 97 of Osaka Metro's 130 stations (~75%) had full lift accessibility — with the remainder under construction."
+      }
+    },
+    {
+      "id": 42535,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "🚆",
+      "title": "Shinkansen Stop at Shin-Osaka",
+      "subtitle": "High-speed rail regulations at Osaka's main hub",
+      "fullDescription": "Shin-Osaka Station is Osaka's main Shinkansen terminal, connecting to Tokyo (2h30m), Hiroshima, and Hakata. Under the Shinkansen regulations (新幹線鉄道構造規則), security screening at Shin-Osaka is not mandatory (unlike aviation) but prohibited items include flammable materials, certain chemicals, and large items without reservation. Bicycle carriage requires a bicycle bag and reservation. JR West operates the Sanyo Shinkansen from Shin-Osaka.",
+      "penalty": "Carrying prohibited items on Shinkansen: ejection from train; bomb threats: up to 3 years imprisonment",
+      "exceptions": ["Folding bicycles in dedicated bags require no reservation"],
+      "source": "https://www.westjr.co.jp/",
+      "sourceLabel": "JR West — Shinkansen Rules",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how long does the Shinkansen take from Tokyo to Shin-Osaka (Nozomi service)?",
+        "options": ["1 hour", "2.5 hours", "4 hours", "5 hours"],
+        "correct": 1,
+        "explanation": "The Nozomi Shinkansen covers Tokyo–Shin-Osaka in approximately 2 hours 30 minutes — one of the world's fastest regular rail services."
+      }
+    },
+    {
+      "id": 42536,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏘️",
+      "title": "Osaka Property Tax — Rates and Assessment",
+      "subtitle": "Fixed asset tax at 1.4% of assessed value",
+      "fullDescription": "Japan's Local Tax Act (地方税法) sets the standard fixed asset tax rate at 1.4% of the government-assessed value of land and buildings. Osaka City sets its own urban planning tax (都市計画税) of up to 0.3% on top. Tokyo and Osaka have the highest assessed property values in Japan. Osaka's assessed values are recalculated every three years; a small-scale residential land reduction applies (assessed at 1/6 of value for the first 200m²).",
+      "penalty": "Late payment: 2.6–8.9% surcharge; refusal to pay: attachment of assets",
+      "exceptions": ["Agricultural land in designated zones has reduced assessment rates"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City — Fixed Asset Tax Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "At what rate is Japan's standard fixed asset tax (property tax) set under the Local Tax Act?",
+        "options": ["0.3%", "0.7%", "1.4%", "2.0%"],
+        "correct": 2,
+        "explanation": "Japan's fixed asset tax is set at 1.4% of the government-assessed value — plus an urban planning tax of up to 0.3% in cities like Osaka."
+      }
+    },
+    {
+      "id": 42537,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌬️",
+      "title": "Osaka Air Quality — Industrial Zone Monitoring",
+      "subtitle": "Kishiwada and Sakai industrial zones under emission caps",
+      "fullDescription": "Osaka Prefecture's southern industrial belt — including Sakai City (steel, chemical), Kishiwada, and the Osaka Bay coastline — is subject to the Air Pollution Control Act (大気汚染防止法) and Osaka's own enhanced emission standards. Sakai City hosts one of Japan's last large integrated steel plants. Osaka Prefecture operates 30 continuous monitoring stations. PM2.5 standards are 35 µg/m³ (24-hour average) — aligned with Japan's national standard.",
+      "penalty": "Exceeding emission limits: suspension orders + fines up to ¥1,000,000; chronic violators: licence revocation",
+      "exceptions": ["Emergency flaring events with notification"],
+      "source": "https://www.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefecture Environmental Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What major industry is concentrated in Osaka's Sakai City on the bay coast?",
+        "options": ["Automobile manufacturing", "Steel and chemicals", "Textile and dyeing", "Shipbuilding"],
+        "correct": 1,
+        "explanation": "Sakai City hosts one of Japan's last large integrated steel plants plus chemical industries — Osaka's industrial south continues significant heavy manufacturing."
+      }
+    },
+    {
+      "id": 42538,
+      "category": "Criminal Law",
+      "severity": "medium",
+      "icon": "🎪",
+      "title": "Illegal Solicitation — Namba Entertainment",
+      "subtitle": "Touting and aggressive solicitation prohibited",
+      "fullDescription": "Osaka's Nuisance Prevention Ordinance (迷惑防止条例) — more recently reinforced by specific Osaka City rules for the Namba entertainment district — prohibits kyaku-hiki (客引き, aggressive customer solicitation) by touts for restaurants, hostess bars, and nightclubs. Police conduct regular enforcement operations particularly on Dotonbori-dori and Sennichimae. Businesses employing illegal touts face licencing consequences.",
+      "penalty": "Touting in prohibited areas: fines up to ¥100,000 per incident; repeat offenders: up to 6 months imprisonment",
+      "exceptions": ["Approved promotional activities with city permit"],
+      "source": "https://www.police.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefectural Police — Public Safety Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Japanese term for the aggressive restaurant/bar touting prohibited in Osaka's entertainment districts?",
+        "options": ["Omakase", "Kyaku-hiki (客引き)", "Omoiyari", "Nenki"],
+        "correct": 1,
+        "explanation": "Kyaku-hiki (客引き) — literally 'customer pulling' — refers to touts who aggressively solicit customers into establishments, prohibited in Osaka's entertainment zones."
+      }
+    },
+    {
+      "id": 42539,
+      "category": "Public Order",
+      "severity": "high",
+      "icon": "🌿",
+      "title": "Cannabis Control — Osaka Enforcement",
+      "subtitle": "National cannabis ban equally enforced in Osaka",
+      "fullDescription": "The Cannabis Control Act applies equally in Osaka as in Tokyo. Osaka Port has been a noted entry point for cannabis imports, and the Prefectural Police narcotics division conducts active port-area enforcement. Cannabis use among younger Osaka residents has been a growing concern per police statistics — arrests increased 40% between 2018 and 2023, though overall numbers remain low by global standards.",
+      "penalty": "Possession: up to 5 years; cultivation/import: up to 7 years",
+      "exceptions": ["Industrial hemp under licence", "Approved cannabis medicines (from 2024)"],
+      "source": "https://www.police.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefectural Police — Narcotics Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By how much did cannabis-related arrests in Osaka increase between 2018 and 2023?",
+        "options": ["10%", "25%", "40%", "100%"],
+        "correct": 2,
+        "explanation": "Cannabis arrests in Osaka increased approximately 40% between 2018 and 2023 — driven primarily by younger urban users."
+      }
+    },
+    {
+      "id": 42540,
+      "category": "Education",
+      "severity": "low",
+      "icon": "🎓",
+      "title": "Osaka International Schools and Licensing",
+      "subtitle": "International schools require prefectural miscellaneous school approval",
+      "fullDescription": "International schools in Osaka (including international divisions of Japanese schools and foreign-curriculum schools for expat families) are licenced under the Miscellaneous School (各種学校) category of the School Education Act, as most don't meet criteria for standard category schools. Osaka has approximately 15 international schools serving its significant expat business community (Korean, Chinese, Western). MEXT approves international baccalaureate programmes separately.",
+      "penalty": "Unlicensed school operation: closure orders + fines; misrepresenting accreditation: fraud charges",
+      "exceptions": ["Short-term supplementary language programmes under certain thresholds"],
+      "source": "https://www.pref.osaka.lg.jp/kyoisomu/",
+      "sourceLabel": "Osaka Prefecture Education Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What school licensing category covers most international schools in Japan?",
+        "options": ["Public school (公立学校)", "Private school (私立学校)", "Miscellaneous school (各種学校)", "Special needs school (特別支援学校)"],
+        "correct": 2,
+        "explanation": "Most international schools in Japan are licenced under the Miscellaneous School (各種学校) category as they don't meet standard curriculum requirements."
+      }
+    },
+    {
+      "id": 42541,
+      "category": "Housing & Property",
+      "severity": "low",
+      "icon": "🏢",
+      "title": "Osaka Freehold vs Leasehold Land Rules",
+      "subtitle": "Shakuchiiken land lease system common in Osaka",
+      "fullDescription": "Japan's Land Lease and Building Lease Act (借地借家法) allows construction on land owned by others via long-term lease (借地権, shakuchiiken). Osaka has a notably high proportion of buildings on leased land compared to Tokyo, reflecting historical land tenure patterns. Fixed-term land leases (定期借地権) set for 50 years were introduced in 1992. Tenants have strong renewal rights under standard leases; eviction requires substantial compensation.",
+      "penalty": "Landlord illegally refusing lease renewal: civil damages; self-help eviction (changing locks): criminal property damage + civil tort",
+      "exceptions": ["Fixed-term leases (定期借地権) do not auto-renew — landlord can repossess at end of term"],
+      "source": "https://www.mlit.go.jp/",
+      "sourceLabel": "MLIT — Land Lease and Building Lease Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is shakuchiiken (借地権) in Japanese property law?",
+        "options": ["Freehold land ownership", "A long-term land lease allowing building construction on another's land", "A government housing subsidy", "A co-ownership arrangement for condominiums"],
+        "correct": 1,
+        "explanation": "Shakuchiiken (借地権) is a long-term land lease right that allows the holder to construct and own buildings on land owned by another party."
+      }
+    },
+    {
+      "id": 42542,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🎑",
+      "title": "Food Allergy Disclosure — Restaurant Duty",
+      "subtitle": "Osaka restaurants must disclose allergen information",
+      "fullDescription": "Japan's Food Labelling Act's allergen disclosure requirements — 7 mandatory allergens including wheat, egg, milk, buckwheat, peanut, shrimp, crab — apply to packaged foods. Osaka's Consumer Affairs Bureau operates voluntary guidance for restaurants to display allergen information. After a 2013 Tokyo school lunch incident (a child died from anaphylaxis), Osaka schools implemented mandatory staff allergen training and parental consent protocols for school meals.",
+      "penalty": "Restaurant operators: civil liability for allergen-related incidents if no disclosure; criminal negligence if staff grossly failed duty of care",
+      "exceptions": ["Establishments can refer customers to ingredients lists rather than menu labelling"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City — Food Safety Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many allergens are mandatorily disclosed on Japanese food packaging?",
+        "options": ["4", "5", "7", "14"],
+        "correct": 2,
+        "explanation": "Japan mandates disclosure of 7 allergens: wheat, buckwheat, egg, milk, peanut, shrimp, and crab — on all packaged food products."
+      }
+    },
+    {
+      "id": 42543,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🗳️",
+      "title": "Osaka Ishin no Kai Electoral Dominance",
+      "subtitle": "Regional party controls prefectural and city governments",
+      "fullDescription": "Osaka Ishin no Kai (Japan Innovation Party — Osaka wing) has governed Osaka Prefecture and City since 2008, making it Japan's most successful regional political movement. Under Public Offices Election Act (公職選挙法) rules, Osaka has twice voted in referendums on the Osaka Metropolis Plan (2015: rejected; 2020: rejected by 0.07%). The party's platform of administrative reform and fiscal consolidation operates within standard Japanese electoral law.",
+      "penalty": "Election law violations: up to 3 years imprisonment; referendum procedural violations: administrative penalties",
+      "exceptions": [],
+      "source": "https://www.soumu.go.jp/",
+      "sourceLabel": "Ministry of Internal Affairs — Election Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By what margin did Osaka's second referendum on the Osaka Metropolis Plan fail in 2020?",
+        "options": ["5%", "2%", "0.5%", "0.07%"],
+        "correct": 3,
+        "explanation": "The 2020 Osaka Metropolis Plan referendum was rejected by just 0.07% (approximately 17,000 votes out of 2.2 million) — the narrowest margin in Japanese referendum history."
+      }
+    },
+    {
+      "id": 42544,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "💰",
+      "title": "Osaka's Fiscal Reconstruction — Debt Reduction Law",
+      "subtitle": "Prefecture under fiscal reconstruction programme",
+      "fullDescription": "Osaka Prefecture was placed under a financial reconstruction programme by the Ministry of Internal Affairs in the mid-2000s after years of deficit spending, with debt peaking at ¥7 trillion. Under the Local Finance Law (地方財政法), prefectures in fiscal crisis cannot issue new bonds without ministerial approval and must implement cost-cutting plans. Osaka's reforms under Ishin no Kai governance reduced per-capita spending significantly but also generated controversy over service cuts.",
+      "penalty": "Non-compliant fiscal reconstruction plans: national government can withhold local allocation tax grants",
+      "exceptions": [],
+      "source": "https://www.soumu.go.jp/",
+      "sourceLabel": "Ministry of Internal Affairs — Local Finance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "At its peak, approximately how much did Osaka Prefecture's debt reach before its fiscal reconstruction?",
+        "options": ["¥1 trillion", "¥3 trillion", "¥7 trillion", "¥20 trillion"],
+        "correct": 2,
+        "explanation": "Osaka Prefecture's debt peaked at approximately ¥7 trillion in the mid-2000s, triggering a national government-supervised fiscal reconstruction programme."
+      }
+    },
+    {
+      "id": 42545,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "🏭",
+      "title": "Osaka Industrial Safety Standards",
+      "subtitle": "Industrial Accident Prevention Association enforces workplace safety",
+      "fullDescription": "Japan's Industrial Safety and Health Act (労働安全衛生法) requires employers in manufacturing, construction, and chemical industries to appoint safety officers, conduct regular inspections, and report serious accidents to the Labour Standards Inspection Office. Osaka's manufacturing and chemical industries (Sumitomo Chemical, Daikin headquarters) must maintain detailed safety management systems. The Osaka Labour Bureau has specialised industrial accident prevention advisers.",
+      "penalty": "Serious workplace accidents with negligence: up to 6 months imprisonment; failure to report: fines up to ¥500,000",
+      "exceptions": ["Very small workshops (under 10 workers) have simplified requirements"],
+      "source": "https://jsite.mhlw.go.jp/osaka-roudoukyoku/",
+      "sourceLabel": "Osaka Labour Bureau — Industrial Safety",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which major chemical/HVAC company is headquartered in Osaka?",
+        "options": ["Panasonic", "Sharp", "Daikin Industries", "Murata Manufacturing"],
+        "correct": 2,
+        "explanation": "Daikin Industries — the world's largest air conditioning manufacturer — is headquartered in Osaka and subject to its industrial safety framework."
+      }
+    },
+    {
+      "id": 42546,
+      "category": "Environmental",
+      "severity": "low",
+      "icon": "🌸",
+      "title": "Osaka Sakura Cherry Blossom Viewing Rules",
+      "subtitle": "Hanami parties regulated in Osaka Castle Park",
+      "fullDescription": "Cherry blossom viewing (花見, hanami) at Osaka Castle Park and other designated sites is subject to Osaka City park management rules. Alcohol is permitted but disorderly behaviour is subject to the Nuisance Prevention Ordinance. Blue tarpaulins ('blue sheets') for space reservation from the previous night are officially discouraged; Osaka Castle Park management may remove tarpaulins laid more than 24 hours ahead. Open fires are prohibited in all parks.",
+      "penalty": "Prohibited fires in parks: fines under Fire Service Act; disorderly drunk conduct: up to ¥50,000 under Nuisance Ordinance",
+      "exceptions": ["Licensed food/drink vendors in designated park zones"],
+      "source": "https://www.osakacastlepark.jp/",
+      "sourceLabel": "Osaka Castle Park Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the traditional Japanese practice of gathering under cherry trees called?",
+        "options": ["Matsuri", "Hanabi", "Hanami (花見)", "Koyo"],
+        "correct": 2,
+        "explanation": "Hanami (花見, 'flower viewing') is the traditional practice of gathering under cherry blossom trees to eat, drink, and celebrate spring."
+      }
+    },
+    {
+      "id": 42547,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🔥",
+      "title": "Osaka's Arson History and Prevention",
+      "subtitle": "Historic fire risk in Osaka's wooden district housing",
+      "fullDescription": "Osaka's dense traditional machiya (町家) wooden townhouse districts in areas like Namba, Tsuruhashi, and Juso remain significant fire risks. The Fire Service Act requires these older wooden buildings to install sprinkler systems above 275m² total floor area. Osaka City has an intensive building survey programme targeting unoccupied wooden structures. Fire safety inspections of entertainment venues (izakaya, karaoke) are mandated annually.",
+      "penalty": "Arson: up to life imprisonment (inhabited buildings); fire safety violations: closure orders + fines up to ¥3,000,000",
+      "exceptions": ["Designated cultural properties may receive exemptions if historic fabric would be damaged by sprinkler installation — alternative fire protection required"],
+      "source": "https://www.city.osaka.lg.jp/shobo/",
+      "sourceLabel": "Osaka City Fire Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What traditional Japanese wooden townhouse building type is common in Osaka's older districts?",
+        "options": ["Ryokan", "Machiya (町家)", "Minka", "Nagaya"],
+        "correct": 1,
+        "explanation": "Machiya (町家) are traditional wooden merchant townhouses — common in Osaka's older commercial districts and a significant fire risk requiring special safety measures."
+      }
+    },
+    {
+      "id": 42548,
+      "category": "Consumer Protection",
+      "severity": "low",
+      "icon": "🎭",
+      "title": "Yoshimoto Kogyo Talent Agency Compliance",
+      "subtitle": "Japan's largest talent agency subject to fair business rules",
+      "fullDescription": "Yoshimoto Kogyo (吉本興業), headquartered in Osaka and managing over 6,000 comedians and entertainers, operates under the Employment Security Act (職業安定法) as a talent agency. 2019 scandals involving talent receiving undisclosed yakuza-connected event payments led to a parliamentary inquiry and industry-wide guidance on contract transparency and exclusivity clauses. The Fair Trade Commission reviewed Yoshimoto's exclusive contract practices.",
+      "penalty": "Talent agencies engaging in unfair exclusive practices: FTC cease-and-desist; illegal undisclosed fee arrangements: up to ¥1,000,000 fine",
+      "exceptions": [],
+      "source": "https://www.jftc.go.jp/",
+      "sourceLabel": "Japan Fair Trade Commission",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many comedians and entertainers does Osaka's Yoshimoto Kogyo manage?",
+        "options": ["500", "1,000", "3,000", "Over 6,000"],
+        "correct": 3,
+        "explanation": "Yoshimoto Kogyo manages over 6,000 entertainers — making it Japan's largest and most powerful talent agency, headquartered in Osaka."
+      }
+    },
+    {
+      "id": 42549,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "💉",
+      "title": "Vaccination Requirements — School Entry",
+      "subtitle": "Recommended vaccinations technically voluntary but socially mandated",
+      "fullDescription": "Japan's Immunisation Act (予防接種法) designates scheduled vaccinations (定期接種) for children including BCG, DPT, IPV, MMR (though Japan uses MR), varicella, Hib, and pneumococcal. These are technically voluntary but Osaka City schools and day-care centres track vaccination records and may contact parents about unvaccinated children. Japan had a major measles resurgence in 2018–2019 linked to vaccination gaps, prompting stricter monitoring.",
+      "penalty": "Vaccines are not legally mandatory; no criminal penalty; social/administrative pressure via school contact",
+      "exceptions": ["Medical exemptions with doctor's certificate"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City Health and Welfare Bureau — Immunisation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What disease caused a major Osaka/Japan-wide resurgence in 2018–2019 due to vaccination gaps?",
+        "options": ["Rubella", "Pertussis", "Measles", "Hepatitis A"],
+        "correct": 2,
+        "explanation": "Japan experienced a significant measles (麻疹) resurgence in 2018–2019 linked to vaccination gaps — WHO issued travel warnings for Japan."
+      }
+    },
+    {
+      "id": 42550,
+      "category": "Immigration & Identity",
+      "severity": "medium",
+      "icon": "✈️",
+      "title": "Osaka Kansai Airport Customs Rules",
+      "subtitle": "Strict duty-free allowances and prohibited items",
+      "fullDescription": "Kansai International Airport (KIX), serving Osaka and the wider Kansai region, operates under Japan Customs Act (関税法) rules: duty-free allowances include 200 cigarettes, 3 bottles of alcohol (760ml each), and personal items up to ¥200,000 in value. Agricultural products (fresh meat, vegetables, fruits) from many countries are prohibited under Plant Protection Act and Law Concerning Special Measures against Infectious Diseases. Random baggage inspection rates at KIX are among Japan's highest.",
+      "penalty": "Duty evasion: 3× the evaded duty + criminal penalties up to 10 years; prohibited agricultural import: confiscation + fines up to ¥500,000",
+      "exceptions": ["Commercial imports follow separate tariff schedule and licencing"],
+      "source": "https://www.customs.go.jp/",
+      "sourceLabel": "Japan Customs — Kansai Airport",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the duty-free personal goods allowance for travellers entering Japan?",
+        "options": ["¥100,000", "¥200,000", "¥300,000", "No limit — all personal use items are free"],
+        "correct": 1,
+        "explanation": "Travellers to Japan may bring in personal goods up to ¥200,000 in value duty-free (in addition to alcohol and tobacco allowances)."
+      }
+    },
+    {
+      "id": 42551,
+      "category": "Civil Rights",
+      "severity": "low",
+      "icon": "📝",
+      "title": "Freedom of Assembly — Osaka Protest Rules",
+      "subtitle": "Demonstrations require advance police notification",
+      "fullDescription": "Under Japan's Road Traffic Act and prefectural public safety ordinances, demonstrations and marches using public roads require advance notification to and approval from the Osaka Prefectural Public Safety Commission (公安委員会). Notification must be submitted 72 hours in advance. Counter-demonstrations and impromptu gatherings have led to confrontations in Osaka, particularly involving Korean minority communities and right-wing groups. Police may impose route modifications.",
+      "penalty": "Unnotified demonstrations: organisers fined up to ¥300,000; violent protests: assault/obstruction charges",
+      "exceptions": ["Private property gatherings require no public safety approval"],
+      "source": "https://www.police.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefectural Police — Public Safety Commission",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How far in advance must demonstration organisers notify Osaka's Public Safety Commission?",
+        "options": ["24 hours", "48 hours", "72 hours", "One week"],
+        "correct": 2,
+        "explanation": "Osaka's road-use demonstration notification must be submitted 72 hours before the event to the Prefectural Public Safety Commission."
+      }
+    },
+    {
+      "id": 42552,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌱",
+      "title": "Osaka Green Innovation Strategy 2030",
+      "subtitle": "Osaka targeting 50% renewable energy by 2030",
+      "fullDescription": "Osaka Prefecture's Green Innovation Strategy (グリーンイノベーション戦略, 2021) targets 50% renewable energy in the prefecture's own facilities by 2030 and carbon neutrality by 2050. Companies operating in Osaka's designated green innovation zones receive tax incentives under prefectural ordinance. Osaka Gas (now Daigas) is a major energy provider transitioning to hydrogen and biogas. The hydrogen technology cluster around Osaka is Japan's most developed.",
+      "penalty": "N/A — incentive-based strategy; mandatory components for large emitters: annual reporting with financial penalties for non-reporting",
+      "exceptions": [],
+      "source": "https://www.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefecture — Green Innovation Strategy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What energy transition technology cluster around Osaka is considered Japan's most advanced?",
+        "options": ["Solar panel manufacturing", "Wind energy", "Hydrogen technology", "Nuclear power"],
+        "correct": 2,
+        "explanation": "Osaka's industrial base, including Daigas and Kawasaki Heavy Industries, makes the Osaka/Kobe corridor Japan's leading hydrogen technology development cluster."
+      }
+    },
+    {
+      "id": 42553,
+      "category": "Criminal Law",
+      "severity": "medium",
+      "icon": "🎪",
+      "title": "Historical Sex Work Regulation — Osaka",
+      "subtitle": "Prostitution prohibited; related businesses licenced",
+      "fullDescription": "The Prostitution Prevention Law (売春防止法, 1956) prohibits selling or buying sex in Japan. However, the 'sexual services' industry (風俗産業) operates extensively through businesses technically selling 'companionship' rather than sex. In Osaka, designated entertainment zones (Tobita Shinchi being Japan's most famous de facto red-light district) operate in a complex legal grey zone tolerated by local police. Tobita Shinchi is officially a restaurant cluster.",
+      "penalty": "Prostitution: up to 1 year imprisonment or ¥30,000 fine (historically rarely enforced against individuals); pimping/trafficking: up to 10 years",
+      "exceptions": ["Licensed 'fuzoku' businesses selling legal sexual services short of intercourse (e.g. massage, soaplands)"],
+      "source": "https://www.npa.go.jp/",
+      "sourceLabel": "NPA — Prostitution Prevention Law",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Tobita Shinchi — officially described as a 'restaurant district' in Osaka?",
+        "options": ["A genuine traditional restaurant quarter", "Japan's most famous de facto red-light district operating in a legal grey zone", "A historic market district", "A film studio and entertainment complex"],
+        "correct": 1,
+        "explanation": "Tobita Shinchi (飛田新地) is Japan's most famous de facto red-light district, officially operating as a 'restaurant' district in a complex legal grey zone tolerated by Osaka authorities."
+      }
+    },
+    {
+      "id": 42554,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🌙",
+      "title": "Osaka Nighttime Economy — Club Licensing",
+      "subtitle": "2015 reform allowed dancing after midnight",
+      "fullDescription": "The 2015 amendment to Japan's Businesses Affecting Public Morals Act (風営法) removed the restriction prohibiting dancing in nightclubs after midnight — a rule dating from 1948. This was a significant win for Osaka's nightlife scene, which had been suppressed by police enforcement (Club Noon raid 2010, Club Metro Kyoto 2012). Osaka's American Village (アメ村) and south Shinsaibashi club district benefited most. Clubs still require licences and must prevent crime and drug use.",
+      "penalty": "Unlicensed club operation: up to 2 years imprisonment; drug/crime-related violations: licence revocation",
+      "exceptions": ["Restaurants with incidental music/entertainment have different classification"],
+      "source": "https://www.npa.go.jp/",
+      "sourceLabel": "NPA — Businesses Affecting Public Morals Act 2015",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "From what year did Japan's law prohibiting dancing in clubs after midnight originate?",
+        "options": ["1920s", "1948", "1968", "1980s"],
+        "correct": 1,
+        "explanation": "Japan's ban on post-midnight dancing originated from a 1948 law — still enforced until the 2015 amendment finally removed the restriction."
+      }
+    },
+    {
+      "id": 42555,
+      "category": "Financial",
+      "severity": "high",
+      "icon": "🏦",
+      "title": "MUFG and Osaka Banking History",
+      "subtitle": "Major banks subject to FSA oversight from Osaka origins",
+      "fullDescription": "Osaka was historically Japan's financial capital (Edo-era commodity trading) before Tokyo assumed dominance. Major financial groups with Osaka roots — Sumitomo Mitsui Financial Group (SMFG), Osaka Gas Finance — remain subject to FSA regulation. The Bank of Japan's Osaka branch is the institution's most important regional office. Under the Banking Act (銀行法), all banks must hold capital adequacy ratios meeting Basel III standards (minimum 8% for internationally active banks).",
+      "penalty": "Capital ratio violations: mandatory remediation orders → bank closure proceedings",
+      "exceptions": ["Cooperative credit unions (信用組合) operate under separate cooperative banking law with lower minimums"],
+      "source": "https://www.fsa.go.jp/",
+      "sourceLabel": "Financial Services Agency — Banking Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the minimum Basel III capital adequacy ratio for internationally active Japanese banks?",
+        "options": ["4%", "6%", "8%", "12%"],
+        "correct": 2,
+        "explanation": "Basel III requires internationally active banks to maintain a minimum 8% total capital ratio — enforced by Japan's FSA under the Banking Act."
+      }
+    },
+    {
+      "id": 42556,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "🚡",
+      "title": "Osaka Monorail and Airport Link Rules",
+      "subtitle": "Osaka Monorail connects to Itami Airport and Expo site",
+      "fullDescription": "The Osaka Monorail (大阪モノレール) — the world's longest monorail by route length at 28.4km — connects Itami Airport, Osaka University, and will extend to Nakamozu by 2029. Under the Railway Business Act (鉄道事業法), the monorail is regulated as a standard railway. Its extension to the Expo 2025 site and future Yumeshima IR area is a key infrastructure project. Ticket inspection and fare payment are mandatory — evasion prosecuted as with other railways.",
+      "penalty": "Fare evasion: back-fare + surcharge; refusal: civil/criminal proceedings",
+      "exceptions": [],
+      "source": "https://www.osaka-monorail.co.jp/",
+      "sourceLabel": "Osaka Monorail",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What distinction does the Osaka Monorail hold by route length?",
+        "options": ["Japan's longest monorail", "Asia's longest monorail", "The world's longest monorail", "The world's oldest monorail"],
+        "correct": 2,
+        "explanation": "At 28.4km, the Osaka Monorail holds the Guinness World Record as the world's longest monorail line by total route length."
+      }
+    },
+    {
+      "id": 42557,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏙️",
+      "title": "Osaka Metropolitan Area Urban Renewal",
+      "subtitle": "Urban Renewal Act enables rapid redevelopment",
+      "fullDescription": "Japan's Act on Special Measures for Urban Regeneration (都市再生特別措置法, 2002) creates special urban regeneration zones where normal planning restrictions are relaxed to attract private investment. Osaka has designated several zones including Umeda/Grand Front Osaka, Nakanoshima, and Nanko Port Town. Within these zones, developers can exceed normal floor area ratios in exchange for public space contributions. The Osaka Metropolis Plan's rejection hasn't impacted these national-law-based zones.",
+      "penalty": "Development outside approved zone parameters: planning refusal → enforcement order",
+      "exceptions": ["Emergency infrastructure (utilities, flood works) exempt from standard planning timeline"],
+      "source": "https://www.mlit.go.jp/",
+      "sourceLabel": "MLIT — Urban Regeneration Special Measures Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What major Osaka development created around Osaka Station exemplifies the Urban Regeneration Act?",
+        "options": ["Dotonbori riverside", "Grand Front Osaka in Umeda", "Nakanoshima island park", "Tennoji Zoo complex"],
+        "correct": 1,
+        "explanation": "Grand Front Osaka (グランフロント大阪) in Umeda was developed under Urban Regeneration Zone designation, allowing greater height and density than normal planning rules permit."
+      }
+    },
+    {
+      "id": 42558,
+      "category": "Employment & Labour",
+      "severity": "low",
+      "icon": "🌸",
+      "title": "Maternity and Childcare Benefits — Osaka",
+      "subtitle": "Osaka City provides supplementary childcare support",
+      "fullDescription": "Beyond national maternity benefits (67% of salary for 6 weeks before + 8 weeks after birth; 50% for parental leave), Osaka City provides supplementary childcare subsidies and operates 'Osaka City nursery waitlist reduction' measures. As of 2024, Osaka City has eliminated nursery school waitlists — a major policy success following Tokyo's high-profile 'I can't get into nursery!' (保育園落ちた日本死ね) blog post that sparked national outrage in 2016.",
+      "penalty": "Employers failing to pay national maternity benefits: administrative guidance; dismissing pregnant employees: civil tort + compensation",
+      "exceptions": ["Fixed-term workers must meet qualifying period requirements"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City — Childcare Policy Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What achievement has Osaka City accomplished regarding nursery school waitlists?",
+        "options": ["Reduced waitlist by 50%", "Expanded private nurseries", "Eliminated nursery school waitlists entirely", "Opened nurseries 24 hours"],
+        "correct": 2,
+        "explanation": "Osaka City eliminated nursery school waitlists by 2024 — a notable policy success in a country where childcare shortages sparked national outrage in 2016."
+      }
+    },
+    {
+      "id": 42559,
+      "category": "Criminal Law",
+      "severity": "medium",
+      "icon": "💳",
+      "title": "Credit Card Fraud — Osaka Tech Enforcement",
+      "subtitle": "Card skimming and cyber fraud prosecuted under Fraud Act",
+      "fullDescription": "Japan's Penal Code fraud provisions and the Act on Prohibition of Unauthorised Computer Access (不正アクセス禁止法) cover credit card fraud, skimming device installation, and online payment fraud. Osaka, with Japan's second-highest number of credit card transactions, sees significant fraud enforcement. The Osaka Prefectural Police Cybercrime Division investigates international card fraud rings and domestic skimming operations at ATMs and restaurants.",
+      "penalty": "Credit card fraud: up to 10 years imprisonment (fraud); skimming device use: up to 10 years; unauthorised computer access: up to 3 years",
+      "exceptions": [],
+      "source": "https://www.police.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefectural Police — Cyber Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What Japanese law specifically prohibits unauthorised computer access — used to prosecute online fraud?",
+        "options": ["The Computer Crimes Act", "Act on Prohibition of Unauthorised Computer Access (不正アクセス禁止法)", "Cybersecurity Basic Act", "Information Technology Protection Law"],
+        "correct": 1,
+        "explanation": "Japan's Act on Prohibition of Unauthorised Computer Access (不正アクセス禁止法) is the main law used to prosecute hacking, credential theft, and online fraud."
+      }
+    },
+    {
+      "id": 42560,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🎿",
+      "title": "Osaka Expo 2025 Security Zone",
+      "subtitle": "Special security regulations around Expo site",
+      "fullDescription": "Osaka's Expo 2025 (April 13–October 13, 2025, Yumeshima island) operates under special security regulations under the Act on Security Measures for Facilities Hosting International Events. A security perimeter surrounds the 155-hectare site. Designated prohibited items include standard dangerous goods. Police and Japan Self-Defense Force personnel provide integrated security. Foreign government pavilions have diplomatic protection under the Vienna Convention.",
+      "penalty": "Security zone violations: removal and fine; prohibited item carrying: confiscation and fines",
+      "exceptions": ["Diplomatic staff with accreditation", "Emergency services"],
+      "source": "https://www.expo2025.or.jp/",
+      "sourceLabel": "Japan Association for the 2025 World Exposition — Security",
+      "lastUpdated": "2025-04-01",
+      "quiz": {
+        "q": "Over what time period does Osaka Expo 2025 run?",
+        "options": ["2 months (July–August)", "3 months (June–August)", "6 months (April 13–October 13)", "Full year"],
+        "correct": 2,
+        "explanation": "Osaka Expo 2025 runs for 6 months, from April 13 to October 13, 2025 — following the standard World Expo duration."
+      }
+    },
+    {
+      "id": 42561,
+      "category": "Environmental",
+      "severity": "low",
+      "icon": "🌺",
+      "title": "Osaka's 'Midori no Kaze' Greening Plan",
+      "subtitle": "Street tree planting and greenery corridor targets",
+      "fullDescription": "Osaka City's Midori no Kaze (緑の風) — Green Wind — urban greenery plan targets increasing street tree canopy along major corridors including Midosuji Boulevard (御堂筋), Osaka's grand Champs-Élysées equivalent, lined with iconic ginkgo trees. The plan requires new roadside developments to plant trees at specified intervals. Osaka Castle moat's cherry trees are managed under heritage landscape rules. The plan aims for 20% green coverage.",
+      "penalty": "Development projects removing street trees without replacement: planning conditions enforced; fines for unauthorised tree removal up to ¥500,000",
+      "exceptions": ["Emergency utility works with replanting obligation"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City — Green Master Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What iconic tree lines Osaka's grand Midosuji Boulevard — often compared to the Champs-Élysées?",
+        "options": ["Sakura (cherry)", "Maple", "Ginkgo", "Camphor"],
+        "correct": 2,
+        "explanation": "Midosuji Boulevard is famous for its rows of ginkgo trees — creating a stunning golden canopy in autumn — protected under Osaka's greenery plans."
+      }
+    },
+    {
+      "id": 42562,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🛒",
+      "title": "E-Commerce Act — Online Retail Compliance",
+      "subtitle": "Osaka's tech firms must comply with online sales law",
+      "fullDescription": "Japan's Act on Specified Commercial Transactions (特定商取引法) governs online retail, requiring e-commerce operators to display business name, address, phone number, pricing, and return policies clearly. Osaka-based online retailers (including Rakuten — founded in Kobe, operating from Tokyo) are monitored by the Consumer Affairs Agency. 'Surprise subscription' (サブスク詐欺) schemes, where consumers unknowingly sign up for recurring charges, have been the subject of major enforcement actions.",
+      "penalty": "Non-compliant online stores: administrative guidance → fines up to ¥3,000,000; fraudulent subscription schemes: criminal fraud charges up to 10 years",
+      "exceptions": ["B2B online transactions follow separate rules"],
+      "source": "https://www.caa.go.jp/",
+      "sourceLabel": "Consumer Affairs Agency — E-Commerce Rules",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What deceptive practice (サブスク詐欺) has Japanese online retail regulators targeted in recent years?",
+        "options": ["Counterfeit product sales", "False product reviews", "Surprise subscription schemes — unknowing recurring charges", "Price fixing between retailers"],
+        "correct": 2,
+        "explanation": "Sabusku-sagi (サブスク詐欺) — surprise subscription fraud — where consumers unknowingly enrol in recurring charges, has been a major Consumer Affairs Agency enforcement target."
+      }
+    },
+    {
+      "id": 42563,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "⚖️",
+      "title": "Osaka Domestic Violence Prevention",
+      "subtitle": "DV Act provides protection orders for victims",
+      "fullDescription": "Japan's Act on Prevention of Spousal Violence and Protection of Victims (DV防止法, 2001, amended 2023) allows courts to issue protection orders (保護命令) prohibiting abusers from approaching victims within 100m and from contacting them. Osaka Prefectural Government operates Osaka Spousal Violence Counseling and Support Centre (大阪府配偶者暴力相談支援センター). 2023 amendments expanded protection to dating partners and extended order duration to one year.",
+      "penalty": "Violation of protection order: up to 1 year imprisonment or ¥1,000,000 fine",
+      "exceptions": ["Mediation and counselling pathways available as alternatives in some cases"],
+      "source": "https://www.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefecture DV Prevention — Spousal Violence Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What did Japan's 2023 amendments to the Domestic Violence Act expand protection orders to cover?",
+        "options": ["Only married couples, more strictly", "Workplace harassment", "Dating partners (not only spouses)", "Only foreign national victims"],
+        "correct": 2,
+        "explanation": "The 2023 DV Act amendments expanded protection orders to cover dating partners — not only married or formerly married couples."
+      }
+    },
+    {
+      "id": 42564,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🧪",
+      "title": "Pharmaceutical Manufacturing — Osaka as Japan's Drug Capital",
+      "subtitle": "Osaka hosts Japan's largest pharmaceutical cluster",
+      "fullDescription": "Osaka Prefecture hosts the highest concentration of pharmaceutical manufacturers in Japan — including Takeda, Dainippon Sumitomo, Rohto, and Shionogi. The Pharmaceutical and Medical Device Act (薬機法, 2014) regulates manufacturing licences, quality standards (GMP), clinical trials, and drug advertising. The Osaka PMDA (Pharmaceuticals and Medical Devices Agency) regional office is a key regulatory contact. Drug advertising in Japan is subject to stricter rules than in the US — DTC advertising is banned.",
+      "penalty": "Unlicensed drug manufacturing: up to 10 years imprisonment; false advertising: up to 2 years + fines",
+      "exceptions": ["Hospital pharmacy compounding within specific guidelines"],
+      "source": "https://www.pmda.go.jp/",
+      "sourceLabel": "Pharmaceuticals and Medical Devices Agency (PMDA)",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which major global pharmaceutical company is headquartered in Osaka?",
+        "options": ["Pfizer Japan", "Takeda Pharmaceutical", "Astellas", "Eisai"],
+        "correct": 1,
+        "explanation": "Takeda Pharmaceutical — Japan's largest and one of the world's top-10 pharma companies — is headquartered in Osaka, though its global HQ is now in Tokyo."
+      }
+    },
+    {
+      "id": 42565,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏪",
+      "title": "Osaka's Small Business Finance Corporation",
+      "subtitle": "SME loans regulated under Small and Medium Enterprises Basic Act",
+      "fullDescription": "Japan's Small and Medium Enterprises Basic Act (中小企業基本法) and the Japan Finance Corporation (日本政策金融公庫) provide preferential financing to SMEs. Osaka's dense concentration of small manufacturing businesses (monozukuri — 'making things') benefits from Osaka Prefecture's SME support programmes. The Osaka Business and Investment Centre assists foreign companies establishing Kansai operations. SME loan guarantees are provided by the Osaka Credit Guarantee Association.",
+      "penalty": "Misuse of government SME finance: loan recall + criminal fraud charges; false financial statements for loan applications: up to 5 years",
+      "exceptions": ["Startups in Osaka's designated 'startup ecosystem' zones have additional support access"],
+      "source": "https://www.jfc.go.jp/",
+      "sourceLabel": "Japan Finance Corporation — SME Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What Japanese manufacturing philosophy — 'the art of making things' — characterises Osaka's small business culture?",
+        "options": ["Kaizen", "Monozukuri (ものづくり)", "Keiretsu", "Just-in-time"],
+        "correct": 1,
+        "explanation": "Monozukuri (ものづくり, 'making things') describes Japan's manufacturing philosophy emphasising craftsmanship and quality — especially prevalent in Osaka's dense SME manufacturing sector."
+      }
+    },
+    {
+      "id": 42566,
+      "category": "Public Order",
+      "severity": "high",
+      "icon": "🔫",
+      "title": "Firearms — Osaka Yakuza Gun Seizures",
+      "subtitle": "Osaka records Japan's highest yakuza-related firearms seizures",
+      "fullDescription": "Despite Japan's near-total civilian gun ban, the Osaka Prefectural Police Organised Crime Division reports the highest number of yakuza-related firearms seizures in Japan — reflecting the Yamaguchi-gumi and Kudo-kai activity in the Kansai region. Guns typically enter via smuggling from the Philippines and Southeast Asia through Osaka and Kobe ports. Operation Hana-yuki (花雪) and similar targeted operations have reduced seizure numbers since 2018.",
+      "penalty": "Illegal firearm possession: up to 15 years imprisonment; discharging: additional up to 3 years",
+      "exceptions": [],
+      "source": "https://www.police.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefectural Police — Organised Crime Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where do most illegal firearms in Japan originate according to police?",
+        "options": ["China", "USA", "Philippines and Southeast Asia", "Russia"],
+        "correct": 2,
+        "explanation": "Most illegal firearms in Japan are smuggled from the Philippines and Southeast Asia — entering primarily through Osaka and Kobe ports."
+      }
+    },
+    {
+      "id": 42567,
+      "category": "Environmental",
+      "severity": "low",
+      "icon": "🐠",
+      "title": "Osaka Aquarium (Kaiyukan) Animal Welfare Rules",
+      "subtitle": "Aquarium and zoo animal welfare under Environment Ministry",
+      "fullDescription": "Osaka's Kaiyukan aquarium — one of the world's largest, featuring a 5.4 million litre Pacific Ocean tank housing whale sharks — operates under the Animal Welfare and Management Act (動物の愛護及び管理に関する法律). Commercial aquariums must maintain species-appropriate conditions, employ certified veterinary staff, and comply with CITES requirements for protected species. The Environment Ministry and Osaka City jointly inspect facilities.",
+      "penalty": "Animal welfare violations: fines up to ¥500,000; CITES violations: up to 5 years imprisonment",
+      "exceptions": [],
+      "source": "https://www.kaiyukan.com/",
+      "sourceLabel": "Osaka Kaiyukan — Animal Welfare Compliance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the volume of Osaka Kaiyukan's main Pacific Ocean tank — one of the world's largest aquarium tanks?",
+        "options": ["1 million litres", "2 million litres", "5.4 million litres", "10 million litres"],
+        "correct": 2,
+        "explanation": "Kaiyukan's Pacific Ocean tank holds 5.4 million litres — one of the world's largest aquarium tanks, housing whale sharks and manta rays."
+      }
+    },
+    {
+      "id": 42568,
+      "category": "Consumer Protection",
+      "severity": "low",
+      "icon": "🎮",
+      "title": "Gacha Loot Box Regulation — Osaka Game Industry",
+      "subtitle": "Kompu gacha prohibited; random item mechanics regulated",
+      "fullDescription": "Japan's Consumer Affairs Agency ruled in 2012 that 'complete gacha' (コンプガチャ), a mechanic requiring purchase of random items to complete a set, violates the Act against Unjustifiable Premiums and Misleading Representations as an illegal lottery. Major Osaka-based mobile game developers (including Gungho Online Entertainment, maker of Puzzle & Dragons) had to restructure games. Standard random item gacha (without forced completion mechanics) remains legal but subject to disclosure rules on odds.",
+      "penalty": "Kompu gacha or non-disclosed odds: cease-and-desist; fines up to 3% of related sales",
+      "exceptions": ["Standard random item gacha with disclosed probabilities is legal"],
+      "source": "https://www.caa.go.jp/",
+      "sourceLabel": "Consumer Affairs Agency — Gacha Regulation 2012",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What did Japan's Consumer Affairs Agency rule about 'complete gacha' (コンプガチャ) in 2012?",
+        "options": ["It is fully legal", "It violates premium representation law as an illegal lottery", "Only banned for under-18 players", "Required parental consent"],
+        "correct": 1,
+        "explanation": "Japan's CAA ruled in 2012 that complete gacha (requiring set completion through random purchases) violates the Premiums Act — forcing major game developers to redesign mechanics."
+      }
+    },
+    {
+      "id": 42569,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "👨‍👩‍👧",
+      "title": "Child Custody — Single Parent Default",
+      "subtitle": "Japan's sole custody system challenged by international courts",
+      "fullDescription": "Japan's Civil Code (民法) historically prescribed sole custody to one parent after divorce, with the other parent having no legal right of contact unless agreed. This caused international incidents when Japanese nationals took children to Japan in international custody disputes. A 2024 Civil Code amendment introduced optional joint custody from 2026 — a historic shift. Osaka Family Court handles significant numbers of international custody cases given the Zainichi and international business community.",
+      "penalty": "Parental abduction (removing child from Japan without court order): criminal charges under Child Abduction Prohibition Act; international cases: HCCH Abduction Convention (Japan acceded 2014) applies",
+      "exceptions": ["Domestic violence cases may maintain sole custody as default"],
+      "source": "https://www.courts.go.jp/",
+      "sourceLabel": "Japan Courts — Family Court Custody",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What major change to Japan's child custody law was enacted in 2024?",
+        "options": ["Mandatory joint custody for all cases", "Introduction of optional joint custody from 2026", "Complete abolition of sole custody", "Creation of a family court arbitration system"],
+        "correct": 1,
+        "explanation": "Japan's 2024 Civil Code amendment introduced optional joint custody from 2026 — a historic departure from the sole-custody default that had caused international disputes."
+      }
+    },
+    {
+      "id": 42570,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "🎌",
+      "title": "Foreign Worker Integration — Specified Skilled Worker",
+      "subtitle": "Osaka's manufacturing sector uses new visa categories",
+      "fullDescription": "Japan's Specified Skilled Worker (特定技能) visa, introduced in 2019, allows foreign workers in 14 designated industries (including food manufacturing, construction, hospitality) to work in Japan without requiring an employer sponsor for visa status. Osaka's food processing and construction sectors are significant employers of Specified Skilled Workers — predominantly from Vietnam, Indonesia, and the Philippines. Osaka Prefectural Government operates multilingual support centres.",
+      "penalty": "Employers underpaying or mistreating Specified Skilled Workers: labour law penalties + possibility of losing ability to sponsor workers",
+      "exceptions": ["Tier 2 (特定技能2号) workers in certain industries can bring family and have a path to permanent residence"],
+      "source": "https://www.moj.go.jp/isa/",
+      "sourceLabel": "Immigration Services Agency — Specified Skilled Worker",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which year did Japan introduce the Specified Skilled Worker (特定技能) visa category?",
+        "options": ["2015", "2017", "2019", "2021"],
+        "correct": 2,
+        "explanation": "Japan introduced the Specified Skilled Worker visa in April 2019 to address acute labour shortages in 14 designated industries."
+      }
+    },
+    {
+      "id": 42571,
+      "category": "Privacy & Technology",
+      "severity": "medium",
+      "icon": "🔐",
+      "title": "Osaka Smart City Data Governance",
+      "subtitle": "Osaka's smart city initiative subject to PPC oversight",
+      "fullDescription": "Osaka City's Smart City Strategy (スマートシティ戦略) uses data from sensors, cameras, and public service systems to manage traffic, waste, and emergency response. Under APPI and Smart City guidelines from the Personal Information Protection Commission (PPC), personal data collected in smart city contexts requires purpose limitation, anonymisation standards, and public disclosure of data use policies. Osaka was designated one of Japan's 10 'super city' zones in 2023.",
+      "penalty": "APPI violations in smart city data use: up to ¥100,000,000 corporate fine; individual breach notification failures: criminal penalty",
+      "exceptions": ["Anonymised and aggregated statistical data not subject to individual consent requirements"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City — Smart City Strategy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What designation did Osaka receive in 2023 for its advanced urban digital infrastructure?",
+        "options": ["UNESCO Smart Heritage City", "OECD Innovation Capital", "Japan 'Super City' zone designation", "G7 Digital Hub"],
+        "correct": 2,
+        "explanation": "Osaka was designated one of Japan's 10 'Super City' (スーパーシティ) zones in 2023, enabling data-sharing and regulatory innovation for smart urban services."
+      }
+    },
+    {
+      "id": 42572,
+      "category": "Housing & Property",
+      "severity": "low",
+      "icon": "🏯",
+      "title": "Osaka Castle Site Ownership",
+      "subtitle": "Castle grounds are national government property managed by city",
+      "fullDescription": "Osaka Castle's grounds are national government property (国有財産) administered by Osaka City under a management agreement with the Ministry of Finance. The castle tower (天守閣) itself is privately owned by Osaka City and operated as a museum. Any major infrastructure development within the castle park requires national approval. The castle survived WWII bombing but its current tower is a 1931 reinforced concrete reconstruction — not an original wooden structure.",
+      "penalty": "Damage to national property at castle grounds: up to ¥3,000,000 fine or 5 years imprisonment",
+      "exceptions": ["Permitted heritage-consistent restoration works"],
+      "source": "https://www.osakacastlepark.jp/",
+      "sourceLabel": "Osaka Castle Park",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was the current Osaka Castle tower built — and from what material?",
+        "options": ["Original 1583 wooden structure", "1931 reinforced concrete reconstruction", "1945 post-war wooden rebuild", "1970 steel-frame and glass modern structure"],
+        "correct": 1,
+        "explanation": "Osaka Castle's current tower is a 1931 reinforced concrete reconstruction — not an original wooden castle. The original was destroyed in the 1615 Siege of Osaka."
+      }
+    },
+    {
+      "id": 42573,
+      "category": "Criminal Law",
+      "severity": "medium",
+      "icon": "🌐",
+      "title": "Cybercrime — Osaka's International Fraud Rings",
+      "subtitle": "Osaka Cyber Division targets international fraud operations",
+      "fullDescription": "The Osaka Prefectural Police Cybercrime Division (サイバー犯罪対策課) investigates computer intrusions, online fraud, cryptocurrency theft, and international business email compromise (BEC) schemes. Osaka has been a base for international crypto fraud operations and call centre scam rings targeting Japanese elderly ('ore ore sagi' — voice fraud). The Act on Prohibition of Unauthorised Computer Access (不正アクセス禁止法) is the primary prosecution tool.",
+      "penalty": "Unauthorised computer access: up to 3 years; computer fraud: up to 10 years; ore ore sagi (voice fraud): up to 10 years",
+      "exceptions": [],
+      "source": "https://www.police.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefectural Police — Cyber Crime Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is 'ore ore sagi' (オレオレ詐欺) — a type of fraud heavily prosecuted in Osaka?",
+        "options": ["Online investment fraud", "Voice/phone fraud where callers impersonate relatives ('It's me, it's me') to steal from elderly", "Credit card skimming", "Real estate title fraud"],
+        "correct": 1,
+        "explanation": "Ore ore sagi (オレオレ詐欺, 'it's me, it's me fraud') is a phone scam where criminals impersonate relatives in distress to steal money from elderly victims — a major issue in Japan."
+      }
+    },
+    {
+      "id": 42574,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🔋",
+      "title": "EV Charging Infrastructure Mandate",
+      "subtitle": "New car parks in Osaka must include EV charging",
+      "fullDescription": "Osaka Prefecture's 2023 ordinance requires new car parks over 50 spaces and new buildings with parking facilities to install EV charging infrastructure for at least 20% of spaces (quick chargers or standard chargers). This exceeds the national Revitalisation Plan standard of 15%. Panasonic, headquartered in Osaka suburb Kadoma, produces EV battery components. Osaka City offers subsidies for residential EV charger installation.",
+      "penalty": "Non-compliant new construction: planning approval condition not met; retrospective enforcement unlikely except for large commercial facilities",
+      "exceptions": ["Buildings with fewer than 10 car parking spaces"],
+      "source": "https://www.pref.osaka.lg.jp/",
+      "sourceLabel": "Osaka Prefecture — EV Infrastructure Ordinance 2023",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of new parking spaces in Osaka must include EV charging under the 2023 ordinance?",
+        "options": ["5%", "10%", "20%", "50%"],
+        "correct": 2,
+        "explanation": "Osaka's 2023 ordinance requires 20% of new parking spaces to have EV charging — exceeding the national 15% standard."
+      }
+    },
+    {
+      "id": 42575,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🏙️",
+      "title": "Osaka Night Economy Promotion",
+      "subtitle": "Osaka piloting extended business hours in designated zones",
+      "fullDescription": "Under a 2023 special zone designation by the national government, Osaka is piloting extended operating hours for bars, restaurants, and entertainment venues in designated night economy promotion zones (夜間経済特区) in Shinsaibashi and Namba. The pilot allows 24-hour operation with enhanced noise management requirements. This aligns with the national government's strategy to boost inbound tourist spending and is linked to Expo 2025 preparation. Results will inform potential national regulatory reform.",
+      "penalty": "Venues in extended-hours zones violating noise or conduct conditions: zone status revoked; standard Nuisance Ordinance applies",
+      "exceptions": ["The extended hours apply only to businesses registered in the designated zone"],
+      "source": "https://www.city.osaka.lg.jp/",
+      "sourceLabel": "Osaka City — Night Economy Promotion Zone",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What national designation enabled Osaka to pilot extended bar/restaurant hours in 2023?",
+        "options": ["Tourism Special Economic Zone", "Night Economy Promotion Zone (夜間経済特区)", "Expo Support Zone", "Smart City Commerce Zone"],
+        "correct": 1,
+        "explanation": "Osaka's Night Economy Promotion Zone (夜間経済特区) designation in 2023 enabled pilot 24-hour business operations in Shinsaibashi and Namba, linked to Expo 2025 preparations."
+      }
+    }
+  ]
+}

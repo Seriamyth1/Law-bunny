@@ -1,0 +1,1883 @@
+{
+  "country": "Arkansas, USA",
+  "slug": "arkansas-usa",
+  "laws": [
+    {
+      "id": 36301,
+      "category": "traffic",
+      "severity": "medium",
+      "icon": "\ud83d\ude97",
+      "title": "Hands-Free Driving Law",
+      "subtitle": "AR Code \u00a727-51-1802 \u2014 No handheld devices while driving",
+      "fullDescription": "Arkansas prohibits holding or using handheld electronic devices while driving. The 2023 hands-free law bans all handheld device use while driving. Hands-free mode required.",
+      "penalty": "$25 first offense, $50 second, $100 third+.",
+      "exceptions": "Emergency 911 calls are exempt from hands-free requirements.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "27-51-1802",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Is handheld phone use banned while driving in Arkansas?",
+        "options": [
+          "Yes, statewide ban",
+          "No statewide ban",
+          "Only texting is banned",
+          "Only for teens"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas: Arkansas banned handheld device use while driving in 2023."
+      }
+    },
+    {
+      "id": 36302,
+      "category": "outdoors",
+      "severity": "medium",
+      "icon": "\ud83c\udfa3",
+      "title": "Non-Resident Hunting & Fishing License",
+      "subtitle": "Ark. Code Ann. \u00a715-42-105 \u2014 Non-residents must purchase licenses",
+      "fullDescription": "Non-residents must obtain a valid Arkansas hunting or fishing license before taking game or fish. Annual non-resident fishing licenses cost approximately $50; hunting licenses cost approximately $155. Some species require additional tags.",
+      "penalty": "Class B misdemeanor or felony; fines up to $500 plus equipment forfeiture.",
+      "exceptions": "Residents are exempt from non-resident fees.",
+      "source": "https://www.agfc.com",
+      "sourceLabel": "15-42-105",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "What is the penalty for hunting without a license in Arkansas?",
+        "options": [
+          "Class B misdemeanor",
+          "$25 civil fine",
+          "No penalty",
+          "Warning only"
+        ],
+        "correct": 0,
+        "explanation": "Hunting without a license in Arkansas is a Class B misdemeanor with fines up to $500."
+      }
+    },
+    {
+      "id": 36303,
+      "category": "traffic",
+      "severity": "high",
+      "icon": "\ud83c\udf7a",
+      "title": "Impaired Driving (DUI/DWI)",
+      "subtitle": "Ark. Code Ann. \u00a75-65-103 \u2014 0.08% BAC limit",
+      "fullDescription": "Arkansas prohibits operating a vehicle with a BAC of 0.08% or higher. Commercial drivers: 0.04%. Drivers under 21: 0.02 BAC. Arkansas also uses implied consent \u2014 refusal triggers automatic license suspension.",
+      "penalty": "First offense: $150\u2013$1,000 fine, 24\u201348 hours jail, 6-month license suspension. Subsequent offenses carry mandatory minimums and longer suspensions.",
+      "exceptions": "None \u2014 even prescription medication impairment can result in DUI charges.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "5-65-103",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "What BAC triggers a DUI in Arkansas for regular drivers?",
+        "options": [
+          "0.05%",
+          "0.08%",
+          "0.10%",
+          "0.12%"
+        ],
+        "correct": 1,
+        "explanation": "The legal BAC limit in Arkansas is 0.08% for regular drivers, consistent with all US states."
+      }
+    },
+    {
+      "id": 36304,
+      "category": "alcohol",
+      "severity": "medium",
+      "icon": "\ud83c\udf76",
+      "title": "Open Container Law",
+      "subtitle": "Ark. Code Ann. \u00a75-71-218 \u2014 No open alcohol in vehicles",
+      "fullDescription": "Arkansas prohibits open alcoholic beverage containers in the passenger area of motor vehicles on public roads. The law applies to both driver and passengers in private vehicles.",
+      "penalty": "$250 fine; applies to driver and passengers.",
+      "exceptions": "Passengers in for-hire vehicles (taxis, limos) may be exempt.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "5-71-218",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Can passengers drink alcohol in a private car in Arkansas?",
+        "options": [
+          "Yes, only passengers",
+          "Yes, under 0.08%",
+          "No, illegal for all",
+          "Yes, if in back seat"
+        ],
+        "correct": 2,
+        "explanation": "Arkansas's open container law applies to all vehicle occupants."
+      }
+    },
+    {
+      "id": 36305,
+      "category": "substances",
+      "severity": "medium",
+      "icon": "\ud83c\udf3f",
+      "title": "Recreational Cannabis \u2014 Not Legal",
+      "subtitle": "Ark. Code Ann. \u00a75-64-419 \u2014 Recreational cannabis is NOT legal",
+      "fullDescription": "Arkansas: Recreational cannabis is illegal in Arkansas. Possession of 4 oz or less is a misdemeanor. Medical cannabis is legal since Amendment 98 (2016).",
+      "penalty": "Possession up to 4 oz: Class A misdemeanor, up to 1 year. Over 4 oz: felony.",
+      "exceptions": "Medical patients with a valid registry ID card are exempt.",
+      "source": "https://www.healthy.arkansas.gov/programs-services/topics/medical-marijuana",
+      "sourceLabel": "5-64-419",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Is recreational cannabis legal in Arkansas?",
+        "options": [
+          "Yes, adults 21+",
+          "Yes, adults 18+",
+          "No, still illegal",
+          "Only medically"
+        ],
+        "correct": 3,
+        "explanation": "Recreational cannabis is not legal in Arkansas; only medical cannabis is permitted."
+      }
+    },
+    {
+      "id": 36306,
+      "category": "health",
+      "severity": "low",
+      "icon": "\ud83d\udc8a",
+      "title": "Medical Cannabis \u2014 Legal",
+      "subtitle": "Ark. Code Ann. \u00a720-56-212 \u2014 Medical cannabis program",
+      "fullDescription": "Arkansas has a medical cannabis program since 2016 (Amendment 98). Patients may possess up to 2.5 oz per 14 days. Dispensaries operate statewide.",
+      "penalty": "Non-patients possessing cannabis face criminal charges.",
+      "exceptions": "Registered patients are exempt from possession penalties.",
+      "source": "https://www.healthy.arkansas.gov/programs-services/topics/medical-marijuana",
+      "sourceLabel": "20-56-212",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have a medical cannabis program?",
+        "options": [
+          "Yes",
+          "No",
+          "Only CBD oil",
+          "Only terminally ill"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas has a medical cannabis program."
+      }
+    },
+    {
+      "id": 36307,
+      "category": "firearms",
+      "severity": "medium",
+      "icon": "\ud83d\udd2b",
+      "title": "Firearm Carry Law \u2014 Constitutional",
+      "subtitle": "Ark. Code Ann. \u00a75-73-120 \u2014 Constitutional state",
+      "fullDescription": "Arkansas is a constitutional state. Arkansas passed constitutional carry in 2013 (Act 746) allowing permitless carry for eligible adults. Permits still offered for reciprocity.",
+      "penalty": "Carrying while prohibited: Class B misdemeanor.",
+      "exceptions": "Firearms prohibited in schools, courts, and government buildings.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "5-73-120",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "What type of carry law does Arkansas have?",
+        "options": [
+          "Constitutional carry",
+          "Shall-issue permit",
+          "May-issue permit",
+          "No carry allowed"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas has constitutional \u2014 permitless carry for eligible adults; optional permits available for reciprocity"
+      }
+    },
+    {
+      "id": 36308,
+      "category": "firearms",
+      "severity": "high",
+      "icon": "\ud83d\udd12",
+      "title": "Background Check Requirements",
+      "subtitle": "Ark. Code Ann. \u00a718 USC 922 \u2014 Federal NICS checks at licensed dealers",
+      "fullDescription": "All firearm purchases from licensed dealers in Arkansas require a federal NICS background check. Arkansas does not require background checks for private-party gun sales.",
+      "penalty": "Straw purchases or sales to prohibited persons: federal felony up to 10 years.",
+      "exceptions": "Transfers between immediate family members may be exempt.",
+      "source": "https://www.atf.gov",
+      "sourceLabel": "18 USC 922",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas require background checks for private gun sales?",
+        "options": [
+          "Yes, all sales",
+          "No, only dealer sales",
+          "Yes, for handguns only",
+          "No checks at all"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas only requires background checks for licensed dealer gun sales."
+      }
+    },
+    {
+      "id": 36309,
+      "category": "criminal",
+      "severity": "high",
+      "icon": "\ud83c\udfe0",
+      "title": "Stand Your Ground / Castle Doctrine",
+      "subtitle": "Ark. Code Ann. \u00a75-2-607 \u2014 Stand Your Ground",
+      "fullDescription": "Arkansas has a Stand Your Ground law \u2014 no duty to retreat anywhere a person has a legal right to be before using force in self-defense.",
+      "penalty": "N/A \u2014 this law provides a defense against criminal charges.",
+      "exceptions": "Force not justified if defender is committing a crime or the intruder is a co-resident.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "5-2-607",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have a Stand Your Ground law?",
+        "options": [
+          "Yes",
+          "No \u2014 duty to retreat outside home",
+          "Only in the home (Castle Doctrine)",
+          "Only with a permit"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas: Arkansas has both Stand Your Ground and Castle Doctrine \u2014 no duty to retreat."
+      }
+    },
+    {
+      "id": 36310,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\ud83d\udcb5",
+      "title": "Minimum Wage Law",
+      "subtitle": "Ark. Code Ann. \u00a711-4-210 \u2014 $11.00/hour minimum wage",
+      "fullDescription": "Arkansas's minimum wage is $11.00/hour (2024). Arkansas minimum wage is $11.00/hour (2024), exceeding the federal $7.25.",
+      "penalty": "Employers violating minimum wage: back wages, double damages, and attorney fees.",
+      "exceptions": "Tipped employees may have a lower base wage if tips bring them to minimum wage.",
+      "source": "https://www.labor.arkansas.gov",
+      "sourceLabel": "11-4-210",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "What is the minimum wage in Arkansas?",
+        "options": [
+          "$11.00/hr",
+          "$10.00/hr",
+          "$7.25/hr (federal)",
+          "$15.00/hr"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas's minimum wage is $11.00/hour."
+      }
+    },
+    {
+      "id": 36311,
+      "category": "employment",
+      "severity": "low",
+      "icon": "\ud83d\udccb",
+      "title": "At-Will Employment",
+      "subtitle": "Ark. Code Ann. \u00a711-2-101 \u2014 Employment at will doctrine",
+      "fullDescription": "Arkansas follows at-will employment. Employers may terminate for any legal reason; employees may quit anytime. Arkansas is an at-will state with public policy and implied contract exceptions.",
+      "penalty": "N/A \u2014 at-will is the default standard.",
+      "exceptions": "Termination for illegal reasons (discrimination, retaliation) is prohibited.",
+      "source": "https://www.labor.arkansas.gov",
+      "sourceLabel": "11-2-101",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Can an Arkansas employer fire an employee without giving a reason?",
+        "options": [
+          "No, always need cause",
+          "Yes, under at-will",
+          "Only with 2 weeks notice",
+          "Only for performance"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas is an at-will employment state \u2014 employers may generally terminate without cause."
+      }
+    },
+    {
+      "id": 36312,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\ud83e\udd1d",
+      "title": "Right-to-Work Law \u2014 Yes",
+      "subtitle": "Ark. Code Ann. \u00a711-3-303 \u2014 Arkansas is a right-to-work state",
+      "fullDescription": "Arkansas is a right-to-work state. Arkansas passed right-to-work in 1944. Union membership cannot be required as a condition of employment.",
+      "penalty": "N/A \u2014 this governs labor relations framework.",
+      "exceptions": "Federal employees and some categories are governed by federal law.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "11-3-303",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Is Arkansas a right-to-work state?",
+        "options": [
+          "Yes",
+          "No",
+          "Only in public sector",
+          "Only in manufacturing"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas is a right-to-work state."
+      }
+    },
+    {
+      "id": 36313,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\ud83d\udcdd",
+      "title": "Non-Compete Agreement Enforceability",
+      "subtitle": "Ark. Code Ann. \u00a74-75-101 \u2014 Non-compete enforceability rules",
+      "fullDescription": "Arkansas: Arkansas courts enforce non-competes if reasonable in scope, duration (typically up to 2 years), and geographic area. Covenants protecting trade secrets are most upheld.",
+      "penalty": "Overly broad agreements may be voided or reformed by courts.",
+      "exceptions": "Agreements protecting legitimate trade secrets are most favored.",
+      "source": "https://www.arcourts.gov",
+      "sourceLabel": "4-75-101",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Are non-compete agreements automatically enforceable in Arkansas?",
+        "options": [
+          "Yes, if in writing",
+          "Courts review reasonableness",
+          "Yes, any length",
+          "Always void"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas: Courts assess reasonableness of scope, duration, and geography"
+      }
+    },
+    {
+      "id": 36314,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\ud83c\udfe5",
+      "title": "Paid Sick Leave \u2014 Not Required",
+      "subtitle": "Ark. Code Ann. \u00a711-4-210 \u2014 No statewide mandate",
+      "fullDescription": "Arkansas: Arkansas has no statewide paid sick leave requirement. Paid leave is at employer discretion.",
+      "penalty": "N/A \u2014 no mandate exists.",
+      "exceptions": "Independent contractors are generally not covered.",
+      "source": "https://www.labor.arkansas.gov",
+      "sourceLabel": "11-4-210",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas require employers to provide paid sick leave?",
+        "options": [
+          "Yes, statewide mandate",
+          "No \u2014 employer discretion",
+          "Only for large employers",
+          "Only for public employees"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas: Arkansas has no statewide paid sick leave mandate \u2014 employers set their own policies."
+      }
+    },
+    {
+      "id": 36315,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\ud83d\udcca",
+      "title": "Unemployment Insurance",
+      "subtitle": "Ark. Code Ann. \u00a711-10-501 \u2014 Unemployment benefits",
+      "fullDescription": "Arkansas unemployment insurance provides benefits to eligible workers. Maximum weekly benefit: $451 for up to 16 weeks. Workers must have earned at least $1,000 in the base period.",
+      "penalty": "Filing fraudulent claims: repayment plus penalties and possible criminal charges.",
+      "exceptions": "Self-employed and independent contractors are generally ineligible for regular UI.",
+      "source": "https://www.dws.arkansas.gov",
+      "sourceLabel": "11-10-501",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "What is the maximum weekly unemployment benefit in Arkansas?",
+        "options": [
+          "$351",
+          "$451",
+          "$551",
+          "No limit"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas's maximum weekly unemployment benefit is $451."
+      }
+    },
+    {
+      "id": 36316,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\ud83e\uddba",
+      "title": "Workers' Compensation",
+      "subtitle": "Ark. Code Ann. \u00a711-9-401 \u2014 Mandatory workers' comp coverage",
+      "fullDescription": "Arkansas requires employers with 3 or more employees to carry workers' compensation insurance. Covers medical costs and lost wages for work-related injuries.",
+      "penalty": "Employers without coverage: fines up to $10,000/day, personal liability for claims.",
+      "exceptions": "Sole proprietors and some domestic workers may be exempt.",
+      "source": "https://www.labor.arkansas.gov",
+      "sourceLabel": "11-9-401",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "How many employees trigger workers' comp requirements in Arkansas?",
+        "options": [
+          "1 or more",
+          "3 or more",
+          "3 or more",
+          "10 or more"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas requires workers' comp for employers with 3 or more employees."
+      }
+    },
+    {
+      "id": 36317,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\ud83d\udc77",
+      "title": "Independent Contractor Classification",
+      "subtitle": "Ark. Code Ann. \u00a711-10-210 \u2014 Worker classification rules",
+      "fullDescription": "Arkansas uses Common law control test to classify workers. Arkansas uses the common law control test for worker classification.",
+      "penalty": "Misclassification: back taxes, penalties, and retroactive benefits liability.",
+      "exceptions": "Licensed professionals may have different classification standards.",
+      "source": "https://www.labor.arkansas.gov",
+      "sourceLabel": "11-10-210",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "What test does Arkansas use for worker classification?",
+        "options": [
+          "Economic reality test",
+          "ABC test",
+          "IRS 20-factor test",
+          "Common law control test"
+        ],
+        "correct": 3,
+        "explanation": "Arkansas uses the Common law control test for worker classification."
+      }
+    },
+    {
+      "id": 36318,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\ud83d\udc66",
+      "title": "Child Labor Laws",
+      "subtitle": "Ark. Code Ann. \u00a711-6-101 \u2014 Restrictions on youth employment",
+      "fullDescription": "Arkansas restricts employment of minors. Children under 14: very limited jobs only. Ages 14\u201315: restricted hours. Most minors under 18 need work permits. Arkansas allows 14-15 year olds to work limited hours outside school; 16-17 have fewer restrictions.",
+      "penalty": "Employers violating child labor laws: fines up to $10,000 per violation.",
+      "exceptions": "Family farms and limited entertainment work have exemptions.",
+      "source": "https://www.labor.arkansas.gov",
+      "sourceLabel": "11-6-101",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "At what age do minors generally need work permits in Arkansas?",
+        "options": [
+          "Under 14",
+          "Under 16",
+          "Under 18",
+          "Under 21"
+        ],
+        "correct": 2,
+        "explanation": "Most Arkansas minors under 18 need work permits for regular employment."
+      }
+    },
+    {
+      "id": 36319,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\u2696\ufe0f",
+      "title": "Equal Pay Act",
+      "subtitle": "Ark. Code Ann. \u00a716-123-107 \u2014 Equal pay for equal work",
+      "fullDescription": "Arkansas prohibits pay discrimination based on sex for substantially equal work. Arkansas Civil Rights Act prohibits pay discrimination based on sex.",
+      "penalty": "Back pay, compensatory damages, and attorney fees for violations.",
+      "exceptions": "Pay differences justified by seniority, merit, or non-sex factors are permitted.",
+      "source": "https://www.ag.arkansas.gov",
+      "sourceLabel": "16-123-107",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "What agency enforces equal pay laws in Arkansas?",
+        "options": [
+          "Arkansas Civil Rights Division",
+          "EEOC only",
+          "State Labor Department",
+          "Department of Commerce"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas's civil rights agency and the federal EEOC both enforce equal pay laws."
+      }
+    },
+    {
+      "id": 36320,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "title": "Anti-Discrimination in Employment",
+      "subtitle": "Ark. Code Ann. \u00a716-123-107 \u2014 Protected classes in Arkansas",
+      "fullDescription": "Arkansas prohibits employment discrimination based on race, religion, color, national origin, sex, and disability. Sexual orientation and gender identity are NOT explicitly protected in Arkansas state law (only federal Bostock applies).",
+      "penalty": "Compensatory damages, back pay, reinstatement, and attorney fees.",
+      "exceptions": "Religious organizations may have limited exemptions for certain positions.",
+      "source": "https://www.ag.arkansas.gov",
+      "sourceLabel": "16-123-107",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "How many employees must an Arkansas employer have before anti-discrimination laws apply?",
+        "options": [
+          "15 or more",
+          "9 or more",
+          "1 or more",
+          "50 or more"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas anti-discrimination laws apply to employers with 9 or more employees."
+      }
+    },
+    {
+      "id": 36321,
+      "category": "housing",
+      "severity": "medium",
+      "icon": "\ud83d\udd11",
+      "title": "Landlord Entry Notice Requirement",
+      "subtitle": "Ark. Code Ann. \u00a718-17-602 \u2014 24-hour notice required",
+      "fullDescription": "Arkansas landlords must give tenants 24 hours' written notice before entering for non-emergency purposes. Emergency entry without notice is allowed.",
+      "penalty": "Unlawful entry may entitle tenant to damages or lease termination.",
+      "exceptions": "Emergencies (fire, flood, imminent harm) allow immediate entry without notice.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "18-17-602",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "How many hours notice must Arkansas landlords give before entering?",
+        "options": [
+          "12 hours",
+          "24 hours",
+          "48 hours",
+          "72 hours"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas landlords must give 24 hours' notice before non-emergency entry."
+      }
+    },
+    {
+      "id": 36322,
+      "category": "housing",
+      "severity": "medium",
+      "icon": "\ud83d\udcb0",
+      "title": "Security Deposit Rules",
+      "subtitle": "Ark. Code Ann. \u00a718-17-501 \u2014 Two months' rent maximum deposit",
+      "fullDescription": "Arkansas: Maximum security deposit is Two months' rent. Deposits must be returned within 30 days of move-out with an itemized statement of deductions.",
+      "penalty": "Landlord who wrongfully withholds deposit may owe double damages plus attorney fees.",
+      "exceptions": "Deposits for pets may be separate in some cases.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "18-17-501",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "How many days does a Arkansas landlord have to return a security deposit?",
+        "options": [
+          "30 days",
+          "44 days",
+          "60 days",
+          "90 days"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas landlords have 30 days to return security deposits after move-out."
+      }
+    },
+    {
+      "id": 36323,
+      "category": "housing",
+      "severity": "low",
+      "icon": "\ud83c\udfd8\ufe0f",
+      "title": "Rent Control Status \u2014 Not Statewide",
+      "subtitle": "Ark. Code Ann. \u00a714-16-601 \u2014 No statewide rent control; municipalities preempted",
+      "fullDescription": "Arkansas: Arkansas preempts local rent control \u2014 municipalities cannot enact rent stabilization.",
+      "penalty": "N/A \u2014 this is a policy/regulatory matter.",
+      "exceptions": "Federally subsidized housing has separate rent rules.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "14-16-601",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have statewide rent control?",
+        "options": [
+          "Yes, statewide",
+          "No \u2014 prohibited or no law",
+          "Only in major cities",
+          "Yes, for older buildings"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas: Arkansas state law prohibits local rent control ordinances."
+      }
+    },
+    {
+      "id": 36324,
+      "category": "housing",
+      "severity": "medium",
+      "icon": "\ud83c\udfe0",
+      "title": "Eviction Process & Tenant Protections",
+      "subtitle": "Ark. Code Ann. \u00a718-17-901 \u2014 Notice and court process required",
+      "fullDescription": "Arkansas landlords must provide: 3 days notice for nonpayment; 14 days for violations; 30 days for no-cause termination. Court filing required after notice expires.",
+      "penalty": "Self-help eviction (changing locks, removing belongings) is illegal.",
+      "exceptions": "Emergency situations may allow expedited proceedings.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "18-17-901",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "How many days notice for non-payment of rent before eviction in Arkansas?",
+        "options": [
+          "3 days",
+          "7 days",
+          "10 days",
+          "30 days"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas requires 3 days notice for nonpayment of rent before filing for eviction."
+      }
+    },
+    {
+      "id": 36325,
+      "category": "housing",
+      "severity": "medium",
+      "icon": "\ud83c\udfe1",
+      "title": "Short-Term Rental (STR) Regulations",
+      "subtitle": "Local codes \u2014 Varies by city",
+      "fullDescription": "Arkansas: STR regulations vary by municipality. Little Rock and Fayetteville have local ordinances.",
+      "penalty": "Operating without required licenses: fines and possible closure.",
+      "exceptions": "Owner-occupied properties renting a single room may have reduced requirements.",
+      "source": "https://www.littlerock.gov",
+      "sourceLabel": "Local STR Codes",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Are short-term rentals (Airbnb) regulated in Arkansas?",
+        "options": [
+          "No regulations",
+          "Yes, varies by city/locality",
+          "Banned statewide",
+          "Only in cities over 100K"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas regulates STRs primarily at the local level with varying requirements by city."
+      }
+    },
+    {
+      "id": 36326,
+      "category": "tax",
+      "severity": "medium",
+      "icon": "\ud83c\udfe0",
+      "title": "Property Tax",
+      "subtitle": "Local codes \u2014 Average 0.62% effective rate",
+      "fullDescription": "Arkansas: Average effective property tax rate is approximately 0.62%. Arkansas has one of the lowest property tax rates in the US.",
+      "penalty": "Delinquent taxes accrue interest and may result in tax lien or foreclosure.",
+      "exceptions": "Senior citizens and disabled veterans often receive exemptions. Homestead exemption reduces assessed value.",
+      "source": "https://www.dfa.arkansas.gov",
+      "sourceLabel": "State Revenue Dept.",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "What is the approximate average effective property tax rate in Arkansas?",
+        "options": [
+          "0.62%",
+          "1.1%",
+          "0.1%",
+          "No property tax"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas's average effective property tax rate is approximately 0.62%."
+      }
+    },
+    {
+      "id": 36327,
+      "category": "tax",
+      "severity": "low",
+      "icon": "\ud83c\udfe1",
+      "title": "Homestead Exemption",
+      "subtitle": "Ark. Code Ann. \u00a726-26-1118 \u2014 Up to $375 credit on assessed value homestead exemption",
+      "fullDescription": "Arkansas: Arkansas homestead exemption provides a property tax credit, not an exemption on full assessed value.",
+      "penalty": "N/A \u2014 this is a protection for homeowners.",
+      "exceptions": "Does not protect against tax liens, mortgage foreclosures, or mechanic's liens.",
+      "source": "https://www.dfa.arkansas.gov",
+      "sourceLabel": "26-26-1118",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "What is Arkansas's homestead exemption?",
+        "options": [
+          "Up to $375 credit on assessed value",
+          "No exemption",
+          "$25,000",
+          "$500,000"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas's homestead exemption is Up to $375 credit on assessed value."
+      }
+    },
+    {
+      "id": 36328,
+      "category": "tax",
+      "severity": "high",
+      "icon": "\ud83d\udcb2",
+      "title": "State Income Tax \u2014 Yes \u2014 graduated rates",
+      "subtitle": "Ark. Code Ann. \u00a726-51-101 \u2014 Yes \u2014 graduated rates",
+      "fullDescription": "Arkansas: Arkansas has a graduated income tax with rates from 2% to 4.9% (2024). Top rate significantly reduced from 5.9% in recent years.",
+      "penalty": "Tax evasion: civil penalties, back taxes, and possible criminal charges.",
+      "exceptions": "Federal income taxes apply to all residents regardless of state income tax.",
+      "source": "https://www.dfa.arkansas.gov",
+      "sourceLabel": "26-51-101",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have a state income tax?",
+        "options": [
+          "No",
+          "Yes, flat rate",
+          "Yes, graduated rates",
+          "Only on investment income"
+        ],
+        "correct": 2,
+        "explanation": "Arkansas: Arkansas has a graduated income tax up to 4.9%."
+      }
+    },
+    {
+      "id": 36329,
+      "category": "tax",
+      "severity": "low",
+      "icon": "\ud83d\uded2",
+      "title": "Sales Tax Rate",
+      "subtitle": "Ark. Code Ann. \u00a726-52-101 \u2014 6.5% statewide sales tax",
+      "fullDescription": "Arkansas has a 6.5% statewide sales tax. Local taxes add an average of 2.1%, making combined rates about 8.6%. Combined state and local rates average 8.6%.",
+      "penalty": "Tax evasion: civil penalties and criminal charges for substantial violations.",
+      "exceptions": "Exempt items typically include: Prescription drugs and groceries are taxed at a lower rate..",
+      "source": "https://www.dfa.arkansas.gov",
+      "sourceLabel": "26-52-101",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "What is the statewide sales tax rate in Arkansas?",
+        "options": [
+          "6.5%",
+          "7.5%",
+          "5.5%",
+          "No sales tax"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas's statewide sales tax is 6.5%."
+      }
+    },
+    {
+      "id": 36330,
+      "category": "tax",
+      "severity": "low",
+      "icon": "\u26b0\ufe0f",
+      "title": "Estate / Inheritance Tax \u2014 No",
+      "subtitle": "Ark. Code Ann. \u00a726-59-101 \u2014 No state estate tax",
+      "fullDescription": "Arkansas: Arkansas repealed its state estate tax. Only federal estate tax applies.",
+      "penalty": "N/A \u2014 federal estate tax applies to all US residents with large estates.",
+      "exceptions": "Federal estate tax applies to estates over $13 million (2024).",
+      "source": "https://www.dfa.arkansas.gov",
+      "sourceLabel": "26-59-101",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have a state estate or inheritance tax?",
+        "options": [
+          "Yes",
+          "No",
+          "Only inheritance tax",
+          "Only on estates over $5M"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas: Arkansas has no state estate tax."
+      }
+    },
+    {
+      "id": 36331,
+      "category": "health",
+      "severity": "medium",
+      "icon": "\ud83d\udead",
+      "title": "Smoke-Free Workplace Law",
+      "subtitle": "Ark. Code Ann. \u00a720-27-502 \u2014 Clean Air Act / Smoke-Free law",
+      "fullDescription": "Arkansas prohibits smoking in most indoor workplaces, restaurants, and public places under the Clean Indoor Air Act of 2006.",
+      "penalty": "Violation: $100\u2013$500 per incident for individuals.",
+      "exceptions": "Some private clubs and outdoor areas may be exempt.",
+      "source": "https://www.healthy.arkansas.gov",
+      "sourceLabel": "20-27-502",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Is smoking banned in workplaces and restaurants in Arkansas?",
+        "options": [
+          "Yes, comprehensive ban",
+          "Partial ban \u2014 some exemptions",
+          "No statewide law",
+          "Only in government buildings"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas: Arkansas has comprehensive smoke-free workplace laws for most indoor spaces."
+      }
+    },
+    {
+      "id": 36332,
+      "category": "traffic",
+      "severity": "medium",
+      "icon": "\ud83e\ude96",
+      "title": "Motorcycle Helmet Law",
+      "subtitle": "Ark. Code Ann. \u00a727-20-104 \u2014 Helmets required for all riders",
+      "fullDescription": "Arkansas: Arkansas requires helmets for all motorcycle operators and passengers regardless of age.",
+      "penalty": "Helmet violation: $100 fine.",
+      "exceptions": "N/A \u2014 all riders must wear helmets.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "27-20-104",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Who must wear a motorcycle helmet in Arkansas?",
+        "options": [
+          "All riders",
+          "Only riders under 18",
+          "Only riders under 21",
+          "No requirement"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas: Arkansas requires helmets for all motorcycle riders."
+      }
+    },
+    {
+      "id": 36333,
+      "category": "traffic",
+      "severity": "medium",
+      "icon": "\ud83d\udcba",
+      "title": "Seatbelt Law",
+      "subtitle": "Ark. Code Ann. \u00a727-37-702 \u2014 Mandatory seatbelts",
+      "fullDescription": "Arkansas requires all front-seat occupants to wear seatbelts. All passengers under 15 must be buckled. Children under 8 or under 60 lbs must be in child safety seats.",
+      "penalty": "$25 fine for violations; higher for child restraint violations.",
+      "exceptions": "Some commercial vehicles and emergency situations may have limited exemptions.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "27-37-702",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Is the seatbelt law a primary offense in Arkansas?",
+        "options": [
+          "Yes, police can stop for seatbelt alone",
+          "No, secondary offense only",
+          "Only for the driver",
+          "Only on highways"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas's seatbelt law is a primary enforcement offense."
+      }
+    },
+    {
+      "id": 36334,
+      "category": "traffic",
+      "severity": "medium",
+      "icon": "\ud83d\ude80",
+      "title": "Speed Limits",
+      "subtitle": "Ark. Code Ann. \u00a727-51-601 \u2014 Statutory speed limits",
+      "fullDescription": "Arkansas: Residential: 30 mph; highways: 65 mph; interstates: 70 mph; school zones: 25 mph. Arkansas maximum interstate speed is 75 mph in some rural areas.",
+      "penalty": "Speeding fines start at $50 and increase with severity; reckless driving is a criminal charge.",
+      "exceptions": "Emergency vehicles are exempt when responding.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "27-51-601",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "What is the interstate speed limit in Arkansas?",
+        "options": [
+          "70 mph",
+          "65 mph",
+          "75 mph",
+          "No posted limit"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas's standard interstate speed limit is 70 mph."
+      }
+    },
+    {
+      "id": 36335,
+      "category": "traffic",
+      "severity": "medium",
+      "icon": "\ud83d\udcf1",
+      "title": "Texting While Driving",
+      "subtitle": "Ark. Code Ann. \u00a727-51-1802 \u2014 Hands-free law \u2014 all handheld use banned",
+      "fullDescription": "Arkansas: Arkansas bans all handheld device use while driving (texting, calling, browsing).",
+      "penalty": "First offense: $25; repeat: $100.",
+      "exceptions": "Emergency 911 calls are permitted while driving.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "27-51-1802",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Is texting while driving banned in Arkansas?",
+        "options": [
+          "Yes, all handheld use banned",
+          "Only texting banned",
+          "Only for new drivers",
+          "No ban"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas: Arkansas banned all handheld device use while driving (2023)."
+      }
+    },
+    {
+      "id": 36336,
+      "category": "traffic",
+      "severity": "medium",
+      "icon": "\ud83d\ude94",
+      "title": "DUI Checkpoint Legality",
+      "subtitle": "Ark. Code Ann. \u00a727-24-201 \u2014 Sobriety checkpoints permitted",
+      "fullDescription": "DUI sobriety checkpoints are legal in Arkansas. DUI checkpoints are legal in Arkansas when conducted with proper procedures and public notice.",
+      "penalty": "N/A \u2014 this defines when checkpoints are legal.",
+      "exceptions": "Checkpoints must follow established procedures to be constitutional.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "27-24-201",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Are DUI sobriety checkpoints legal in Arkansas?",
+        "options": [
+          "Yes, with proper procedures",
+          "No \u2014 illegal under state law",
+          "Only on state highways",
+          "Only during holidays"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas: DUI checkpoints are legal with proper procedures."
+      }
+    },
+    {
+      "id": 36337,
+      "category": "traffic",
+      "severity": "medium",
+      "icon": "\ud83d\udea8",
+      "title": "Move Over Law",
+      "subtitle": "Ark. Code Ann. \u00a727-51-308 \u2014 Slow or move over for emergency vehicles",
+      "fullDescription": "Arkansas's Move Over Law requires drivers to change lanes or slow down when passing stopped emergency vehicles and tow trucks and highway maintenance vehicles with flashing lights on the roadway or shoulder.",
+      "penalty": "Violation: $500 fine; if injury or death results, criminal charges may apply.",
+      "exceptions": "Required only when safe to do so without creating greater hazard.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "27-51-308",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas's Move Over Law cover tow trucks?",
+        "options": [
+          "No, only police and fire",
+          "Yes, tow trucks are covered",
+          "Only on freeways",
+          "Only if lights are blue"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas's Move Over Law covers tow trucks."
+      }
+    },
+    {
+      "id": 36338,
+      "category": "traffic",
+      "severity": "medium",
+      "icon": "\ud83d\udcf5",
+      "title": "Cell Phone Use While Driving",
+      "subtitle": "Ark. Code Ann. \u00a727-51-1802 \u2014 Handheld device restrictions",
+      "fullDescription": "Beyond texting, Arkansas bans all handheld device use (2023 law), including calls, texting, and browsing. Hands-free only.",
+      "penalty": "Fines range from $25 to $100.",
+      "exceptions": "Hands-free calls and navigation use are generally permitted.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "27-51-1802",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Can drivers make calls on a handheld phone while driving in Arkansas?",
+        "options": [
+          "Yes, calls are fine",
+          "No \u2014 all handheld use banned",
+          "Only on highways",
+          "Only at red lights"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas: Arkansas bans all handheld phone use while driving, including hands-held calls."
+      }
+    },
+    {
+      "id": 36339,
+      "category": "civic",
+      "severity": "low",
+      "icon": "\ud83d\uddf3\ufe0f",
+      "title": "Age of Majority",
+      "subtitle": "Ark. Code Ann. \u00a79-25-101 \u2014 Age 18 is legal adulthood",
+      "fullDescription": "In Arkansas, the age of majority is 18. At 18, residents gain the right to vote, enter contracts, and make their own legal decisions. Minors may be emancipated by court order. Age-specific restrictions (alcohol, cannabis) still apply.",
+      "penalty": "N/A \u2014 this defines civil rights.",
+      "exceptions": "Some rights have higher age thresholds: alcohol (21), cannabis where legal (21).",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "9-25-101",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "What is the age of majority in Arkansas?",
+        "options": [
+          "16",
+          "17",
+          "18",
+          "21"
+        ],
+        "correct": 2,
+        "explanation": "Arkansas's age of majority is 18, consistent with most US states."
+      }
+    },
+    {
+      "id": 36340,
+      "category": "civic",
+      "severity": "medium",
+      "icon": "\ud83d\uddf3\ufe0f",
+      "title": "Voting Rights & Restoration",
+      "subtitle": "Ark. Code Ann. \u00a77-5-201 \u2014 Voter eligibility and felon restoration",
+      "fullDescription": "Arkansas: Felons lose voting rights during incarceration and parole/probation. Rights are automatically restored upon completion of full sentence.",
+      "penalty": "Voting while ineligible (while incarcerated): criminal charge.",
+      "exceptions": "Mentally incapacitated persons adjudicated incompetent may lose voting rights.",
+      "source": "https://www.sos.arkansas.gov",
+      "sourceLabel": "7-5-201",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "When are voting rights restored to a felon in Arkansas?",
+        "options": [
+          "After 5 years post-sentence",
+          "Automatically after completing sentence",
+          "Automatically after prison only",
+          "Must petition the governor",
+          "auto-full"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas: Voting rights restored automatically after completing full sentence including parole."
+      }
+    },
+    {
+      "id": 36341,
+      "category": "civic",
+      "severity": "low",
+      "icon": "\u2696\ufe0f",
+      "title": "Jury Duty Requirements",
+      "subtitle": "Ark. Code Ann. \u00a716-31-201 \u2014 Jury service",
+      "fullDescription": "Arkansas citizens who are US citizens, 18+, registered voters (or driver's license holders) may be called for jury duty. Jurors receive $50/day. Employers must allow employees to serve.",
+      "penalty": "Willfully ignoring a jury summons: contempt of court, fines up to $500.",
+      "exceptions": "Exemptions include active military, police, extreme hardship, and some medical conditions.",
+      "source": "https://courts.arkansas.gov",
+      "sourceLabel": "16-31-201",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "What is the daily pay for jurors in Arkansas?",
+        "options": [
+          "$50",
+          "$0 \u2014 voluntary",
+          "$50",
+          "$100"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas jurors receive $50 per day for service."
+      }
+    },
+    {
+      "id": 36342,
+      "category": "family",
+      "severity": "high",
+      "icon": "\ud83e\uddd2",
+      "title": "Mandatory Reporting of Child Abuse",
+      "subtitle": "Ark. Code Ann. \u00a712-18-402 \u2014 Mandatory reporters",
+      "fullDescription": "Arkansas: Arkansas requires certain professionals (teachers, doctors, social workers, law enforcement, etc.) to report suspected child abuse. Not a universal reporter state. Reports must be made to child protective services or law enforcement. Good-faith reporters are protected from liability.",
+      "penalty": "Failure to report known child abuse: Class A misdemeanor.",
+      "exceptions": "Attorney-client privilege may apply in limited circumstances.",
+      "source": "https://www.dhs.arkansas.gov",
+      "sourceLabel": "12-18-402",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Who must report suspected child abuse in Arkansas?",
+        "options": [
+          "Only teachers",
+          "Only doctors and social workers",
+          "Only licensed professionals",
+          "Designated mandatory reporters (teachers, medical, etc.)"
+        ],
+        "correct": 3,
+        "explanation": "Arkansas: Arkansas requires designated professionals to report suspected child abuse."
+      }
+    },
+    {
+      "id": 36343,
+      "category": "criminal",
+      "severity": "high",
+      "icon": "\ud83d\udd1e",
+      "title": "Age of Consent",
+      "subtitle": "Ark. Code Ann. \u00a75-14-125 \u2014 Age of consent is 16",
+      "fullDescription": "Arkansas's age of consent is 16. Sexual activity with a person under 16 by someone 3+ years older is a crime. Sex offenders must register with the state registry.",
+      "penalty": "Sexual abuse of a minor: Class A felony with mandatory sex offender registration..",
+      "exceptions": "Romeo and Juliet provision: Close-in-age exemption applies for persons within 3 years of age..",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "5-14-125",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "What is the age of consent in Arkansas?",
+        "options": [
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
+        ],
+        "correct": 2,
+        "explanation": "Arkansas's age of consent is 16."
+      }
+    },
+    {
+      "id": 36344,
+      "category": "family",
+      "severity": "medium",
+      "icon": "\u2696\ufe0f",
+      "title": "Emancipation of Minors",
+      "subtitle": "Ark. Code Ann. \u00a79-27-362 \u2014 Court-ordered emancipation",
+      "fullDescription": "Arkansas allows minors aged 16+ to petition for emancipation, granting adult legal status. The court considers whether it's in the minor's best interests and whether the minor can support themselves.",
+      "penalty": "N/A \u2014 emancipation is a civil court process.",
+      "exceptions": "Emancipation does not override minimum age laws for alcohol, cannabis, or voting.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "9-27-362",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "At what minimum age can a minor petition for emancipation in Arkansas?",
+        "options": [
+          "14",
+          "15",
+          "16",
+          "17"
+        ],
+        "correct": 2,
+        "explanation": "Arkansas allows minors aged 16+ to petition for emancipation."
+      }
+    },
+    {
+      "id": 36345,
+      "category": "family",
+      "severity": "low",
+      "icon": "\ud83c\udf19",
+      "title": "Curfew Laws for Minors",
+      "subtitle": "Local codes \u2014 Local ordinances only",
+      "fullDescription": "Arkansas: No statewide curfew. Municipalities set their own curfew ordinances. Little Rock has a midnight curfew for minors under 18.",
+      "penalty": "Curfew violation: minor taken into custody and released to parents; parents may face fines.",
+      "exceptions": "Minors with employment, parental supervision, or school activities are typically exempt.",
+      "source": "https://www.littlerock.gov",
+      "sourceLabel": "Local Municipal Code",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have a statewide youth curfew?",
+        "options": [
+          "Yes \u2014 statewide midnight curfew",
+          "No \u2014 local municipalities set curfews",
+          "Yes \u2014 10 PM statewide",
+          "No curfews anywhere"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas: Arkansas has no statewide curfew; local municipalities set their own rules."
+      }
+    },
+    {
+      "id": 36346,
+      "category": "education",
+      "severity": "medium",
+      "icon": "\ud83d\udc4b",
+      "title": "Corporal Punishment in Schools",
+      "subtitle": "Ark. Code Ann. \u00a76-18-505 \u2014 Corporal punishment permitted",
+      "fullDescription": "Arkansas: Arkansas permits corporal punishment in public schools (one of fewer than 20 states that still allows it). Must be reasonable and administered by authorized personnel.",
+      "penalty": "Educators using prohibited corporal punishment face administrative discipline and potential criminal charges.",
+      "exceptions": "Physical restraint to prevent imminent harm is permitted.",
+      "source": "https://www.arkansased.gov",
+      "sourceLabel": "6-18-505",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Is corporal punishment allowed in Arkansas public schools?",
+        "options": [
+          "Yes \u2014 legal and used",
+          "Yes \u2014 legal but rarely used",
+          "No \u2014 prohibited statewide",
+          "Only with parental consent"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas: Arkansas is one of the few states that still permits corporal punishment in public schools."
+      }
+    },
+    {
+      "id": 36347,
+      "category": "education",
+      "severity": "low",
+      "icon": "\ud83d\udcda",
+      "title": "Homeschooling Regulations",
+      "subtitle": "Ark. Code Ann. \u00a76-15-501 \u2014 Homeschooling requirements",
+      "fullDescription": "Arkansas: Families must file a notice of intent to homeschool with the local district, cover required subjects (English, math, science, social studies, etc.), and submit annual assessments.",
+      "penalty": "Failure to provide required education: mandatory enrollment in public school.",
+      "exceptions": "Some states have additional oversight or assessment requirements.",
+      "source": "https://www.arkansased.gov",
+      "sourceLabel": "6-15-501",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have strict homeschooling regulations?",
+        "options": [
+          "Yes \u2014 high regulation",
+          "Moderate regulation",
+          "Low regulation \u2014 minimal oversight",
+          "Illegal"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas has moderate-regulation homeschooling with annual notice, required subjects, and annual assessments."
+      }
+    },
+    {
+      "id": 36348,
+      "category": "health",
+      "severity": "medium",
+      "icon": "\ud83d\udc89",
+      "title": "School Vaccination Requirements",
+      "subtitle": "Ark. Code Ann. \u00a76-18-702 \u2014 Required vaccinations for school entry",
+      "fullDescription": "Arkansas requires students to be vaccinated against standard childhood diseases for school entry. Students must be vaccinated or have a qualified exemption. Arkansas allows religious and medical exemptions.",
+      "penalty": "Unvaccinated students without exemptions may be excluded from school.",
+      "exceptions": "Exemptions available: medical and religious exemptions.",
+      "source": "https://www.healthy.arkansas.gov",
+      "sourceLabel": "6-18-702",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Can Arkansas parents claim a philosophical exemption from school vaccinations?",
+        "options": [
+          "Yes",
+          "No \u2014 only medical exemptions",
+          "No exemptions allowed",
+          "Yes, but only religious"
+        ],
+        "correct": 3,
+        "explanation": "Arkansas vaccination exemptions: medical and religious exemptions."
+      }
+    },
+    {
+      "id": 36349,
+      "category": "health",
+      "severity": "high",
+      "icon": "\ud83c\udfe5",
+      "title": "Abortion Laws",
+      "subtitle": "Ark. Code Ann. \u00a75-61-202 \u2014 Near-total abortion ban",
+      "fullDescription": "Arkansas: Arkansas has a near-total abortion ban (Act 180 of 2021) with very limited exceptions. The ban took effect after Dobbs v. Jackson Women's Health Organization (2022). Abortions are only permitted to save the life of the mother.",
+      "penalty": "Performing an abortion: Class D felony (up to 6 years).",
+      "exceptions": "Medical emergencies to save the life of the mother are typically exempt.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "5-61-202",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "What is the gestational limit on abortion in Arkansas?",
+        "options": [
+          "Banned except life of mother",
+          "Up to 12 weeks",
+          "Up to 20 weeks",
+          "Legal through 3rd trimester"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas: Arkansas has a near-total abortion ban with only a narrow exception to save the mother's life."
+      }
+    },
+    {
+      "id": 36350,
+      "category": "criminal",
+      "severity": "high",
+      "icon": "\u26a1",
+      "title": "Death Penalty \u2014 Authorized",
+      "subtitle": "Ark. Code Ann. \u00a75-4-617 \u2014 Death penalty status",
+      "fullDescription": "Arkansas has the death penalty. Arkansas authorizes the death penalty for capital murder. After a long pause, Arkansas carried out executions in 2017.",
+      "penalty": "Death penalty crimes: Capital murder.",
+      "exceptions": "Federal death penalty may apply to federal crimes regardless of state law.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "5-4-617",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have the death penalty?",
+        "options": [
+          "Yes",
+          "No \u2014 abolished",
+          "Moratorium only",
+          "Only for terrorism"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas: Arkansas has the death penalty; capital murder is punishable by death."
+      }
+    },
+    {
+      "id": 36351,
+      "category": "health",
+      "severity": "high",
+      "icon": "\ud83d\udc8a",
+      "title": "Medical Aid in Dying (MAID)",
+      "subtitle": "Ark. Code Ann. \u00a75-10-106 \u2014 Assisted suicide is illegal",
+      "fullDescription": "Arkansas: Medical aid in dying is not legal in Arkansas. Assisting a suicide is a Class C felony.",
+      "penalty": "Assisting a suicide: Class C felony (up to 10 years).",
+      "exceptions": "Withdrawal of life support and palliative sedation are legal with patient consent everywhere.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "5-10-106",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Is medical aid in dying (assisted suicide) legal in Arkansas?",
+        "options": [
+          "Yes",
+          "No",
+          "Only in extreme cases",
+          "Only with family consent"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas: Medical aid in dying is illegal in Arkansas."
+      }
+    },
+    {
+      "id": 36352,
+      "category": "substances",
+      "severity": "medium",
+      "icon": "\ud83d\udc8a",
+      "title": "Drug Penalties (Non-Cannabis)",
+      "subtitle": "Ark. Code Ann. \u00a75-64-419 \u2014 Controlled Substances Act",
+      "fullDescription": "Arkansas controlled substance penalties: Schedule I possession (heroin, meth, cocaine) is a Class A or B felony. Drug courts and diversion programs are available for first-time offenders.",
+      "penalty": "Possession of hard drugs: Class A or B felony (up to 20 years depending on schedule). Distribution/manufacture: Class A or Y felony (up to life for schedule I distribution).",
+      "exceptions": "Prescribed medications used as directed are exempt.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "5-64-419",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Is simple drug possession a felony in Arkansas?",
+        "options": [
+          "Yes, for all hard drugs",
+          "Only for large amounts",
+          "No \u2014 only misdemeanor",
+          "Depends on the substance"
+        ],
+        "correct": 3,
+        "explanation": "Arkansas: Arkansas drug penalties vary by schedule \u2014 possession of hard drugs is a Class A or B felony."
+      }
+    },
+    {
+      "id": 36353,
+      "category": "criminal",
+      "severity": "medium",
+      "icon": "\ud83d\udcbc",
+      "title": "Asset Forfeiture Laws",
+      "subtitle": "Ark. Code Ann. \u00a75-64-505 \u2014 Civil asset forfeiture",
+      "fullDescription": "Arkansas: Arkansas allows civil asset forfeiture for drug crimes and some other offenses without a criminal conviction. Reform efforts have increased some protections.",
+      "penalty": "N/A \u2014 forfeiture is an action against property.",
+      "exceptions": "Innocent owner defense available: property returned if owner proves no criminal connection.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "5-64-505",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas require a criminal conviction before forfeiture?",
+        "options": [
+          "No \u2014 civil forfeiture without conviction",
+          "Yes \u2014 conviction required",
+          "Only for large amounts",
+          "Only for drug crimes"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas: Arkansas allows civil asset forfeiture without requiring a criminal conviction."
+      }
+    },
+    {
+      "id": 36354,
+      "category": "criminal",
+      "severity": "medium",
+      "icon": "\ud83d\udccb",
+      "title": "Expungement & Record Sealing",
+      "subtitle": "Ark. Code Ann. \u00a716-90-601 \u2014 Expungement availability",
+      "fullDescription": "Arkansas: Arkansas allows sealing of certain misdemeanor and non-violent felony records after a waiting period. First-time offenders have better options.",
+      "penalty": "N/A \u2014 this is a post-conviction relief process.",
+      "exceptions": "Serious felonies, sex offenses, and violent crimes generally cannot be expunged.",
+      "source": "https://www.arcourts.gov",
+      "sourceLabel": "16-90-601",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Can first-time non-violent offenders expunge their records in Arkansas?",
+        "options": [
+          "Yes, broadly available",
+          "Limited \u2014 only minor offenses",
+          "No expungement available",
+          "Only juvenile records"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas: Arkansas allows record sealing for certain non-violent offenses."
+      }
+    },
+    {
+      "id": 36355,
+      "category": "criminal",
+      "severity": "medium",
+      "icon": "\ud83d\udd12",
+      "title": "Solitary Confinement Restrictions",
+      "subtitle": "Ark. Code Ann. \u00a712-27-101 \u2014 Restricted housing policies",
+      "fullDescription": "Arkansas: Arkansas DOC has policies on restricted housing. Some reforms limit solitary for juveniles and the mentally ill.",
+      "penalty": "N/A \u2014 this governs prison administration.",
+      "exceptions": "Extremely dangerous inmates may face longer restricted housing.",
+      "source": "https://doc.arkansas.gov",
+      "sourceLabel": "12-27-101",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Has Arkansas restricted the use of solitary confinement?",
+        "options": [
+          "Yes \u2014 significant reforms",
+          "Limited reforms only",
+          "No changes",
+          "Banned completely"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas: Limited reforms restrict solitary confinement for vulnerable populations."
+      }
+    },
+    {
+      "id": 36356,
+      "category": "criminal",
+      "severity": "low",
+      "icon": "\ud83c\udfd7\ufe0f",
+      "title": "Private Prison Use",
+      "subtitle": "Ark. Code Ann. \u00a712-27-101 \u2014 Private correctional facilities",
+      "fullDescription": "Arkansas: Arkansas uses some private prison facilities including federal contract facilities.",
+      "penalty": "N/A \u2014 this is a policy issue.",
+      "exceptions": "Some community corrections facilities are privately operated under state contracts.",
+      "source": "https://doc.arkansas.gov",
+      "sourceLabel": "12-27-101",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas use privately operated prisons?",
+        "options": [
+          "Yes, extensively",
+          "No, all state-operated",
+          "Some private facilities used",
+          "Only federal prisoners"
+        ],
+        "correct": 2,
+        "explanation": "Arkansas: Arkansas uses some privately contracted facilities for portions of its prison population."
+      }
+    },
+    {
+      "id": 36357,
+      "category": "criminal",
+      "severity": "medium",
+      "icon": "\ud83d\udcf9",
+      "title": "Police Body Camera Requirements",
+      "subtitle": "Ark. Code Ann. \u00a712-27-113 \u2014 Body camera law",
+      "fullDescription": "Arkansas: Arkansas has no statewide body camera mandate. The State Police uses body cameras; local departments set their own policies.",
+      "penalty": "Violations handled by department policy and state oversight.",
+      "exceptions": "Individual agencies may have stricter policies than state law requires.",
+      "source": "https://www.asp.arkansas.gov",
+      "sourceLabel": "12-27-113",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have a statewide body camera law?",
+        "options": [
+          "Yes, mandatory for all officers",
+          "Yes, required for some departments",
+          "No statewide mandate",
+          "Only for state police"
+        ],
+        "correct": 2,
+        "explanation": "Arkansas: No statewide body camera mandate; departments set their own policies."
+      }
+    },
+    {
+      "id": 36358,
+      "category": "criminal",
+      "severity": "high",
+      "icon": "\ud83d\udc6e",
+      "title": "Police Use-of-Force Policies",
+      "subtitle": "Ark. Code Ann. \u00a75-2-601 \u2014 Justified use of force",
+      "fullDescription": "Arkansas law: deadly force is only justified when an officer reasonably believes it necessary to prevent death or serious physical injury to the officer or another.",
+      "penalty": "Unjustified use of force: potential criminal charges and civil liability.",
+      "exceptions": "Force always subject to the reasonableness standard.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "5-2-601",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "When may Arkansas officers use deadly force?",
+        "options": [
+          "Anytime during arrest",
+          "Only against armed suspects",
+          "When reasonably necessary to prevent death or serious injury",
+          "With supervisor approval"
+        ],
+        "correct": 2,
+        "explanation": "Arkansas officers may use deadly force only when reasonably necessary to prevent death or serious injury."
+      }
+    },
+    {
+      "id": 36359,
+      "category": "firearms",
+      "severity": "medium",
+      "icon": "\ud83d\udea9",
+      "title": "Red Flag Law (ERPO) \u2014 No",
+      "subtitle": "Ark. Code Ann. \u00a75-73-101 \u2014 Extreme Risk Protection Orders",
+      "fullDescription": "Arkansas does not have a Red Flag (ERPO) law. Arkansas does not have a Red Flag law. Bills have been proposed but not passed.",
+      "penalty": "N/A \u2014 ERPO is a civil court order, not a criminal penalty.",
+      "exceptions": "Existing domestic violence protective orders may include firearm surrender in all states.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "5-73-101",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have a Red Flag (ERPO) law?",
+        "options": [
+          "Yes",
+          "No",
+          "Only for domestic violence",
+          "Only for mental health commitments"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas does not have an Extreme Risk Protection Order law."
+      }
+    },
+    {
+      "id": 36360,
+      "category": "criminal",
+      "severity": "high",
+      "icon": "\ud83c\udfaf",
+      "title": "Hate Crime Laws",
+      "subtitle": "Ark. Code Ann. \u00a75-71-208 \u2014 Bias-motivated crime laws",
+      "fullDescription": "Arkansas has a hate crime statute providing sentencing enhancements for crimes motivated by race, religion, color, national origin, or ancestry.",
+      "penalty": "Hate crime enhancement or separate charge: up to an additional 5 years added to the base sentence..",
+      "exceptions": "Protected speech expressing bias without accompanying criminal conduct is constitutionally protected.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "5-71-208",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have hate crime laws?",
+        "options": [
+          "Yes",
+          "No",
+          "Only for violent crimes",
+          "Only federal charges apply"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas: Arkansas has a hate crime enhancement law covering race, religion, national origin, and color."
+      }
+    },
+    {
+      "id": 36361,
+      "category": "criminal",
+      "severity": "high",
+      "icon": "\ud83c\udfe0",
+      "title": "Domestic Violence Laws & Protections",
+      "subtitle": "Ark. Code Ann. \u00a79-15-201 \u2014 Domestic Violence Act",
+      "fullDescription": "Arkansas: Arkansas has comprehensive domestic violence laws including protective orders, 72-hour emergency custody, and mandatory arrest policies for DV assault.",
+      "penalty": "Violation of DV protective order: Class A misdemeanor; repeat violations escalate to felony..",
+      "exceptions": "Mutual protective orders may be issued in some circumstances.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "9-15-201",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have mandatory arrest policies for domestic violence?",
+        "options": [
+          "No \u2014 discretionary",
+          "Yes \u2014 mandatory on probable cause",
+          "Only for serious injuries",
+          "Only with a warrant"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas: Arkansas has mandatory arrest policies for domestic violence with probable cause."
+      }
+    },
+    {
+      "id": 36362,
+      "category": "criminal",
+      "severity": "high",
+      "icon": "\ud83d\udc41\ufe0f",
+      "title": "Stalking & Cyberstalking Laws",
+      "subtitle": "Ark. Code Ann. \u00a75-71-229 \u2014 Stalking prohibition",
+      "fullDescription": "Arkansas prohibits stalking \u2014 repeated non-consensual contact causing substantial distress. First-degree stalking (involving weapon or violation of protective order) is a Class C felony. Second-degree is a Class A misdemeanor. Electronic harassment is covered.",
+      "penalty": "First-degree stalking: Class C felony (up to 10 years). Second-degree: Class A misdemeanor (up to 1 year).",
+      "exceptions": "Lawful investigations by law enforcement are not considered stalking.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "5-71-229",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Is cyberstalking (electronic harassment) covered by Arkansas's stalking law?",
+        "options": [
+          "No \u2014 separate law needed",
+          "Yes \u2014 electronic means are covered",
+          "Only if threats are made",
+          "Only on social media"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas's stalking law covers cyberstalking through electronic means."
+      }
+    },
+    {
+      "id": 36363,
+      "category": "digital",
+      "severity": "medium",
+      "icon": "\ud83d\udd10",
+      "title": "Consumer Data Privacy Law",
+      "subtitle": "Ark. Code Ann. \u00a74-110-101 \u2014 Data breach notification law only",
+      "fullDescription": "Arkansas: Arkansas has a data breach notification law requiring businesses to notify residents of security breaches. No comprehensive consumer privacy law yet.",
+      "penalty": "Data breach notification: civil fines up to $10,000 per violation per day.",
+      "exceptions": "Small businesses may have reduced obligations under some state laws.",
+      "source": "https://www.ag.arkansas.gov",
+      "sourceLabel": "4-110-101",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have a comprehensive consumer data privacy law?",
+        "options": [
+          "Yes, similar to CCPA",
+          "No \u2014 only breach notification",
+          "Yes, passed recently",
+          "Only for health data"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas: Arkansas only has breach notification rules, not a comprehensive consumer privacy law."
+      }
+    },
+    {
+      "id": 36364,
+      "category": "digital",
+      "severity": "low",
+      "icon": "\ud83d\udcf1",
+      "title": "Social Media Age Verification",
+      "subtitle": "Ark. Code Ann. \u00a7N/A \u2014 No state law",
+      "fullDescription": "Arkansas: Arkansas has no social media age verification law. Federal efforts may address this.",
+      "penalty": "N/A \u2014 enforcement mechanisms vary.",
+      "exceptions": "Federal platforms regulation may preempt state laws.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "N/A",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas require age verification for social media?",
+        "options": [
+          "Yes, for under 16",
+          "Yes, for under 18",
+          "No state law",
+          "Under consideration"
+        ],
+        "correct": 2,
+        "explanation": "Arkansas: Arkansas has no social media age verification law."
+      }
+    },
+    {
+      "id": 36365,
+      "category": "environment",
+      "severity": "medium",
+      "icon": "\ud83c\udf0a",
+      "title": "Environmental Regulations",
+      "subtitle": "Ark. Code Ann. \u00a78-4-103 \u2014 Environmental protection",
+      "fullDescription": "Arkansas: The Arkansas Department of Energy and Environment (DEE) and Department of Health regulate air, water, and waste. Oil and gas drilling, agricultural runoff, and industrial emissions are regulated.",
+      "penalty": "Environmental violations: civil fines up to $25,000/day; criminal penalties for willful violations.",
+      "exceptions": "Some agricultural and industrial uses have specific permitting pathways.",
+      "source": "https://www.adeq.state.ar.us",
+      "sourceLabel": "8-4-103",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Which agency enforces environmental laws in Arkansas?",
+        "options": [
+          "Arkansas DEQ / EPA equivalent",
+          "Federal EPA only",
+          "State Health Department",
+          "Agriculture Department"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas's state environmental agency works alongside the EPA to enforce environmental laws."
+      }
+    },
+    {
+      "id": 36366,
+      "category": "environment",
+      "severity": "medium",
+      "icon": "\u267b\ufe0f",
+      "title": "Renewable Energy Standards",
+      "subtitle": "Ark. Code Ann. \u00a723-18-601 \u2014 Renewable Portfolio Standard (RPS)",
+      "fullDescription": "Arkansas: Arkansas has a voluntary renewable energy goal but no binding Renewable Portfolio Standard. The state relies heavily on natural gas and some coal.",
+      "penalty": "N/A \u2014 this is a policy/utility requirement, not a criminal law.",
+      "exceptions": "Utilities that miss RPS targets may pay alternative compliance payments.",
+      "source": "https://www.apsc.arkansas.gov",
+      "sourceLabel": "23-18-601",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have a Renewable Portfolio Standard (RPS)?",
+        "options": [
+          "Yes, with binding targets",
+          "Yes, voluntary goal only",
+          "No RPS",
+          "Only for solar"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas: Arkansas has only a voluntary renewable energy goal, not a binding RPS."
+      }
+    },
+    {
+      "id": 36367,
+      "category": "environment",
+      "severity": "low",
+      "icon": "\ud83d\udecd\ufe0f",
+      "title": "Plastic Bag Laws",
+      "subtitle": "Ark. Code Ann. \u00a78-9-101 \u2014 No statewide ban or fee",
+      "fullDescription": "Arkansas: Arkansas has no statewide plastic bag ban or fee.",
+      "penalty": "Retailer violations: N/A.",
+      "exceptions": "Bags for meat, produce, or bulk items are often exempt.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "8-9-101",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have a statewide plastic bag ban or fee?",
+        "options": [
+          "Yes \u2014 ban",
+          "Yes \u2014 fee only",
+          "No statewide law",
+          "Under consideration"
+        ],
+        "correct": 2,
+        "explanation": "Arkansas: Arkansas has no statewide plastic bag law."
+      }
+    },
+    {
+      "id": 36368,
+      "category": "environment",
+      "severity": "low",
+      "icon": "\ud83c\udf7e",
+      "title": "Bottle Deposit Law",
+      "subtitle": "Ark. Code Ann. \u00a78-9-201 \u2014 Bottle bill status",
+      "fullDescription": "Arkansas: Arkansas has no bottle deposit/redemption program.",
+      "penalty": "Retailers not accepting returns may face fines.",
+      "exceptions": "Some municipal redemption centers supplement mandatory deposit systems.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "8-9-201",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have a bottle deposit/redemption law?",
+        "options": [
+          "Yes \u2014 0 cents",
+          "No bottle deposit",
+          "Only for glass",
+          "Only for beer"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas: Arkansas has no bottle deposit program."
+      }
+    },
+    {
+      "id": 36369,
+      "category": "criminal",
+      "severity": "high",
+      "icon": "\ud83d\udc3e",
+      "title": "Animal Cruelty Laws",
+      "subtitle": "Ark. Code Ann. \u00a75-62-103 \u2014 Animal cruelty prohibition",
+      "fullDescription": "Arkansas prohibits cruelty to animals including torture, beating, neglect, and fighting. Intentional torture or killing is a Class D felony. Organized dog fighting is a Class D felony. Neglect is a Class A misdemeanor.",
+      "penalty": "Intentional cruelty: Class D felony (up to 6 years). Neglect: Class A misdemeanor (up to 1 year).",
+      "exceptions": "Lawful hunting, fishing, pest control, and veterinary procedures are exempt.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "5-62-103",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "What is the maximum penalty for intentional animal cruelty in Arkansas?",
+        "options": [
+          "Class D felony (up to 6 years)",
+          "$10,000 fine only",
+          "30 days jail",
+          "No criminal penalty"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas: Intentional animal cruelty is punishable by Class D felony (up to 6 years)."
+      }
+    },
+    {
+      "id": 36370,
+      "category": "outdoors",
+      "severity": "medium",
+      "icon": "\ud83d\udc0a",
+      "title": "Exotic Pet Ownership",
+      "subtitle": "Ark. Code Ann. \u00a75-62-103 \u2014 Exotic and wild animal ownership",
+      "fullDescription": "Arkansas: Arkansas prohibits ownership of inherently dangerous wild animals (big cats, bears, venomous snakes, crocodilians) without a permit. Permits are available for accredited facilities.",
+      "penalty": "Unlawful possession of prohibited animal: Class A misdemeanor; animal seizure..",
+      "exceptions": "Licensed zoos, wildlife rehabilitators, and research institutions may keep otherwise prohibited animals.",
+      "source": "https://www.agfc.com",
+      "sourceLabel": "5-62-103",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Are large exotic cats (lions, tigers) legal as pets in Arkansas?",
+        "options": [
+          "Yes, freely",
+          "Yes, with a permit",
+          "No, banned",
+          "Only on rural property"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas: Large exotic cats may be possessed with appropriate permits in Arkansas."
+      }
+    },
+    {
+      "id": 36371,
+      "category": "outdoors",
+      "severity": "medium",
+      "icon": "\ud83c\udf86",
+      "title": "Fireworks Laws",
+      "subtitle": "Ark. Code Ann. \u00a720-22-702 \u2014 Consumer fireworks regulations",
+      "fullDescription": "Arkansas: Arkansas is one of the more permissive states for fireworks \u2014 consumer aerial fireworks (bottle rockets, aerial shells) are legal statewide. Local ordinances may restrict certain uses.",
+      "penalty": "Fireworks violation: $500\u2013$2,000 fines plus liability for fire damage.",
+      "exceptions": "Licensed pyrotechnic operators may use professional-grade fireworks at permitted events.",
+      "source": "https://www.sfm.arkansas.gov",
+      "sourceLabel": "20-22-702",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Are consumer aerial fireworks legal in Arkansas?",
+        "options": [
+          "Yes, all consumer fireworks",
+          "Only safe and sane fireworks",
+          "No consumer fireworks",
+          "Only sparklers"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas: Arkansas allows consumer aerial fireworks statewide (subject to local ordinances)."
+      }
+    },
+    {
+      "id": 36372,
+      "category": "entertainment",
+      "severity": "medium",
+      "icon": "\ud83c\udfb0",
+      "title": "Gambling Laws",
+      "subtitle": "Ark. Code Ann. \u00a75-66-101 \u2014 Gambling regulations",
+      "fullDescription": "Arkansas: Arkansas has multiple casinos after Amendment 100 (2018) legalized commercial gaming. Currently 4 licensed casinos operate. A state lottery also exists.",
+      "penalty": "Illegal gambling: Illegal gambling: Class A misdemeanor..",
+      "exceptions": "Charitable gaming (bingo, pull tabs) for nonprofits typically permitted with license.",
+      "source": "https://www.acgc.ar.gov",
+      "sourceLabel": "5-66-101",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Are commercial casinos legal in Arkansas?",
+        "options": [
+          "Yes, statewide",
+          "Yes, Native American casinos only",
+          "No",
+          "Yes, limited locations"
+        ],
+        "correct": 0,
+        "explanation": "Arkansas: Arkansas has commercial casinos after voters approved gambling in 2018."
+      }
+    },
+    {
+      "id": 36373,
+      "category": "digital",
+      "severity": "low",
+      "icon": "\ud83c\udf10",
+      "title": "Net Neutrality (State Level)",
+      "subtitle": "Ark. Code Ann. \u00a7N/A \u2014 Internet regulation",
+      "fullDescription": "Arkansas: Arkansas has no state net neutrality law.",
+      "penalty": "N/A \u2014 enforcement varies by state.",
+      "exceptions": "Federal FCC rules may preempt conflicting state laws.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "N/A",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have a state net neutrality law?",
+        "options": [
+          "Yes, strong protections",
+          "Yes, limited protections",
+          "No state law",
+          "Under consideration"
+        ],
+        "correct": 2,
+        "explanation": "Arkansas: No state net neutrality law exists in Arkansas."
+      }
+    },
+    {
+      "id": 36374,
+      "category": "digital",
+      "severity": "low",
+      "icon": "\ud83d\udd27",
+      "title": "Right to Repair Laws",
+      "subtitle": "Ark. Code Ann. \u00a7N/A \u2014 Consumer right to repair",
+      "fullDescription": "Arkansas: Arkansas has no right-to-repair law.",
+      "penalty": "N/A \u2014 this defines consumer rights.",
+      "exceptions": "Some manufacturers have voluntarily expanded repair access independent of state laws.",
+      "source": "https://www.arkleg.state.ar.us",
+      "sourceLabel": "N/A",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Does Arkansas have a right-to-repair law?",
+        "options": [
+          "Yes, comprehensive",
+          "Yes, limited to electronics",
+          "No",
+          "Under consideration"
+        ],
+        "correct": 2,
+        "explanation": "Arkansas: No right-to-repair law in Arkansas."
+      }
+    },
+    {
+      "id": 36375,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\ud83c\udff3\ufe0f",
+      "title": "LGBTQ+ Employment Protections",
+      "subtitle": "Ark. Code Ann. \u00a716-123-107 \u2014 Sexual orientation and gender identity protections",
+      "fullDescription": "Arkansas: LGBTQ+ workers are not explicitly protected by Arkansas state law. Federal Bostock v. Clayton County (2020) extends Title VII protections nationwide.",
+      "penalty": "Employment discrimination based on LGBTQ+ status: same remedies as other protected classes.",
+      "exceptions": "The federal Bostock v. Clayton County (2020) ruling extended Title VII to cover LGBTQ+ workers nationwide.",
+      "source": "https://www.ag.arkansas.gov",
+      "sourceLabel": "16-123-107",
+      "lastUpdated": "Jan 2024",
+      "quiz": {
+        "q": "Are LGBTQ+ workers explicitly protected by Arkansas state law?",
+        "options": [
+          "Yes \u2014 explicit state law",
+          "No \u2014 only federal Bostock ruling",
+          "Only in major cities",
+          "Only public employees"
+        ],
+        "correct": 1,
+        "explanation": "Arkansas: LGBTQ+ workers rely on federal Bostock protections; Arkansas has no explicit state law covering sexual orientation or gender identity in employment."
+      }
+    }
+  ]
+}

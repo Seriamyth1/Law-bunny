@@ -1,0 +1,1507 @@
+{
+  "country": "North Rhine-Westphalia, Germany",
+  "slug": "north-rhine-westphalia-germany",
+  "laws": [
+    {
+      "id": 41901,
+      "category": "Constitutional Law",
+      "severity": "informational",
+      "icon": "⚖️",
+      "title": "Verfassung des Landes NRW",
+      "subtitle": "North Rhine-Westphalia state constitution adopted 1950",
+      "fullDescription": "NRW's constitution (Landesverfassung NRW) was adopted on 28 June 1950. As Germany's most populous state with 18 million residents and the largest economy, NRW's constitutional framework underpins the Ruhr industrial region, Rhine corridor, and major cities Cologne, Düsseldorf, Dortmund, Essen, and Bonn.",
+      "penalty": "Constitutional violations invalidated by Verfassungsgerichtshof NRW",
+      "exceptions": ["Federal constitutional supremacy applies", "Basic Law overrides state provisions"],
+      "source": "https://www.landtag.nrw.de/portal/WWW/GB_II/II.1/Gesetze-und-Verordnungen/Landesverfassung/index.jsp",
+      "sourceLabel": "Landtag NRW – Landesverfassung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was NRW's state constitution adopted?",
+        "options": ["1945", "1950", "1955", "1961"],
+        "correct": 1,
+        "explanation": "NRW's constitution was adopted on 28 June 1950, shortly after the state was created by the British occupation authorities in 1946."
+      }
+    },
+    {
+      "id": 41902,
+      "category": "Industrial Law",
+      "severity": "high",
+      "icon": "🏭",
+      "title": "Ruhrgebiet Emission Control",
+      "subtitle": "BImSchG application in Germany's largest industrial region",
+      "fullDescription": "The Ruhr area (Ruhrgebiet) with 5.1 million residents and formerly the world's largest coal and steel region is subject to stringent Federal Immission Control Act (BImSchG) enforcement by NRW's LANUV (Landesamt für Natur, Umwelt und Verbraucherschutz). Air quality monitoring stations across Essen, Dortmund, Bochum, Duisburg enforce EU ambient air quality limits.",
+      "penalty": "Plant shutdown orders; fines up to €50,000 per BImSchG §62",
+      "exceptions": ["Transitional permits for legacy plants", "EU ETS compliance pathways"],
+      "source": "https://www.lanuv.nrw.de/umwelt/luft",
+      "sourceLabel": "LANUV NRW – Luftqualität",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which NRW authority monitors air quality in the Ruhr region?",
+        "options": ["MWIDE NRW", "LANUV", "Bezirksregierung Arnsberg", "UBA"],
+        "correct": 1,
+        "explanation": "LANUV (Landesamt für Natur, Umwelt und Verbraucherschutz NRW) operates the air quality monitoring network across the Ruhr."
+      }
+    },
+    {
+      "id": 41903,
+      "category": "Education Law",
+      "severity": "medium",
+      "icon": "🏫",
+      "title": "Schulgesetz NRW",
+      "subtitle": "Compulsory schooling and Gesamtschule system in NRW",
+      "fullDescription": "NRW's School Act (SchulG NRW) mandates 10 years of compulsory education. NRW is notable for its extensive Gesamtschule (comprehensive school) network — over 630 schools — alongside Gymnasium, Realschule, and Hauptschule. The state has Germany's highest number of schoolchildren (approximately 2.5 million). G9 was restored statewide from 2019.",
+      "penalty": "Fines for parents on truancy; up to €1,000",
+      "exceptions": ["Home schooling not permitted in NRW (unlike some other states)", "Special needs provisions §§19–20"],
+      "source": "https://www.schulministerium.nrw/schulgesetz",
+      "sourceLabel": "MSB NRW – Schulgesetz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many years of compulsory education does NRW's School Act mandate?",
+        "options": ["8", "9", "10", "12"],
+        "correct": 2,
+        "explanation": "NRW mandates 10 years of compulsory education under SchulG NRW, with home schooling not permitted."
+      }
+    },
+    {
+      "id": 41904,
+      "category": "Mining Law",
+      "severity": "high",
+      "icon": "⛏️",
+      "title": "Coal Phase-Out NRW",
+      "subtitle": "Kohleausstiegsgesetz 2020 — closure of last NRW hard coal mine",
+      "fullDescription": "The Federal Coal Phase-Out Act (Kohleausstiegsgesetz 2020) marked the end of hard coal mining in NRW. The last mine, Prosper-Haniel in Bottrop, closed December 2018. Lignite (Braunkohle) mining continues in the Rhenish coalfield (Rheinisches Revier) with RWE operating Garzweiler II opencast mine until 2030. NRW receives €14.8 billion in structural aid under the federal legislation.",
+      "penalty": "Mining without permit: Bundesberggesetz §§145–148 criminal penalties",
+      "exceptions": ["Garzweiler II lignite permitted until 2030", "Structural support funds disbursement under federal oversight"],
+      "source": "https://www.bmwk.de/Redaktion/DE/Dossier/kohleausstieg.html",
+      "sourceLabel": "BMWK – Kohleausstieg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did NRW's last hard coal mine (Prosper-Haniel) close?",
+        "options": ["2010", "2015", "2018", "2022"],
+        "correct": 2,
+        "explanation": "Prosper-Haniel in Bottrop closed in December 2018, ending centuries of hard coal mining in the Ruhr."
+      }
+    },
+    {
+      "id": 41905,
+      "category": "Media Law",
+      "severity": "medium",
+      "icon": "📺",
+      "title": "WDR-Gesetz",
+      "subtitle": "Westdeutscher Rundfunk — Germany's largest public broadcaster",
+      "fullDescription": "WDR (Westdeutscher Rundfunk) is Germany's largest ARD member broadcaster by budget (€1.6 billion/year) and staff. Established under WDR-Gesetz (1954, revised 2022), it operates 1LIVE, WDR 2, Cosmo, and WDR television. The Rundfunkbeitrag of €18.36/month funds WDR. Cologne headquarters; studios across NRW.",
+      "penalty": "Non-payment of Rundfunkbeitrag: enforcement via Beitragsservice, legal proceedings",
+      "exceptions": ["Exemptions for Hartz IV recipients and severely disabled", "Shared household single fee"],
+      "source": "https://www1.wdr.de/unternehmen/der-wdr/profil/wdr-gesetz/index.html",
+      "sourceLabel": "WDR – WDR-Gesetz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is WDR's approximate annual budget, making it Germany's largest public broadcaster?",
+        "options": ["€800 million", "€1.1 billion", "€1.6 billion", "€2.3 billion"],
+        "correct": 2,
+        "explanation": "WDR operates with approximately €1.6 billion per year, the largest budget of any ARD member broadcaster."
+      }
+    },
+    {
+      "id": 41906,
+      "category": "Urban Planning",
+      "severity": "medium",
+      "icon": "🏙️",
+      "title": "IBA Emscher Park Legacy",
+      "subtitle": "Internationale Bauausstellung 1989–1999 transforming the Ruhr",
+      "fullDescription": "The IBA Emscher Park (1989–1999) was a landmark regional planning initiative converting post-industrial Ruhr sites into cultural venues and parks. Results include Landschaftspark Duisburg-Nord (former blast furnace), Zollverein UNESCO World Heritage colliery, and the Emscher River ecological restoration (removing sewage, €4.4 billion project, completing 2021). NRW's Regionalverband Ruhr (RVR) administers ongoing green infrastructure.",
+      "penalty": "Unauthorised use of protected industrial monuments: Denkmalschutzgesetz NRW penalties",
+      "exceptions": ["Zollverein UNESCO World Heritage special management plan", "RVR planning authority exemptions"],
+      "source": "https://www.rvr.ruhr",
+      "sourceLabel": "Regionalverband Ruhr",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which Ruhr colliery is now a UNESCO World Heritage Site following IBA Emscher Park?",
+        "options": ["Prosper-Haniel", "Zeche Zollverein", "Auguste Victoria", "Walsum"],
+        "correct": 1,
+        "explanation": "Zeche Zollverein in Essen became a UNESCO World Heritage Site in 2001, a key legacy of the IBA Emscher Park transformation."
+      }
+    },
+    {
+      "id": 41907,
+      "category": "Transport Law",
+      "severity": "medium",
+      "icon": "🚇",
+      "title": "VRR Verkehrsverbund Rhein-Ruhr",
+      "subtitle": "Europe's largest transit authority serving 7.3 million people",
+      "fullDescription": "VRR (Verkehrsverbund Rhein-Ruhr) is one of Europe's largest transit authorities, covering 4,435 km² and 7.3 million residents across Essen, Dortmund, Düsseldorf, and surrounding areas. Governed under NRW's ÖPNVG NRW, it coordinates buses, trams, U-Bahn, and S-Bahn. The Deutschlandticket (€49/month, 2023) unified fares nationwide.",
+      "penalty": "Fare evasion: €60 erhöhtes Beförderungsentgelt minimum",
+      "exceptions": ["Deutschlandticket valid network-wide", "Social tariff reductions for qualifying residents"],
+      "source": "https://www.vrr.de",
+      "sourceLabel": "VRR – Verkehrsverbund Rhein-Ruhr",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many people does VRR serve?",
+        "options": ["3.5 million", "5.1 million", "7.3 million", "9.8 million"],
+        "correct": 2,
+        "explanation": "VRR serves approximately 7.3 million residents across the Rhine-Ruhr metropolitan area."
+      }
+    },
+    {
+      "id": 41908,
+      "category": "Environmental Law",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Emscher Restoration Project",
+      "subtitle": "Largest river ecological restoration in Europe — €4.4 billion",
+      "fullDescription": "The Emscher, historically an open sewer for Ruhr industry, is being restored under a €4.4 billion Emschergenossenschaft project (2010–2021). Underground sewage collectors replaced 400km of open channels; fish returned for the first time in 170 years. Emschergenossenschaft (founded 1899) operates under NRW water law. The project is cited as Europe's largest river restoration.",
+      "penalty": "Discharge into restored Emscher: WHG §89 civil liability; criminal prosecution possible",
+      "exceptions": ["Transitional discharge permits expired 2021", "Agricultural runoff managed under NRW Landwirtschaftskammer oversight"],
+      "source": "https://www.eglv.de/emschergenossenschaft",
+      "sourceLabel": "Emschergenossenschaft",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much did the Emscher River restoration project cost?",
+        "options": ["€1.2 billion", "€2.8 billion", "€4.4 billion", "€6.1 billion"],
+        "correct": 2,
+        "explanation": "The Emschergenossenschaft invested approximately €4.4 billion to restore the Emscher river system, removing 400km of open sewage channels."
+      }
+    },
+    {
+      "id": 41909,
+      "category": "Cultural Heritage",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Cologne Cathedral UNESCO",
+      "subtitle": "Kölner Dom — 632-year construction, UNESCO World Heritage 1996",
+      "fullDescription": "Cologne Cathedral (Kölner Dom), begun 1248, completed 1880 after 632 years of construction, is Germany's most visited landmark (6 million visitors/year). UNESCO World Heritage Site since 1996. Governed by the Hohe Domkirche (separate legal entity). Under Denkmalschutzgesetz NRW, the Domumgebung (surroundings) has strict height limits. The Dom was briefly listed as 'endangered' 2004–2006 due to high-rise planning across the Rhine.",
+      "penalty": "Unauthorised construction in Dom protection zone: Denkmalschutzgesetz NRW §§19–21 fines",
+      "exceptions": ["Dom property operates under ecclesiastical law", "Dombauhütte ongoing restoration exempt from normal procurement"],
+      "source": "https://www.koelner-dom.de",
+      "sourceLabel": "Kölner Dom",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many years did it take to build Cologne Cathedral?",
+        "options": ["232 years", "415 years", "632 years", "780 years"],
+        "correct": 2,
+        "explanation": "Construction began in 1248 and was completed in 1880, spanning 632 years — one of the longest construction projects in history."
+      }
+    },
+    {
+      "id": 41910,
+      "category": "Financial Law",
+      "severity": "high",
+      "icon": "🏦",
+      "title": "Deutsche Bank / Commerzbank NRW Operations",
+      "subtitle": "NRW as Germany's banking hub — Düsseldorf financial centre",
+      "fullDescription": "Düsseldorf hosts Germany's second financial centre after Frankfurt, including HSBC Germany HQ, BankDirekt, and numerous private banks. NRW's Finanzministerium oversees Sparkassen and cooperative banks under Sparkassengesetz NRW (2008). NRW has 105 Sparkassen institutions. The state's bank rescue fund (Soffin-era bailouts) included WestLB — ultimately wound down 2012 at cost of €18 billion to NRW and federal government.",
+      "penalty": "Banking violations: KWG enforcement by BaFin; civil liability under BGB",
+      "exceptions": ["Sparkassen operate under public law — not subject to private bank rules", "EU State aid frameworks governed bank rescues"],
+      "source": "https://www.mf.nrw.de",
+      "sourceLabel": "NRW Finanzministerium",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What was the approximate cost of winding down WestLB to NRW and federal government?",
+        "options": ["€4 billion", "€9 billion", "€18 billion", "€32 billion"],
+        "correct": 2,
+        "explanation": "WestLB's wind-down cost approximately €18 billion, making it one of Germany's most expensive bank failures."
+      }
+    },
+    {
+      "id": 41911,
+      "category": "Labour Law",
+      "severity": "medium",
+      "icon": "👷",
+      "title": "IG Metall NRW Collective Bargaining",
+      "subtitle": "Pilot agreements for Germany's metal industry originate in NRW",
+      "fullDescription": "IG Metall's NRW district (Bezirk NRW) is the most influential in Germany, representing 700,000 members in steel, automotive, and engineering. Pilot (Pilotabschluss) collective agreements negotiated here — especially Nordrhein-Westfalen-Pilot — set the standard for all German metal-sector agreements. The 2018 agreement established the right to reduce working hours to 28 hours/week for up to two years.",
+      "penalty": "Breach of collective agreement: contractual damages; arbitration under TVG",
+      "exceptions": ["Company-level agreements can deviate if tariflich opened", "OT-Mitgliedschaft allows employer association membership without tariff binding"],
+      "source": "https://www.igmetall.de/tarif",
+      "sourceLabel": "IG Metall – Tarifpolitik",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What right did the 2018 IG Metall pilot agreement in NRW establish?",
+        "options": ["4-day workweek option", "Reduction to 28 hours/week for up to 2 years", "6 weeks annual leave minimum", "Remote work entitlement"],
+        "correct": 1,
+        "explanation": "The 2018 pilot agreement allowed metal workers to reduce their hours to 28 per week for up to two years for personal/family reasons."
+      }
+    },
+    {
+      "id": 41912,
+      "category": "Healthcare Law",
+      "severity": "high",
+      "icon": "🏥",
+      "title": "Krankenhausgestaltungsgesetz NRW",
+      "subtitle": "Hospital planning for Germany's most populated state — 340 hospitals",
+      "fullDescription": "NRW's Hospital Shaping Act (KHGG NRW, 2022) reformed hospital planning, replacing the previous Krankenhausgestaltungsgesetz. NRW has approximately 340 hospitals with 120,000 beds. The 2022 reform introduced Leistungsgruppen (service groups) for specialisation, predating the federal hospital reform. NRW's Universitätskliniken include Aachen, Bonn, Cologne, Düsseldorf, Essen, and Münster.",
+      "penalty": "Unauthorised hospital operation: KHGG NRW §43 administrative fines",
+      "exceptions": ["Private day clinics under separate licensing", "Military hospitals under federal law"],
+      "source": "https://www.mags.nrw/krankenhaus",
+      "sourceLabel": "MAGS NRW – Krankenhausgestaltung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many hospitals does NRW have?",
+        "options": ["120", "220", "340", "480"],
+        "correct": 2,
+        "explanation": "NRW has approximately 340 hospitals with around 120,000 beds, serving Germany's most populous state."
+      }
+    },
+    {
+      "id": 41913,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🚔",
+      "title": "Polizeigesetz NRW",
+      "subtitle": "NRW police law — 50,000 officers, largest state police force",
+      "fullDescription": "NRW's Police Act (PolG NRW, 2018 with 2023 amendments) governs Germany's largest state police force with approximately 50,000 officers across 47 Kreispolizeibehörden. The 2018 reform introduced preventive detention up to 28 days (Gewahrsam), online surveillance (Quellen-TKÜ), and use of body cameras. NRW's LKA investigates organised crime including biker gangs (Hells Angels, Bandidos) and far-right groups.",
+      "penalty": "Police use of force governed by §§59–69 PolG NRW; excessive force: criminal prosecution",
+      "exceptions": ["Counter-terrorism coordination with BKA/BfV", "G20-era powers sunset, some provisions extended"],
+      "source": "https://polizei.nrw",
+      "sourceLabel": "Polizei NRW",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many officers does NRW's state police force have?",
+        "options": ["22,000", "35,000", "50,000", "68,000"],
+        "correct": 2,
+        "explanation": "NRW has approximately 50,000 police officers across 47 district police authorities — Germany's largest state police force."
+      }
+    },
+    {
+      "id": 41914,
+      "category": "Environmental Law",
+      "severity": "high",
+      "icon": "🌿",
+      "title": "Klimaschutzgesetz NRW",
+      "subtitle": "NRW climate law — 55% CO₂ reduction by 2030 from 1990 levels",
+      "fullDescription": "NRW's Climate Protection Act (KSG NRW, 2021) targets 65% reduction in greenhouse gas emissions by 2030 vs 1990 and climate neutrality by 2045. NRW is Germany's largest CO₂ emitter (~30% of national emissions) due to lignite power. The Strukturwandel (structural transition) of the Rheinisches Revier is supported by €14.8 billion federal funding over 20 years.",
+      "penalty": "Non-compliance by public bodies: KSG NRW §9 reporting obligations; no direct penalties",
+      "exceptions": ["Industry subject to EU ETS — national targets complementary", "Agricultural methane under separate regime"],
+      "source": "https://www.umwelt.nrw.de/klimaschutz",
+      "sourceLabel": "MULNV NRW – Klimaschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately what share of Germany's CO₂ emissions does NRW account for?",
+        "options": ["10%", "20%", "30%", "45%"],
+        "correct": 2,
+        "explanation": "NRW accounts for approximately 30% of Germany's CO₂ emissions, largely due to lignite power generation in the Rhenish coalfield."
+      }
+    },
+    {
+      "id": 41915,
+      "category": "Transport Law",
+      "severity": "medium",
+      "icon": "✈️",
+      "title": "Flughafen Düsseldorf Night Flight Restrictions",
+      "subtitle": "Düsseldorf Airport — 22:00–06:00 night curfew",
+      "fullDescription": "Düsseldorf Airport (DUS), Germany's third-largest, operates under NRW planning permission with a night flight restriction from 22:00 to 06:00 (core quiet period). Additional restrictions apply 23:00–06:00. As a hub for Eurowings/Lufthansa, approximately 25 million passengers/year. The Planfeststellungsbeschluss governs runway capacity. Cologne/Bonn Airport (CGN) operates 24 hours as a cargo hub.",
+      "penalty": "Night flight violations: Lärmschutzbeauftragte enforcement; fines per Luftverkehrsgesetz",
+      "exceptions": ["Medical emergencies exempt", "Cargo and mail post-22:00 with advance permission", "Military flights under federal authority"],
+      "source": "https://www.dus.com/de-de/flughafen/unternehmen",
+      "sourceLabel": "Flughafen Düsseldorf",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Düsseldorf Airport's core night flight restriction period?",
+        "options": ["21:00–05:00", "22:00–06:00", "23:00–07:00", "00:00–05:00"],
+        "correct": 1,
+        "explanation": "Düsseldorf Airport enforces a core night curfew from 22:00 to 06:00 under its planning permission."
+      }
+    },
+    {
+      "id": 41916,
+      "category": "Agricultural Law",
+      "severity": "medium",
+      "icon": "🌾",
+      "title": "Landwirtschaftsgesetz NRW — Nitrate Zones",
+      "subtitle": "NRW's 'red zones' for nitrate-intensive farming — EU compliance",
+      "fullDescription": "NRW's Düngeverordnung (DüV) implementation designates nitrate-sensitive 'red zones' (rote Gebiete) covering 30% of NRW agricultural area. EU Commission infringement proceedings against Germany (resolved 2020) led to stricter rules: 20% reduction in fertilisation in red zones, mandatory buffer strips, autumn fertilisation bans. NRW agriculture: 1.4 million hectares, dominated by dairy, pig farming (Münsterland), and sugar beet (Rheinland).",
+      "penalty": "Violation of fertilisation restrictions: Ordnungswidrigkeiten up to €50,000; EU fine passthrough",
+      "exceptions": ["Organic farming exemptions for some provisions", "Precision fertilisation with GPS soil mapping allows reduced buffers"],
+      "source": "https://www.landwirtschaftskammer.de/landwirtschaft/acker/gewaesserschutz/nitrat",
+      "sourceLabel": "Landwirtschaftskammer NRW",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of NRW agricultural land is designated as nitrate-sensitive 'red zones'?",
+        "options": ["10%", "20%", "30%", "45%"],
+        "correct": 2,
+        "explanation": "Approximately 30% of NRW's agricultural land is in designated nitrate-sensitive red zones requiring stricter fertilisation limits."
+      }
+    },
+    {
+      "id": 41917,
+      "category": "Housing Law",
+      "severity": "medium",
+      "icon": "🏠",
+      "title": "Mietpreisbremse Cologne and Düsseldorf",
+      "subtitle": "Rent control in NRW's major cities — MietNovG NRW",
+      "fullDescription": "NRW activated the Mietpreisbremse (§§556d–556g BGB) via MietNovG NRW in 22 municipalities including Cologne, Düsseldorf, Bonn, and Münster. Rents in new lettings may not exceed local Mietspiegel by more than 10%. Cologne's Mietspiegel 2023 shows median €12.50/m². NRW's social housing stock (Sozialwohnungen) has declined from 1 million (1970s) to 460,000 (2023), prompting the Wohnraumförderungsgesetz (WoFG NRW).",
+      "penalty": "Excess rent: tenant can demand repayment of overpaid rent (§556g BGB); no criminal penalty",
+      "exceptions": ["New construction (first 10 years) exempt", "Comprehensive modernisation exempt", "Single-family house first-time letting partially exempt"],
+      "source": "https://www.mhkbd.nrw.de/wohnen/mietrecht",
+      "sourceLabel": "NRW Ministerium – Mietrecht",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By how much may rents in Mietpreisbremse areas exceed the local Mietspiegel?",
+        "options": ["5%", "10%", "15%", "20%"],
+        "correct": 1,
+        "explanation": "Under the Mietpreisbremse, new lettings may not exceed the local Mietspiegel (comparative rent table) by more than 10%."
+      }
+    },
+    {
+      "id": 41918,
+      "category": "Regulatory Law",
+      "severity": "high",
+      "icon": "⚡",
+      "title": "RWE AG and Energy Regulation",
+      "subtitle": "Europe's largest lignite producer subject to NRW and federal energy law",
+      "fullDescription": "RWE AG, headquartered in Essen, is Europe's largest lignite producer and Germany's largest electricity generator. Under Energiewirtschaftsgesetz (EnWG) and NRW's Bergrecht, RWE operates Garzweiler II, Inden, and Hambach opencast mines. The 2018 Hambach Forest (Hambacher Forst) dispute resulted in a court injunction halting deforestation; the federal Coal Act 2020 mandated mine closures by 2030. RWE agreed €2.6 billion compensation.",
+      "penalty": "Mining without Hauptbetriebsplan approval: BBergG §§145–148 criminal sanctions",
+      "exceptions": ["Transitional operations permitted until 2030 shutdown", "Coal stockpile management under federal energy security rules"],
+      "source": "https://www.rwe.com",
+      "sourceLabel": "RWE AG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What event in 2018 halted deforestation at Hambach Forest?",
+        "options": ["Federal law", "Court injunction", "EU Commission order", "RWE voluntary decision"],
+        "correct": 1,
+        "explanation": "A court injunction obtained by environmental group BUND halted deforestation of Hambach Forest in 2018 during an active legal dispute."
+      }
+    },
+    {
+      "id": 41919,
+      "category": "Constitutional Law",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Landtag NRW — 195-Seat Parliament",
+      "subtitle": "NRW state parliament — proportional representation, 5% threshold",
+      "fullDescription": "NRW's Landtag has 195 seats (minimum; Überhangmandate may increase size) elected every 5 years. Elections use personalised proportional representation. The 5% threshold (Sperrklausel) applies. Major parties: CDU, SPD, Grüne, FDP, AfD. The Verfassungsgerichtshof NRW reviews state legislation. Speaker and Ministerpräsident election governed by Geschäftsordnung. NRW's Ministerpräsident has historically been a major figure in federal politics.",
+      "penalty": "Electoral fraud: StGB §§107–108e; up to 5 years imprisonment",
+      "exceptions": ["Parties with 3 direct mandates bypass 5% threshold (not applicable at state level — federal rule only)", "Überhangmandate constitutional per VerfGH NRW"],
+      "source": "https://www.landtag.nrw.de",
+      "sourceLabel": "Landtag NRW",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many seats does NRW's Landtag have as a minimum?",
+        "options": ["137", "175", "195", "231"],
+        "correct": 2,
+        "explanation": "NRW's Landtag has a minimum of 195 seats, though Überhangmandate (overhang seats) can increase the number after elections."
+      }
+    },
+    {
+      "id": 41920,
+      "category": "Cultural Heritage",
+      "severity": "medium",
+      "icon": "🎭",
+      "title": "Kulturförderungsgesetz NRW",
+      "subtitle": "NRW cultural funding law — €200 million annual state arts budget",
+      "fullDescription": "NRW is Germany's cultural powerhouse with 120+ state-funded theatres, the Düsseldorf Kunstsammlung, Cologne's Museum Ludwig, and Essen's Folkwang museum. The Kulturförderungsgesetz NRW (2014) establishes the legal basis for approximately €200 million in annual state cultural funding. NRW is home to over 100 orchestras and 500 museums. Ruhrtriennale, Cologne Carnival (legal: Narrenfreiheit), and Documenta connections.",
+      "penalty": "Misuse of cultural funds: Haushaltsordnung NRW enforcement; repayment demands",
+      "exceptions": ["Church cultural institutions receive separate kirchliche Zuwendungen", "EU Creative Europe co-funded projects under separate procurement rules"],
+      "source": "https://www.mhkbd.nrw.de/kultur",
+      "sourceLabel": "NRW Ministerium – Kulturförderung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how much does NRW spend annually on cultural funding?",
+        "options": ["€50 million", "€120 million", "€200 million", "€350 million"],
+        "correct": 2,
+        "explanation": "NRW allocates approximately €200 million annually in state cultural funding, supporting 120+ theatres and 500+ museums."
+      }
+    },
+    {
+      "id": 41921,
+      "category": "Labour Law",
+      "severity": "medium",
+      "icon": "⚙️",
+      "title": "Thyssen Krupp Steel — Works Council Law",
+      "subtitle": "Betriebsverfassungsgesetz at Germany's largest steel producer",
+      "fullDescription": "ThyssenKrupp Steel Europe (TKSE), headquartered in Duisburg with 27,000 employees, operates under Germany's Works Constitution Act (BetrVG). Its Betriebsrat (works council) has co-determination rights on restructuring, redundancies, and working conditions. TKSE's planned transformation to green hydrogen DRI steelmaking (tkH2Steel) involves Mitbestimmung (codetermination) negotiations. Duisburg also hosts the world's largest inland port.",
+      "penalty": "Bypassing works council: BetrVG §121 fine up to €10,000 per breach",
+      "exceptions": ["Executive-level employees (leitende Angestellte) not covered by BetrVG", "EU cross-border restructuring under SE-Beteiligungsgesetz"],
+      "source": "https://www.thyssenkrupp-steel.com",
+      "sourceLabel": "ThyssenKrupp Steel Europe",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where is ThyssenKrupp Steel Europe's headquarters?",
+        "options": ["Essen", "Duisburg", "Bochum", "Dortmund"],
+        "correct": 1,
+        "explanation": "ThyssenKrupp Steel Europe is headquartered in Duisburg, which also hosts the world's largest inland port."
+      }
+    },
+    {
+      "id": 41922,
+      "category": "Pharmaceutical Law",
+      "severity": "high",
+      "icon": "💊",
+      "title": "Bayer AG — Pharmaceutical Regulation",
+      "subtitle": "Leverkusen-based Bayer AG under AMG and EU pharmaceutical law",
+      "fullDescription": "Bayer AG, headquartered in Leverkusen, is one of the world's largest pharmaceutical companies (€43 billion revenue). Under the Arzneimittelgesetz (AMG), Bayer's Pharmaceuticals division requires BfArM and EMA approval for all drugs. Bayer's acquisition of Monsanto (2018, $63 billion) brought Roundup glyphosate litigation — settlements exceeding $10 billion in the US. German courts under Produkthaftungsgesetz apply strict liability.",
+      "penalty": "Defective drugs: AMG §§84–94 strict liability; criminal prosecution for wilful concealment",
+      "exceptions": ["Clinical trial exemptions under AMG §§40–42a", "Compassionate use provisions for rare diseases"],
+      "source": "https://www.bayer.de",
+      "sourceLabel": "Bayer AG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What major acquisition brought Bayer AG into Roundup glyphosate litigation?",
+        "options": ["BASF crop division", "Syngenta acquisition", "Monsanto 2018 purchase", "Dow AgroSciences merger"],
+        "correct": 2,
+        "explanation": "Bayer acquired Monsanto in 2018 for $63 billion, inheriting ongoing glyphosate (Roundup) litigation resulting in settlements exceeding $10 billion."
+      }
+    },
+    {
+      "id": 41923,
+      "category": "Data Protection",
+      "severity": "high",
+      "icon": "🔒",
+      "title": "LDI NRW — GDPR Enforcement",
+      "subtitle": "Landesbeauftragte für Datenschutz und Informationsfreiheit NRW",
+      "fullDescription": "LDI NRW (Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen) is NRW's data protection authority. Under GDPR Art. 83, LDI has imposed significant fines including a €9.55 million fine against telecommunications company (2022) and various media company fines. LDI also enforces NRW's IFG (Informationsfreiheitsgesetz NRW) for public records access.",
+      "penalty": "GDPR violations: up to €20 million or 4% global annual turnover (whichever higher)",
+      "exceptions": ["DSGVO journalistic exemptions (§4 DSG NRW)", "Research exemptions with adequate safeguards"],
+      "source": "https://www.ldi.nrw.de",
+      "sourceLabel": "LDI NRW",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which law does LDI NRW enforce alongside GDPR?",
+        "options": ["NRW Pressegesetz", "IFG NRW (Freedom of Information)", "PolG NRW", "KHGG NRW"],
+        "correct": 1,
+        "explanation": "LDI NRW enforces both GDPR for data protection and the IFG NRW (Informationsfreiheitsgesetz) for public records access."
+      }
+    },
+    {
+      "id": 41924,
+      "category": "Construction Law",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Bauordnung NRW (BauO NRW)",
+      "subtitle": "NRW building code — 2018 reform enabling timber high-rises",
+      "fullDescription": "NRW's Building Ordinance (BauO NRW 2018) introduced significant reforms including timber construction up to 7 storeys (Gebäudeklasse 5), simplified small building permits (Baugenehmigungsfreistellungsverfahren), and digitalised building permits. NRW has Germany's highest construction volume. The Hochhausrichtlinie NRW governs buildings over 22m (Hochhaus threshold). BauO NRW §87 addresses accessibility (Barrierefreiheit).",
+      "penalty": "Unauthorised construction: BauO NRW §§84–88 demolition orders; fines up to €500,000",
+      "exceptions": ["Agricultural buildings under simplified procedure", "Garages up to 50m² permit-free", "Solar panels on existing roofs permit-free since 2023"],
+      "source": "https://www.mhkbd.nrw.de/bauen",
+      "sourceLabel": "NRW Ministerium – Bauen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the legal threshold for a building to be classified as a Hochhaus (high-rise) in NRW?",
+        "options": ["Over 15m", "Over 22m", "Over 30m", "Over 8 storeys"],
+        "correct": 1,
+        "explanation": "BauO NRW defines a Hochhaus as any building whose highest occupied floor is more than 22 metres above ground level."
+      }
+    },
+    {
+      "id": 41925,
+      "category": "Wildlife Law",
+      "severity": "medium",
+      "icon": "🦅",
+      "title": "Landesnaturschutzgesetz NRW — Wolf Protection",
+      "subtitle": "Wolf recolonisation in NRW — strict FFH Directive protection",
+      "fullDescription": "Wolves (Canis lupus) returned to NRW around 2018 and now number 10+ packs. Under EU Habitats Directive (FFH) Annex IV, wolves are strictly protected. NRW's Landesnaturschutzgesetz (LNatSchG NRW) implements federal BNatSchG protection. Livestock farmers receive compensation via NRW's Wolfsmanagementplan for verified wolf kills. Controversial depredation permits require exceptional justification under FFH Art. 16.",
+      "penalty": "Killing a wolf: BNatSchG §44 + §69; up to 5 years imprisonment or €50,000 fine",
+      "exceptions": ["Self-defence against imminent wolf attack on humans (extremely rare basis)", "Scientific capture under strict licence"],
+      "source": "https://www.wolf.nrw.de",
+      "sourceLabel": "MULNV NRW – Wolf",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which EU directive are wolves strictly protected in NRW?",
+        "options": ["Birds Directive 2009/147/EC", "CITES Appendix I", "FFH Habitats Directive 92/43/EWG", "Water Framework Directive"],
+        "correct": 2,
+        "explanation": "Wolves are strictly protected under Annex IV of the EU Habitats Directive (FFH-Richtlinie 92/43/EWG), implemented via BNatSchG in Germany."
+      }
+    },
+    {
+      "id": 41926,
+      "category": "Transport Law",
+      "severity": "high",
+      "icon": "🚂",
+      "title": "Köln Hbf — Railway Hub Law",
+      "subtitle": "Cologne Central Station — busiest German rail junction under EBO",
+      "fullDescription": "Cologne Hauptbahnhof (Köln Hbf) is Germany's busiest rail junction with 1,300 trains daily. It operates under the Eisenbahn-Bau- und Betriebsordnung (EBO) and DB Netz AG's Trassenpreissystem. The Hohenzollernbrücke across the Rhine, with 1,200+ trains/day, is Europe's busiest rail bridge. NRW has 13,800km of rail network. The Kölner S-Bahn (KVB + DB) integrates into VRS (Verkehrsverbund Rhein-Sieg).",
+      "penalty": "Unauthorised access to rail infrastructure: EBO §64; AEG §§38–40 criminal penalties",
+      "exceptions": ["Emergency evacuation override of normal train operation", "Scheduled maintenance windows under Netznutzungsvertrag"],
+      "source": "https://www.bahnhof.de/koeln-hbf",
+      "sourceLabel": "DB – Köln Hbf",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many trains pass through Cologne Hauptbahnhof daily?",
+        "options": ["500", "800", "1,300", "2,000"],
+        "correct": 2,
+        "explanation": "Approximately 1,300 trains use Cologne Hauptbahnhof daily, making it Germany's busiest rail junction."
+      }
+    },
+    {
+      "id": 41927,
+      "category": "Gambling Law",
+      "severity": "medium",
+      "icon": "🎰",
+      "title": "Spielbankgesetz NRW",
+      "subtitle": "Casino regulation — 3 licensed casinos in NRW",
+      "fullDescription": "NRW's Casino Act (Spielbankgesetz NRW) licenses three state casinos: Spielbank Hohensyburg (Dortmund), Spielbank Bad Oeynhausen, and Spielbank Aachen. Online gambling was liberalised under the Glücksspielstaatsvertrag 2021 with new national licensing authority (GGL) in Halle. NRW's casinos must comply with GwG (Money Laundering Act) identity verification and player self-exclusion (Sperrsystem OASIS).",
+      "penalty": "Illegal gambling operation: GlüStV 2021 §28a; fines up to €500,000",
+      "exceptions": ["Private poker games without rake exempt (contested)", "Charity lotteries under Lotteriegesetz NRW"],
+      "source": "https://www.spielbank-koeln.de",
+      "sourceLabel": "Spielbanken NRW",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many state-licensed casinos (Spielbanken) operate in NRW?",
+        "options": ["2", "3", "5", "7"],
+        "correct": 1,
+        "explanation": "NRW has three licensed casinos: Spielbank Hohensyburg (Dortmund), Spielbank Bad Oeynhausen, and Spielbank Aachen."
+      }
+    },
+    {
+      "id": 41928,
+      "category": "Consumer Law",
+      "severity": "medium",
+      "icon": "🛒",
+      "title": "Ladenöffnungsgesetz NRW",
+      "subtitle": "Shop opening hours — Sunday trading ban with 11 exceptions",
+      "fullDescription": "NRW's Shop Hours Act (LÖG NRW 2006) prohibits Sunday and public holiday trading. Exceptions: up to 11 Sundays annually in specific municipalities with public events (verkaufsoffene Sonntage). Shops may open 06:00–22:00 Monday–Saturday. Trade unions (ver.di) actively litigate against excessive Sunday exceptions. Bäckereien can open Sunday mornings until 3 hours for fresh goods. NRW public holidays include Rosenmontag (regionally treated as de facto holiday).",
+      "penalty": "Illegal Sunday opening: LÖG NRW §21 Ordnungswidrigkeiten up to €5,000",
+      "exceptions": ["Petrol stations, pharmacies, airports, railway station shops open Sundays", "Festivals and trade fairs with public interest determination"],
+      "source": "https://www.mags.nrw/einzelhandel",
+      "sourceLabel": "MAGS NRW – Ladenöffnung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many verkaufsoffene Sonntage (trading Sundays) may municipalities in NRW permit annually?",
+        "options": ["4", "8", "11", "16"],
+        "correct": 2,
+        "explanation": "LÖG NRW permits up to 11 Sunday trading exceptions per year in specific municipalities tied to public events."
+      }
+    },
+    {
+      "id": 41929,
+      "category": "Technology Law",
+      "severity": "medium",
+      "icon": "💻",
+      "title": "Digital Hub NRW — Startplatz and Startup Law",
+      "subtitle": "Cologne and Düsseldorf as Germany's third digital economy hub",
+      "fullDescription": "NRW is Germany's third startup hub after Berlin and Munich. Cologne's Startplatz and Düsseldorf's Gründerszene are supported under NRW's Digitalisierungsstrategie 'Digitale Heimat NRW'. NRW.BANK provides startup financing under state bank law. The NRW.AI initiative promotes AI adoption. Large digital companies based in NRW: Deutsche Telekom (Bonn HQ historically), Vodafone Germany (Düsseldorf), Trivago (Düsseldorf).",
+      "penalty": "Startup subsidy misuse: UG/GmbH liability; NRW.BANK repayment enforcement",
+      "exceptions": ["R&D tax credits under §35c EStG regardless of startup status", "EU Horizon Europe grants separate from state funding rules"],
+      "source": "https://www.digitales.nrw.de",
+      "sourceLabel": "NRW – Digitale Heimat",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which major tech company has its German headquarters in Düsseldorf?",
+        "options": ["Siemens", "SAP", "Vodafone Germany", "Deutsche Telekom"],
+        "correct": 2,
+        "explanation": "Vodafone Germany is headquartered in Düsseldorf, making it one of NRW's major digital economy anchors."
+      }
+    },
+    {
+      "id": 41930,
+      "category": "Food Safety Law",
+      "severity": "medium",
+      "icon": "🍺",
+      "title": "Cologne Kölsch and Altbier Protection",
+      "subtitle": "EU geographical indication protecting Kölsch and Düsseldorf Altbier",
+      "fullDescription": "Kölsch beer, brewed only in the Cologne region, is protected by EU Geographical Indication (GI) under Regulation (EU) 1151/2012 and the Kölsch-Konvention (1985, signed by 24 Cologne breweries). Only beer brewed in the Cologne region meeting strict criteria (pale, top-fermented, 11.3° Plato) may be called Kölsch. Similarly, Düsseldorf's Altbier enjoys de facto GI protection. NRW's LANUV enforces food safety for breweries under LFGB.",
+      "penalty": "False use of 'Kölsch' designation: EU GI enforcement; injunction and damages under UWG",
+      "exceptions": ["Export markets with bilateral GI agreements may differ", "Historical names in third countries potentially grandfathered"],
+      "source": "https://www.koelner-brauerei-verband.de",
+      "sourceLabel": "Kölner Brauerei-Verband",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the standard original gravity (Stammwürze) for a beer to qualify as genuine Kölsch?",
+        "options": ["10.0° Plato", "11.3° Plato", "12.5° Plato", "13.0° Plato"],
+        "correct": 1,
+        "explanation": "Authentic Kölsch must have an original gravity of 11.3° Plato, among other strict criteria defined by the Kölsch-Konvention."
+      }
+    },
+    {
+      "id": 41931,
+      "category": "Insurance Law",
+      "severity": "medium",
+      "icon": "🛡️",
+      "title": "Generali / Talanx Insurance Regulation NRW",
+      "subtitle": "Cologne as Germany's insurance capital — HDI, Talanx, DEVK",
+      "fullDescription": "Cologne is Germany's insurance capital, home to Talanx Group (HDI), DEVK, Gothaer, AXA Germany, and GenRe. Insurance regulation falls under BaFin (Bundesanstalt für Finanzdienstleistungsaufsicht) under VAG (Versicherungsaufsichtsgesetz). EU Solvency II Directive implemented via §§89 ff VAG. NRW's insurance sector employs approximately 35,000 people.",
+      "penalty": "Unlicensed insurance operation: VAG §140; criminal prosecution up to 3 years",
+      "exceptions": ["Reinsurance passporting under EU Solvency II", "Captive insurance under special BaFin licensing regime"],
+      "source": "https://www.bafin.de/versicherungsaufsicht",
+      "sourceLabel": "BaFin – Versicherungsaufsicht",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which EU directive governs insurance regulation in Germany under VAG?",
+        "options": ["MiFID II", "Solvency II", "IORP II", "AIFMD"],
+        "correct": 1,
+        "explanation": "Solvency II (EU Directive 2009/138/EC) governs insurance regulation across the EU, implemented in Germany through the VAG."
+      }
+    },
+    {
+      "id": 41932,
+      "category": "Religious Law",
+      "severity": "low",
+      "icon": "⛪",
+      "title": "Church Tax in NRW — Kirchensteuer",
+      "subtitle": "NRW collects church tax at 9% of income tax for 7.5 million members",
+      "fullDescription": "NRW collects Kirchensteuer on behalf of the Roman Catholic Church (Diocese of Cologne, Münster, Paderborn, Essen, Aachen) and Protestant churches (EKvW, EKBO). Rate: 9% of income tax liability. NRW has approximately 7.5 million Catholics and 5.5 million Protestants. Kirchenaustritt (church departure) requires a visit to Standesamt and €30 fee. Cologne Archbishop Cardinal Woelki's role in abuse scandal highlighted church institutional law.",
+      "penalty": "Kirchensteuer withheld by employer: AO enforcement like income tax",
+      "exceptions": ["Non-church-members not subject", "Kirchensteuerdeckelung (cap) in some Länder — NRW: no cap but kappable at 3.5% of taxable income upon application"],
+      "source": "https://www.finanzverwaltung.nrw.de/kirchensteuer",
+      "sourceLabel": "Finanzverwaltung NRW – Kirchensteuer",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of income tax is levied as Kirchensteuer in NRW?",
+        "options": ["7%", "8%", "9%", "10%"],
+        "correct": 2,
+        "explanation": "NRW levies church tax at 9% of the assessed income tax liability — the same rate as most other German states."
+      }
+    },
+    {
+      "id": 41933,
+      "category": "Urban Planning",
+      "severity": "medium",
+      "icon": "🌉",
+      "title": "Duisburg Innenhafen — Brownfield Redevelopment Law",
+      "subtitle": "Former Duisburg inner harbour converted under NRW planning law",
+      "fullDescription": "Duisburg's Innenhafen, a former industrial harbour, was redeveloped from the 1990s under NRW's BauGB and Städtebauförderung. Now housing the Küppersmühle Museum (Baselitz collection), Infosys offices, and restaurants across 89 hectares. Duisburg also hosts the world's largest inland port (Duisburger Hafen AG, DuisPort) with 21km of quays, processing 4 million TEU equivalents annually including significant China Railway Express cargo.",
+      "penalty": "Brownfield contamination concealment: BBodSchG §§10–16 cleanup orders; Umweltstrafrecht §§324 StGB",
+      "exceptions": ["Nutzungsänderung (change of use) permitted under §§30–35 BauGB after decontamination certificate", "IBA-era buildings: Denkmalschutz overlay"],
+      "source": "https://www.duisport.de",
+      "sourceLabel": "Duisburger Hafen AG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how much cargo does Duisburg's inland port process annually?",
+        "options": ["500,000 TEU", "1.5 million TEU", "4 million TEU equivalent", "8 million TEU"],
+        "correct": 2,
+        "explanation": "DuisPort processes approximately 4 million TEU equivalents annually, making it the world's largest inland port."
+      }
+    },
+    {
+      "id": 41934,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🚨",
+      "title": "Cologne New Year 2015/16 — Police Response Law",
+      "subtitle": "Mass sexual assault event led to StGB reform — §184i",
+      "fullDescription": "The Cologne New Year's Eve 2015/16 mass sexual assaults (Übergriffe) led to direct StGB reforms. §184i (sexual harassment) was introduced in 2016 making unwanted touching of a sexual nature criminally punishable (up to 2 years). §184j (gang sexual harassment) added. Police response was widely criticised; NRW's LKA established new crowd management protocols. Immigration enforcement was also debated nationally.",
+      "penalty": "§184i StGB: up to 2 years imprisonment; §184j: up to 3 years",
+      "exceptions": ["Consent defence under §184 StGB framework", "Group liability requires proof of individual participation or shared intent"],
+      "source": "https://www.bmj.de/sexualstrafrecht",
+      "sourceLabel": "BMJ – Sexualstrafrecht Reform 2016",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which new StGB provision was introduced following the Cologne New Year's Eve 2015/16 events?",
+        "options": ["§177 (rape reform)", "§184i (sexual harassment)", "§238 (stalking reform)", "§126a (domestic violence)"],
+        "correct": 1,
+        "explanation": "§184i StGB (sexuelle Belästigung / sexual harassment) was introduced in 2016 directly in response to the Cologne events."
+      }
+    },
+    {
+      "id": 41935,
+      "category": "Water Law",
+      "severity": "medium",
+      "icon": "💧",
+      "title": "Rhine River Law — NRW Segment",
+      "subtitle": "International Rhine protection under IKSR/WHG in NRW",
+      "fullDescription": "The Rhine flows 228km through NRW, passing Düsseldorf, Cologne, Bonn, and Duisburg. International Rhine Protection Commission (IKSR/ICPR) standards are implemented via WHG and NRW's Landeswassergesetz (LWG NRW). Flood protection: the Rhenish floodplains (Rheinauen) are protected deposition areas. 1986 Sandoz chemical spill (Switzerland) prompted major Rhine protection cooperation. Current Rhine ecology: salmon returned 1990s.",
+      "penalty": "Discharge into Rhine: WHG §89 civil liability; §324 StGB environmental crime",
+      "exceptions": ["Authorised industrial discharges under WHG §8 permit", "Thermal discharge within permitted temperature limits"],
+      "source": "https://www.iksr.org",
+      "sourceLabel": "IKSR – Internationale Kommission zum Schutz des Rheins",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many kilometres of the Rhine flow through NRW?",
+        "options": ["85km", "155km", "228km", "310km"],
+        "correct": 2,
+        "explanation": "The Rhine flows approximately 228 kilometres through NRW, passing major cities including Duisburg, Düsseldorf, Cologne, and Bonn."
+      }
+    },
+    {
+      "id": 41936,
+      "category": "Refugee Law",
+      "severity": "high",
+      "icon": "🏠",
+      "title": "NRW Flüchtlingsaufnahmegesetz",
+      "subtitle": "Refugee reception law — NRW hosts 450,000+ displaced persons",
+      "fullDescription": "NRW's Refugee Reception Act (FlüAG NRW) governs initial reception in 30 Zentrale Unterkünfte (ZUE) and municipal housing. NRW's Königsteiner Schlüssel quota is 21.1% of national arrivals. Following 2015 crisis, NRW accommodated 450,000+ refugees; 2022 Ukraine war brought additional 250,000+ Ukrainian refugees (temporary protection Directive 2001/55/EC). BAMF conducts asylum hearings at NRW ZUEs.",
+      "penalty": "Violations of residence obligation (Residenzpflicht): AufenthG §§95–98 criminal penalties",
+      "exceptions": ["Ukrainian TPS holders free movement in EU until 2025 extended", "Unaccompanied minors under Jugendhilfe separate SGB VIII regime"],
+      "source": "https://www.mkv.nrw.de/integration",
+      "sourceLabel": "MKV NRW – Flüchtlingsaufnahme",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is NRW's approximate share of national refugee arrivals under the Königsteiner Schlüssel quota?",
+        "options": ["12.5%", "17.3%", "21.1%", "28.0%"],
+        "correct": 2,
+        "explanation": "NRW's Königsteiner Schlüssel quota is approximately 21.1% — the largest of any German state, reflecting its population share."
+      }
+    },
+    {
+      "id": 41937,
+      "category": "Labour Law",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Ford Cologne — Automotive Restructuring",
+      "subtitle": "Ford-Werke GmbH Cologne — EV transition and Works Council rights",
+      "fullDescription": "Ford-Werke GmbH in Cologne (established 1930) employs 12,000 people at its Cologne Electrification Centre (CEC), producing the Explorer and Capri electric vehicles since 2023. Restructuring under BetrVG requires Interessenausgleich and Sozialplan negotiations with the Betriebsrat. Ford's €2 billion EV investment is supported by NRW economic development (NRW.Invest). Ford faces workforce reductions as ICE production winds down.",
+      "penalty": "Failure to negotiate Sozialplan: Labour court injunction; BetrVG §113 compensation",
+      "exceptions": ["Tarifvertrag (collective agreement) provisions may supplement BetrVG minimum", "EU Just Transition Fund contributions separate from employer obligations"],
+      "source": "https://www.ford.de/ueber-ford/cologne-electrification-centre",
+      "sourceLabel": "Ford – Cologne Electrification Centre",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many people does Ford-Werke GmbH employ in Cologne?",
+        "options": ["4,000", "8,000", "12,000", "18,000"],
+        "correct": 2,
+        "explanation": "Ford-Werke GmbH employs approximately 12,000 people at its Cologne facilities, including the new Cologne Electrification Centre."
+      }
+    },
+    {
+      "id": 41938,
+      "category": "Telecommunications Law",
+      "severity": "medium",
+      "icon": "📡",
+      "title": "Deutsche Telekom Bonn HQ — TKG Compliance",
+      "subtitle": "Telecommunications Act obligations for Germany's largest telecoms operator",
+      "fullDescription": "Deutsche Telekom AG, historically headquartered in Bonn (Post-Reorganisationsgesetz 1995 separation from Bundespost), is subject to the Telekommunikationsgesetz (TKG 2021) implementing EU EECC. As the former Monopolist with Marktbeherrschung, Telekom is subject to BNetzA wholesale access obligations on its fibre and copper network. Telekom serves 40+ million German lines. NRW is its largest single market.",
+      "penalty": "TKG access refusal: BNetzA §135 enforcement; fines up to €500,000",
+      "exceptions": ["New fibre infrastructure: regulatory holiday (Regulierungsferien) up to 7 years", "Emergency services (Notruf) obligations override commercial terms"],
+      "source": "https://www.telekom.de",
+      "sourceLabel": "Deutsche Telekom AG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "From which 1995 legislation did Deutsche Telekom separate from the Bundespost?",
+        "options": ["Privatisierungsgesetz 1994", "Post-Reorganisationsgesetz 1995", "TKG 1996", "PostG 1997"],
+        "correct": 1,
+        "explanation": "Deutsche Telekom was separated from Deutsche Bundespost under the Post-Reorganisationsgesetz 1995 before its IPO in 1996."
+      }
+    },
+    {
+      "id": 41939,
+      "category": "University Law",
+      "severity": "medium",
+      "icon": "🎓",
+      "title": "Hochschulgesetz NRW — University Autonomy",
+      "subtitle": "66 universities in NRW under HG NRW 2014",
+      "fullDescription": "NRW's University Act (HG NRW 2014, revised 2021) governs 66 higher education institutions including RWTH Aachen (top engineering), University of Cologne (Germany's largest by enrollment ~52,000), TU Dortmund, Ruhr-Universität Bochum, and University of Münster. NRW has no tuition fees since 2011 (re-abolished after brief 2006–2011 fees). The Hochschulzulassung (university admission) for restricted subjects uses stiftungochschulstart.de.",
+      "penalty": "False university admission documents: §263 StGB fraud; academic expulsion",
+      "exceptions": ["Private universities (e.g. WHU, IU) set own tuition", "Studiengebühren for Langzeitstudenten (long-term students >4 semesters over standard) up to €500/semester"],
+      "source": "https://www.mkw.nrw.de/hochschule",
+      "sourceLabel": "MKW NRW – Hochschulen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many higher education institutions does NRW govern under HG NRW?",
+        "options": ["28", "45", "66", "83"],
+        "correct": 2,
+        "explanation": "NRW governs 66 higher education institutions under HG NRW, including RWTH Aachen and Germany's largest university, Cologne."
+      }
+    },
+    {
+      "id": 41940,
+      "category": "Immigration Law",
+      "severity": "medium",
+      "icon": "🌍",
+      "title": "Ausländerbehörde Köln — Residence Law",
+      "subtitle": "NRW residence title issuance — largest foreign population in Germany",
+      "fullDescription": "NRW has Germany's largest foreign-born population (approximately 3.5 million, 19% of state population). Ausländerbehörden (immigration offices) in Cologne, Düsseldorf, and Dortmund issue Aufenthaltstitel under AufenthG and BeschV. Cologne's Ausländerbehörde is Germany's largest municipal immigration office. The NRW integration programme under Integrationsgesetz NRW (2017) requires language and civic course completion.",
+      "penalty": "Overstaying visa/permit: AufenthG §95 up to 1 year; deportation possible",
+      "exceptions": ["EU/EEA citizens: FreizügG/EU replaces AufenthG", "Researchers under §18d AufenthG facilitated admission"],
+      "source": "https://www.mkv.nrw.de/auslaender",
+      "sourceLabel": "MKV NRW – Ausländerbehörden",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately what percentage of NRW's population is foreign-born?",
+        "options": ["9%", "14%", "19%", "26%"],
+        "correct": 2,
+        "explanation": "Approximately 19% of NRW's population (about 3.5 million people) is foreign-born, the highest proportion of any German state in absolute terms."
+      }
+    },
+    {
+      "id": 41941,
+      "category": "Competition Law",
+      "severity": "high",
+      "icon": "⚖️",
+      "title": "Bundeskartellamt Bonn — Competition Enforcement",
+      "subtitle": "Federal Competition Authority headquartered in Bonn since 1958",
+      "fullDescription": "The Bundeskartellamt (Federal Cartel Office) is headquartered in Bonn and enforces German and EU competition law under GWB (Gesetz gegen Wettbewerbsbeschränkungen). Major NRW cases include Rheinische Post media concentration investigations and Ruhr energy merger reviews. Under GWB §19a (2021), the Kartellamt gained expanded digital platform powers (GAFA companies subject to ex ante regulation). Fines of up to 10% of global turnover.",
+      "penalty": "Cartel participation: GWB §§1–2 violation; fines up to 10% global turnover + private damages",
+      "exceptions": ["Efficiency defences under GWB §2 (equivalent to TFEU Art. 101(3))", "Merger control below EU threshold uses GWB §§35–43"],
+      "source": "https://www.bundeskartellamt.de",
+      "sourceLabel": "Bundeskartellamt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which 2021 GWB provision did the Bundeskartellamt gain expanded powers over digital platforms?",
+        "options": ["§18 GWB", "§19a GWB", "§20 GWB", "§32e GWB"],
+        "correct": 1,
+        "explanation": "§19a GWB (10th amendment, 2021) gives the Bundeskartellamt authority to impose ex ante obligations on companies of 'paramount significance' for competition across markets — targeting GAFA."
+      }
+    },
+    {
+      "id": 41942,
+      "category": "Sports Law",
+      "severity": "low",
+      "icon": "⚽",
+      "title": "50+1 Rule — Borussia Dortmund and Schalke",
+      "subtitle": "DFL 50+1 ownership rule upheld for Bundesliga clubs",
+      "fullDescription": "The 50+1 rule (DFL-Statuten) requires German Bundesliga clubs to retain majority control in their registered association (e.V.). NRW clubs Borussia Dortmund (BVB, publicly listed since 2000 — rare exception), Schalke 04, Bayer Leverkusen (Bayer AG exception as historical investor), and 1. FC Köln are all subject. The Bundeskartellamt reviewed the rule in 2021 and found it compatible with competition law. Bayer Leverkusen won Bundesliga 2023/24 unbeaten.",
+      "penalty": "DFL statutes violation: exclusion from Bundesliga competition",
+      "exceptions": ["Historical investor exemption (Bayer 04, Wolfsburg) grandfathered pre-1998", "BVB listed on Frankfurt Stock Exchange as exception with e.V. majority"],
+      "source": "https://www.bundesliga.com/de/bundesliga/news/50-1-regel",
+      "sourceLabel": "DFL – 50+1 Regel",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which NRW club won the Bundesliga in season 2023/24 without losing a single game?",
+        "options": ["Borussia Dortmund", "Schalke 04", "Bayer 04 Leverkusen", "1. FC Köln"],
+        "correct": 2,
+        "explanation": "Bayer 04 Leverkusen, coached by Xabi Alonso, won the 2023/24 Bundesliga title unbeaten — an unprecedented achievement."
+      }
+    },
+    {
+      "id": 41943,
+      "category": "Environmental Law",
+      "severity": "medium",
+      "icon": "🌲",
+      "title": "Nationalpark Eifel — NRW's Only National Park",
+      "subtitle": "Eifel National Park established 2004 — 10,700 hectares",
+      "fullDescription": "The Eifel National Park (Nationalpark Eifel), established 2004, is NRW's only national park at 10,700 hectares. It borders Belgium's Hautes Fagnes nature reserve. Governed under LNatSchG NRW §§27–36 and BNatSchG §§24–26. Core zone (Kernzone) covers 75% by 2034 goal. Wild horses (Dülmener horses) and beavers are reintroduced. Staudammwaldt Urfttal restricted zone for drinking water protection.",
+      "penalty": "Off-trail hiking in core zones: LNatSchG NRW §§69–73 fines up to €50,000",
+      "exceptions": ["Scientific research access permits from Nationalparkforstamt", "Emergency services access unrestricted"],
+      "source": "https://www.nationalpark-eifel.de",
+      "sourceLabel": "Nationalpark Eifel",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was the Eifel National Park established?",
+        "options": ["1998", "2001", "2004", "2010"],
+        "correct": 2,
+        "explanation": "The Eifel National Park was established in 2004, making it one of Germany's newer national parks and NRW's only one."
+      }
+    },
+    {
+      "id": 41944,
+      "category": "Public Finance Law",
+      "severity": "high",
+      "icon": "💰",
+      "title": "NRW Schuldenbremse — Debt Brake",
+      "subtitle": "Constitutional debt limitation — NRW largest debtor among German states",
+      "fullDescription": "NRW is Germany's most indebted state (Bundesland) with approximately €145 billion in debt (2024). The federal Schuldenbremse (Basic Law Art. 109, 115) requires structural balance from 2020, with NRW's own Verfassung NRW Art. 83 implementing it. NRW missed targets repeatedly; exceptions under 'unusual circumstances' (COVID: €25 billion NRW rescue fund) were contested before VerfGH NRW. NRW's debt per capita: ~€8,000.",
+      "penalty": "Schuldenbremse violation: VerfGH NRW review; political accountability — no direct fine",
+      "exceptions": ["Natural disasters and extraordinary situations (Art. 109 GG §3)", "Investment exceptions debated constitutionally after BVerfG 2023 ruling"],
+      "source": "https://www.mf.nrw.de/haushalt",
+      "sourceLabel": "NRW Finanzministerium – Haushalt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how much debt does NRW carry — the highest of any German state?",
+        "options": ["€65 billion", "€95 billion", "€145 billion", "€210 billion"],
+        "correct": 2,
+        "explanation": "NRW carries approximately €145 billion in debt as of 2024, the largest of any German state in absolute terms."
+      }
+    },
+    {
+      "id": 41945,
+      "category": "Child Protection",
+      "severity": "high",
+      "icon": "👶",
+      "title": "Kinderschutzgesetz NRW",
+      "subtitle": "Child protection law — mandatory reporting and Jugendamt powers",
+      "fullDescription": "NRW's Child Protection Act (KindSchG NRW 2012) strengthened mandatory reporting duties for professionals working with children. 188 Jugendämter (youth welfare offices) operate across NRW's 396 municipalities and counties. After the Lügde abuse scandal (2019 — systemic abuse at Lügde camping site) and Münster abuse ring (2020), NRW introduced enhanced Jugendamt coordination protocols and KJHG reform measures.",
+      "penalty": "Failure to report suspected abuse by duty-bearers: §§138, 323c StGB; professional sanctions",
+      "exceptions": ["Therapeutic privilege (limited) for counselling professionals", "Attorney-client privilege partially maintained"],
+      "source": "https://www.mfkjks.nrw.de/kinderschutz",
+      "sourceLabel": "MFKJKS NRW – Kinderschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many Jugendämter (youth welfare offices) operate across NRW?",
+        "options": ["86", "120", "188", "250"],
+        "correct": 2,
+        "explanation": "NRW has 188 Jugendämter across its 396 municipalities and counties, providing the child welfare infrastructure."
+      }
+    },
+    {
+      "id": 41946,
+      "category": "Waste Management",
+      "severity": "medium",
+      "icon": "♻️",
+      "title": "Abfallgesetz NRW — Waste Management",
+      "subtitle": "NRW recycling rate 68% — landfill ban operative since 2005",
+      "fullDescription": "NRW's Waste Act (AbfG NRW) implements federal KrWG (Kreislaufwirtschaftsgesetz). Since 2005, no untreated municipal waste may go to landfill (DepV). NRW's recycling rate is 68%, above the 65% EU 2035 target. NRW has 50+ waste incineration and recovery plants. Extended producer responsibility (EPR) under VerpackG (Packaging Act 2019) requires dual systems registration (Der Grüne Punkt, Reclay). Cologne and Düsseldorf operate separate organic waste (Biotonne) collections.",
+      "penalty": "Illegal dumping (Schwarzkippen): OWiG fines up to €100,000; KrWG §§69–71 criminal liability",
+      "exceptions": ["Construction waste under separate AVV (Abfallverzeichnis-Verordnung) regime", "WEEE electrical waste under ElektroG separate producer take-back"],
+      "source": "https://www.umwelt.nrw.de/abfall",
+      "sourceLabel": "MULNV NRW – Abfallwirtschaft",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is NRW's current recycling rate?",
+        "options": ["52%", "60%", "68%", "75%"],
+        "correct": 2,
+        "explanation": "NRW achieves a recycling rate of approximately 68%, exceeding the EU 2035 target of 65%."
+      }
+    },
+    {
+      "id": 41947,
+      "category": "Energy Law",
+      "severity": "high",
+      "icon": "⚡",
+      "title": "Amprion — Transmission Grid Operator NRW",
+      "subtitle": "Amprion operates NRW's 11,000km high-voltage grid",
+      "fullDescription": "Amprion GmbH (Dortmund), one of Germany's four transmission system operators (TSOs), manages 11,000km of high-voltage (220/380kV) lines across NRW, Rhineland-Palatinate, and Baden-Württemberg. Under EnWG §21a, Amprion is subject to incentive regulation (Anreizregulierung) by BNetzA. Grid expansion under NEP (Netzentwicklungsplan) for renewables integration: North-South DC corridors. RWE divested Amprion 2011 under unbundling rules.",
+      "penalty": "Grid access denial: EnWG §17; BNetzA enforcement; compensation claims",
+      "exceptions": ["Force majeure grid congestion exceptions under Redispatch 2.0", "Military/critical infrastructure priority access"],
+      "source": "https://www.amprion.net",
+      "sourceLabel": "Amprion GmbH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many kilometres of high-voltage lines does Amprion manage?",
+        "options": ["4,500km", "7,800km", "11,000km", "15,500km"],
+        "correct": 2,
+        "explanation": "Amprion manages approximately 11,000km of high-voltage transmission lines (220/380kV) across its grid area."
+      }
+    },
+    {
+      "id": 41948,
+      "category": "Animal Welfare",
+      "severity": "medium",
+      "icon": "🐷",
+      "title": "Tierschutz in der Schweinehaltung NRW",
+      "subtitle": "Animal welfare for pig farming — 7 million pigs in NRW's Münsterland",
+      "fullDescription": "NRW's Münsterland region houses approximately 7 million pigs — Germany's highest regional concentration. The Tierschutz-Nutztierhaltungsverordnung (TierSchNutztV) mandates minimum space: 0.75m² per pig over 85kg. NRW's Tierschutzplan (2020) phases out surgical castration without anaesthesia (banned since 2021). Live pig transport over 8 hours without water banned. Animal welfare label (4-Stufen-Modell) voluntary but increasingly retailer-required.",
+      "penalty": "TierSchNutztV violation: TierSchG §18 Ordnungswidrigkeiten up to €25,000; criminal §17 up to 3 years",
+      "exceptions": ["Organic farming has additional space requirements under EU 2018/848", "Immunocastration alternative (Improvac) as surgical castration alternative"],
+      "source": "https://www.mlv.nrw.de/tierschutz",
+      "sourceLabel": "MLV NRW – Tierschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many pigs are kept in NRW's Münsterland region?",
+        "options": ["2 million", "4 million", "7 million", "11 million"],
+        "correct": 2,
+        "explanation": "NRW's Münsterland region houses approximately 7 million pigs, Germany's highest regional pig concentration."
+      }
+    },
+    {
+      "id": 41949,
+      "category": "Historical Law",
+      "severity": "informational",
+      "icon": "📜",
+      "title": "Bonn — Former Capital Legal Legacy",
+      "subtitle": "Bonn-Berlin Act 1994 — federal ministries partially remaining in Bonn",
+      "fullDescription": "The Berlin/Bonn Act (Gesetz zur Umsetzung des Beschlusses des Deutschen Bundestages vom 20. Juni 1991) codified the partial retention of government functions in Bonn after Berlin became capital. Six federal ministries retain their first seat in Bonn: BMEL, BMAS, BMVJ, BMG, BMWSB, and BMBF. Approximately 8,000 federal civil servants remain in Bonn. United Nations agencies including UNFCCC, UNCCD, and Bonn Convention are headquartered there.",
+      "penalty": "No criminal penalty — administrative law governs ministry location",
+      "exceptions": ["Bundestag and Bundesrat are exclusively in Berlin", "Chancellor's office and BMF are exclusively in Berlin"],
+      "source": "https://www.bundesregierung.de/bonn-berlin",
+      "sourceLabel": "Bundesregierung – Bonn-Berlin",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many UN agencies have their headquarters in Bonn?",
+        "options": ["2", "5", "14+", "over 20"],
+        "correct": 2,
+        "explanation": "Bonn hosts 14+ UN organisations including UNFCCC, UNCCD, and CMS (Convention on Migratory Species) — the largest UN presence outside New York and Geneva."
+      }
+    },
+    {
+      "id": 41950,
+      "category": "Infrastructure Law",
+      "severity": "medium",
+      "icon": "🌉",
+      "title": "Leverkusen Bridge Replacement — Major Infrastructure Law",
+      "subtitle": "A1 Leverkusen bridge replacement — HGV ban and federal procurement",
+      "fullDescription": "The Leverkusen Rhine bridge (A1) was subject to a 3-tonne HGV ban from 2012 due to structural deterioration, causing massive Ruhr area freight disruptions. Replacement construction began 2021 under VIFG (Verkehrsinfrastrukturfinanzierungsgesellschaft) procurement. The project illustrates Germany's infrastructure maintenance backlog (Investitionsstau). Under HOAI (Honorarordnung für Architekten und Ingenieure) and VOB (construction procurement), the €3.9 billion project is one of Germany's largest bridge projects.",
+      "penalty": "Breaching HGV ban: §§24,25 StVG; fines up to €5,000 per violation",
+      "exceptions": ["Emergency vehicles exempt", "Permitted maximum 3 tonnes GVW local deliveries"],
+      "source": "https://www.autobahn.de/leverkusen",
+      "sourceLabel": "Die Autobahn GmbH – Leverkusen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What weight restriction was imposed on the Leverkusen Rhine bridge from 2012?",
+        "options": ["1 tonne", "2 tonnes", "3 tonnes", "5 tonnes"],
+        "correct": 2,
+        "explanation": "A 3-tonne maximum GVW restriction was imposed on the Leverkusen A1 Rhine bridge from 2012 due to structural deterioration."
+      }
+    }
+  ,
+    {
+      "id": 41951,
+      "category": "Carnival Law",
+      "severity": "low",
+      "icon": "🎭",
+      "title": "Cologne Carnival — Narrenfreiheit and Public Order",
+      "subtitle": "Rosenmontag — 1.5 million participants, police temporary measures",
+      "fullDescription": "Cologne's Carnival (Kölner Karneval) brings up to 1.5 million people to the Rosenmontagszug (parade). While Narrenfreiheit (fool's freedom) has no formal legal basis, police apply flexible enforcement under PolG NRW and OBG NRW during the 'crazy days' (Tolle Tage). Alcohol in public spaces is technically regulated under GastG and municipal ordinances but informally tolerated. The Festkomitee Kölner Karneval e.V. has public event organiser duties under VStättVO NRW.",
+      "penalty": "Public disorder: OBG NRW §§14–17 Platzverweis; intoxicated HGV driving: StGB §316",
+      "exceptions": ["Carnival Sondergenehmigungen for extended bar hours", "Rosenmontagszug street closure under municipal law"],
+      "source": "https://www.koelnerkarneval.de",
+      "sourceLabel": "Festkomitee Kölner Karneval",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many people typically attend Cologne's Rosenmontagszug parade?",
+        "options": ["250,000", "750,000", "1.5 million", "3 million"],
+        "correct": 2,
+        "explanation": "Cologne's Rosenmontagszug draws up to 1.5 million participants and spectators, making it one of Europe's largest street festivals."
+      }
+    },
+    {
+      "id": 41952,
+      "category": "Healthcare Law",
+      "severity": "high",
+      "icon": "🔬",
+      "title": "Fraunhofer / Max Planck NRW — Research IP Law",
+      "subtitle": "Arbeitnehmererfindungsgesetz at NRW's major research institutes",
+      "fullDescription": "NRW hosts 18 Fraunhofer institutes and 10 Max Planck institutes. Employee inventions are governed by Arbeitnehmererfindungsgesetz (ArbEG): employers have 4 months to claim inventions; employees receive fair compensation (usually 1–3% of sales revenue). Fraunhofer's contract research model generates royalties; Max Planck's basic research generates patents licensed commercially. Jülich Research Centre (FZJ) handles nuclear research under AtG.",
+      "penalty": "ArbEG violation (no compensation): employee injunction; damages claim",
+      "exceptions": ["Free inventions (freie Erfindungen) outside employee's work scope remain employee property", "Software copyright separate from patent under §69a UrhG"],
+      "source": "https://www.fraunhofer.de",
+      "sourceLabel": "Fraunhofer-Gesellschaft",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under ArbEG, how many months does an employer have to claim an employee invention?",
+        "options": ["1 month", "2 months", "4 months", "6 months"],
+        "correct": 2,
+        "explanation": "Under §6 ArbEG, employers must claim an employee invention within 4 months or it becomes a free invention."
+      }
+    },
+    {
+      "id": 41953,
+      "category": "Trade Fair Law",
+      "severity": "medium",
+      "icon": "🏟️",
+      "title": "Koelnmesse — Trade Fair Regulation",
+      "subtitle": "Koelnmesse hosts Photokina, Gamescom, Anuga — 284,000m² venue",
+      "fullDescription": "Koelnmesse, Europe's second-largest trade fair venue at 284,000m² of net exhibition space, hosts 80+ trade fairs annually including Gamescom (world's largest gaming expo, 300,000+ visitors), Anuga (food), and Art Cologne. Koelnmesse GmbH is owned by City of Cologne (79.4%) and NRW (20.6%). Trade fairs require Veranstaltergenehmigung under GastG and VStättVO NRW for large assemblies. Press accreditation under Presserecht NRW.",
+      "penalty": "Unaccredited trade fair operation: GastG §§4–12 licence withdrawal; fines",
+      "exceptions": ["Online-only trade shows exempt from venue regulations", "Art fairs under cultural event classification have different GastG treatment"],
+      "source": "https://www.koelnmesse.de",
+      "sourceLabel": "Koelnmesse",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who owns the majority of Koelnmesse GmbH?",
+        "options": ["NRW state (51%)", "City of Cologne (79.4%)", "Private consortium", "Federal government"],
+        "correct": 1,
+        "explanation": "The City of Cologne owns 79.4% of Koelnmesse GmbH, with NRW state holding the remaining 20.6%."
+      }
+    },
+    {
+      "id": 41954,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "⚖️",
+      "title": "OLG Düsseldorf — Major Criminal Jurisdiction",
+      "subtitle": "Oberlandesgericht Düsseldorf — terror and organised crime trials",
+      "fullDescription": "The Oberlandesgericht (OLG) Düsseldorf is NRW's highest ordinary court and handles terrorism trials at first instance under §120 GVG (Staatsschutzsenate). Notable cases include NSU trial connections, Hells Angels organised crime, and major financial fraud. The OLG Cologne handles commercial law and IP. Under GVG, OLGs have Revisionsgerichte functions for district court appeals and first-instance jurisdiction for state security offences.",
+      "penalty": "OLG judgements are binding; non-compliance: enforcement under ZPO/StPO",
+      "exceptions": ["BGH (Federal Court of Justice) has Revision jurisdiction over OLG civil decisions", "BVerfG constitutional challenge possible after OLG"],
+      "source": "https://www.olg-duesseldorf.nrw.de",
+      "sourceLabel": "OLG Düsseldorf",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which GVG provision does OLG Düsseldorf have first-instance jurisdiction for terrorism cases?",
+        "options": ["§74a GVG", "§§102–104 GVG", "§120 GVG", "§142a GVG"],
+        "correct": 2,
+        "explanation": "§120 GVG grants OLGs first-instance jurisdiction for state security (Staatsschutz) offences including terrorism, tried by the Staatsschutzssenat."
+      }
+    },
+    {
+      "id": 41955,
+      "category": "Environmental Law",
+      "severity": "high",
+      "icon": "☢️",
+      "title": "Forschungszentrum Jülich — Nuclear Research Law",
+      "subtitle": "FZJ nuclear legacy — AtG decommissioning obligations",
+      "fullDescription": "Forschungszentrum Jülich (FZJ), one of Europe's largest research centres with 7,000 staff, operated experimental nuclear reactors including AVR (pebble-bed, closed 1988). Decommissioning of nuclear facilities under AtG (Atomgesetz) §§7–9c involves Jülich's COMET project and controversial CASTOR transport of pebble fuel elements. The Jülich Supercomputing Centre (JSC) hosts JUWELS (Germany's fastest supercomputer). BMBF federal ministry oversees as funding ministry.",
+      "penalty": "AtG nuclear safety violations: criminal prosecution §§310–311 StGB; regulatory shutdown orders",
+      "exceptions": ["Research reactors under special AtG §7 permits separate from commercial nuclear", "Medical radioisotope production under separate Strahlenschutzgesetz"],
+      "source": "https://www.fz-juelich.de",
+      "sourceLabel": "Forschungszentrum Jülich",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What type of experimental reactor did Forschungszentrum Jülich operate (closed 1988)?",
+        "options": ["Pressurised water reactor", "Boiling water reactor", "Pebble-bed reactor (AVR)", "Fast breeder reactor"],
+        "correct": 2,
+        "explanation": "Jülich operated the AVR (Arbeitsgemeinschaft Versuchsreaktor), an experimental pebble-bed reactor that ran from 1967 to 1988."
+      }
+    },
+    {
+      "id": 41956,
+      "category": "Social Law",
+      "severity": "medium",
+      "icon": "🤝",
+      "title": "Jobcenter NRW — SGB II Unemployment Benefits",
+      "subtitle": "NRW administers Bürgergeld for 750,000+ recipients",
+      "fullDescription": "NRW's 53 Jobcenter (joint municipal-BA offices) administer Bürgergeld (SGB II basic income support) to approximately 750,000 households. Standard rate since 2024: €563/month for single adults + Kosten der Unterkunft (KdU housing costs). Sanctions regime reformed under Bürgergeld-Gesetz 2023. NRW's Jobcenter Cologne and Dortmund are among Germany's largest. Eingliederungsvereinbarung (integration agreement) replaced by Kooperationsplan.",
+      "penalty": "Fraud under SGB II: §263 StGB; overpayment repayment; benefit suspension",
+      "exceptions": ["Sanction-free period for first 6 months under Bürgergeld reform", "Persons over 63 reduced job placement requirements"],
+      "source": "https://www.arbeitsagentur.de/jobcenter",
+      "sourceLabel": "BA – Jobcenter NRW",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the standard Bürgergeld rate for single adults in Germany since 2024?",
+        "options": ["€502/month", "€530/month", "€563/month", "€590/month"],
+        "correct": 2,
+        "explanation": "Since January 2024, the standard Bürgergeld rate for single adults is €563/month, plus housing costs (KdU) paid separately."
+      }
+    },
+    {
+      "id": 41957,
+      "category": "Heritage Law",
+      "severity": "medium",
+      "icon": "🏰",
+      "title": "Denkmalschutzgesetz NRW — Monument Protection",
+      "subtitle": "130,000 listed monuments in NRW — 2nd most in Germany",
+      "fullDescription": "NRW has approximately 130,000 listed monuments (Denkmäler) under DSchG NRW (1980, revised 2022), second only to Bavaria. Categories: Baudenkmal (buildings), Bodendenkmal (archaeological), Denkmalbereiche (ensembles). The LVR-Amt für Denkmalpflege im Rheinland and LWL-Denkmalpflege supervise for the two regional authorities. Tax incentives: §§7i, 10f, 11b EStG deductions for monument restoration costs.",
+      "penalty": "Unauthorised alteration of listed monument: DSchG NRW §§25–27; fines up to €500,000; restoration order",
+      "exceptions": ["Emergency stabilisation works may proceed with verbal consent (written within 48h)", "Minor maintenance (gleiche Art und Güte) permit-free"],
+      "source": "https://www.mhkbd.nrw.de/denkmalpflege",
+      "sourceLabel": "NRW – Denkmalpflege",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many listed monuments does NRW have?",
+        "options": ["45,000", "80,000", "130,000", "200,000"],
+        "correct": 2,
+        "explanation": "NRW has approximately 130,000 listed monuments under DSchG NRW, the second-highest count of any German state after Bavaria."
+      }
+    },
+    {
+      "id": 41958,
+      "category": "Fire Safety Law",
+      "severity": "high",
+      "icon": "🔥",
+      "title": "BHKG NRW — Fire and Disaster Protection",
+      "subtitle": "Brand- und Katastrophenschutzgesetz — 100,000 volunteer firefighters",
+      "fullDescription": "NRW's Fire and Disaster Protection Act (BHKG NRW 2016) governs Germany's largest fire service system: 350 professional fire brigades, 100,000+ volunteer firefighters (Freiwillige Feuerwehr), and the NRW Katastrophenschutz system. Response target: 10-minute arrival for life-threatening emergencies. BHKG NRW §§60–80 govern civil protection (Bevölkerungsschutz). The Düsseldorf Airport fire 1996 (17 deaths) directly prompted fire safety legal reforms.",
+      "penalty": "Arson: StGB §§306–306f up to life imprisonment; fire safety violations: OBG/BauO NRW",
+      "exceptions": ["Controlled burns in agriculture under LFoG NRW seasonal permits", "Fireworks professional display operators under SprengG"],
+      "source": "https://www.im.nrw/feuerwehr",
+      "sourceLabel": "IM NRW – Feuerwehr und Katastrophenschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many volunteer firefighters (Freiwillige Feuerwehr) does NRW have?",
+        "options": ["30,000", "65,000", "100,000+", "150,000+"],
+        "correct": 2,
+        "explanation": "NRW has over 100,000 volunteer firefighters supplementing 350 professional fire brigades across the state."
+      }
+    },
+    {
+      "id": 41959,
+      "category": "Employment Law",
+      "severity": "medium",
+      "icon": "🏢",
+      "title": "Amazon — E-Commerce Labour Disputes NRW",
+      "subtitle": "Amazon Rhein-Ruhr — ver.di strike action under Arbeitskampfrecht",
+      "fullDescription": "Amazon's Rhein-Ruhr logistics centre (Werne, near Dortmund) and Mönchengladbach distribution centre are major NRW labour conflict sites. Ver.di has organised strikes annually since 2013, demanding Tarifvertrag (collective agreement) at Amazon. Amazon refuses sector-wide tariff application, instead applying company-specific pay. Under German Arbeitskampfrecht (no single statute — common law + collective agreement law), strikes are lawful if called by a union (Gewerkschaft) and directed at an employer.",
+      "penalty": "Unlawful strike: damages claim (§823 BGB); wildcat strike: termination risk",
+      "exceptions": ["Solidarity strikes (Sympathiestreiks) permitted in Germany within limits", "Essential services: not legally subject to compulsory arbitration"],
+      "source": "https://www.verdi.de/themen/arbeit/amazon",
+      "sourceLabel": "ver.di – Amazon-Kampagne",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Since which year has ver.di organised annual strikes at Amazon in Germany?",
+        "options": ["2010", "2013", "2016", "2019"],
+        "correct": 1,
+        "explanation": "Ver.di has organised strikes at Amazon Germany annually since 2013, demanding a sector-wide Tarifvertrag the company refuses to sign."
+      }
+    },
+    {
+      "id": 41960,
+      "category": "Flood Protection",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Ahrtal Flood Disaster Law — NRW Response 2021",
+      "subtitle": "July 2021 flood: NRW disaster response and legal aftermath",
+      "fullDescription": "The July 2021 Ahrtal flooding (primarily Rhineland-Palatinate) also affected NRW's Erft and Inde rivers, causing 49 deaths in NRW (Erftstadt, Hagen). The disaster triggered review of WHG §§72–81 (flood risk management), HWRM-RL (EU Floods Directive 2007/60/EC) implementation, and Katastrophenschutz coordination under BHKG NRW. NRW committed €12 billion in Wiederaufbaufonds. The disaster prompted NRW's Stark-Regen-Vorsorge initiative and Klimafolgenanpassung programme.",
+      "penalty": "Flood zone building violations: WHG §78; BauO NRW demolition orders in HQ100 zones",
+      "exceptions": ["Existing buildings in flood zones: case-by-case retention decisions", "Emergency infrastructure in flood zones with special planning justification"],
+      "source": "https://www.fluthilfe.nrw.de",
+      "sourceLabel": "NRW Flutopfer-Hilfe",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many deaths did the July 2021 flooding cause in NRW?",
+        "options": ["12", "29", "49", "73"],
+        "correct": 2,
+        "explanation": "The July 2021 flooding caused 49 deaths in NRW, primarily in the Erftstadt and Hagen areas, prompting a €12 billion reconstruction fund."
+      }
+    },
+    {
+      "id": 41961,
+      "category": "Railway Law",
+      "severity": "medium",
+      "icon": "🚄",
+      "title": "Köln-Frankfurt Hochgeschwindigkeitsstrecke",
+      "subtitle": "300 km/h high-speed rail line opened 2002 — 177km",
+      "fullDescription": "The Cologne–Frankfurt high-speed line (KRM, Köln–Rhein/Main), opened 2002, runs 177km at up to 300 km/h, reducing journey time to 65 minutes. Built under AEG, EBO, and Planfeststellungsverfahren under UVPG. DB Netz operates the line; ICE services connect Cologne, Bonn, Montabaur, Limburg, Frankfurt Airport, Frankfurt Hbf. Construction cost €6 billion. NRW's section includes Cologne-Siegburg tunnel under PolG NRW security protocol.",
+      "penalty": "Infrastructure interference: StGB §315 endangering rail transport; up to 10 years imprisonment",
+      "exceptions": ["Maintenance windows under Netznutzungsvertrag", "Police/emergency services override normal timetable"],
+      "source": "https://www.bahn.de/service/individuelle-reise/bahn/hochgeschwindigkeitsstrecken",
+      "sourceLabel": "DB – Hochgeschwindigkeitsstrecken",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum speed on the Cologne–Frankfurt high-speed line?",
+        "options": ["250 km/h", "280 km/h", "300 km/h", "320 km/h"],
+        "correct": 2,
+        "explanation": "The Cologne–Frankfurt high-speed line operates at up to 300 km/h, reducing the journey to approximately 65 minutes."
+      }
+    },
+    {
+      "id": 41962,
+      "category": "Construction Law",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Rheinmetall AG — Defence Industry Regulation",
+      "subtitle": "Düsseldorf-based Rheinmetall under Kriegswaffenkontrollgesetz",
+      "fullDescription": "Rheinmetall AG, headquartered in Düsseldorf, is Germany's largest defence company (€9.4 billion revenue, 2023) producing tanks (Leopard components, Lynx IFV) and ammunition. Arms exports require Ausfuhrgenehmigung from BAFA under Außenwirtschaftsgesetz (AWG), Kriegswaffenkontrollgesetz (KWKG), and EU Common Position 2008/944/CFSP. Rheinmetall's NRW plants (Unterlüß components, Düsseldorf HQ) are subject to AWG dual-use controls. Ukraine deliveries accelerated post-2022 under exceptional approval procedures.",
+      "penalty": "Unlicensed arms export: AWG §17; KWKG §22a up to 5 years imprisonment",
+      "exceptions": ["Intra-EU transfers under Directive 2009/43/EC simplified", "NATO mutual defence transfers under BAAINBw government-to-government"],
+      "source": "https://www.rheinmetall.com",
+      "sourceLabel": "Rheinmetall AG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which federal authority approves arms export licences under AWG for companies like Rheinmetall?",
+        "options": ["Bundeswehr", "BND", "BAFA", "BMVg"],
+        "correct": 2,
+        "explanation": "BAFA (Bundesamt für Wirtschaft und Ausfuhrkontrolle) issues dual-use and arms export licences under AWG and KWKG."
+      }
+    },
+    {
+      "id": 41963,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🛡️",
+      "title": "Verbraucherzentrale NRW",
+      "subtitle": "Consumer advice centre NRW — §8 UWG cease-and-desist authority",
+      "fullDescription": "Verbraucherzentrale NRW, headquartered in Düsseldorf, is Germany's second-largest state consumer centre. Under §8 Abs.3 Nr.3 UWG, it has standing to seek injunctions against unfair commercial practices. Major actions: energy provider price increase notifications, subscription traps (Abofallen), and AI-generated fake reviews. NRW's consumer centre operates 31 advice offices. Annual budget: ~€15 million, co-funded by NRW and federal government.",
+      "penalty": "UWG violation after cease-and-desist: Vertragsstrafe up to €5,000 per breach",
+      "exceptions": ["B2B transactions outside UWG consumer protection scope", "Editorial content not subject to UWG commercial practice rules"],
+      "source": "https://www.verbraucherzentrale.nrw.de",
+      "sourceLabel": "Verbraucherzentrale NRW",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which UWG provision does Verbraucherzentrale NRW have standing to file injunctions?",
+        "options": ["§3 UWG", "§7 UWG", "§8 Abs.3 Nr.3 UWG", "§10 UWG"],
+        "correct": 2,
+        "explanation": "§8 Abs.3 Nr.3 UWG grants consumer protection organisations like Verbraucherzentrale NRW standing to seek injunctions against unfair commercial practices."
+      }
+    },
+    {
+      "id": 41964,
+      "category": "Telecommunications Law",
+      "severity": "medium",
+      "icon": "📱",
+      "title": "Vodafone Germany — Cable Network and TKG",
+      "subtitle": "Vodafone Düsseldorf — 25 million cable TV households under TKG 2021",
+      "fullDescription": "Vodafone Germany (Düsseldorf HQ), following acquisition of Unitymedia 2019, operates Germany's largest cable network serving 25 million homes. Under TKG 2021 (implementing EECC), Vodafone must offer wholesale access to its cable network. The Kabelbelegungsrecht (mandatory must-carry for public broadcasters) under §§80–82 MStV applies. BNetzA ruled Vodafone's Nebenkostenprivileg (landlord bundled cable contracts) illegal from July 2024 — 12 million household contracts affected.",
+      "penalty": "TKG must-carry violation: BNetzA §135 enforcement; fines and mandatory injunctions",
+      "exceptions": ["New fibre build not subject to must-carry in same way as legacy cable", "Pay TV channels exempt from public broadcaster must-carry rules"],
+      "source": "https://www.vodafone.de",
+      "sourceLabel": "Vodafone Germany",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What practice did BNetzA rule illegal for Vodafone from July 2024?",
+        "options": ["5G coverage gaps", "Streaming throttling", "Nebenkostenprivileg (landlord cable bundling)", "Roaming charges"],
+        "correct": 2,
+        "explanation": "BNetzA ruled the Nebenkostenprivileg — where landlords bundled Vodafone cable into service charges — illegal, affecting 12 million households."
+      }
+    },
+    {
+      "id": 41965,
+      "category": "Labour Law",
+      "severity": "medium",
+      "icon": "🏪",
+      "title": "Metro AG — Wholesale Trade Regulation",
+      "subtitle": "METRO headquartered in Düsseldorf — wholesale trade law",
+      "fullDescription": "METRO AG, headquartered in Düsseldorf, operates cash-and-carry wholesale stores restricted to registered business customers (Gewerbetreibende). Under UStG, METRO transactions are B2B (no consumer VAT split complications). METRO's trade card (Kundenkarte) system requires Gewerbeschein proof. METRO employs 95,000 globally, 25,000 in Germany. Under Mindestlohngesetz (MiLoG), METRO employees receive €12.41/hour minimum (2024).",
+      "penalty": "MiLoG violation: BOGR enforcement; fines up to €500,000 for repeat minimum wage breaches",
+      "exceptions": ["Long-term unemployed persons: minimum wage exception first 6 months (contested)", "Youth internships under limited Mindestlohn exemption"],
+      "source": "https://www.metroag.de",
+      "sourceLabel": "METRO AG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What type of customers may shop at METRO cash-and-carry stores?",
+        "options": ["Any adult with a passport", "Registered business customers only", "Shareholders and their families", "Anyone with a METRO card"],
+        "correct": 1,
+        "explanation": "METRO is a wholesale B2B retailer restricted to registered business customers (Gewerbetreibende) who must show proof of trade registration."
+      }
+    },
+    {
+      "id": 41966,
+      "category": "Social Law",
+      "severity": "medium",
+      "icon": "👴",
+      "title": "Pflegegesetz NRW — Care Services Law",
+      "subtitle": "NRW Alten- und Pflegegesetz — 360,000 care home residents",
+      "fullDescription": "NRW's Alten- und Pflegegesetz (APG NRW 2014, revised 2022) governs 3,200+ care homes housing 360,000 residents. Nursing home operators must meet WTG NRW (Wohn- und Teilhabegesetz) standards. Following COVID-19 deaths in care homes (2020–2021), NRW strengthened inspections (WTG-DVO). Pflegekassen (SGB XI) finance care; residents pay Eigenanteil (self-pay) averaging €2,800/month in NRW. Staff-to-resident ratios: minimum 1:2.5 for night shifts.",
+      "penalty": "WTG NRW violations: home closure orders; fines up to €50,000",
+      "exceptions": ["Ambulant (home) care services under SGB XI separate regulatory regime", "Hospice care under separate Hospiz- und Palliativgesetz"],
+      "source": "https://www.mags.nrw.de/pflege",
+      "sourceLabel": "MAGS NRW – Pflege",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many care home residents live in NRW?",
+        "options": ["120,000", "220,000", "360,000", "500,000"],
+        "correct": 2,
+        "explanation": "NRW has approximately 360,000 care home residents across 3,200+ facilities regulated under APG NRW and WTG NRW."
+      }
+    },
+    {
+      "id": 41967,
+      "category": "Environmental Law",
+      "severity": "high",
+      "icon": "🌱",
+      "title": "Münsterland Agri-Environment Scheme",
+      "subtitle": "Vertragsnaturschutz NRW — biodiversity payments for farmers",
+      "fullDescription": "NRW's Vertragsnaturschutz programme (VNS NRW) pays farmers in the Münsterland, Eifel, and Niederrhein regions to maintain biodiversity-friendly practices: delayed mowing (Wiesenbrüter), hedge retention, flower strips. Funded under EAFRD (EU Rural Development) and NRW Agrarförderung. NRW's Red List shows 40% of species threatened. The Hammerbach programme specifically targets field birds (Kiebitz, Feldlerche) with breeding protection payments.",
+      "penalty": "Violation of Vertragsnaturschutz commitments: repayment of all grants received plus interest",
+      "exceptions": ["Force majeure crop failure: payment maintained subject to notification", "Natura 2000 obligations separate from voluntary Vertragsnaturschutz"],
+      "source": "https://www.landwirtschaftskammer.de/foerderung/vertragsnaturschutz",
+      "sourceLabel": "Landwirtschaftskammer NRW – Vertragsnaturschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of NRW species are on the Red List (threatened)?",
+        "options": ["15%", "25%", "40%", "55%"],
+        "correct": 2,
+        "explanation": "NRW's Red List shows approximately 40% of species are threatened, driving the Vertragsnaturschutz programme."
+      }
+    },
+    {
+      "id": 41968,
+      "category": "Road Traffic Law",
+      "severity": "medium",
+      "icon": "🚗",
+      "title": "A40 Ruhrschnellweg — Traffic Law",
+      "subtitle": "Busiest motorway in Germany — 180,000 vehicles daily",
+      "fullDescription": "The A40 (Ruhrschnellweg), running east-west through the Ruhr from Dortmund to Venlo (NL), carries up to 180,000 vehicles/day in places — Germany's busiest motorway sections. Speed limits (StVO): standard 130 km/h advisory; variable message signs (Streckenbeeinflussungsanlage) reduce to 80km/h during congestion or pollution events. NRW has 2,200km of Autobahn managed by Autobahn GmbH (since 2021). Significant HGV traffic from Rhine-Ruhr industrial zone.",
+      "penalty": "Speed limit violations: BKatV; speeding 30km/h over 80km/h limit: €160 + 2 points (Flensburg) + 1 month ban",
+      "exceptions": ["Emergency vehicles: StVO §38 — unrestricted speed with siren/lights", "No general Autobahn speed limit in Germany — 130 advisory only (some NRW sections have permanent limits)"],
+      "source": "https://www.autobahn.de",
+      "sourceLabel": "Autobahn GmbH – A40",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many vehicles use the A40 Ruhrschnellweg at its busiest sections daily?",
+        "options": ["80,000", "120,000", "180,000", "250,000"],
+        "correct": 2,
+        "explanation": "The A40 carries up to 180,000 vehicles per day at its most congested sections, making it Germany's busiest motorway."
+      }
+    },
+    {
+      "id": 41969,
+      "category": "Data Protection",
+      "severity": "high",
+      "icon": "💻",
+      "title": "NSA-BND Surveillance Affair — NRW Connection",
+      "subtitle": "Parliamentary oversight of BND operations under G-10-Gesetz",
+      "fullDescription": "The 2013 NSA-BND surveillance revelations (Snowden documents) revealed mass interception of communications including NRW residents and businesses. The G-10-Gesetz (restricting telecommunications secrecy under Art. 10 GG) governs BND surveillance powers. The Parlamentarisches Kontrollgremium (PKGr) oversees intelligence services. NRW's Verfassungsschutz coordinates with BfV. The BVerfG's BND-Urteil (2020) ruled BND surveillance of foreign nationals outside Germany must respect basic rights.",
+      "penalty": "Unlawful intelligence surveillance: G-10-Gesetz §§4–15; criminal prosecution possible",
+      "exceptions": ["G-10 restriction orders authorised by G10-Kommission (4 members)", "Counter-terrorism surveillance under ATDG database sharing"],
+      "source": "https://www.bundestag.de/pkgr",
+      "sourceLabel": "Bundestag – Parlamentarisches Kontrollgremium",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which BVerfG judgement (year) ruled that BND surveillance of foreign nationals must respect basic rights?",
+        "options": ["2016 BND-Urteil", "2018 BND-Urteil", "2020 BND-Urteil", "2022 BND-Urteil"],
+        "correct": 2,
+        "explanation": "The BVerfG's BND-Urteil of May 2020 (1 BvR 2835/17) ruled that BND foreign surveillance must respect the fundamental rights of non-Germans outside Germany."
+      }
+    },
+    {
+      "id": 41970,
+      "category": "Space Law",
+      "severity": "low",
+      "icon": "🚀",
+      "title": "DLR Cologne — Aerospace Law",
+      "subtitle": "German Aerospace Center HQ in Cologne-Porz under LuftVG",
+      "fullDescription": "DLR (Deutsches Zentrum für Luft- und Raumfahrt), headquartered at Cologne-Porz, is Germany's national aerospace research centre with 11,000 staff. DLR operates under LuftVG, AtG (nuclear propulsion research), and SpaceBel (Space Business Environment). Germany's Raumfahrtgesetz (2024, pending) will create national space law framework. DLR's astronaut centre selects and trains ESA astronauts. German participation in ISS under intergovernmental agreements separate from domestic law.",
+      "penalty": "Violation of LuftVG for experimental aircraft: §§58–62 LuftVG; up to 2 years imprisonment",
+      "exceptions": ["Scientific balloons under LuftVG §§20–21 simplified notification", "ESA launches from third countries under international space law (Outer Space Treaty 1967)"],
+      "source": "https://www.dlr.de",
+      "sourceLabel": "DLR – Deutsches Zentrum für Luft- und Raumfahrt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many staff does DLR (Germany's aerospace center, HQ Cologne) employ?",
+        "options": ["3,500", "6,000", "11,000", "18,000"],
+        "correct": 2,
+        "explanation": "DLR employs approximately 11,000 staff at its Cologne headquarters and research sites across Germany."
+      }
+    },
+    {
+      "id": 41971,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🚨",
+      "title": "Hells Angels and Bandidos Ban NRW",
+      "subtitle": "Motorcycle club bans under VereinsG §3",
+      "fullDescription": "NRW's Interior Ministry banned multiple Hells Angels and Bandidos chapters under VereinsG §3 (organisation ban), including the Hells Angels MC Westside Cologne (2018) and Bandidos MC chapters across the Ruhr. NRW's LKA estimated 2,500 outlaw motorcycle gang (OMG) members in 2023. Rockerkrieg conflicts resulted in shootings and assaults in Dortmund and Duisburg. Showing banned club insignia (Abzeichen) after ban: strafbar under §20 VereinsG.",
+      "penalty": "Continuation of banned organisation: VereinsG §20; up to 1 year; displaying insignia: up to 6 months",
+      "exceptions": ["Historic association insignia in museums/documentation: not caught by §20", "Non-banned sister clubs not automatically affected unless conspiracy shown"],
+      "source": "https://www.im.nrw.de/organisierte-kriminalitaet",
+      "sourceLabel": "IM NRW – Organisierte Kriminalität",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which law authorises the German Interior Ministry to ban organisations like Hells Angels chapters?",
+        "options": ["StGB §129 (criminal organisation)", "VereinsG §3", "GwG §4", "GVG §100"],
+        "correct": 1,
+        "explanation": "VereinsG §3 (Vereinsgesetz) authorises state Interior Ministries to ban organisations that violate criminal law or oppose constitutional order."
+      }
+    },
+    {
+      "id": 41972,
+      "category": "Food Law",
+      "severity": "medium",
+      "icon": "🍫",
+      "title": "Chocolate Law — Ritter Sport vs. Milka NRW Case",
+      "subtitle": "BGH trademark battle: square chocolate shape protection",
+      "fullDescription": "The Ritter Sport vs. Milka trademark dispute over square chocolate bar shape protection was decided by OLG Cologne and eventually BGH. Ritter Sport's square shape achieved three-dimensional trademark protection (Formmarke) under MarkenG §3. Mondelez/Milka's triangular-cut argument rejected. Produced in Waldenbuch (Baden-Württemberg) but German food trademark law uniformly applies. NRW's chocolate industry (Stollwerck Cologne, historic) and Lindt operations also subject to LFGB and EU food labelling rules.",
+      "penalty": "Trademark infringement: MarkenG §§14–15; injunction, damages, disgorgement of profits",
+      "exceptions": ["Generic shapes not protectable as Formmarke under MarkenG §3 Abs.2", "Descriptive shapes (technically necessary) excluded from trademark protection"],
+      "source": "https://www.dpma.de/marken/formmarken",
+      "sourceLabel": "DPMA – Formmarken",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What type of trademark protection does Ritter Sport's square shape have under German law?",
+        "options": ["Designschutz (design right)", "Formmarke (3D trademark)", "Gebrauchsmuster", "Gemeinschaftsmarke only"],
+        "correct": 1,
+        "explanation": "Ritter Sport's square shape is protected as a Formmarke (three-dimensional trademark) under §3 MarkenG after successful trademark registration."
+      }
+    },
+    {
+      "id": 41973,
+      "category": "Aviation Law",
+      "severity": "medium",
+      "icon": "✈️",
+      "title": "Cologne/Bonn Airport — 24-Hour Cargo Hub",
+      "subtitle": "CGN operates 24 hours — UPS, FedEx, DHL European hub",
+      "fullDescription": "Cologne/Bonn Airport (CGN) is Germany's second cargo airport and operates 24 hours without curfew — unlike Düsseldorf, Frankfurt, and Munich. Major cargo tenants: UPS European hub (largest UPS facility outside USA), FedEx, and DHL. CGN handles 880,000 tonnes of freight annually. Under LuftVG and its Planfeststellungsbeschluss, 24-hour operation was established as a planning condition. Passenger numbers: 8.5 million (2023). NRW state and municipalities own 70% of Flughafen Köln/Bonn GmbH.",
+      "penalty": "Airport noise violations: LärmschutzG and §§58–62 LuftVG enforcement",
+      "exceptions": ["No passenger night curfew at CGN (unlike DUS)", "Military transports under BGS/Bundeswehr have unrestricted access"],
+      "source": "https://www.koeln-bonn-airport.de",
+      "sourceLabel": "Flughafen Köln/Bonn",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which major US parcel company operates its largest European hub at Cologne/Bonn Airport?",
+        "options": ["FedEx", "DHL", "UPS", "Amazon Air"],
+        "correct": 2,
+        "explanation": "UPS operates its largest European hub at Cologne/Bonn Airport — also the largest UPS facility outside the United States."
+      }
+    },
+    {
+      "id": 41974,
+      "category": "Tax Law",
+      "severity": "medium",
+      "icon": "💰",
+      "title": "Grunderwerbsteuer NRW — Property Transfer Tax",
+      "subtitle": "NRW Grunderwerbsteuer at 6.5% — one of Germany's highest",
+      "fullDescription": "NRW's Grunderwerbsteuer (real estate transfer tax) is 6.5%, one of Germany's highest (joint with Schleswig-Holstein, Thüringen, Brandenburg). Applied to all real property sales under GrEStG. For a €400,000 Cologne apartment, Grunderwerbsteuer = €26,000. Share deals (>95% company share acquisition) trigger GrEStG under §1 Abs.3. NRW Finanzministerium explored a Sharedeals-Reform. Combined with Notar (1.5%) and Makler (3.57%) costs, total transaction costs reach ~11.5% in NRW.",
+      "penalty": "GrEStG evasion: AO §370 tax fraud; up to 10 years imprisonment for large amounts",
+      "exceptions": ["Family member transfers (§§3, 6 GrEStG) exempt", "Court-ordered property transfers exempt"],
+      "source": "https://www.finanzverwaltung.nrw.de/grunderwerbsteuer",
+      "sourceLabel": "Finanzverwaltung NRW – Grunderwerbsteuer",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is NRW's Grunderwerbsteuer (property transfer tax) rate?",
+        "options": ["3.5%", "5.0%", "6.5%", "7.5%"],
+        "correct": 2,
+        "explanation": "NRW charges 6.5% Grunderwerbsteuer — one of Germany's highest rates, shared with Schleswig-Holstein, Thüringen, and Brandenburg."
+      }
+    },
+    {
+      "id": 41975,
+      "category": "Cultural Heritage",
+      "severity": "medium",
+      "icon": "🎵",
+      "title": "Beethoven Geburtshaus Bonn — Cultural Law",
+      "subtitle": "Beethoven birthplace Bonn — copyright and cultural heritage law",
+      "fullDescription": "Ludwig van Beethoven (1770–1827) was born in Bonn. The Beethoven-Haus Bonn is a foundation under private law (Stiftung) housing the world's most significant Beethoven collection. Beethoven's works are in the public domain (70 years pma expired). The Beethovenfest Bonn is NRW-funded under Kulturförderungsgesetz. UNESCO intangible heritage candidacy for Beethoven's musical legacy. The Bundeskunsthalle (Bonn) and Kunstmuseum Bonn operate as foundation under Bundesrecht and NRW Kulturrecht.",
+      "penalty": "Theft of cultural property: StGB §§242, 243 with cultural property aggravation; KGSG §§83–87",
+      "exceptions": ["Public domain Beethoven scores reproducible freely", "Scholarly editions of public domain works may have separate Leistungsschutzrecht for 25 years"],
+      "source": "https://www.beethoven.de",
+      "sourceLabel": "Beethoven-Haus Bonn",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which city was Ludwig van Beethoven born in 1770?",
+        "options": ["Vienna", "Bonn", "Cologne", "Koblenz"],
+        "correct": 1,
+        "explanation": "Ludwig van Beethoven was born in Bonn in 1770. The Beethoven-Haus Bonn preserves the birthplace and houses the world's largest Beethoven collection."
+      }
+    }
+  ]
+}

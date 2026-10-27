@@ -1,0 +1,2031 @@
+{
+  "country": "Aichi, Japan",
+  "slug": "aichi-japan",
+  "laws": [
+    {
+      "id": 42951,
+      "category": "Traffic & Driving",
+      "severity": "high",
+      "icon": "🚗",
+      "title": "0.03% BAC Driving Limit",
+      "subtitle": "Japan's strict drink-driving threshold applies in Aichi",
+      "fullDescription": "Under the Road Traffic Act (道路交通法), driving with a BAC of 0.03% or above is a criminal offence. Aichi Prefecture Police enforce this rigorously — Aichi has historically had one of Japan's highest rates of traffic fatalities and has run sustained anti-drunk driving campaigns since the early 2000s.",
+      "penalty": "Up to 3 years imprisonment or ¥500,000 fine; licence suspension",
+      "exceptions": [
+        "Commercial drivers are held to zero-tolerance standard"
+      ],
+      "source": "https://www.police.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefectural Police",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What BAC limit does Japan enforce for driving in Aichi?",
+        "options": [
+          "0.08%",
+          "0.05%",
+          "0.03%",
+          "0.00%"
+        ],
+        "correct": 2,
+        "explanation": "Japan's Road Traffic Act sets the BAC limit at 0.03%, among the strictest in the world."
+      }
+    },
+    {
+      "id": 42952,
+      "category": "Employment & Labour",
+      "severity": "high",
+      "icon": "🏭",
+      "title": "Toyota Production System Safety Standards",
+      "subtitle": "Aichi's automotive factories operate under strict labour safety rules",
+      "fullDescription": "Aichi Prefecture is Japan's automotive manufacturing heartland, home to Toyota, Denso, and hundreds of suppliers. The Aichi Labour Bureau enforces the Industrial Safety and Health Act (労働安全衛生法) with particular rigour in automated assembly lines, requiring robot safety barriers, daily machine inspections, and designated safety supervisors on every shift.",
+      "penalty": "Up to ¥3,000,000 fine; production suspension; criminal prosecution for managerial negligence causing death",
+      "exceptions": [
+        "R&D prototype workshops may use modified safety layouts with approved risk assessments"
+      ],
+      "source": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/",
+      "sourceLabel": "Aichi Labour Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which global automotive company is headquartered in Aichi Prefecture?",
+        "options": [
+          "Honda",
+          "Nissan",
+          "Toyota",
+          "Mazda"
+        ],
+        "correct": 2,
+        "explanation": "Toyota is headquartered in Toyota City, Aichi Prefecture, making it Japan's automotive manufacturing heartland."
+      }
+    },
+    {
+      "id": 42953,
+      "category": "Environmental",
+      "severity": "high",
+      "icon": "🏭",
+      "title": "Aichi Industrial Emissions Control Ordinance",
+      "subtitle": "Dense manufacturing base faces strict air quality monitoring",
+      "fullDescription": "Aichi Prefecture's Pollution Prevention Ordinance (公害防止条例) requires all factories emitting NOx, SOx, or particulate matter above threshold levels to install continuous monitoring and submit quarterly reports to the prefecture. Following 1970s Yokkaichi disease cases nearby (Mie Prefecture), Aichi adopted some of Japan's toughest standards for industrial air quality.",
+      "penalty": "Up to ¥3,000,000 fine or 1 year imprisonment; factory closure for serious violations",
+      "exceptions": [
+        "Small workshops under specified emission thresholds use simplified annual self-reporting"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Environment Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What nearby 1970s disease prompted Aichi to adopt strict industrial air quality standards?",
+        "options": [
+          "Minamata disease",
+          "Itai-itai disease",
+          "Yokkaichi asthma",
+          "Niigata Minamata"
+        ],
+        "correct": 2,
+        "explanation": "The Yokkaichi asthma cases in nearby Mie Prefecture prompted stringent industrial emissions controls throughout the region."
+      }
+    },
+    {
+      "id": 42954,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🏯",
+      "title": "Nagoya Castle Reconstruction Restrictions",
+      "subtitle": "Japan's most ambitious castle restoration project has strict rules",
+      "fullDescription": "Nagoya Castle (名古屋城), home of Japan's most ambitious wooden donjon reconstruction project, is a designated Special Historic Site (特別史跡). All construction and archaeological work requires Agency for Cultural Affairs approval. The ongoing wooden reconstruction (target completion 2030s) uses traditional techniques under strict supervision. The original concrete-reinforced structure was closed for safety assessment in 2018.",
+      "penalty": "Up to 5 years imprisonment for damage to a Special Historic Site; fines for unauthorised excavation",
+      "exceptions": [
+        "Approved conservation-grade contractors working under cultural agency permits are exempt"
+      ],
+      "source": "https://www.nagoyajo.city.nagoya.jp/",
+      "sourceLabel": "Nagoya City Nagoya Castle Authority",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes Nagoya Castle's current restoration project historically significant?",
+        "options": [
+          "It uses concrete for earthquake safety",
+          "It is Japan's most ambitious traditional wooden donjon reconstruction",
+          "It is being relocated to a new site",
+          "It is the oldest castle in Japan"
+        ],
+        "correct": 1,
+        "explanation": "Nagoya Castle is undergoing Japan's most ambitious wooden donjon reconstruction using traditional techniques."
+      }
+    },
+    {
+      "id": 42955,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🎵",
+      "title": "Nagoya City Noise Regulation Ordinance",
+      "subtitle": "Night noise limits strictly enforced in Japan's fourth-largest city",
+      "fullDescription": "Nagoya City's Pollution Prevention Ordinance sets noise limits of 60 dB(A) during day hours in residential areas, dropping to 45 dB(A) at night (22:00–06:00). Construction near schools or hospitals requires advance notice and must cease by 20:00. Nagoya's dense grid of residential and commercial zones makes noise regulation especially complex.",
+      "penalty": "Fines up to ¥500,000; stop-work orders for persistent violations",
+      "exceptions": [
+        "Emergency public works with city approval may operate outside standard hours"
+      ],
+      "source": "https://www.city.nagoya.jp/",
+      "sourceLabel": "Nagoya City Environment Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the nighttime noise limit in Nagoya residential areas?",
+        "options": [
+          "35 dB(A)",
+          "45 dB(A)",
+          "55 dB(A)",
+          "65 dB(A)"
+        ],
+        "correct": 1,
+        "explanation": "Nagoya's ordinance limits nighttime noise in residential zones to 45 dB(A)."
+      }
+    },
+    {
+      "id": 42956,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏠",
+      "title": "Aichi Flood Control Building Regulations",
+      "subtitle": "Homes in Aichi's low-lying Nobi Plain face flood-proofing requirements",
+      "fullDescription": "Aichi's Nobi Plain — among the lowest-lying inhabited areas in Japan — is protected by an elaborate tidal embankment (スーパー堤防) system. Under the River Act (河川法) and Aichi's Disaster Prevention Plan, new residential construction in designated flood hazard zones requires raised foundations (minimum 1 metre above road level), flood doors, and connection to the city's flood alert notification system.",
+      "penalty": "Building permit refusal for non-compliant designs; fines for constructing without flood zone approval",
+      "exceptions": [
+        "Industrial buildings with separate flood impact assessments may use equivalent alternative measures"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture River Management Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the minimum raised foundation height required in Aichi's flood hazard zones?",
+        "options": [
+          "0.5 metres above road level",
+          "1 metre above road level",
+          "2 metres above road level",
+          "At sea level with waterproofing"
+        ],
+        "correct": 1,
+        "explanation": "New residential construction in Aichi's flood hazard zones must have foundations raised at least 1 metre above road level."
+      }
+    },
+    {
+      "id": 42957,
+      "category": "Food & Drink",
+      "severity": "low",
+      "icon": "🍱",
+      "title": "Nagoya Cuisine Trademark Protections",
+      "subtitle": "Miso katsu, hitsumabushi, and kishimen are protected regional foods",
+      "fullDescription": "Nagoya's distinctive cuisine (名古屋めし, Nagoya-meshi) includes internationally known dishes like miso katsu (味噌カツ) and hitsumabushi (ひつまぶし, eel over rice). Under the Act on Protection of Intellectual Property and regional certification guidelines, certain Nagoya food brands are trademarked by industry associations. Restaurants advertising these as 'genuine Nagoya-meshi' must meet ingredient and preparation standards set by the relevant guild.",
+      "penalty": "Civil trademark claims; loss of regional certification for misleading advertising",
+      "exceptions": [
+        "Home cooking and non-commercial social media references are not regulated"
+      ],
+      "source": "https://www.city.nagoya.jp/",
+      "sourceLabel": "Nagoya City Regional Food Promotion",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Japanese term for Nagoya's distinctive local cuisine?",
+        "options": [
+          "Nagoya-ryori",
+          "Nagoya-meshi (名古屋めし)",
+          "Chubu-shoku",
+          "Aichi-ryori"
+        ],
+        "correct": 1,
+        "explanation": "Nagoya's distinctive local cuisine is called Nagoya-meshi (名古屋めし), including miso katsu and hitsumabushi."
+      }
+    },
+    {
+      "id": 42958,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🌍",
+      "title": "Aichi Multicultural Support for Brazilian Community",
+      "subtitle": "Aichi has Japan's largest Brazilian community with dedicated support rules",
+      "fullDescription": "Aichi Prefecture has Japan's largest Brazilian Nikkei community, concentrated in Toyota City and Hamamatsu-adjacent areas. Aichi's Multicultural Coexistence Policy (多文化共生推進プラン) mandates Portuguese-language public services at city halls, schools, and hospitals. Employers of foreign workers must provide Japanese language training subsidised by the prefecture.",
+      "penalty": "No specific penalty; violations of anti-discrimination employment rules reported to Aichi Labour Bureau",
+      "exceptions": [
+        "Small businesses under 10 employees are exempt from mandatory language training obligations"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Multicultural Policy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What language is specifically mandated in Aichi public services for its large immigrant community?",
+        "options": [
+          "Spanish",
+          "Portuguese",
+          "Chinese",
+          "Tagalog"
+        ],
+        "correct": 1,
+        "explanation": "Aichi mandates Portuguese-language public services due to its large Brazilian Nikkei community."
+      }
+    },
+    {
+      "id": 42959,
+      "category": "Public Transport",
+      "severity": "medium",
+      "icon": "✈️",
+      "title": "Chubu Centrair Airport Restricted Zone Rules",
+      "subtitle": "Japan's 5th-busiest airport has strict access and noise regulations",
+      "fullDescription": "Chubu Centrair International Airport (中部国際空港), built on a man-made island in Ise Bay, operates under the Civil Aeronautics Act and national airport noise regulations. Night flights are prohibited between 23:00 and 06:00. The surrounding Ise Bay fishery exclusion zone prohibits fishing vessels within 500 metres of approach and departure corridors. Security perimeters are enforced under the Aviation Hijacking Prevention Act.",
+      "penalty": "Fines for violating flight curfew; criminal prosecution for security zone breaches",
+      "exceptions": [
+        "Emergency and cargo freighter flights may operate with authority approval during curfew hours"
+      ],
+      "source": "https://www.centrair.jp/",
+      "sourceLabel": "Chubu Centrair International Airport",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "On which type of structure is Chubu Centrair International Airport built?",
+        "options": [
+          "River delta",
+          "Mountain plateau",
+          "Man-made island in Ise Bay",
+          "Reclaimed coastal wetland"
+        ],
+        "correct": 2,
+        "explanation": "Chubu Centrair International Airport was built on a man-made island in Ise Bay, opening in 2005."
+      }
+    },
+    {
+      "id": 42960,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏦",
+      "title": "Aichi Monozukuri SME Support Programme",
+      "subtitle": "Prefecture subsidises manufacturing SMEs through special finance schemes",
+      "fullDescription": "Aichi's Monozukuri (ものづくり) SME Support Programme provides subsidised low-interest loans and equipment investment grants to small and medium manufacturers through Aichi Bank and prefecture-guaranteed credit. Firms receiving support must maintain a minimum of 5 full-time employees, file annual financial reports, and not commence bankruptcy proceedings within 3 years of receiving support.",
+      "penalty": "Full clawback of grants plus interest if eligibility conditions are breached within 3 years",
+      "exceptions": [
+        "Force majeure business interruptions (natural disaster, pandemic) reviewed case-by-case for clawback waiver"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture SME Support Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does the Japanese term 'monozukuri' (ものづくり) mean?",
+        "options": [
+          "Car manufacturing",
+          "The art of making things / craftsmanship",
+          "Factory automation",
+          "Quality control"
+        ],
+        "correct": 1,
+        "explanation": "Monozukuri (ものづくり) means 'the art of making things' and embodies Japan's manufacturing craftsmanship philosophy."
+      }
+    },
+    {
+      "id": 42961,
+      "category": "Agriculture",
+      "severity": "medium",
+      "icon": "🍓",
+      "title": "Aichi Flower and Greenhouse Industry Regulations",
+      "subtitle": "Japan's top flower-producing prefecture has strict quality standards",
+      "fullDescription": "Aichi is Japan's largest flower-producing prefecture, particularly chrysanthemums (菊), carnations, and orchids used in ceremonies nationwide. Under the JAS Act and Aichi Flower Promotion Ordinance, commercial flower producers must use certified pesticide applications and maintain hygiene records for export flowers. Aichi produces flowers for the imperial household's ceremonial events under special quality protocols.",
+      "penalty": "Licence suspension for pesticide misuse; fines under the JAS Act for grade mislabelling",
+      "exceptions": [
+        "Small hobby growers selling at farmers' markets under ¥300,000 annual revenue use simplified registration"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Agriculture Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which flower is Aichi Prefecture's most famous agricultural product?",
+        "options": [
+          "Roses",
+          "Chrysanthemums (菊)",
+          "Lilies",
+          "Sunflowers"
+        ],
+        "correct": 1,
+        "explanation": "Aichi is Japan's largest chrysanthemum producer, supplying flowers for nationwide ceremonies and the imperial household."
+      }
+    },
+    {
+      "id": 42962,
+      "category": "Disaster Preparedness",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Tokai Earthquake Preparedness Orders",
+      "subtitle": "Aichi is in Japan's highest-risk earthquake anticipation zone",
+      "fullDescription": "Aichi Prefecture sits in the Tokai Earthquake Anticipation Zone (東海地震対策地域). Under the Large-Scale Earthquake Special Measures Act (大規模地震対策特別措置法), the government may issue an Earthquake Warning (警戒宣言) before a predicted Tokai earthquake. Upon such a warning, Aichi Prefecture and all municipalities must immediately implement pre-planned emergency responses: closing schools, activating evacuation centres, and deploying pre-positioned supplies.",
+      "penalty": "No criminal penalty for residents, but failure of businesses designated as essential emergency functions to activate plans triggers administrative sanctions",
+      "exceptions": [
+        "International visitors receive early warning through the J-Alert system broadcast in multiple languages"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Disaster Management Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What special law governs Aichi's preparedness for the anticipated Tokai earthquake?",
+        "options": [
+          "Earthquake Response Act",
+          "Large-Scale Earthquake Special Measures Act",
+          "Aichi Seismic Safety Law",
+          "Disaster Basic Act"
+        ],
+        "correct": 1,
+        "explanation": "The Large-Scale Earthquake Special Measures Act governs the Tokai Earthquake anticipation zone, which includes Aichi Prefecture."
+      }
+    },
+    {
+      "id": 42963,
+      "category": "Tourism & Recreation",
+      "severity": "low",
+      "icon": "⛩️",
+      "title": "Ise Grand Shrine Approach Road Restrictions",
+      "subtitle": "Access roads to Japan's holiest shrine complex have special rules",
+      "fullDescription": "While Ise Grand Shrine (伊勢神宮) itself is in Mie Prefecture, its approach roads (おはらい町, Oharaimachi) pass through Aichi-administered zones. Aichi Prefecture's transport management and the Aichi-Mie cross-prefectural coordinating body manage tourist traffic, particularly during the Ise Shima National Park tourism peak. Large vehicles are banned on approach roads during shrine festivals under the Road Traffic Act special provisions.",
+      "penalty": "Fines ¥10,000–¥50,000 for large vehicles in restricted approach zones during designated festival periods",
+      "exceptions": [
+        "Authorised delivery vehicles for shrine facilities may use rear service roads"
+      ],
+      "source": "https://www.isejingu.or.jp/",
+      "sourceLabel": "Ise Grand Shrine Administration",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the shopping street near Ise Grand Shrine called?",
+        "options": [
+          "Nishiki Market",
+          "Oharaimachi (おはらい町)",
+          "Teramachi",
+          "Sanjo-dori"
+        ],
+        "correct": 1,
+        "explanation": "Oharaimachi (おはらい町) is the traditional shopping street approaching Ise Grand Shrine, subject to vehicle restrictions during festivals."
+      }
+    },
+    {
+      "id": 42964,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🚫",
+      "title": "Aichi Anti-Organised Crime Enforcement",
+      "subtitle": "Prefecture targets organised crime with enhanced exclusion rules",
+      "fullDescription": "Aichi Prefecture's Organised Crime Group Exclusion Ordinance (暴力団排除条例) requires all businesses in Aichi to include anti-gang clauses in contracts. Following incidents involving the Kodo-kai (弘道会), a Yamaguchi-gumi affiliated group particularly active in Aichi, the prefecture reinforced enforcement in construction, real estate, and waste disposal industries.",
+      "penalty": "Business name publication; up to 1 year imprisonment for serious cases; fines for businesses failing to report extortion",
+      "exceptions": [
+        "Businesses that immediately report extortion and cooperate with police receive protection from co-liability"
+      ],
+      "source": "https://www.police.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefectural Police",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which organised crime group is particularly associated with Aichi Prefecture?",
+        "options": [
+          "Kudo-kai",
+          "Kodo-kai (弘道会)",
+          "Inagawa-kai",
+          "Sumiyoshi-kai"
+        ],
+        "correct": 1,
+        "explanation": "The Kodo-kai (弘道会), a Yamaguchi-gumi affiliate, is particularly active in Aichi Prefecture."
+      }
+    },
+    {
+      "id": 42965,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🚬",
+      "title": "Aichi Indoor Smoking Restrictions",
+      "subtitle": "Prefectural and national indoor smoking rules fully apply",
+      "fullDescription": "Under the Health Promotion Act (健康増進法) as amended in 2020 and Aichi Prefecture's supplementary ordinance, smoking is prohibited inside all restaurants, bars, hotels, and entertainment venues. The prefecture was among the later adopters of pre-national ordinances but now fully implements the stricter 2020 national rules. All enclosed workplaces are smoke-free; outdoor designated smoking rooms must be ventilated and sealed.",
+      "penalty": "Fines up to ¥50,000 for facility operators who fail to enforce the smoking ban",
+      "exceptions": [
+        "Designated ventilated smoking rooms with appropriate signage are permitted in commercial buildings"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Health Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which year did Japan's national indoor smoking ban fully take effect in Aichi?",
+        "options": [
+          "2016",
+          "2018",
+          "2020",
+          "2022"
+        ],
+        "correct": 2,
+        "explanation": "Japan's Health Promotion Act amendment, fully banning indoor smoking in public places, took effect in 2020."
+      }
+    },
+    {
+      "id": 42966,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Nagoya Protocol on Biodiversity — Local Implementation",
+      "subtitle": "Aichi hosts the secretariat of the Convention on Biological Diversity",
+      "fullDescription": "Aichi Prefecture is historically significant for international biodiversity law: the Nagoya Protocol on Access and Benefit-sharing (2010) and the Aichi Targets (CBD COP10) were agreed in Nagoya. In recognition, Aichi Prefecture enforces strict biodiversity-sensitive land development rules. Environmental Impact Assessments (EIA) for large developments must include biodiversity surveys, and developers must prepare mitigation plans for any impact on designated habitats.",
+      "penalty": "EIA non-compliance triggers project suspension; fines up to ¥3,000,000 for illegal development in protected habitats",
+      "exceptions": [
+        "Small-scale agricultural land improvements under 0.5 hectares are exempt from full EIA requirements"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Environment Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What major international biodiversity agreement was signed in Nagoya, Aichi, in 2010?",
+        "options": [
+          "Paris Agreement",
+          "Kyoto Protocol",
+          "Nagoya Protocol on Access and Benefit-sharing",
+          "Montreal Protocol"
+        ],
+        "correct": 2,
+        "explanation": "The Nagoya Protocol on Access and Benefit-sharing (CBD) was agreed in Nagoya, Aichi, in 2010."
+      }
+    },
+    {
+      "id": 42967,
+      "category": "Education",
+      "severity": "medium",
+      "icon": "🎓",
+      "title": "Aichi Technical High School Industry Partnership Rules",
+      "subtitle": "Aichi's vocation schools have special arrangements with automotive manufacturers",
+      "fullDescription": "Aichi's prefectural technical high schools (工業高校) have industry partnership programmes with Toyota, Denso, and other manufacturers. Under the School Education Act and Aichi Prefecture Education Board guidelines, students undertaking practical industry placements must be covered by workplace accident insurance and must not be engaged in hazardous operations. Industry partners must appoint a certified supervisor for all high school interns.",
+      "penalty": "Loss of placement approval for companies that violate intern safety rules; school disciplinary review for non-compliant teachers",
+      "exceptions": [
+        "University-level interns and adult technical training programmes operate under different frameworks"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Education Board",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What must industry partners provide when hosting Aichi technical high school students?",
+        "options": [
+          "Free meals and transportation",
+          "A certified supervisor for all high school interns",
+          "Guaranteed job offers after graduation",
+          "Language training classes"
+        ],
+        "correct": 1,
+        "explanation": "Industry partners hosting Aichi technical high school interns must appoint a certified supervisor for all students."
+      }
+    },
+    {
+      "id": 42968,
+      "category": "Public Transport",
+      "severity": "medium",
+      "icon": "🚇",
+      "title": "Nagoya Municipal Subway Lost Property Rules",
+      "subtitle": "Lost items on Nagoya Subway are handled under railway regulations",
+      "fullDescription": "Nagoya Municipal Subway (名古屋市営地下鉄) operates under the Railway Business Act (鉄道事業法) and the Lost Property Act (遺失物法). Found items must be turned in to the nearest station within 24 hours of discovery. Valuable items not claimed within 3 months go to Nagoya City. Cash found on the system that is not claimed is transferred to the finder after 3 months, minus a 10% handling fee to the city.",
+      "penalty": "Up to ¥30,000 fine or 1 year imprisonment for appropriating found property without reporting it",
+      "exceptions": [
+        "Perishable items or mobile phones with identifying information may be returned to owners using contact details displayed"
+      ],
+      "source": "https://www.kotsu.city.nagoya.jp/",
+      "sourceLabel": "Nagoya City Transportation Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long must Nagoya Subway found cash remain unclaimed before the finder may receive it?",
+        "options": [
+          "1 month",
+          "3 months",
+          "6 months",
+          "1 year"
+        ],
+        "correct": 1,
+        "explanation": "Unclaimed found cash on Nagoya Subway is transferred to the finder after 3 months, minus a 10% handling fee."
+      }
+    },
+    {
+      "id": 42969,
+      "category": "Heritage & Culture",
+      "severity": "low",
+      "icon": "🎭",
+      "title": "Noh and Kyogen Theatre Heritage Protections in Aichi",
+      "subtitle": "Classical performing arts venues have special maintenance grants",
+      "fullDescription": "Aichi Prefecture hosts active Noh (能) and Kyogen (狂言) performance traditions. Designated Noh stages (能舞台) classified as Important Cultural Properties must be maintained using traditional carpentry techniques approved by the Agency for Cultural Affairs. Aichi's prefectural grant programme subsidises maintenance of privately-owned Noh stages open to the public at least 3 times per year.",
+      "penalty": "Loss of subsidy; fines for unauthorised structural alterations to designated stages",
+      "exceptions": [
+        "Stages used exclusively for private family ceremonies may receive heritage designation without public access requirements"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Cultural Affairs Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many times per year must a privately-owned Noh stage in Aichi open to the public to qualify for prefecture maintenance grants?",
+        "options": [
+          "Once a year",
+          "At least 3 times per year",
+          "At least 6 times per year",
+          "Monthly"
+        ],
+        "correct": 1,
+        "explanation": "Aichi's grant programme requires privately-owned Noh stages to be open to the public at least 3 times per year."
+      }
+    },
+    {
+      "id": 42970,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🚘",
+      "title": "Aichi Used Vehicle Dealer Licensing",
+      "subtitle": "Japan's automotive hub has stringent used car trade regulations",
+      "fullDescription": "Aichi, the heart of Japan's automotive industry, has the highest concentration of used vehicle dealers in Japan. Under the Used Goods Dealer Licencing Act (古物商許可法) as enforced by Aichi Prefectural Police, all dealers must be licensed, maintain records of all vehicle purchases (including VIN and seller identity), and report suspicious vehicles to the police within 5 days. Odometer tampering carries severe criminal penalties.",
+      "penalty": "Up to 10 years imprisonment and ¥5,000,000 fine for odometer tampering; licence revocation for record-keeping failures",
+      "exceptions": [
+        "Auto parts-only dealers not reselling whole vehicles use a simplified parts trader licence"
+      ],
+      "source": "https://www.police.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefectural Police Used Goods Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Within how many days must Aichi used car dealers report suspicious vehicles to police?",
+        "options": [
+          "2 days",
+          "5 days",
+          "10 days",
+          "30 days"
+        ],
+        "correct": 1,
+        "explanation": "Aichi used vehicle dealers must report suspicious vehicles to police within 5 days of acquisition."
+      }
+    },
+    {
+      "id": 42971,
+      "category": "Immigration & Identity",
+      "severity": "medium",
+      "icon": "🛂",
+      "title": "Aichi Foreign Resident Support Centres",
+      "subtitle": "Prefecture operates multilingual one-stop centres for foreign residents",
+      "fullDescription": "Aichi Prefecture operates the Aichi Multicultural Center (愛知県多文化共生推進室) and a network of foreign resident support offices in Toyota City, Nagoya, and Toyohashi. Foreign nationals must register their address within 14 days under the Immigration Control Act. The centres provide Portuguese, Spanish, Chinese, Vietnamese, and English assistance for registration, healthcare, and children's school enrolment.",
+      "penalty": "Up to ¥200,000 fine for failure to register address; deportation in serious cases",
+      "exceptions": [
+        "Short-stay tourists with visa exemptions are not required to register"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Multicultural Center",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Within how many days must foreign nationals register their address in Aichi?",
+        "options": [
+          "7 days",
+          "14 days",
+          "30 days",
+          "60 days"
+        ],
+        "correct": 1,
+        "explanation": "Foreign nationals residing in Aichi must register their address within 14 days under the Immigration Control Act."
+      }
+    },
+    {
+      "id": 42972,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🏟️",
+      "title": "Nagoya Grampus and Chunichi Dragon Stadium Safety Rules",
+      "subtitle": "Aichi sports venues must comply with event safety ordinances",
+      "fullDescription": "Toyota Stadium (Nagoya Grampus football) and Vantelin Dome Nagoya (Chunichi Dragons baseball) operate under Aichi Prefecture's Large Venue Safety Ordinance and the national Sports Safety Act. Events expecting over 10,000 spectators require pre-event safety plans submitted to Aichi Police. Alcohol sales must cease 30 minutes before the end of matches. Re-entry after leaving the venue is prohibited except with a special re-entry stamp.",
+      "penalty": "Event cancellation for non-submitted safety plans; fines for alcohol sales violations",
+      "exceptions": [
+        "Private corporate hospitality suites may continue serving alcohol under different rules"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Sports Safety Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When must alcohol sales cease at Aichi Prefecture sports venues?",
+        "options": [
+          "At half-time",
+          "When the stadium is 80% full",
+          "30 minutes before the end of matches",
+          "At the start of the 2nd half"
+        ],
+        "correct": 2,
+        "explanation": "Alcohol sales at Aichi Prefecture sports venues must cease 30 minutes before the end of matches."
+      }
+    },
+    {
+      "id": 42973,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "♻️",
+      "title": "Aichi Waste Electrical and Electronic Equipment Rules",
+      "subtitle": "EEE waste must be sorted and disposed of via certified recyclers",
+      "fullDescription": "Aichi Prefecture, with its massive electronics manufacturing sector (Denso, Aisin, etc.), generates significant volumes of waste electrical and electronic equipment (WEEE). Under the Home Appliance Recycling Act (家電リサイクル法) and Small Home Appliance Recycling Act (小型家電リサイクル法), consumers must return specified appliances to retailers or approved collection points. Industrial WEEE from factories must be handled by certified industrial waste contractors.",
+      "penalty": "Fines up to ¥3,000,000 for industrial WEEE illegal disposal; consumers face collection fee surcharges for non-compliant disposal",
+      "exceptions": [
+        "Ultra-small electronic components under 10 grams total weight can be disposed of with burnable waste"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Environmental Policy Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which law must consumers return major household appliances for recycling in Aichi?",
+        "options": [
+          "Waste Management Act",
+          "Home Appliance Recycling Act (家電リサイクル法)",
+          "Consumer Goods Act",
+          "Product Responsibility Act"
+        ],
+        "correct": 1,
+        "explanation": "The Home Appliance Recycling Act (家電リサイクル法) requires consumers to return specified appliances to retailers or approved recycling points."
+      }
+    },
+    {
+      "id": 42974,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Nagoya Urban Regeneration Special Zone Rules",
+      "subtitle": "Central Nagoya has deregulated development zones to attract investment",
+      "fullDescription": "Nagoya's Sakae and Meieki (Nagoya Station) districts are designated Urban Regeneration Special Zones under the Urban Regeneration Special Measures Act (都市再生特別措置法). Developers in these zones may exceed standard floor-area ratios by up to 50% if they contribute public open space or underground pedestrian connections. The Aichi Sky Expo and Meieki redevelopment operate under these special zone permissions.",
+      "penalty": "Permit withdrawal for developments that do not deliver the agreed public space contributions",
+      "exceptions": [
+        "Historic buildings within special zones are exempt from floor-area ratio bonuses but may be retained"
+      ],
+      "source": "https://www.city.nagoya.jp/",
+      "sourceLabel": "Nagoya City Urban Development Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By how much may developers in Nagoya's Urban Regeneration Special Zones exceed standard floor-area ratios?",
+        "options": [
+          "10%",
+          "25%",
+          "50%",
+          "100%"
+        ],
+        "correct": 2,
+        "explanation": "Developers in Nagoya's Urban Regeneration Special Zones may exceed standard floor-area ratios by up to 50% if they contribute public open space."
+      }
+    },
+    {
+      "id": 42975,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🏳️‍🌈",
+      "title": "Nagoya City Partnership Recognition Scheme",
+      "subtitle": "Nagoya recognises same-sex partnerships for city services",
+      "fullDescription": "Nagoya City launched its Partnership and Cohabitation Relationship Certification Scheme (パートナーシップ・ファミリーシップ制度) in 2022, recognising same-sex couples and their children for city housing applications, emergency room next-of-kin status, and city hospital visitation rights. The scheme was expanded in 2023 to include cohabiting adults caring for elderly relatives.",
+      "penalty": "False declarations may result in certificate revocation",
+      "exceptions": [
+        "National family registry (戸籍) rights are unchanged; this applies only to city-level services"
+      ],
+      "source": "https://www.city.nagoya.jp/",
+      "sourceLabel": "Nagoya City Human Rights Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which year did Nagoya City launch its Partnership and Cohabitation Relationship Certification?",
+        "options": [
+          "2019",
+          "2021",
+          "2022",
+          "2024"
+        ],
+        "correct": 2,
+        "explanation": "Nagoya City launched its Partnership and Cohabitation Relationship Certification Scheme in 2022."
+      }
+    },
+    {
+      "id": 42976,
+      "category": "Disaster Preparedness",
+      "severity": "high",
+      "icon": "🌀",
+      "title": "Aichi Typhoon Evacuation Protocols",
+      "subtitle": "Aichi regularly faces severe typhoons requiring prefecture-wide evacuation orders",
+      "fullDescription": "Aichi's location on the Pacific coast makes it one of Japan's most typhoon-vulnerable prefectures. Under the Disaster Countermeasures Basic Act (災害対策基本法), Aichi's 5-level evacuation order system requires municipalities to issue Level 3 (High-Risk Individuals Evacuate) orders when typhoons are forecast above a defined threshold. The 1959 Isewan Typhoon, which killed over 5,000 in Aichi, led to permanent embankment upgrades and emergency response protocols.",
+      "penalty": "Non-compliance with evacuation orders carries no criminal penalty but may affect insurance and disaster relief eligibility",
+      "exceptions": [
+        "Persons who cannot physically evacuate receive coordinated emergency assistance from the prefecture"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Disaster Management Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many people were killed in Aichi by the 1959 Isewan Typhoon, leading to permanent flood defences?",
+        "options": [
+          "Over 500",
+          "Over 1,000",
+          "Over 3,000",
+          "Over 5,000"
+        ],
+        "correct": 3,
+        "explanation": "The 1959 Isewan Typhoon killed over 5,000 people in Aichi, leading to permanent embankment upgrades and emergency response protocols."
+      }
+    },
+    {
+      "id": 42977,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏭",
+      "title": "Aichi Export Control for Dual-Use Technologies",
+      "subtitle": "Automotive and aerospace manufacturers must comply with export controls",
+      "fullDescription": "Aichi's automotive, aerospace (Mitsubishi Heavy Industries Komaki), and industrial robot manufacturers export dual-use technologies worldwide. Under the Foreign Exchange and Foreign Trade Act (外国為替及び外国貿易法), manufacturers must obtain export licences for items on Japan's Foreign Exchange Control List. Aichi prefecture coordinates with METI's Nagoya Regional Export Control Office for compliance guidance.",
+      "penalty": "Up to 10 years imprisonment and ¥30,000,000 fine for exporting controlled items without licence",
+      "exceptions": [
+        "Purely civilian components below specified thresholds are exempt from export licence requirements"
+      ],
+      "source": "https://www.meti.go.jp/",
+      "sourceLabel": "METI Nagoya Regional Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which Japanese law are dual-use technology exports from Aichi controlled?",
+        "options": [
+          "Industrial Machinery Act",
+          "Foreign Exchange and Foreign Trade Act (外為法)",
+          "National Security Law",
+          "Customs Tariff Act"
+        ],
+        "correct": 1,
+        "explanation": "Japan's Foreign Exchange and Foreign Trade Act (外為法) controls dual-use technology exports, enforced by METI in Aichi."
+      }
+    },
+    {
+      "id": 42978,
+      "category": "Agriculture",
+      "severity": "low",
+      "icon": "🌾",
+      "title": "Aichi Rice Brand Certification — Aichi no Kaori",
+      "subtitle": "Aichi's premium rice brand is protected by prefecture co-operative",
+      "fullDescription": "Aichi no Kaori (愛知のかおり), Aichi Prefecture's premium rice variety, is registered under the Plant Variety Protection Act (種苗法) and marketed by JA Aichi. Only certified producers growing the specific variety in approved Aichi growing areas may use the name. Seed reproduction for commercial sale requires a licence from the original breeder. The variety was developed by Aichi Prefectural Agricultural Research Center.",
+      "penalty": "Up to ¥3,000,000 fine under the Plant Variety Protection Act for unauthorised seed reproduction or brand misuse",
+      "exceptions": [
+        "Farmers may save seeds for their own planting under the registered variety's specific terms"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Agricultural Research Center",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Aichi Prefecture's certified premium rice brand?",
+        "options": [
+          "Aichi Hikari",
+          "Aichi no Kaori (愛知のかおり)",
+          "Aichi Gin",
+          "Nobi Premium"
+        ],
+        "correct": 1,
+        "explanation": "Aichi no Kaori (愛知のかおり) is Aichi Prefecture's protected premium rice variety, developed by the Aichi Agricultural Research Center."
+      }
+    },
+    {
+      "id": 42979,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "🤖",
+      "title": "Industrial Robot Safety Regulations — Aichi",
+      "subtitle": "Robot operators in Aichi's factories require certified training",
+      "fullDescription": "Aichi leads Japan in industrial robot density, with Toyota's assembly lines operating thousands of robotic units. Under the Industrial Safety and Health Act Regulations (労働安全衛生規則), workers who operate, adjust, or maintain industrial robots weighing over 80kg must hold a robot operation special training certificate (産業用ロボット特別教育). Safety barriers (柵) must surround all operational robot cells; entering during operation is prohibited.",
+      "penalty": "Up to ¥500,000 fine for employers allowing uncertified workers to operate industrial robots; criminal negligence prosecution for resulting injuries",
+      "exceptions": [
+        "Collaborative robots (cobots) under specific safety standards may operate without physical barriers with approved risk assessments"
+      ],
+      "source": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/",
+      "sourceLabel": "Aichi Labour Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What weight threshold triggers the requirement for special training certification to operate industrial robots in Aichi?",
+        "options": [
+          "20kg",
+          "50kg",
+          "80kg",
+          "150kg"
+        ],
+        "correct": 2,
+        "explanation": "Workers operating industrial robots weighing over 80kg in Aichi must hold a special training certificate under safety regulations."
+      }
+    },
+    {
+      "id": 42980,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "💉",
+      "title": "Aichi Infectious Disease Quarantine — Chubu Airport",
+      "subtitle": "Chubu Centrair operates active quarantine inspection under infectious disease law",
+      "fullDescription": "Chubu Centrair International Airport's Quarantine Station, operated by the Ministry of Health, screens arriving passengers under the Infectious Disease Control Law (感染症法). During epidemics designated by the Minister of Health, airport staff may require temperature checks, health questionnaire submissions, and medical examination. Passengers who refuse examination may be placed in quarantine accommodation.",
+      "penalty": "Up to ¥300,000 fine for refusing quarantine examination during a designated infectious disease period",
+      "exceptions": [
+        "Diplomatic passengers and flight crew may use expedited health screening processes"
+      ],
+      "source": "https://www.mhlw.go.jp/",
+      "sourceLabel": "Ministry of Health, Labour and Welfare — Chubu Quarantine Station",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What may happen to passengers at Chubu Airport who refuse health examination during an epidemic?",
+        "options": [
+          "Immediate deportation",
+          "Criminal arrest",
+          "Placement in quarantine accommodation",
+          "Fine only, no restriction on movement"
+        ],
+        "correct": 2,
+        "explanation": "Passengers refusing examination during a designated epidemic period at Chubu Airport may be placed in quarantine accommodation."
+      }
+    },
+    {
+      "id": 42981,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🏯",
+      "title": "Inuyama Castle — Oldest Surviving Original Castle Keep",
+      "subtitle": "Japan's oldest original wooden castle keep has strict preservation rules",
+      "fullDescription": "Inuyama Castle (犬山城) in Aichi is one of Japan's twelve original surviving castle keeps and a National Treasure (国宝). Under the Law for the Protection of Cultural Properties (文化財保護法), no modification, construction, or excavation within 100 metres of the castle perimeter is permitted without Agency for Cultural Affairs approval. Until 2004, Inuyama Castle was the only castle in Japan owned by a private individual (the Naruse family).",
+      "penalty": "Up to ¥5,000,000 fine or 5 years imprisonment for damaging a National Treasure; construction permit refusal in protection zone",
+      "exceptions": [
+        "Approved restoration works by certified craftsmen under cultural agency supervision are permitted"
+      ],
+      "source": "https://www.inuyama.gr.jp/",
+      "sourceLabel": "Inuyama Castle Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes Inuyama Castle unique among Japan's twelve original castle keeps?",
+        "options": [
+          "It is the tallest",
+          "It was privately owned until 2004",
+          "It is made of stone not wood",
+          "It has never been repaired"
+        ],
+        "correct": 1,
+        "explanation": "Until 2004, Inuyama Castle was the only castle in Japan owned by a private individual — the Naruse family."
+      }
+    },
+    {
+      "id": 42982,
+      "category": "Public Transport",
+      "severity": "medium",
+      "icon": "🚄",
+      "title": "Nagoya Station Redevelopment Safety Rules",
+      "subtitle": "Japan's largest floor area station complex has strict safety and access rules",
+      "fullDescription": "Nagoya Station (名古屋駅), containing the JR Central Towers and Midland Square, is one of the world's largest station complexes by floor area. Under the Building Standards Act and Nagoya City's Safety Ordinance, all pedestrian flows through the underground concourse must be monitored and crowd density must not exceed 2 persons per square metre at choke points. Emergency evacuation routes must be clearly marked and must not be obstructed by commercial stalls.",
+      "penalty": "Fines up to ¥1,000,000 for businesses obstructing emergency evacuation routes; city may order immediate removal",
+      "exceptions": [
+        "Temporary licensed market stalls have designated zones that do not block emergency routes"
+      ],
+      "source": "https://www.city.nagoya.jp/",
+      "sourceLabel": "Nagoya City Building Safety Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What crowd density limit applies to Nagoya Station underground concourse choke points?",
+        "options": [
+          "1 person per sqm",
+          "2 persons per sqm",
+          "4 persons per sqm",
+          "No official limit"
+        ],
+        "correct": 1,
+        "explanation": "Nagoya Station's safety rules limit crowd density at choke points to no more than 2 persons per square metre."
+      }
+    },
+    {
+      "id": 42983,
+      "category": "Environmental",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Ise Bay Fishery Protection Zone",
+      "subtitle": "Aichi's coastline on Ise Bay has strict fishery conservation rules",
+      "fullDescription": "Ise Bay (伊勢湾), shared by Aichi and Mie Prefectures, was designated a Special Case Sea Area under the Water Pollution Control Act following severe eutrophication in the 1970s. Industrial wastewater discharge into Ise Bay tributaries must meet COD limits of 10mg/L. Aquaculture licences for Aichi-side operations are issued by the Aichi Fisheries Cooperative and capped annually to prevent overfishing of tiger prawns (kuruma-ebi) and clams (hamaguri).",
+      "penalty": "Up to ¥3,000,000 fine for discharging non-compliant wastewater; licence revocation for aquaculture violations",
+      "exceptions": [
+        "Non-commercial personal recreational fishing from shore is not subject to aquaculture licence requirements"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Fisheries Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What water quality parameter is specifically regulated for Ise Bay wastewater discharge?",
+        "options": [
+          "pH",
+          "Salinity",
+          "COD (Chemical Oxygen Demand)",
+          "Turbidity"
+        ],
+        "correct": 2,
+        "explanation": "Industrial wastewater discharging into Ise Bay must meet a COD limit of 10mg/L under Aichi's special case sea area rules."
+      }
+    },
+    {
+      "id": 42984,
+      "category": "Civil Rights",
+      "severity": "high",
+      "icon": "🧑‍⚖️",
+      "title": "Aichi Child Welfare and Anti-Abuse Enforcement",
+      "subtitle": "Prefecture tripled child welfare officers following high-profile cases",
+      "fullDescription": "Following several nationally reported child abuse cases in Aichi, the prefecture significantly expanded its Children's Welfare Center (児童相談所) capacity and powers. Under the Child Abuse Prevention Act (児童虐待防止法), welfare officers may enter homes without parental consent when abuse is strongly suspected, and police must cooperate. Mandatory reporters — teachers, doctors, nursery workers — who fail to report suspected abuse face administrative sanctions.",
+      "penalty": "Administrative sanctions for mandatory reporters who fail to report; criminal prosecution for obstruction of welfare officers",
+      "exceptions": [
+        "Corporal punishment by parents has been explicitly prohibited since the 2020 Civil Code amendment"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Child Welfare Center",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who are mandatory reporters of suspected child abuse in Aichi under Japanese law?",
+        "options": [
+          "Only police officers",
+          "Teachers, doctors, and nursery workers",
+          "Only social workers",
+          "Neighbours and community members"
+        ],
+        "correct": 1,
+        "explanation": "Teachers, doctors, nursery workers, and other professionals in contact with children are mandatory reporters under Japan's Child Abuse Prevention Act."
+      }
+    },
+    {
+      "id": 42985,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏦",
+      "title": "Nagoya Stock Exchange Listing Rules",
+      "subtitle": "NSE-listed companies must comply with Nagoya-specific disclosure standards",
+      "fullDescription": "The Nagoya Stock Exchange (名古屋証券取引所), one of Japan's three remaining regional exchanges, lists many Aichi-based manufacturers. Listed companies must comply with NSE's disclosure rules and the Financial Instruments and Exchange Act (金融商品取引法). NSE's Premier Market requires minimum equity of ¥2 billion and annual disclosure of sustainability (ESG) reports. NSE merged trading systems with Tokyo Stock Exchange in 2014 but retains independent listing standards.",
+      "penalty": "Delisting; fines up to ¥5,000,000 under the Financial Instruments and Exchange Act for false disclosures",
+      "exceptions": [
+        "The NSE Centrex market for startups has lower listing thresholds and simplified disclosure requirements"
+      ],
+      "source": "https://www.nse.or.jp/",
+      "sourceLabel": "Nagoya Stock Exchange",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the minimum equity requirement for Nagoya Stock Exchange's Premier Market listing?",
+        "options": [
+          "¥500 million",
+          "¥1 billion",
+          "¥2 billion",
+          "¥5 billion"
+        ],
+        "correct": 2,
+        "explanation": "NSE's Premier Market requires a minimum equity of ¥2 billion for listed companies."
+      }
+    },
+    {
+      "id": 42986,
+      "category": "Tourism & Recreation",
+      "severity": "low",
+      "icon": "🎡",
+      "title": "LEGOLAND Japan Theme Park Safety Rules",
+      "subtitle": "Nagoya's LEGOLAND operates under strict amusement park safety regulations",
+      "fullDescription": "LEGOLAND Japan, located in Nagoya's Minato Ward, operates under the Amusement Attractions Safety Act (遊戯施設の安全基準) and MLIT guidelines. All ride operators must be at least 18, hold a ride safety certification, and conduct pre-opening daily equipment inspections. Height restrictions on rides must be enforced, and the park must submit annual safety reports to Aichi Prefecture.",
+      "penalty": "Park suspension for operating rides with failed safety inspections; fines up to ¥3,000,000 for safety record falsification",
+      "exceptions": [
+        "Soft-play indoor areas and non-mechanical attractions are subject to lighter inspection requirements"
+      ],
+      "source": "https://www.legoland.jp/",
+      "sourceLabel": "LEGOLAND Japan / Aichi Prefecture Tourism Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What must LEGOLAND Japan ride operators do before the park opens each day?",
+        "options": [
+          "Attend a briefing",
+          "Conduct pre-opening daily equipment inspections",
+          "Submit a police safety report",
+          "Test-ride each attraction"
+        ],
+        "correct": 1,
+        "explanation": "Ride operators at LEGOLAND Japan must conduct pre-opening daily equipment inspections under Aichi's amusement park safety rules."
+      }
+    },
+    {
+      "id": 42987,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🌙",
+      "title": "Nagoya Night-Time Business Licensing",
+      "subtitle": "Sakae entertainment district businesses must hold amusement licences",
+      "fullDescription": "Nagoya's Sakae district, the city's primary entertainment hub, has a concentration of hostess bars, karaoke, and late-night food businesses. Under the Act on Control and Improvement of Amusement Business (風営法), businesses must hold category-specific licences. Minors may not enter Category 1 establishments after 18:00. Aichi Police conduct periodic compliance checks and may revoke licences for violations.",
+      "penalty": "Licence suspension for admitting minors; fines up to ¥2,000,000 for operating without a valid category licence",
+      "exceptions": [
+        "Restaurants open until midnight without entertainment elements are exempt from wind-ei licensing"
+      ],
+      "source": "https://www.police.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefectural Police Wind Business Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the name of Nagoya's primary entertainment and nightlife district?",
+        "options": [
+          "Meieki",
+          "Kanayama",
+          "Sakae",
+          "Osu"
+        ],
+        "correct": 2,
+        "explanation": "Sakae is Nagoya's primary entertainment hub, with a high concentration of licensed amusement businesses."
+      }
+    },
+    {
+      "id": 42988,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🏥",
+      "title": "Aichi Medical Cluster — Nagoya University Hospital Rules",
+      "subtitle": "Large tertiary hospitals in Aichi operate under strict accreditation standards",
+      "fullDescription": "Nagoya University Hospital and Nagoya City University Hospital, two of Japan's largest teaching hospitals, operate under the Medical Care Act (医療法). Aichi Prefecture's Medical Care Plan (医療計画) coordinates hospital capacity, emergency medical triage, and specialist care distribution. Hospitals must publish annual quality reports including mortality rates and infection control data under public transparency obligations.",
+      "penalty": "Hospital accreditation suspension for non-compliance with quality reporting; fines for misrepresenting medical outcomes data",
+      "exceptions": [
+        "Small clinics under 20 beds are exempt from the annual specialist quality report requirement"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Medical Care Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What must Aichi's major teaching hospitals publish annually under public transparency obligations?",
+        "options": [
+          "Employee salary data",
+          "Quality reports including mortality rates and infection control data",
+          "Patient complaint logs",
+          "Equipment inventory lists"
+        ],
+        "correct": 1,
+        "explanation": "Aichi's major teaching hospitals must publish annual quality reports including mortality rates and infection control data."
+      }
+    },
+    {
+      "id": 42989,
+      "category": "Agriculture",
+      "severity": "medium",
+      "icon": "🐓",
+      "title": "Nagoya Cochin Chicken Breed Protection",
+      "subtitle": "Japan's most prized chicken breed has certification standards",
+      "fullDescription": "Nagoya Cochin (名古屋コーチン) is one of Japan's three prized chicken breeds (日本三大地鶏) and a certified regional brand under Aichi Prefecture's agricultural promotion framework. Only birds raised by certified Aichi producers using the specified lineage and rearing method (free-range, minimum 150 days) may be sold as Nagoya Cochin. The breed is protected under the Plant Variety Protection and Seed Act animal breed registration.",
+      "penalty": "Civil trademark infringement; fines under the JAS Act for falsely labelling non-certified chicken as Nagoya Cochin",
+      "exceptions": [
+        "Home hobbyist rearing of the breed for personal consumption does not require certification"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Livestock Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the minimum rearing duration for a chicken to qualify as certified Nagoya Cochin?",
+        "options": [
+          "60 days",
+          "90 days",
+          "120 days",
+          "150 days"
+        ],
+        "correct": 3,
+        "explanation": "Certified Nagoya Cochin chickens must be free-range reared for a minimum of 150 days."
+      }
+    },
+    {
+      "id": 42990,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🛒",
+      "title": "Aichi Large-Scale Retail Store Opening Procedures",
+      "subtitle": "New large stores must consult with local communities before opening",
+      "fullDescription": "Under the Large-Scale Retail Store Location Act (大規模小売店舗立地法), stores over 1,000 sqm in Aichi must submit a location plan to the prefecture and hold public consultations with local community associations before opening. The plan must address traffic congestion, parking, delivery routes, and noise. Aichi municipalities may attach conditions to approval, such as required traffic lights or pedestrian crossings.",
+      "penalty": "Opening prohibition until consultation and approval process is complete; fines for non-submitted location plans",
+      "exceptions": [
+        "Stores in designated city centre commercial zones with established pedestrian infrastructure have streamlined consultation requirements"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Commerce Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum floor area triggers the Large-Scale Retail Store Location Act consultation requirement in Aichi?",
+        "options": [
+          "500 sqm",
+          "1,000 sqm",
+          "3,000 sqm",
+          "5,000 sqm"
+        ],
+        "correct": 1,
+        "explanation": "Stores over 1,000 sqm in Aichi must complete community consultation under the Large-Scale Retail Store Location Act before opening."
+      }
+    },
+    {
+      "id": 42991,
+      "category": "Traffic & Driving",
+      "severity": "medium",
+      "icon": "🚦",
+      "title": "Aichi Traffic Safety Campaign — Highest Road Mortality History",
+      "subtitle": "Aichi's past as Japan's most dangerous prefecture shaped strict traffic rules",
+      "fullDescription": "Aichi Prefecture held the grim record of Japan's highest traffic fatalities for 14 consecutive years (1993–2006). This drove Aichi to pioneer strict local traffic safety campaigns under the Road Traffic Act, including mandatory school zone 30km/h zones, enhanced police speed enforcement on national routes, and compulsory reflective gear for cyclists after dark.",
+      "penalty": "¥6,000–¥15,000 fines for speeding in 30km/h school zones; ¥5,000 fine for cyclists without reflectors after dark",
+      "exceptions": [
+        "Emergency vehicles are exempt from 30km/h school zone limits during active emergency responses"
+      ],
+      "source": "https://www.police.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefectural Police Traffic Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "For how many consecutive years did Aichi hold Japan's record for highest traffic fatalities?",
+        "options": [
+          "5 years",
+          "8 years",
+          "14 years",
+          "20 years"
+        ],
+        "correct": 2,
+        "explanation": "Aichi held the record for Japan's highest traffic fatalities for 14 consecutive years (1993–2006), driving strict local road safety rules."
+      }
+    },
+    {
+      "id": 42992,
+      "category": "Disaster Preparedness",
+      "severity": "high",
+      "icon": "🏚️",
+      "title": "Aichi Seismic Retrofit Grant Programme",
+      "subtitle": "Homeowners can access subsidies to earthquake-proof older homes",
+      "fullDescription": "Aichi Prefecture's Seismic Retrofit Support Programme (耐震改修促進計画) provides free seismic diagnosis and subsidies covering up to two-thirds of retrofit costs for wooden homes built before 1981 in Aichi. Given Aichi's position in the Tokai earthquake zone, the prefecture treats seismic retrofitting as a public safety priority. Nagoya City offers additional top-up grants, making retrofitting effectively free for low-income homeowners.",
+      "penalty": "No direct penalty for not retrofitting, but non-compliant buildings may face demolition orders if classified as dangerous",
+      "exceptions": [
+        "New homes built after the 1981 Building Standards Act revision are exempt from the subsidy programme"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Housing Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What fraction of seismic retrofit costs does Aichi Prefecture's subsidy cover?",
+        "options": [
+          "One-quarter",
+          "One-third",
+          "One-half",
+          "Up to two-thirds"
+        ],
+        "correct": 3,
+        "explanation": "Aichi Prefecture's seismic retrofit subsidy covers up to two-thirds of costs for pre-1981 wooden homes."
+      }
+    },
+    {
+      "id": 42993,
+      "category": "Education",
+      "severity": "low",
+      "icon": "🎓",
+      "title": "Aichi University City Initiative — Nanzan and Chukyo",
+      "subtitle": "Major private universities in Aichi must comply with education quality rules",
+      "fullDescription": "Aichi is home to major private universities including Nanzan University, Chukyo University, and Aichi University. Under the Private School Act (私立学校法) and the Standards for Establishment of Universities (大学設置基準), these institutions must maintain student-faculty ratios, conduct annual self-assessment reports, and submit to MEXT periodic certified quality reviews (認証評価). Universities operating programs with international students must also comply with JASSO scholarship and visa guarantee conditions.",
+      "penalty": "MEXT suspension of new student enrolment for non-compliant institutions; fines for schools failing accreditation obligations",
+      "exceptions": [
+        "Junior colleges (短期大学) have separate, simplified accreditation pathways"
+      ],
+      "source": "https://www.mext.go.jp/",
+      "sourceLabel": "Ministry of Education — University Accreditation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What periodic review must Aichi private universities submit to under MEXT rules?",
+        "options": [
+          "Annual government inspection",
+          "Certified quality review (認証評価)",
+          "Board of Education licensing exam",
+          "National standardised student test"
+        ],
+        "correct": 1,
+        "explanation": "Private universities in Aichi must submit to MEXT-certified quality reviews (認証評価) on a periodic basis."
+      }
+    },
+    {
+      "id": 42994,
+      "category": "Public Health",
+      "severity": "low",
+      "icon": "🧘",
+      "title": "Aichi Health Promotion Prefecture-Wide Campaign",
+      "subtitle": "Prefecture runs Japan's most comprehensive regional health promotion plan",
+      "fullDescription": "Aichi Prefecture's Aichi Health Plan (健康あいち21) runs in alignment with the national Health Japan 21 campaign under the Health Promotion Act (健康増進法). The plan sets measurable targets for reducing obesity, smoking rates, and diabetes. Employers with over 300 employees in Aichi must submit annual employee health management reports (健康経営) to the prefecture's health insurance coordination bureau.",
+      "penalty": "Administrative guidance for employers failing to submit health management reports; loss of health management certification for flagrant non-compliance",
+      "exceptions": [
+        "Small businesses under 50 employees are exempt from mandatory annual reporting"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Health Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum number of employees triggers Aichi's mandatory annual health management reporting requirement for employers?",
+        "options": [
+          "50",
+          "100",
+          "200",
+          "300"
+        ],
+        "correct": 3,
+        "explanation": "Employers with over 300 employees in Aichi must submit annual employee health management reports."
+      }
+    },
+    {
+      "id": 42995,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "☀️",
+      "title": "Aichi Renewable Energy Promotion Ordinance",
+      "subtitle": "New public buildings must install solar panels under prefecture ordinance",
+      "fullDescription": "Under Aichi Prefecture's Climate Change Action Plan and its Renewable Energy Promotion Ordinance (再生可能エネルギー普及促進条例), all new prefecture-owned public buildings over 500 sqm must install photovoltaic (PV) solar panels covering at least 30% of roof area. Private developers seeking city planning permits for buildings over 2,000 sqm in Nagoya must submit a renewable energy contribution assessment.",
+      "penalty": "Permits conditioned on inclusion of renewable energy measures; non-compliant public buildings subject to budget review",
+      "exceptions": [
+        "Historically designated buildings and structures in high-shading locations may apply for exemption with supporting assessments"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Environmental Policy Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum roof coverage must new Aichi public buildings over 500 sqm have in solar panels?",
+        "options": [
+          "10%",
+          "20%",
+          "30%",
+          "50%"
+        ],
+        "correct": 2,
+        "explanation": "New prefecture-owned public buildings over 500 sqm in Aichi must install PV solar panels covering at least 30% of roof area."
+      }
+    },
+    {
+      "id": 42996,
+      "category": "Immigration & Identity",
+      "severity": "medium",
+      "icon": "🗺️",
+      "title": "Aichi Technical Intern Training Programme Oversight",
+      "subtitle": "Aichi monitors technical intern trainees more closely than national average",
+      "fullDescription": "Aichi hosts Japan's second-largest population of Technical Intern Trainees (技能実習生), mostly from Vietnam, China, and Indonesia working in automotive suppliers and food processing. The Aichi Labour Bureau conducts enhanced monitoring under the Technical Intern Training Act (技能実習法) and OTIT oversight. Employers found violating trainee rights (minimum wage, working hours, housing) face programme suspension and public naming.",
+      "penalty": "Programme suspension for 5 years; public naming of violating employers; criminal prosecution for serious exploitation",
+      "exceptions": [
+        "Employers who self-report minor violations before inspection and provide remediation may receive reduced sanctions"
+      ],
+      "source": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/",
+      "sourceLabel": "Aichi Labour Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What are the top three source countries for Aichi's Technical Intern Trainees?",
+        "options": [
+          "China, Philippines, Thailand",
+          "Vietnam, China, Indonesia",
+          "Myanmar, Cambodia, Nepal",
+          "India, Brazil, Peru"
+        ],
+        "correct": 1,
+        "explanation": "Aichi's Technical Intern Trainees primarily come from Vietnam, China, and Indonesia, working in automotive suppliers and food processing."
+      }
+    },
+    {
+      "id": 42997,
+      "category": "Housing & Property",
+      "severity": "low",
+      "icon": "🏘️",
+      "title": "Aichi Vacant House Utilisation Programme",
+      "subtitle": "Prefecture incentivises renovation of vacant homes (akiya) for new residents",
+      "fullDescription": "Aichi Prefecture's Akiya (空き家) Utilisation Programme offers subsidies of up to ¥500,000 for renovation of vacant properties in depopulating areas such as rural Nishi-Mikawa and Higashi-Mikawa. Purchasers who live in the renovated home for at least 5 years qualify for the subsidy. Under the Act on Special Measures for Promotion of Vacant House Measures, municipalities may list dangerous abandoned homes and impose improvement orders on absentee owners.",
+      "penalty": "Forced demolition at owner cost for homes classified as dangerous; loss of subsidy for purchasers who leave within 5 years",
+      "exceptions": [
+        "Homes used as short-term holiday lets under approved Aichi tourism licences may qualify for subsidy if owner-occupied for more than 180 days per year"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Housing Policy Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What maximum subsidy does Aichi's Akiya programme offer for renovating vacant homes?",
+        "options": [
+          "¥100,000",
+          "¥300,000",
+          "¥500,000",
+          "¥1,000,000"
+        ],
+        "correct": 2,
+        "explanation": "Aichi's Akiya Utilisation Programme offers subsidies of up to ¥500,000 for renovating vacant properties in depopulating areas."
+      }
+    },
+    {
+      "id": 42998,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "💻",
+      "title": "Aichi Cybercrime Division — Automotive IP Theft",
+      "subtitle": "Aichi Police actively prosecute industrial espionage against auto manufacturers",
+      "fullDescription": "Aichi Prefectural Police's Cybercrime Division (サイバー犯罪対策室) focuses heavily on protecting the automotive manufacturing sector from trade secret theft and industrial espionage. Under the Unfair Competition Prevention Act (不正競争防止法), stealing or leaking trade secrets (営業秘密) — including vehicle design files, battery technology, or manufacturing processes — carries enhanced penalties. Aichi police cooperate with Toyota and Denso's internal security teams.",
+      "penalty": "Up to 10 years imprisonment and ¥3,000,000 fine for theft or disclosure of trade secrets; up to 20 years for overseas disclosure",
+      "exceptions": [
+        "Whistle-blowing on illegal conduct through proper legal channels is protected under the Public Interest Disclosure Act"
+      ],
+      "source": "https://www.police.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefectural Police Cybercrime Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum sentence for disclosing automotive trade secrets overseas from Aichi under Japanese law?",
+        "options": [
+          "5 years",
+          "10 years",
+          "15 years",
+          "20 years"
+        ],
+        "correct": 3,
+        "explanation": "Overseas disclosure of trade secrets under Japan's Unfair Competition Prevention Act carries up to 20 years imprisonment."
+      }
+    },
+    {
+      "id": 42999,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🎆",
+      "title": "Nagoya Port Festival and Fireworks Rules",
+      "subtitle": "Major harbour events require prefecture-level safety coordination",
+      "fullDescription": "The Nagoya Port Festival (名古屋みなと祭) and its fireworks display (one of Japan's largest) attract over 1 million visitors annually. Under Aichi Prefecture's Large Event Safety Ordinance and the Explosives Control Act (火薬類取締法), fireworks displays require Aichi Prefectural Police and Fire Department co-approval. Crowd management plans must be submitted 30 days in advance for events over 50,000 expected attendees.",
+      "penalty": "Event cancellation and fines up to ¥1,000,000 for operating fireworks without approval; criminal liability for explosives violations",
+      "exceptions": [
+        "Traditional small-scale neighbourhood (町内会) fireworks under 1kg of powder are exempt from the full approval process"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Safety Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many visitors does the annual Nagoya Port Festival fireworks display attract?",
+        "options": [
+          "Over 100,000",
+          "Over 300,000",
+          "Over 500,000",
+          "Over 1 million"
+        ],
+        "correct": 3,
+        "explanation": "The Nagoya Port Festival fireworks display attracts over 1 million visitors annually, making it one of Japan's largest."
+      }
+    },
+    {
+      "id": 43000,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Aichi Expo 2005 Legacy Fund Rules",
+      "subtitle": "Post-Expo land in Nagakute operates under special development rules",
+      "fullDescription": "The site of Expo 2005 Aichi, now Moricoro Park (愛・地球博記念公園) in Nagakute City, operates under the Expo Legacy Fund administered by Aichi Prefecture. Redevelopment of park facilities must follow the Expo 2005 Legacy Plan, preserving green space ratios and public access. The Ghibli Park (ジブリパーク), opened 2022 within the site, required an Aichi Prefecture Special Cultural Development Permit under the legacy framework.",
+      "penalty": "Permit withdrawal for developments that reduce public green space below the Expo Legacy Plan minimum ratios",
+      "exceptions": [
+        "Cultural and educational facility construction that increases public programming may receive expedited permits"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Expo Legacy Fund",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What popular entertainment facility opened within the Expo 2005 site in Nagakute in 2022?",
+        "options": [
+          "Universal Studios Japan",
+          "Legoland Japan",
+          "Ghibli Park (ジブリパーク)",
+          "Sanrio Puroland"
+        ],
+        "correct": 2,
+        "explanation": "Ghibli Park opened in 2022 within the former Expo 2005 site at Moricoro Park in Nagakute, Aichi."
+      }
+    },
+    {
+      "id": 43001,
+      "category": "Tourism & Recreation",
+      "severity": "low",
+      "icon": "🎭",
+      "title": "Osu Kannon Shopping District Vendor Rules",
+      "subtitle": "Nagoya's most eclectic shopping street has commercial ordinances",
+      "fullDescription": "Osu Shopping Arcade (大須商店街) in Nagoya, one of Japan's liveliest covered shopping streets, is governed by Nagoya City's commercial zone ordinances and the Osu Shopping District Association's self-regulatory code. Street food vendors must hold city food hygiene licences and are restricted to designated pitches. Cosplay events in the arcade require advance notification to the ward office and police for crowd management.",
+      "penalty": "Fines ¥20,000–¥100,000 for unlicensed food vending in the arcade; civil penalties for damage to arcade structure",
+      "exceptions": [
+        "Registered arcade tenants may operate within their own frontage without additional street trading licences"
+      ],
+      "source": "https://www.city.nagoya.jp/",
+      "sourceLabel": "Nagoya City Naka Ward Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What event type in Osu Shopping Arcade requires advance notification to the ward office and police?",
+        "options": [
+          "Traditional festival floats",
+          "Cosplay events",
+          "Music performances",
+          "Outdoor food markets"
+        ],
+        "correct": 1,
+        "explanation": "Cosplay events in Osu Shopping Arcade require advance notification to the ward office and police for crowd management."
+      }
+    },
+    {
+      "id": 43002,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌳",
+      "title": "Aichi Forest Management and Timber Certification",
+      "subtitle": "Aichi's forestry industry must comply with sustainable timber rules",
+      "fullDescription": "Aichi Prefecture, with extensive forested areas in the Higashi-Mikawa region, enforces the Forestry Act (森林法) and its own Forest Management Plan (森林整備計画). Commercial timber harvesting requires a harvest permission (伐採届) filed with the municipal forest board. Timber sold commercially must carry FSC or SGEC sustainability certification under national green procurement guidelines for public procurement.",
+      "penalty": "Fines up to ¥1,000,000 for harvesting without notification; disqualification from public procurement contracts for non-certified timber suppliers",
+      "exceptions": [
+        "Personal firewood harvesting under 5 cubic metres per year from own land requires only simplified notification"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Forestry Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What sustainability certifications does Aichi require for timber used in public procurement?",
+        "options": [
+          "ISO 14001 only",
+          "FSC or SGEC certification",
+          "JAS timber grading only",
+          "Any third-party audit"
+        ],
+        "correct": 1,
+        "explanation": "Aichi requires FSC or SGEC sustainability certification for timber used in public procurement contracts."
+      }
+    },
+    {
+      "id": 43003,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "👩‍🔧",
+      "title": "Aichi Women in Manufacturing Support Rules",
+      "subtitle": "Prefecture promotes gender equality in male-dominated automotive sector",
+      "fullDescription": "Under the Act on Promotion of Women's Active Engagement in Professional Life (女性活躍推進法), companies in Aichi with over 101 employees must publish gender pay gap data and set targets for women in management roles. Aichi Prefecture's Women's Active Participation Plan (あいち女性の活躍促進プラン) targets 30% women in management at major Aichi manufacturers by 2030. Toyota and Denso are among the signatories.",
+      "penalty": "Public disclosure of non-compliant companies; loss of Aichi Prefecture supplier certification for persistent non-compliance",
+      "exceptions": [
+        "Companies under 101 employees have a voluntary reporting framework"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Gender Equality Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Aichi Prefecture's target percentage of women in management at major manufacturers by 2030?",
+        "options": [
+          "10%",
+          "20%",
+          "30%",
+          "50%"
+        ],
+        "correct": 2,
+        "explanation": "Aichi's Women's Active Participation Plan targets 30% women in management at major manufacturers by 2030."
+      }
+    },
+    {
+      "id": 43004,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "🚌",
+      "title": "Meitetsu Railway Regional Fare Integration Rules",
+      "subtitle": "Private railways and city buses must coordinate fares for IC card users",
+      "fullDescription": "Meitetsu (名古屋鉄道), Aichi's major private railway network, and Nagoya's city bus and subway system participate in the Manaca (マナカ) IC card fare integration system under MLIT guidelines. Through-fare calculations for multi-modal journeys must be transparent and IC card discounts may not be offered selectively in a way that disadvantages non-IC card users above a 10% differential.",
+      "penalty": "MLIT improvement orders for fare system violations; civil claims for systematic overcharging",
+      "exceptions": [
+        "Special discount schemes targeting elderly and disabled passengers may be offered on IC cards without triggering the 10% differential rule"
+      ],
+      "source": "https://www.meitetsu.co.jp/",
+      "sourceLabel": "Meitetsu Railway / Manaca IC Card System",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the name of the IC card system used on Meitetsu and Nagoya city transport?",
+        "options": [
+          "Suica",
+          "PASMO",
+          "Manaca (マナカ)",
+          "Icoca"
+        ],
+        "correct": 2,
+        "explanation": "Manaca (マナカ) is the IC card system used on Meitetsu Railway and Nagoya city buses and subway."
+      }
+    },
+    {
+      "id": 43005,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "♿",
+      "title": "Aichi Barrier-Free Transport Act Implementation",
+      "subtitle": "Aichi enforces accessibility standards at all major transport hubs",
+      "fullDescription": "Aichi Prefecture's Barrier-Free Basic Plan (バリアフリー基本計画) implements the Barrier-Free Act with enhanced local targets. All stations with over 3,000 daily users must be fully step-free by 2025. Nagoya's underground walkway network connecting the subway to major buildings must maintain tactile paving, auditory guidance, and step-free routes throughout. The Aichi Barrier-Free Awards recognise exemplary implementation.",
+      "penalty": "City may withhold building permits for non-compliant new transport-adjacent construction; existing stations receive improvement orders",
+      "exceptions": [
+        "Rural stations on low-use lines may apply for extended compliance timelines with ridership justification"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Barrier-Free Promotion Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What daily user threshold triggers Aichi's mandatory full step-free access requirement at stations?",
+        "options": [
+          "1,000",
+          "2,000",
+          "3,000",
+          "5,000"
+        ],
+        "correct": 2,
+        "explanation": "Aichi stations with over 3,000 daily users must be fully step-free by 2025 under the prefecture's Barrier-Free Basic Plan."
+      }
+    },
+    {
+      "id": 43006,
+      "category": "Heritage & Culture",
+      "severity": "low",
+      "icon": "🎨",
+      "title": "Aichi Arts Center Public Art Maintenance Rules",
+      "subtitle": "Permanent public artworks in Nagoya must be maintained by commissioning bodies",
+      "fullDescription": "Aichi Arts Center (愛知芸術文化センター) and Nagoya City Art Museum jointly administer the Aichi Triennale contemporary art festival, one of Japan's largest. Public artworks commissioned under the Aichi Triennale's civic art programme must be maintained by the commissioning body (typically Nagoya City) for a minimum of 10 years under Nagoya's Public Art Management Guidelines. Controversial works may be removed only after a formal review by the Aichi Art Advisory Council.",
+      "penalty": "City may seek civil damages from artists or organizers for unauthorised removal of commissioned public artworks within the 10-year minimum period",
+      "exceptions": [
+        "Works that pose public safety risks may be removed immediately with a formal safety report"
+      ],
+      "source": "https://aaa-portal.aichi-art.jp/",
+      "sourceLabel": "Aichi Arts Center",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the minimum maintenance period for public artworks commissioned under Nagoya's civic art programme?",
+        "options": [
+          "3 years",
+          "5 years",
+          "10 years",
+          "20 years"
+        ],
+        "correct": 2,
+        "explanation": "Public artworks commissioned under Nagoya's civic art programme must be maintained for a minimum of 10 years."
+      }
+    },
+    {
+      "id": 43007,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "💴",
+      "title": "Aichi Hometown Tax Regional Specialities",
+      "subtitle": "Aichi municipalities offer automotive and food gifts through furusato nozei",
+      "fullDescription": "Aichi municipalities participating in the Hometown Tax (ふるさと納税) system offer distinctive regional return gifts (返礼品) including Nagoya Cochin products, Aichi ceramics (瀬戸焼, Seto-yaki), Toyota merchandise, and premium Nagoya-meshi food sets. Under the Local Tax Act, gifts must not exceed 30% of donation value and must be locally produced or manufactured in Aichi. The most popular Aichi donation destination is Nagoya City.",
+      "penalty": "Loss of central government equalisation grants for municipalities offering non-compliant gifts",
+      "exceptions": [
+        "Experience-based gifts (local cooking classes, factory tours) are valued by market rate rather than production cost"
+      ],
+      "source": "https://www.city.nagoya.jp/",
+      "sourceLabel": "Nagoya City Revenue Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What traditional Aichi ceramic style is commonly offered as a Hometown Tax return gift?",
+        "options": [
+          "Arita-yaki",
+          "Seto-yaki (瀬戸焼)",
+          "Imari-yaki",
+          "Kutani-yaki"
+        ],
+        "correct": 1,
+        "explanation": "Seto-yaki (瀬戸焼) ceramics from Seto City, Aichi are a popular return gift through the Hometown Tax system."
+      }
+    },
+    {
+      "id": 43008,
+      "category": "Public Health",
+      "severity": "high",
+      "icon": "🌡️",
+      "title": "Aichi Heat Stroke Prevention Ordinance",
+      "subtitle": "Japan's hottest major city has mandatory heat countermeasures",
+      "fullDescription": "Nagoya consistently records Japan's highest summer temperatures among major cities. Aichi Prefecture's Heat Stroke Prevention Ordinance (熱中症対策推進条例), enacted 2021, requires all outdoor event organisers in summer (June–September) to provide free drinking water stations and shaded rest areas. Construction site operators must implement mandatory cooling breaks during heat alerts. Employers who force outdoor work without countermeasures during extreme heat advisories face administrative sanctions.",
+      "penalty": "Event cancellation orders for non-compliant summer events; administrative sanctions and fines for employers ignoring heat advisory protocols",
+      "exceptions": [
+        "Indoor air-conditioned facilities are exempt from outdoor heat countermeasure requirements"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Health Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Aichi Prefecture enact its Heat Stroke Prevention Ordinance?",
+        "options": [
+          "2015",
+          "2018",
+          "2021",
+          "2023"
+        ],
+        "correct": 2,
+        "explanation": "Aichi's Heat Stroke Prevention Ordinance was enacted in 2021 in response to Nagoya's record summer temperatures."
+      }
+    },
+    {
+      "id": 43009,
+      "category": "Agriculture",
+      "severity": "low",
+      "icon": "🍵",
+      "title": "Aichi Tea Culture and Seto Ceramics Tea Ceremony Rules",
+      "subtitle": "Prefecture protects the intersection of ceramics and tea ceremony heritage",
+      "fullDescription": "Aichi's Seto City and Tokoname City are home to two of Japan's six ancient kiln sites (六古窯). Tea ceremony vessels produced in Seto and Tokoname are designated Traditional Craft Products under the Act for the Promotion of Traditional Craft Industries. Potters using the certified traditional techniques must hold apprentice records and register with the Aichi Traditional Craft Industry Cooperative. The craft certification may not be used on machine-produced pieces.",
+      "penalty": "Removal of Traditional Craft certification; fines for misleading use of traditional craft designation on mass-produced goods",
+      "exceptions": [
+        "Contemporary designers using traditional kilns may produce non-certified modern pieces without the designation"
+      ],
+      "source": "https://www.meti.go.jp/",
+      "sourceLabel": "METI Traditional Craft Designation — Seto & Tokoname",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many of Japan's six ancient kiln sites (六古窯) are located in Aichi Prefecture?",
+        "options": [
+          "One",
+          "Two",
+          "Three",
+          "Four"
+        ],
+        "correct": 1,
+        "explanation": "Two of Japan's six ancient kiln sites are in Aichi: Seto City and Tokoname City."
+      }
+    },
+    {
+      "id": 43010,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "📦",
+      "title": "Aichi Online Secondhand Goods Market Regulation",
+      "subtitle": "Online resellers in Aichi must hold an antiquarian dealer licence",
+      "fullDescription": "Under the Act on Dealing in Secondhand Goods (古物営業法) as enforced by Aichi Prefectural Police, any person who regularly buys and resells goods — including through online platforms like Mercari or Yahoo Auctions — is legally required to hold a secondhand goods dealer licence (古物商許可) issued by Aichi police. Applications cost ¥19,000. Professional resellers without a licence commit a criminal offence even if operating entirely online.",
+      "penalty": "Up to 3 years imprisonment or ¥1,000,000 fine for operating as an unlicensed secondhand goods dealer",
+      "exceptions": [
+        "Occasional personal sales (less than a defined frequency and value) do not constitute 'dealing' under the Act"
+      ],
+      "source": "https://www.police.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefectural Police Commerce Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much does it cost to apply for a secondhand goods dealer licence (古物商許可) in Aichi?",
+        "options": [
+          "¥5,000",
+          "¥10,000",
+          "¥19,000",
+          "¥50,000"
+        ],
+        "correct": 2,
+        "explanation": "The secondhand goods dealer licence application in Aichi costs ¥19,000, issued by Aichi Prefectural Police."
+      }
+    },
+    {
+      "id": 43011,
+      "category": "Disaster Preparedness",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Aichi Nankai Trough Mega-Earthquake Preparedness",
+      "subtitle": "Prefecture prepares for a magnitude 9 Nankai Trough event",
+      "fullDescription": "The Cabinet Office estimates a Nankai Trough mega-earthquake (南海トラフ巨大地震) could strike within the next 30 years with 70–80% probability, potentially causing tsunami run-up of up to 6 metres in parts of Aichi. Under the Nankai Trough Earthquake Special Measures Act (南海トラフ地震対策特別措置法), Aichi municipalities in coastal hazard areas must complete evacuation route upgrades by 2030. Businesses designated as critical infrastructure must prepare and test Business Continuity Plans (BCP) annually.",
+      "penalty": "Administrative guidance for critical infrastructure businesses that have not prepared BCPs; fines for local governments that fail tsunami sign requirements",
+      "exceptions": [
+        "Inland municipalities in low seismic risk zones have reduced preparedness obligations"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Disaster Prevention Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the estimated probability of a Nankai Trough mega-earthquake within 30 years, affecting Aichi?",
+        "options": [
+          "30–40%",
+          "50–60%",
+          "70–80%",
+          "Over 90%"
+        ],
+        "correct": 2,
+        "explanation": "The Cabinet Office estimates a 70–80% probability of a Nankai Trough mega-earthquake within 30 years, posing a major tsunami threat to Aichi's coast."
+      }
+    },
+    {
+      "id": 43012,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🐕",
+      "title": "Aichi Prefectural Animal Welfare Ordinance",
+      "subtitle": "Dogs and cats must be registered, vaccinated, and not abandoned",
+      "fullDescription": "Under Aichi's Animal Welfare Ordinance (動物の愛護及び管理に関する条例) and the national Act on Welfare and Management of Animals (動物愛護管理法), all dogs must be registered with the municipal government and vaccinated against rabies annually. Cats must be microchipped if sold or given away as of 2022. Animal abandonment is a criminal offence. Aichi operates a prefecture shelter and promotes zero-euthanasia through an active adoption programme.",
+      "penalty": "Up to ¥1,000,000 fine or 1 year imprisonment for animal abandonment; ¥20,000 for failing to register a dog",
+      "exceptions": [
+        "Working farm animals used in agricultural production are subject to different welfare standards under agricultural regulations"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Animal Welfare Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Since which year are cats in Aichi required to be microchipped when sold or given away?",
+        "options": [
+          "2018",
+          "2020",
+          "2022",
+          "2024"
+        ],
+        "correct": 2,
+        "explanation": "Since 2022, cats must be microchipped when sold or given away in Aichi under the amended national animal welfare law."
+      }
+    },
+    {
+      "id": 43013,
+      "category": "Criminal Law",
+      "severity": "medium",
+      "icon": "🔒",
+      "title": "Aichi Anti-Stalking Enforcement Rules",
+      "subtitle": "Aichi Police provide 24-hour stalking consultation and rapid response",
+      "fullDescription": "Under the Stalker Control Law (ストーカー規制法) as enhanced in 2021, Aichi Prefectural Police operate a 24-hour anti-stalking consultation line and must respond to complaints within 24 hours. Police may issue a warning (警告) to a suspected stalker on first complaint without the victim's formal complaint in emergency circumstances. GPS tracking of another person without consent is explicitly prohibited under the 2021 amendment.",
+      "penalty": "Up to 1 year imprisonment or ¥1,000,000 fine for violating a restraining order; up to 2 years for GPS stalking without consent",
+      "exceptions": [
+        "Parental GPS monitoring of minor children with their knowledge is not covered by the stalking law"
+      ],
+      "source": "https://www.police.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefectural Police Anti-Stalking Unit",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What was explicitly prohibited under Japan's 2021 Stalker Control Law amendment?",
+        "options": [
+          "Phone calls after midnight",
+          "GPS tracking of another person without consent",
+          "Sending unsolicited gifts",
+          "Social media contact"
+        ],
+        "correct": 1,
+        "explanation": "GPS tracking of another person without their consent was explicitly prohibited under Japan's 2021 amendment to the Stalker Control Law."
+      }
+    },
+    {
+      "id": 43014,
+      "category": "Immigration & Identity",
+      "severity": "low",
+      "icon": "🌐",
+      "title": "Aichi Global 300 Foreign Talent Attraction Programme",
+      "subtitle": "Prefecture recruits skilled foreign professionals to manufacturing and tech sectors",
+      "fullDescription": "Aichi's Global 300 Programme offers preferential processing and support to foreign nationals with specialist skills in automotive engineering, AI, and advanced manufacturing who relocate to Aichi. Participating companies must provide housing assistance and Japanese language training. Foreign highly skilled professionals (高度専門職) under Japan's points-based visa system may receive accelerated permanent residency review in as little as 1 year when residing in Aichi.",
+      "penalty": "No penalty; voluntary programme — misrepresentation of qualifications may affect visa status under immigration law",
+      "exceptions": [
+        "Professionals who leave Aichi within 3 years of receiving programme benefits may be required to repay housing support grants"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Global Talent Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How quickly may highly skilled foreign professionals in Aichi receive accelerated permanent residency review?",
+        "options": [
+          "3 years (standard)",
+          "2 years",
+          "18 months",
+          "As little as 1 year"
+        ],
+        "correct": 3,
+        "explanation": "Foreign highly skilled professionals under Japan's points-based visa system in Aichi may receive accelerated permanent residency review in as little as 1 year."
+      }
+    },
+    {
+      "id": 43015,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🦷",
+      "title": "Aichi 8020 Dental Health Campaign",
+      "subtitle": "Prefecture targets 80% of elderly residents keeping 20 teeth at age 80",
+      "fullDescription": "Aichi Prefecture's 8020 Campaign (80才で20本の歯を) targets 80% of residents aged 80 retaining at least 20 natural teeth, aligning with national goals. Aichi subsidises dental check-ups for adults at ages 20, 40, 50, 60, and 70 under the prefecture's Health Promotion Plan. Employers with over 50 employees are encouraged (but not required) to subsidise annual dental check-ups for all employees.",
+      "penalty": "No penalties — voluntary public health campaign; non-participating dentists are not penalised",
+      "exceptions": [
+        "Routine dental procedures covered by national health insurance are administered under separate national rules"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Dental Health Promotion",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does Aichi's '8020 Campaign' target?",
+        "options": [
+          "80% of adults exercising 20 minutes daily",
+          "80-year-olds retaining at least 20 natural teeth",
+          "80% vaccination rate by age 20",
+          "20% reduction in dental cavities by 2080"
+        ],
+        "correct": 1,
+        "explanation": "Aichi's 8020 Campaign targets 80% of residents aged 80 retaining at least 20 natural teeth."
+      }
+    },
+    {
+      "id": 43016,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🐟",
+      "title": "Mikawa Bay Clam Aquaculture Regulations",
+      "subtitle": "Asari clam harvesting in Mikawa Bay is regulated by Aichi Fisheries Cooperative",
+      "fullDescription": "Asari clams (あさり) from Mikawa Bay are Aichi's most valuable marine product. The Aichi Fisheries Cooperative issues annual harvest quotas and size limits (minimum 2cm shell length) under the Fisheries Act (漁業法). Non-cooperative members harvesting clams commercially require a prefectural fishing licence. Harmful algal bloom (赤潮) alerts trigger temporary harvesting bans across affected zones.",
+      "penalty": "Up to ¥1,000,000 fine for unlicensed commercial harvesting; licence suspension for quota violations",
+      "exceptions": [
+        "Personal non-commercial gathering of up to 2kg per day per person is permitted during open season"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Fisheries Cooperative",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the minimum shell length for legally harvestable asari clams in Mikawa Bay?",
+        "options": [
+          "1cm",
+          "2cm",
+          "3cm",
+          "5cm"
+        ],
+        "correct": 1,
+        "explanation": "Asari clams must have a minimum shell length of 2cm to be legally harvested in Mikawa Bay, Aichi."
+      }
+    },
+    {
+      "id": 43017,
+      "category": "Employment & Labour",
+      "severity": "low",
+      "icon": "🎨",
+      "title": "Aichi Creative Economy Freelance Support",
+      "subtitle": "Aichi provides dispute resolution services for freelancers in creative industries",
+      "fullDescription": "Under the Freelance Protection Act (特定受託事業者に係る取引の適正化等に関する法律, 2024) and Aichi Prefecture's Business Environment Improvement Plan, freelancers and sole traders providing services to businesses in Aichi are entitled to written contracts for any engagement over 60 days. Aichi Prefecture's Business Dispute Resolution Centre offers free mediation for freelance payment disputes. Businesses that routinely fail to provide contracts may be publicly named.",
+      "penalty": "Fines under the Freelance Protection Act for repeated failure to issue written contracts; public naming by Aichi Prefecture",
+      "exceptions": [
+        "One-off transactions under ¥50,000 between individuals are exempt from written contract requirements"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Business Dispute Resolution Centre",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What engagement duration triggers the written contract requirement for freelancers in Aichi under the 2024 Freelance Protection Act?",
+        "options": [
+          "Over 14 days",
+          "Over 30 days",
+          "Over 60 days",
+          "Over 90 days"
+        ],
+        "correct": 2,
+        "explanation": "Freelancers in Aichi are entitled to written contracts for any engagement over 60 days under Japan's 2024 Freelance Protection Act."
+      }
+    },
+    {
+      "id": 43018,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Aichi Green Building Certification Requirements",
+      "subtitle": "New large buildings must meet CASBEE environmental performance standards",
+      "fullDescription": "Under Nagoya City's Environmental Action Plan and the Energy Conservation Act (省エネ法), all new buildings over 5,000 sqm in Nagoya must obtain CASBEE (Comprehensive Assessment System for Built Environment Efficiency) certification, Japan's building environmental performance standard. Buildings receiving CASBEE S-rank (Excellent) certification receive a fast-tracked planning permit process and city promotional listing.",
+      "penalty": "Building permits conditioned on CASBEE assessment submission; non-compliance with energy conservation standards triggers improvement orders",
+      "exceptions": [
+        "Heritage building renovations are assessed against modified baseline standards that account for historic structure limitations"
+      ],
+      "source": "https://www.city.nagoya.jp/",
+      "sourceLabel": "Nagoya City Environmental Policy Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What building environmental performance certification does Nagoya require for new buildings over 5,000 sqm?",
+        "options": [
+          "LEED",
+          "BREEAM",
+          "CASBEE",
+          "ISO 50001"
+        ],
+        "correct": 2,
+        "explanation": "Nagoya requires CASBEE certification — Japan's building environmental performance standard — for new buildings over 5,000 sqm."
+      }
+    },
+    {
+      "id": 43019,
+      "category": "Public Order",
+      "severity": "high",
+      "icon": "🚨",
+      "title": "Aichi Repeat Offender Monitoring Programme",
+      "subtitle": "Released serious offenders are subject to prefectural monitoring under parole rules",
+      "fullDescription": "Under the Act for Probationary Supervision of Persons Who Committed Specified Offences (再犯防止推進法), Aichi Prefecture's Regional Re-offending Prevention Council coordinates between Aichi Probation Office, local governments, and employers. Persons released from prison who committed sex offences against minors are subject to GPS-tracked monitoring in Aichi. All parolees must register their residence within 24 hours of release.",
+      "penalty": "Return to custody for parolees who fail to register residence or comply with monitoring conditions",
+      "exceptions": [
+        "First-time minor offenders on summary probation are not subject to GPS monitoring"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Re-offending Prevention Council",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Within how many hours must parolees in Aichi register their residence after release?",
+        "options": [
+          "6 hours",
+          "12 hours",
+          "24 hours",
+          "48 hours"
+        ],
+        "correct": 2,
+        "explanation": "All parolees in Aichi must register their residence with the Probation Office within 24 hours of release from custody."
+      }
+    },
+    {
+      "id": 43020,
+      "category": "Traffic & Driving",
+      "severity": "medium",
+      "icon": "🏎️",
+      "title": "Toyota Proving Ground Road Closure Notices",
+      "subtitle": "Vehicle test roads in Toyota City require public notification when used",
+      "fullDescription": "Toyota Motor Corporation's proving grounds and test tracks in Toyota City operate under Road Traffic Act special permits. When test vehicles use public roads in Toyota City for endurance trials, Aichi Prefectural Police and Toyota City must issue advance public notices. Prototype vehicles may be disguised but must carry all required reflectors, registration plates, and lights. Accident liability during authorised test drives is governed by Toyota's public road test permit conditions.",
+      "penalty": "Revocation of public road test permit for accidents caused by non-compliant test vehicles",
+      "exceptions": [
+        "Fully enclosed private proving grounds are exempt from public notification requirements"
+      ],
+      "source": "https://www.city.toyota.aichi.jp/",
+      "sourceLabel": "Toyota City Road Management Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What must prototype vehicles doing road tests on public roads in Toyota City carry?",
+        "options": [
+          "Only a company identification sticker",
+          "All required reflectors, registration plates, and lights",
+          "A safety observer vehicle behind them",
+          "A special red flag at the front"
+        ],
+        "correct": 1,
+        "explanation": "Prototype vehicles on public road tests in Toyota City must carry all required reflectors, registration plates, and lights despite any external disguise."
+      }
+    },
+    {
+      "id": 43021,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏭",
+      "title": "Aichi EV Transition Support Scheme",
+      "subtitle": "Prefecture subsidises electric vehicle adoption for businesses and residents",
+      "fullDescription": "Aichi Prefecture's EV Promotion Programme provides subsidies of up to ¥200,000 for individuals and ¥500,000 for businesses purchasing zero-emission vehicles for use in Aichi. As Japan's automotive manufacturing centre, Aichi has a strategic interest in transitioning to EVs domestically. Eligible vehicles must be from models certified under the Low Emission Vehicle (低公害車) designation. Subsidy recipients must register the vehicle in Aichi and keep it for at least 3 years.",
+      "penalty": "Subsidy clawback if the vehicle is deregistered from Aichi or sold within 3 years of purchase",
+      "exceptions": [
+        "Commercial fleet operators replacing multiple vehicles may apply for the business subsidy per vehicle up to a fleet cap of 10 vehicles"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture EV Promotion Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum EV subsidy available to businesses in Aichi?",
+        "options": [
+          "¥100,000",
+          "¥200,000",
+          "¥500,000",
+          "¥1,000,000"
+        ],
+        "correct": 2,
+        "explanation": "Aichi's EV Promotion Programme offers businesses subsidies of up to ¥500,000 per qualifying zero-emission vehicle."
+      }
+    },
+    {
+      "id": 43022,
+      "category": "Heritage & Culture",
+      "severity": "low",
+      "icon": "🎎",
+      "title": "Aichi Traditional Performing Arts — Puppet Theatre",
+      "subtitle": "Bunraku and ningyo joruri troupes in Aichi have heritage protection",
+      "fullDescription": "Aichi Prefecture has a rich tradition of Bunraku-style ningyo joruri (人形浄瑠璃) puppet theatre, particularly in the Ama and Tsushima areas. Performing troupes designated as Prefectural Intangible Cultural Property (県指定無形文化財) receive annual operational subsidies and must perform publicly at least twice per year. Costumes, puppets, and stage instruments are registered as associated cultural properties and may not be sold overseas without prefecture approval.",
+      "penalty": "Loss of designation and subsidy for troupes that fail to meet public performance requirements; fines for unauthorised overseas sale of registered cultural property items",
+      "exceptions": [
+        "Short-term international tours with cultural exchange approval from the prefecture are permitted"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Cultural Affairs Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the minimum number of public performances required annually for Aichi's designated ningyo joruri troupes?",
+        "options": [
+          "Once per year",
+          "At least twice per year",
+          "Quarterly",
+          "Monthly"
+        ],
+        "correct": 1,
+        "explanation": "Aichi's designated ningyo joruri puppet theatre troupes must perform publicly at least twice per year to retain their heritage designation."
+      }
+    },
+    {
+      "id": 43023,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🛡️",
+      "title": "Aichi Consumer Contract Review — Automotive Sales Practices",
+      "subtitle": "High-pressure auto dealership sales tactics are specifically regulated",
+      "fullDescription": "Aichi's Prefectural Consumer Affairs Centre receives the highest number of automotive sales complaints in Japan due to the density of dealerships. Under the Consumer Contract Act (消費者契約法) and Specified Commercial Transactions Act, dealers who use high-pressure tactics, prevent customers from leaving the dealership, or misrepresent finance terms void the resulting contract. Customers have a statutory 8-day cooling-off period for door-to-door auto sales.",
+      "penalty": "Contract rescission; fines up to ¥3,000,000 for systematic misleading sales practices; dealer licence revocation for repeat offences",
+      "exceptions": [
+        "Sales through standard showroom visits where the customer came voluntarily are not covered by cooling-off (unless high pressure is demonstrated)"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Consumer Affairs Centre",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why does Aichi receive Japan's highest number of automotive sales complaints?",
+        "options": [
+          "Cars are more expensive in Aichi",
+          "Aichi has the highest density of car dealerships due to the automotive industry",
+          "Aichi has weaker consumer protection laws",
+          "Dealerships target foreign workers in Aichi"
+        ],
+        "correct": 1,
+        "explanation": "Aichi's density of automotive dealerships — due to the Toyota-centred industry — generates Japan's highest volume of automotive sales complaints."
+      }
+    },
+    {
+      "id": 43024,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "📋",
+      "title": "Aichi Personal Information Protection Ordinance",
+      "subtitle": "Prefecture enforces strict rules on public and private handling of personal data",
+      "fullDescription": "Aichi Prefecture's Personal Information Protection Ordinance (個人情報保護条例), aligned with the national Act on the Protection of Personal Information (個人情報の保護に関する法律, APPI), requires all prefecture-level organisations and businesses with over 5,000 records of personal data to appoint a data protection officer, maintain an incident response plan, and report data breaches to the prefecture within 72 hours.",
+      "penalty": "Fines up to ¥1,000,000 for failure to report data breaches; criminal penalties under national APPI for wilful misuse of personal data",
+      "exceptions": [
+        "Academic research and statistical purposes have conditional exemptions for data processing with appropriate anonymisation"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Personal Information Protection Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Within how many hours must Aichi businesses report data breaches to the prefecture?",
+        "options": [
+          "24 hours",
+          "48 hours",
+          "72 hours",
+          "1 week"
+        ],
+        "correct": 2,
+        "explanation": "Businesses in Aichi must report data breaches to the prefecture within 72 hours under the Personal Information Protection Ordinance."
+      }
+    },
+    {
+      "id": 43025,
+      "category": "Disaster Preparedness",
+      "severity": "high",
+      "icon": "🏭",
+      "title": "Aichi Critical Infrastructure Business Continuity Rules",
+      "subtitle": "Toyota and other designated essential businesses must have tested BCPs",
+      "fullDescription": "Under Japan's Re-offending Prevention and Business Continuity Act framework and Aichi Prefecture's Critical Infrastructure Protection Plan, businesses designated as critical infrastructure (自動車産業中核企業) — including Toyota, Denso, Aisin, and their Tier 1 suppliers — must submit Business Continuity Plans (BCP) to Aichi Prefecture, conduct annual tabletop exercises, and achieve a minimum of 72-hour operational continuity after a major earthquake. Supply chain resilience is a key national security concern given Aichi's role in Japan's economy.",
+      "penalty": "Administrative guidance; loss of prefecture emergency response partnership status for non-compliant designated businesses",
+      "exceptions": [
+        "Tier 2 and below suppliers with under 300 employees have a voluntary BCP framework rather than mandatory submission"
+      ],
+      "source": "https://www.pref.aichi.jp/",
+      "sourceLabel": "Aichi Prefecture Critical Infrastructure Protection Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum operational continuity period must Aichi's critical infrastructure businesses achieve after a major earthquake?",
+        "options": [
+          "24 hours",
+          "48 hours",
+          "72 hours",
+          "1 week"
+        ],
+        "correct": 2,
+        "explanation": "Aichi's designated critical infrastructure businesses must achieve a minimum of 72-hour operational continuity after a major earthquake."
+      }
+    }
+  ]
+}

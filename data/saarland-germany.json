@@ -1,0 +1,1506 @@
+{
+  "country": "Saarland, Germany",
+  "slug": "saarland-germany",
+  "laws": [
+    {
+      "id": 42051,
+      "category": "Constitutional Law",
+      "severity": "informational",
+      "icon": "⚖️",
+      "title": "Saarländische Verfassung 1947",
+      "subtitle": "Saarland constitution — unique French protectorate history",
+      "fullDescription": "Saarland's constitution was adopted 15 December 1947 during the French Saar Protectorate (1947–1957), giving Saarland unique political status: autonomous but in economic union with France. After the 1955 Saarland Status referendum rejected European status and the 1957 political return to Germany (Rückgliederung), Saarland became Germany's 10th state. The Landesverfassung was amended to integrate into the FRG. Germany's smallest non-city-state at 2,570 km².",
+      "penalty": "Constitutional violations reviewed by Verfassungsgerichtshof des Saarlandes",
+      "exceptions": ["Federal Basic Law supremacy applies", "Saarland's coal and steel heritage treaties with France: historical, expired 1957"],
+      "source": "https://www.landtag-saar.de/verfassung",
+      "sourceLabel": "Landtag Saarland – Landesverfassung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Saarland politically reunite with West Germany?",
+        "options": ["1950", "1953", "1957", "1960"],
+        "correct": 2,
+        "explanation": "Saarland politically rejoined West Germany on 1 January 1957 after a 1955 referendum rejected European Statute status and chose return to Germany."
+      }
+    },
+    {
+      "id": 42052,
+      "category": "Industrial Heritage",
+      "severity": "medium",
+      "icon": "🏭",
+      "title": "Völklinger Hütte UNESCO — Iron Works",
+      "subtitle": "Völklinger Hütte UNESCO 1994 — world's first industrial UNESCO site",
+      "fullDescription": "The Völklinger Hütte ironworks (closed 1986) was the first industrial facility designated a UNESCO World Heritage Site (1994). The 6-hectare blast furnace complex in Völklingen represents the zenith of 19th–20th century iron and steel production. Managed by the Weltkulturerbe Völklinger Hütte gGmbH under DSchG Saarland. The site hosts major cultural events (Faces & Laces, Gothic events) under DSchG exception permits for temporary uses of monument.",
+      "penalty": "DSchG Saarland alteration of UNESCO site without permit: fines up to €500,000; restoration order",
+      "exceptions": ["Cultural events under temporary use permit: structures must be removable", "Conservation works exempt from normal building permit under DSchG Saarland §§19–20"],
+      "source": "https://www.voelklinger-huette.org",
+      "sourceLabel": "Weltkulturerbe Völklinger Hütte",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which year was Völklinger Hütte designated the world's first industrial UNESCO World Heritage Site?",
+        "options": ["1990", "1994", "1998", "2002"],
+        "correct": 1,
+        "explanation": "The Völklinger Hütte was designated a UNESCO World Heritage Site in 1994 — the first industrial facility in the world to receive this recognition."
+      }
+    },
+    {
+      "id": 42053,
+      "category": "Mining Law",
+      "severity": "high",
+      "icon": "⛏️",
+      "title": "Coal Phase-Out Saarland — RAG Foundation",
+      "subtitle": "Last Saarland mine (Ensdorf/Saar) closed 2012 — RAG legacy",
+      "fullDescription": "Hard coal mining in Saarland ended with the closure of the last mine (Grube Ensdorf/Saar, actually in Dillingen) in 2012. The RAG Stiftung (founded 2007) manages the perpetual Ewigkeitsaufgaben: pumping mine water (Grubenwasser) to prevent Saar/Moselle contamination, monitoring surface subsidence (Bergsenkungen), and surface reclamation. RAG Foundation assets (~€20 billion) fund these perpetual tasks. Saarland receives federal subsidies under Kohlehilfegesetz.",
+      "penalty": "Mine water discharge violation: WHG §89 civil liability; BBergG criminal enforcement",
+      "exceptions": ["RAG's Ewigkeitsaufgaben: perpetual obligation without financial ceiling", "Surface damage compensation claims under BBergG §§114–121"],
+      "source": "https://www.rag-stiftung.de",
+      "sourceLabel": "RAG Stiftung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did hard coal mining end in Saarland?",
+        "options": ["2005", "2008", "2012", "2018"],
+        "correct": 2,
+        "explanation": "The last hard coal mine in Saarland closed in 2012, with the RAG Foundation subsequently taking on perpetual environmental legacy management."
+      }
+    },
+    {
+      "id": 42054,
+      "category": "Media Law",
+      "severity": "medium",
+      "icon": "📻",
+      "title": "SR — Saarländischer Rundfunk",
+      "subtitle": "SR — smallest ARD broadcaster, unique Franco-German programming",
+      "fullDescription": "SR (Saarländischer Rundfunk) is Germany's smallest ARD member broadcaster (budget ~€160 million/year) with a uniquely bilingual (German/French) programming tradition given Saarland's history. Governed under SR-Gesetz (Saarland). SR participates in ARD programming and co-produces with Franco-German TV channel Arte (headquartered in Strasbourg). The Saar-Lor-Lux transborder region (Saarland-Lorraine-Luxembourg) influences SR's cultural mandate.",
+      "penalty": "Rundfunkbeitrag non-payment: debt enforcement proceedings",
+      "exceptions": ["Bürgergeld/Hartz IV recipients: Rundfunkbeitrag exemption", "Community facilities with residential character: single payment"],
+      "source": "https://www.sr.de/unternehmen/sr-gesetz",
+      "sourceLabel": "SR – SR-Gesetz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is SR's approximate annual budget, making it the smallest ARD member?",
+        "options": ["€80 million", "€120 million", "€160 million", "€250 million"],
+        "correct": 2,
+        "explanation": "SR (Saarländischer Rundfunk) has approximately €160 million annual budget — the smallest of all ARD member broadcasters."
+      }
+    },
+    {
+      "id": 42055,
+      "category": "Environmental Law",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Biosphärenreservat Bliesgau",
+      "subtitle": "UNESCO Biosphere Reserve since 2009 — orchid meadows and Gallo-Roman heritage",
+      "fullDescription": "The Bliesgau Biosphere Reserve (UNESCO 2009) covers 36,000 ha of the Blies valley in Saarland, known for rare orchid meadows (Streuobstwiesen), Gallo-Roman archaeological sites, and traditional agricultural landscapes. Governed under LNatSchG Saarland and BNatSchG. The reserve includes 32 municipalities and requires 75% core+buffer zone. The rare Maculinea alcon (Alcon blue butterfly) is a key indicator species. Biosphärenreservat management by Umweltministerium Saarland.",
+      "penalty": "Core zone disturbance: LNatSchG Saarland fines up to €50,000",
+      "exceptions": ["Traditional farming within buffer zone: permitted and encouraged", "Archaeological research in Gallo-Roman sites: SLKG permit required"],
+      "source": "https://www.biosphaere-bliesgau.eu",
+      "sourceLabel": "Biosphärenreservat Bliesgau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which year was the Bliesgau designated a UNESCO Biosphere Reserve?",
+        "options": ["2002", "2005", "2009", "2014"],
+        "correct": 2,
+        "explanation": "The Bliesgau was designated a UNESCO Biosphere Reserve in 2009, covering 36,000 ha of the Blies valley in Saarland."
+      }
+    },
+    {
+      "id": 42056,
+      "category": "Constitutional Law",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Landtag Saarland — 51 Seats",
+      "subtitle": "Germany's smallest state parliament — 5% threshold",
+      "fullDescription": "Saarland's Landtag has 51 seats (minimum) elected every 5 years by personalised proportional representation. The 5% threshold (Sperrklausel) applies. Due to its small size, Saarland parliamentary debates are more intimate than larger states. The CDU and SPD have historically dominated. Saarland has been governed by SPD–CDU Große Koalitionen frequently. The Saarbrücken state capital hosts Landtag and key ministries.",
+      "penalty": "Electoral fraud: StGB §§107–108e; up to 5 years imprisonment",
+      "exceptions": ["Saarland has no direct mandate bypass (unlike federal 3-mandate rule)", "Briefwahl (postal voting): same deadlines as federal elections"],
+      "source": "https://www.landtag-saar.de",
+      "sourceLabel": "Landtag des Saarlandes",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many seats does Saarland's Landtag have as a minimum?",
+        "options": ["31", "41", "51", "61"],
+        "correct": 2,
+        "explanation": "Saarland's Landtag has a minimum of 51 seats — the smallest state parliament in a non-city-state in Germany."
+      }
+    },
+    {
+      "id": 42057,
+      "category": "University Law",
+      "severity": "medium",
+      "icon": "🎓",
+      "title": "Universität des Saarlandes — UdS Law",
+      "subtitle": "Saar University — bilingual German-French, 17,000 students",
+      "fullDescription": "The Universität des Saarlandes (UdS) in Saarbrücken, founded 1948 under French occupation with initially bilingual German-French character, has 17,000 students. It is home to the DFKI (Deutsches Forschungszentrum für Künstliche Intelligenz — German AI Research Centre, world's largest nonprofit AI research centre) and the Max Planck Institute for Informatics. The Hochschulgesetz Saarland (HSchG SL) governs all 6 Saarland higher education institutions. No tuition fees.",
+      "penalty": "False academic credentials: §263 StGB fraud; university disciplinary expulsion",
+      "exceptions": ["DFKI operates under private law GmbH — not subject to HSchG SL", "Summer universities and continuing education: separate fee structures permitted"],
+      "source": "https://www.uni-saarland.de",
+      "sourceLabel": "Universität des Saarlandes",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What major AI research institution is headquartered at Saarbrücken?",
+        "options": ["Fraunhofer AI Lab", "DFKI (German Research Center for AI)", "Max Planck AI", "Helmholtz AI"],
+        "correct": 1,
+        "explanation": "DFKI (Deutsches Forschungszentrum für Künstliche Intelligenz) at Saarbrücken is the world's largest nonprofit AI research centre."
+      }
+    },
+    {
+      "id": 42058,
+      "category": "Steel Industry Law",
+      "severity": "high",
+      "icon": "🏭",
+      "title": "Saarstahl AG — Works Council and Restructuring",
+      "subtitle": "Saarstahl — last integrated steel producer in Saarland",
+      "fullDescription": "Saarstahl AG (Völklingen) is Saarland's last integrated steel company, majority-owned by Dillinger Hüttenwerke. Both are controlled by SHS (Stahl-Holding-Saar) — co-owned by Saarland state (around 25% indirect) and ArcelorMittal's related parties. Under BetrVG, the Betriebsrat has strong codetermination rights. Saarstahl produces wire rod and billets. Green steel transition (hydrogen DRI) planned for 2030s. In 2023, Saarstahl received €2.6 billion federal Stahlstrategie support offer.",
+      "penalty": "Steel emission violations: BImSchG enforcement; EU ETS compliance required",
+      "exceptions": ["Blast furnace-based production: EU ETS transitional free allocation", "Scrap-based EAF production: lower EU ETS obligation"],
+      "source": "https://www.saarstahl.com",
+      "sourceLabel": "Saarstahl AG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is SHS (Stahl-Holding-Saar)?",
+        "options": ["A federal steel agency", "The holding company jointly owning Saarstahl and Dillinger Hüttenwerke", "A trade union for steel workers", "A EU steel research institute"],
+        "correct": 1,
+        "explanation": "SHS (Stahl-Holding-Saar) is the holding company that jointly controls both Saarstahl AG and Dillinger Hüttenwerke, with Saarland state as an indirect shareholder."
+      }
+    },
+    {
+      "id": 42059,
+      "category": "Cross-Border Law",
+      "severity": "medium",
+      "icon": "🇫🇷",
+      "title": "Saar-Lor-Lux — Cross-Border Worker Law",
+      "subtitle": "15,000 Grenzgänger from Saarland to Luxembourg and France",
+      "fullDescription": "The Greater Region Saar-Lor-Lux (Saarland, Lorraine/France, Luxembourg, Wallonia/Belgium, Rhineland-Palatinate) has the EU's largest cross-border labour market. Approximately 15,000 Saarland residents commute to Luxembourg (and vice versa). Under bilateral tax treaties (DBAs) and EU Regulation 883/2004 (social security), Grenzgänger (cross-border workers) pay income tax in their country of work (Luxembourg) but social insurance in residence country (Germany). Schengen Agreement enables free movement.",
+      "penalty": "Tax evasion on cross-border work income: AO §370 + DBA application; international mutual assistance",
+      "exceptions": ["HomeOffice rules for Luxembourg Grenzgänger: up to 34 days/year work from Germany without changing tax status", "Posted workers under EU Directive 96/71/EC: labour law of host country applies"],
+      "source": "https://www.grossregion.net",
+      "sourceLabel": "Großregion SaarLorLux",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under DBA rules, where do Saarland commuters to Luxembourg pay income tax?",
+        "options": ["Germany (residence)", "Luxembourg (workplace)", "Split 50/50", "Choice of worker"],
+        "correct": 1,
+        "explanation": "Under the German-Luxembourg double taxation agreement (DBA), Grenzgänger pay income tax in Luxembourg (the country of work) — a significant advantage given Luxembourg's lower income tax rates."
+      }
+    },
+    {
+      "id": 42060,
+      "category": "Environmental Law",
+      "severity": "medium",
+      "icon": "💧",
+      "title": "Saar River Water Law",
+      "subtitle": "Saar river — WHG and Saarprogramm flood protection",
+      "fullDescription": "The Saar river (246km, flows from Vosges through Lorraine, Saarland, into Moselle at Konz near Trier) is regulated under WHG, LWG Saarland, and the international Rhine protection framework (IKSR). Saarland's Saarprogramm manages flood risk along the lower Saar; the 1993 Saarflut (Saarland flood, 135mm in 24h) prompted major flood protection investment. EU WFD requires 'good ecological status' by 2027. Saar river ecological status: moderate — improving.",
+      "penalty": "Discharge into Saar: WHG §89 civil strict liability; §324 StGB criminal prosecution",
+      "exceptions": ["Authorised stormwater overflow under WHG §8 permit", "Mining water (Grubenwasser) from RAG: separate RAG permit regime"],
+      "source": "https://www.saarland.de/umwelt/saar",
+      "sourceLabel": "Saarland – Saargewässer",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where does the Saar river join the Moselle?",
+        "options": ["Saarbrücken", "Saarlouis", "Konz near Trier", "Koblenz"],
+        "correct": 2,
+        "explanation": "The Saar river joins the Moselle at Konz near Trier, Rhineland-Palatinate, after flowing through Saarland from the Vosges via Lorraine."
+      }
+    },
+    {
+      "id": 42061,
+      "category": "Healthcare Law",
+      "severity": "medium",
+      "icon": "🏥",
+      "title": "Krankenhausgesetz Saarland — Hospital Planning",
+      "subtitle": "KHG SL — 22 hospitals for 1 million residents",
+      "fullDescription": "Saarland's Hospital Act (KHG SL) governs 22 hospitals with 6,500 beds for the state's one million residents. The Universitätsklinikum des Saarlandes (UKS) in Homburg is the major teaching hospital (1,300 beds). Saarland has above-average hospital bed density. Following the federal KHVVG 2024 reform, Saarland implements Leistungsgruppen to specialise hospitals. Cross-border patient treatment in France and Luxembourg is significant under EU Directive 2011/24/EU.",
+      "penalty": "Unlicensed hospital operation: KHG SL closure order; administrative fines",
+      "exceptions": ["Private out-patient surgery centres: separate licensing", "Cross-border patient care: EU Directive 2011/24/EU reimbursement applies"],
+      "source": "https://www.saarland.de/gesundheit/krankenhaus",
+      "sourceLabel": "Saarland – Krankenhauswesen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many hospitals does Saarland have for its one million residents?",
+        "options": ["10", "16", "22", "30"],
+        "correct": 2,
+        "explanation": "Saarland has 22 hospitals with approximately 6,500 beds, giving it an above-average hospital bed density for its population."
+      }
+    },
+    {
+      "id": 42062,
+      "category": "Police Law",
+      "severity": "high",
+      "icon": "🚔",
+      "title": "Saarländisches Polizeigesetz — SPolG",
+      "subtitle": "SPolG — 3,300 officers, preventive detention 14 days",
+      "fullDescription": "Saarland's Police Act (SPolG 1989, revised 2022) governs approximately 3,300 officers. Preventive detention (Gewahrsam) up to 14 days with judicial review. SPolG §12 allows body searches at Gefahrengebieten (danger zones). The LKA Saarland investigates cross-border crime with France and Luxembourg (Saar-Lor-Lux crime networks). Saarland participates in SECI (Southeast European Cooperative Initiative) — minor role. Online surveillance (Quellen-TKÜ) powers added 2022.",
+      "penalty": "Widerstand gegen Vollstreckungsbeamte: StGB §113; up to 3 years",
+      "exceptions": ["Diplomatic and consular staff: VCDR immunity", "NATO personnel at Ramstein (RLP): different jurisdiction"],
+      "source": "https://www.polizei.saarland.de",
+      "sourceLabel": "Polizei Saarland",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many police officers does Saarland's state police have?",
+        "options": ["1,200", "2,100", "3,300", "5,000"],
+        "correct": 2,
+        "explanation": "Saarland has approximately 3,300 police officers — proportionally similar to other states but serving the smallest non-city-state territory."
+      }
+    },
+    {
+      "id": 42063,
+      "category": "Construction Law",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Landesbauordnung Saarland — LBO SL",
+      "subtitle": "Saarland building code — 2020 solar panel mandate",
+      "fullDescription": "Saarland's LBO (Landesbauordnung des Saarlandes 2020) was one of Germany's first to mandate solar panels on new non-residential buildings. Hochhaus threshold: above 22m. The Baurecht is administered by Baurechtsamt in the state's 6 Landkreise and Regionalverband Saarbrücken. Saarland's high brownfield density (post-industrial) creates specific Altlasten assessment requirements in §43 LBO SL before any new construction. Timber construction to 7 storeys permitted.",
+      "penalty": "LBO SL §82 — unauthorised construction: demolition order; fines up to €500,000",
+      "exceptions": ["Agricultural buildings under 200m²: Kenntnisgabeverfahren simplified notification", "Solar roof retrofits: permit-free since 2021"],
+      "source": "https://www.saarland.de/ministerium_finanzen/bauen",
+      "sourceLabel": "Saarland MF – Baurecht",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "For which building type did Saarland's LBO 2020 first mandate solar panels?",
+        "options": ["Residential buildings", "Non-residential (commercial/industrial) buildings", "All new buildings", "Public buildings only"],
+        "correct": 1,
+        "explanation": "Saarland's LBO 2020 initially mandated solar panels on new non-residential (commercial and industrial) buildings — one of Germany's first such requirements."
+      }
+    },
+    {
+      "id": 42064,
+      "category": "Labour Law",
+      "severity": "medium",
+      "icon": "🏭",
+      "title": "Ford Saarlouis — Closure Announcement 2025",
+      "subtitle": "Ford Saarlouis closure 2025 — BetrVG Sozialplan negotiations",
+      "fullDescription": "Ford's Saarlouis plant (6,800 employees, producing Ford Focus since 2000) was announced for closure by 2025 in favour of Valencia (Spain) for EV production. Under BetrVG, Ford must negotiate Interessenausgleich and Sozialplan with the Betriebsrat. The Sozialplan provides severance (Abfindung) and retraining (Qualifizierung) packages. NRW and Saarland competed for the EV investment in 2022. Federal and Saarland state support packages of up to €2.6 billion were offered but failed to secure the site.",
+      "penalty": "BetrVG §113 — failure to negotiate Sozialplan: Nachteilsausgleich compensation for all affected employees",
+      "exceptions": ["Force majeure: no Sozialplan obligation if company insolvency", "Kurzarbeit (short-time work) available during phaseout under SGB III §95"],
+      "source": "https://www.ford.de/saarlouis",
+      "sourceLabel": "Ford – Werk Saarlouis",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many employees work at Ford's Saarlouis plant announced for closure?",
+        "options": ["2,500", "4,200", "6,800", "9,500"],
+        "correct": 2,
+        "explanation": "Ford's Saarlouis plant employs approximately 6,800 people producing the Ford Focus — its announced closure triggered major Sozialplan negotiations."
+      }
+    },
+    {
+      "id": 42065,
+      "category": "Heritage Law",
+      "severity": "medium",
+      "icon": "🏰",
+      "title": "Saarbrücken Schloss — Barock to Land Parliament",
+      "subtitle": "Saarbrücken Castle — 1748 baroque, seat of Landtag cultural events",
+      "fullDescription": "Saarbrücken Castle (Saarbrücker Schloss), rebuilt in baroque style by Friedrich Joachim Stengel 1748, was converted to the Historisches Museum Saar after WWII bombing and post-war reconstruction. The castle square (Schlossplatz) hosts open-air cultural events under VStättVO Saarland. The DSchG Saarland protects the baroque ensemble. The old bridge (Alte Brücke) and St. Johann market area complete Saarbrücken's historic centre. Stengel also designed St. Johann's Basilika.",
+      "penalty": "DSchG Saarland unlawful alteration of Schloss: fines up to €250,000; restoration order",
+      "exceptions": ["Museum renovation works: DSchG Saarland §§16–17 permit with Denkmalbehörde coordination", "Temporary event structures: removable structures permitted with consent"],
+      "source": "https://www.historisches-museum.org",
+      "sourceLabel": "Historisches Museum Saar",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which architect designed Saarbrücken Castle in its 1748 baroque form?",
+        "options": ["Johann Balthasar Neumann", "Friedrich Joachim Stengel", "Karl Friedrich Schinkel", "Balthasar Permoser"],
+        "correct": 1,
+        "explanation": "Friedrich Joachim Stengel designed Saarbrücken Castle in baroque style in 1748 and shaped much of Saarbrücken's architectural heritage."
+      }
+    },
+    {
+      "id": 42066,
+      "category": "Energy Law",
+      "severity": "medium",
+      "icon": "☀️",
+      "title": "Saarland Solarenergieprogramm",
+      "subtitle": "RenErlSaar — solar energy push after coal phase-out",
+      "fullDescription": "Saarland's solar energy programme (Solarprogramm Saarland) targets 700 MW of PV capacity by 2030, up from 450 MW currently. After coal phase-out, Saarland invested in renewable energy as structural transition. MNZS (Ministerium für Natur, Umwelt und Verbraucherschutz Saarland) administers EEG implementation. Community energy (Bürgerenergie) projects receive state grants. Large-scale solar on former mining land (Bergbaufolgeflächen) in St. Barbara mine area Saarlouis.",
+      "penalty": "Solar installation without BImSchG permit (>750 kWp ground-mounted): fines; removal order",
+      "exceptions": ["Rooftop PV under 750 kWp: permit-free since EEG 2023", "Agri-PV: BAFA approval required for EEG feed-in tariff"],
+      "source": "https://www.saarland.de/mnuv/energie",
+      "sourceLabel": "MNUV Saarland – Solar",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Saarland's target for solar PV capacity by 2030?",
+        "options": ["300 MW", "500 MW", "700 MW", "1,000 MW"],
+        "correct": 2,
+        "explanation": "Saarland's Solarprogramm targets 700 MW of photovoltaic capacity by 2030, roughly doubling current installed capacity."
+      }
+    },
+    {
+      "id": 42067,
+      "category": "Agricultural Law",
+      "severity": "medium",
+      "icon": "🌾",
+      "title": "Saarland Agriculture — Grünland and Streuobst",
+      "subtitle": "Saarland's 54,000 ha agricultural land — Grünland-focused",
+      "fullDescription": "Saarland has 54,000 ha of agricultural land, predominantly permanent grassland (Grünland: 75%) reflecting its hilly landscape and livestock farming tradition. Saarland has no significant wine or intensive arable production. Streuobstwiesen (traditional fruit meadows) are protected under LNatSchG Saarland as biotopes. EU ELER funding supports Grünlandpflege (grassland maintenance). The Landwirtschaftskammer Saarland advises approximately 1,700 farms averaging 31 ha.",
+      "penalty": "Ploughing of Dauergrünland without permit: DüV and GAP cross-compliance; loss of EU direct payments",
+      "exceptions": ["Restoration ploughing of degraded Grünland: permit from Landwirtschaftsministerium", "Organic conversion: additional ELER support for 5 years"],
+      "source": "https://www.lwk-saarland.de",
+      "sourceLabel": "Landwirtschaftskammer Saarland",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Saarland's agricultural land is permanent grassland (Grünland)?",
+        "options": ["35%", "55%", "75%", "90%"],
+        "correct": 2,
+        "explanation": "Approximately 75% of Saarland's agricultural land is permanent grassland, reflecting its hilly landscape and livestock farming tradition."
+      }
+    },
+    {
+      "id": 42068,
+      "category": "Cultural Law",
+      "severity": "medium",
+      "icon": "🎭",
+      "title": "Staatstheater Saarbrücken — Kulturförderung",
+      "subtitle": "Saarland state theatre — annual €30 million subsidy",
+      "fullDescription": "Saarbrücken's Staatstheater is Saarland's major cultural institution, operating opera, theatre, and ballet with approximately €30 million annual state subsidy under SL Kulturförderungsgesetz. The NV Bühne collective agreement governs theatre employees. Additional cultural support goes to HBKsaar (Hochschule der Bildenden Künste Saar). Saarland's cultural policy has a distinctive Franco-German dimension: co-productions with French institutions (Théâtre du Capitole Toulouse), supported by Staatskanzlei Saarland's France strategy.",
+      "penalty": "Cultural fund misuse: Haushaltsordnung Saarland enforcement; repayment demands",
+      "exceptions": ["Commercial touring productions at Staatstheater: market-rate fees charged", "Church cultural events: separate Kirchenförderung"],
+      "source": "https://www.staatstheater.saarland.de",
+      "sourceLabel": "Staatstheater Saarbrücken",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how much annual state subsidy does Saarbrücken's Staatstheater receive?",
+        "options": ["€10 million", "€20 million", "€30 million", "€50 million"],
+        "correct": 2,
+        "explanation": "The Staatstheater Saarbrücken receives approximately €30 million in annual state subsidies under Saarland's Kulturförderungsgesetz."
+      }
+    },
+    {
+      "id": 42069,
+      "category": "Data Protection",
+      "severity": "high",
+      "icon": "🔒",
+      "title": "ULD / LfDI Saarland — GDPR Enforcement",
+      "subtitle": "Landesbeauftragter für Datenschutz Saarland — small but active authority",
+      "fullDescription": "Saarland's data protection authority (Landesbeauftragter für Datenschutz und Informationsfreiheit — LfDI SL) enforces GDPR and SDSG (Saarländisches Datenschutzgesetz). Despite Saarland's small size, LfDI SL actively enforces especially in municipal government CCTV and public administration data processing. Informationsfreiheitsgesetz Saarland (IFGSAAR) provides public records access. LfDI SL coordinates with other Länder through DSK (Datenschutzkonferenz).",
+      "penalty": "GDPR Art.83 violations: up to €20 million or 4% global turnover",
+      "exceptions": ["Journalistic privilege (§3 SDSG): editorial processing for media purposes", "Research data: §27 DSGVO exemption with safeguards"],
+      "source": "https://www.datenschutz.saarland.de",
+      "sourceLabel": "LfDI Saarland",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the name of Saarland's Freedom of Information Act?",
+        "options": ["LIFG Saarland", "IFGSAAR", "IFG SL", "TranspG SL"],
+        "correct": 1,
+        "explanation": "Saarland's Freedom of Information Act is the Informationsfreiheitsgesetz Saarland (IFGSAAR), giving citizens access to public authority information."
+      }
+    },
+    {
+      "id": 42070,
+      "category": "Public Finance",
+      "severity": "high",
+      "icon": "💰",
+      "title": "Saarland Schuldenbremse — 2019 Sonderprogramm",
+      "subtitle": "Saarland's €400 million debt brake rescue package",
+      "fullDescription": "Saarland was Germany's most financially distressed state in the early 2010s, receiving a €400 million annual federal Sonderprogramm (special support programme 2012–2019) to reach Schuldenbremse compliance. Saarland has approximately €16 billion in debt (€16,000 per capita — highest in Germany). The federal Schuldenbremse (GG Art. 109) required Saarland to reach structural balance by 2020. Saarland achieved this with strict austerity. The Bundesverfassungsgericht rejected Saarland's Notlage claim (1992).",
+      "penalty": "No direct penalty for states — VerfGH Saarland review; political accountability",
+      "exceptions": ["COVID-19: exceptional circumstance allowing deficit spending 2020–2022", "Federal equalisation transfers: Saarland receives Ergänzungszuweisungen under FAG"],
+      "source": "https://www.saarland.de/finanzen/haushalt",
+      "sourceLabel": "Saarland Finanzen – Haushalt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how much debt per capita does Saarland carry?",
+        "options": ["€6,000", "€10,000", "€16,000", "€25,000"],
+        "correct": 2,
+        "explanation": "Saarland carries approximately €16,000 debt per capita — the highest of any German state — reflecting decades of industrial decline and structural subsidies."
+      }
+    },
+    {
+      "id": 42071,
+      "category": "Gambling Law",
+      "severity": "medium",
+      "icon": "🎰",
+      "title": "Spielbank Saarbrücken — Spielbankgesetz SL",
+      "subtitle": "Saarland's one casino — GlüStV 2021 compliance",
+      "fullDescription": "Saarland has one licensed casino: Spielbank Saarbrücken, operated by Spielbank Saarland GmbH (state-owned). Under GlüStV 2021, Spielbank must implement player self-exclusion (OASIS), identity verification (GwG), and problem gambling prevention (§6 GlüStV). Online casino games liberalised under GlüStV 2021 with GGL (national licensing authority, Halle). The Spielbank Saarbrücken generates approximately €8 million annually in Spielbankabgabe (casino levy) for the state.",
+      "penalty": "Illegal gambling operation: GlüStV 2021 §28a; fines up to €500,000",
+      "exceptions": ["Private poker among friends without organisation/profit: unregulated", "Charity lotteries: Lotteriegesetz Saarland separate permit"],
+      "source": "https://www.spielbank-saarland.de",
+      "sourceLabel": "Spielbank Saarland",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how much does Saarland's Spielbank generate annually in Spielbankabgabe (casino levy)?",
+        "options": ["€2 million", "€5 million", "€8 million", "€15 million"],
+        "correct": 2,
+        "explanation": "The Spielbank Saarbrücken generates approximately €8 million annually in Spielbankabgabe (casino levy) paid to the Saarland state."
+      }
+    },
+    {
+      "id": 42072,
+      "category": "Education Law",
+      "severity": "medium",
+      "icon": "🏫",
+      "title": "Schulordnungsgesetz Saarland",
+      "subtitle": "SOG SL — Gemeinschaftsschule as main school type",
+      "fullDescription": "Saarland reformed its school system in 2012, introducing the Gemeinschaftsschule (covering grades 5–10) as the main comprehensive school type alongside Gymnasium. G9 restored for Gymnasium from 2016. Saarland has 330 schools with 130,000 pupils. Full-day schooling (Ganztagsschule) rate: 65% of schools. The Saarbrücken European School (Europäische Schule) provides bilingual German-French education — a legacy of Saar-Lorraine cultural relations. No tuition fees.",
+      "penalty": "Truancy: SOG SL §92; parental fines up to €1,000",
+      "exceptions": ["European Schools: different curriculum under European School statute (1957)", "International schools: accreditation under KMK agreement"],
+      "source": "https://www.saarland.de/bildung/schulen",
+      "sourceLabel": "Saarland – Schulrecht",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What comprehensive school type did Saarland introduce in 2012 as its main secondary school?",
+        "options": ["Sekundarschule", "Realschule Plus", "Gemeinschaftsschule", "Integrierte Gesamtschule"],
+        "correct": 2,
+        "explanation": "Saarland introduced the Gemeinschaftsschule in 2012 as its main comprehensive secondary school type covering grades 5–10."
+      }
+    },
+    {
+      "id": 42073,
+      "category": "Transport Law",
+      "severity": "medium",
+      "icon": "🚌",
+      "title": "SAARBUS / ZPS — ÖPNVG Saarland",
+      "subtitle": "Public transport in Saarland — Saarbrücken Stadtbahn",
+      "fullDescription": "Saarland's public transport is governed by ÖPNVG Saarland. The Saarbrücken tram-train system (Saarbahn) operates under StVO §19 tram rules and EBO (for main-line sections). The ZPS (Zweckverband Personennahverkehr Saarbrücken) coordinates bus and Saarbahn. Unique feature: the Saarbahn crosses into France (Sarreguemines) since 1997 — Europe's first cross-border tram-train. The Deutschlandticket transformed regional ridership (40% increase). Saarland's S-Bahn connection to Kaiserslautern/Mannheim: 45-minute service.",
+      "penalty": "Fare evasion: €60 erhöhtes Beförderungsentgelt; criminal prosecution for repeat offenders",
+      "exceptions": ["Deutschlandticket valid on all Saarland public transport", "Schülerfahrkarte subsidised under SOG SL"],
+      "source": "https://www.saarbahn.de",
+      "sourceLabel": "Saarbahn GmbH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes Saarbrücken's Saarbahn historically significant in European transport?",
+        "options": ["Europe's oldest electric tram", "Europe's first underground tram", "Europe's first cross-border tram-train (to France)", "Europe's longest tram line"],
+        "correct": 2,
+        "explanation": "The Saarbahn became Europe's first cross-border tram-train when it extended to Sarreguemines, France in 1997."
+      }
+    },
+    {
+      "id": 42074,
+      "category": "Wildlife Law",
+      "severity": "medium",
+      "icon": "🦌",
+      "title": "Saarländisches Jagdgesetz",
+      "subtitle": "SJagdG — hunting in Saarland's forests; wild boar ASF prevention",
+      "fullDescription": "Saarland's Hunting Act (SJagdG 1998, revised 2021) governs hunting across 256,000 ha of huntable land. Wild boar (Wildschwein) management is critical due to African Swine Fever (ASF) risk — Saarland borders France where ASF was detected 2022. Intensive boar culling (Bejagungsplan) required under SJagdG and federal ASF response plan. Roe deer (Reh) and red deer (Hirsch) hunted under Abschussplan. Jagdbezirke minimum 75 ha. Hunting licence (Jagdschein) requires Jägerprüfung exam.",
+      "penalty": "Poaching: §292 StGB; up to 5 years; illegal hunting method: SJagdG §§38–40 fines",
+      "exceptions": ["Emergency killing of wounded game: no licence required under Notwehr/Notstand", "Scientific capture: SLKG and SJagdG exception permit"],
+      "source": "https://www.saarland.de/jagd",
+      "sourceLabel": "Saarland – Jagdrecht",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What disease has driven intensive wild boar culling in Saarland since 2022?",
+        "options": ["Foot and mouth disease", "African Swine Fever (ASF)", "Swine influenza H1N1", "Classical swine fever"],
+        "correct": 1,
+        "explanation": "African Swine Fever (ASF/Afrikanische Schweinepest) detected in France near Saarland's border in 2022 triggered intensive wild boar culling programmes to prevent spread."
+      }
+    },
+    {
+      "id": 42075,
+      "category": "Retail Law",
+      "severity": "medium",
+      "icon": "🛒",
+      "title": "Ladenöffnungsgesetz Saarland",
+      "subtitle": "LöffG SL — Sunday trading banned; 4 exceptions per year",
+      "fullDescription": "Saarland's Ladenöffnungsgesetz (LöffG SL 2006) prohibits Sunday and public holiday trading with up to 4 exceptions per municipality per year (verkaufsoffene Sonntage tied to public events). Monday–Saturday: no mandatory closing time (24-hour opening permitted except labour law limits). Bäckereien may open Sunday mornings up to 3 hours. Petrol stations, pharmacies, airport/rail shops open Sundays. Saarland's trade unions (ver.di) actively litigate Sunday exceptions that lack genuine event basis.",
+      "penalty": "Illegal Sunday trading: LöffG SL §21; fines up to €5,000",
+      "exceptions": ["Christmas market stalls: separate permit", "Tourist areas with Kurtaxe designation: possible extended Sunday exception"],
+      "source": "https://www.saarland.de/wirtschaft/einzelhandel",
+      "sourceLabel": "Saarland – Ladenöffnung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many Sunday trading exceptions may municipalities in Saarland permit annually?",
+        "options": ["2", "4", "8", "11"],
+        "correct": 1,
+        "explanation": "LöffG SL permits up to 4 Sunday trading exceptions per municipality per year, tied to genuine public events."
+      }
+    }
+  ,
+    {
+      "id": 42076,
+      "category": "Environmental Law",
+      "severity": "medium",
+      "icon": "🌲",
+      "title": "Saarland Waldgesetz — Forest Law",
+      "subtitle": "LWaldG SL — 33% forest cover, public access right",
+      "fullDescription": "Saarland has 33% forest cover (90,000 ha), managed under LWaldG Saarland. The state forest (Staatswald) is operated by SaarForst Landesbetrieb. Public access (Betretungsrecht) to all forests guaranteed. Bark beetle crisis 2018–2022 required emergency Noteinschlag of Norway spruce. Klimawald programme replaces spruce monocultures with mixed deciduous forests (oak, beech, Douglas fir). Saarland's forests are significant for recreation given urban concentration in Saarbrücken region.",
+      "penalty": "Off-road driving in forest: LWaldG SL §17; fines up to €500",
+      "exceptions": ["SaarForst and emergency service vehicles: unrestricted access", "Cycling on marked forest trails: permitted under LWaldG SL"],
+      "source": "https://www.saarforst.de",
+      "sourceLabel": "SaarForst Landesbetrieb",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Saarland is covered by forest?",
+        "options": ["20%", "27%", "33%", "42%"],
+        "correct": 2,
+        "explanation": "Saarland has approximately 33% forest cover (90,000 ha), managed by SaarForst Landesbetrieb."
+      }
+    },
+    {
+      "id": 42077,
+      "category": "Consumer Law",
+      "severity": "medium",
+      "icon": "🛡️",
+      "title": "Verbraucherzentrale Saarland",
+      "subtitle": "Consumer protection — cross-border focus (France/Luxembourg)",
+      "fullDescription": "Verbraucherzentrale Saarland (VZ SL), headquartered in Saarbrücken, specialises in cross-border consumer issues unique to the Saar-Lor-Lux region: French online purchases, Luxembourg service contracts, and German-French product liability cases. Under UWG §8 Abs.3 Nr.3, VZ SL has standing to seek injunctions. Key activities: Airbnb regulation enforcement, energy tariff transparency. Annual budget ~€2 million (smallest of all Verbraucherzentralen).",
+      "penalty": "UWG Abmahnung enforcement: Vertragsstrafe up to €5,000 per breach",
+      "exceptions": ["B2B transactions: outside UWG consumer protection scope", "Cross-border online purchases from non-EU: DPIDR Directive 2019/2161 complexity"],
+      "source": "https://www.vz-saar.de",
+      "sourceLabel": "Verbraucherzentrale Saarland",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What unique specialisation does Verbraucherzentrale Saarland have compared to other state consumer centres?",
+        "options": ["Financial services focus", "Cross-border Saar-Lor-Lux consumer issues", "Digital markets focus", "Automotive consumer disputes"],
+        "correct": 1,
+        "explanation": "Verbraucherzentrale Saarland specialises in cross-border consumer issues in the Saar-Lor-Lux region — France, Luxembourg, and Belgium — unique to its geographic position."
+      }
+    },
+    {
+      "id": 42078,
+      "category": "Aviation Law",
+      "severity": "medium",
+      "icon": "✈️",
+      "title": "Flughafen Saarbrücken — Saarland Airport Law",
+      "subtitle": "Saarbrücken Airport — regional hub, 1.3 million passengers",
+      "fullDescription": "Saarbrücken Airport (SCN) handles approximately 1.3 million passengers/year with scheduled flights to Berlin, Munich, and holiday destinations. Owned by Flughafen Saarbrücken GmbH (Saarland state 100%). Under LuftVG Planfeststellungsbeschluss, night operations are restricted 23:00–06:00 with exceptions. The airport faces financial pressure from competition with Luxembourg (LUX), Frankfurt (FRA), and Hahn (HHN). EU services: Luxembourger Luxair and regional carriers.",
+      "penalty": "Night curfew violation: LuftVG enforcement; Lärmschutzbeauftragter fines",
+      "exceptions": ["Medical emergency flights: 24-hour access", "Cargo and mail with advance Nachtflugausnahmegenehmigung"],
+      "source": "https://www.flughafen-saarbruecken.de",
+      "sourceLabel": "Flughafen Saarbrücken GmbH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who owns Saarbrücken Airport?",
+        "options": ["City of Saarbrücken (100%)", "Saarland state (100%)", "Private consortium", "Fraport AG"],
+        "correct": 1,
+        "explanation": "Saarbrücken Airport is 100% owned by the Saarland state through Flughafen Saarbrücken GmbH."
+      }
+    },
+    {
+      "id": 42079,
+      "category": "Social Law",
+      "severity": "medium",
+      "icon": "👴",
+      "title": "Pflegewohnrecht Saarland — Care Home Law",
+      "subtitle": "WTG SL — 80 care homes, 8,000 residents",
+      "fullDescription": "Saarland's Wohn- und Teilhabegesetz (WTG SL 2010, revised 2023) governs 80+ care homes with 8,000 residents. Heimaufsicht (home inspection) is conducted by Landesamt für Soziales (LAS SL) annually. Staff ratio minimum: 1:2 during day, 1:4 at night. Following COVID-19 deaths in Saarland care homes, enhanced infection control protocols were mandated. Pflegesatz (care fee) negotiations between carriers and Pflegekassen set rates. Average Eigenanteil: €2,200/month in Saarland.",
+      "penalty": "WTG SL violation: LAS SL closure order; fines up to €25,000",
+      "exceptions": ["Ambulant (home) care: SGB XI §§36–38 separate regime", "Betreutes Wohnen (assisted living): different WTG SL classification"],
+      "source": "https://www.las.saarland.de/heimaufsicht",
+      "sourceLabel": "LAS Saarland – Heimaufsicht",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which Saarland authority conducts annual inspections of care homes?",
+        "options": ["Gesundheitsamt", "LAS (Landesamt für Soziales)", "MDK (Medizinischer Dienst)", "Heimaufsichtsbehörde"],
+        "correct": 1,
+        "explanation": "The LAS (Landesamt für Soziales Saarland) conducts annual Heimaufsicht inspections of Saarland's care homes under WTG SL."
+      }
+    },
+    {
+      "id": 42080,
+      "category": "Heritage Law",
+      "severity": "medium",
+      "icon": "🏰",
+      "title": "Saarland Bodendenkmalschutz — Celtic Hunsrück-Eifel Culture",
+      "subtitle": "La Tène Celtic burial mounds — archaeological protection SL",
+      "fullDescription": "Saarland has significant Celtic (La Tène culture, 500–0 BC) and Roman archaeological heritage. The Hunsrück-Eifel culture (800–400 BC) left hundreds of Hügelgräber (burial mounds) across Saarland's northern region. Under DSchG Saarland §§17–24 (Bodendenkmalschutz), all archaeological finds belong to the state (Schatzregal). The Staatliches Konservatoramt Saarland (SLKG) manages archaeological sites. Metal detecting without permit is prohibited in designated zones.",
+      "penalty": "Illegal excavation of Celtic burial mound: DSchG SL criminal prosecution; forfeiture",
+      "exceptions": ["Registered archaeological field surveys: SLKG permit with professional archaeologist", "Farm ploughing pre-existing approval: ongoing monitoring required"],
+      "source": "https://www.slkg.saarland.de",
+      "sourceLabel": "SLKG Saarland – Archäologie",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What Celtic archaeological culture left numerous burial mounds in Saarland?",
+        "options": ["Hallstatt culture", "Hunsrück-Eifel culture", "Corded Ware culture", "Bell Beaker culture"],
+        "correct": 1,
+        "explanation": "The Hunsrück-Eifel culture (800–400 BC, early La Tène period) left hundreds of Hügelgräber (burial mounds) protected under DSchG Saarland."
+      }
+    },
+    {
+      "id": 42081,
+      "category": "Food Law",
+      "severity": "medium",
+      "icon": "🍺",
+      "title": "Saarländische Bratwurst — Traditional Food Law",
+      "subtitle": "Schwenker tradition — Saarland's grilling culture and food law",
+      "fullDescription": "Saarland's Schwenker (barbecue) culture centres on marinated Schwenkbraten (pork neck steak) grilled on a swinging grill (Schwenkgrill). While not a formal GI product, Schwenkbraten is a cultural identity marker. Food inspections (LFGB enforcement) by Veterinäramt and LVAV (Landesamt für Verbraucherschutz und Lebensmittelsicherheit des Saarlandes) ensure food safety. Saarland's Schwenk-WM (World Championship) draws international participants and is covered by VStättVO SL.",
+      "penalty": "LFGB food safety violations: §§59–61 LFGB; fines up to €100,000; product withdrawal",
+      "exceptions": ["Home barbecue: not regulated by LFGB (private consumption)", "Commercial Schwenkbraten sales at market: Marktordnungsrecht Saarland applies"],
+      "source": "https://www.lvav.saarland.de",
+      "sourceLabel": "LVAV Saarland – Lebensmittelüberwachung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is distinctive about a Schwenkgrill used for Saarland's traditional Schwenkbraten?",
+        "options": ["It uses charcoal only", "The grill swings on a pendulum over the fire", "It uses infrared heating", "It is a rotisserie-style grill"],
+        "correct": 1,
+        "explanation": "A Schwenkgrill is a grill that swings on a pendulum or chain over the fire, allowing the grill master to control heat by swinging — central to Saarland's Schwenker culture."
+      }
+    },
+    {
+      "id": 42082,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "⚖️",
+      "title": "OLG Saarbrücken — Regional Court Jurisdiction",
+      "subtitle": "OLG Saarbrücken — Strafrecht and Zivilrecht for smallest state",
+      "fullDescription": "The Oberlandesgericht (OLG) Saarbrücken is Saarland's highest ordinary court, with both civil and criminal appellate jurisdiction. Under GVG §120, the OLG Saarbrücken has first-instance jurisdiction for state security (Staatsschutz) offences. Notable cases include organised crime prosecution of Saarland-France-Luxembourg criminal networks. OLG Saarbrücken handles approximately 2,000 cases annually — one of Germany's smallest OLGs. The Staatsanwaltschaft Saarbrücken prosecutes at LG and OLG level.",
+      "penalty": "OLG judgements enforceable under ZPO/StPO; non-compliance: enforcement measures",
+      "exceptions": ["BGH Revision: possible from OLG civil decisions", "BVerfG: constitutional complaint after exhaustion of ordinary courts"],
+      "source": "https://www.olg-saarbruecken.saarland.de",
+      "sourceLabel": "OLG Saarbrücken",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which GVG provision does OLG Saarbrücken have first-instance jurisdiction for terrorism cases?",
+        "options": ["§74a GVG", "§120 GVG", "§§102–104 GVG", "§132 GVG"],
+        "correct": 1,
+        "explanation": "§120 GVG grants OLGs first-instance jurisdiction for Staatsschutz (state security) offences including terrorism, tried by the Staatsschutzssenat."
+      }
+    },
+    {
+      "id": 42083,
+      "category": "Child Protection",
+      "severity": "high",
+      "icon": "👶",
+      "title": "Kinder- und Jugendhilfegesetz Saarland",
+      "subtitle": "KJHG SL — 6 Jugendämter for child welfare",
+      "fullDescription": "Saarland has 6 Jugendämter (in each Landkreis and Regionalverband Saarbrücken) operating under the federal SGB VIII (Kinder- und Jugendhilfe) and Saarland's AG KJHG SL. Child protection professionals have mandatory reporting duties under §§8a SGB VIII and SL-specific protocols. Saarland's Frühe Hilfen (early intervention) programme for vulnerable families funded under BKiSchG. KiTaG Saarland (2008, revised 2023) provides free childcare from age 1.",
+      "penalty": "Failure to report child abuse: SL AG KJHG §§12–15; professional sanctions",
+      "exceptions": ["Attorney-client privilege: partial — immediate danger overrides", "Medical confidentiality: §4 KKG (Gesetz zur Kooperation) creates coordinated disclosure protocol"],
+      "source": "https://www.saarland.de/jugend",
+      "sourceLabel": "Saarland – Kinder- und Jugendschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many Jugendämter does Saarland have?",
+        "options": ["3", "6", "9", "12"],
+        "correct": 1,
+        "explanation": "Saarland has 6 Jugendämter — one in each of its 6 administrative districts (Landkreise and Regionalverband Saarbrücken)."
+      }
+    },
+    {
+      "id": 42084,
+      "category": "Fire Safety",
+      "severity": "high",
+      "icon": "🔥",
+      "title": "SBKG Saarland — Fire and Disaster Protection",
+      "subtitle": "SBKG SL — 22,000 volunteer firefighters",
+      "fullDescription": "Saarland's Brand- und Katastrophenschutzgesetz (SBKG SL 2004, revised 2022) governs 22,000 volunteer firefighters in 600+ Freiwillige Feuerwehren and 5 Berufsfeuerwehren (Saarbrücken, Saarlouis, Neunkirchen, Homburg, St. Ingbert). Response standard: 10 minutes urban, 15 minutes rural. CBRN response is coordinated with France and Luxembourg under Saar-Lor-Lux civil protection agreements. Saarland's cross-border fire cooperation with Moselle Département is unique.",
+      "penalty": "Arson: StGB §§306–306f up to life imprisonment; SBKG SL technical violations: administrative fines",
+      "exceptions": ["Agriculture controlled burns: Kreisbrandmeister seasonal permit", "Industrial fireworks: SprengG professional licence required"],
+      "source": "https://www.saarland.de/feuerwehr",
+      "sourceLabel": "Saarland – Feuerwehr und Katastrophenschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many volunteer firefighters does Saarland have?",
+        "options": ["8,000", "15,000", "22,000", "35,000"],
+        "correct": 2,
+        "explanation": "Saarland has approximately 22,000 volunteer firefighters across 600+ Freiwillige Feuerwehren."
+      }
+    },
+    {
+      "id": 42085,
+      "category": "Sports Law",
+      "severity": "low",
+      "icon": "⚽",
+      "title": "1. FC Saarbrücken — Football and VereinsG",
+      "subtitle": "Regional league football — former Bundesliga club history",
+      "fullDescription": "1. FC Saarbrücken, Saarland's most prominent football club, played in the Bundesliga era and represents the state in 3. Liga (2024). The club operates under DFL/DFB licensing and VereinsG as an e.V. (registered association). Saarland has no Bundesliga club currently. Ludwigspark Stadium (16,000 capacity) hosted matches when Saarland was a separate football nation (1950–1956) — Saarland had its own FIFA membership and played World Cup qualifiers. The club's history reflects Saarland's unique geopolitical past.",
+      "penalty": "Stadium safety violations: VStättVO SL; event cancellation; LFT regulations",
+      "exceptions": ["Amateur football on public pitches: no VStättVO requirements", "Youth academy matches: simplified safety standards"],
+      "source": "https://www.1fcsaarbruecken.de",
+      "sourceLabel": "1. FC Saarbrücken",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What unique status did Saarland's football team have between 1950 and 1956?",
+        "options": ["Part of French federation", "Had its own FIFA membership and played World Cup qualifiers", "Was merged with Luxembourg FA", "Was an observer member only"],
+        "correct": 1,
+        "explanation": "During the Saar Protectorate (1950–1956), Saarland had its own FIFA membership and participated in World Cup qualifying as a separate football nation."
+      }
+    },
+    {
+      "id": 42086,
+      "category": "Water Law",
+      "severity": "medium",
+      "icon": "💧",
+      "title": "Wassergesetz Saarland — WG SL",
+      "subtitle": "SL water law — Blies, Nied, and Saar tributaries protection",
+      "fullDescription": "Saarland's Water Act (WG SL 2013) implements federal WHG and EU WFD. Key water bodies: Saar, Blies, Prims, Nied, and Losheim reservoir (drinking water). Wasserschutzgebiete Zone I (core protection) prohibit all agriculture. Mine water management: RAG pumps 1.2 million m³/month to prevent Saar contamination. Losheim reservoir is Saarland's main drinking water supply for 400,000 residents. NitrateVI groundwater monitoring shows improving trends in Blies valley.",
+      "penalty": "Discharge into Saarland water body: WG SL §89 civil liability; StGB §324 criminal",
+      "exceptions": ["Authorised stormwater overflow: WHG §8 permit", "Agricultural irrigation from approved wells: Wasserrechtliche Genehmigung required"],
+      "source": "https://www.saarland.de/wasser",
+      "sourceLabel": "Saarland – Wasserrecht",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which reservoir provides drinking water to approximately 400,000 Saarland residents?",
+        "options": ["Bostalsee", "Losheim reservoir", "Saartalsperre", "Nied reservoir"],
+        "correct": 1,
+        "explanation": "The Losheim reservoir (Losheimer Stausee) is Saarland's main drinking water reservoir, supplying approximately 400,000 residents."
+      }
+    },
+    {
+      "id": 42087,
+      "category": "Tax Law",
+      "severity": "medium",
+      "icon": "💰",
+      "title": "Grunderwerbsteuer Saarland — 6.5%",
+      "subtitle": "Saarland property transfer tax — one of Germany's highest",
+      "fullDescription": "Saarland raised its Grunderwerbsteuer to 6.5% in 2013 (from 3.5%) to address budget pressures — one of Germany's highest rates alongside NRW, Schleswig-Holstein, Thüringen, and Brandenburg. For a €250,000 property, this means €16,250 in tax. Saarland's relatively low property prices (compared to Munich) mean absolute amounts remain manageable. Share deals (>95% company acquisition triggering GrEStG) are also subject. Finanzverwaltung Saarland administers via Finanzämter.",
+      "penalty": "GrEStG evasion: AO §370 tax fraud; up to 10 years for large-scale",
+      "exceptions": ["Family transfers between first-degree relatives: GrEStG §3 Nr.6 exempt", "Inheritance of property: not subject to GrEStG (Erbschaftsteuer applies separately)"],
+      "source": "https://www.finanzen.saarland.de",
+      "sourceLabel": "Finanzen Saarland – Grunderwerbsteuer",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Saarland's Grunderwerbsteuer rate?",
+        "options": ["3.5%", "5.0%", "6.0%", "6.5%"],
+        "correct": 3,
+        "explanation": "Saarland charges 6.5% Grunderwerbsteuer — one of Germany's highest, raised from 3.5% in 2013 to address budget pressures."
+      }
+    },
+    {
+      "id": 42088,
+      "category": "Disability Law",
+      "severity": "medium",
+      "icon": "♿",
+      "title": "SLBT — Saarland Disability Commissioner",
+      "subtitle": "Landesbeauftragter für die Belange von Menschen mit Behinderungen",
+      "fullDescription": "Saarland's Behindertengleichstellungsgesetz (BGG SL 2002, revised 2021) implements UN CRPD at state level. The SLBT (Saarländische Landesbeauftragte/r für die Belange von Menschen mit Behinderungen) monitors compliance. 70,000 Saarland residents hold Schwerbehindertenausweis. Barrier-free access to public buildings mandated for new construction under LBO SL §51. ÖPNV accessibility: Saarbahn is fully accessible; rural bus accessibility gaps remain. Digital accessibility: BITV 2.0 for state websites.",
+      "penalty": "BGG SL violation by public bodies: ombudsman complaint; court injunction possible",
+      "exceptions": ["Historic buildings: accessibility 'as far as technically possible' — may be exempted", "Private companies: no criminal penalty; only reputational and accessibility obligation under Sozialgesetzbuch"],
+      "source": "https://www.saarland.de/behinderung",
+      "sourceLabel": "Saarland – Behindertenbeauftragter",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many Saarland residents hold a Schwerbehindertenausweis?",
+        "options": ["25,000", "45,000", "70,000", "100,000"],
+        "correct": 2,
+        "explanation": "Approximately 70,000 Saarland residents hold a Schwerbehindertenausweis (severe disability card, GdB 50+)."
+      }
+    },
+    {
+      "id": 42089,
+      "category": "Energy Law",
+      "severity": "medium",
+      "icon": "💨",
+      "title": "Wind Energy Saarland — Windenergieerlass 2023",
+      "subtitle": "Saarland targets 1.8% of land area for wind energy by 2027",
+      "fullDescription": "Saarland's Windenergieerlass 2023 designates Vorranggebiete (priority areas) covering 1.8% of state territory for wind energy — meeting the federal Windenergieflächenbedarfsgesetz (WindBG) target. Currently Saarland has 180 wind turbines (600 MW). 800m setback from residential areas. Conflicts with Biosphärenreservat Bliesgau restrict turbine placement. EEG feed-in tariff applies; community wind projects supported by SLEBO (Saarland economic development).",
+      "penalty": "Wind turbine without BImSchG §4 approval: demolition order; fines",
+      "exceptions": ["Repowering (old turbine replacement): simplified EEG §46 procedure", "Small wind (under 50 kW): simplified permit under LBO SL"],
+      "source": "https://www.saarland.de/windenergie",
+      "sourceLabel": "Saarland – Windenergie",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Saarland's land area is designated for wind energy under the 2023 Erlass?",
+        "options": ["0.8%", "1.2%", "1.8%", "2.5%"],
+        "correct": 2,
+        "explanation": "Saarland's Windenergieerlass 2023 designates 1.8% of state territory as Vorranggebiete for wind energy — meeting the federal WindBG target."
+      }
+    },
+    {
+      "id": 42090,
+      "category": "Cultural Heritage",
+      "severity": "medium",
+      "icon": "🎭",
+      "title": "Max Ophüls Film Festival Saarbrücken",
+      "subtitle": "Annual German-language film festival — cultural law and Urheberrecht",
+      "fullDescription": "The Max Ophüls Preis film festival (named after Saarbrücken-born director Max Ophüls, 1902–1957) is the most important festival for German-language debut and sophomore films, held annually in Saarbrücken (January). Film screenings require GEMA licensing (music rights) and Filmverleiher agreements under UrhG. Festival-specific exemptions allow advance screenings of unreleased films under industry screening agreements. The festival is co-funded by ARD (SR/SWR) and Saarland state under Kulturförderungsgesetz SL.",
+      "penalty": "Unauthorised film screening: UrhG §§19a, 97 civil injunction; damages",
+      "exceptions": ["Film club (Filmclub) screenings: Gesellschaft für Film- und Mediendienste simplified GEMA licensing", "Documentary use of copyrighted film clips: Zitatrecht §51 UrhG"],
+      "source": "https://www.max-ophuels-preis.de",
+      "sourceLabel": "Max Ophüls Preis – Saarbrücken",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "After whom is Saarbrücken's famous film festival named?",
+        "options": ["Billy Wilder", "Max Ophüls", "Friedrich Murnau", "Fritz Lang"],
+        "correct": 1,
+        "explanation": "The festival is named after Max Ophüls (1902–1957), the acclaimed German-French film director born in Saarbrücken, known for films like Lola Montès and La Ronde."
+      }
+    },
+    {
+      "id": 42091,
+      "category": "Mining Heritage",
+      "severity": "medium",
+      "icon": "⛏️",
+      "title": "Bergbau Museum Bochum — SL Connection",
+      "subtitle": "Saarland's mining heritage — Bergmannskultur legal protection",
+      "fullDescription": "Saarland's coal mining heritage (1750–2012) is preserved at the Bergbaumuseum in Sulzbach/Saar (SaarLandMuseum) and various Zechendenkmäler (mine monuments) protected under DSchG Saarland. The Bergmannstradition (miner's culture) is protected as immaterial cultural heritage under UNESCO Immaterielles Kulturerbe lists. Former mine shaft towers (Fördergerüste) are Baudenkmäler under DSchG SL. The RAG Stiftung funds Bergbau cultural preservation.",
+      "penalty": "DSchG SL — demolition of listed mine tower: criminal prosecution; restoration order",
+      "exceptions": ["Safety-critical removal of structurally dangerous elements: emergency consent", "Adaptive reuse of mine buildings (e.g. as cultural centres): encouraged under DSchG SL"],
+      "source": "https://www.saarlaendisches-bergbaumuseum.de",
+      "sourceLabel": "Saarländisches Bergbaumuseum",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "From which year to which year did hard coal mining operate in Saarland?",
+        "options": ["1820–2005", "1750–2012", "1810–2018", "1900–2012"],
+        "correct": 1,
+        "explanation": "Hard coal mining in Saarland operated from approximately 1750 to 2012, spanning over 260 years and shaping the region's culture and economy."
+      }
+    },
+    {
+      "id": 42092,
+      "category": "Social Housing",
+      "severity": "medium",
+      "icon": "🏠",
+      "title": "Wohnraumförderungsgesetz Saarland",
+      "subtitle": "WoFG SL — social housing for 60,000 social housing units",
+      "fullDescription": "Saarland has approximately 60,000 social housing units, governed under WoFG SL and financed via Saarland Investment Bank (SIKB — merged with other institutions into new structure). Annual social housing programme: ~€100 million in loans. Income limits for social housing eligibility: single person €16,000 net/year in Saarland. Saarbrücken vacancy rate: moderate 3% (no acute shortage vs. Munich). Mietpreisbremse applies only in Saarbrücken, not statewide.",
+      "penalty": "Zweckentfremdung (misuse of social housing): WoFG SL §28; repayment of subsidy plus interest",
+      "exceptions": ["Social housing sold after 25-year binding period: freed from social obligation", "Emergency lettings to homeless persons: interim letting without normal income check permitted"],
+      "source": "https://www.saarland.de/wohnen",
+      "sourceLabel": "Saarland – Wohnraumförderung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the annual volume of Saarland's social housing programme?",
+        "options": ["€25 million", "€60 million", "€100 million", "€200 million"],
+        "correct": 2,
+        "explanation": "Saarland's social housing programme provides approximately €100 million annually in low-interest loans and grants."
+      }
+    },
+    {
+      "id": 42093,
+      "category": "French Law Interface",
+      "severity": "medium",
+      "icon": "🇫🇷",
+      "title": "Deutsch-Französische Zusammenarbeit — Saar Treaty",
+      "subtitle": "Elysée Treaty 1963 and Saarland's France-Competence",
+      "fullDescription": "The Élysée Treaty (1963) between France and Germany established bilateral cooperation that is uniquely close in the Saarland context. Saarland has constitutional competence (Saarland Verfassung Art. 60) for cross-border cooperation with France under the treaty framework. The GECT Eurodistrict Saarbrücken-Moselle-Est covers 5 French cantons + Saarbrücken. Jointly operated schools (Deutsch-Französische Grundschulen), police cooperation (commissariat commun in Lauterbourg/RLP, and Saarland equivalents), and joint emergency services under Schengen.",
+      "penalty": "Cross-border minor offences: bilateral agreement enforcement; can be enforced in either jurisdiction",
+      "exceptions": ["EU free movement: no border controls under Schengen (temporary controls during security events)", "Cross-border tax: DBA Germany-France governs income allocation"],
+      "source": "https://www.saarland.de/europa/frankreich",
+      "sourceLabel": "Saarland – Frankreich-Kompetenz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which 1963 treaty forms the legal basis for Germany-France cross-border cooperation?",
+        "options": ["Maastricht Treaty", "Élysée Treaty", "Aachen Treaty", "Schengen Agreement"],
+        "correct": 1,
+        "explanation": "The Élysée Treaty (Deutsch-Französischer Freundschaftsvertrag, 1963) established bilateral Germany-France cooperation, later supplemented by the Aachen Treaty (2019)."
+      }
+    },
+    {
+      "id": 42094,
+      "category": "Technology Law",
+      "severity": "medium",
+      "icon": "💻",
+      "title": "DFKI Saarbrücken — AI Research and Haftung",
+      "subtitle": "DFKI — EU AI Act and AI liability framework",
+      "fullDescription": "DFKI (Deutsches Forschungszentrum für Künstliche Intelligenz) in Saarbrücken, the world's largest nonprofit AI research centre, is at the forefront of EU AI Act (Regulation 2024/1689) compliance. High-risk AI systems developed at DFKI (medical AI, employment AI) require conformity assessment under EU AI Act Art. 43. The EU AI Liability Directive (proposed) would affect civil liability for DFKI-licensed AI products. DFKI has 1,000+ researchers across 9 locations.",
+      "penalty": "EU AI Act violations (high-risk AI without conformity assessment): up to €30 million or 6% global turnover",
+      "exceptions": ["Research and development exemption: EU AI Act Art. 2(6) for testing", "Open source AI: partial exemption under EU AI Act for models under open licence"],
+      "source": "https://www.dfki.de",
+      "sourceLabel": "DFKI – Deutsches Forschungszentrum für KI",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is DFKI's distinction in the global AI research landscape?",
+        "options": ["Europe's oldest AI research centre", "World's largest nonprofit AI research centre", "Germany's only government AI institute", "EU's official AI regulatory body"],
+        "correct": 1,
+        "explanation": "DFKI is the world's largest nonprofit AI research centre, headquartered in Saarbrücken with over 1,000 researchers across 9 locations."
+      }
+    },
+    {
+      "id": 42095,
+      "category": "Environmental Law",
+      "severity": "medium",
+      "icon": "♻️",
+      "title": "Abfallwirtschaft Saarland — ZKE",
+      "subtitle": "ZKE Saarbrücken — waste management for Regionalverband",
+      "fullDescription": "Saarland's waste management is handled by ZKE (Zentraler Kommunaler Entsorgungsbetrieb) for Regionalverband Saarbrücken and private/municipal operators for Landkreise. Under KrWG and AbfG SL, Saarland's recycling rate is 63% (below national 68%). Thermal waste treatment at EMAS-certified Müllverbrennungsanlage Velsen. Biogasanlage Saarlouis converts organic waste to energy. WEEE electrical waste under ElektroG separate take-back.",
+      "penalty": "Illegal waste dumping: KrWG §§69–71 criminal prosecution; cleanup order at dumper's cost",
+      "exceptions": ["Compostable garden waste: home composting permitted without licence", "Construction waste: AVV (Abfallverzeichnis-Verordnung) specific classification regime"],
+      "source": "https://www.zke-sb.de",
+      "sourceLabel": "ZKE Saarbrücken",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Saarland's current recycling rate?",
+        "options": ["48%", "55%", "63%", "70%"],
+        "correct": 2,
+        "explanation": "Saarland achieves a recycling rate of approximately 63%, slightly below the German average of 68%."
+      }
+    },
+    {
+      "id": 42096,
+      "category": "Border Law",
+      "severity": "medium",
+      "icon": "🛂",
+      "title": "Schengen Area — Saarland-France Border",
+      "subtitle": "Schengen Agreement and temporary border controls under SGK",
+      "fullDescription": "Saarland shares a 136km border with France (Moselle département). Under the Schengen Convention (1985, in force 1995) and Schengen Borders Code (SGK, EU Reg. 2016/399), no border controls normally apply. Temporary reintroduction of controls (Wiedereinführung): Germany reinstated controls at French borders during Euro 2024 football tournament (June–July 2024) under SGK Art. 25. Joint police patrols (gemischte Streifen) between Saarland Polizei and Police Nationale operate year-round.",
+      "penalty": "Illegal border crossing: AufenthG §95; up to 1 year imprisonment",
+      "exceptions": ["EU/EEA citizens: right of free movement under FreizügG/EU", "Third-country nationals with valid Schengen visa: 90-day stay permitted"],
+      "source": "https://www.polizei.saarland.de/grenze",
+      "sourceLabel": "Polizei Saarland – Grenzpolizei",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long is the Saarland-France border?",
+        "options": ["58km", "96km", "136km", "175km"],
+        "correct": 2,
+        "explanation": "Saarland shares approximately 136 kilometres of border with France's Moselle département."
+      }
+    },
+    {
+      "id": 42097,
+      "category": "Historical Law",
+      "severity": "informational",
+      "icon": "🏛️",
+      "title": "Saarstatut 1955 — Failed European Territory",
+      "subtitle": "Saarland referendum 1955 — rejected EU/WEU governance",
+      "fullDescription": "The 1955 Saar Statute proposed by France and Germany would have given Saarland autonomous status under WEU (Western European Union) governance — a compromise between French annexation and German reunification. The 23 October 1955 referendum: 67.7% rejected the statute (Nein). This triggered Saarland's return to West Germany (1 January 1957). The episode is significant in European law history: the first post-war attempt to create a 'Europäisches Territorium' under supranational governance. The referendum result shaped the Basic Law's Art. 23 reunification clause.",
+      "penalty": "Historical — no current legal penalty; serves as constitutional precedent",
+      "exceptions": ["Current EU/EEA law applies normally to Saarland", "Historical treaties with France from protectorate era: all expired 1957"],
+      "source": "https://www.saarland.de/geschichte/saarstatut",
+      "sourceLabel": "Saarland – Geschichte des Saarstatuts",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Saarland voters rejected the 1955 Saar Statute?",
+        "options": ["51.2%", "59.4%", "67.7%", "78.3%"],
+        "correct": 2,
+        "explanation": "67.7% of Saarland voters rejected the Saar Statute in the 23 October 1955 referendum, choosing return to Germany over European territorial status."
+      }
+    },
+    {
+      "id": 42098,
+      "category": "Occupational Safety",
+      "severity": "medium",
+      "icon": "⚙️",
+      "title": "Gewerbeaufsicht Saarland — Occupational Safety",
+      "subtitle": "SGD enforcement of ArbSchG in Saarland's industrial sites",
+      "fullDescription": "Saarland's Gewerbeaufsicht (Landesamt für Umwelt- und Arbeitsschutz, LUA SL) enforces the Arbeitsschutzgesetz (ArbSchG), BImSchG, and ChemG at workplaces including Saarstahl, Dillinger Hütte, and BASF Ludwigshafen border facilities. Workplace inspection rate: approximately 1,500 inspections/year. Major enforcement areas: steel industry heat exposure (GefStoffV), chemical storage, and construction site safety (BaustellV). PSA (Persönliche Schutzausrüstung) requirements under PSA-Benutzungsverordnung.",
+      "penalty": "ArbSchG §25 violation: fines up to €25,000; criminal §26 up to 1 year imprisonment",
+      "exceptions": ["Small businesses under 10 employees: simplified ArbSchG documentation", "Freelancers working alone: ArbSchG applies but enforcement lighter"],
+      "source": "https://www.lua.saarland.de",
+      "sourceLabel": "LUA Saarland – Arbeitsschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which Saarland authority enforces occupational safety (ArbSchG) at industrial sites?",
+        "options": ["Gewerbeaufsichtsamt", "LUA (Landesamt für Umwelt- und Arbeitsschutz)", "Berufsgenossenschaft", "Landesarbeitsamt"],
+        "correct": 1,
+        "explanation": "The LUA (Landesamt für Umwelt- und Arbeitsschutz Saarland) enforces occupational safety law (ArbSchG) and environmental protection at Saarland's industrial sites."
+      }
+    },
+    {
+      "id": 42099,
+      "category": "Integration Law",
+      "severity": "medium",
+      "icon": "🌍",
+      "title": "Integrationsgesetz Saarland",
+      "subtitle": "SL integration law — 80,000 foreign residents",
+      "fullDescription": "Saarland has approximately 80,000 foreign nationals (8% of population) including 30,000 EU/EEA citizens (free movement) and 50,000 third-country nationals (AufenthG). The Integrationsgesetz Saarland (2017) mandates language and civic integration. Saarland's Integrationsbeauftragte coordinates across 6 Landkreise. Integration courses (Integrationskurse) under §§44–44a AufenthG: 700 hours language + 100 hours civic knowledge. BAMF manages courses; Saarland provides Begleitende Maßnahmen (accompanying measures).",
+      "penalty": "Failure to attend mandatory Integrationskurs: AufenthG §44a enforcement; benefit reduction possible",
+      "exceptions": ["Persons aged 65+: exemption from obligatory course", "Persons with language certification equivalent (B1): exemption"],
+      "source": "https://www.saarland.de/integration",
+      "sourceLabel": "Saarland – Integration",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many hours does a German Integrationskurs consist of (language + civic)?",
+        "options": ["400 hours", "600 hours", "800 hours", "1,000 hours"],
+        "correct": 2,
+        "explanation": "German Integrationskurse consist of 700 hours of language instruction (A1–B1) plus 100 hours of Orientierungskurs (civic knowledge) = 800 hours total."
+      }
+    },
+    {
+      "id": 42100,
+      "category": "Animal Welfare",
+      "severity": "medium",
+      "icon": "🐕",
+      "title": "Hundegesetz Saarland — Dog Law",
+      "subtitle": "Saarland dog law — no breed-specific ban, behavioural assessment",
+      "fullDescription": "Saarland's Hundegesetz (SHundG 2004, revised 2022) regulates dog ownership without breed-specific bans (unlike NRW's Kampfhundregelung). Instead, behavioural assessment (Wesenstest) is required for dogs with bite history. Dog tax (Hundesteuer) is a municipal levy: Saarbrücken charges €96/year per dog, €192 for certain 'dangerous breed' classifications. Leash requirement in public spaces for dogs over 20kg. Third-party liability insurance for all dogs mandatory.",
+      "penalty": "Dog without insurance: SHundG §18 fines up to €500; biting incident without restraint: §19 up to €10,000",
+      "exceptions": ["Guide dogs and assistance dogs: leash exemption in public buildings", "Police and customs dogs: exempt from municipal Hundesteuer"],
+      "source": "https://www.saarland.de/hundehaltung",
+      "sourceLabel": "Saarland – Hundegesetz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does Saarland require instead of breed-specific bans for potentially dangerous dogs?",
+        "options": ["Mandatory muzzle in public", "Wesenstest (behavioural assessment)", "Microchip and registration", "Sterilisation requirement"],
+        "correct": 1,
+        "explanation": "Saarland uses behavioural assessment (Wesenstest) for dogs with bite histories rather than breed-specific bans, focusing on individual dog behaviour."
+      }
+    },
+    {
+      "id": 42101,
+      "category": "Tourism Law",
+      "severity": "low",
+      "icon": "🏊",
+      "title": "Bostalsee — Freizeitgesetz Saarland",
+      "subtitle": "Bostalsee recreation area — water sports and Naturschutz balance",
+      "fullDescription": "Bostalsee is Saarland's main recreational lake (1,100 ha water surface) in the northern Hochwald, formed by damming the Bost river in 1979. The lake is governed by GZ (Gemeindezweckverband Bostalsee). Water sports regulation: motorboats limited to 12 km/h; windsurfing and sailing permitted with permit. The surrounding Nationalpark-Bereich has nature protection restrictions. Beach areas regulated under OrdnungsBehördenG SL. Annual visitors: 1.5 million. Swimming quality: EU Bathing Directive 2006/7/EC 'excellent'.",
+      "penalty": "Motorboat speed limit violation: OWiG fines; water sports without permit: GZ enforcement",
+      "exceptions": ["Emergency rescue boats: unrestricted speed", "Rowing and kayaking: no permit required at designated launch points"],
+      "source": "https://www.bostalsee.de",
+      "sourceLabel": "Bostalsee GmbH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum speed limit for motorboats on Bostalsee?",
+        "options": ["6 km/h", "10 km/h", "12 km/h", "20 km/h"],
+        "correct": 2,
+        "explanation": "Motorboats are limited to 12 km/h on Bostalsee to protect swimmer safety and maintain ecological quality."
+      }
+    },
+    {
+      "id": 42102,
+      "category": "Broadcast Law",
+      "severity": "medium",
+      "icon": "📺",
+      "title": "LMS Saarland — Private Broadcasting Regulator",
+      "subtitle": "Landesmedienanstalt Saarland — private media regulation",
+      "fullDescription": "LMS (Landesmedienanstalt Saarland) regulates private broadcasters under MStV (Medienstaatsvertrag 2020) and SLM-Gesetz. Saarland has several private local radio stations (antenne saar, Classic Rock Radio). LMS participates in federal broadcasting decisions through ZAK (Kommission für Zulassung und Aufsicht der Landesmedienanstalten). Online media platforms (YouTube channels with 20,000+ followers) may require registration under MStV §74. LMS enforces Jugendmedienschutz (youth media protection under JMStV).",
+      "penalty": "Broadcasting without licence: MStV §95; fines up to €500,000; shutdown order",
+      "exceptions": ["Podcast distribution: generally exempt from broadcast licence under MStV", "Social media individual creators: registration exemption under MStV §74 threshold"],
+      "source": "https://www.lms-saar.de",
+      "sourceLabel": "LMS – Landesmedienanstalt Saarland",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What 2020 legislation unified media regulation across German states?",
+        "options": ["Rundfunkstaatsvertrag", "Medienstaatsvertrag (MStV) 2020", "Telemediengesetz", "Netzwerkdurchsetzungsgesetz"],
+        "correct": 1,
+        "explanation": "The Medienstaatsvertrag (MStV) 2020, replacing the old Rundfunkstaatsvertrag, unified media regulation across Germany including broadcasting, telemedia, and online platforms."
+      }
+    },
+    {
+      "id": 42103,
+      "category": "Immigration Law",
+      "severity": "medium",
+      "icon": "🌍",
+      "title": "Aufnahmeeinrichtung Lebach — Refugee Law SL",
+      "subtitle": "Lebach case (BVerfG 1973) and current refugee reception",
+      "fullDescription": "The Lebach case (BVerfG 1 BvR 536/72, 1973) — involving a convicted criminal's right to be forgotten vs. freedom of press (TV documentary) — is landmark German constitutional law from Saarland. Today, Saarland operates refugee reception centres including Lebach and Saarbrücken under LaufnG SL. Saarland's Königsteiner Schlüssel quota: 1.2% of national arrivals (smallest non-city-state quota). BAMF Saarbrücken processes applications. Average processing time: 6 months in 2023.",
+      "penalty": "Residenzpflichtverletzung: AufenthG §95 up to 1 year imprisonment",
+      "exceptions": ["Recognised refugees §25 AufenthG: freedom of movement in all Germany", "Ukrainian TPS holders: EU-wide temporary protection until 2025 extended"],
+      "source": "https://www.saarland.de/aufnahme",
+      "sourceLabel": "Saarland – Flüchtlingsaufnahme",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What famous 1973 BVerfG case involving a Saarland location balanced privacy rights vs. press freedom?",
+        "options": ["Saarland Rundfunk case", "Lebach case (BVerfG 1 BvR 536/72)", "Völklingen media case", "Saarbrücken TV case"],
+        "correct": 1,
+        "explanation": "The Lebach case (BVerfG 1973) is a landmark privacy law ruling balancing Art. 2 GG (right to be forgotten) against Art. 5 GG (freedom of press) for a convicted criminal whose case was being re-aired on TV."
+      }
+    },
+    {
+      "id": 42104,
+      "category": "Public Finance",
+      "severity": "medium",
+      "icon": "💰",
+      "title": "Konsolidierungspakt Saarland — Fiscal Compact",
+      "subtitle": "Federal rescue package for Saarland under Finanzausgleich",
+      "fullDescription": "Under the Finanzausgleichsgesetz (FAG), Saarland receives federal Ergänzungszuweisungen (supplementary grants) including Konsolidierungshilfen (consolidation assistance). For 2012–2019, Saarland and Bremen each received €400 million/year (€800 million total) as Sanierungshilfen under the GG Art. 107 equalisation framework — to stabilise their public finances. Conditions: strict austerity plans, annual spending caps. Saarland achieved Schuldenbremse compliance by 2020. Post-2019: normal FAG equalisation only.",
+      "penalty": "Breach of Konsolidierungspakt conditions: suspension of Sanierungshilfe payments",
+      "exceptions": ["COVID-19 emergency: exceptional deficit spending allowed 2020–2022", "Investment exceptions for climate-relevant spending: ongoing debate post-BVerfG 2023"],
+      "source": "https://www.bundesfinanzministerium.de/laenderfinanzausgleich",
+      "sourceLabel": "BMF – Länderfinanzausgleich",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much did Saarland receive annually under the federal Sanierungshilfe (2012–2019)?",
+        "options": ["€100 million", "€250 million", "€400 million", "€600 million"],
+        "correct": 2,
+        "explanation": "Saarland received €400 million per year in federal Sanierungshilfe (alongside Bremen) from 2012–2019 to stabilise its finances and achieve Schuldenbremse compliance."
+      }
+    },
+    {
+      "id": 42105,
+      "category": "Denkmalschutz",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Generaldirektion Kulturelles Erbe SL — SLKG",
+      "subtitle": "Monument protection authority for Saarland's 7,000 listed sites",
+      "fullDescription": "The Staatliches Konservatoramt des Saarlandes (SLKG) manages Denkmalschutz for approximately 7,000 listed monuments under DSchG Saarland 2004. Categories: Bau-, Boden-, and Naturdenkmäler. SLKG issues Genehmigungen for alterations (Umbau, Restaurierung) and investigates violations. Major listed sites: Völklinger Hütte (UNESCO), Saarbrücken Schloss, and historic Saar industrial infrastructure. Tax advantages for monument restoration: §§7i, 10f EStG deductions.",
+      "penalty": "Unlawful alteration of Baudenkmal: DSchG SL §§25–28; fines up to €500,000; restoration at owner's cost",
+      "exceptions": ["Emergency stabilisation: verbal SLKG consent + 48h written follow-up", "Like-for-like maintenance (gleiche Art und Güte): permit-free"],
+      "source": "https://www.slkg.saarland.de",
+      "sourceLabel": "SLKG – Staatliches Konservatoramt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many listed monuments does Saarland have?",
+        "options": ["2,500", "5,000", "7,000", "12,000"],
+        "correct": 2,
+        "explanation": "Saarland has approximately 7,000 listed monuments (Baudenkmäler, Bodendenkmäler, Naturdenkmäler) managed by the SLKG."
+      }
+    },
+    {
+      "id": 42106,
+      "category": "Pharmaceutical Law",
+      "severity": "medium",
+      "icon": "💊",
+      "title": "Apothekenpflicht — Pharmacy Law in Saarland",
+      "subtitle": "ABDA pharmacy regulation — Saarland's 200+ Apotheken",
+      "fullDescription": "Saarland has approximately 200 pharmacies (Apotheken) regulated under ApoG (Apothekengesetz) and ApBetrO (Apothekenbetriebsordnung). Pharmacy ownership is restricted to licensed pharmacists (Apotheker) — investor-owned chain pharmacies are prohibited in Germany under §8 ApoG (upheld by BVerfG and ECJ). Saarland's Apothekerkammer Saarland regulates professional conduct. Mail-order pharmacy competition from EU: ECJ C-148/15 (DocMorris, 2016) allowed online pharmacies to undercut German price regulation.",
+      "penalty": "Illegal pharmacy operation: ApoG §25 criminal prosecution; up to 3 years imprisonment",
+      "exceptions": ["EU/EEA mail-order pharmacies: allowed to supply OTC drugs after ECJ ruling", "Hospital pharmacies: ApoG §14 separate hospital exemption"],
+      "source": "https://www.ak-saarland.de",
+      "sourceLabel": "Apothekerkammer Saarland",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which ECJ case allowed EU mail-order pharmacies to undercut German OTC price regulation?",
+        "options": ["C-322/01 DocMorris I (2003)", "C-148/15 DocMorris II (2016)", "C-220/07 Commission v. Germany", "C-171/11 Fra.bo"],
+        "correct": 1,
+        "explanation": "ECJ case C-148/15 (Deutsche Parkinson Vereinigung, 2016) ruled that German fixed-price rules for OTC drugs could not be applied to EU/EEA mail-order pharmacies — allowing price competition from foreign online pharmacies."
+      }
+    },
+    {
+      "id": 42107,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🚨",
+      "title": "Organised Crime — Saar-Lor-Lux Criminal Networks",
+      "subtitle": "LKA Saarland — cross-border organised crime investigation",
+      "fullDescription": "Saarland's position at the intersection of three countries makes it significant for cross-border organised crime. LKA Saarland's Dezernat Organisierte Kriminalität (OK) investigates: diamond theft rings using Germany-France-Luxembourg triangle, drug smuggling (methamphetamine from Netherlands via Belgium), and money laundering through Saarland-Luxembourg financial services. Joint investigation teams (JIT) under EU Directive 2002/465/JHA. Europol SIENA information sharing. Saarland signed Polizeikooperationsvertrag with France (Moselle département) 2001.",
+      "penalty": "Organised crime membership (§129 StGB): up to 10 years; leadership: up to 5 years (reversed minimum/maximum in text — §129 max is 5 years standard; §129a terrorism up to 10)",
+      "exceptions": ["Undercover agent operations: §110a StPO authorisation required", "Cross-border surveillance: bilateral agreement required for physical surveillance in France"],
+      "source": "https://www.polizei.saarland.de/lka",
+      "sourceLabel": "LKA Saarland",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which EU Directive are Joint Investigation Teams (JIT) for cross-border crime established?",
+        "options": ["2001/413/JHA", "2002/465/JHA", "2008/841/JHA", "2014/41/EU"],
+        "correct": 1,
+        "explanation": "EU Framework Decision 2002/465/JHA governs the establishment of Joint Investigation Teams (JIT) enabling police and prosecutors from multiple EU states to jointly investigate cases."
+      }
+    },
+    {
+      "id": 42108,
+      "category": "Climate Law",
+      "severity": "medium",
+      "icon": "🌱",
+      "title": "Klimaschutzgesetz Saarland",
+      "subtitle": "SL climate law — 2045 climate neutrality target",
+      "fullDescription": "Saarland's Klimaschutzgesetz (KSG SL 2021) targets 55% CO₂ reduction by 2030 (vs. 1990) and climate neutrality by 2045. Key challenge: steel industry (Saarstahl, Dillinger) accounts for 30% of Saarland's CO₂ emissions — green hydrogen transition essential. Klimaschutzprogramm SL: €500 million in investments for renewables, energy efficiency, and green mobility. Saarland's Klimaschutzbeauftragter monitors compliance. EU ETS costs pass-through affects Saarstahl competitiveness.",
+      "penalty": "Public authority non-compliance with KSG SL: reporting obligation; no direct fine",
+      "exceptions": ["Industry under EU ETS: national targets complementary to EU carbon price", "Agriculture: voluntary measures only until EU mandatory framework"],
+      "source": "https://www.saarland.de/klimaschutz",
+      "sourceLabel": "Saarland – Klimaschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Saarland's CO₂ emissions does the steel industry account for?",
+        "options": ["10%", "20%", "30%", "45%"],
+        "correct": 2,
+        "explanation": "The steel industry (Saarstahl and Dillinger Hüttenwerke) accounts for approximately 30% of Saarland's total CO₂ emissions, making green steel transition critical for climate targets."
+      }
+    },
+    {
+      "id": 42109,
+      "category": "Mineral Law",
+      "severity": "medium",
+      "icon": "💎",
+      "title": "Saarland Bergrecht — Former Coal Mining Legacy",
+      "subtitle": "BBergG administration — Bergamt and subsidence monitoring",
+      "fullDescription": "The Bergamt Saarbrücken administers the federal Bundesberggesetz (BBergG) for Saarland, primarily managing the legacy of closed coal mines. Key tasks: monitoring Bergsenkungen (subsidence, affecting 40,000 buildings in Saarland), managing Altbergbau (old mine voids), and administering surface damage claims under BBergG §§114–121. RAG's Ewigkeitsaufgaben include perpetual groundwater monitoring at 80 stations. New mining applications in Saarland: essentially none — but geothermal energy extraction under BBergG is growing.",
+      "penalty": "BBergG surface damage dispute: civil court proceedings; RAG compensates under BBergG §§114 ff",
+      "exceptions": ["Geothermal deep drilling under BBergG simplified permit (if no extraction)", "Scientific monitoring wells: simplified Bergrecht application"],
+      "source": "https://www.bergamt.saarland.de",
+      "sourceLabel": "Bergamt Saarbrücken",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many buildings in Saarland are affected by mining subsidence (Bergsenkungen)?",
+        "options": ["5,000", "15,000", "40,000", "80,000"],
+        "correct": 2,
+        "explanation": "Approximately 40,000 buildings in Saarland are affected by Bergsenkungen (mining subsidence) from the legacy of 260 years of underground coal mining."
+      }
+    },
+    {
+      "id": 42110,
+      "category": "Administrative Law",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Regionalverband Saarbrücken — Kommunalrecht SL",
+      "subtitle": "Largest municipal authority in Saarland — KSVG SL",
+      "fullDescription": "Saarland has 52 municipalities grouped into 6 Landkreise plus the Regionalverband Saarbrücken (urban district with its own special status under KSVG SL). The Regionalverband covers Saarbrücken city and 17 surrounding municipalities (332,000 population — Germany's 14th largest urban area). KSVG SL (Kommunalselbstverwaltungsgesetz) governs municipal autonomy under GG Art. 28. Municipal finances: Saarland municipalities have Germany's highest per-capita debt (€4,500 average). Kommunaler Finanzausgleich distributes state taxes.",
+      "penalty": "Municipal ultra vires acts: administrative court review; nullification under KSVG SL",
+      "exceptions": ["Pflichtaufgaben (mandatory tasks): cannot be delegated or underfunded", "Freiwillige Aufgaben (voluntary tasks): municipalities may discontinue if finances require"],
+      "source": "https://www.regionalverband-saarbruecken.de",
+      "sourceLabel": "Regionalverband Saarbrücken",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many municipalities does Saarland have?",
+        "options": ["28", "40", "52", "68"],
+        "correct": 2,
+        "explanation": "Saarland has 52 municipalities grouped into 6 Landkreise and the Regionalverband Saarbrücken."
+      }
+    },
+    {
+      "id": 42111,
+      "category": "Labour Law",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Dillinger Hüttenwerke — Steel and BetrVG",
+      "subtitle": "Dillingen steel plant — codetermination in major heavy industry",
+      "fullDescription": "AG der Dillinger Hüttenwerke (Dillingen/Saar, founded 1685) is one of Europe's oldest still-operating steel plants, producing high-quality heavy plates for offshore wind, bridges, and ships. It employs 4,800 people. Under BetrVG and MitbestG (Mitbestimmungsgesetz 1976 — parity codetermination for companies over 2,000 employees), Dillinger has equal employee representation on the Aufsichtsrat. SHS (Stahl-Holding-Saar) jointly governs Dillinger and Saarstahl. Green steel (hydrogen DRI) project planning for 2030s.",
+      "penalty": "MitbestG violation (blocking employee representation): BetrVG §120; BGH enforcement possible",
+      "exceptions": ["Leitende Angestellte (senior executives): not covered by BetrVG", "EU SE company structure can modify Mitbestimmung under SEBG"],
+      "source": "https://www.dillinger.de",
+      "sourceLabel": "AG der Dillinger Hüttenwerke",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which year was Dillinger Hüttenwerke founded?",
+        "options": ["1612", "1685", "1750", "1820"],
+        "correct": 1,
+        "explanation": "AG der Dillinger Hüttenwerke was founded in 1685, making it one of Europe's oldest continuously operating steel plants."
+      }
+    },
+    {
+      "id": 42112,
+      "category": "Road Law",
+      "severity": "medium",
+      "icon": "🛣️",
+      "title": "A6 Saarbrücken — Grenzübergang Traffic Law",
+      "subtitle": "A6 motorway — major Saarland-France crossing under StVO",
+      "fullDescription": "The A6 motorway connecting Mannheim–Kaiserslautern–Saarbrücken–France (autoroute A4 to Strasbourg) is Saarland's most important transport artery. At the Saarbrücken-Goldene Bremm crossing, traffic peaks at 80,000 vehicles/day during summer. Under StVO, German Autobahn rules apply until the border; French Code de la Route immediately beyond. Speed cameras (Radarkontrollen) at the border area. HGV restrictions: Saarland enforces §30 StVO sectoral driving bans during peak periods. Lkw-Führungskonzept coordinates cross-border freight.",
+      "penalty": "Speed violations A6 near border: BKatV enforcement; EU cross-border recognition of fines under EU Directive 2011/82/EU",
+      "exceptions": ["Emergency vehicles: StVO §38 override", "Diplomatic vehicles: technically exempt from BKatV in theory but enforced in practice"],
+      "source": "https://www.autobahn.de/a6",
+      "sourceLabel": "Autobahn GmbH – A6",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many vehicles cross the Saarbrücken-Goldene Bremm A6 border crossing daily at peak?",
+        "options": ["30,000", "50,000", "80,000", "120,000"],
+        "correct": 2,
+        "explanation": "The A6 Saarbrücken-Goldene Bremm border crossing handles approximately 80,000 vehicles per day at peak summer periods."
+      }
+    },
+    {
+      "id": 42113,
+      "category": "Social Law",
+      "severity": "medium",
+      "icon": "👶",
+      "title": "Kitagesetz Saarland — Free Childcare Age 1",
+      "subtitle": "KiTaG SL 2023 — free childcare for all Saarland children from age 1",
+      "fullDescription": "Saarland extended free Kita childcare (KiTaG SL 2023) to children from age 1, following RLP's lead. Saarland has 650+ Kitas with 25,000 places. Betreuungsquote (coverage) for under-3s: 40% (above EU target). Staff-to-child ratio: 1:4 for under-3s, 1:10 for 3–6 year olds. After-school care (Hort) also expanded under KiTaG SL. Church-operated Kitas (Caritas, Diakonie) are the majority provider alongside state and municipal Kitas.",
+      "penalty": "Unlicensed Kita operation: KiTaG SL §§48–52 closure; fines up to €25,000",
+      "exceptions": ["Kindertagespflege (childminders): SGB VIII §§22–26 separate licence regime", "Betriebskitas (employer-run Kitas): eligible for KiTaG SL support"],
+      "source": "https://kita.saarland.de",
+      "sourceLabel": "Saarland – KiTaG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many licensed Kitas operate in Saarland?",
+        "options": ["250", "450", "650+", "900+"],
+        "correct": 2,
+        "explanation": "Saarland has 650+ licensed Kitas with approximately 25,000 places, supported by free childcare from age 1 under KiTaG SL 2023."
+      }
+    },
+    {
+      "id": 42114,
+      "category": "Healthcare",
+      "severity": "medium",
+      "icon": "🧬",
+      "title": "UKS Homburg — University Hospital Law",
+      "subtitle": "Universitätsklinikum des Saarlandes — tertiary care and research",
+      "fullDescription": "The Universitätsklinikum des Saarlandes (UKS) in Homburg is Saarland's only university hospital (1,300 beds, 5,500 employees) and operates under KHG SL and UdS-Gesetz (tied to university law). UKS provides all tertiary care including transplantation, oncology, and rare diseases. Organ donation under TPG (Transplantationsgesetz): brain death diagnosis requires two independent specialists. EU cross-border patient treatment under Directive 2011/24/EU brings French Lorraine and Luxembourg patients. AMG clinical trials at UKS: BfArM and Ethics Commission approval required.",
+      "penalty": "UKS regulatory violation: KHG SL closure order (partial); AMG §97 criminal liability for trial misconduct",
+      "exceptions": ["Emergency admission without insurance: UKS must treat under SGB V §76", "Research patients: AMG §§40–42a clinical trial special consent regime"],
+      "source": "https://www.uks.eu",
+      "sourceLabel": "Universitätsklinikum des Saarlandes",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many beds does the Universitätsklinikum des Saarlandes (UKS) have?",
+        "options": ["600", "900", "1,300", "2,000"],
+        "correct": 2,
+        "explanation": "UKS has approximately 1,300 beds and 5,500 employees, providing tertiary care including transplantation and rare disease treatment."
+      }
+    },
+    {
+      "id": 42115,
+      "category": "Cycling Law",
+      "severity": "low",
+      "icon": "🚲",
+      "title": "Saarland Radwegenetz — Cycling Law",
+      "subtitle": "Radverkehrskonzept SL — 1,000km cycling network",
+      "fullDescription": "Saarland's Radverkehrskonzept (2018, updated 2023) develops a 1,000km dedicated cycling network including the Saarradweg (Saar river trail), Bliestalbahn trail, and connections to French and Luxembourg networks. Under StVO, cyclists must use dedicated lanes where available. E-bike speed >25 km/h (Pedelec S-Class): treated as moped under StVZO, requiring insurance and helmet. Leihfahrräder (bike share): Nextbike operates in Saarbrücken. Cycling tourism generates €60 million annually.",
+      "penalty": "Cyclist StVO violations: BKatV fines (no helmet fine in Germany for adults)", "exceptions": ["Cargo bikes under 25 km/h: no special licence", "Bicycle priority roads (Fahrradstraßen): cars may use with cyclist priority"],
+      "source": "https://www.saarland.de/radverkehr",
+      "sourceLabel": "Saarland – Radverkehr",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the planned length of Saarland's cycling network under its Radverkehrskonzept?",
+        "options": ["400km", "700km", "1,000km", "1,500km"],
+        "correct": 2,
+        "explanation": "Saarland's Radverkehrskonzept plans a 1,000km dedicated cycling network including the Saarradweg and connections to French and Luxembourg networks."
+      }
+    },
+    {
+      "id": 42116,
+      "category": "Administrative Law",
+      "severity": "medium",
+      "icon": "⚖️",
+      "title": "Oberverwaltungsgericht Saarland — OVG SL",
+      "subtitle": "Saarland's highest administrative court — judicial review",
+      "fullDescription": "The Oberverwaltungsgericht (OVG) des Saarlandes in Saarbrücken is the highest administrative court for Saarland, reviewing Verwaltungsgerichte decisions and hearing first-instance cases against federal authorities (Bundesbehörden) in Saarland. Key areas: building permit appeals, asylum decisions (alongside VG Saarlouis), and environmental permits (BImSchG appeals for major industrial sites including Saarstahl). Appeals from OVG go to BVerwG (Bundesverwaltungsgericht) in Leipzig.",
+      "penalty": "OVG decisions enforceable under VwGO §§167–169; non-compliance: contempt proceedings",
+      "exceptions": ["Constitutional matters: VerfGH Saarland has jurisdiction", "EU law issues: ECJ preliminary reference possible from OVG under TFEU Art. 267"],
+      "source": "https://www.ovg.saarland.de",
+      "sourceLabel": "OVG Saarland",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which court hears appeals from Saarland's OVG in administrative law matters?",
+        "options": ["BGH Karlsruhe", "BVerfG Karlsruhe", "BVerwG Leipzig", "EuGH Luxemburg"],
+        "correct": 2,
+        "explanation": "Appeals from OVG Saarland in administrative law matters go to the BVerwG (Bundesverwaltungsgericht) in Leipzig."
+      }
+    },
+    {
+      "id": 42117,
+      "category": "Property Law",
+      "severity": "medium",
+      "icon": "🏠",
+      "title": "Mietpreisbremse Saarbrücken",
+      "subtitle": "Rent control in Saarbrücken — NovG SL 2020",
+      "fullDescription": "Saarland activated the Mietpreisbremse (§§556d–556g BGB) via Mietrechtsnovellierungsgesetz SL in Saarbrücken only (2020). Rents in new lettings may not exceed local Mietspiegel by more than 10%. Saarbrücken's Mietspiegel 2023 shows median €9.50/m² — well below Munich (€18/m²) or Frankfurt (€14/m²). Saarland's vacancy rate is higher than western German cities; housing shortage is moderate. NRW and RLP have more municipalities covered by Mietpreisbremse.",
+      "penalty": "Excess rent above Mietpreisbremse: tenant can claim back excess rent under §556g BGB; no criminal penalty",
+      "exceptions": ["New construction (first 10 years): exempt from Mietpreisbremse", "Comprehensive modernisation: one-time rent increase exemption"],
+      "source": "https://www.saarland.de/mietrecht",
+      "sourceLabel": "Saarland – Mietrecht",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Saarbrücken's approximate median rent per m² as shown in the 2023 Mietspiegel?",
+        "options": ["€6.50/m²", "€9.50/m²", "€12.00/m²", "€15.00/m²"],
+        "correct": 1,
+        "explanation": "Saarbrücken's 2023 Mietspiegel shows a median rent of approximately €9.50/m² — significantly lower than major west German cities."
+      }
+    },
+    {
+      "id": 42118,
+      "category": "Nuclear Law",
+      "severity": "high",
+      "icon": "☢️",
+      "title": "Uran-Bergbau Legacy — Warndt Area",
+      "subtitle": "Saarland uranium deposit — Cold War exploration, no mining",
+      "fullDescription": "During the Cold War, uranium deposits were identified in the Warndt forest area of Saarland (near Völklingen). The deposits were not commercially mined but exploratory drilling (Erkundungsbohrungen) occurred under BBergG. Radioactive legacy: some drill sites require monitoring. Uranium exploration records are maintained by Bergamt Saarbrücken. AtG (Atomgesetz) radiation protection applies to any future extraction. Current legal status: no active uranium mining; Saarland's radioactive waste goes to federal ConRAD/Schacht Konrad.",
+      "penalty": "Unauthorised uranium extraction: BBergG §§145–148 + AtG §§44–45 criminal sanctions",
+      "exceptions": ["Scientific soil sampling: BBergG simplified notification", "Geothermal drilling unrelated to uranium: separate BBergG permit regime"],
+      "source": "https://www.bergamt.saarland.de/warndt",
+      "sourceLabel": "Bergamt Saarbrücken – Erkundungsbergbau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which Saarland forest area were uranium deposits identified during the Cold War?",
+        "options": ["Bliesgau", "Warndt", "Hochwald", "Saarbrücker Stadtwald"],
+        "correct": 1,
+        "explanation": "Uranium deposits were identified in the Warndt forest area near Völklingen during Cold War-era exploration, though no commercial mining took place."
+      }
+    },
+    {
+      "id": 42119,
+      "category": "Social Law",
+      "severity": "medium",
+      "icon": "🤝",
+      "title": "Jobcenter Saarland — SGB II Administration",
+      "subtitle": "6 Jobcenter for 35,000 Bürgergeld recipients",
+      "fullDescription": "Saarland's 6 Jobcenter (joint BA-municipal offices) administer Bürgergeld (SGB II) to approximately 35,000 households. Standard rate 2024: €563/month single adult + Kosten der Unterkunft. Saarland has above-average long-term unemployment (Langzeitarbeitslose) reflecting industrial transition. The Ford Saarlouis closure 2025 will add significant numbers. Saarland's Eingliederungsquote (employment integration rate) from Jobcenter: 35% finding employment within 12 months — below national average.",
+      "penalty": "SGB II fraud (false income declaration): §263 StGB; overpayment repayment; benefit suspension",
+      "exceptions": ["Sanction-free period first 6 months under Bürgergeld 2023 reform", "Persons with disability: reduced job placement requirements"],
+      "source": "https://www.arbeitsagentur.de/saarland",
+      "sourceLabel": "BA – Jobcenter Saarland",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many households receive Bürgergeld (SGB II) in Saarland?",
+        "options": ["12,000", "25,000", "35,000", "50,000"],
+        "correct": 2,
+        "explanation": "Approximately 35,000 households in Saarland receive Bürgergeld (SGB II), with above-average long-term unemployment reflecting ongoing industrial transition."
+      }
+    },
+    {
+      "id": 42120,
+      "category": "Church Law",
+      "severity": "low",
+      "icon": "⛪",
+      "title": "Kirchensteuer Saarland — 9% Income Tax Supplement",
+      "subtitle": "Church tax for Catholic and Protestant churches in Saarland",
+      "fullDescription": "Saarland collects Kirchensteuer at 9% of income tax for Roman Catholic Diocese of Trier (which covers Saarland) and Evangelical Church Pfalz/EKKW. Saarland has approximately 500,000 Catholics (45% of population) and 200,000 Protestants. Church departure (Kirchenaustritt) requires Standesamt visit and €30 administrative fee. The Bistum Trier (founded 250 AD — one of Germany's oldest bishoprics) covers both RLP and Saarland. Annual Kirchensteuer revenue in Saarland: approximately €180 million.",
+      "penalty": "Kirchensteuer enforcement: AO §§218–232 (treated as tax); wage withholding by employer",
+      "exceptions": ["Non-church-members not subject to Kirchensteuer", "Kappung (cap): Kirchensteuer can be capped at 3.5% of taxable income on application"],
+      "source": "https://www.finanzen.saarland.de/kirchensteuer",
+      "sourceLabel": "Saarland – Kirchensteuer",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which Catholic diocese, one of Germany's oldest, covers both Saarland and Rhineland-Palatinate?",
+        "options": ["Bistum Speyer", "Bistum Mainz", "Bistum Trier", "Bistum Paderborn"],
+        "correct": 2,
+        "explanation": "The Bistum Trier (Diocese of Trier, founded around 250 AD) is one of Germany's oldest bishoprics and covers both Saarland and Rhineland-Palatinate."
+      }
+    },
+    {
+      "id": 42121,
+      "category": "Technology Law",
+      "severity": "medium",
+      "icon": "🤖",
+      "title": "Saarland AI Strategy — Artificial Intelligence Law",
+      "subtitle": "Saarland AI Strategy 2022 leveraging DFKI expertise",
+      "fullDescription": "Saarland's AI Strategy (2022) positions the state as a European AI hub leveraging DFKI, UdS, and the Helmholtz AI network. The strategy covers EU AI Act compliance, AI education (KI-Kompetenzzentrum Saarland), and AI in public administration. Under EU AI Act (2024/1689), Saarland's public sector AI systems (e.g., asylum case processing, predictive policing planning) must comply with prohibitions and high-risk requirements. The GovTech Lab Saarland tests AI in municipal services.",
+      "penalty": "EU AI Act violations: up to €35 million or 7% global turnover for prohibited AI systems",
+      "exceptions": ["Scientific research: EU AI Act Art. 2(6) partial exemption during testing", "National security AI: EU AI Act Art. 2(3) member state exclusion"],
+      "source": "https://www.saarland.de/digitalstrategie",
+      "sourceLabel": "Saarland – Digitalstrategie",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum fine for prohibited AI systems under the EU AI Act?",
+        "options": ["€15 million or 3% turnover", "€20 million or 4% turnover", "€35 million or 7% turnover", "€50 million or 10% turnover"],
+        "correct": 2,
+        "explanation": "The EU AI Act (2024/1689) imposes fines of up to €35 million or 7% of global annual turnover for deploying prohibited AI systems — the highest tier of fines."
+      }
+    },
+    {
+      "id": 42122,
+      "category": "Environmental Law",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Naturschutzgesetz Saarland — LNatSchG",
+      "subtitle": "Saarland nature protection — 12% Natura 2000 coverage",
+      "fullDescription": "Saarland's LNatSchG (Saarländisches Naturschutzgesetz 2006, revised 2022) implements federal BNatSchG. Natura 2000 covers 12% of Saarland (5 SAC areas, 14 SPA areas). Key habitats: Bliesgau orchid meadows, Warndt oak forests, and Prims river floodplains. Biotopverbund target: 15% by 2030 (currently 10%). The Naturschutzwacht (honorary nature wardens) monitors protected areas. Saarland participates in BUND Saarland wolf monitoring as wolves approach from RLP.",
+      "penalty": "§30 BNatSchG priority biotope destruction: LNatSchG SL fines up to €50,000",
+      "exceptions": ["Agricultural maintenance of grassland habitats: permitted and encouraged under ELER", "Emergency flood protection works: LNatSchG SL §34 exceptional permission"],
+      "source": "https://www.saarland.de/naturschutz",
+      "sourceLabel": "Saarland – Naturschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Saarland is covered by Natura 2000?",
+        "options": ["5%", "9%", "12%", "18%"],
+        "correct": 2,
+        "explanation": "Approximately 12% of Saarland's territory is designated as Natura 2000 (5 SAC and 14 SPA areas) under EU Habitats and Birds Directives."
+      }
+    },
+    {
+      "id": 42123,
+      "category": "Emergency Law",
+      "severity": "high",
+      "icon": "🚨",
+      "title": "Rettungsdienstgesetz Saarland — Emergency Services",
+      "subtitle": "RettDG SL — 12-minute response target for life-threatening emergencies",
+      "fullDescription": "Saarland's Rettungsdienstgesetz (RettDG SL 2014, revised 2022) governs emergency medical services with a 12-minute arrival target for life-threatening emergencies (Hilfsfrist). ZRF Saarland (Zweckverband für Rettungsdienst und Feuerwehralarmierung) coordinates dispatch. 8 Rettungswachen (ambulance stations) cover Saarland. Paramedic qualification: Notfallsanitäter (since 2013, 3-year training). Air rescue (Luftrettung): DRF helicopter at Saarbrücken Airport. Cross-border emergency cooperation with SAMU (France) and CAMU (Luxembourg).",
+      "penalty": "Operating ambulance without RettDG SL licence: fines; shutdown order",
+      "exceptions": ["First responder assistance (Ersthelfer): duty to assist under §323c StGB, not RettDG SL", "Private air ambulance transport: LuftVG separate licence from RettDG SL"],
+      "source": "https://www.zrf-saarland.de",
+      "sourceLabel": "ZRF Saarland – Rettungsdienst",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the target arrival time for life-threatening emergencies under RettDG SL?",
+        "options": ["8 minutes", "10 minutes", "12 minutes", "15 minutes"],
+        "correct": 2,
+        "explanation": "RettDG SL mandates a 12-minute Hilfsfrist (response time) target for life-threatening emergencies in Saarland."
+      }
+    },
+    {
+      "id": 42124,
+      "category": "Privacy Law",
+      "severity": "medium",
+      "icon": "🔒",
+      "title": "Lebach Case — Privacy vs. Press Freedom",
+      "subtitle": "BVerfG 1973 landmark privacy ruling — right to be forgotten origin",
+      "fullDescription": "The Lebach case (BVerfGE 35, 202 — 1973) is one of Germany's most important constitutional cases on privacy. A convicted murderer objected to a ZDF documentary re-airing his case as he neared release. BVerfG ruled: Art. 2 Abs. 1 GG (personal development right/privacy) must be balanced against Art. 5 GG (freedom of press). The television broadcast was prohibited as the criminal had served his sentence and re-broadcasting risked resocialisation. This case inspired the EU Court of Justice's 'right to be forgotten' (Google Spain, C-131/12, 2014).",
+      "penalty": "Privacy violation by press: §§823 II, 1004 BGB; injunction; damages",
+      "exceptions": ["Ongoing public interest: press freedom may override privacy for current public figures", "Historical record: archival publication of past events not automatically blocked"],
+      "source": "https://www.bundesverfassungsgericht.de/lebach",
+      "sourceLabel": "BVerfGE 35, 202 – Lebach-Urteil 1973",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which ECJ case (2014) was directly inspired by Germany's Lebach case regarding the right to be forgotten?",
+        "options": ["C-362/14 Schrems I", "C-131/12 Google Spain", "C-311/18 Schrems II", "C-40/17 Fashion ID"],
+        "correct": 1,
+        "explanation": "ECJ C-131/12 (Google Spain, 2014) established the EU 'right to be forgotten' (right to erasure) from search results — inspired by the Lebach principle of balancing privacy vs. press freedom."
+      }
+    },
+    {
+      "id": 42125,
+      "category": "Economic Law",
+      "severity": "medium",
+      "icon": "🏢",
+      "title": "SAARLAND.digital — Digital Economy Strategy",
+      "subtitle": "IT cluster Saarbrücken — EU Digital Markets Act compliance",
+      "fullDescription": "Saarland leverages its IT and AI cluster (DFKI, UdS informatics, Cybersecurity Excellence Centre) for digital economic development. The EU Digital Markets Act (DMA, EU 2022/1925) and Digital Services Act (DSA, EU 2022/2065) directly affect Saarland's IT industry. Major employers: SAP functions, IBM Watson (Saarbrücken office), and cybersecurity firms (Syss, Avira). The CISPA Helmholtz Centre for Information Security (founded 2019) in Saarbrücken is Germany's premier cybersecurity research centre.",
+      "penalty": "DMA gatekeeper violations: EU Commission fine up to 10% global turnover; 20% for repeat",
+      "exceptions": ["SMEs below DMA threshold (€7.5bn annual turnover): exempt from gatekeeper obligations", "DSA intermediary liability: hosting exemption for passive storage under DSA Art. 6"],
+      "source": "https://www.cispa.de",
+      "sourceLabel": "CISPA Helmholtz Centre",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which world-class cybersecurity research centre is located in Saarbrücken?",
+        "options": ["Fraunhofer SIT", "BSI Research", "CISPA Helmholtz Centre for Information Security", "Max Planck Cybersecurity"],
+        "correct": 2,
+        "explanation": "CISPA Helmholtz Centre for Information Security, founded 2019 in Saarbrücken, is Germany's premier cybersecurity research centre affiliated with the Helmholtz Association."
+      }
+    }
+  ]
+}

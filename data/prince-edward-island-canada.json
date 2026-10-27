@@ -1,0 +1,2166 @@
+{
+  "country": "Prince Edward Island, Canada",
+  "slug": "prince-edward-island-canada",
+  "laws": [
+    {
+      "id": 39926,
+      "category": "traffic",
+      "severity": "high",
+      "icon": "\ud83d\udcf5",
+      "title": "Distracted Driving \u2014 Handheld Device Ban",
+      "subtitle": "Highway Traffic Act (PEI) \u2014 Fines up to $500\u2013$1,200",
+      "fullDescription": "Prince Edward Island prohibits use of handheld electronic devices while driving. Hands-free operation is required. Distracted driving penalties include demerit points and licence suspension for repeat offenders.",
+      "penalty": "$500\u2013$1,200 fine + 3\u20135 demerit points.",
+      "exceptions": [
+        "Hands-free (Bluetooth/speakerphone with phone mounted)",
+        "Emergency calls to 911",
+        "Police, fire, paramedics on duty"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/road-safety",
+      "sourceLabel": "Highway Traffic Act (PEI)",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What is the maximum fine for a first distracted driving offence in Prince Edward Island?",
+        "options": [
+          "$200",
+          "$400",
+          "$800",
+          "$1,200"
+        ],
+        "correct": 2,
+        "explanation": "Prince Edward Island's distracted driving penalty is $500\u2013$1,200 + 3\u20135 demerit points."
+      }
+    },
+    {
+      "id": 39927,
+      "category": "outdoors",
+      "severity": "medium",
+      "icon": "\ud83c\udfa3",
+      "title": "Hunting & Fishing Licence Requirements",
+      "subtitle": "Wildlife Conservation Act (PEI) \u2014 Annual licence required",
+      "fullDescription": "Prince Edward Island requires residents and non-residents to obtain valid provincial licences before hunting or fishing. Residents pay lower fees than non-residents. Licences are required for most species.",
+      "penalty": "Hunting/fishing without a licence: fines from $200 up to $25,000 + possible equipment seizure.",
+      "exceptions": [
+        "Licence-exempt fishing events designated by province",
+        "Indigenous peoples exercising treaty rights",
+        "Children under minimum age on licensed adult's supervision"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/hunting",
+      "sourceLabel": "Prince Edward Island Ministry of Natural Resources",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Which group is generally exempt from Prince Edward Island's hunting and fishing licence requirements?",
+        "options": [
+          "Non-resident tourists",
+          "Indigenous peoples exercising treaty rights",
+          "Seniors over 65",
+          "Full-time students"
+        ],
+        "correct": 1,
+        "explanation": "Indigenous peoples exercising treaty and Aboriginal rights are generally exempt from provincial licensing requirements."
+      }
+    },
+    {
+      "id": 39928,
+      "category": "traffic",
+      "severity": "critical",
+      "icon": "\ud83c\udf7a",
+      "title": "Impaired Driving \u2014 Criminal Code Offence",
+      "subtitle": "Criminal Code s. 320.14 \u2014 BAC \u2265 0.08 is criminal",
+      "fullDescription": "Impaired driving is a federal Criminal Code offence across all of Canada. A blood alcohol concentration (BAC) of 0.08% or higher is per se illegal. Prince Edward Island also enforces a warn range (0.05\u20130.079) under provincial highway traffic law triggering immediate administrative sanctions. The warn range (0.05\u20130.079) triggers administrative penalties (licence suspension, remedial program) under provincial law.",
+      "penalty": "Criminal conviction: minimum $1,000 fine (1st offence), 30 days jail (2nd), 120 days jail (3rd+). Licence suspension (1 year 1st offence). Ignition interlock required.",
+      "exceptions": [
+        "BAC below 0.05%",
+        "Zero-tolerance applies to novice/young drivers (under 22 in most provinces) and commercial drivers"
+      ],
+      "source": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
+      "sourceLabel": "Criminal Code of Canada",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What BAC level triggers a Criminal Code impaired driving charge in Canada?",
+        "options": [
+          "0.05%",
+          "0.08%",
+          "0.10%",
+          "0.12%"
+        ],
+        "correct": 1,
+        "explanation": "Canada's Criminal Code sets 0.08% BAC as the per se criminal threshold for impaired driving nationwide."
+      }
+    },
+    {
+      "id": 39929,
+      "category": "traffic",
+      "severity": "medium",
+      "icon": "\ud83c\udf7e",
+      "title": "Open Alcohol in Vehicles",
+      "subtitle": "Liquor Control Act (PEI) \u2014 No open liquor in passenger area",
+      "fullDescription": "Prince Edward Island prohibits open containers of alcohol in the passenger compartment of a vehicle. Sealed containers must be stored in the trunk or cargo area. Open liquor in a vehicle is prohibited regardless of whether vehicle is moving.",
+      "penalty": "Fine up to $200 (first offence); increase for repeat violations.",
+      "exceptions": [
+        "Sealed, unopened containers stored in trunk",
+        "Passengers in commercial vehicles (buses, taxis, limousines)",
+        "Camping or recreational vehicles where the driver is not operating"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/justice-and-public-safety",
+      "sourceLabel": "Prince Edward Island Highway Traffic Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Where must sealed alcohol containers be stored in a vehicle in Prince Edward Island?",
+        "options": [
+          "Glove compartment",
+          "Cup holder",
+          "Trunk or cargo area",
+          "Back seat floor"
+        ],
+        "correct": 2,
+        "explanation": "Open alcohol in the passenger area is illegal; sealed containers must go in the trunk or cargo area."
+      }
+    },
+    {
+      "id": 39930,
+      "category": "substances",
+      "severity": "medium",
+      "icon": "\ud83c\udf3f",
+      "title": "Recreational Cannabis \u2014 Federal Legalization",
+      "subtitle": "Cannabis Act, SC 2018, c. 16 \u2014 Legal for adults 19+ (19+ in Prince Edward Island)",
+      "fullDescription": "Canada legalized recreational cannabis nationwide under the Cannabis Act in October 2018. Adults may legally possess up to 30 grams of dried cannabis (or equivalent) in public. PEI minimum cannabis age is 19. Adults may possess up to 30 g in public. Home cultivation of up to 4 plants permitted. PEILCC (PEI Liquor Control Commission) controls retail.",
+      "penalty": "Possession over 30 g: cannabis offence. Distribution to youth: serious Criminal Code offence.",
+      "exceptions": [
+        "Adults 19+ possessing up to 30 g (dried) in public",
+        "Home cultivation up to 4 plants per household (federal rule; {s['cannabis_home_grow']})",
+        "Medical cannabis patients may exceed limits with valid authorization"
+      ],
+      "source": "https://laws-lois.justice.gc.ca/eng/acts/C-24.5/",
+      "sourceLabel": "Cannabis Act (SC 2018, c. 16)",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What is the legal age for recreational cannabis in Prince Edward Island?",
+        "options": [
+          "18",
+          "19",
+          "21",
+          "18"
+        ],
+        "correct": 1,
+        "explanation": "The federal Cannabis Act sets 18 as a minimum but provinces can raise it. Prince Edward Island sets the minimum at 19."
+      }
+    },
+    {
+      "id": 39931,
+      "category": "substances",
+      "severity": "low",
+      "icon": "\ud83d\udc8a",
+      "title": "Medical Cannabis Access",
+      "subtitle": "Cannabis Regulations, SOR/2018-144 \u2014 Federal medical program",
+      "fullDescription": "Medical cannabis is federally regulated in Canada. Patients with a medical document from a health care practitioner may register with a licensed producer to obtain cannabis for medical purposes. There is no provincial-level medical cannabis card \u2014 it's a federal program. Patients may possess amounts consistent with their medical document, potentially exceeding the 30-gram recreational limit.",
+      "penalty": "Possession beyond authorized amount: subject to Cannabis Act penalties.",
+      "exceptions": [
+        "Registered medical patients with valid medical document",
+        "Veterans may access medical cannabis through Veterans Affairs Canada"
+      ],
+      "source": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2018-144/",
+      "sourceLabel": "Cannabis Regulations (Federal)",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "How is medical cannabis access governed in Canada?",
+        "options": [
+          "Each province runs its own program",
+          "It is a federal program through licensed producers",
+          "Medical cannabis is not legal",
+          "Pharmacies dispense it like prescriptions"
+        ],
+        "correct": 1,
+        "explanation": "Medical cannabis in Canada is a federal program \u2014 patients register directly with federally licensed producers."
+      }
+    },
+    {
+      "id": 39932,
+      "category": "firearms",
+      "severity": "high",
+      "icon": "\ud83d\udd2b",
+      "title": "Firearms \u2014 Possession and Acquisition Licence",
+      "subtitle": "Firearms Act, SC 1995, c. 39 \u2014 PAL required for all firearms",
+      "fullDescription": "Canada requires a Possession and Acquisition Licence (PAL) to own any firearm. Non-restricted firearms (rifles, shotguns) require a regular PAL; restricted firearms (handguns, semi-auto centrefire rifles) require a restricted PAL and registration. Handguns were subject to a freeze on new civilian sales/transfers since October 2022 (Bill C-21). Long guns require PAL; restricted firearms require restricted PAL and registration.",
+      "penalty": "Possessing a firearm without a valid PAL: up to 5 years imprisonment (indictable) or up to 2 years less a day (summary).",
+      "exceptions": [
+        "Licensed PAL holders",
+        "Exemptions for Indigenous peoples hunting for food under treaty rights",
+        "Antique firearms (pre-1898) in some categories"
+      ],
+      "source": "https://laws-lois.justice.gc.ca/eng/acts/F-11.6/",
+      "sourceLabel": "Firearms Act (Federal)",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What document is required to legally possess any firearm in Canada?",
+        "options": [
+          "A hunting licence",
+          "A Possession and Acquisition Licence (PAL)",
+          "A police permit",
+          "No licence required"
+        ],
+        "correct": 1,
+        "explanation": "The Possession and Acquisition Licence (PAL) is required for all firearms in Canada \u2014 unlike the US, there is no constitutional right to bear arms."
+      }
+    },
+    {
+      "id": 39933,
+      "category": "firearms",
+      "severity": "high",
+      "icon": "\ud83d\udd0d",
+      "title": "Firearms \u2014 Background Checks & Safe Storage",
+      "subtitle": "Firearms Act s. 5\u20138 \u2014 Mandatory background check for PAL",
+      "fullDescription": "All PAL applicants undergo a mandatory RCMP background check covering criminal history, mental health, domestic violence, and other public safety factors. Safe storage of all firearms is mandatory nationwide \u2014 loaded/accessible storage is illegal. Handguns were subject to a freeze on sale/transfer since 2022.",
+      "penalty": "Improper storage: up to 2 years imprisonment. Providing false information to obtain PAL: criminal offence.",
+      "exceptions": [
+        "Antique firearms (pre-1898) in certain categories",
+        "Certain replica firearms"
+      ],
+      "source": "https://laws-lois.justice.gc.ca/eng/acts/F-11.6/",
+      "sourceLabel": "Firearms Act / RCMP",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What agency conducts background checks for Canadian firearm licences?",
+        "options": [
+          "CSIS",
+          "RCMP",
+          "Local police only",
+          "Provincial government"
+        ],
+        "correct": 1,
+        "explanation": "The RCMP administers the PAL background check process through the Canadian Firearms Program."
+      }
+    },
+    {
+      "id": 39934,
+      "category": "criminal",
+      "severity": "high",
+      "icon": "\u2696\ufe0f",
+      "title": "Self-Defence \u2014 Criminal Code Standard",
+      "subtitle": "Criminal Code s. 34 \u2014 Proportionate force; no Stand Your Ground",
+      "fullDescription": "Canadian law (s. 34 Criminal Code) permits self-defence when a person believes on reasonable grounds they face a threat and their defensive act is reasonable in the circumstances. Unlike many US states, Canada has no 'Stand Your Ground' law \u2014 courts consider whether retreat was possible as one factor in assessing reasonableness. Courts consider all circumstances, including whether there was an opportunity to retreat, under the proportionality analysis.",
+      "penalty": "Excessive force used in claimed self-defence can result in assault or homicide charges.",
+      "exceptions": [
+        "Defending oneself from imminent unlawful force",
+        "Defending others from imminent unlawful force",
+        "Defending property in some circumstances (s. 35)"
+      ],
+      "source": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
+      "sourceLabel": "Criminal Code of Canada s. 34",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Does Canada have a 'Stand Your Ground' law like some US states?",
+        "options": [
+          "Yes, in all provinces",
+          "Yes, but only in rural areas",
+          "No \u2014 proportionality and context (including retreat) govern self-defence",
+          "No \u2014 self-defence is not permitted"
+        ],
+        "correct": 2,
+        "explanation": "Canada has no Stand Your Ground doctrine. Self-defence must be proportionate; the possibility of retreat is one factor courts consider."
+      }
+    },
+    {
+      "id": 39935,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\ud83d\udcb5",
+      "title": "Minimum Wage \u2014 Prince Edward Island",
+      "subtitle": "Employment Standards Act (PEI) \u2014 $16.00/hour (2024)",
+      "fullDescription": "Prince Edward Island's minimum wage is $16.00 per hour as of 2024. PEI minimum wage is $16.00/hour (October 2024) \u2014 one of the higher rates in Atlantic Canada. The federal minimum wage (for federally regulated workers) is $17.30/hour (2024), indexed to inflation.",
+      "penalty": "Failure to pay minimum wage: employer subject to fines and back-pay orders under employment standards.",
+      "exceptions": [
+        "Federally regulated industries follow the federal minimum wage ($17.30/hr)",
+        "Some student/young worker rates may vary",
+        "Tip credits do not apply in most Canadian provinces"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/employment-standards",
+      "sourceLabel": "Prince Edward Island Employment Standards",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What is Prince Edward Island's provincial minimum wage as of 2024?",
+        "options": [
+          "$13.50",
+          "$16.00",
+          "$17.50",
+          "$19.00"
+        ],
+        "correct": 1,
+        "explanation": "Prince Edward Island's minimum wage is $16.00/hour as of 2024."
+      }
+    },
+    {
+      "id": 39936,
+      "category": "employment",
+      "severity": "high",
+      "icon": "\ud83d\udcbc",
+      "title": "Employment Termination \u2014 Just Cause or Notice Required",
+      "subtitle": "Employment Standards Act (PEI) \u2014 Employers cannot terminate without cause or notice",
+      "fullDescription": "Unlike US at-will employment, Prince Edward Island (and all Canadian provinces) requires employers to provide reasonable notice or pay in lieu of notice when terminating without just cause. PEI provides notice or pay in lieu based on tenure for termination without cause. 'Just cause' dismissal (no notice, no severance) requires serious misconduct.",
+      "penalty": "Failure to provide notice/pay: Ministry of Labour order, fines up to $100,000 for corporations.",
+      "exceptions": [
+        "Probationary employees (notice may not apply within probationary period)",
+        "Employees with fixed-term contracts",
+        "Constructive dismissal cases may entitle employees to treat themselves as terminated"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/employment-standards",
+      "sourceLabel": "Prince Edward Island Employment Standards Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What distinguishes Canadian employment termination law from US 'at-will' employment?",
+        "options": [
+          "Canada also allows at-will termination",
+          "Canada requires just cause or reasonable notice/severance for termination",
+          "Only unionized employees have termination protections",
+          "Termination without cause is a criminal offence"
+        ],
+        "correct": 1,
+        "explanation": "Canadian employment law protects workers: termination requires either just cause (serious misconduct) or reasonable notice/pay in lieu \u2014 there is no at-will employment."
+      }
+    },
+    {
+      "id": 39937,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\ud83e\udd1d",
+      "title": "Union Rights & Collective Bargaining",
+      "subtitle": "Labour Act (PEI) \u2014 Right to organize and bargain collectively",
+      "fullDescription": "Prince Edward Island guarantees workers the right to join unions and bargain collectively. PEI workers have collective bargaining rights under the Labour Act. The province does not have right-to-work legislation \u2014 union security clauses in collective agreements are permitted and commonly used.",
+      "penalty": "Interference with union rights: unfair labour practice complaints, fines, reinstatement orders.",
+      "exceptions": [
+        "Managerial and confidential employees may be excluded",
+        "Agricultural workers in some provinces have limited rights",
+        "Federal employees fall under the Federal Public Sector Labour Relations Act"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/labour-relations",
+      "sourceLabel": "Prince Edward Island Labour Relations Board",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Does Canada have 'right-to-work' laws like some US states?",
+        "options": [
+          "Yes, all provinces are right-to-work",
+          "No \u2014 union security clauses are generally enforceable in Canada",
+          "Only Quebec has right-to-work",
+          "Right-to-work applies only to federal employees"
+        ],
+        "correct": 1,
+        "explanation": "Canada does not have right-to-work laws. Union security clauses (requiring dues payment) are generally legal and enforceable across Canadian provinces."
+      }
+    },
+    {
+      "id": 39938,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\ud83d\udccb",
+      "title": "Non-Compete Agreements",
+      "subtitle": "Employment Standards Act / Common Law \u2014 Enforceability varies; restrictive covenants scrutinized",
+      "fullDescription": "Canadian courts apply strict scrutiny to non-compete agreements. They must be reasonable in geographic scope, duration, and activity restricted. Prince Edward Island: PEI courts apply common law reasonableness to non-competes. Non-solicitation clauses are more readily enforced than full non-competes.",
+      "penalty": "Overly broad non-competes are struck down as unenforceable restraints of trade.",
+      "exceptions": [
+        "Non-solicitation (client/employee poaching) clauses more readily enforced",
+        "Reasonable non-competes protecting legitimate business interests",
+        "Sale-of-business non-competes treated more leniently"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/employment-standards",
+      "sourceLabel": "Prince Edward Island Employment Law",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "How do Canadian courts generally treat non-compete agreements?",
+        "options": [
+          "They are always enforceable if signed",
+          "They are illegal in all provinces",
+          "They are scrutinized strictly and must be reasonable in scope/duration",
+          "They only apply to executives"
+        ],
+        "correct": 2,
+        "explanation": "Canadian courts treat non-competes as restraints of trade and enforce them only if they are reasonable in scope, duration, and geographic area."
+      }
+    },
+    {
+      "id": 39939,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\ud83e\udd12",
+      "title": "Paid Sick Leave \u2014 Prince Edward Island",
+      "subtitle": "Employment Standards Act \u2014 3 paid sick days",
+      "fullDescription": "Prince Edward Island: PEI provides 3 paid sick days per year after qualifying period. Federally regulated workers are entitled to 10 paid sick days under the Canada Labour Code (since 2023).",
+      "penalty": "Failure to provide: ESA complaint, back pay.",
+      "exceptions": [
+        "Federally regulated workers fall under Canada Labour Code (10 paid days)",
+        "New employees may have waiting periods",
+        "Employers may provide more generous policies"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/employment-standards",
+      "sourceLabel": "Prince Edward Island Employment Standards",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "How many paid sick days are Prince Edward Island employees entitled to under provincial law?",
+        "options": [
+          "0",
+          "3",
+          "5",
+          "10"
+        ],
+        "correct": 1,
+        "explanation": "Prince Edward Island provides 3 paid sick days provincially. Federally regulated workers get 10 days under the Canada Labour Code."
+      }
+    },
+    {
+      "id": 39940,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\ud83d\udccb",
+      "title": "Employment Insurance \u2014 Federal Program",
+      "subtitle": "Employment Insurance Act, SC 1996, c. 23 \u2014 Federal EI",
+      "fullDescription": "Canada's Employment Insurance (EI) program is federally administered. Workers who lose their job through no fault of their own (layoff, shortage of work) may claim EI benefits after accumulating the required insurable hours (420\u2013700 hours depending on regional unemployment rate). Benefits are 55% of average insurable earnings, up to a maximum of $668/week (2024). ",
+      "penalty": "EI fraud: repayment plus 3\u00d7 penalty amount, possible criminal prosecution.",
+      "exceptions": [
+        "Self-employed workers may opt into EI voluntarily",
+        "Parental/maternity benefits also available through EI",
+        "Sick benefits (15 weeks) and caregiving benefits available"
+      ],
+      "source": "https://www.canada.ca/en/employment-social-development/programs/ei.html",
+      "sourceLabel": "Service Canada / EI Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What percentage of average insurable earnings does Canadian EI typically pay?",
+        "options": [
+          "40%",
+          "55%",
+          "70%",
+          "80%"
+        ],
+        "correct": 1,
+        "explanation": "EI pays 55% of average insurable earnings up to the annual maximum insurable amount."
+      }
+    },
+    {
+      "id": 39941,
+      "category": "employment",
+      "severity": "high",
+      "icon": "\ud83e\uddba",
+      "title": "Workers' Compensation \u2014 WCB PEI (Workers Compensation Board of PEI)",
+      "subtitle": "Workers Compensation Act (PEI) \u2014 No-fault workplace injury coverage",
+      "fullDescription": "Prince Edward Island's workers' compensation system provides no-fault coverage for workplace injuries and occupational diseases. The WCB PEI (Workers Compensation Board of PEI) administers claims. WCB PEI provides no-fault workplace injury coverage. In exchange for coverage, injured workers generally cannot sue their employer.",
+      "penalty": "Employer failure to register: fines + retroactive premiums.",
+      "exceptions": [
+        "Independent contractors may not be covered (varies)",
+        "Certain industries or farm workers may have separate rules"
+      ],
+      "source": "https://www.wcb.pe.ca",
+      "sourceLabel": "WCB PEI (Workers Compensation Board of PEI)",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What is the name of Prince Edward Island's workers' compensation board?",
+        "options": [
+          "CNESST",
+          "WCB PEI (Workers Compensation Board of PEI)",
+          "WorkSafeBC",
+          "WSIB"
+        ],
+        "correct": 1,
+        "explanation": "Prince Edward Island's workers' compensation is administered by the WCB PEI (Workers Compensation Board of PEI)."
+      }
+    },
+    {
+      "id": 39942,
+      "category": "employment",
+      "severity": "medium",
+      "icon": "\ud83d\udcbb",
+      "title": "Independent Contractor vs. Employee Classification",
+      "subtitle": "Employment Standards Act / CRA \u2014 Misclassification risks",
+      "fullDescription": "Prince Edward Island uses a multi-factor test to distinguish employees from independent contractors. Multi-factor common law test applies. Workers misclassified as contractors may be entitled to full employment standards protections, back pay, and benefits.",
+      "penalty": "Employer penalties: back pay, benefits, EI/CPP contributions owed, employment standards fines.",
+      "exceptions": [
+        "Genuine contractors with business-like arrangements",
+        "Written contractor agreements (helpful but not determinative)"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/employment-standards",
+      "sourceLabel": "Prince Edward Island Employment Standards / CRA",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Who ultimately decides if a worker is an employee or independent contractor in Canada?",
+        "options": [
+          "Only the written contract matters",
+          "The worker chooses their classification",
+          "Courts/tribunals apply a multi-factor test based on the actual relationship",
+          "CRA has no jurisdiction over provincial workers"
+        ],
+        "correct": 2,
+        "explanation": "Courts and tribunals look at the actual working relationship \u2014 not just the written contract \u2014 to determine proper classification."
+      }
+    },
+    {
+      "id": 39943,
+      "category": "employment",
+      "severity": "high",
+      "icon": "\ud83d\udc76",
+      "title": "Child Labour \u2014 Minimum Working Age",
+      "subtitle": "Employment Standards Act \u2014 Minimum age 16",
+      "fullDescription": "Prince Edward Island: Minimum age 16 for most employment in PEI. Federally regulated industries follow the Canada Labour Code minimum age of 17 for most work.",
+      "penalty": "Employer violations: ESA fines.",
+      "exceptions": [
+        "Light work exceptions for younger teenagers in some sectors",
+        "Farming/family business may have different rules",
+        "Entertainment industry requires permits for minors"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/employment-standards",
+      "sourceLabel": "Prince Edward Island Employment Standards",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What is the general minimum working age for most jobs in Prince Edward Island?",
+        "options": [
+          "14",
+          "15",
+          "16",
+          "18"
+        ],
+        "correct": 2,
+        "explanation": "In Prince Edward Island, the general minimum working age is 16, with restrictions on hours and types of work for minors."
+      }
+    },
+    {
+      "id": 39944,
+      "category": "employment",
+      "severity": "high",
+      "icon": "\u2696\ufe0f",
+      "title": "Pay Equity \u2014 Equal Pay for Work of Equal Value",
+      "subtitle": "Pay Equity Act (PEI, public sector) \u2014 Public sector pay equity",
+      "fullDescription": "Prince Edward Island: PEI has pay equity for the public sector. Private sector relies on Human Rights Act. The federal Pay Equity Act (2021) applies to federally regulated employers with 10+ employees, requiring proactive pay equity plans.",
+      "penalty": "Non-compliance: orders to pay compensation, fines for employers.",
+      "exceptions": [
+        "Small employers may be phased in",
+        "Pay equity distinct from 'equal pay for equal work' \u2014 broader concept",
+        "Federally regulated employers follow the federal Pay Equity Act"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/employment-standards",
+      "sourceLabel": "Prince Edward Island Pay Equity / Human Rights",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What does 'pay equity' require beyond simply equal pay for identical jobs?",
+        "options": [
+          "Identical wages for all employees",
+          "Equal pay for work of equal value across gender-dominated job classes",
+          "No performance bonuses",
+          "Mandatory wage transparency"
+        ],
+        "correct": 1,
+        "explanation": "Pay equity mandates equal pay for work of 'equal value' \u2014 comparing predominantly female job classes with male-dominated ones of similar value, not just identical roles."
+      }
+    },
+    {
+      "id": 39945,
+      "category": "civil_rights",
+      "severity": "high",
+      "icon": "\ud83c\udff3\ufe0f",
+      "title": "Human Rights \u2014 Anti-Discrimination Protections",
+      "subtitle": "Human Rights Act (PEI) + Canadian Human Rights Act (federal)",
+      "fullDescription": "Prince Edward Island's Human Rights Code prohibits discrimination in employment, housing, and services based on protected grounds including race, sex, gender identity, sexual orientation, disability, religion, and more. PEI Human Rights Act prohibits discrimination on grounds including sexual orientation and gender identity. The Canadian Human Rights Act applies to federally regulated industries.",
+      "penalty": "Human rights complaints: remedies include reinstatement, compensation, policy changes, and public interest remedies.",
+      "exceptions": [
+        "Bona fide occupational requirements (BFOR) defence",
+        "Special programs promoting equality not considered discriminatory",
+        "Religious organizations may have limited exemptions in some provinces"
+      ],
+      "source": "https://www.peihumanrights.ca",
+      "sourceLabel": "Prince Edward Island Human Rights Commission",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Which body handles human rights complaints in Prince Edward Island?",
+        "options": [
+          "The Supreme Court directly",
+          "RCMP",
+          "Provincial police",
+          "Human Rights Commission/Tribunal"
+        ],
+        "correct": 3,
+        "explanation": "Prince Edward Island's Human Rights Commission and Tribunal handle complaints of discrimination in employment, housing, and services."
+      }
+    },
+    {
+      "id": 39946,
+      "category": "housing",
+      "severity": "medium",
+      "icon": "\ud83d\udd11",
+      "title": "Landlord Entry \u2014 Notice Required",
+      "subtitle": "Rental of Residential Property Act (PEI) \u2014 24 hours notice required",
+      "fullDescription": "Prince Edward Island requires landlords to give 24 hours written notice before entering a rental unit for non-emergency purposes. Landlord must give 24 hours written notice for non-emergency entry.",
+      "penalty": "Illegal entry: tenant complaint to LTB.",
+      "exceptions": [
+        "Emergencies (fire, flood, serious damage)",
+        "Tenant consents to immediate entry",
+        "Final inspection upon lease end with mutual agreement"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/rental-housing",
+      "sourceLabel": "Prince Edward Island Residential Tenancies Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "How much notice must a landlord give before entering a rental unit in Prince Edward Island?",
+        "options": [
+          "No notice required",
+          "12 hours",
+          "24 hours",
+          "1 week"
+        ],
+        "correct": 2,
+        "explanation": "Prince Edward Island requires 24 hours written notice before a landlord may enter a rental unit, except in emergencies."
+      }
+    },
+    {
+      "id": 39947,
+      "category": "housing",
+      "severity": "medium",
+      "icon": "\ud83d\udcb0",
+      "title": "Security Deposit / Rent Deposit",
+      "subtitle": "Rental of Residential Property Act \u2014 Maximum deposit: No security deposit",
+      "fullDescription": "Prince Edward Island: PEI does not permit damage/security deposits. Only last month's rent deposit is allowed. Deposits must be held in trust and returned with interest within N/A of the tenancy ending.",
+      "penalty": "Excess deposit: LTB complaint, return + interest.",
+      "exceptions": [
+        "Pet damage deposits may apply separately in some provinces",
+        "Last month's rent deposits common in Ontario/BC"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/rental-housing",
+      "sourceLabel": "Prince Edward Island Residential Tenancies Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What is the maximum security deposit allowed in Prince Edward Island?",
+        "options": [
+          "\u00bd month",
+          "No security deposit",
+          "1 month",
+          "$400"
+        ],
+        "correct": 1,
+        "explanation": "In Prince Edward Island, the maximum security deposit is No security deposit."
+      }
+    },
+    {
+      "id": 39948,
+      "category": "housing",
+      "severity": "high",
+      "icon": "\ud83c\udfe0",
+      "title": "Rent Increases \u2014 Annual rent increase cap",
+      "subtitle": "Rental of Residential Property Act \u2014 Annual rent increase cap",
+      "fullDescription": "Prince Edward Island: PEI has an annual rent increase cap set by the Director of Residential Rental Property. For 2024 the cap was set at 3%. PEI implemented rent control in 1990.",
+      "penalty": "Above-guideline increase without LTB approval: tenant complaint, rollback + fines.",
+      "exceptions": [
+        "Above-cap increases for extraordinary cost increases with Director approval",
+        "New units or substantially renovated units may have cap adjusted"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/rental-housing",
+      "sourceLabel": "Prince Edward Island Residential Tenancies",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Does Prince Edward Island have rent control or rent increase limits?",
+        "options": [
+          "No limits \u2014 landlords may raise rent any amount",
+          "Increases limited to inflation/guideline annually",
+          "No rent control",
+          "Rent frozen"
+        ],
+        "correct": 1,
+        "explanation": "PEI has had rent control since 1990, with annual increase caps set by the Director of Residential Rental Property."
+      }
+    },
+    {
+      "id": 39949,
+      "category": "housing",
+      "severity": "high",
+      "icon": "\ud83c\udfda\ufe0f",
+      "title": "Eviction \u2014 Notice & Process",
+      "subtitle": "Rental of Residential Property Act \u2014 Formal process required",
+      "fullDescription": "Prince Edward Island: Landlords must apply to the Director of Residential Rental Property for eviction orders. Self-help eviction (changing locks, removing belongings) is illegal. Landlords must obtain an order from the Director of Residential Rental Property (PEI).",
+      "penalty": "Self-help eviction: criminal offence; damages to tenant.",
+      "exceptions": [
+        "Tenant can remedy non-payment before eviction in most provinces",
+        "Illegal eviction: landlord liable for tenant's damages",
+        "Certain humanitarian protections for vulnerable tenants"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/rental-housing",
+      "sourceLabel": "Director of Residential Rental Property (PEI)",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What is the legal way for a landlord to evict a tenant in Canada?",
+        "options": [
+          "Simply changing the locks",
+          "Removing the tenant's belongings",
+          "Obtaining a formal eviction order from a tribunal",
+          "Calling police immediately"
+        ],
+        "correct": 2,
+        "explanation": "Self-help eviction is illegal in all Canadian provinces. Landlords must obtain a formal eviction order through the provincial tenancy tribunal."
+      }
+    },
+    {
+      "id": 39950,
+      "category": "housing",
+      "severity": "medium",
+      "icon": "\ud83c\udfe8",
+      "title": "Short-Term Rentals (Airbnb/VRBO)",
+      "subtitle": "Municipal by-laws + Tourism PEI \u2014 Registration required",
+      "fullDescription": "Prince Edward Island: PEI requires short-term rental operators to register with Tourism PEI and comply with local zoning regulations. Many municipalities layer additional requirements on top of provincial rules.",
+      "penalty": "Operating without required permit: municipal fines.",
+      "exceptions": [
+        "Commercial hotels/B&Bs under separate licensing",
+        "Rural/remote areas may have fewer restrictions",
+        "Occasional rental of primary residence generally permitted"
+      ],
+      "source": "https://www.tourismpei.com",
+      "sourceLabel": "Prince Edward Island Municipal/Provincial Regulations",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Are short-term rentals (like Airbnb) regulated in Prince Edward Island?",
+        "options": [
+          "Completely unregulated",
+          "Banned province-wide",
+          "Regulated \u2014 typically requiring registration/permit",
+          "Only taxed, not regulated"
+        ],
+        "correct": 2,
+        "explanation": "Short-term rentals in Prince Edward Island are regulated with registration or permit requirements. Provincial registration through Tourism PEI required plus local zoning."
+      }
+    },
+    {
+      "id": 39951,
+      "category": "tax",
+      "severity": "medium",
+      "icon": "\ud83c\udfe1",
+      "title": "Property Tax \u2014 Municipal Assessment",
+      "subtitle": "Real Property Assessment Act (PEI) \u2014 Avg effective rate: 0.77%",
+      "fullDescription": "Property taxes in Prince Edward Island are set by municipalities based on assessed property value. Property assessment in PEI conducted by provincial assessors; municipalities set tax rates. The province sets assessment methodology while municipalities set tax rates.",
+      "penalty": "Failure to pay: interest charges, eventual tax sale of property.",
+      "exceptions": [
+        "Agricultural land may have preferential rates",
+        "Some seniors/low-income programs for deferrals",
+        "New construction may have phase-in periods"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/finance",
+      "sourceLabel": "Prince Edward Island Assessment Authority / Municipality",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Who sets residential property tax rates in Prince Edward Island?",
+        "options": [
+          "The federal government",
+          "The provincial government directly",
+          "Municipal governments based on provincial assessment",
+          "Property owners choose their rate"
+        ],
+        "correct": 2,
+        "explanation": "In Prince Edward Island, municipalities set property tax rates based on assessed values determined by the provincial assessment authority."
+      }
+    },
+    {
+      "id": 39952,
+      "category": "tax",
+      "severity": "medium",
+      "icon": "\ud83d\udcdd",
+      "title": "Land Transfer Tax",
+      "subtitle": "Real Property Transfer Tax Act \u2014 Yes \u2014 Real Property Transfer Tax",
+      "fullDescription": "Prince Edward Island: PEI charges a Real Property Transfer Tax of 1% on property purchases over $30,000. Land transfer taxes apply when property changes hands.",
+      "penalty": "Failure to pay: CRA/Ministry of Finance audit, penalties.",
+      "exceptions": [
+        "First-time homebuyer rebate up to $2,000 available"
+      ],
+      "source": "https://www.ontario.ca/laws/statute/90l06",
+      "sourceLabel": "Prince Edward Island Land Transfer Tax",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Does Prince Edward Island have a provincial land transfer tax?",
+        "options": [
+          "No land transfer tax",
+          "Only a federal tax applies",
+          "No LTT",
+          "2% flat"
+        ],
+        "correct": 2,
+        "explanation": "PEI charges 1% Real Property Transfer Tax on purchases over $30,000, with a first-time buyer rebate."
+      }
+    },
+    {
+      "id": 39953,
+      "category": "tax",
+      "severity": "high",
+      "icon": "\ud83d\udcb3",
+      "title": "Provincial Income Tax \u2014 Prince Edward Island",
+      "subtitle": "Income Tax Act (PEI) \u2014 Top rate: 18.75%",
+      "fullDescription": "Prince Edward Island levies provincial income tax on residents in addition to federal income tax. PEI has graduated provincial income tax up to 18.75% on income over $105,000. Combined federal-provincial top marginal rates in Prince Edward Island are approximately 51.75%.",
+      "penalty": "Failure to file/pay: CRA interest + penalties; provincial enforcement.",
+      "exceptions": [
+        "Basic personal amounts reduce taxable income",
+        "Various provincial credits and deductions available",
+        "Federal RRSP/TFSA rules apply nationwide"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/finance",
+      "sourceLabel": "Prince Edward Island Ministry of Finance / CRA",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What is Prince Edward Island's top provincial income tax rate?",
+        "options": [
+          "14.0%",
+          "18.75%",
+          "21.0%",
+          "25.0%"
+        ],
+        "correct": 1,
+        "explanation": "Prince Edward Island's top provincial income tax rate is 18.75%, on incomes over $105,000+."
+      }
+    },
+    {
+      "id": 39954,
+      "category": "tax",
+      "severity": "medium",
+      "icon": "\ud83e\uddfe",
+      "title": "Sales Tax \u2014 HST",
+      "subtitle": "Excise Tax Act (federal HST) \u2014 Combined rate: 15%",
+      "fullDescription": "Prince Edward Island: PEI uses the Harmonized Sales Tax (HST) at 15% (5% federal + 10% provincial). The federal GST is 5% and applies nationwide. 5% federal + 10% provincial = 15% HST",
+      "penalty": "Businesses must collect and remit applicable taxes; failure results in CRA audits and penalties.",
+      "exceptions": [
+        "Basic groceries, prescription drugs, and medical devices are GST/HST-exempt",
+        "Children's clothing, books often exempt from PST in some provinces",
+        "Farmers and certain exporters may claim exemptions"
+      ],
+      "source": "https://www.canada.ca/en/revenue-agency",
+      "sourceLabel": "CRA / Prince Edward Island Revenue",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What is the total sales tax rate on most goods and services in Prince Edward Island?",
+        "options": [
+          "5%",
+          "15%",
+          "13%",
+          "14%"
+        ],
+        "correct": 1,
+        "explanation": "In Prince Edward Island, the total sales tax is 15% (5% federal + 10% provincial HST)."
+      }
+    },
+    {
+      "id": 39955,
+      "category": "tax",
+      "severity": "medium",
+      "icon": "\ud83d\udcdc",
+      "title": "Probate & Estate Administration",
+      "subtitle": "Probate Act (PEI) \u2014 Probate fees + no estate tax",
+      "fullDescription": "Canada has no federal estate tax or inheritance tax. Prince Edward Island charges probate fees/administration taxes on the value of an estate passing through probate. PEI probate fees calculated on estate value. Surviving spouses/common-law partners receive preferential treatment.",
+      "penalty": "Failure to pay EAT: interest and penalties.",
+      "exceptions": [
+        "Assets with named beneficiaries (RRSPs, insurance) bypass probate",
+        "Joint tenancy property passes by survivorship",
+        "Trusts can avoid probate"
+      ],
+      "source": "https://www.courts.pe.ca",
+      "sourceLabel": "Prince Edward Island Probate / Estates Court",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Does Canada have a federal estate or inheritance tax?",
+        "options": [
+          "Yes \u2014 40% on estates over $1M",
+          "Yes \u2014 provincial rates vary",
+          "No \u2014 Canada has no estate or inheritance tax",
+          "Only Quebec has estate tax"
+        ],
+        "correct": 2,
+        "explanation": "Canada has no federal estate or inheritance tax. Estates face probate fees and the deemed disposition rule at death (capital gains), but no estate tax."
+      }
+    },
+    {
+      "id": 39956,
+      "category": "health",
+      "severity": "medium",
+      "icon": "\ud83d\udead",
+      "title": "Smoke-Free Public Spaces",
+      "subtitle": "Smoke-free Places Act (PEI) \u2014 Smoking banned in public enclosed spaces",
+      "fullDescription": "Prince Edward Island bans smoking in enclosed public spaces, workplaces, and vehicles with minors present. PEI bans smoking in enclosed public places. Vaping regulated similarly. E-cigarettes and vaping are generally regulated similarly to smoking.",
+      "penalty": "Individual: $250 first offence up to $100,000. Proprietor: up to $300,000.",
+      "exceptions": [
+        "Designated outdoor smoking areas may be permitted",
+        "Private residences (adults only)",
+        "Some Indigenous ceremonial uses"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/health-pei",
+      "sourceLabel": "Prince Edward Island Smoke-Free Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Is smoking banned in indoor workplaces and public spaces in Prince Edward Island?",
+        "options": [
+          "Only in government buildings",
+          "Only in restaurants",
+          "Yes \u2014 all enclosed public spaces and workplaces",
+          "No provincial restrictions"
+        ],
+        "correct": 2,
+        "explanation": "Prince Edward Island bans smoking in all enclosed public spaces and workplaces."
+      }
+    },
+    {
+      "id": 39957,
+      "category": "traffic",
+      "severity": "medium",
+      "icon": "\ud83e\ude96",
+      "title": "Helmet Law \u2014 Cyclists & Motorcyclists",
+      "subtitle": "Highway Traffic Act (PEI) \u2014 Mandatory helmet requirements",
+      "fullDescription": "Prince Edward Island: PEI requires all cyclists to wear helmets. Motorcycle helmets mandatory for all. Motorcycle helmets are required for all riders. Cyclist helmet requirements vary by province.",
+      "penalty": "No helmet: $60\u2013$500 fine.",
+      "exceptions": [
+        "No exemptions \u2014 all cyclists must wear helmets in PEI."
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/road-safety",
+      "sourceLabel": "Prince Edward Island Highway Traffic Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Who is required to wear a helmet while cycling in Prince Edward Island?",
+        "options": [
+          "Only children under 18",
+          "Only motorcyclists",
+          "All cyclists",
+          "No requirement"
+        ],
+        "correct": 2,
+        "explanation": "PEI requires all cyclists, regardless of age, to wear approved helmets."
+      }
+    },
+    {
+      "id": 39958,
+      "category": "traffic",
+      "severity": "high",
+      "icon": "\ud83d\ude97",
+      "title": "Seatbelt Law \u2014 Mandatory Use",
+      "subtitle": "Highway Traffic Act (PEI) \u2014 All occupants must wear seatbelts",
+      "fullDescription": "Prince Edward Island requires all vehicle occupants to wear seatbelts. Primary enforcement \u2014 police can stop vehicles solely for seatbelt violations. All occupants required; driver responsible for passengers under 16.",
+      "penalty": "Driver: $200\u2013$1,000 + 2 demerits. Passenger 16+: $200\u2013$1,000.",
+      "exceptions": [
+        "Medical exemption with doctor's certificate",
+        "Children must use approved child safety seats until minimum height/weight/age",
+        "Vehicles manufactured before seatbelt requirements may be exempt"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/road-safety",
+      "sourceLabel": "Prince Edward Island Highway Traffic Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Who is responsible for ensuring child passengers are properly buckled in a vehicle?",
+        "options": [
+          "The child",
+          "The police",
+          "The driver",
+          "The vehicle manufacturer"
+        ],
+        "correct": 2,
+        "explanation": "The driver is legally responsible for ensuring all passengers, especially children in safety seats, are properly restrained."
+      }
+    },
+    {
+      "id": 39959,
+      "category": "traffic",
+      "severity": "medium",
+      "icon": "\ud83d\udea6",
+      "title": "Speed Limits \u2014 Default Limits",
+      "subtitle": "Highway Traffic Act \u2014 100 km/h on 400-series highways",
+      "fullDescription": "Prince Edward Island default speed limits: 90 km/h on most major highways (lower than most provinces); 50 km/h urban. Photo radar/automated enforcement used in school/construction zones in many provinces.",
+      "penalty": "Speeding: fines from $2.50/km over to $9.75/km over 50 km/h above limit (stunt driving).",
+      "exceptions": [
+        "Posted limits supersede defaults",
+        "Emergency vehicles",
+        "Construction zone speeds mandatory when workers present"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/road-safety",
+      "sourceLabel": "Prince Edward Island Highway Traffic Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What is the default highway speed limit in Prince Edward Island where not otherwise posted?",
+        "options": [
+          "80 km/h",
+          "90 km/h",
+          "100 km/h",
+          "110 km/h"
+        ],
+        "correct": 1,
+        "explanation": "Prince Edward Island's default highway speed limit is 90 km/h."
+      }
+    },
+    {
+      "id": 39960,
+      "category": "traffic",
+      "severity": "high",
+      "icon": "\ud83d\udcf1",
+      "title": "Texting While Driving \u2014 Prohibited",
+      "subtitle": "Highway Traffic Act \u2014 Handheld ban covers texting",
+      "fullDescription": "Texting while driving is prohibited across all Canadian provinces under distracted/handheld device laws. Prince Edward Island: Handheld ban covers texting, browsing, and all handheld device use.",
+      "penalty": "Same as distracted driving: $615\u2013$3,000 + demerit points.",
+      "exceptions": [
+        "Hands-free voice texting permitted",
+        "Emergency 911 use permitted",
+        "Parked vehicle (engine off) generally exempt"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/road-safety",
+      "sourceLabel": "Prince Edward Island Highway Traffic Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Is texting while driving prohibited in Canada?",
+        "options": [
+          "Only on highways",
+          "Only for new drivers",
+          "Yes \u2014 province-wide ban on handheld use including texting",
+          "Only when school zones are active"
+        ],
+        "correct": 2,
+        "explanation": "Texting while driving is prohibited under provincial distracted driving laws across all Canadian provinces."
+      }
+    },
+    {
+      "id": 39961,
+      "category": "traffic",
+      "severity": "high",
+      "icon": "\ud83d\ude94",
+      "title": "DUI Sobriety Checkpoints \u2014 RIDE Program",
+      "subtitle": "Criminal Code s. 320.27 + provincial authority \u2014 Checkpoints legal",
+      "fullDescription": "Unlike some US states, random sobriety checkpoints are fully legal across Canada. Prince Edward Island participates in RIDE (Reduce Impaired Driving Everywhere) programs. Police may stop any vehicle at a checkpoint and demand a roadside breath sample. The Supreme Court of Canada upheld checkpoints in R v Ladouceur (1990).",
+      "penalty": "Refusal to provide breath sample: same penalty as impaired driving (Criminal Code s. 320.15).",
+      "exceptions": [
+        "The right to remain silent does not apply to roadside breath demands",
+        "Drivers may request a lawyer after a positive roadside test"
+      ],
+      "source": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
+      "sourceLabel": "Criminal Code / SCC (Ladouceur)",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Are random DUI sobriety checkpoints (RIDE programs) legal in Canada?",
+        "options": [
+          "No \u2014 Charter s. 9 prohibits them",
+          "Only with a warrant",
+          "Yes \u2014 upheld by Supreme Court of Canada",
+          "Only in Quebec"
+        ],
+        "correct": 2,
+        "explanation": "The Supreme Court upheld random checkpoints in R v Ladouceur (1990). RIDE programs are a well-established tool across Canada."
+      }
+    },
+    {
+      "id": 39962,
+      "category": "traffic",
+      "severity": "high",
+      "icon": "\ud83d\udea8",
+      "title": "Move Over / Slow Down for Emergency Vehicles",
+      "subtitle": "Highway Traffic Act \u2014 Mandatory slow-down/lane change",
+      "fullDescription": "Prince Edward Island requires drivers approaching stationary emergency vehicles (police, fire, ambulance, tow trucks) with flashing lights to slow down and move to an adjacent lane if safe to do so. Must slow to 60 km/h (or posted limit if lower) and move over when safe to do so.",
+      "penalty": "Fine: $400\u2013$2,000 + 3 demerits.",
+      "exceptions": [
+        "If lane change not safe, slow to well below speed limit",
+        "Applies to tow trucks and utility vehicles in many provinces"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/road-safety",
+      "sourceLabel": "Prince Edward Island Highway Traffic Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What must drivers do when approaching a stationary emergency vehicle with lights flashing?",
+        "options": [
+          "Honk to alert them",
+          "Slow down and move to an adjacent lane if safe",
+          "Maintain speed \u2014 it's the officer's responsibility",
+          "Pull over and stop completely"
+        ],
+        "correct": 1,
+        "explanation": "Move over laws require slowing and moving lanes (if safe) when passing stationary emergency or tow-truck vehicles with lights activated."
+      }
+    },
+    {
+      "id": 39963,
+      "category": "traffic",
+      "severity": "high",
+      "icon": "\ud83d\udcf2",
+      "title": "Handheld Cell Phone Use While Driving",
+      "subtitle": "Highway Traffic Act \u2014 Handheld banned; hands-free allowed",
+      "fullDescription": "Prince Edward Island bans all handheld use of electronic devices while driving. Drivers caught holding a phone at red lights face the same penalties as moving violations. Demerit points apply in addition to fines.",
+      "penalty": "Same as distracted driving fines.",
+      "exceptions": [
+        "Hands-free device use permitted",
+        "GPS devices (mounted) permitted",
+        "Contacting 911 in emergency permitted"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/topic/road-safety",
+      "sourceLabel": "Prince Edward Island Highway Traffic Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Can a driver use a handheld cell phone at a red light in Prince Edward Island?",
+        "options": [
+          "Yes \u2014 the vehicle is stopped",
+          "Yes \u2014 briefly is fine",
+          "No \u2014 handheld ban applies even when stopped at lights",
+          "Only if on hands-free setting"
+        ],
+        "correct": 2,
+        "explanation": "Handheld bans apply even when stopped at red lights in all Canadian provinces."
+      }
+    },
+    {
+      "id": 39964,
+      "category": "civil_rights",
+      "severity": "medium",
+      "icon": "\ud83c\udf82",
+      "title": "Age of Majority \u2014 Prince Edward Island",
+      "subtitle": "Age of Majority Act (PEI) \u2014 Age of majority: 18",
+      "fullDescription": "Prince Edward Island's age of majority is 18. At 18, individuals can vote (federal), purchase alcohol, enter binding contracts, and are fully subject to adult criminal law. Most legal rights (voting, contracts, alcohol) attach at the age of majority.",
+      "penalty": "Minors may be subject to guardianship; contracts with minors generally voidable.",
+      "exceptions": [
+        "Federally, voting age is 18 (Election Act)",
+        "Provinces can set their own majority age",
+        "Some federal rights (e.g., criminal responsibility) have separate age thresholds"
+      ],
+      "source": "https://www.princeedwardisland.ca",
+      "sourceLabel": "Prince Edward Island Age of Majority Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What is the age of majority in Prince Edward Island?",
+        "options": [
+          "16",
+          "17",
+          "18",
+          "18"
+        ],
+        "correct": 2,
+        "explanation": "The age of majority in Prince Edward Island is 18."
+      }
+    },
+    {
+      "id": 39965,
+      "category": "civil_rights",
+      "severity": "medium",
+      "icon": "\ud83d\uddf3\ufe0f",
+      "title": "Voting Rights \u2014 Federal & Provincial",
+      "subtitle": "Canada Elections Act + provincial election acts \u2014 Age 18",
+      "fullDescription": "Canadian citizens aged 18+ are entitled to vote in federal elections (Canada Elections Act). Prince Edward Island: PEI provincial elections: 18+, Canadian citizen, resident. Indigenous peoples retain full voting rights. Prisoners regained federal voting rights per Sauv\u00e9 v Canada (2002).",
+      "penalty": "Voter fraud: fines up to $50,000 and/or 5 years imprisonment (federal).",
+      "exceptions": [
+        "Non-citizens cannot vote in federal elections",
+        "Permanent residents can vote in some municipal elections in certain provinces",
+        "People under guardianship orders still retain voting rights in most cases"
+      ],
+      "source": "https://www.electionspei.ca",
+      "sourceLabel": "Elections Canada / Provincial Elections",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "At what age can Canadian citizens vote in federal elections?",
+        "options": [
+          "16",
+          "17",
+          "18",
+          "19"
+        ],
+        "correct": 2,
+        "explanation": "Canadian citizens must be 18 to vote in federal elections under the Canada Elections Act."
+      }
+    },
+    {
+      "id": 39966,
+      "category": "civil_rights",
+      "severity": "medium",
+      "icon": "\u2696\ufe0f",
+      "title": "Jury Duty \u2014 Selection and Obligations",
+      "subtitle": "Jury Act (PEI) \u2014 Civic obligation for eligible residents",
+      "fullDescription": "Prince Edward Island: Canadian citizens 18+ resident in PEI. Federal criminal juries are governed by the Criminal Code; civil juries by provincial rules. Jurors are entitled to compensation for service.",
+      "penalty": "Failure to attend without excuse: fine or contempt of court.",
+      "exceptions": [
+        "Certain professionals (judges, lawyers, police, doctors in some provinces) exempt",
+        "Financial hardship may be grounds for excuse",
+        "Non-citizens and non-permanent residents not eligible"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/justice-and-public-safety",
+      "sourceLabel": "Prince Edward Island Juries Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Who is eligible for jury duty in Canada?",
+        "options": [
+          "All residents regardless of citizenship",
+          "Canadian citizens and permanent residents who are 18+",
+          "Only Canadian citizens who are 18+",
+          "Any adult who requests to serve"
+        ],
+        "correct": 2,
+        "explanation": "Jury eligibility varies by province but generally requires Canadian citizenship and being 18+."
+      }
+    },
+    {
+      "id": 39967,
+      "category": "child_welfare",
+      "severity": "critical",
+      "icon": "\ud83e\uddd2",
+      "title": "Mandatory Reporting \u2014 Child Abuse & Neglect",
+      "subtitle": "Child Protection Act (PEI) s. 3 \u2014 All persons must report",
+      "fullDescription": "Prince Edward Island: All PEI residents must report to Child Protection Services if they have reasonable grounds to suspect child abuse or neglect. Unlike some jurisdictions, Prince Edward Island (like all Canadian provinces) imposes a duty on ALL persons \u2014 not just professionals \u2014 to report suspected child abuse or neglect to child welfare authorities.",
+      "penalty": "Failure to report: fine up to $5,000.",
+      "exceptions": [
+        "Good faith reporters are protected from civil liability",
+        "Anonymous reports accepted",
+        "Reporting does not require certainty \u2014 reasonable suspicion is enough"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/social-development-and-housing",
+      "sourceLabel": "Prince Edward Island Child and Family Services",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Who is required to report suspected child abuse in Canadian provinces?",
+        "options": [
+          "Only doctors and teachers",
+          "Only social workers",
+          "Only parents and guardians",
+          "All persons, not just professionals"
+        ],
+        "correct": 3,
+        "explanation": "All Canadian provinces impose a duty on ALL persons (not just professionals) to report suspected child abuse or neglect."
+      }
+    },
+    {
+      "id": 39968,
+      "category": "criminal",
+      "severity": "critical",
+      "icon": "\ud83d\udd12",
+      "title": "Age of Consent \u2014 Criminal Code",
+      "subtitle": "Criminal Code s. 150.1 \u2014 Age of consent: 16",
+      "fullDescription": "Canada's age of consent is 16 (Criminal Code, as amended 2008). There is a 'close-in-age' exception allowing sexual activity between 14\u201315 year olds and partners less than 5 years older, and between 12\u201313 year olds and partners less than 2 years older. The age of consent for anal intercourse was harmonized to 16 in 2022. There is no marriage exception \u2014 the minimum marriage age is 18 federally.",
+      "penalty": "Sexual offences involving minors: significant mandatory minimum sentences under the Criminal Code.",
+      "exceptions": [
+        "Close-in-age ('Romeo and Juliet') exceptions (see above)",
+        "No exception for positions of trust/authority/dependency \u2014 age is raised to 18 for those in authority"
+      ],
+      "source": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
+      "sourceLabel": "Criminal Code of Canada s. 150.1",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What is Canada's federal age of consent for most sexual activity?",
+        "options": [
+          "14",
+          "15",
+          "16",
+          "18"
+        ],
+        "correct": 2,
+        "explanation": "Canada's Criminal Code sets the age of consent at 16, with close-in-age exceptions for youth 12\u201315."
+      }
+    },
+    {
+      "id": 39969,
+      "category": "civil_rights",
+      "severity": "medium",
+      "icon": "\ud83d\udccb",
+      "title": "Emancipation of Minors",
+      "subtitle": "Child Protection Act (PEI) \u2014 No formal emancipation statute",
+      "fullDescription": "Prince Edward Island: No formal emancipation statute; courts apply best-interests analysis. Full common-law emancipation (court-ordered) is less formal in Canada than in some US states; courts focus on the minor's best interests.",
+      "penalty": "Unemancipated minors' contracts are generally voidable.",
+      "exceptions": [
+        "Marriage emancipates for some purposes",
+        "Military enlistment (with parental consent)",
+        "Living independently with parental consent may achieve de facto emancipation"
+      ],
+      "source": "https://www.princeedwardisland.ca",
+      "sourceLabel": "Prince Edward Island Family Law",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "How is emancipation of minors typically handled in Canadian provinces?",
+        "options": [
+          "Automatic at 16",
+          "Through a formal court petition as in the US",
+          "No formal emancipation \u2014 courts use best-interests analysis",
+          "Only Parliament can grant emancipation"
+        ],
+        "correct": 2,
+        "explanation": "Canadian provinces handle minor emancipation through court proceedings focused on the child's best interests, not a formal US-style emancipation statute."
+      }
+    },
+    {
+      "id": 39970,
+      "category": "criminal",
+      "severity": "low",
+      "icon": "\ud83c\udf19",
+      "title": "Youth Curfew Laws",
+      "subtitle": "Municipal By-laws \u2014 No provincial curfew",
+      "fullDescription": "Prince Edward Island: Ontario has no province-wide youth curfew; some municipalities have their own local curfews for minors. Most Canadian provinces do not have province-wide curfews; some municipalities have overnight curfews for minors.",
+      "penalty": "Violation of municipal curfew: fine; police may take minor home.",
+      "exceptions": [
+        "Emergency declarations may impose broader curfews",
+        "Curfew conditions may be set by courts as bail conditions",
+        "Youth working late shifts have implied exception"
+      ],
+      "source": "https://www.ontario.ca/laws/statute/01m25",
+      "sourceLabel": "Prince Edward Island / Municipal By-laws",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Are there province-wide youth curfews in Canadian provinces?",
+        "options": [
+          "Yes \u2014 10 PM in all provinces",
+          "Yes \u2014 varies by age",
+          "Generally no \u2014 some municipalities have local curfews",
+          "Yes \u2014 only in Quebec"
+        ],
+        "correct": 2,
+        "explanation": "Most Canadian provinces do not have province-wide youth curfews; some municipalities enact their own local curfews for minors."
+      }
+    },
+    {
+      "id": 39971,
+      "category": "child_welfare",
+      "severity": "high",
+      "icon": "\u26a0\ufe0f",
+      "title": "Corporal Punishment \u2014 Criminal Code s. 43",
+      "subtitle": "Criminal Code s. 43 \u2014 Limited parental defence; schools banned",
+      "fullDescription": "Criminal Code s. 43 provides parents a limited defence for 'reasonable' physical correction of children. The Supreme Court (Canadian Foundation, 2004) upheld s. 43 but narrowed it: only minor corrective force, no objects, not to head/face, only ages 2\u201312. Corporal punishment in schools has been banned by the SCC ruling and removed from legislation in most provinces. {p}: {s['cp_detail']}",
+      "penalty": "Excessive force: assault charges. Schools: administrative discipline.",
+      "exceptions": [
+        "Supreme Court limits: ages 2\u201312 only, no objects, no head/face blows",
+        "Must be for corrective purposes, not out of frustration",
+        "Many child advocates call for full repeal of s. 43"
+      ],
+      "source": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
+      "sourceLabel": "Criminal Code s. 43 / SCC 2004",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Can teachers use corporal punishment in Canadian schools?",
+        "options": [
+          "Yes, with parental consent",
+          "Yes, for serious misconduct",
+          "No \u2014 corporal punishment in schools has been eliminated",
+          "Only in private religious schools"
+        ],
+        "correct": 2,
+        "explanation": "The Supreme Court's 2004 ruling effectively banned corporal punishment in schools. Only parents retain a narrowly limited s. 43 defence."
+      }
+    },
+    {
+      "id": 39972,
+      "category": "education",
+      "severity": "medium",
+      "icon": "\ud83d\udcda",
+      "title": "Homeschooling \u2014 Provincial Regulations",
+      "subtitle": "School Act (PEI) \u2014 Legal with registration",
+      "fullDescription": "Prince Edward Island: PEI permits homeschooling with annual registration through the Minister of Education and a submitted learning plan. All provinces require children to receive education, whether in school or through approved homeschooling.",
+      "penalty": "Non-compliance with compulsory attendance: fines for parents.",
+      "exceptions": [
+        "Instruction need not follow exact curriculum in all provinces",
+        "Parents need not be certified teachers in most provinces",
+        "Children with special needs may have additional support options"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/education-and-lifelong-learning",
+      "sourceLabel": "Prince Edward Island Education Ministry",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Is homeschooling legal in Prince Edward Island?",
+        "options": [
+          "Illegal \u2014 all children must attend school",
+          "Legal with no requirements",
+          "Legal but requires registration/notification",
+          "Only for religious reasons"
+        ],
+        "correct": 2,
+        "explanation": "Homeschooling is legal in Prince Edward Island but requires annual registration with the Minister of Education and submission of a learning plan."
+      }
+    },
+    {
+      "id": 39973,
+      "category": "health",
+      "severity": "medium",
+      "icon": "\ud83d\udc89",
+      "title": "Vaccination \u2014 School Requirements",
+      "subtitle": "Public Health Act (PEI) \u2014 Required with exemptions",
+      "fullDescription": "Prince Edward Island: PEI recommends vaccines for school attendance but does not mandate them with hard exclusion. Canada has no federal vaccine mandate; provinces set school immunization requirements.",
+      "penalty": "Non-compliant students may be suspended from school.",
+      "exceptions": [
+        "Medical exemptions available",
+        "Philosophical/religious exemptions vary by province",
+        "Parental consent required for minors"
+      ],
+      "source": "https://www.ontario.ca/laws/statute/90i14",
+      "sourceLabel": "Prince Edward Island Public Health",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Does Prince Edward Island require vaccinations for children to attend school?",
+        "options": [
+          "No requirements at all",
+          "Required with no exemptions",
+          "Recommended but not mandatory",
+          "Mandatory \u2014 no exemptions"
+        ],
+        "correct": 2,
+        "explanation": "PEI recommends vaccination but does not mandate it for school attendance."
+      }
+    },
+    {
+      "id": 39974,
+      "category": "health",
+      "severity": "high",
+      "icon": "\u2695\ufe0f",
+      "title": "Abortion \u2014 Decriminalized & Provincially Provided",
+      "subtitle": "R v Morgentaler [1988] 1 SCR 30 \u2014 No criminal prohibition",
+      "fullDescription": "Abortion has been decriminalized in Canada since the Supreme Court's Morgentaler decision in 1988 \u2014 there is no criminal law on abortion. Access is governed by provincial health care systems. Abortion services covered by Health PEI. Access available in Charlottetown; PEI historically had limited access but has improved since 2016. Abortion is covered under provincial health insurance for medically necessary procedures.",
+      "penalty": "No criminal penalties. Access may be limited by geography/provider availability.",
+      "exceptions": [
+        "Gestational limits may exist for publicly funded procedures in some provinces",
+        "Private clinics may offer services beyond hospital gestational limits",
+        "Conscientious objection by individual providers is permitted but must not impede access"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/health-pei",
+      "sourceLabel": "Prince Edward Island Health / Morgentaler SCC 1988",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Is abortion legal in Canada?",
+        "options": [
+          "Banned after 12 weeks",
+          "Legal up to 20 weeks federally",
+          "Decriminalized \u2014 no Criminal Code restrictions; access governed provincially",
+          "Only legal in emergencies"
+        ],
+        "correct": 2,
+        "explanation": "Since Morgentaler (1988), there is no criminal restriction on abortion in Canada. Access is a provincial health care matter."
+      }
+    },
+    {
+      "id": 39975,
+      "category": "criminal",
+      "severity": "high",
+      "icon": "\u26d4",
+      "title": "Capital Punishment \u2014 Abolished Since 1976",
+      "subtitle": "Criminal Law Amendment Act, 1976 \u2014 Death penalty abolished",
+      "fullDescription": "Canada abolished the death penalty for all civilian crimes in 1976 and for military offences in 1999. The last execution was Ronald Turpin and Arthur Lucas, hanged in 1962. Canada also will not extradite individuals to face the death penalty without assurances it will not be applied. Prince Edward Island, like all Canadian provinces, applies this federal law.",
+      "penalty": "N/A \u2014 capital punishment does not exist in Canada.",
+      "exceptions": [
+        "Canada will not extradite without death penalty assurances",
+        "Life imprisonment (25 years before parole eligibility) is the maximum sentence"
+      ],
+      "source": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
+      "sourceLabel": "Criminal Code / 1976 Abolition",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "When was the death penalty abolished in Canada?",
+        "options": [
+          "1962",
+          "1976",
+          "1988",
+          "1999"
+        ],
+        "correct": 1,
+        "explanation": "Canada abolished capital punishment for civilian offences in 1976; the last executions occurred in 1962."
+      }
+    },
+    {
+      "id": 39976,
+      "category": "health",
+      "severity": "high",
+      "icon": "\ud83c\udfe5",
+      "title": "Medical Assistance in Dying (MAID)",
+      "subtitle": "Criminal Code s. 241.2 (Bill C-14/C-7) \u2014 Legal with conditions",
+      "fullDescription": "Canada legalized MAID in 2016 (Bill C-14) following the Carter v Canada SCC ruling. Bill C-7 (2021) expanded eligibility by removing the 'reasonably foreseeable natural death' requirement and creating two tracks. PEI follows the federal MAID framework. Services available through Health PEI. As of 2024, MAID for mental illness as sole underlying condition remains under review.",
+      "penalty": "Administering MAID outside legal framework: criminal offence.",
+      "exceptions": [
+        "Must be an eligible Canadian resident with a serious and incurable illness/disease/disability",
+        "Mental illness as sole condition not yet permitted (as of 2024)",
+        "10-day reflection period (Track 1) or 90-day assessment (Track 2)",
+        "Conscientious objection by practitioners permitted"
+      ],
+      "source": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
+      "sourceLabel": "Criminal Code s. 241.2 / Bill C-7",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What Supreme Court case led to Canada legalizing medical assistance in dying?",
+        "options": [
+          "R v Morgentaler",
+          "Carter v Canada",
+          "R v Ladouceur",
+          "Bedford v Canada"
+        ],
+        "correct": 1,
+        "explanation": "Carter v Canada (2015) struck down the blanket ban on assisted dying, leading to Bill C-14 legalizing MAID in 2016."
+      }
+    },
+    {
+      "id": 39977,
+      "category": "criminal",
+      "severity": "high",
+      "icon": "\ud83d\udc8a",
+      "title": "Drug Penalties \u2014 Controlled Drugs and Substances Act",
+      "subtitle": "CDSA, SC 1996, c. 19 \u2014 Federal drug law",
+      "fullDescription": "Drug offences in Canada are governed by the federal Controlled Drugs and Substances Act (CDSA). PEI applies federal CDSA. Opioid crisis growing; harm reduction services expanding. Simple possession of small amounts of most drugs was effectively decriminalized in some provinces through prosecutorial discretion; federal Bill C-5 (2022) eliminated some mandatory minimums.",
+      "penalty": "Trafficking in Schedule I substance: up to life imprisonment. Simple possession (CDSA): summary \u2014 up to $1,000 + 6 months jail; indictable \u2014 up to 7 years.",
+      "exceptions": [
+        "Cannabis (legal \u2014 Cannabis Act)",
+        "Certain medical/pharmaceutical exemptions",
+        "Bill C-5 (2022) restored sentencing discretion for some possession offences"
+      ],
+      "source": "https://laws-lois.justice.gc.ca/eng/acts/C-38.8/",
+      "sourceLabel": "Controlled Drugs and Substances Act (Federal)",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What federal law governs most drug offences in Canada (excluding cannabis)?",
+        "options": [
+          "Cannabis Act",
+          "Criminal Code",
+          "Controlled Drugs and Substances Act (CDSA)",
+          "Food and Drugs Act"
+        ],
+        "correct": 2,
+        "explanation": "The CDSA governs controlled substance offences in Canada. Cannabis has its own legislation (Cannabis Act) since 2018."
+      }
+    },
+    {
+      "id": 39978,
+      "category": "criminal",
+      "severity": "high",
+      "icon": "\ud83d\udcb8",
+      "title": "Civil Forfeiture \u2014 Active program",
+      "subtitle": "Proceeds of Crime / Criminal Code \u2014 Proceeds of crime",
+      "fullDescription": "Prince Edward Island: PEI relies primarily on federal criminal forfeiture; limited provincial civil forfeiture. Civil forfeiture allows the government to seize assets alleged to be proceeds of crime \u2014 without requiring a criminal conviction.",
+      "penalty": "N/A \u2014 civil proceeding.",
+      "exceptions": [
+        "Innocent owner defence available",
+        "Property can be claimed back if owner proves it is unrelated to crime",
+        "Burden of proof is civil standard (balance of probabilities)"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/justice-and-public-safety",
+      "sourceLabel": "Prince Edward Island Civil Forfeiture",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Does civil forfeiture in Canada require a criminal conviction first?",
+        "options": [
+          "Yes \u2014 always",
+          "No \u2014 civil standard applies; no conviction required",
+          "Only in Quebec",
+          "Only for drug offences"
+        ],
+        "correct": 1,
+        "explanation": "Civil forfeiture uses the civil burden of proof \u2014 the government need not obtain a criminal conviction before seizing assets."
+      }
+    },
+    {
+      "id": 39979,
+      "category": "criminal",
+      "severity": "medium",
+      "icon": "\ud83d\udccb",
+      "title": "Criminal Record Suspension (Pardon)",
+      "subtitle": "Criminal Records Act, RSC 1985, c. C-47 \u2014 Federal program",
+      "fullDescription": "Canada uses 'record suspensions' (formerly 'pardons') administered by the Parole Board of Canada. After completing a sentence and a waiting period (5 years for summary offences, 10 years for indictable), eligible individuals may apply to seal their criminal record. Federal record suspensions apply. No separate PEI program. Cannabis convictions for simple possession may be expunged (not just suspended) under the Expungement of Historically Unjust Convictions Act.",
+      "penalty": "Record suspension: $657.77 application fee (2024); denial is possible for serious offences.",
+      "exceptions": [
+        "Sexual offences against children: ineligible",
+        "Schedule 1 offences: additional scrutiny",
+        "Expungement (full erasure) available for historically unjust convictions (e.g., past cannabis possession, consensual same-sex acts)"
+      ],
+      "source": "https://www.canada.ca/en/parole-board.html",
+      "sourceLabel": "Parole Board of Canada",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What is the Canadian term for what Americans call a criminal 'expungement'?",
+        "options": [
+          "Pardon",
+          "Record suspension",
+          "Criminal amnesty",
+          "Diversion"
+        ],
+        "correct": 1,
+        "explanation": "Canada uses 'record suspension' (previously called a pardon). Applications go to the Parole Board of Canada after a waiting period."
+      }
+    },
+    {
+      "id": 39980,
+      "category": "criminal",
+      "severity": "high",
+      "icon": "\ud83d\udd12",
+      "title": "Solitary Confinement \u2014 Structured Intervention Units",
+      "subtitle": "Corrections and Conditional Release Act (as amended 2019) \u2014 SIUs",
+      "fullDescription": "Bill C-83 (2019) eliminated traditional solitary confinement in federal prisons, replacing it with Structured Intervention Units (SIUs). Inmates in SIUs must receive at least 4 hours outside cell daily and 2 hours of meaningful human contact. Prince Edward Island provincial correctional facilities follow: PEI correctional facilities subject to Correctional Services Act and Charter review.",
+      "penalty": "Violations of SIU standards: complaints to correctional investigator, court challenges.",
+      "exceptions": [
+        "Courts have found extended segregation violates s. 7 and 12 of the Charter",
+        "Independent oversight through Institutional Heads and external review"
+      ],
+      "source": "https://laws-lois.justice.gc.ca/eng/acts/C-44.6/",
+      "sourceLabel": "CCRA / Bill C-83 (2019)",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What replaced traditional solitary confinement in Canadian federal prisons?",
+        "options": [
+          "Nothing \u2014 it was retained",
+          "Structured Intervention Units (SIUs)",
+          "Community supervision",
+          "Electronic monitoring"
+        ],
+        "correct": 1,
+        "explanation": "Bill C-83 (2019) replaced administrative segregation with Structured Intervention Units, requiring minimum human contact and out-of-cell time."
+      }
+    },
+    {
+      "id": 39981,
+      "category": "criminal",
+      "severity": "medium",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "title": "Private Prisons \u2014 Largely Absent in Canada",
+      "subtitle": "Corrections and Conditional Release Act \u2014 Federal prisons public",
+      "fullDescription": "Unlike the US, Canada has very few private prisons. Federal correctional facilities are operated by Correctional Service Canada (CSC). Prince Edward Island: PEI does not operate private prisons. Some immigration detention facilities contract private operators, but these have faced criticism.",
+      "penalty": "N/A \u2014 private prison operation not generally applicable.",
+      "exceptions": [
+        "Some immigration detention involves private contractors",
+        "Privately operated halfway houses/community residential facilities exist",
+        "Electronic monitoring contracts may be privately operated"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/justice-and-public-safety",
+      "sourceLabel": "Correctional Service Canada",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Do private prisons operate federal correctional institutions in Canada?",
+        "options": [
+          "Yes \u2014 most federal prisons are private",
+          "Yes \u2014 about half",
+          "No \u2014 federal prisons are operated by Correctional Service Canada",
+          "Only in Alberta and Ontario"
+        ],
+        "correct": 2,
+        "explanation": "Canadian federal prisons are operated by Correctional Service Canada (CSC). Private prisons are not a significant feature of the Canadian corrections system."
+      }
+    },
+    {
+      "id": 39982,
+      "category": "civil_rights",
+      "severity": "medium",
+      "icon": "\ud83d\udcf9",
+      "title": "Police Body-Worn Cameras",
+      "subtitle": "Varies by police service \u2014 Policy varies by police service",
+      "fullDescription": "Prince Edward Island: RCMP (policing PEI) has national body camera rollout underway. Unlike some US states, Canada has no province-wide legislation mandating body cameras \u2014 policies are set at the police service level.",
+      "penalty": "Failure to follow body cam policies: disciplinary action; footage admissible in court.",
+      "exceptions": [
+        "RCMP has a national BWC rollout underway",
+        "Municipal forces set independent policies",
+        "Privacy Act and PIPEDA govern footage retention"
+      ],
+      "source": "https://www.rcmp-grc.gc.ca",
+      "sourceLabel": "Prince Edward Island Police Services / RCMP",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Is there a province-wide law mandating body cameras for all police in Canada?",
+        "options": [
+          "Yes \u2014 federal law mandates cameras",
+          "Yes \u2014 all provinces require cameras",
+          "No \u2014 policies are set at the police service level",
+          "Only the RCMP is required to use them"
+        ],
+        "correct": 2,
+        "explanation": "Canada has no federal or provincial law mandating body cameras for all police. Each police service sets its own policy, though the RCMP is rolling out cameras nationally."
+      }
+    },
+    {
+      "id": 39983,
+      "category": "civil_rights",
+      "severity": "high",
+      "icon": "\ud83d\ude94",
+      "title": "Police Use of Force \u2014 Charter & CCRA Standards",
+      "subtitle": "Criminal Code s. 25 + Charter s. 7, 9, 12 \u2014 Proportionate force",
+      "fullDescription": "Canadian police use-of-force is governed by Criminal Code s. 25 (protection of persons enforcing the law) and the Charter. Force must be reasonable and proportionate. Prince Edward Island: PEI police overseen by RCMP federal channels and provincial public safety. The Civilian Review and Complaints Commission oversees RCMP conduct.",
+      "penalty": "Excessive force: criminal charges (assault, manslaughter, homicide); civil liability; disciplinary action.",
+      "exceptions": [
+        "Officer safety is a factor in proportionality analysis",
+        "Use of lethal force requires imminent threat of death/grievous bodily harm",
+        "Duty to de-escalate increasingly recognized"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/public-safety",
+      "sourceLabel": "Prince Edward Island Police Act / Criminal Code s. 25",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What legal standard governs police use of force in Canada?",
+        "options": [
+          "Officers may use any force needed to effect an arrest",
+          "Force must be reasonable and proportionate under Criminal Code s. 25",
+          "Only weapons are regulated; physical force is unrestricted",
+          "Provincial police set their own standards independently"
+        ],
+        "correct": 1,
+        "explanation": "Criminal Code s. 25 and Charter protections require police force to be reasonable and proportionate to the threat faced."
+      }
+    },
+    {
+      "id": 39984,
+      "category": "domestic_violence",
+      "severity": "high",
+      "icon": "\u26a0\ufe0f",
+      "title": "Clare's Law \u2014 Domestic Violence Disclosure",
+      "subtitle": "Victims of Crime Act / Police protocols (PEI) \u2014 Police may disclose",
+      "fullDescription": "Prince Edward Island: PEI police may disclose a partner's history of domestic violence to at-risk individuals; no formal Clare's Law statute. Clare's Law (named after Clare Wood, UK) allows individuals to ask police about a partner's history of domestic violence.",
+      "penalty": "N/A \u2014 disclosure only.",
+      "exceptions": [
+        "Information only disclosed if there is a genuine risk of harm",
+        "Disclosure is discretionary in some provincial implementations",
+        "Partners may proactively inquire or police may proactively disclose"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/public-safety",
+      "sourceLabel": "Prince Edward Island Domestic Violence Disclosure",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What does Clare's Law allow individuals to do?",
+        "options": [
+          "Obtain a restraining order",
+          "Ask police about a partner's history of domestic violence",
+          "Automatically relocate with children",
+          "Seize an abuser's firearms"
+        ],
+        "correct": 1,
+        "explanation": "Clare's Law creates a scheme allowing people to ask police if their partner has a history of domestic violence \u2014 aiming to prevent further harm."
+      }
+    },
+    {
+      "id": 39985,
+      "category": "criminal",
+      "severity": "high",
+      "icon": "\u2696\ufe0f",
+      "title": "Hate Crimes \u2014 Criminal Code Enhancement",
+      "subtitle": "Criminal Code s. 318\u2013320 + s. 718.2(a)(i) \u2014 Enhanced sentencing",
+      "fullDescription": "Canada's Criminal Code prohibits advocating genocide (s. 318) and public incitement of hatred (s. 319) against identifiable groups. For other offences, evidence of hate motivation can be considered as an aggravating factor at sentencing (s. 718.2). Identifiable groups include race, religion, sexual orientation, gender identity, disability, and more. RCMP investigates hate crimes in PEI under Criminal Code ss. 318\u2013320.",
+      "penalty": "Hate speech (s. 319): up to 2 years. Genocide advocacy (s. 318): up to 5 years. Aggravated sentencing for hate-motivated offences.",
+      "exceptions": [
+        "Truth is a defence to hate speech charges",
+        "Private conversation exemption for some communications",
+        "Artistic/educational/religious expression may receive Charter protection"
+      ],
+      "source": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
+      "sourceLabel": "Criminal Code ss. 318\u2013320",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What does Criminal Code s. 718.2 do in hate crime cases?",
+        "options": [
+          "Creates a separate hate crime offence",
+          "Allows hate motivation to be considered as an aggravating factor at sentencing",
+          "Mandates minimum 5-year sentence",
+          "Removes bail eligibility"
+        ],
+        "correct": 1,
+        "explanation": "Section 718.2(a)(i) of the Criminal Code requires courts to treat evidence of hate motivation as an aggravating factor when sentencing."
+      }
+    },
+    {
+      "id": 39986,
+      "category": "domestic_violence",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "title": "Domestic Violence \u2014 Provincial & Criminal Code Protections",
+      "subtitle": "Victims of Crime Act / Criminal Code + Criminal Code \u2014 Assault/threat provisions apply",
+      "fullDescription": "Domestic violence is addressed through both provincial civil protection orders and federal Criminal Code offences. Prince Edward Island: PEI has domestic violence emergency protocols and victim support services. Emergency Protection Orders (EPOs) can be obtained 24/7 in most provinces without a lawyer.",
+      "penalty": "Assault: up to 5 years (indictable). EPO violation: up to 2 years.",
+      "exceptions": [
+        "Victims may obtain emergency protection orders quickly",
+        "Crown typically prosecutes DV cases even if victim withdraws complaint",
+        "Safe houses and transition services available province-wide"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/justice-and-public-safety",
+      "sourceLabel": "Prince Edward Island Domestic Violence Act / Criminal Code",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Can domestic violence charges proceed if a victim decides not to cooperate with prosecution?",
+        "options": [
+          "No \u2014 victim must testify",
+          "No \u2014 victim can always withdraw charges",
+          "Yes \u2014 the Crown may proceed independently in the public interest",
+          "Only if physical injury occurred"
+        ],
+        "correct": 2,
+        "explanation": "Crown prosecutors in Canada can and often do proceed with domestic violence charges independently of the victim's wishes, in the public interest."
+      }
+    },
+    {
+      "id": 39987,
+      "category": "criminal",
+      "severity": "high",
+      "icon": "\ud83d\udc41\ufe0f",
+      "title": "Criminal Harassment (Stalking)",
+      "subtitle": "Criminal Code s. 264 \u2014 Criminal harassment",
+      "fullDescription": "Criminal Code s. 264 prohibits criminal harassment (stalking): repeatedly following, communicating with, watching, or threatening a person causing them to reasonably fear for their safety. PEI courts issue peace bonds and restraining orders for criminal harassment cases. Maximum sentence is 10 years (indictable) or 18 months (summary).",
+      "penalty": "Summary: up to 18 months. Indictable: up to 10 years.",
+      "exceptions": [
+        "Reporting to police required; peace bonds (recognizance) available",
+        "Restraining orders available through provincial family/civil courts",
+        "Digital/online stalking (cyberstalking) covered"
+      ],
+      "source": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
+      "sourceLabel": "Criminal Code s. 264",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What is the maximum penalty for criminal harassment (stalking) in Canada?",
+        "options": [
+          "2 years",
+          "5 years",
+          "10 years",
+          "Life imprisonment"
+        ],
+        "correct": 2,
+        "explanation": "Criminal harassment under Criminal Code s. 264 carries a maximum of 10 years when prosecuted by indictment."
+      }
+    },
+    {
+      "id": 39988,
+      "category": "privacy",
+      "severity": "high",
+      "icon": "\ud83d\udd10",
+      "title": "Privacy Law \u2014 PIPEDA (federal)",
+      "subtitle": "PIPEDA \u2014 No substantially similar law \u2014 PIPEDA applies",
+      "fullDescription": "Federal PIPEDA (Personal Information Protection and Electronic Documents Act) governs private-sector data collection nationally. Prince Edward Island: PEI has no substantially similar private-sector privacy law; PIPEDA applies. Individuals have rights to access and correct personal information held by organizations.",
+      "penalty": "Non-compliance: OPC investigation, orders to comply, fines (modernized under Bill C-27 if passed).",
+      "exceptions": [
+        "PIPEDA applies as no substantially similar provincial law",
+        "Public sector (government) covered by separate Access to Information / Privacy Acts",
+        "Health information may be covered by separate provincial health privacy laws"
+      ],
+      "source": "https://www.priv.gc.ca",
+      "sourceLabel": "PIPEDA (federal)",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Does Prince Edward Island have its own private-sector privacy law that meets the federal PIPEDA standard?",
+        "options": [
+          "Yes \u2014 PEI has its own law",
+          "No \u2014 PIPEDA applies",
+          "No law at all",
+          "Only GDPR"
+        ],
+        "correct": 1,
+        "explanation": "PEI has no substantially similar private-sector privacy law; PIPEDA applies to PEI organizations."
+      }
+    },
+    {
+      "id": 39989,
+      "category": "privacy",
+      "severity": "medium",
+      "icon": "\ud83d\udcf1",
+      "title": "Social Media Age Verification",
+      "subtitle": "No specific law \u2014 Emerging legislation",
+      "fullDescription": "Prince Edward Island: No PEI-specific social media age verification law. Age verification for social media is an emerging area; as of 2024 there is no comprehensive Canadian federal or provincial law, though Bill S-210 (federal) proposed age verification for sexually explicit content.",
+      "penalty": "Varies \u2014 emerging area.",
+      "exceptions": [
+        "Federal Bill S-210 proposed age verification for explicit content",
+        "Platforms may self-regulate under terms of service",
+        "Privacy considerations complicate mandatory age verification"
+      ],
+      "source": "https://www.canada.ca",
+      "sourceLabel": "Prince Edward Island / Federal Government",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "As of 2024, does Canada have a comprehensive national law requiring age verification for social media?",
+        "options": [
+          "Yes \u2014 federal law since 2022",
+          "Yes \u2014 all provinces have such laws",
+          "No \u2014 no comprehensive national law exists yet",
+          "Yes \u2014 CRTC regulates this"
+        ],
+        "correct": 2,
+        "explanation": "As of 2024, Canada lacks a comprehensive national age verification law for social media. Various proposals (e.g., Bill S-210 for explicit content) are under discussion."
+      }
+    },
+    {
+      "id": 39990,
+      "category": "environment",
+      "severity": "high",
+      "icon": "\ud83c\udf3f",
+      "title": "Environmental Protection \u2014 Federal & Provincial",
+      "subtitle": "CEPA 1999 + Environmental Protection Act (PEI) \u2014 Shared jurisdiction",
+      "fullDescription": "Environmental regulation in Canada is shared between federal (CEPA 1999 \u2014 Canadian Environmental Protection Act) and provincial governments. Prince Edward Island: PEI's Environmental Protection Act governs pollution. PEI has ambitious environmental goals given its agricultural/tourism economy. Federal law governs interprovincial/international pollution; provinces manage local environment.",
+      "penalty": "CEPA violations: up to $1M/day (corporations) or $250K (individuals). Provincial penalties vary.",
+      "exceptions": [
+        "Federal environmental assessment applies to designated projects",
+        "Provinces may set stricter standards than federal minimums",
+        "Indigenous consultation required for major projects under UNDRIP/Haida Nation"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/environment-energy-and-climate-action",
+      "sourceLabel": "CEPA 1999 / Prince Edward Island Environment",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "How is environmental jurisdiction divided in Canada?",
+        "options": [
+          "Entirely federal",
+          "Entirely provincial",
+          "Shared \u2014 federal handles inter-jurisdictional/toxic substances; provinces handle local environment",
+          "Entirely municipal"
+        ],
+        "correct": 2,
+        "explanation": "Environmental regulation in Canada is shared: the federal CEPA handles toxic substances and interprovincial issues; provinces regulate local environmental matters."
+      }
+    },
+    {
+      "id": 39991,
+      "category": "environment",
+      "severity": "medium",
+      "icon": "\u26a1",
+      "title": "Renewable Energy \u2014 Prince Edward Island's Grid",
+      "subtitle": "Electric Power Act (PEI) / Maritime Electric \u2014 Growing renewables \u2014 wind dominant",
+      "fullDescription": "Prince Edward Island: PEI generates approximately 30% of electricity from wind (highest per capita wind penetration in North America). The province imports significant power from the mainland. Federal Clean Electricity Regulations (proposed) aim for a net-zero grid by 2035. Provincial grids vary widely in carbon intensity.",
+      "penalty": "Non-compliance with renewable portfolio standards: penalties vary by province.",
+      "exceptions": [
+        "Federal carbon pricing backstop applies where provincial system insufficient",
+        "Interprovincial electricity trade governed by federal jurisdiction",
+        "Offshore wind and tidal power remain emerging sectors"
+      ],
+      "source": "https://www.irac.pe.ca",
+      "sourceLabel": "Prince Edward Island Energy Ministry",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Approximately what percentage of Prince Edward Island's electricity comes from renewable/non-emitting sources?",
+        "options": [
+          "~10%",
+          "~30% (local wind; much imported)",
+          "~60%",
+          "~80%"
+        ],
+        "correct": 1,
+        "explanation": "Approximately ~30% (local wind; much imported) of Prince Edward Island's electricity generation comes from renewable or non-emitting sources."
+      }
+    },
+    {
+      "id": 39992,
+      "category": "environment",
+      "severity": "medium",
+      "icon": "\ud83d\udecd\ufe0f",
+      "title": "Single-Use Plastics \u2014 Federal & Provincial Bans",
+      "subtitle": "Single-use Plastics Prohibition Regulations (SOR/2022-138) \u2014 Federal ban",
+      "fullDescription": "Canada's federal Single-use Plastics Prohibition Regulations (2022) banned checkout bags, cutlery, stir sticks, straws (with exceptions), six-pack rings, and food service containers made with problematic plastics. Prince Edward Island: PEI adopted the federal single-use plastics ban and has provincial programs. PEI banned plastic grocery bags provincially in 2019.",
+      "penalty": "Federal violations: fines up to $1M (first offence). Provincial penalties additional.",
+      "exceptions": [
+        "Medical straws still available",
+        "Reusable bags, cutlery, and containers permitted",
+        "Provinces may add additional restrictions"
+      ],
+      "source": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2022-138/",
+      "sourceLabel": "Federal Single-use Plastics Regulations / Province",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "When did Canada's federal ban on many single-use plastics take effect?",
+        "options": [
+          "2018",
+          "2020",
+          "2022",
+          "2025"
+        ],
+        "correct": 2,
+        "explanation": "Canada's federal Single-use Plastics Prohibition Regulations took effect in 2022, banning checkout bags, straws, cutlery, and more."
+      }
+    },
+    {
+      "id": 39993,
+      "category": "environment",
+      "severity": "low",
+      "icon": "\u267b\ufe0f",
+      "title": "Beverage Container Deposit System",
+      "subtitle": "Environmental Protection Act / PEI Deposit Refund \u2014 Deposit-return system",
+      "fullDescription": "Prince Edward Island: PEI has a beverage container deposit-return program through PEI Deposit Refund covering most beverage containers. Deposit-return systems incentivize recycling of beverage containers.",
+      "penalty": "Retailers accepting containers without paying deposit: fines.",
+      "exceptions": [
+        "Program may be administered by industry or government",
+        "Deposits vary by container type and size",
+        "Not all container types included in all provinces"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/environment-energy-and-climate-action",
+      "sourceLabel": "Prince Edward Island Beverage Container Program",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Does Prince Edward Island have a beverage container deposit-return system?",
+        "options": [
+          "No",
+          "Yes \u2014 small deposit on select containers",
+          "Yes",
+          "N/A"
+        ],
+        "correct": 2,
+        "explanation": "PEI has a deposit-return system for beverage containers. PEI also banned plastic bags in 2019."
+      }
+    },
+    {
+      "id": 39994,
+      "category": "animal_welfare",
+      "severity": "high",
+      "icon": "\ud83d\udc3e",
+      "title": "Animal Cruelty \u2014 Criminal Code & Provincial Law",
+      "subtitle": "Criminal Code ss. 444\u2013447 + Animal Welfare Act (PEI) \u2014 Dual protection",
+      "fullDescription": "Animal cruelty is addressed by both federal Criminal Code (ss. 444\u2013447) and provincial legislation. Prince Edward Island: PEI's Animal Welfare Act prohibits cruelty and neglect. PEI SPCA enforces. Criminal Code amendments in Bill C-84 (2019) strengthened anti-bestiality and animal fighting provisions.",
+      "penalty": "Up to $7,500 fine.",
+      "exceptions": [
+        "Veterinary procedures and regulated farming practices exempt",
+        "Hunting and fishing with valid licences exempt",
+        "Scientific research with ethics approval exempt"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/justice-and-public-safety",
+      "sourceLabel": "Criminal Code / Prince Edward Island SPCA Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "How is animal cruelty law structured in Canada?",
+        "options": [
+          "Only federal law applies",
+          "Only provincial law applies",
+          "Both federal (Criminal Code) and provincial laws apply",
+          "Animal cruelty is not regulated"
+        ],
+        "correct": 2,
+        "explanation": "Animal cruelty is governed by both federal Criminal Code provisions and provincial statutes, providing overlapping protections."
+      }
+    },
+    {
+      "id": 39995,
+      "category": "animal_welfare",
+      "severity": "medium",
+      "icon": "\ud83d\udc06",
+      "title": "Exotic & Dangerous Pets",
+      "subtitle": "Wildlife Conservation Act (PEI) \u2014 Regulated",
+      "fullDescription": "Prince Edward Island: PEI prohibits keeping most wildlife without permits. Dangerous exotic animals are restricted. CITES (Convention on International Trade in Endangered Species) governs importation federally.",
+      "penalty": "Keeping prohibited species: fines + seizure of animal.",
+      "exceptions": [
+        "Licensed zoos and wildlife facilities exempt",
+        "Research institutions with permits exempt",
+        "CITES-listed species require federal import permits regardless of provincial rules"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/fish-wildlife-and-environment",
+      "sourceLabel": "Prince Edward Island Wildlife / CITES",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Are dangerous exotic animals (lions, tigers, large primates) generally legal as pets in Prince Edward Island?",
+        "options": [
+          "Yes \u2014 no restrictions",
+          "Yes \u2014 with a simple licence",
+          "No or heavily restricted \u2014 dangerous exotic animals prohibited or tightly controlled",
+          "Only in rural areas"
+        ],
+        "correct": 2,
+        "explanation": "In Prince Edward Island, dangerous exotic animals are generally prohibited or require special permits. Most provinces ban large predators and primates as pets."
+      }
+    },
+    {
+      "id": 39996,
+      "category": "public_safety",
+      "severity": "medium",
+      "icon": "\ud83c\udf86",
+      "title": "Fireworks \u2014 Consumer Regulations",
+      "subtitle": "Explosives Act (federal) + Fire Prevention Act / Municipal by-laws \u2014 Permits often required",
+      "fullDescription": "Consumer fireworks (F1 class) are legal across Canada for adults. Display fireworks require a federal permit. Prince Edward Island: Consumer fireworks permitted for adults; municipal restrictions apply in many communities.",
+      "penalty": "Consumer fireworks violations: municipal fines. Display without permit: federal penalty.",
+      "exceptions": [
+        "Professional display fireworks require permit and certified operator",
+        "Municipal bylaws may restrict use to specific dates/locations",
+        "F1 (lowest hazard) consumer fireworks widely available"
+      ],
+      "source": "https://www.princeedwardisland.ca/en/information/public-safety",
+      "sourceLabel": "Prince Edward Island Fire Safety / Explosives Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "What category of fireworks do Canadians need a federal permit to use?",
+        "options": [
+          "All fireworks",
+          "Only sparklers",
+          "Display/professional fireworks (F2 and above)",
+          "No fireworks require a permit"
+        ],
+        "correct": 2,
+        "explanation": "Consumer fireworks (F1 class) can be used without a federal permit, but display fireworks require a permit under the federal Explosives Act."
+      }
+    },
+    {
+      "id": 39997,
+      "category": "gambling",
+      "severity": "medium",
+      "icon": "\ud83c\udfb0",
+      "title": "Gambling \u2014 Provincial Monopoly",
+      "subtitle": "Gaming Control Act (PEI) \u2014 Provinces control gambling",
+      "fullDescription": "Under the Criminal Code (s. 207), provinces have exclusive authority to license and conduct gambling within their borders. Prince Edward Island: The Atlantic Lottery Corporation and PEILCC manage gaming in PEI. Sports betting through provincial platforms. Online gambling is permitted through provincially operated platforms (e.g., OLG, PlayNow, Loto-Qu\u00e9bec).",
+      "penalty": "Illegal gambling operations: Criminal Code ss. 201\u2013206, up to 2 years.",
+      "exceptions": [
+        "Private/social gambling among friends (no rake) generally not criminal",
+        "Federally regulated horse racing",
+        "First Nations may operate gaming on reserve under provincial agreements"
+      ],
+      "source": "https://www.peilcc.ca",
+      "sourceLabel": "Prince Edward Island Gaming Authority",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Under Canadian law, which level of government controls and licenses gambling?",
+        "options": [
+          "Federal government",
+          "Municipalities",
+          "Provincial governments",
+          "A joint federal-provincial authority"
+        ],
+        "correct": 2,
+        "explanation": "Criminal Code s. 207 gives provinces exclusive authority to operate and license gambling within their borders."
+      }
+    },
+    {
+      "id": 39998,
+      "category": "technology",
+      "severity": "medium",
+      "icon": "\ud83c\udf10",
+      "title": "Net Neutrality \u2014 CRTC Regulation",
+      "subtitle": "Telecommunications Act + CRTC 2017-104 \u2014 Net neutrality upheld",
+      "fullDescription": "Net neutrality in Canada is enforced by the CRTC (Canadian Radio-television and Telecommunications Commission) under the Telecommunications Act. The CRTC's 2017 decision (2017-104) found differential pricing practices (zero-rating) that favour certain content to be unjust discrimination. PEI benefits from federal CRTC net neutrality protections.",
+      "penalty": "Non-compliant ISPs: CRTC orders, fines under Telecom Act.",
+      "exceptions": [
+        "CRTC may grant exemptions for technical traffic management practices",
+        "Internet service is regulated federally \u2014 provinces have no separate net neutrality laws",
+        "Differential pricing decisions reviewed case-by-case"
+      ],
+      "source": "https://crtc.gc.ca/eng/publications/reports/PolicyMonitoring/2017/ppr2.htm",
+      "sourceLabel": "CRTC / Telecommunications Act",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Which body enforces net neutrality rules in Canada?",
+        "options": [
+          "RCMP",
+          "Parliament directly",
+          "CRTC (Canadian Radio-television and Telecommunications Commission)",
+          "Provincial telecom regulators"
+        ],
+        "correct": 2,
+        "explanation": "The CRTC regulates telecommunications in Canada and enforces net neutrality principles under the Telecommunications Act."
+      }
+    },
+    {
+      "id": 39999,
+      "category": "technology",
+      "severity": "medium",
+      "icon": "\ud83d\udd27",
+      "title": "Right to Repair \u2014 Emerging Legislation",
+      "subtitle": "Federal Bill C-244 (2023) \u2014 Limited \u2014 federal copyright exception",
+      "fullDescription": "Prince Edward Island: No PEI-specific right-to-repair legislation. Canada is behind the EU and some US states on right-to-repair legislation. Federal Bill C-244 (2022) created a copyright exception for device diagnosis/repair but has not advanced.",
+      "penalty": "Varies \u2014 emerging area.",
+      "exceptions": [
+        "Bill C-244 passed in 2023 \u2014 copyright exception for repair diagnostic tools",
+        "Agricultural equipment repairs may have specific provisions",
+        "Manufacturers still often restrict authorized repair networks"
+      ],
+      "source": "https://www.parl.ca",
+      "sourceLabel": "Federal / Prince Edward Island",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "Did Canada pass any right-to-repair legislation at the federal level as of 2024?",
+        "options": [
+          "Yes \u2014 comprehensive right to repair law",
+          "Yes \u2014 Bill C-244 created a copyright exception for device repair",
+          "No legislation at all",
+          "Only Quebec has right to repair"
+        ],
+        "correct": 1,
+        "explanation": "Bill C-244 (2023) created a copyright exception allowing repair of devices for diagnostic/maintenance purposes \u2014 a limited but real step toward right to repair in Canada."
+      }
+    },
+    {
+      "id": 40000,
+      "category": "civil_rights",
+      "severity": "high",
+      "icon": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "title": "LGBTQ+ Rights \u2014 Human Rights & Beyond",
+      "subtitle": "Human Rights Act (PEI) + Canadian Human Rights Act \u2014 Comprehensive protections",
+      "fullDescription": "Canada has some of the world's strongest LGBTQ+ legal protections. The Canadian Human Rights Act and all provincial human rights codes prohibit discrimination based on sexual orientation and gender identity. Same-sex marriage has been legal nationwide since 2005 (Civil Marriage Act). Prince Edward Island: PEI Human Rights Act has protected sexual orientation since 1998 and gender identity since 2013. Conversion therapy banned federally 2022.",
+      "penalty": "Discrimination: human rights complaints, damages, reinstatement. Conversion therapy (federally banned 2022): up to 5 years imprisonment.",
+      "exceptions": [
+        "Conversion therapy banned federally (Bill C-4, 2022)",
+        "Transgender persons can change legal gender federally without surgery (Bill C-16, 2017)",
+        "Religious/educational institutions may claim limited exemptions in some provinces"
+      ],
+      "source": "https://www.peihumanrights.ca",
+      "sourceLabel": "Prince Edward Island Human Rights Code / Federal",
+      "lastUpdated": "2024",
+      "quiz": {
+        "q": "When did same-sex marriage become legal across all of Canada?",
+        "options": [
+          "1999",
+          "2003",
+          "2005",
+          "2008"
+        ],
+        "correct": 2,
+        "explanation": "Canada legalized same-sex marriage nationwide through the Civil Marriage Act in 2005, making it one of the first countries to do so."
+      }
+    }
+  ]
+}

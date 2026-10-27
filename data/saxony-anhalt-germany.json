@@ -1,0 +1,1507 @@
+{
+  "country": "Saxony-Anhalt, Germany",
+  "slug": "saxony-anhalt-germany",
+  "laws": [
+    {
+      "id": 42201,
+      "category": "Constitutional Law",
+      "severity": "critical",
+      "icon": "⚖️",
+      "title": "Verfassung des Landes Sachsen-Anhalt 1992",
+      "subtitle": "State constitution establishing parliamentary democracy and social rights",
+      "fullDescription": "Saxony-Anhalt adopted its Verfassung on 16 July 1992. It includes environmental protection as a state objective (Art. 35), social rights to work and housing (Art. 38–39), and establishes the Landesverfassungsgericht Sachsen-Anhalt. Saxony-Anhalt was formed in 1990 by merging former GDR districts of Halle and Magdeburg.",
+      "penalty": "Constitutional violations reviewed by Landesverfassungsgericht; laws may be declared void",
+      "exceptions": ["Federal constitutional law takes precedence under Art. 31 GG"],
+      "source": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-VerfSTrahmen",
+      "sourceLabel": "Verfassung Sachsen-Anhalt 1992",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "From which former GDR districts was Saxony-Anhalt formed at reunification in 1990?",
+        "options": ["Dresden and Leipzig", "Halle and Magdeburg", "Erfurt and Gera", "Rostock and Schwerin"],
+        "correct": 1,
+        "explanation": "Saxony-Anhalt was formed in 1990 by merging the former GDR administrative districts of Halle and Magdeburg."
+      }
+    },
+    {
+      "id": 42202,
+      "category": "Cultural Heritage Law",
+      "severity": "high",
+      "icon": "🏰",
+      "title": "Luthergedenkstätten – UNESCO Welterbe & DSchG LSA",
+      "subtitle": "Luther memorials in Wittenberg and Eisleben protected as UNESCO World Heritage",
+      "fullDescription": "The Luther Memorials in Eisleben (birthplace and death house) and Wittenberg (Lutherhaus, Schlosskirche) were designated UNESCO World Heritage in 1996. They are protected under the Denkmalschutzgesetz Sachsen-Anhalt (DSchG LSA). Martin Luther's 95 Theses were posted at Wittenberg's Schlosskirche in 1517, triggering the Protestant Reformation.",
+      "penalty": "Unauthorized alterations to UNESCO monuments: fines up to €500,000 under §17 DSchG LSA",
+      "exceptions": ["Emergency structural repairs may proceed with retroactive permit under §9 DSchG LSA"],
+      "source": "https://whc.unesco.org/en/list/783",
+      "sourceLabel": "UNESCO WHC / DSchG LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year did Luther post his 95 Theses at Wittenberg's Schlosskirche, triggering the Reformation?",
+        "options": ["1483", "1517", "1555", "1618"],
+        "correct": 1,
+        "explanation": "Martin Luther posted his 95 Theses at the Schlosskirche in Wittenberg on 31 October 1517, an act that triggered the Protestant Reformation."
+      }
+    },
+    {
+      "id": 42203,
+      "category": "Chemical Industry Law",
+      "severity": "critical",
+      "icon": "⚗️",
+      "title": "Chemiedreieck Leuna/Bitterfeld – SEVESO III & REACH",
+      "subtitle": "Germany's largest chemical complex under major accident and chemical law",
+      "fullDescription": "The chemical triangle (Chemisches Dreieck) around Leuna, Bitterfeld-Wolfen, and Schkopau is one of Europe's largest chemical production clusters, employing ~25,000 people. InfraLeuna hosts 100+ companies. Operations are subject to SEVESO III Directive (2012/18/EU), REACH (EU 1907/2006), and BImSchG. Bitterfeld was one of Europe's most polluted sites during the GDR era — remediation costs exceeded €3bn.",
+      "penalty": "SEVESO III violations: criminal prosecution under §327 StGB; BImSchG breaches: fines up to €50,000",
+      "exceptions": ["Research quantities of REACH substances below threshold volumes exempt from full registration"],
+      "source": "https://www.infraleuna.de",
+      "sourceLabel": "SEVESO III 2012/18/EU / REACH / BImSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much did the post-GDR environmental remediation of Bitterfeld cost approximately?",
+        "options": ["€300M", "€1bn", "€3bn", "€10bn"],
+        "correct": 2,
+        "explanation": "Remediation of Bitterfeld, once Europe's most polluted industrial site, cost over €3bn after German reunification."
+      }
+    },
+    {
+      "id": 42204,
+      "category": "Cultural Heritage Law",
+      "severity": "high",
+      "icon": "🏛️",
+      "title": "Bauhaus Dessau – UNESCO Welterbe 1996",
+      "subtitle": "Modernist design school buildings protected as World Heritage",
+      "fullDescription": "The Bauhaus Dessau building (Walter Gropius, 1925–26) and Masters' Houses are UNESCO World Heritage Sites (1996, shared with Weimar and Bernau). Protected under DSchG LSA, the Stiftung Bauhaus Dessau operates the site. The Bauhaus (1919–1933) revolutionized modern design, architecture, and art education. The building is one of the most important 20th-century architectural works.",
+      "penalty": "Unauthorized alterations: fines up to €500,000; criminal liability for severe damage under §304 StGB",
+      "exceptions": ["Conservation work by approved specialists exempt from standard permit timelines"],
+      "source": "https://whc.unesco.org/en/list/729",
+      "sourceLabel": "UNESCO WHC / DSchG LSA / Stiftung Bauhaus",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year was the Bauhaus Dessau building constructed?",
+        "options": ["1919", "1921", "1925", "1933"],
+        "correct": 2,
+        "explanation": "The Bauhaus Dessau building, designed by Walter Gropius, was constructed in 1925–26 and is now a UNESCO World Heritage Site."
+      }
+    },
+    {
+      "id": 42205,
+      "category": "Mining Law",
+      "severity": "high",
+      "icon": "⛏️",
+      "title": "Mitteldeutsches Braunkohlerevier – MIBRAG & BBergG",
+      "subtitle": "Central German lignite mining under phase-out schedule",
+      "fullDescription": "Mitteldeutsche Braunkohlengesellschaft (MIBRAG) operates open-cast lignite mines in Saxony-Anhalt and neighboring states under BBergG mining law. Phase-out by 2035 (accelerated from 2038) under the Kohleausstiegsgesetz 2020. MIBRAG employs ~3,300 workers. Structural aid from Strukturstärkungsgesetz includes federal investments in the Halle/Leipzig area.",
+      "penalty": "BBergG violations: fines up to €100,000; illegal mining: criminal prosecution under §§406-408 BBergG",
+      "exceptions": ["Emergency extraction for grid stability may continue beyond phase-out with federal approval"],
+      "source": "https://www.mibrag.de",
+      "sourceLabel": "BBergG / Kohleausstiegsgesetz 2020",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By what year must MIBRAG's central German lignite operations phase out under the accelerated schedule?",
+        "options": ["2030", "2035", "2038", "2045"],
+        "correct": 1,
+        "explanation": "The accelerated Kohleausstieg timeline requires central German lignite operations including MIBRAG to cease by 2035."
+      }
+    },
+    {
+      "id": 42206,
+      "category": "Broadcasting Law",
+      "severity": "medium",
+      "icon": "📺",
+      "title": "MDR Sachsen-Anhalt – Rundfunkstaatsvertrag",
+      "subtitle": "MDR serves Saxony-Anhalt jointly with Saxony and Thuringia",
+      "fullDescription": "Saxony-Anhalt is part of the MDR broadcasting area (Mitteldeutscher Rundfunk), the joint ARD broadcaster for the three states. The Landesrundfunkzentrale Sachsen-Anhalt (LMK-SA equivalent: MLM) supervises private broadcasters under MStV 2020. Saxony-Anhalt contributes proportionally to MDR's ~€650M annual budget via the €18.36/month Rundfunkbeitrag.",
+      "penalty": "Rundfunkbeitrag evasion: enforcement via Rundfunkbeitragsservice; fines for persistent refusal",
+      "exceptions": ["Households receiving ALG II/Bürgergeld may apply for full exemption"],
+      "source": "https://www.mdr.de",
+      "sourceLabel": "MDR-Staatsvertrag / MStV 2020",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the monthly Rundfunkbeitrag (broadcasting fee) per household in Germany as of 2024?",
+        "options": ["€14.50", "€17.50", "€18.36", "€21.00"],
+        "correct": 2,
+        "explanation": "The monthly Rundfunkbeitrag is €18.36 per household, shared across all ARD, ZDF, and Deutschlandradio broadcasters."
+      }
+    },
+    {
+      "id": 42207,
+      "category": "Agricultural Law",
+      "severity": "medium",
+      "icon": "🌾",
+      "title": "Sachsen-Anhalt Agrarstruktur – Größte Betriebe Deutschlands",
+      "subtitle": "Germany's largest average farm size from GDR collectivization legacy",
+      "fullDescription": "Saxony-Anhalt has Germany's largest average farm size (~240 ha), a direct consequence of GDR collectivization. ~1.2M ha of agricultural land is farmed by ~4,400 operations. The Bodenreform (1945–1949) redistributed 3M+ ha from large estates to farmers, then collectivized into LPGs (Landwirtschaftliche Produktionsgenossenschaften). EU CAP payments: ~€350M/year.",
+      "penalty": "EU subsidy fraud: full repayment plus 50% penalty; criminal prosecution under §264 StGB",
+      "exceptions": ["Young farmer premiums (EU GAP) available for operators under 40 entering agriculture"],
+      "source": "https://www.sachsen-anhalt.de/landwirtschaft",
+      "sourceLabel": "EU GAP / InVeKoS",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Saxony-Anhalt's average farm size, the largest in Germany?",
+        "options": ["45 ha", "125 ha", "240 ha", "500 ha"],
+        "correct": 2,
+        "explanation": "Saxony-Anhalt's average farm size is approximately 240 ha — Germany's largest — due to GDR collectivization creating large agricultural structures."
+      }
+    },
+    {
+      "id": 42208,
+      "category": "Education Law",
+      "severity": "medium",
+      "icon": "🎓",
+      "title": "Martin-Luther-Universität Halle-Wittenberg – HSG LSA",
+      "subtitle": "One of Germany's oldest universities under state higher education law",
+      "fullDescription": "Martin-Luther-Universität Halle-Wittenberg (MLU), founded 1694 in Halle (merged with Wittenberg 1817), has ~20,000 students across 9 faculties. It operates under the Hochschulgesetz Sachsen-Anhalt (HSG LSA). MLU is notable for pharmaceutical sciences (home of the Leopoldina — Germany's oldest science academy, founded 1652, now national academy of science).",
+      "penalty": "Degree fraud: up to 3 years under §132a StGB; plagiarism: degree revocation under §22 HSG LSA",
+      "exceptions": ["Gastprofessoren (visiting professors) may teach without full Habilitation under §33 HSG LSA"],
+      "source": "https://www.uni-halle.de",
+      "sourceLabel": "HSG LSA / MLU",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year was the Leopoldina — Germany's national academy of science, based in Halle — founded?",
+        "options": ["1592", "1652", "1694", "1817"],
+        "correct": 1,
+        "explanation": "The Leopoldina was founded in 1652, making it Germany's oldest continuously operating learned society and now its national academy of sciences."
+      }
+    },
+    {
+      "id": 42209,
+      "category": "Environmental Law",
+      "severity": "high",
+      "icon": "🌿",
+      "title": "Biosphärenreservat Mittelelbe – UNESCO & BNatSchG",
+      "subtitle": "Elbe floodplain biosphere reserve protecting unique riparian ecosystems",
+      "fullDescription": "The Biosphärenreservat Mittelelbe (UNESCO, 1979 — one of Germany's first) covers ~125,000 ha of Elbe floodplains in Saxony-Anhalt. It is part of the cross-border UNESCO Biosphärenreservat Flusslandschaft Elbe (Germany, 2002). Management under BNatSchG and SächsAN-NatSchG protects the largest near-natural floodplain forest in Central Europe.",
+      "penalty": "Prohibited activities in core zone: fines up to €50,000; criminal prosecution for severe habitat destruction",
+      "exceptions": ["Traditional land uses (hay cutting, grazing) permitted in buffer zone under management plans"],
+      "source": "https://www.biosphaerenreservat-mittelelbe.de",
+      "sourceLabel": "BNatSchG / UNESCO Biosphere",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was Biosphärenreservat Mittelelbe designated, making it one of Germany's first UNESCO biosphere reserves?",
+        "options": ["1970", "1979", "1992", "2002"],
+        "correct": 1,
+        "explanation": "Biosphärenreservat Mittelelbe was designated a UNESCO Biosphere Reserve in 1979, among the first in Germany."
+      }
+    },
+    {
+      "id": 42210,
+      "category": "Police Law",
+      "severity": "high",
+      "icon": "👮",
+      "title": "SOG LSA – Sicherheits- und Ordnungsgesetz",
+      "subtitle": "Police and public order law for ~7,700 officers",
+      "fullDescription": "The Gesetz über die öffentliche Sicherheit und Ordnung des Landes Sachsen-Anhalt (SOG LSA) governs police powers including preventive detention (up to 14 days), surveillance, and data processing. Saxony-Anhalt Police (Polizei Sachsen-Anhalt) has ~7,700 officers for 2.2M inhabitants. The state has above-average rates of property crime and right-wing extremism.",
+      "penalty": "Preventive detention: up to 14 days with judicial review; resisting police: up to 3 years under §113 StGB",
+      "exceptions": ["Police entry into dwellings (§29 SOG LSA) requires judicial warrant except in imminent danger"],
+      "source": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-SOGLST2013rahmen",
+      "sourceLabel": "SOG LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum preventive detention period under SOG LSA?",
+        "options": ["48 hours", "7 days", "14 days", "30 days"],
+        "correct": 2,
+        "explanation": "SOG LSA permits preventive detention (Ingewahrsamnahme) for up to 14 days, subject to judicial review."
+      }
+    },
+    {
+      "id": 42211,
+      "category": "Healthcare Law",
+      "severity": "high",
+      "icon": "🏥",
+      "title": "KHG Sachsen-Anhalt – 46 Krankenhäuser",
+      "subtitle": "Hospital planning law for Saxony-Anhalt's shrinking hospital network",
+      "fullDescription": "The Krankenhausgesetz Sachsen-Anhalt (KHGSA) governs 46 hospitals with ~11,000 beds. Universitätsklinikum Halle (UKH) and Otto-von-Guericke Universitätsklinikum Magdeburg are the two academic hospitals. Rural hospital closures due to demographic decline and financial pressures have been a major policy issue — 30+ hospitals closed since 1990.",
+      "penalty": "Operating unapproved hospital facilities: criminal prosecution and immediate closure",
+      "exceptions": ["Medizinische Versorgungszentren (MVZ) operate under SGB V with different licensing"],
+      "source": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-KHGSTrahmen",
+      "sourceLabel": "KHGSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many hospitals have closed in Saxony-Anhalt approximately since 1990?",
+        "options": ["5", "15", "30+", "60+"],
+        "correct": 2,
+        "explanation": "Over 30 hospitals have closed in Saxony-Anhalt since 1990, driven by demographic decline and financial pressures in a shrinking population."
+      }
+    },
+    {
+      "id": 42212,
+      "category": "Cultural Heritage Law",
+      "severity": "high",
+      "icon": "🕌",
+      "title": "Naumburger Dom – UNESCO Welterbe 2018",
+      "subtitle": "Medieval cathedral with unique Uta sculpture protected under DSchG LSA",
+      "fullDescription": "Naumburg Cathedral (Naumburger Dom) was inscribed as UNESCO World Heritage in 2018 for its unique 13th-century sculptural program, particularly the founder figures including the famous Uta von Naumburg. The cathedral is protected under DSchG LSA. The Naumburg Master's sculptures are considered masterworks of medieval Western art.",
+      "penalty": "Unauthorized alterations: fines up to €500,000; vandalism of UNESCO monuments: §304 StGB",
+      "exceptions": ["Religious services and normal liturgical use not restricted by heritage designation"],
+      "source": "https://whc.unesco.org/en/list/1586",
+      "sourceLabel": "UNESCO WHC 2018 / DSchG LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year was Naumburg Cathedral inscribed as a UNESCO World Heritage Site?",
+        "options": ["1996", "2004", "2012", "2018"],
+        "correct": 3,
+        "explanation": "Naumburg Cathedral was inscribed as a UNESCO World Heritage Site in 2018, recognized for its exceptional 13th-century sculptural program."
+      }
+    },
+    {
+      "id": 42213,
+      "category": "Fiscal Law",
+      "severity": "high",
+      "icon": "💰",
+      "title": "Sachsen-Anhalt Schuldenbremse – Höchste Pro-Kopf-Verschuldung Ost",
+      "subtitle": "High per-capita debt despite constitutional debt brake",
+      "fullDescription": "Saxony-Anhalt has per-capita debt of ~€10,500 (among highest of eastern states). The Verfassung Art. 99 mirrors the federal Schuldenbremse (Art. 109 GG). The state received Konsolidierungshilfen (consolidation grants) of €80M/year 2011–2019 under the Stabilitätsrat framework. Länderfinanzausgleich transfers ~€900M/year to the state.",
+      "penalty": "Budget violations: subject to Stabilitätsrat sanctions and constitutional review",
+      "exceptions": ["Natural disaster emergency credits permitted with Landtag approval and repayment schedule"],
+      "source": "https://www.sachsen-anhalt.de/finanzen",
+      "sourceLabel": "Art. 99 LSA-Verfassung / Stabilitätsrat",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how much does Saxony-Anhalt receive annually through the Länderfinanzausgleich?",
+        "options": ["€90M", "€300M", "€900M", "€3bn"],
+        "correct": 2,
+        "explanation": "Saxony-Anhalt receives approximately €900M annually through the horizontal Länderfinanzausgleich from wealthier German states."
+      }
+    },
+    {
+      "id": 42214,
+      "category": "Electoral Law",
+      "severity": "medium",
+      "icon": "🗳️",
+      "title": "Landtag Sachsen-Anhalt – 97 Sitze Wahlrecht",
+      "subtitle": "State parliament with minimum 97 seats, 5-year terms",
+      "fullDescription": "The Landtag Sachsen-Anhalt has a minimum of 97 seats elected every 5 years under the Landeswahlgesetz Sachsen-Anhalt (LWG LSA). The 2021 election saw CDU win 37.1%, AfD 20.8% — CDU formed coalition with SPD and FDP. Saxony-Anhalt was the first state where AfD became second-largest party (2016). Overhang mandates can increase seat count beyond 97.",
+      "penalty": "Electoral fraud: up to 5 years imprisonment under §107a StGB",
+      "exceptions": ["National minority parties (Sorbs) exempt from 5% threshold — not applicable in Saxony-Anhalt"],
+      "source": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-WahlGSTrahmen",
+      "sourceLabel": "LWG LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What CDU vote share won the 2021 Saxony-Anhalt Landtag election?",
+        "options": ["27.1%", "32.5%", "37.1%", "44.8%"],
+        "correct": 2,
+        "explanation": "The CDU won 37.1% in the 2021 Saxony-Anhalt Landtag election, forming a coalition with SPD and FDP."
+      }
+    },
+    {
+      "id": 42215,
+      "category": "Chemical Industry Law",
+      "severity": "high",
+      "icon": "🧪",
+      "title": "Dow Chemical Schkopau – BImSchG Ethylenproduktion",
+      "subtitle": "Major petrochemical complex under emission control law",
+      "fullDescription": "Dow Chemical's Schkopau site (formerly Buna-Werke, one of Germany's largest chemical plants in the GDR era) produces ethylene and polymers, employing ~2,000 workers. Operations under BImSchG emission permits, SEVESO III, and REACH. The site was privatized after 1990; the GDR-era Buna Werke was the largest synthetic rubber producer in Eastern Europe.",
+      "penalty": "BImSchG emission exceedances: fines up to €50,000/day; SEVESO violations: criminal prosecution under §327 StGB",
+      "exceptions": ["Planned maintenance periods with temporarily elevated emissions require advance notification to authority"],
+      "source": "https://www.dow.com/schkopau",
+      "sourceLabel": "BImSchG / SEVESO III / REACH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What was the GDR-era predecessor of the Dow Chemical Schkopau site?",
+        "options": ["Carl Zeiss Werke", "Buna-Werke", "Leuna-Werke", "Chemiewerk Bitterfeld"],
+        "correct": 1,
+        "explanation": "The Dow Chemical Schkopau site was formerly the Buna-Werke, the GDR's largest synthetic rubber producer and one of Eastern Europe's major chemical plants."
+      }
+    },
+    {
+      "id": 42216,
+      "category": "Water Law",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Saale-Unstrut Weinregion – WeinG & EU GI",
+      "subtitle": "Germany's northernmost and easternmost wine region under wine law",
+      "fullDescription": "Saale-Unstrut is Germany's northernmost (and among the easternmost) wine regions, with ~800 ha of vineyards. Protected under WeinG (Weingesetz) and EU wine regulation 1308/2013 as a Qualitätswein bestimmter Anbaugebiete (QbA). Müller-Thurgau and Weißburgunder are primary varieties. The steep Unstrut terraces require manual harvesting exemptions from standard mechanization rules.",
+      "penalty": "False geographic origin labeling: fines up to €50,000 under WeinG §50; EU GI infringement: injunctions",
+      "exceptions": ["Estate wines (Gutsabfüllung) may use additional quality designations under WeinG §24"],
+      "source": "https://www.saale-unstrut-wein.de",
+      "sourceLabel": "WeinG / EU 1308/2013",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the approximate size of the Saale-Unstrut wine region in Saxony-Anhalt?",
+        "options": ["80 ha", "300 ha", "800 ha", "3,000 ha"],
+        "correct": 2,
+        "explanation": "The Saale-Unstrut wine region covers approximately 800 ha, making it Germany's northernmost wine region."
+      }
+    },
+    {
+      "id": 42217,
+      "category": "Transport Law",
+      "severity": "medium",
+      "icon": "🚄",
+      "title": "Bahnknoten Halle/Leipzig – AEG & VDE 8 Neubaustrecke",
+      "subtitle": "High-speed rail corridor VDE 8 connecting Berlin to Munich via Halle",
+      "fullDescription": "The Verkehrsprojekt Deutsche Einheit Nr. 8 (VDE 8) high-speed rail line passes through Saxony-Anhalt connecting Berlin-Halle-Erfurt-München at up to 300 km/h. The Halle/Leipzig node is one of Germany's busiest rail junctions. Operations under AEG and EBO. The Neubaustrecke Erfurt–Halle/Leipzig opened 2015, reducing Berlin–Munich time to ~4 hours.",
+      "penalty": "Railway safety violations: prosecution by EBA; fines under EBO §62",
+      "exceptions": ["Test runs on new track sections may temporarily exceed normal speed limits under EBA permit"],
+      "source": "https://www.vde8.de",
+      "sourceLabel": "AEG / EBO / VDE 8",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year did the VDE 8 Neubaustrecke Erfurt–Halle/Leipzig open for high-speed service?",
+        "options": ["2006", "2010", "2015", "2020"],
+        "correct": 2,
+        "explanation": "The VDE 8 high-speed Neubaustrecke Erfurt–Halle/Leipzig opened in December 2015, cutting Berlin–Munich rail travel to about 4 hours."
+      }
+    },
+    {
+      "id": 42218,
+      "category": "Energy Law",
+      "severity": "high",
+      "icon": "💨",
+      "title": "Windenergie Sachsen-Anhalt – Spitzenreiter Pro Kopf",
+      "subtitle": "Germany's leading wind energy state per capita under EEG and BImSchG",
+      "fullDescription": "Saxony-Anhalt leads Germany in wind energy per capita, with ~3,000 MW installed capacity (1,000+ turbines) for 2.2M inhabitants. Wind energy projects require BImSchG permits (4. BImSchV Nr. 1.6) and comply with Windenergieerlass LSA. EEG feed-in tariffs apply. The flat terrain of the Magdeburger Börde and Altmark is ideal for wind energy.",
+      "penalty": "Operating turbines without BImSchG permit: immediate shutdown + fines up to €50,000",
+      "exceptions": ["Small turbines under 50kW in rural areas may use simplified GenehmigungsVO procedures"],
+      "source": "https://www.sachsen-anhalt.de/energie/windenergie",
+      "sourceLabel": "EEG / BImSchG / Windenergieerlass LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many wind turbines are installed in Saxony-Anhalt?",
+        "options": ["200", "500", "1,000+", "3,000"],
+        "correct": 2,
+        "explanation": "Saxony-Anhalt has over 1,000 wind turbines with approximately 3,000 MW installed capacity, leading Germany in wind energy per capita."
+      }
+    },
+    {
+      "id": 42219,
+      "category": "Social Law",
+      "severity": "high",
+      "icon": "👶",
+      "title": "KiföG LSA – Kinderförderungsgesetz Sachsen-Anhalt",
+      "subtitle": "Childcare law with GDR-legacy high coverage rates",
+      "fullDescription": "The Kinderförderungsgesetz Sachsen-Anhalt (KiföG LSA) provides childcare from age 1 with low parental fees. Coverage rate for under-3s is ~57% (among Germany's highest, inherited from GDR Krippenversorgung). ~1,800 Kitas serve 120,000 children. Saxony-Anhalt has one of Germany's lowest birth rates (total fertility rate ~1.3), making childcare quality critical for retention.",
+      "penalty": "Unlicensed childcare: immediate closure + fines up to €10,000 under §22 KiföG LSA",
+      "exceptions": ["Tagespflege (family day care) for up to 5 children under simplified registration"],
+      "source": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-KiFöGSTrahmen",
+      "sourceLabel": "KiföG LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Saxony-Anhalt's approximate total fertility rate, one of Germany's lowest?",
+        "options": ["0.9", "1.3", "1.6", "2.1"],
+        "correct": 1,
+        "explanation": "Saxony-Anhalt has a total fertility rate of approximately 1.3, among Germany's lowest, reflecting post-reunification demographic decline."
+      }
+    },
+    {
+      "id": 42220,
+      "category": "Data Protection Law",
+      "severity": "high",
+      "icon": "🔒",
+      "title": "LfD Sachsen-Anhalt – Landesdatenschutzgesetz",
+      "subtitle": "State GDPR implementation and independent supervisory authority",
+      "fullDescription": "The Landesbeauftragte für den Datenschutz Sachsen-Anhalt (LfD) supervises public authority data processing under the Datenschutzgesetz Sachsen-Anhalt (DSG LSA), which implements GDPR (EU 2016/679). Notable cases include scrutiny of IVAS (Ausländerdatei) immigration data systems and smart city monitoring in Magdeburg.",
+      "penalty": "GDPR violations: up to €20M or 4% global turnover under Art. 83 GDPR",
+      "exceptions": ["Journalistic/research data processing under §15 DSG LSA with reduced GDPR obligations"],
+      "source": "https://www.datenschutz.sachsen-anhalt.de",
+      "sourceLabel": "DSG LSA / GDPR",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under GDPR Art. 83(4), what is the maximum fine for less serious violations (e.g., records obligations)?",
+        "options": ["€500,000", "€2M", "€10M or 2% turnover", "€20M or 4% turnover"],
+        "correct": 2,
+        "explanation": "GDPR Art. 83(4) covers less serious violations with fines up to €10M or 2% of global annual turnover; Art. 83(5) covers more serious violations at €20M or 4%."
+      }
+    },
+    {
+      "id": 42221,
+      "category": "Heritage Law",
+      "severity": "medium",
+      "icon": "🔬",
+      "title": "Otto von Guericke – Vakuumpumpe & Technikrecht",
+      "subtitle": "Magdeburg's scientific heritage and technology law legacy",
+      "fullDescription": "Otto von Guericke (1602–1686), Mayor of Magdeburg and inventor of the vacuum pump, conducted the famous Magdeburg hemispheres experiment (1654). Magdeburg's Otto-von-Guericke-Universität (OVGU, founded 1993) is named after him. The Technikmuseum Magdeburg holds original apparatus. OVGU research in medical engineering operates under MPG (Medizinproduktegesetz) / MDR EU 2017/745.",
+      "penalty": "Medical device violations under MDR EU 2017/745: market withdrawal + fines up to €30,000",
+      "exceptions": ["Custom-made medical devices for individual patients exempt from full MDR conformity assessment"],
+      "source": "https://www.ovgu.de",
+      "sourceLabel": "MDR EU 2017/745 / OVGU",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What famous physics experiment did Otto von Guericke, Mayor of Magdeburg, conduct in 1654?",
+        "options": ["First electric motor", "Magdeburg hemispheres demonstrating vacuum", "First steam engine", "Electromagnetic induction"],
+        "correct": 1,
+        "explanation": "Otto von Guericke's 1654 Magdeburg hemispheres experiment, where teams of horses could not pull apart evacuated copper hemispheres, dramatically demonstrated the power of atmospheric pressure."
+      }
+    },
+    {
+      "id": 42222,
+      "category": "Criminal Law",
+      "severity": "critical",
+      "icon": "🔫",
+      "title": "Halle Anschlag 2019 – §211 StGB & Antisemitismusrecht",
+      "subtitle": "Yom Kippur synagogue attack triggers federal security review",
+      "fullDescription": "On 9 October 2019 (Yom Kippur), a right-wing extremist attacked Halle's synagogue and killed 2 people. The attacker was convicted of murder (§211 StGB) and attempted genocide with sentences of life imprisonment. The attack exposed security failures (synagogue unprotected despite threat warnings) and led to Bundesinnenministerium security reviews and strengthened hate crime legislation.",
+      "penalty": "Murder (§211 StGB): life imprisonment; hate crime aggravation under §46 Abs. 2 StGB increases sentences",
+      "exceptions": ["Diminished capacity (§21 StGB) may reduce sentence from life to defined term"],
+      "source": "https://www.bundesgerichtshof.de",
+      "sourceLabel": "§211 StGB / §46 StGB",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "On which Jewish holiday did the 2019 Halle synagogue attack occur?",
+        "options": ["Rosh Hashanah", "Yom Kippur", "Passover", "Hanukkah"],
+        "correct": 1,
+        "explanation": "The 2019 Halle synagogue attack occurred on Yom Kippur (9 October 2019), the holiest day in Judaism, when the perpetrator targeted worshippers."
+      }
+    },
+    {
+      "id": 42223,
+      "category": "Cultural Law",
+      "severity": "medium",
+      "icon": "🎵",
+      "title": "Händel-Festspiele Halle – Georg Friedrich Händel Geburtsort",
+      "subtitle": "Händel birthplace cultural law and annual festival licensing",
+      "fullDescription": "Georg Friedrich Händel (1685–1759) was born in Halle. The annual Händel-Festspiele draws 90,000+ visitors and operates under GewO event permits, VStättVO assembly rules, and Saxony-Anhalt's Kulturförderungsgesetz. The Händel-Haus museum is protected under DSchG LSA. Händel's compositions are in the public domain (§64 UrhG, 70 years post-death).",
+      "penalty": "Unauthorized commercial use of Händel-related protected trademarks: MarkenG claims; event safety violations: VStättVO fines",
+      "exceptions": ["Non-commercial performance of Händel's works fully free — compositions in public domain since 1829"],
+      "source": "https://www.haendelhaus.de",
+      "sourceLabel": "§64 UrhG / DSchG LSA / GewO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what city was composer Georg Friedrich Händel born in 1685?",
+        "options": ["Leipzig", "Dresden", "Halle", "Magdeburg"],
+        "correct": 2,
+        "explanation": "Georg Friedrich Händel was born in Halle (Saale) in 1685, and the city hosts annual Händel-Festspiele in his honor."
+      }
+    },
+    {
+      "id": 42224,
+      "category": "Natural Resources Law",
+      "severity": "high",
+      "icon": "🧂",
+      "title": "Kali und Steinsalz – K+S Bernburg & BBergG",
+      "subtitle": "Potash and rock salt mining in Saxony-Anhalt under mining law",
+      "fullDescription": "K+S AG operates the Bernburg rock salt mine and Zielitz potash mine in Saxony-Anhalt — among Germany's most productive mineral operations. Mining under BBergG; salt brine disposal into the Werra river (affecting Hesse/Saxony-Anhalt borders) has been a major environmental conflict under WHG. K+S employs ~4,000 in the state.",
+      "penalty": "Illegal brine discharge: WHG §89 liability; BBergG violations: fines up to €100,000",
+      "exceptions": ["Agreed brine disposal plans within WHG limits exempt from further permitting"],
+      "source": "https://www.kpluss.com",
+      "sourceLabel": "BBergG / WHG §89",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What environmental controversy surrounds K+S potash operations in Saxony-Anhalt and Hesse?",
+        "options": ["Air pollution from dust", "Brine/salt water discharge into the Werra river", "Groundwater depletion", "Noise from mining operations"],
+        "correct": 1,
+        "explanation": "K+S's disposal of salt brine into the Werra river has caused a long-running environmental conflict under WHG between the mining interests and water quality protection."
+      }
+    },
+    {
+      "id": 42225,
+      "category": "Social Law",
+      "severity": "high",
+      "icon": "👴",
+      "title": "Demografischer Wandel LSA – Landesentwicklungsplan",
+      "subtitle": "Population decline law: Saxony-Anhalt lost 25% since 1990",
+      "fullDescription": "Saxony-Anhalt has lost ~550,000 inhabitants (25%) since 1990, from 2.8M to 2.2M — the most severe demographic decline of any German state. The Landesentwicklungsplan Sachsen-Anhalt 2010 (LEP LSA) designates Zentralörtliche Gliederung (central place hierarchy) to concentrate services. EU Cohesion Funds and federal rural development programs address Daseinsvorsorge challenges.",
+      "penalty": "No direct criminal penalties; Daseinsvorsorge deficits trigger state subsidy obligations under Art. 28 GG",
+      "exceptions": ["Municipalities below 2,000 may apply for special status and enhanced funding under LEP LSA"],
+      "source": "https://www.sachsen-anhalt.de/landesentwicklung",
+      "sourceLabel": "LEP LSA 2010 / Art. 28 GG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By approximately what percentage has Saxony-Anhalt's population declined since 1990?",
+        "options": ["8%", "15%", "25%", "40%"],
+        "correct": 2,
+        "explanation": "Saxony-Anhalt has lost approximately 25% of its population since 1990 (from 2.8M to 2.2M), the most severe demographic decline of any German state."
+      }
+    },
+    {
+      "id": 42226,
+      "category": "Research Law",
+      "severity": "medium",
+      "icon": "🔬",
+      "title": "Leopoldina Nationale Akademie der Wissenschaften",
+      "subtitle": "Germany's oldest learned society advises federal government on science policy",
+      "fullDescription": "The Leopoldina (founded Schweinfurt 1652, based in Halle since 1878) became Germany's national academy of sciences in 2008 under the Vereinbarung der Gemeinsamen Wissenschaftskonferenz. With 1,600+ members in 30+ countries, it advises the federal government on scientific questions including COVID-19 pandemic policy (2020). Tax exempt under §52 AO.",
+      "penalty": "Not a regulatory body; however misuse of Leopoldina's designation/name: MarkenG/§5 UWG claims",
+      "exceptions": ["Academy membership honorary; no employment law obligations for foreign members"],
+      "source": "https://www.leopoldina.org",
+      "sourceLabel": "GWK-Vereinbarung / §52 AO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year did the Leopoldina become Germany's official national academy of sciences?",
+        "options": ["1990", "1999", "2008", "2015"],
+        "correct": 2,
+        "explanation": "The Leopoldina became Germany's national academy of sciences (Nationale Akademie der Wissenschaften) in 2008 under a GWK framework agreement."
+      }
+    },
+    {
+      "id": 42227,
+      "category": "Environmental Law",
+      "severity": "high",
+      "icon": "🌿",
+      "title": "Nationalpark Harz – BNatSchG §20",
+      "subtitle": "Saxony-Anhalt's portion of the Harz National Park",
+      "fullDescription": "Nationalpark Harz (247 km²) spans Saxony-Anhalt and Lower Saxony, established 1990. The Saxony-Anhalt portion is governed under BNatSchG §§20–36 and Nationalparkgesetz LSA. The Brocken (1,141m), Germany's highest peak outside the Alps, is in Saxony-Anhalt. Bark beetle damage affecting spruce monocultures is managed through natural process (Naturwald) policy.",
+      "penalty": "Prohibited activities in national park core zones: fines up to €25,000; hunting prohibited under §20 BNatSchG",
+      "exceptions": ["Traditional Brocken railway (Harzer Schmalspurbahn) continues operating through the park under historic rights"],
+      "source": "https://www.nationalpark-harz.de",
+      "sourceLabel": "BNatSchG §20 / NationalparkG LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the height of the Brocken, Saxony-Anhalt's highest peak and the Harz National Park's summit?",
+        "options": ["891m", "1,141m", "1,456m", "2,100m"],
+        "correct": 1,
+        "explanation": "The Brocken rises to 1,141m, making it the highest point in northern Germany and a central feature of the Harz National Park in Saxony-Anhalt."
+      }
+    },
+    {
+      "id": 42228,
+      "category": "Labor Law",
+      "severity": "medium",
+      "icon": "🏭",
+      "title": "Amazon Magdeburg – BetrVG Logistikbranche",
+      "subtitle": "Amazon fulfillment center labor law and works council rights",
+      "fullDescription": "Amazon's Magdeburg fulfillment center employs ~2,500 workers subject to ver.di labor disputes mirroring Leipzig. BetrVG works council rights apply; Amazon has resisted sectoral Tarifvertrag as in other locations. Sachsen-Anhalt's below-average wages (65% of western German level) affect collective bargaining baselines. MiLoG minimum wage (€12.41/hr in 2024) applies as wage floor.",
+      "penalty": "BetrVG §119 violations (impeding works council): fines up to €10,000; MiLoG violations: fines up to €500,000",
+      "exceptions": ["Trial periods up to 6 months may be agreed before TVöD-equivalent pay scale application"],
+      "source": "https://www.gesetze-im-internet.de/milog/",
+      "sourceLabel": "BetrVG / MiLoG / TVG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Germany's statutory minimum wage (Mindestlohn) per hour in 2024?",
+        "options": ["€10.00", "€11.50", "€12.41", "€14.00"],
+        "correct": 2,
+        "explanation": "Germany's statutory minimum wage (Mindestlohn) under MiLoG is €12.41 per hour in 2024, applying to all workers including Amazon fulfillment employees."
+      }
+    },
+    {
+      "id": 42229,
+      "category": "Pharmaceutical Law",
+      "severity": "high",
+      "icon": "💊",
+      "title": "Pharmastandort Halle – AMG & GMP Zulassung",
+      "subtitle": "Pharmaceutical manufacturing under drug law and GMP standards",
+      "fullDescription": "Halle is a significant pharmaceutical production location, home to companies including Dow AgroSciences, IDT Biologika (Dessau-Roßlau, COVID-19 vaccine production 2021), and various generic drug manufacturers. Operations under AMG (Arzneimittelgesetz), EU GMP guidelines (EudraLex Vol. 4), and BfArM oversight. IDT Biologika was approved to manufacture AstraZeneca COVID vaccine fill-and-finish.",
+      "penalty": "GMP violations: BfArM may suspend manufacturing authorization; counterfeit drugs: up to 3 years under §96 AMG",
+      "exceptions": ["Hospital pharmacies may compound medicines without full industrial AMG manufacturing license"],
+      "source": "https://www.bfarm.de",
+      "sourceLabel": "AMG / EU GMP EudraLex Vol. 4",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which Saxony-Anhalt pharmaceutical company was approved to manufacture AstraZeneca COVID-19 vaccine in 2021?",
+        "options": ["Bayer AG Halle", "IDT Biologika Dessau-Roßlau", "Stada Halle", "Merck Magdeburg"],
+        "correct": 1,
+        "explanation": "IDT Biologika in Dessau-Roßlau was approved for AstraZeneca COVID-19 vaccine fill-and-finish manufacturing during the 2021 vaccination rollout."
+      }
+    },
+    {
+      "id": 42230,
+      "category": "Environmental Law",
+      "severity": "medium",
+      "icon": "🌱",
+      "title": "Grünes Band Deutschland – SächsAN Naturschutzgebiet",
+      "subtitle": "Former inner-German border transformed into nature corridor",
+      "fullDescription": "The Grünes Band Deutschland (Green Belt) follows the former inner-German border through Saxony-Anhalt's western edge (~230 km through the state). This 1,400 km national nature monument — designated under §24 BNatSchG — protects habitats that developed undisturbed during the Cold War division. Saxony-Anhalt manages its section under LNatSchG LSA.",
+      "penalty": "Prohibited development in Green Belt: fines up to €50,000; criminal prosecution for serious habitat destruction",
+      "exceptions": ["Existing agricultural uses predating Green Belt designation may continue with management agreements"],
+      "source": "https://www.bfn.de/gruenes-band",
+      "sourceLabel": "§24 BNatSchG / LNatSchG LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the total length of the Grünes Band Deutschland along the former inner-German border?",
+        "options": ["400 km", "800 km", "1,400 km", "2,200 km"],
+        "correct": 2,
+        "explanation": "The Grünes Band Deutschland stretches approximately 1,400 km along the entire former inner-German border, now designated as a national nature monument."
+      }
+    },
+    {
+      "id": 42231,
+      "category": "Heritage Law",
+      "severity": "high",
+      "icon": "🏯",
+      "title": "Quedlinburg – UNESCO Welterbe Stiftskirche 1994",
+      "subtitle": "Romanesque collegiate church and historic town center World Heritage",
+      "fullDescription": "Quedlinburg's Collegiate Church of St. Servatius and associated buildings were inscribed UNESCO World Heritage in 1994. The town preserves over 1,300 half-timbered houses — Germany's highest density per km². Protected under DSchG LSA. The crypt contains the tomb of Henry I (919–936), founder of the medieval German kingdom. The Quedlinburger Domschatz (cathedral treasury) holds major medieval artworks.",
+      "penalty": "Unauthorized alterations to UNESCO zone: fines up to €500,000; illegal excavations: §13 DSchG LSA",
+      "exceptions": ["Normal maintenance of half-timbered houses using traditional materials exempt from full heritage permit"],
+      "source": "https://whc.unesco.org/en/list/793",
+      "sourceLabel": "UNESCO WHC 1994 / DSchG LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Whose tomb is located in the Quedlinburg collegiate church crypt?",
+        "options": ["Charlemagne", "Frederick I Barbarossa", "Henry I (founder of medieval German kingdom)", "Otto I (Holy Roman Emperor)"],
+        "correct": 2,
+        "explanation": "The crypt of Quedlinburg's Collegiate Church of St. Servatius contains the tomb of Henry I (919–936), who established the first German royal dynasty."
+      }
+    },
+    {
+      "id": 42232,
+      "category": "Tax Law",
+      "severity": "medium",
+      "icon": "💰",
+      "title": "Grunderwerbsteuer Sachsen-Anhalt – 5%",
+      "subtitle": "Real estate transfer tax at 5% under GrEStG",
+      "fullDescription": "Saxony-Anhalt sets its Grunderwerbsteuer at 5% under GrEStG §11, below the national maximum of 6.5%. Given low property values compared to western states (average apartment price in Magdeburg ~€150,000 vs €700,000 in Munich), the effective tax burden is modest. The state is considering a rate increase to fund Daseinsvorsorge in rural areas.",
+      "penalty": "Tax evasion on property transfers: surcharges + interest; criminal prosecution under §370 AO for intentional evasion",
+      "exceptions": ["Family transfers (spouse, children, parents) exempt from Grunderwerbsteuer under §3 GrEStG"],
+      "source": "https://www.sachsen-anhalt.de/steuer",
+      "sourceLabel": "GrEStG §11",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Saxony-Anhalt's Grunderwerbsteuer rate?",
+        "options": ["3.5%", "5%", "6%", "6.5%"],
+        "correct": 1,
+        "explanation": "Saxony-Anhalt sets its real estate transfer tax (Grunderwerbsteuer) at 5%, below the maximum rate of 6.5% charged by several other states."
+      }
+    },
+    {
+      "id": 42233,
+      "category": "Fire Safety Law",
+      "severity": "high",
+      "icon": "🚒",
+      "title": "Brandschutz- und Hilfeleistungsgesetz LSA – BrSchHiG",
+      "subtitle": "Fire service law for 1,200+ volunteer departments",
+      "fullDescription": "The Brandschutz- und Hilfeleistungsgesetz Sachsen-Anhalt (BrSchHiG LSA) governs fire protection, technical rescue, and civil defense. Saxony-Anhalt has ~1,200 volunteer fire departments (Freiwillige Feuerwehren) with 38,000+ members and 8 professional departments. Demographic decline threatens volunteer department membership in rural areas.",
+      "penalty": "Arson: up to life imprisonment under §306b StGB (schwere Brandstiftung) if deaths result",
+      "exceptions": ["Agricultural controlled burns permitted with advance fire authority notification under LNatSchG"],
+      "source": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-BrSchHiGSTrahmen",
+      "sourceLabel": "BrSchHiG LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many volunteer fire department members does Saxony-Anhalt have approximately?",
+        "options": ["8,000", "18,000", "38,000", "80,000"],
+        "correct": 2,
+        "explanation": "Saxony-Anhalt has approximately 38,000 volunteer fire department members across ~1,200 departments, though recruitment is challenged by demographic decline."
+      }
+    },
+    {
+      "id": 42234,
+      "category": "Transport Law",
+      "severity": "medium",
+      "icon": "🛣️",
+      "title": "A14 Verlängerung – FStrG & Planfeststellungsrecht",
+      "subtitle": "Long-planned Autobahn extension through rural Saxony-Anhalt",
+      "fullDescription": "The A14 Autobahn extension from Magdeburg toward Schwerin (120 km planned in Saxony-Anhalt) has been under planning since 2000, subject to FStrG (Fernstraßengesetz), PlanfeststellungsG, and repeated environmental impact assessments. Construction began 2018; controversy over impacts on Elbe floodplains (FFH areas) led to multiple VwGH challenges.",
+      "penalty": "Unauthorized construction in FFH areas: immediate halt + fines; developer liability for damages",
+      "exceptions": ["Overriding public interest (zwingender Grund des überwiegenden öffentlichen Interesses) can authorize FFH impacts under §34 BNatSchG"],
+      "source": "https://www.bmvi.de/a14",
+      "sourceLabel": "FStrG / §34 BNatSchG / PlanfG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long is the planned A14 Autobahn extension through Saxony-Anhalt?",
+        "options": ["30 km", "60 km", "120 km", "200 km"],
+        "correct": 2,
+        "explanation": "The A14 extension through Saxony-Anhalt stretches approximately 120 km from Magdeburg northward toward Schwerin, connecting the region to the Baltic coast."
+      }
+    },
+    {
+      "id": 42235,
+      "category": "Higher Education Law",
+      "severity": "medium",
+      "icon": "🎓",
+      "title": "Hochschulstrukturreform LSA – Fusion Halle-Wittenberg",
+      "subtitle": "State higher education restructuring under HSG LSA",
+      "fullDescription": "Saxony-Anhalt restructured its university landscape under HSG LSA, including merging Halle and Wittenberg universities (1817 merger formalized, retained), and in 2012 merging the Hochschule Merseburg with reduced programs into the regional structure. OVGU Magdeburg and MLU Halle-Wittenberg are the two main universities; 10 Fachhochschulen also operate.",
+      "penalty": "Operating unapproved degree programs: fines and degree invalidity under §3 HSG LSA",
+      "exceptions": ["Distance learning programs from other state institutions may be offered in LSA without separate accreditation"],
+      "source": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-HSchulGSTrahmen",
+      "sourceLabel": "HSG LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Halle and Wittenberg universities officially merge to form Martin-Luther-Universität Halle-Wittenberg?",
+        "options": ["1694", "1817", "1945", "1990"],
+        "correct": 1,
+        "explanation": "The universities of Halle (founded 1694) and Wittenberg (founded 1502) were merged in 1817 to form the current Martin-Luther-Universität Halle-Wittenberg."
+      }
+    },
+    {
+      "id": 42236,
+      "category": "Building Law",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "BauO LSA – Sächsische Bauordnung Sachsen-Anhalt",
+      "subtitle": "Building code with solar mandate for new construction",
+      "fullDescription": "The Bauordnung des Landes Sachsen-Anhalt (BauO LSA) 2020 regulates construction permits and safety. Buildings over 22m require fire-resistant construction. Solar panels mandatory for new commercial buildings and multi-family housing since 2023 amendments. Rural areas benefit from simplified permit procedures (§61 BauO LSA verfahrensfreie Vorhaben).",
+      "penalty": "Unauthorized construction: fines up to €500,000 + demolition orders under §79 BauO LSA",
+      "exceptions": ["Agricultural outbuildings up to 200m² may be built without full permit under §61 BauO LSA"],
+      "source": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-BauOSTrahmen",
+      "sourceLabel": "BauO LSA 2020",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "At what building height does Saxony-Anhalt's BauO LSA require fire-resistant construction?",
+        "options": ["7m", "13m", "22m", "30m"],
+        "correct": 2,
+        "explanation": "Buildings exceeding 22m in height require fire-resistant construction (F90 or higher) under BauO LSA."
+      }
+    },
+    {
+      "id": 42237,
+      "category": "Commercial Law",
+      "severity": "medium",
+      "icon": "🏪",
+      "title": "LadÖffG LSA – 4 Sonntagsöffnungen",
+      "subtitle": "Shop opening law permitting 4 trading Sundays annually",
+      "fullDescription": "The Gesetz über Ladenöffnungszeiten des Landes Sachsen-Anhalt (LadÖffG LSA) permits retail shops to open on 4 Sundays per year with municipal approval. This is among the most restrictive in Germany. Workers receive Sunday premium pay under ArbZG §9. Major shopping events like Halle and Magdeburg Christmas markets generate most Sunday openings.",
+      "penalty": "Unauthorized Sunday trading: fines up to €25,000 per offense under §8 LadÖffG LSA",
+      "exceptions": ["Pharmacies, gas stations, bakeries, and flower shops exempt from Sunday trading restrictions"],
+      "source": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-LadÖffGSTrahmen",
+      "sourceLabel": "LadÖffG LSA / ArbZG §9",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many trading Sundays per year does Saxony-Anhalt permit under LadÖffG LSA?",
+        "options": ["2", "4", "8", "11"],
+        "correct": 1,
+        "explanation": "Saxony-Anhalt's LadÖffG permits only 4 trading Sundays per year with municipal approval, among the most restrictive in Germany."
+      }
+    },
+    {
+      "id": 42238,
+      "category": "Wildlife Law",
+      "severity": "medium",
+      "icon": "🦅",
+      "title": "Weißstorch Sachsen-Anhalt – §44 BNatSchG Artenschutz",
+      "subtitle": "Germany's largest white stork population strictly protected",
+      "fullDescription": "Saxony-Anhalt hosts Germany's largest white stork (Weißstorch) population, with ~1,500 breeding pairs (40%+ of Germany's total). White storks are strictly protected under §44 BNatSchG and EU Birds Directive (2009/147/EC). The Elbe floodplains provide critical foraging habitat. Nest protection is enforced by LNatSchG LSA; power companies must retrofit pylons.",
+      "penalty": "Disturbing stork nests: fines up to €50,000; killing or capturing storks: up to 5 years under §69 BNatSchG",
+      "exceptions": ["Power companies given 5-year grace period to retrofit pylons causing electrocution risk"],
+      "source": "https://www.nabu.de/weissstorch",
+      "sourceLabel": "§44 BNatSchG / EU Birds Directive 2009/147",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Germany's white stork breeding pairs does Saxony-Anhalt host?",
+        "options": ["10%", "25%", "40%+", "70%"],
+        "correct": 2,
+        "explanation": "Saxony-Anhalt hosts over 40% of Germany's white stork breeding pairs (~1,500 pairs), making it Germany's most important stork habitat."
+      }
+    },
+    {
+      "id": 42239,
+      "category": "Social Law",
+      "severity": "high",
+      "icon": "💼",
+      "title": "Jobcenter LSA – SGB II Bürgergeld 90,000 Empfänger",
+      "subtitle": "Social welfare administration for 90,000 Bürgergeld recipients",
+      "fullDescription": "Saxony-Anhalt's Jobcenter (12 agencies) serve ~90,000 Bürgergeld recipients under SGB II with 10.2% unemployment (among Germany's highest). The Bürgergeldgesetz 2023 replaced ALG II, raising the standard rate to €563/month (single adult) and extending the Vertrauenszeitraum (trust period) during which sanctions are limited. Federal Bundesagentur für Arbeit co-funds through BA contributions.",
+      "penalty": "SGB II fraud: repayment plus up to 5 years imprisonment under §263 StGB for systematic cases",
+      "exceptions": ["Self-employed persons in Bürgergeld may deduct business expenses under §11b Abs. 1 SGB II"],
+      "source": "https://www.arbeitsagentur.de/sachsen-anhalt",
+      "sourceLabel": "SGB II / Bürgergeldgesetz 2023",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Saxony-Anhalt's approximate unemployment rate, among Germany's highest?",
+        "options": ["4.5%", "6.8%", "10.2%", "15.5%"],
+        "correct": 2,
+        "explanation": "Saxony-Anhalt has an unemployment rate of approximately 10.2%, significantly above the national average and among Germany's highest."
+      }
+    },
+    {
+      "id": 42240,
+      "category": "Heritage Law",
+      "severity": "medium",
+      "icon": "🗺️",
+      "title": "Himmelscheibe von Nebra – SchatzregelG LSA",
+      "subtitle": "Bronze Age sky disc protected under treasure law after illegal excavation",
+      "fullDescription": "The Nebra sky disc (Himmelsscheibe von Nebra, ~1600 BCE) is the world's oldest known concrete depiction of celestial objects. Illegally excavated in 1999 by treasure hunters using metal detectors, it was recovered in a police sting in 2002. Saxony-Anhalt's Schatzregelgesetz (state treasury law) vests ownership of archaeological finds in the state. Now displayed in Halle's Landesmuseum für Vorgeschichte.",
+      "penalty": "Illegal archaeological excavation: criminal prosecution + confiscation of finds; treasure hunters face fines up to €250,000",
+      "exceptions": ["Metal detecting on designated survey areas with Landesamt permit allowed for registered archaeologists"],
+      "source": "https://www.lda.sachsen-anhalt.de",
+      "sourceLabel": "DSchG LSA / SchatzregelG / §242 StGB",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "The Nebra sky disc (~1600 BCE) is the world's oldest known depiction of what?",
+        "options": ["A map of Europe", "Celestial objects (sun, moon, stars)", "A battle scene", "Agricultural calendar"],
+        "correct": 1,
+        "explanation": "The Nebra sky disc (~1600 BCE) is the world's oldest known concrete depiction of celestial objects, showing the sun, moon (or full moon), and stars including the Pleiades."
+      }
+    }
+    ,
+    {
+      "id": 42241,
+      "category": "Gambling Law",
+      "severity": "medium",
+      "icon": "🎰",
+      "title": "Spielbank Magdeburg – GlüStV 2021",
+      "subtitle": "State casino and online gambling regulation under interstate treaty",
+      "fullDescription": "Saxony-Anhalt operates one licensed casino (Spielbank) in Magdeburg under the Sächsisches-Anhalt Spielbankgesetz and GlüStV 2021. Online gambling was liberalized under GlüStV 2021 with federal licensing by GGL (Gemeinsame Glücksspielbehörde der Länder, based in Halle). GGL regulates online casinos, poker, and sports betting across Germany.",
+      "penalty": "Unlicensed gambling operations: criminal prosecution under §284 StGB; up to 2 years imprisonment",
+      "exceptions": ["Charitable lotteries (Tombolas) under €40,000 prize pool operate under simplified notification"],
+      "source": "https://www.gluecksspiel-behoerde.de",
+      "sourceLabel": "GlüStV 2021 / GGL Halle / §284 StGB",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where is the Gemeinsame Glücksspielbehörde der Länder (GGL), Germany's online gambling regulator, headquartered?",
+        "options": ["Berlin", "Hamburg", "Halle (Saale)", "Düsseldorf"],
+        "correct": 2,
+        "explanation": "The GGL (Gemeinsame Glücksspielbehörde der Länder), which regulates online gambling across Germany under GlüStV 2021, is headquartered in Halle (Saale), Saxony-Anhalt."
+      }
+    },
+    {
+      "id": 42242,
+      "category": "Cultural Law",
+      "severity": "medium",
+      "icon": "🎭",
+      "title": "Anhaltisches Theater Dessau – Kulturraumgesetz",
+      "subtitle": "Oldest continuously operating German theater under cultural funding law",
+      "fullDescription": "Anhaltisches Theater Dessau, founded 1798, is one of Germany's longest continuously operating theaters. It receives ~€15M annually from the city of Dessau-Roßlau and the state under Saxony-Anhalt's Kulturförderungsgesetz. The theater was Richard Wagner's first professional appointment (1834–1836) as music director.",
+      "penalty": "Misuse of cultural subsidies: repayment under §49a VwVfG",
+      "exceptions": ["Emergency performances for public events may receive expedited funding approvals"],
+      "source": "https://www.anhaltisches-theater.de",
+      "sourceLabel": "Kulturförderungsgesetz LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who served as music director at Dessau's Anhaltisches Theater from 1834–1836?",
+        "options": ["Franz Liszt", "Johannes Brahms", "Richard Wagner", "Felix Mendelssohn"],
+        "correct": 2,
+        "explanation": "Richard Wagner served as music director at the Anhaltisches Theater Dessau from 1834–1836, one of his first professional appointments."
+      }
+    },
+    {
+      "id": 42243,
+      "category": "Consumer Law",
+      "severity": "medium",
+      "icon": "🛡️",
+      "title": "Verbraucherzentrale Sachsen-Anhalt – §8 UWG",
+      "subtitle": "Consumer advice center with injunction authority under UWG",
+      "fullDescription": "Verbraucherzentrale Sachsen-Anhalt provides consumer advice and holds locus standi under §8 UWG to issue Abmahnungen against unfair commercial practices. Key areas include energy contract advice (post-2022 price spikes), digital consumer rights under DSA/DMA, and financial advice for over-indebted households. ~30,000 consultations annually.",
+      "penalty": "Unfair commercial practices: injunctions + damages under §§8-9 UWG",
+      "exceptions": ["De minimis commercial violations not pursued under proportionality principle"],
+      "source": "https://www.verbraucherzentrale-sachsen-anhalt.de",
+      "sourceLabel": "§8 UWG / DSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which law do consumer protection organizations like Verbraucherzentrale have standing to issue Abmahnungen?",
+        "options": ["BGB §242", "§8 UWG", "GWB §33", "VIG §2"],
+        "correct": 1,
+        "explanation": "§8 UWG (Gesetz gegen den unlauteren Wettbewerb) grants Verbraucherzentralen standing to issue Abmahnungen and seek injunctions against unfair commercial practices."
+      }
+    },
+    {
+      "id": 42244,
+      "category": "Infrastructure Law",
+      "severity": "high",
+      "icon": "⚡",
+      "title": "50Hertz Netzausbau – EnWG & NABEG Leitungsbau",
+      "subtitle": "Grid expansion law for renewable energy integration in Saxony-Anhalt",
+      "fullDescription": "Saxony-Anhalt is a key transit zone for 50Hertz's north-south power transmission (wind energy from the North to consumption centers in the south). Major projects under NABEG (Netzausbaubeschleunigungsgesetz) and EnWG §12e (Bundesbedarfsplan) include SüdOstLink (HVDC, ~540km through Saxony-Anhalt). Eminent domain (Enteignung) possible under EnWG for grid right-of-way.",
+      "penalty": "Obstruction of grid construction on approved routes: injunctions; compensation disputes via Enteignungsverfahren",
+      "exceptions": ["Underground cable routing may substitute overhead lines in ecologically sensitive areas under NABEG §5"],
+      "source": "https://www.nabeg.de",
+      "sourceLabel": "NABEG / EnWG §12e / Bundesbedarfsplan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What law accelerates high-voltage grid expansion approval in Germany?",
+        "options": ["EEG", "NABEG (Netzausbaubeschleunigungsgesetz)", "EnLAG", "WindSeeG"],
+        "correct": 1,
+        "explanation": "NABEG (Netzausbaubeschleunigungsgesetz) accelerates planning and approval for high-voltage grid expansion projects of national significance."
+      }
+    },
+    {
+      "id": 42245,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "⚖️",
+      "title": "OLG Naumburg – §120 GVG Staatsschutz",
+      "subtitle": "Saxony-Anhalt's highest appellate court with state security jurisdiction",
+      "fullDescription": "Oberlandesgericht (OLG) Naumburg is Saxony-Anhalt's highest civil and criminal appellate court. Under §120 GVG, it has first-instance jurisdiction over terrorism and state security crimes. Notable cases include right-wing extremism prosecutions following the Halle 2019 attack and Magdeburg-based neo-Nazi network cases. The court also handles major commercial disputes.",
+      "penalty": "State security crimes: up to life imprisonment; OLG decisions subject only to BGH revision",
+      "exceptions": ["Juvenile offenders even in terrorism cases processed through Jugendgericht under JGG"],
+      "source": "https://olg.justiz.sachsen-anhalt.de",
+      "sourceLabel": "§120 GVG / §129a StGB",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where is Saxony-Anhalt's Oberlandesgericht located?",
+        "options": ["Halle", "Magdeburg", "Naumburg", "Dessau"],
+        "correct": 2,
+        "explanation": "Saxony-Anhalt's Oberlandesgericht (OLG) is located in Naumburg, serving as the state's highest civil and criminal appellate court."
+      }
+    },
+    {
+      "id": 42246,
+      "category": "Religious Law",
+      "severity": "low",
+      "icon": "⛪",
+      "title": "Kirchensteuer Sachsen-Anhalt – 9% Bistum Magdeburg",
+      "subtitle": "Church tax in Germany's most secular state",
+      "fullDescription": "Saxony-Anhalt collects Kirchensteuer at 9% of assessed income tax under Art. 140 GG / Art. 137 WRV. However, ~80% of Saxony-Anhalt residents have no church membership — the highest irreligion rate in Germany (and one of the world's highest), reflecting 45 years of GDR state atheism. The Diocese of Magdeburg (Catholic) and EKM (Protestant) are the main beneficiaries.",
+      "penalty": "Church tax evasion via false affiliation declarations: §370 AO tax fraud",
+      "exceptions": ["Formal church exit (Kirchenaustritt) before the Amtsgericht (€30 fee) stops church tax immediately"],
+      "source": "https://www.bistum-magdeburg.de",
+      "sourceLabel": "Art. 140 GG / Art. 137 WRV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately what percentage of Saxony-Anhalt residents have no church membership?",
+        "options": ["30%", "50%", "65%", "80%"],
+        "correct": 3,
+        "explanation": "Approximately 80% of Saxony-Anhalt residents have no church membership, the highest irreligion rate in Germany, reflecting 45 years of GDR state atheism."
+      }
+    },
+    {
+      "id": 42247,
+      "category": "Procurement Law",
+      "severity": "medium",
+      "icon": "📋",
+      "title": "Vergabegesetz Sachsen-Anhalt – TVgG-LSA",
+      "subtitle": "Public procurement law with social and environmental criteria",
+      "fullDescription": "The Tariftreue- und Vergabegesetz Sachsen-Anhalt (TVgG-LSA) governs public procurement, requiring Tariftreue (collective agreement compliance) for contracts over €20,000 and environmental criteria for major contracts. Above EU thresholds (€215,000 for goods/services, €5.38M for construction), EU directives 2014/24/EU and 2014/25/EU apply. Annual LSA procurement volume: ~€2bn.",
+      "penalty": "Contract violations: termination rights for authority; bidders may claim damages in Nachprüfungsverfahren",
+      "exceptions": ["In-house procurement between public entities exempt from competitive tendering under §108 GWB"],
+      "source": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-TVgGSTrahmen",
+      "sourceLabel": "TVgG-LSA / EU 2014/24",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "At what contract value does Saxony-Anhalt's TVgG-LSA require collective agreement compliance (Tariftreue)?",
+        "options": ["€5,000", "€20,000", "€50,000", "€215,000"],
+        "correct": 1,
+        "explanation": "Saxony-Anhalt's TVgG-LSA requires contractors to comply with relevant collective agreements (Tariftreue) for public contracts exceeding €20,000."
+      }
+    },
+    {
+      "id": 42248,
+      "category": "Agricultural Law",
+      "severity": "medium",
+      "icon": "🌻",
+      "title": "Zuckerrübenanbau Sachsen-Anhalt – EU Zuckermarktordnung",
+      "subtitle": "Major sugar beet region under EU agricultural market regulation",
+      "fullDescription": "Saxony-Anhalt is Germany's most important sugar beet growing region, with ~70,000 ha cultivated (30%+ of national total). Nordzucker and Südzucker operate processing plants. EU sugar market regulation (EU 1308/2013) ended production quotas in 2017, exposing growers to world market prices. Sugar beet cultivation exempt from some nitrate directive restrictions during harvest periods.",
+      "penalty": "EU CAP subsidy fraud: full repayment + penalty; environmental violations: up to €50,000",
+      "exceptions": ["Emergency beet harvesting during wet conditions may receive temporary exemption from soil protection rules"],
+      "source": "https://www.sachsen-anhalt.de/zuckerrüben",
+      "sourceLabel": "EU 1308/2013 / EU GAP",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What share of Germany's sugar beet cultivation does Saxony-Anhalt's ~70,000 ha represent?",
+        "options": ["5%", "15%", "30%+", "50%"],
+        "correct": 2,
+        "explanation": "Saxony-Anhalt cultivates approximately 70,000 ha of sugar beet, representing over 30% of Germany's total sugar beet area."
+      }
+    },
+    {
+      "id": 42249,
+      "category": "Digital Law",
+      "severity": "medium",
+      "icon": "💻",
+      "title": "Digitale Modellregion Harz – OZG & E-Government",
+      "subtitle": "Online service implementation under E-Government Act",
+      "fullDescription": "Saxony-Anhalt participates in Onlinezugangsgesetz (OZG) implementation, digitizing government services by 2022 (extended to 2024+). The Harz region is designated a Digitale Modellregion. Magdeburg operates Germany's first smart city 5G pilot project with OVGU. E-Government Gesetz LSA (EGovG LSA) mandates electronic access to administrative services.",
+      "penalty": "Failure to implement OZG services: political accountability; no individual penalties for agencies",
+      "exceptions": ["Services requiring physical identity verification may maintain in-person requirements until eID adoption increases"],
+      "source": "https://www.onlinezugangsgesetz.de",
+      "sourceLabel": "OZG / EGovG LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What law requires German government services to be available online?",
+        "options": ["TKG", "OZG (Onlinezugangsgesetz)", "IT-Sicherheitsgesetz", "BSI-Gesetz"],
+        "correct": 1,
+        "explanation": "The OZG (Onlinezugangsgesetz) requires federal, state, and municipal governments to make administrative services available online, with Saxony-Anhalt actively implementing it."
+      }
+    },
+    {
+      "id": 42250,
+      "category": "Environmental Law",
+      "severity": "high",
+      "icon": "🌫️",
+      "title": "Luftreinhaltung Halle/Leipzig Ballungsraum – 39. BImSchV",
+      "subtitle": "Air quality plans for Halle metropolitan area under EU ambient air directive",
+      "fullDescription": "Halle and the cross-border Halle/Leipzig conurbation have been subject to EU ambient air quality limits (EU 2008/50/EC) for NO₂ and PM10. Luftreinhalteplan LSA requires traffic management measures, Diesel driving restrictions (Fahrverbote) where thresholds are exceeded. Deutsche Umwelthilfe (DUH) has litigated successfully to force tighter implementation.",
+      "penalty": "Exceeding EU air quality limits: infringement proceedings against Germany by EU Commission; DUH injunctions against state authority",
+      "exceptions": ["Emergency vehicles and public transport exempt from any diesel driving restrictions"],
+      "source": "https://www.umwelt.sachsen-anhalt.de/luft",
+      "sourceLabel": "EU 2008/50/EC / 39. BImSchV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which organization has successfully litigated in German courts to force tighter air quality plan implementation?",
+        "options": ["BUND", "Greenpeace Germany", "Deutsche Umwelthilfe (DUH)", "WWF Germany"],
+        "correct": 2,
+        "explanation": "Deutsche Umwelthilfe (DUH) has won numerous court cases against German cities and states to enforce EU ambient air quality limits for NO₂ and PM10."
+      }
+    },
+    {
+      "id": 42251,
+      "category": "Disability Law",
+      "severity": "medium",
+      "icon": "♿",
+      "title": "Landesbehindertengleichstellungsgesetz LSA – LBGG",
+      "subtitle": "State accessibility law for 185,000 severely disabled persons",
+      "fullDescription": "The Landesbehindertengleichstellungsgesetz Sachsen-Anhalt (LBGG LSA) implements UNCRPD and federal BGG at state level. ~185,000 persons in Saxony-Anhalt hold a Schwerbehindertenausweis (GdB ≥50%). Public authority digital services must meet BITV 2.0 WCAG 2.1 AA standards. The Landesbeauftragter für Menschen mit Behinderungen provides advocacy.",
+      "penalty": "Public authority accessibility failures: administrative proceedings and Beauftragter complaints",
+      "exceptions": ["Private businesses with under 20 employees subject to lighter accessibility obligations under BGG"],
+      "source": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-BehGleichGSTrahmen",
+      "sourceLabel": "LBGG LSA / UNCRPD / BITV 2.0",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum GdB (Grad der Behinderung) qualifies for a Schwerbehindertenausweis?",
+        "options": ["GdB 20", "GdB 30", "GdB 50", "GdB 70"],
+        "correct": 2,
+        "explanation": "A Schwerbehindertenausweis is issued to persons with a GdB (Grad der Behinderung) of 50 or higher, granting various legal protections and benefits."
+      }
+    },
+    {
+      "id": 42252,
+      "category": "Waste Law",
+      "severity": "medium",
+      "icon": "♻️",
+      "title": "Abfallwirtschaft LSA – KrWG Recyclingquote",
+      "subtitle": "Circular economy waste management under federal KrWG",
+      "fullDescription": "Saxony-Anhalt's Abfallwirtschaftsplan implements KrWG and EU circular economy targets. Recycling rate: ~63%, below the federal 68% target. ZAW (various Zweckverbände) manage municipal waste. Saxony-Anhalt has 8 Deponien and 4 MVA (incinerators). The abandoned GDR industrial sites (Altlasten) in Bitterfeld and Schkopau required major hazardous waste remediation at federal expense.",
+      "penalty": "Illegal waste dumping: fines up to €50,000; hazardous waste violations: criminal prosecution under §326 StGB",
+      "exceptions": ["Composting of garden and kitchen waste on private property exempt from KrWG commercial requirements"],
+      "source": "https://www.umwelt.sachsen-anhalt.de/abfall",
+      "sourceLabel": "KrWG / AbfWP LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What criminal offense covers illegal disposal of hazardous waste in Germany?",
+        "options": ["§303 StGB Sachbeschädigung", "§326 StGB unerlaubter Umgang mit Abfällen", "§329 StGB Gefährdung schutzbedürftiger Gebiete", "§324 StGB Gewässerverunreinigung"],
+        "correct": 1,
+        "explanation": "§326 StGB (unerlaubter Umgang mit Abfällen) covers illegal disposal of hazardous waste, punishable by up to 5 years imprisonment."
+      }
+    },
+    {
+      "id": 42253,
+      "category": "Police Law",
+      "severity": "high",
+      "icon": "🏛️",
+      "title": "Landesverfassungsschutz LSA – VSG LSA",
+      "subtitle": "Domestic intelligence agency monitoring far-right and Islamist threats",
+      "fullDescription": "The Landesamt für Verfassungsschutz Sachsen-Anhalt (LfV) operates under the Verfassungsschutzgesetz Sachsen-Anhalt (VSG LSA) monitoring threats to constitutional order. Key areas: right-wing extremism (Saxony-Anhalt has above-average far-right incidents), Islamist radicalization, and foreign agent activity. The LfV cooperates with BfV and was scrutinized after the Halle 2019 attack.",
+      "penalty": "Activities against constitutional order: criminal prosecution under §§84-86a StGB (party bans, organization bans)",
+      "exceptions": ["Legitimate political opposition and protest protected under Art. 5, 8, 9 GG even if monitored"],
+      "source": "https://www.verfassungsschutz.sachsen-anhalt.de",
+      "sourceLabel": "VSG LSA / BVerfSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which federal agency does Saxony-Anhalt's LfV (Landesamt für Verfassungsschutz) cooperate with?",
+        "options": ["BKA (Bundeskriminalamt)", "BfV (Bundesamt für Verfassungsschutz)", "BND (Bundesnachrichtendienst)", "MAD (Militärischer Abschirmdienst)"],
+        "correct": 1,
+        "explanation": "State Verfassungsschutz agencies (LfV) cooperate with the federal BfV (Bundesamt für Verfassungsschutz) through the Verbund der Verfassungsschutzbehörden."
+      }
+    },
+    {
+      "id": 42254,
+      "category": "Historical Law",
+      "severity": "low",
+      "icon": "📜",
+      "title": "Magdeburger Recht – Historisches Stadtrecht",
+      "subtitle": "Medieval Magdeburg law exported to 80+ Central and Eastern European cities",
+      "fullDescription": "Magdeburger Recht (Magdeburg city law, codified ~1188–1261) became one of medieval Europe's most influential legal systems, adopted by 80+ cities across Central and Eastern Europe including Warsaw, Kraków, Lviv, and Riga. It governed municipal self-governance, trade, and criminal procedure. In 2020, UNESCO recognized the Magdeburg Law City Network on its cultural heritage list.",
+      "penalty": "Historical importance only; no modern enforcement",
+      "exceptions": ["Modern municipal law entirely superseded medieval Stadtrecht"],
+      "source": "https://www.magdeburg.de/stadtrecht",
+      "sourceLabel": "UNESCO / Historisches Magdeburger Recht",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many Central and Eastern European cities adopted Magdeburger Recht as their legal system?",
+        "options": ["8", "25", "80+", "200+"],
+        "correct": 2,
+        "explanation": "Magdeburger Recht was adopted by over 80 cities across Central and Eastern Europe, making it one of the most influential medieval municipal legal systems."
+      }
+    },
+    {
+      "id": 42255,
+      "category": "Energy Law",
+      "severity": "medium",
+      "icon": "🔋",
+      "title": "Salzkavernenspeicher Bernburg – EnWG Gasspeicher",
+      "subtitle": "Natural gas storage in salt caverns under energy law",
+      "fullDescription": "Saxony-Anhalt's salt deposits host major underground gas storage facilities (Kavernenspeicher) at Bernburg and Etzel-area extensions, operated by companies including Storengy and EWE. Capacity: ~1.5 bn m³. Gas storage governed by EnWG §§35–35a and EU Gas Regulation 2017/1938 (security of supply). Storage facilities became critical during the 2022 Russia gas crisis.",
+      "penalty": "Unauthorized gas withdrawal from storage: EnWG §95 administrative offenses; BNetzA enforcement",
+      "exceptions": ["Emergency gas releases from storage possible under BNetzA crisis management procedures"],
+      "source": "https://www.enbw.com/bernburg",
+      "sourceLabel": "EnWG §§35-35a / EU 2017/1938",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What EU regulation governs natural gas storage security of supply?",
+        "options": ["EU 2019/941", "EU 2017/1938", "EU 2009/73/EC", "EU 2022/1032"],
+        "correct": 1,
+        "explanation": "EU Regulation 2017/1938 governs security of gas supply, including underground storage obligations that became critical during the 2022 Russia-Ukraine gas crisis."
+      }
+    },
+    {
+      "id": 42256,
+      "category": "Animal Law",
+      "severity": "medium",
+      "icon": "🐄",
+      "title": "Tierschutz-Nutztierhaltungsverordnung – Schweinehaltung LSA",
+      "subtitle": "Factory farming standards under TierSchNutztV for 1.2M pigs in Saxony-Anhalt",
+      "fullDescription": "Saxony-Anhalt has ~1.2M pigs in factory farming (Intensivhaltung), regulated under federal TierSchNutztV (Tierschutz-Nutztierhaltungsverordnung). GDR-era large-scale operations persist. EU Farm-to-Fork Strategy and Tier-haltungskennzeichnungsgesetz 2022 (mandatory animal welfare labeling) affect marketing. Veterinärämter conduct annual inspections.",
+      "penalty": "TierSchNutztV violations: fines up to €25,000; serious animal cruelty: up to 3 years under §17 TierSchG",
+      "exceptions": ["Outdoor pig farming and organic operations subject to different space requirements under EU 848/2018"],
+      "source": "https://www.gesetze-im-internet.de/tierschnutztv/",
+      "sourceLabel": "TierSchNutztV / TierSchG §17",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What 2022 German law requires mandatory animal welfare labeling on meat products?",
+        "options": ["LFGB", "Tierhaltungskennzeichnungsgesetz", "TierSchNutztV", "AMG"],
+        "correct": 1,
+        "explanation": "The Tierhaltungskennzeichnungsgesetz 2022 introduced mandatory animal welfare labeling for meat products in Germany, indicating the farming system used."
+      }
+    },
+    {
+      "id": 42257,
+      "category": "Tourism Law",
+      "severity": "low",
+      "icon": "🏕️",
+      "title": "Gartenreich Dessau-Wörlitz – UNESCO Welterbe 2000",
+      "subtitle": "18th-century garden kingdom protected as World Heritage",
+      "fullDescription": "The Garden Kingdom of Dessau-Wörlitz (Gartenreich Dessau-Wörlitz, ~150 km²) was inscribed UNESCO World Heritage in 2000. Created 1764–1800 by Prince Leopold III Friedrich Franz, it is considered the finest example of English landscape garden style in Germany. Protected under DSchG LSA; the Kulturstiftung Dessau-Wörlitz manages 11 palaces and gardens.",
+      "penalty": "Unauthorized development in protected landscape: fines up to €500,000 under §17 DSchG LSA",
+      "exceptions": ["Traditional agricultural use (hay meadows) permitted in park landscape as integral to heritage"],
+      "source": "https://whc.unesco.org/en/list/534",
+      "sourceLabel": "UNESCO WHC 2000 / DSchG LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year was the Garden Kingdom of Dessau-Wörlitz inscribed as a UNESCO World Heritage Site?",
+        "options": ["1994", "1996", "2000", "2006"],
+        "correct": 2,
+        "explanation": "The Garden Kingdom of Dessau-Wörlitz was inscribed as a UNESCO World Heritage Site in 2000, recognized as Germany's finest example of English landscape garden design."
+      }
+    },
+    {
+      "id": 42258,
+      "category": "Sports Law",
+      "severity": "low",
+      "icon": "⚽",
+      "title": "Hallescher FC & 1. FC Magdeburg – Vereinsrecht",
+      "subtitle": "Saxony-Anhalt's professional football clubs under DFL licensing",
+      "fullDescription": "Hallescher FC (3. Liga) and 1. FC Magdeburg (2. Bundesliga) are Saxony-Anhalt's professional football clubs. Both operate as eingetragene Vereine (e.V.) under BGB §21-79, with subsidiary GmbH & Co. KGaA for commercial operations. DFL licensing requires minimum equity capital, financial disclosure under HGB, and youth academy standards. 1. FC Magdeburg won the East German championship in 1972 and the UEFA Cup Winners' Cup 1974.",
+      "penalty": "DFL licensing violations: demotion or license revocation; e.V. financial irregularities: civil liability",
+      "exceptions": ["Amateur clubs registered as e.V. under simplified BGB rules without DFL licensing"],
+      "source": "https://www.dfl.de/lizenzierung",
+      "sourceLabel": "BGB §21 / DFL Lizenzierungsordnung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What major European trophy did 1. FC Magdeburg win in 1974?",
+        "options": ["UEFA Champions League", "UEFA Cup Winners' Cup", "UEFA Europa League", "Intertoto Cup"],
+        "correct": 1,
+        "explanation": "1. FC Magdeburg won the UEFA Cup Winners' Cup in 1974, defeating AC Milan 2-0 in the final — the only East German club to win a European trophy."
+      }
+    },
+    {
+      "id": 42259,
+      "category": "Housing Law",
+      "severity": "medium",
+      "icon": "🏠",
+      "title": "Wohnraumförderungsgesetz LSA – IB Sachsen-Anhalt",
+      "subtitle": "Social housing support through state development bank",
+      "fullDescription": "Investitionsbank Sachsen-Anhalt (IB) channels WoFG (Wohnraumförderungsgesetz) funds for social housing construction and renovation. Saxony-Anhalt faces a unique challenge: housing vacancy (Leerstand) in shrinking cities alongside demand in Halle/Magdeburg. The Stadtumbau Ost program (now Stadtentwicklung) provided €1bn+ for demolishing vacant housing since 2002.",
+      "penalty": "Misuse of housing subsidies: repayment + interest; criminal prosecution under §264 StGB for fraud",
+      "exceptions": ["Denkmalschutz renovations receive additional IB premium grants under separate program"],
+      "source": "https://www.ib-sachsen-anhalt.de",
+      "sourceLabel": "WoFG / IB Sachsen-Anhalt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What federal program provided over €1bn to demolish vacant housing in shrinking eastern German cities?",
+        "options": ["Städtebauförderung West", "Stadtumbau Ost", "Dorferneuerungsprogramm", "KfW Klimaschutzprogramm"],
+        "correct": 1,
+        "explanation": "The Stadtumbau Ost program (now incorporated into broader Stadtentwicklung funds) provided over €1bn for demolishing vacant housing in shrinking eastern German cities since 2002."
+      }
+    },
+    {
+      "id": 42260,
+      "category": "Press Law",
+      "severity": "medium",
+      "icon": "📰",
+      "title": "Pressegesetz Sachsen-Anhalt – LPresseG LSA",
+      "subtitle": "State press law governing print media in Saxony-Anhalt",
+      "fullDescription": "The Pressegesetz des Landes Sachsen-Anhalt (LPresseG LSA) governs print media, requiring imprints (Impressumspflicht), protection of journalistic sources (Zeugnisverweigerungsrecht under §53 StPO), and correction rights. Major newspapers include Mitteldeutsche Zeitung (Halle) and Volksstimme (Magdeburg), both part of regional media groups. Press freedom protected under Art. 5 GG and Art. 13 LSA-Verfassung.",
+      "penalty": "Impressum violations: fines up to €5,000; press freedom violations: constitutional complaint to VerfG LSA",
+      "exceptions": ["Internal company publications with restricted circulation exempt from commercial press law requirements"],
+      "source": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-PresseGSTrahmen",
+      "sourceLabel": "LPresseG LSA / Art. 5 GG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under German press law, what obligation ensures readers can identify who publishes a newspaper?",
+        "options": ["Gegendarstellungspflicht", "Impressumspflicht", "Auskunftspflicht", "Sorgfaltspflicht"],
+        "correct": 1,
+        "explanation": "The Impressumspflicht (imprint obligation) requires newspapers and publications to identify the responsible publisher, editor, and contact information."
+      }
+    },
+    {
+      "id": 42261,
+      "category": "Cultural Heritage Law",
+      "severity": "medium",
+      "icon": "🎨",
+      "title": "Landesmuseum für Vorgeschichte Halle – Schatzregal",
+      "subtitle": "Germany's most important prehistoric museum under state treasure law",
+      "fullDescription": "The Landesmuseum für Vorgeschichte Halle holds one of Germany's most important prehistoric collections, including the Nebra sky disc. The Schatzregal principle in DSchG LSA vests archaeological finds in state ownership automatically. ~3,000 objects are registered annually as Bodenfunde. The museum's Himmelsscheibe permanent exhibition draws 100,000+ annual visitors.",
+      "penalty": "Illegal excavation or withholding of Bodenfunde: fines up to €250,000 + criminal prosecution under §13 DSchG LSA",
+      "exceptions": ["Accidental finders (Zufallsfunde) protected from criminal liability if reported within reasonable time"],
+      "source": "https://www.lda.sachsen-anhalt.de",
+      "sourceLabel": "DSchG LSA Schatzregal / §13 DSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under the Schatzregal principle in German heritage law, who owns archaeological finds?",
+        "options": ["The landowner where found", "The finder", "The state (Land)", "The federal government"],
+        "correct": 2,
+        "explanation": "Under the Schatzregal principle in DSchG LSA, archaeological finds automatically become state (Land) property, regardless of who found them or on whose land."
+      }
+    },
+    {
+      "id": 42262,
+      "category": "Administrative Law",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Kommunalverfassung LSA – Gemeindeordnung",
+      "subtitle": "Municipal government law for Saxony-Anhalt's 218 municipalities",
+      "fullDescription": "The Kommunalverfassung des Landes Sachsen-Anhalt (KVG LSA) governs the 218 municipalities (Gemeinden) and 11 Landkreise plus 3 independent cities (Halle, Magdeburg, Dessau-Roßlau). Saxony-Anhalt underwent major Gemeindegebietsreform in 2010, reducing municipalities from 1,200+ to 218. Bürgermeister elected directly for 7-year terms.",
+      "penalty": "Municipal budget violations: Kommunalaufsicht intervention; Bürgermeister personal liability for gross negligence",
+      "exceptions": ["Ehrenamtliche Bürgermeister in small communities subject to simplified accountability rules"],
+      "source": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-KVGSTrahmen",
+      "sourceLabel": "KVG LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many municipalities does Saxony-Anhalt have after the 2010 Gemeindegebietsreform?",
+        "options": ["87", "218", "650", "1,200"],
+        "correct": 1,
+        "explanation": "Saxony-Anhalt's 2010 Gemeindegebietsreform reduced the number of municipalities from over 1,200 to 218, consolidating small communities into larger administrative units."
+      }
+    },
+    {
+      "id": 42263,
+      "category": "Labor Law",
+      "severity": "medium",
+      "icon": "🔧",
+      "title": "Handwerkskammer Halle – HwO & Meisterpflicht",
+      "subtitle": "Crafts chamber enforcing master craftsman requirement",
+      "fullDescription": "Handwerkskammer Halle supervises crafts trades in Saxony-Anhalt's southern region under Handwerksordnung (HwO). 41 regulated crafts require Meisterbrief (master craftsman certificate). The EU Services Directive 2006/123/EC and 2013 HwO reform removed Meisterpflicht for 53 crafts, but it was partly reintroduced in 2020 for 12 crafts (e.g., tiling, flooring) for consumer protection reasons.",
+      "penalty": "Operating regulated craft without Meisterbrief: fines up to €10,000 under §117 HwO; cease and desist orders",
+      "exceptions": ["EU citizens with equivalent qualifications may practice under §9 HwO EU recognition procedure"],
+      "source": "https://www.hwk-halle.de",
+      "sourceLabel": "HwO / EU Services Directive 2006/123",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many crafts trades require a Meisterbrief (master craftsman certificate) in Germany?",
+        "options": ["12", "28", "41", "94"],
+        "correct": 2,
+        "explanation": "Germany's Handwerksordnung requires a Meisterbrief for 41 regulated crafts trades (Anlage A), including electricians, plumbers, and bakers."
+      }
+    },
+    {
+      "id": 42264,
+      "category": "Criminal Law",
+      "severity": "medium",
+      "icon": "🚔",
+      "title": "Magdeburg Weihnachtsmarkt Anschlag 2024 – §211 StGB",
+      "subtitle": "2024 Christmas market vehicle attack under murder and terror law",
+      "fullDescription": "On 20 December 2024, a vehicle was driven into the Magdeburg Christmas market, killing 6 people and injuring 300+. The perpetrator was charged with murder (§211 StGB) and attempted murder. The attack prompted renewed debate on vehicle barrier requirements at public events under VStättVO and federal security review of Verfassungsschutz threat assessment failures.",
+      "penalty": "Murder (§211 StGB): mandatory life imprisonment; attempted murder: up to life under §211 read with §23 StGB",
+      "exceptions": ["Diminished responsibility (§21 StGB) reduces mandatory life sentence to defined term where proven"],
+      "source": "https://www.bundesgerichtshof.de",
+      "sourceLabel": "§211 StGB / VStättVO",
+      "lastUpdated": "2025-01-01",
+      "quiz": {
+        "q": "On what date did the Magdeburg Christmas market vehicle attack occur?",
+        "options": ["6 December 2024", "20 December 2024", "24 December 2024", "1 January 2025"],
+        "correct": 1,
+        "explanation": "The Magdeburg Christmas market attack occurred on 20 December 2024, when a vehicle was driven into the crowded market, killing 6 and injuring over 300."
+      }
+    },
+    {
+      "id": 42265,
+      "category": "Science Law",
+      "severity": "medium",
+      "icon": "🚀",
+      "title": "DLR Standort Magdeburg – Luft- und Raumfahrtrecht",
+      "subtitle": "German Aerospace Center operations under LuftVG and space law",
+      "fullDescription": "The DLR (Deutsches Zentrum für Luft- und Raumfahrt) operates research facilities in Magdeburg focusing on combustion systems and flow engineering. DLR activities are governed by LuftVG for aviation-related research and international space law (Weltraumvertrag 1967, ESA Convention) for space applications. The facility cooperates with OVGU Magdeburg.",
+      "penalty": "Aviation research safety violations: LBA oversight; export of dual-use space technology: AWG/HADDEX regulations",
+      "exceptions": ["Pure academic research publications exempt from AWG export licensing under open science provisions"],
+      "source": "https://www.dlr.de/magdeburg",
+      "sourceLabel": "LuftVG / Weltraumvertrag 1967",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What 1967 international treaty forms the foundation of space law governing activities like those at DLR?",
+        "options": ["Moon Agreement 1979", "Liability Convention 1972", "Outer Space Treaty 1967 (Weltraumvertrag)", "COPUOS Declaration 1996"],
+        "correct": 2,
+        "explanation": "The 1967 Outer Space Treaty (Weltraumvertrag) is the foundational international space law treaty, governing state responsibility for space activities and prohibiting national appropriation of space."
+      }
+    },
+    {
+      "id": 42266,
+      "category": "Pharmaceutical Law",
+      "severity": "high",
+      "icon": "🧬",
+      "title": "GenTG Sachsen-Anhalt – Biologische Sicherheit",
+      "subtitle": "GMO and genetic engineering safety oversight in research facilities",
+      "fullDescription": "Saxony-Anhalt's universities and research institutes (MLU Halle, OVGU Magdeburg) conduct genetic engineering research under GenTG (Gentechnikgesetz) with oversight by the Landesamt für Verbraucherschutz LSA (LAV). Contained use (geschlossene Verwendung) requires registration and safety classification. Agricultural GMO trials on open land are severely restricted under GenTG §16b.",
+      "penalty": "Unauthorized GMO release: criminal prosecution under §38 GenTG; fines up to €50,000 for registration failures",
+      "exceptions": ["S1 safety class research with self-replicating disabled organisms exempt from individual approval"],
+      "source": "https://www.lav.sachsen-anhalt.de",
+      "sourceLabel": "GenTG / LAV LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which authority in Saxony-Anhalt oversees GMO and genetic engineering safety compliance?",
+        "options": ["Landesdirektion", "LAV (Landesamt für Verbraucherschutz)", "LfD (Datenschutz)", "SOG LSA Polizei"],
+        "correct": 1,
+        "explanation": "The Landesamt für Verbraucherschutz Sachsen-Anhalt (LAV) oversees genetic engineering safety compliance, including GMO research in universities and research institutes."
+      }
+    },
+    {
+      "id": 42267,
+      "category": "Finance Law",
+      "severity": "medium",
+      "icon": "🏦",
+      "title": "Investitionsbank Sachsen-Anhalt – KWG & EU Beihilferecht",
+      "subtitle": "State development bank channeling EFRE and federal structural funds",
+      "fullDescription": "Investitionsbank Sachsen-Anhalt (IB) is the state development bank, managing EFRE (European Regional Development Fund), ESF+, ELER (rural development), and federal/state programs. IB disbursed ~€1.5bn in 2022. It operates under KWG banking supervision by BaFin and EU state aid rules (AGVO). Housing finance, SME loans, and Energieeffizienz programs are key products.",
+      "penalty": "IB subsidy fraud: repayment + criminal prosecution under §264 StGB (Subventionsbetrug)",
+      "exceptions": ["De minimis aid up to €300,000 over 3 years exempt from EU state aid notification (AGVO Art. 3)"],
+      "source": "https://www.ib-sachsen-anhalt.de",
+      "sourceLabel": "KWG / EU AGVO / EFRE-VO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What EU structural fund supports regional development and is channeled through banks like IB Sachsen-Anhalt?",
+        "options": ["ESF (European Social Fund)", "EFRE (European Regional Development Fund)", "EGF (European Globalisation Fund)", "ECDC (European Centre for Disease Prevention)"],
+        "correct": 1,
+        "explanation": "The EFRE (Europäischer Fonds für regionale Entwicklung / European Regional Development Fund) is the main EU structural fund for regional development, channeled through Investitionsbank Sachsen-Anhalt."
+      }
+    },
+    {
+      "id": 42268,
+      "category": "Immigration Law",
+      "severity": "medium",
+      "icon": "🛂",
+      "title": "Aufnahmeeinrichtung Halberstadt – AsylG §44",
+      "subtitle": "Asylum reception in Saxony-Anhalt with Königsteiner Schlüssel allocation",
+      "fullDescription": "Saxony-Anhalt receives ~4% of Germany's asylum seekers under the Königsteiner Schlüssel allocation formula (proportional to tax revenue and population). The Aufnahmeeinrichtung in Halberstadt and distributed housing in Gemeinden operate under AsylG §44. ~28,000 asylum seekers registered in 2023. Integration under §44 AufenthG requires 660-hour courses.",
+      "penalty": "Illegal residence after rejected asylum: deportation under §58 AufenthG; smuggling: up to 10 years under §96 AufenthG",
+      "exceptions": ["Duldung (toleration) issued where deportation technically impossible or inhumane under §60a AufenthG"],
+      "source": "https://www.sachsen-anhalt.de/asyl",
+      "sourceLabel": "AsylG §44 / AufenthG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Germany's asylum seekers does Saxony-Anhalt receive under the Königsteiner Schlüssel?",
+        "options": ["1%", "4%", "8%", "12%"],
+        "correct": 1,
+        "explanation": "Saxony-Anhalt receives approximately 4% of Germany's asylum seekers under the Königsteiner Schlüssel, proportional to its population and tax revenue share."
+      }
+    },
+    {
+      "id": 42269,
+      "category": "Environmental Law",
+      "severity": "high",
+      "icon": "🌡️",
+      "title": "Klimaschutzprogramm LSA – KSG Sachsen-Anhalt",
+      "subtitle": "Climate protection targets 65% reduction by 2030",
+      "fullDescription": "Saxony-Anhalt's Klimaschutzprogramm targets 65% CO₂ reduction by 2030 vs 1990 levels and climate neutrality by 2045. Key challenges include the chemical industry's energy intensity and MIBRAG lignite phase-out. The state benefits from structural funds under Kohlestrukturhilfen (~€700M for LSA) and EU Just Transition Fund for affected workers.",
+      "penalty": "Currently program targets without binding individual penalties; industrial operators subject to EU ETS and BImSchG",
+      "exceptions": ["Carbon Contracts for Difference (CCfD) being developed for heavy industry decarbonization support"],
+      "source": "https://www.sachsen-anhalt.de/klimaschutz",
+      "sourceLabel": "Klimaschutzprogramm LSA / EU ETS",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much does Saxony-Anhalt receive approximately from Kohlestrukturhilfen under the Strukturstärkungsgesetz?",
+        "options": ["€70M", "€300M", "€700M", "€4bn"],
+        "correct": 2,
+        "explanation": "Saxony-Anhalt receives approximately €700M in federal Kohlestrukturhilfen under the Strukturstärkungsgesetz for economic transformation after lignite phase-out."
+      }
+    },
+    {
+      "id": 42270,
+      "category": "Commerce Law",
+      "severity": "medium",
+      "icon": "🚢",
+      "title": "Elbe-Schifffahrt – BinSchStrO & Wasserstraßenrecht",
+      "subtitle": "Elbe river navigation law and declining inland waterway freight",
+      "fullDescription": "The Elbe river (586 km in Germany) is a federal waterway (Bundeswasserstraße) under WaStrG managed by WSA Elbe. Navigation rules under BinSchStrO apply. Low water levels (climate change) increasingly restrict navigation — in 2018 and 2022, sections became impassable for months. Freight volumes have declined 80%+ since 1990 (GDR era: 20M tonnes/year).",
+      "penalty": "BinSchStrO violations: fines under §7 BinSchAufgG; navigation without license: §3 BinSchG",
+      "exceptions": ["Traditional fishing boats and canoes under 15kW exempt from full BinSchG navigation rules"],
+      "source": "https://www.wsa-elbe.wsv.de",
+      "sourceLabel": "WaStrG / BinSchStrO / BinSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By approximately how much have Elbe freight shipping volumes declined since 1990 (GDR era peak)?",
+        "options": ["20%", "40%", "60%", "80%+"],
+        "correct": 3,
+        "explanation": "Elbe river freight volumes have declined over 80% since the GDR era (when up to 20M tonnes/year were transported), due to low water levels from climate change and modal shift to road."
+      }
+    },
+    {
+      "id": 42271,
+      "category": "Medical Law",
+      "severity": "high",
+      "icon": "🏥",
+      "title": "Rettungsdienst LSA – RettDG LSA Hilfsfrist",
+      "subtitle": "Emergency medical services law with 12-minute response time target",
+      "fullDescription": "The Rettungsdienstgesetz Sachsen-Anhalt (RettDG LSA) mandates emergency medical services across the state's 11 Landkreise plus 3 cities. Target response time (Hilfsfrist): 12 minutes in 90% of calls. Rural demographic decline challenges meeting targets in areas like Altmarkkreis Salzwedel. Notärzte (emergency physicians) cooperate with volunteer first responders.",
+      "penalty": "Systematic Hilfsfrist failures: civil liability for authorities; emergency service obstruction: §323c StGB",
+      "exceptions": ["Severe weather or mass casualty events exempt from normal response time accountability"],
+      "source": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-RettDGSTrahmen",
+      "sourceLabel": "RettDG LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the emergency response time target (Hilfsfrist) under RettDG LSA?",
+        "options": ["8 minutes", "10 minutes", "12 minutes", "15 minutes"],
+        "correct": 2,
+        "explanation": "The RettDG LSA mandates a 12-minute response time target (Hilfsfrist) to be met in 90% of emergency calls across Saxony-Anhalt."
+      }
+    },
+    {
+      "id": 42272,
+      "category": "Property Law",
+      "severity": "medium",
+      "icon": "🌳",
+      "title": "Waldgesetz LSA – SächsAN Forstwirtschaft",
+      "subtitle": "Forest law governing 490,000 ha of Saxony-Anhalt woodland",
+      "fullDescription": "The Waldgesetz des Landes Sachsen-Anhalt (WaldG LSA) governs 490,000 ha of forest (24% of land area). Sachsenanhaltinischer Forst-Landesbetrieb manages 165,000 ha of state forest. Drought and bark beetle damage (2018–2022) destroyed ~50,000 ha requiring emergency reforestation under WaldG LSA emergency provisions. PEFC/FSC certification required for public timber contracts.",
+      "penalty": "Illegal deforestation: fines up to €50,000 + mandatory reforestation at landowner's expense",
+      "exceptions": ["Christmas tree farms on agricultural land classified as agriculture, not forest, under §2 WaldG LSA"],
+      "source": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-WaldGSTrahmen",
+      "sourceLabel": "WaldG LSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Saxony-Anhalt's land area is covered by forest?",
+        "options": ["12%", "24%", "38%", "45%"],
+        "correct": 1,
+        "explanation": "Approximately 24% of Saxony-Anhalt (490,000 ha) is covered by forest, governed by the Waldgesetz des Landes Sachsen-Anhalt."
+      }
+    },
+    {
+      "id": 42273,
+      "category": "Mineral Law",
+      "severity": "medium",
+      "icon": "💎",
+      "title": "Kupferschieferbergbau Mansfeld – BBergG Altbergbau",
+      "subtitle": "Historic Mansfeld copper mining under old mine liability law",
+      "fullDescription": "Mansfeld district (Saxony-Anhalt) was home to one of Europe's largest copper-shale (Kupferschiefer) mining operations for 800 years, finally closed in 1990. LMBV handles ~1,400 abandoned mine shafts (Altbergbau) under BBergG and WHG. Ongoing ground subsidence (Bergschäden) and contaminated water discharges remain liability issues. The Mansfeld mine UNESCO nomination was under consideration.",
+      "penalty": "Abandoning mines without proper closure: BBergG §§55-56 cleanup obligations; liability for surface damage under §114 BBergG",
+      "exceptions": ["Surface landowners may claim compensation for mining-caused subsidence under §114 BBergG from LMBV"],
+      "source": "https://www.lmbv.de/mansfeld",
+      "sourceLabel": "BBergG §§55-56, §114",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many abandoned mine shafts from Mansfeld copper mining does LMBV manage in Saxony-Anhalt approximately?",
+        "options": ["140", "400", "1,400", "4,000"],
+        "correct": 2,
+        "explanation": "LMBV manages approximately 1,400 abandoned mine shafts from the historic Mansfeld copper-shale mining region, addressing ongoing ground subsidence and contamination issues."
+      }
+    },
+    {
+      "id": 42274,
+      "category": "Constitutional Law",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Landesverfassungsgericht Sachsen-Anhalt",
+      "subtitle": "State constitutional court reviewing LSA laws and organ disputes",
+      "fullDescription": "The Landesverfassungsgericht Sachsen-Anhalt (LVerfG LSA) reviews state laws for compatibility with the Landesverfassung, decides disputes between state organs (Organstreit), and hears municipal constitutional complaints. It has 7 judges appointed by the Landtag for 7-year terms. Notable decisions: ruling on SächsAn police law surveillance provisions and electoral law disputes.",
+      "penalty": "Unconstitutional state laws declared void; state organs must comply with binding decisions",
+      "exceptions": ["Federal constitutional questions go to BVerfG; EU law supremacy questions to CJEU via Article 267 TFEU"],
+      "source": "https://www.lverfg.justiz.sachsen-anhalt.de",
+      "sourceLabel": "LVerfGG LSA / Art. 75 LSA-Verfassung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many judges sit on the Landesverfassungsgericht Sachsen-Anhalt?",
+        "options": ["5", "7", "9", "12"],
+        "correct": 1,
+        "explanation": "The Landesverfassungsgericht Sachsen-Anhalt has 7 judges, appointed by the Landtag for 7-year terms."
+      }
+    },
+    {
+      "id": 42275,
+      "category": "Cultural Heritage Law",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Dom zu Magdeburg – Ältester gotischer Dom Deutschlands",
+      "subtitle": "Germany's oldest Gothic cathedral under DSchG LSA",
+      "fullDescription": "Magdeburg Cathedral (Dom St. Mauritius und Katharina), begun 1209, is Germany's oldest Gothic cathedral and final resting place of Holy Roman Emperor Otto I (912–973). It is protected under DSchG LSA and serves as an Evangelical Protestant cathedral. The Cathedral hosts major cultural events under GewO event permits. UNESCO nomination in consideration for joint Ottonische Gedenkstätten application.",
+      "penalty": "Unauthorized alterations: fines up to €500,000 under §17 DSchG LSA; vandalism: §304 StGB",
+      "exceptions": ["Regular religious services and traditional ceremonial use not restricted by monument status"],
+      "source": "https://www.magdeburger-dom.de",
+      "sourceLabel": "DSchG LSA / §304 StGB",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Magdeburg Cathedral (begun 1209) is notable as Germany's oldest example of which architectural style?",
+        "options": ["Romanesque", "Gothic", "Baroque", "Renaissance"],
+        "correct": 1,
+        "explanation": "Magdeburg Cathedral, begun in 1209, is Germany's oldest Gothic cathedral and serves as the final resting place of Emperor Otto I."
+      }
+    }
+  ]
+}

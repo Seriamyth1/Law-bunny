@@ -1,0 +1,1506 @@
+{
+  "country": "Saxony, Germany",
+  "slug": "saxony-germany",
+  "laws": [
+    {
+      "id": 42126,
+      "category": "Constitutional Law",
+      "severity": "critical",
+      "icon": "⚖️",
+      "title": "Sächsische Verfassung 1992",
+      "subtitle": "First fully democratic post-reunification state constitution",
+      "fullDescription": "Saxony adopted its constitution on 27 May 1992, the first German state to do so after reunification. It enshrines social rights alongside classical liberties, includes environmental protection as a state objective, and establishes the Verfassungsgerichtshof des Freistaates Sachsen.",
+      "penalty": "Constitutional violations reviewed by VerfGH Sachsen; laws may be declared void",
+      "exceptions": ["Federal constitutional law takes precedence under Art. 31 GG"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/3975",
+      "sourceLabel": "Sächsische Verfassung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Saxony adopt its post-reunification constitution?",
+        "options": ["1990", "1992", "1994", "1996"],
+        "correct": 1,
+        "explanation": "Saxony adopted its constitution on 27 May 1992, the first state to do so after German reunification."
+      }
+    },
+    {
+      "id": 42127,
+      "category": "Industrial Law",
+      "severity": "high",
+      "icon": "🚗",
+      "title": "VW Gläserne Manufaktur Dresden",
+      "subtitle": "Transparent factory subject to BImSchG and trade law",
+      "fullDescription": "Volkswagen's Gläserne Manufaktur in Dresden, opened 2002, produces electric vehicles (ID.3) in an urban glass building. It operates under BImSchG emission permits, BetrVG works council rules, and serves as a showroom under UWG trade regulations. The facility employs ~400 workers.",
+      "penalty": "BImSchG violations: fines up to €50,000; BetrVG breaches subject to labor court orders",
+      "exceptions": ["Tourist visits treated as commercial activity under GewO"],
+      "source": "https://www.bundesimmissionsschutz.de",
+      "sourceLabel": "BImSchG / VW Manufaktur",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What vehicle does VW's Dresden Gläserne Manufaktur currently produce?",
+        "options": ["Golf", "Touareg", "ID.3 electric", "Passat"],
+        "correct": 2,
+        "explanation": "The Dresden Gläserne Manufaktur produces the ID.3 electric vehicle."
+      }
+    },
+    {
+      "id": 42128,
+      "category": "Cultural Heritage Law",
+      "severity": "high",
+      "icon": "🏛️",
+      "title": "Dresden Frauenkirche UNESCO & DSchG Sachsen",
+      "subtitle": "Reconstructed baroque church protected under Saxon monument law",
+      "fullDescription": "The Dresden Frauenkirche, destroyed in 1945 and reconstructed 1994–2005, is protected under the Sächsisches Denkmalschutzgesetz (SächsDSchG). The Dresden Elbe Valley was a UNESCO World Heritage Site 1999–2009 but delisted after the Waldschlößchenbrücke was built. The church itself remains a protected monument.",
+      "penalty": "Unauthorized alterations: fines up to €500,000 under SächsDSchG §12",
+      "exceptions": ["Emergency repairs may proceed without full permit under §14 SächsDSchG"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/1868",
+      "sourceLabel": "SächsDSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why was Dresden Elbe Valley removed from UNESCO World Heritage status in 2009?",
+        "options": ["War damage", "Construction of Waldschlößchenbrücke bridge", "Industrial pollution", "Government request"],
+        "correct": 1,
+        "explanation": "UNESCO delisted Dresden Elbe Valley in 2009 because the Waldschlößchenbrücke bridge was built through the protected landscape."
+      }
+    },
+    {
+      "id": 42129,
+      "category": "Trade Fair Law",
+      "severity": "medium",
+      "icon": "🎪",
+      "title": "Leipziger Messe & Buchmesse",
+      "subtitle": "Trade fair law and intellectual property at Germany's oldest book fair",
+      "fullDescription": "The Leipzig Book Fair (Leipziger Buchmesse), one of Europe's oldest, operates under GewO trade law, UrhG copyright rules for displayed works, and MesseG trade fair regulations. The fair hosts ~2,500 exhibitors and 200,000+ visitors annually. Leipzig Messe GmbH is majority-owned by the City and State of Saxony.",
+      "penalty": "Copyright infringement at fairs: up to €1M fines or criminal prosecution under §106 UrhG",
+      "exceptions": ["Reading excerpts for review purposes protected under §49 UrhG"],
+      "source": "https://www.leipziger-messe.de",
+      "sourceLabel": "GewO / UrhG / Leipziger Messe",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who primarily owns Leipzig Messe GmbH?",
+        "options": ["Federal government", "Private publishers", "City of Leipzig and State of Saxony", "EU Commission"],
+        "correct": 2,
+        "explanation": "Leipzig Messe GmbH is majority-owned by the City of Leipzig and the Free State of Saxony."
+      }
+    },
+    {
+      "id": 42130,
+      "category": "Energy Law",
+      "severity": "critical",
+      "icon": "⛏️",
+      "title": "Lausitz Kohleausstieg – LEAG & Strukturstärkungsgesetz",
+      "subtitle": "Lignite phase-out by 2038 with €40bn structural aid for Lausitz region",
+      "fullDescription": "Saxony's Lausitz region hosts LEAG lignite operations under BBergG mining law and BImSchG. The Kohleausstiegsgesetz 2020 mandates phase-out by 2038 (possibly 2035). The Strukturstärkungsgesetz Kohleregionen provides ~€40bn federal aid for affected regions including Lausitz. LEAG received ~€1.75bn compensation.",
+      "penalty": "Operating mines beyond phase-out: prohibited; LEAG compensation legally binding under state treaty",
+      "exceptions": ["Grid stability emergency provisions may extend operation temporarily"],
+      "source": "https://www.gesetze-im-internet.de/kohleverstrombeendg/",
+      "sourceLabel": "Kohleausstiegsgesetz 2020",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much federal structural aid is allocated to coal regions like Lausitz under the Strukturstärkungsgesetz?",
+        "options": ["€4bn", "€10bn", "€40bn", "€100bn"],
+        "correct": 2,
+        "explanation": "The Strukturstärkungsgesetz Kohleregionen provides approximately €40bn in federal aid for coal mining regions including Lausitz."
+      }
+    },
+    {
+      "id": 42131,
+      "category": "Semiconductor & Technology Law",
+      "severity": "high",
+      "icon": "💾",
+      "title": "TSMC Dresden Fab – EU Chips Act & Investment Law",
+      "subtitle": "€10bn chip factory under EU Chips Act subsidies and investment screening",
+      "fullDescription": "Taiwan Semiconductor Manufacturing Company (TSMC) is building a €10bn semiconductor fab in Dresden (ESMC joint venture with Infineon, NXP, Bosch), opening ~2027. It benefits from EU Chips Act (EU 2023/1781) subsidies, German federal grants under AWG investment screening, and Saxony's semiconductor cluster incentives.",
+      "penalty": "Subsidy misuse: full repayment plus interest; AWG §15 violations: fines up to €500,000",
+      "exceptions": ["EU state aid rules limit maximum subsidy percentages for large companies"],
+      "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1781",
+      "sourceLabel": "EU Chips Act 2023/1781",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the estimated investment value of the TSMC Dresden semiconductor fab?",
+        "options": ["€1bn", "€5bn", "€10bn", "€50bn"],
+        "correct": 2,
+        "explanation": "The TSMC Dresden (ESMC) fab represents approximately €10bn in investment, supported by EU Chips Act subsidies."
+      }
+    },
+    {
+      "id": 42132,
+      "category": "Environmental Law",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Elbe Flood Protection – WHG & SächsWG",
+      "subtitle": "Recurring Elbe floods governed by water law and flood risk management",
+      "fullDescription": "Saxony's Elbe river floods of 2002 (€11.6bn damage) and 2013 prompted strengthened flood protection under WHG §72–78 and Sächsisches Wassergesetz (SächsWG). Flood risk maps, retention areas, and building restrictions in floodplains are mandatory. Saxony manages 544km of Elbe river banks.",
+      "penalty": "Building in designated flood zones without permit: fines up to €100,000 and demolition orders",
+      "exceptions": ["Existing buildings may be retained with flood-proofing measures under §78 WHG"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/13853",
+      "sourceLabel": "SächsWG / WHG §72-78",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much damage did the 2002 Elbe flood cause in Germany?",
+        "options": ["€1.1bn", "€3bn", "€11.6bn", "€30bn"],
+        "correct": 2,
+        "explanation": "The 2002 Elbe flood caused approximately €11.6bn in total damage, prompting major reforms to German flood protection law."
+      }
+    },
+    {
+      "id": 42133,
+      "category": "Education Law",
+      "severity": "medium",
+      "icon": "🎓",
+      "title": "Sächsisches Schulgesetz – Gymnasium & Oberschule",
+      "subtitle": "Saxon two-track secondary school system after grade 4",
+      "fullDescription": "The Sächsisches Schulgesetz (SchulG) establishes Saxony's distinctive two-track system: Gymnasium (years 5–12) and Oberschule (years 5–9/10), with tracking beginning at grade 4. Saxony consistently ranks among top German states in PISA-equivalent assessments. Class sizes are capped at 28 students.",
+      "penalty": "Compulsory schooling violations: fines up to €1,000 per offense under §34 SchulG",
+      "exceptions": ["Home schooling not permitted in Saxony; medical exemptions require authority approval"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/2830",
+      "sourceLabel": "Sächsisches Schulgesetz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "At what grade does Saxony's school tracking into Gymnasium or Oberschule begin?",
+        "options": ["Grade 2", "Grade 4", "Grade 6", "Grade 8"],
+        "correct": 1,
+        "explanation": "In Saxony, school tracking into Gymnasium or Oberschule begins after grade 4."
+      }
+    },
+    {
+      "id": 42134,
+      "category": "Cultural Heritage Law",
+      "severity": "high",
+      "icon": "🏺",
+      "title": "Meissener Porzellan – GI & MarkenG Protection",
+      "subtitle": "Meissen porcelain protected as geographical indication since 1710",
+      "fullDescription": "Meissen porcelain (Meissener Porzellan), manufactured since 1710 at Europe's first hard-paste porcelain manufactory, is protected as a geographical indication under EU regulation 1151/2012 and German MarkenG. The crossed swords trademark has been registered since the 18th century. The state-owned Staatliche Porzellan-Manufaktur Meissen GmbH produces 50,000+ pieces annually.",
+      "penalty": "Counterfeiting Meissen crossed swords mark: up to 3 years imprisonment under §143 MarkenG",
+      "exceptions": ["Historical pieces made before GI registration may use traditional descriptions"],
+      "source": "https://www.meissen.com",
+      "sourceLabel": "EU GI 1151/2012 / MarkenG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year was the Meissen porcelain manufactory founded?",
+        "options": ["1650", "1710", "1780", "1820"],
+        "correct": 1,
+        "explanation": "The Meissen porcelain manufactory was founded in 1710, making it Europe's oldest hard-paste porcelain factory."
+      }
+    },
+    {
+      "id": 42135,
+      "category": "Research Law",
+      "severity": "medium",
+      "icon": "🔬",
+      "title": "Max Planck Institute Leipzig – Wissenschaftsfreiheit",
+      "subtitle": "Research freedom under Art. 5 GG and institutional law",
+      "fullDescription": "Leipzig hosts two Max Planck Institutes (Evolutionary Anthropology and Mathematics in the Sciences). Research freedom under Art. 5 Abs. 3 GG protects institutional autonomy. The institutes receive joint federal-state funding under the Wissenschaftsgemeinschaft framework (GWK agreement), with Saxony contributing its proportional share.",
+      "penalty": "Interference with protected research: constitutional complaint to VerfGH or BVerfG",
+      "exceptions": ["Security-classified research subject to AWG/dual-use export restrictions"],
+      "source": "https://www.mpg.de",
+      "sourceLabel": "Art. 5 GG / GWK Abkommen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which constitutional provision is academic and research freedom protected in Germany?",
+        "options": ["Art. 2 GG", "Art. 5 Abs. 3 GG", "Art. 12 GG", "Art. 14 GG"],
+        "correct": 1,
+        "explanation": "Research and academic freedom (Wissenschaftsfreiheit) is protected under Art. 5 Abs. 3 GG."
+      }
+    },
+    {
+      "id": 42136,
+      "category": "Police Law",
+      "severity": "high",
+      "icon": "👮",
+      "title": "SächsPolG – Predictive Policing & Rechtsextremismus",
+      "subtitle": "Saxon police law with expanded surveillance powers and far-right monitoring",
+      "fullDescription": "The Sächsisches Polizeigesetz (SächsPolG) was significantly expanded in 2019, introducing electronic ankle monitoring, extended preventive detention (up to 74 days), and facial recognition. Saxony has Germany's highest density of far-right incidents per capita, driving extensive VS (Verfassungsschutz) monitoring under SächsVSG.",
+      "penalty": "Preventive detention up to 74 days; violations of monitoring orders: up to 1 year imprisonment",
+      "exceptions": ["Preventive detention requires judicial review within 48 hours"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/1038",
+      "sourceLabel": "SächsPolG 2019",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum preventive detention period under the 2019 SächsPolG?",
+        "options": ["7 days", "18 days", "74 days", "180 days"],
+        "correct": 2,
+        "explanation": "The 2019 SächsPolG introduced extended preventive detention of up to 74 days, one of the longest in Germany."
+      }
+    },
+    {
+      "id": 42137,
+      "category": "Broadcasting Law",
+      "severity": "medium",
+      "icon": "📺",
+      "title": "MDR – Mitteldeutscher Rundfunk Staatsvertrag",
+      "subtitle": "Joint broadcaster for Saxony, Saxony-Anhalt, and Thuringia",
+      "fullDescription": "Mitteldeutscher Rundfunk (MDR) is the joint public broadcaster for Saxony, Saxony-Anhalt, and Thuringia, established by Staatsvertrag in 1991. It operates under the Medienstaatsvertrag 2020 (MStV) with annual revenues of ~€650M from the €18.36/month Rundfunkbeitrag. MDR is an ARD member.",
+      "penalty": "Non-payment of Rundfunkbeitrag: enforcement via Rundfunkbeitragsservice; up to €1,000 fine for persistent refusal",
+      "exceptions": ["Low-income households and disabled persons may apply for exemption"],
+      "source": "https://www.mdr.de/unternehmen/rundfunkrecht/index.html",
+      "sourceLabel": "MDR-Staatsvertrag / MStV 2020",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which three German states share MDR as their joint public broadcaster?",
+        "options": ["Brandenburg, Berlin, Saxony", "Saxony, Saxony-Anhalt, Thuringia", "Saxony, Bavaria, Thuringia", "Saxony, Mecklenburg, Brandenburg"],
+        "correct": 1,
+        "explanation": "MDR serves Saxony, Saxony-Anhalt, and Thuringia as their joint ARD public broadcaster."
+      }
+    },
+    {
+      "id": 42138,
+      "category": "Mining Law",
+      "severity": "high",
+      "icon": "⛏️",
+      "title": "Sächsisches Bergrecht – Erzgebirge Mining Heritage",
+      "subtitle": "Historic silver mining region now UNESCO World Heritage under BBergG",
+      "fullDescription": "The Erzgebirge/Krušnohoří Mining Region became a UNESCO World Heritage Site in 2019 (shared with Czech Republic), recognizing 800 years of silver and uranium mining. Active mines operate under BBergG. The WISMUT uranium cleanup (Cold War Soviet uranium mining) remains one of Germany's largest environmental remediation projects at ~€6.4bn.",
+      "penalty": "Unauthorized mining: criminal prosecution under §§406–408 BBergG; fines up to €100,000",
+      "exceptions": ["Hobbyist surface mineral collecting permitted without license under §§3-4 BBergG"],
+      "source": "https://www.bgr.bund.de",
+      "sourceLabel": "BBergG / UNESCO Erzgebirge 2019",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the approximate cost of the WISMUT uranium mining cleanup in Saxony and Thuringia?",
+        "options": ["€640M", "€1.2bn", "€6.4bn", "€20bn"],
+        "correct": 2,
+        "explanation": "The WISMUT uranium mine cleanup is one of Germany's largest environmental remediation projects at approximately €6.4bn."
+      }
+    },
+    {
+      "id": 42139,
+      "category": "Transport Law",
+      "severity": "medium",
+      "icon": "🚂",
+      "title": "Sächsische Schmalspurbahnen – Eisenbahnrecht",
+      "subtitle": "Narrow gauge heritage railways under AEG and state transport law",
+      "fullDescription": "Saxony operates Germany's largest network of narrow gauge steam railways (Schmalspurbahnen), including Fichtelbergbahn, Weißeritztalbahn, and Zittauer Schmalspurbahn. These operate under AEG (Allgemeines Eisenbahngesetz), EBO safety regulations, and the Sächsische ÖPNV-Gesetz. The Sächsische Dampfeisenbahngesellschaft (SDG) operates on behalf of the state.",
+      "penalty": "Safety violations on heritage railways: fines under EBO §62; operations suspended by EBA",
+      "exceptions": ["Museum railways with <10km/h may operate under simplified EBO rules"],
+      "source": "https://www.eba.bund.de",
+      "sourceLabel": "AEG / EBO / SächsÖPNVG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which German state has the largest network of narrow gauge steam heritage railways?",
+        "options": ["Bavaria", "Thuringia", "Saxony", "Hesse"],
+        "correct": 2,
+        "explanation": "Saxony operates Germany's largest narrow gauge steam railway network, including several lines still in regular passenger service."
+      }
+    },
+    {
+      "id": 42140,
+      "category": "Higher Education Law",
+      "severity": "medium",
+      "icon": "🎓",
+      "title": "TU Dresden – Exzellenzuniversität SächsHSFG",
+      "subtitle": "Saxony's excellence university under higher education framework law",
+      "fullDescription": "Technische Universität Dresden was designated an Exzellenzuniversität in the Excellence Initiative (2012, renewed 2019), receiving additional federal-state funding. It operates under the Sächsisches Hochschulfreiheitsgesetz (SächsHSFG) with ~35,000 students. The university is a key node of Silicon Saxony, Germany's largest microelectronics cluster.",
+      "penalty": "Degree fraud: up to 3 years imprisonment under §132a StGB; title withdrawal under SächsHSFG",
+      "exceptions": ["Honorary degrees exempt from standard qualification requirements"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/10562",
+      "sourceLabel": "SächsHSFG / Exzellenzinitiative",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many students does TU Dresden have approximately?",
+        "options": ["8,000", "15,000", "35,000", "70,000"],
+        "correct": 2,
+        "explanation": "TU Dresden has approximately 35,000 students and is Saxony's largest and most prestigious university."
+      }
+    },
+    {
+      "id": 42141,
+      "category": "Data Protection Law",
+      "severity": "high",
+      "icon": "🔒",
+      "title": "SächsDSDG – Saxon Data Protection & LfDI Sachsen",
+      "subtitle": "State GDPR implementation and independent data protection authority",
+      "fullDescription": "The Sächsisches Datenschutzdurchführungsgesetz (SächsDSDG) implements GDPR (EU 2016/679) at state level. The Landesbeauftragte für Datenschutz und Informationsfreiheit (LfDI) Sachsen supervises public authorities. Notable cases include monitoring of PEGIDA/AfD data handling and police data retention practices.",
+      "penalty": "GDPR violations: fines up to €20M or 4% of global annual turnover under Art. 83 GDPR",
+      "exceptions": ["Journalistic data processing under §9c SächsDSDG has reduced requirements"],
+      "source": "https://www.saechsdsb.de",
+      "sourceLabel": "SächsDSDG / GDPR",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum GDPR fine for serious violations under Art. 83(5)?",
+        "options": ["€1M", "€10M", "€20M or 4% global turnover", "€100M"],
+        "correct": 2,
+        "explanation": "Under GDPR Art. 83(5), fines can reach €20M or 4% of global annual turnover, whichever is higher."
+      }
+    },
+    {
+      "id": 42142,
+      "category": "Cultural Law",
+      "severity": "medium",
+      "icon": "🎵",
+      "title": "Sächsische Staatsoper – Kulturförderungsgesetz",
+      "subtitle": "Semperoper Dresden funded under Saxon cultural promotion law",
+      "fullDescription": "The Sächsische Staatsoper (Semperoper) Dresden, one of the world's most prestigious opera houses, receives €60M+ annually from Saxony under the Sächsisches Kulturraumgesetz. The law establishes cultural funding zones (Kulturräume) covering rural and urban areas. Saxony spends ~€420M annually on culture.",
+      "penalty": "Misuse of cultural subsidies: repayment with interest under §49a VwVfG",
+      "exceptions": ["Emergency cultural events may receive expedited funding approvals"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/4135",
+      "sourceLabel": "Sächsisches Kulturraumgesetz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Semperoper's approximate annual public subsidy from Saxony?",
+        "options": ["€6M", "€20M", "€60M", "€200M"],
+        "correct": 2,
+        "explanation": "The Sächsische Staatsoper (Semperoper) receives over €60M annually from the Free State of Saxony."
+      }
+    },
+    {
+      "id": 42143,
+      "category": "Environmental Law",
+      "severity": "high",
+      "icon": "🌿",
+      "title": "Nationalpark Sächsische Schweiz – BNatSchG",
+      "subtitle": "93 km² sandstone national park under federal and state nature law",
+      "fullDescription": "Nationalpark Sächsische Schweiz (93.5 km²), established 1990, protects the Elbe Sandstone Mountains. It operates under BNatSchG §§20–36 and Sächsisches NatSchG. Climbing on designated rocks is regulated uniquely — Saxon climbing rules (Sächsisches Klettern) prohibit artificial aids (bolts) by tradition enforced as park regulations.",
+      "penalty": "Prohibited zone entry: fines up to €10,000; rock climbing violations: up to €5,000",
+      "exceptions": ["Designated climbing areas permit traditional free climbing without artificial protection"],
+      "source": "https://www.nationalpark-saechsische-schweiz.de",
+      "sourceLabel": "BNatSchG / SächsNatSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What unique rule applies to rock climbing in Nationalpark Sächsische Schweiz?",
+        "options": ["Climbing is completely banned", "Artificial aids like bolts are prohibited by tradition", "Only guided tours allowed", "Climbing permitted only in summer"],
+        "correct": 1,
+        "explanation": "Saxon climbing tradition (Sächsisches Klettern) prohibits artificial aids like bolts, enforced as park regulations in the Sächsische Schweiz."
+      }
+    },
+    {
+      "id": 42144,
+      "category": "Housing Law",
+      "severity": "medium",
+      "icon": "🏠",
+      "title": "Mietpreisbremse Leipzig – BGB §556d",
+      "subtitle": "Rent brake applies in Leipzig as designated tight housing market",
+      "fullDescription": "Leipzig was designated a tight housing market (angespannter Wohnungsmarkt) in 2022, making it subject to the Mietpreisbremse under BGB §556d. New rental agreements may not exceed 10% above the local Mietspiegel (rent index). Leipzig's population grew 10%+ since 2010, driving demand. ~65,000 social housing units exist in the city.",
+      "penalty": "Excess rent must be refunded retroactively; tenants may claim overpaid amounts for 30 months",
+      "exceptions": ["New construction and substantially renovated properties exempt under §556f BGB"],
+      "source": "https://www.gesetze-im-internet.de/bgb/__556d.html",
+      "sourceLabel": "BGB §556d / SächsMietbremse-VO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By what percentage above the local Mietspiegel can new rents exceed under the Mietpreisbremse?",
+        "options": ["5%", "10%", "20%", "30%"],
+        "correct": 1,
+        "explanation": "The Mietpreisbremse (§556d BGB) limits new rents to a maximum of 10% above the local Mietspiegel rent index."
+      }
+    },
+    {
+      "id": 42145,
+      "category": "Constitutional Law",
+      "severity": "high",
+      "icon": "⚖️",
+      "title": "Verfassungsgerichtshof Sachsen",
+      "subtitle": "State constitutional court with broad review jurisdiction",
+      "fullDescription": "The Verfassungsgerichtshof des Freistaates Sachsen (SächsVerfGH) reviews state laws for constitutional compatibility, decides disputes between state organs, and hears municipal constitutional complaints. It has 9 judges appointed by the Landtag. Notable decisions include rulings on the SächsPolG 2019 surveillance powers.",
+      "penalty": "Unconstitutional state laws declared void; state organs must comply with rulings",
+      "exceptions": ["Federal constitutional questions go to BVerfG, not SächsVerfGH"],
+      "source": "https://www.verfassungsgerichtshof.sachsen.de",
+      "sourceLabel": "SächsVerfGHG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many judges sit on the Verfassungsgerichtshof des Freistaates Sachsen?",
+        "options": ["5", "7", "9", "16"],
+        "correct": 2,
+        "explanation": "The Sächsische Verfassungsgerichtshof has 9 judges, appointed by the Saxon Landtag."
+      }
+    },
+    {
+      "id": 42146,
+      "category": "Labor Law",
+      "severity": "high",
+      "icon": "👷",
+      "title": "Infineon Dresden – BetrVG & Semiconductor Works Council",
+      "subtitle": "Silicon Saxony's anchor employer under codetermination law",
+      "fullDescription": "Infineon Technologies Dresden, with ~3,500 employees, is a cornerstone of Silicon Saxony — Germany's largest microelectronics cluster with 2,000+ companies and 70,000 employees. Works council (Betriebsrat) rights under BetrVG §§87-98 apply. Collective agreements (Tarifverträge) with IG Metall set wages. Infineon Dresden produces 300mm wafers.",
+      "penalty": "BetrVG violations (bypassing works council): fines up to €10,000 per offense under §121 BetrVG",
+      "exceptions": ["Urgent technical decisions may proceed with subsequent works council notification"],
+      "source": "https://www.infineon.com/dresden",
+      "sourceLabel": "BetrVG / IG Metall Tarifvertrag",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many companies and employees does Silicon Saxony's microelectronics cluster encompass?",
+        "options": ["200 companies / 7,000 employees", "2,000 companies / 70,000 employees", "500 companies / 20,000 employees", "5,000 companies / 200,000 employees"],
+        "correct": 1,
+        "explanation": "Silicon Saxony encompasses over 2,000 companies with approximately 70,000 employees, making it Germany's largest microelectronics cluster."
+      }
+    },
+    {
+      "id": 42147,
+      "category": "Healthcare Law",
+      "severity": "high",
+      "icon": "🏥",
+      "title": "Sächsisches KHG – Universitätsklinikum Dresden & Leipzig",
+      "subtitle": "Hospital planning law for 77 Saxon hospitals",
+      "fullDescription": "The Sächsisches Krankenhausgesetz (SächsKHG) governs hospital planning for Saxony's 77 hospitals. Universitätsklinikum Carl Gustav Carus (Dresden) and Universitätsklinikum Leipzig (UKL) are the two university hospitals, both exceeding 1,200 beds. Hospital funding follows dual system: investment from state, operating costs from health insurers (GKV-Finanzierungsgesetz).",
+      "penalty": "Operating unapproved hospital facilities: criminal prosecution and closure orders",
+      "exceptions": ["Private day clinics may operate under reduced licensing under §30 GewO"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/5640",
+      "sourceLabel": "SächsKHG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many hospitals does Saxony's KHG govern approximately?",
+        "options": ["22", "45", "77", "140"],
+        "correct": 2,
+        "explanation": "The Sächsisches Krankenhausgesetz covers approximately 77 hospitals in Saxony, including two university hospitals."
+      }
+    },
+    {
+      "id": 42148,
+      "category": "Electoral Law",
+      "severity": "medium",
+      "icon": "🗳️",
+      "title": "Sächsischer Landtag – 120 Sitze Wahlrecht",
+      "subtitle": "State parliament with proportional representation and 5% threshold",
+      "fullDescription": "The Sächsischer Landtag has a minimum of 120 seats, elected every 5 years under the Sächsisches Wahlgesetz using personalized proportional representation (Verhältniswahl mit Direktmandaten). A 5% threshold or 3 direct mandates required for parliamentary entry. The 2024 election resulted in CDU-SPD-BSW coalition after AfD won 30.6% but was excluded from coalition.",
+      "penalty": "Electoral fraud: up to 5 years imprisonment under §107a StGB",
+      "exceptions": ["Parties representing national minorities exempt from 5% threshold under SächsWahlG"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/3870",
+      "sourceLabel": "Sächsisches Wahlgesetz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What was the AfD's vote share in the 2024 Saxony Landtag election?",
+        "options": ["15.3%", "22.8%", "30.6%", "41.5%"],
+        "correct": 2,
+        "explanation": "The AfD won 30.6% in the 2024 Saxon Landtag election but was excluded from coalition negotiations by other parties."
+      }
+    },
+    {
+      "id": 42149,
+      "category": "Aviation Law",
+      "severity": "medium",
+      "icon": "✈️",
+      "title": "Flughafen Leipzig/Halle – Nachtflug DHL Hub",
+      "subtitle": "24-hour cargo hub under LuftVG; Europe's second-largest DHL facility",
+      "fullDescription": "Leipzig/Halle Airport (LEJ) hosts DHL's European air freight hub — Europe's second-largest cargo airport — operating 24 hours under LuftVG §6 permits. DHL employs ~6,000 at the hub. The airport is owned by Mitteldeutsche Flughafen AG (MFAG, Saxony/Saxony-Anhalt). Passenger operations are secondary to cargo, with 2.4M passengers vs 1.4M tonnes of cargo annually.",
+      "penalty": "Unauthorized night flights: revocation of permits; fines under LuftVZO §58",
+      "exceptions": ["Emergency medical and search-and-rescue flights exempt from night restrictions"],
+      "source": "https://www.leipzig-halle-airport.de",
+      "sourceLabel": "LuftVG / LuftVZO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes Leipzig/Halle Airport (LEJ) unusual among major German airports?",
+        "options": ["It has no passenger terminal", "It operates 24 hours for cargo with no night flight ban", "It is fully privately owned", "It specializes only in military aviation"],
+        "correct": 1,
+        "explanation": "Leipzig/Halle Airport operates 24 hours without night flight restrictions, making it ideal for DHL's overnight cargo hub operations."
+      }
+    },
+    {
+      "id": 42150,
+      "category": "Immigration Law",
+      "severity": "high",
+      "icon": "🛂",
+      "title": "Aufnahmeeinrichtungen Sachsen – AsylG",
+      "subtitle": "Asylum reception centers under asylum law amid far-right tensions",
+      "fullDescription": "Saxony operates initial reception facilities (Aufnahmeeinrichtungen) under AsylG §44 through the Landesdirektion Sachsen. With ~45,000 asylum seekers registered in 2023, Saxony has faced controversies including arson attacks on refugee housing and PEGIDA protests in Dresden. Allocation follows Königsteiner Schlüssel (Saxony: ~5%).",
+      "penalty": "Illegal residence after failed asylum: deportation under §58 AufenthG; criminal prosecution for smuggling under §96 AufenthG",
+      "exceptions": ["Subsidiary protection granted for persons from conflict zones under §4 AsylG"],
+      "source": "https://www.asyl.net/sachsen",
+      "sourceLabel": "AsylG §44 / AufenthG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Germany's asylum seekers does Saxony receive under the Königsteiner Schlüssel?",
+        "options": ["1%", "3%", "5%", "12%"],
+        "correct": 2,
+        "explanation": "Saxony receives approximately 5% of Germany's asylum seekers under the Königsteiner Schlüssel allocation formula."
+      }
+    },
+    {
+      "id": 42151,
+      "category": "Tax Law",
+      "severity": "high",
+      "icon": "💰",
+      "title": "Grunderwerbsteuer Sachsen – 5.5%",
+      "subtitle": "Real estate transfer tax set at 5.5% by Saxon state law",
+      "fullDescription": "Saxony sets its Grunderwerbsteuer (real estate transfer tax) at 5.5% under GrEStG §11, one of the lower rates among German states (range: 3.5%–6.5%). The tax applies to all property transfers. First-time buyers benefit from federal plans for exemptions on primary residence purchases under discussion since 2023.",
+      "penalty": "Tax evasion on property transfer: surcharges + interest under §235 AO; criminal prosecution under §370 AO",
+      "exceptions": ["Family transfers (spouse, children) exempt under §3 GrEStG"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/13855",
+      "sourceLabel": "GrEStG §11 / SächsGrEStG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Saxony's Grunderwerbsteuer rate?",
+        "options": ["3.5%", "5.5%", "6%", "6.5%"],
+        "correct": 1,
+        "explanation": "Saxony's real estate transfer tax (Grunderwerbsteuer) is set at 5.5%, below the national maximum of 6.5%."
+      }
+    },
+    {
+      "id": 42152,
+      "category": "Environmental Law",
+      "severity": "medium",
+      "icon": "🌲",
+      "title": "Sächsisches Waldgesetz – 28% Forest Cover",
+      "subtitle": "Forest law governing 512,000 ha of Saxon woodland",
+      "fullDescription": "The Sächsisches Waldgesetz (SächsWaldG) governs Saxony's 512,000 ha of forest (28% land cover). Staatsbetrieb Sachsenforst manages 207,000 ha of state forest. Bark beetle damage from the 2018–2020 droughts affected 30,000+ ha requiring emergency clear-cutting authorizations. Timber export rules follow EU Timber Regulation (EUTR).",
+      "penalty": "Illegal deforestation: fines up to €50,000 and mandatory reforestation under §24 SächsWaldG",
+      "exceptions": ["Christmas tree farms on agricultural land exempt from forest law provisions"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/4284",
+      "sourceLabel": "SächsWaldG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Saxony is covered by forest?",
+        "options": ["14%", "22%", "28%", "42%"],
+        "correct": 2,
+        "explanation": "Approximately 28% of Saxony (512,000 ha) is forested, governed by the Sächsisches Waldgesetz."
+      }
+    },
+    {
+      "id": 42153,
+      "category": "Finance Law",
+      "severity": "high",
+      "icon": "🏦",
+      "title": "Sächsische Aufbaubank – SAB Förderrecht",
+      "subtitle": "State development bank channeling EU structural funds",
+      "fullDescription": "Sächsische Aufbaubank (SAB) is Saxony's state development bank, channeling EFRE (European Regional Development Fund), ESF+, and federal-state programs. SAB managed ~€3bn in loan and grant programs in 2022, supporting housing, SMEs, and infrastructure. It operates under KWG banking supervision by BaFin.",
+      "penalty": "Fraudulent subsidy applications: repayment plus criminal prosecution under §264 StGB (Subventionsbetrug)",
+      "exceptions": ["De minimis aid up to €300,000 over 3 years exempt from full state aid notification"],
+      "source": "https://www.sab.de",
+      "sourceLabel": "SAB / EFRE-VO / KWG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What EU funding program does SAB primarily channel for regional development?",
+        "options": ["ESF", "EFRE (European Regional Development Fund)", "Cohesion Fund", "Horizon Europe"],
+        "correct": 1,
+        "explanation": "SAB primarily channels EFRE (European Regional Development Fund) alongside ESF+ for Saxon regional development programs."
+      }
+    },
+    {
+      "id": 42154,
+      "category": "Cultural Heritage Law",
+      "severity": "high",
+      "icon": "🏰",
+      "title": "Schloss Moritzburg & Sächsische Schlösserverwaltung",
+      "subtitle": "40+ Saxon palaces managed under state heritage administration",
+      "fullDescription": "The Staatsbetrieb Sächsisches Immobilien- und Baumanagement and Staatliche Schlösser, Burgen und Gärten Sachsen (SBG) manage 50+ historic palaces, castles, and gardens including Moritzburg, Pillnitz, Albrechtsburg Meissen. These are protected under SächsDSchG and generate ~€15M annual visitor revenues. The Grünes Gewölbe (Green Vault) in Dresden holds Europe's largest collection of baroque treasures.",
+      "penalty": "Theft from state palaces: enhanced penalties under §243 StGB (besonders schwerer Fall des Diebstahls)",
+      "exceptions": ["Palace parks generally open to the public free of charge under SächsNatSchG"],
+      "source": "https://www.schloesserland-sachsen.de",
+      "sourceLabel": "SächsDSchG / SBG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is held in the Grünes Gewölbe (Green Vault) in Dresden?",
+        "options": ["Saxon crown jewels only", "Europe's largest collection of baroque treasures", "Medieval manuscripts", "Roman artifacts"],
+        "correct": 1,
+        "explanation": "The Grünes Gewölbe (Green Vault) in Dresden houses Europe's largest collection of baroque treasures, assembled by August the Strong."
+      }
+    },
+    {
+      "id": 42155,
+      "category": "Crime Law",
+      "severity": "critical",
+      "icon": "💎",
+      "title": "Grünes Gewölbe Heist 2019 – §244 StGB Bandenmäßiger Diebstahl",
+      "subtitle": "Largest art theft in postwar German history, 21 jewel pieces stolen",
+      "fullDescription": "On 25 November 2019, thieves stole 21 jewel sets from the Grünes Gewölbe worth €1bn+, the largest postwar German art theft. Six Berlin-based perpetrators were convicted in 2023 under §244 StGB (aggravated theft by gang) with sentences of 4–6 years. Most stolen items were returned as part of plea agreements. The case prompted major security upgrades at Saxon museums.",
+      "penalty": "Gang theft (§244 Abs. 1 Nr. 2 StGB): 6 months to 10 years imprisonment; cultural asset theft: aggravated under §243",
+      "exceptions": ["Plea agreements (Absprachen) under §257c StPO allowed sentence reductions in exchange for returning items"],
+      "source": "https://www.bundesgerichtshof.de",
+      "sourceLabel": "§244 StGB / §257c StPO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year was the Grünes Gewölbe jewel heist in Dresden?",
+        "options": ["2015", "2017", "2019", "2021"],
+        "correct": 2,
+        "explanation": "The Grünes Gewölbe heist occurred on 25 November 2019, with 21 priceless jewel sets stolen in Germany's largest postwar art theft."
+      }
+    },
+    {
+      "id": 42156,
+      "category": "Energy Law",
+      "severity": "high",
+      "icon": "☀️",
+      "title": "Sächsisches Klimaschutzprogramm 2021 – KSG Sachsen",
+      "subtitle": "Climate neutrality by 2045 with interim 2030 targets",
+      "fullDescription": "Saxony adopted its Klimaschutzprogramm 2021 with targets of 65% CO₂ reduction by 2030 and climate neutrality by 2045, mirroring federal KSG targets. Saxony generates significant CO₂ from lignite (LEAG). The state aims for 6,000 MW wind + 10,000 MW solar by 2030. A new Sächsisches Klimaschutzgesetz is planned.",
+      "penalty": "Currently program-based (no binding penalties); binding targets expected with planned KSG legislation",
+      "exceptions": ["Industrial process emissions from non-substitutable processes subject to separate sector agreements"],
+      "source": "https://www.sachsen.de/klimaschutz",
+      "sourceLabel": "Sächsisches Klimaschutzprogramm 2021",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By what year does Saxony aim to achieve climate neutrality?",
+        "options": ["2035", "2040", "2045", "2050"],
+        "correct": 2,
+        "explanation": "Saxony's Klimaschutzprogramm targets climate neutrality by 2045, aligned with the federal German climate protection goals."
+      }
+    },
+    {
+      "id": 42157,
+      "category": "Research Law",
+      "severity": "medium",
+      "icon": "🧬",
+      "title": "Helmholtz-Zentrum für Umweltforschung – UFZ Leipzig",
+      "subtitle": "Federal research center under institutional law and AWG",
+      "fullDescription": "The Helmholtz-Zentrum für Umweltforschung (UFZ) in Leipzig employs ~1,100 scientists researching environmental systems. It operates under the Helmholtz Association framework, jointly funded by federal (90%) and state (10%) governments. Research involving GMOs is regulated under GenTG; chemical research under REACH (EU 1907/2006).",
+      "penalty": "Unauthorized GMO release: criminal prosecution under §38 GenTG; fines up to €50,000",
+      "exceptions": ["Contained use of GMOs for research permitted under §8 GenTG with registration"],
+      "source": "https://www.ufz.de",
+      "sourceLabel": "GenTG / REACH / Helmholtz-GV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the federal-state funding split for Helmholtz Association research centers like UFZ Leipzig?",
+        "options": ["50% federal / 50% state", "70% federal / 30% state", "90% federal / 10% state", "100% federal"],
+        "correct": 2,
+        "explanation": "Helmholtz Association centers are funded 90% by the federal government and 10% by the host state (here Saxony/Saxony-Anhalt)."
+      }
+    },
+    {
+      "id": 42158,
+      "category": "Consumer Law",
+      "severity": "medium",
+      "icon": "🛡️",
+      "title": "Verbraucherzentrale Sachsen – §8 UWG Abmahnrecht",
+      "subtitle": "Consumer protection center with injunction authority under UWG",
+      "fullDescription": "Verbraucherzentrale Sachsen provides consumer advice and holds locus standi to issue Abmahnungen (cease-and-desist notices) under §8 UWG for unfair commercial practices. It coordinates with the federal network of Verbraucherzentralen. Key areas include digital consumer rights (DSA compliance, subscription traps) and energy contract advice post-2022 price spikes.",
+      "penalty": "Unfair commercial practices: injunctions + damages under §§8-9 UWG; fines up to €250,000 for repeat violations",
+      "exceptions": ["De minimis violations (triviale Verstöße) generally not pursued under proportionality principle"],
+      "source": "https://www.verbraucherzentrale-sachsen.de",
+      "sourceLabel": "§8 UWG / DSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which law does Verbraucherzentrale Sachsen have authority to issue Abmahnungen against unfair practices?",
+        "options": ["BGB", "§8 UWG", "GWB", "VIG"],
+        "correct": 1,
+        "explanation": "Verbraucherzentrale Sachsen can issue Abmahnungen (cease-and-desist notices) for unfair commercial practices under §8 UWG (Gesetz gegen den unlauteren Wettbewerb)."
+      }
+    },
+    {
+      "id": 42159,
+      "category": "Labor Law",
+      "severity": "high",
+      "icon": "✈️",
+      "title": "Lufthansa Technik Dresden – ArbSchG Luftfahrtwartung",
+      "subtitle": "Aircraft maintenance under aviation safety and labor law",
+      "fullDescription": "Lufthansa Technik Dresden GmbH provides aircraft maintenance, repair, and overhaul (MRO) for ~600 employees. It operates under LuftBO (Betriebsordnung für Luftfahrtgerät), EU 2042/2003 Part 145 maintenance approvals, and ArbSchG occupational safety. Workers require EASA Part 66 licenses. IG Metall represents maintenance workers.",
+      "penalty": "Unauthorized aircraft release-to-service: criminal liability for mechanics; LBA may revoke Part 145 approval",
+      "exceptions": ["Emergency field repairs may use alternative procedures under EASA deferred defect rules"],
+      "source": "https://www.lufthansa-technik.com/dresden",
+      "sourceLabel": "LuftBO / EASA Part 145 / ArbSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What certification do aircraft maintenance technicians require under EU rules to release aircraft to service?",
+        "options": ["EASA Part 21", "EASA Part 66", "EASA Part 145", "ICAO Type A"],
+        "correct": 1,
+        "explanation": "Aircraft maintenance technicians require EASA Part 66 licenses to certify and release aircraft to service after maintenance."
+      }
+    },
+    {
+      "id": 42160,
+      "category": "Cultural Law",
+      "severity": "medium",
+      "icon": "🎻",
+      "title": "Gewandhausorchester Leipzig – Tarifrecht Kultur",
+      "subtitle": "World's oldest civic orchestra under TVöD and cultural employment law",
+      "fullDescription": "The Gewandhausorchester Leipzig, founded 1743, is the world's oldest civic orchestra. Its ~185 musicians are employed under the Tarifvertrag für Musiker in Kulturorchestern (TVK) by the City of Leipzig. The Gewandhaus venue (capacity 1,900) is city-owned. Budget: ~€35M annually. The principal conductor position (Gewandhauskapellmeister) is one of classical music's most prestigious.",
+      "penalty": "Violation of TVK musician contracts: labor court proceedings; collective action protected under Art. 9 Abs. 3 GG",
+      "exceptions": ["Guest performers may be engaged on short-term contracts exempt from full TVK provisions"],
+      "source": "https://www.gewandhausorchester.de",
+      "sourceLabel": "TVK / TVöD / Art. 9 GG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year was the Gewandhausorchester Leipzig founded, making it the world's oldest civic orchestra?",
+        "options": ["1685", "1743", "1800", "1871"],
+        "correct": 1,
+        "explanation": "The Gewandhausorchester Leipzig was founded in 1743, making it the world's oldest civic orchestra."
+      }
+    },
+    {
+      "id": 42161,
+      "category": "Fire Safety Law",
+      "severity": "high",
+      "icon": "🚒",
+      "title": "Sächsisches Brandschutz- und Hilfeleistungsgesetz – SächsBRKG",
+      "subtitle": "Fire service law for 1,300+ volunteer departments",
+      "fullDescription": "The Sächsisches Gesetz über den Brandschutz, Rettungsdienst und Katastrophenschutz (SächsBRKG) governs fire protection, rescue services, and civil protection. Saxony has ~1,300 volunteer fire departments with 50,000+ members, plus 19 professional fire departments (Berufsfeuerwehren) in cities. Response time target: 10 minutes in urban, 15 in rural areas.",
+      "penalty": "Arson: up to life imprisonment under §306a StGB (schwere Brandstiftung) if lives endangered",
+      "exceptions": ["Controlled burns for agricultural land clearing require advance fire authority notification"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/3949",
+      "sourceLabel": "SächsBRKG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many volunteer fire department members does Saxony have?",
+        "options": ["5,000", "20,000", "50,000", "100,000"],
+        "correct": 2,
+        "explanation": "Saxony has over 50,000 volunteer fire department (Freiwillige Feuerwehr) members across approximately 1,300 departments."
+      }
+    },
+    {
+      "id": 42162,
+      "category": "Agricultural Law",
+      "severity": "medium",
+      "icon": "🌾",
+      "title": "Sächsische Landwirtschaft – EU GAP & Nitratrichtlinie",
+      "subtitle": "610,000 ha of Saxon farmland under EU Common Agricultural Policy",
+      "fullDescription": "Saxony has 610,000 ha of agricultural land with 6,000 farms, average size 125 ha (one of Germany's largest, reflecting GDR-era collectivization). EU Common Agricultural Policy (CAP) direct payments total ~€250M/year for Saxon farmers. Nitrate Directive (91/676/EEC) restricts fertilizer application in designated vulnerable zones.",
+      "penalty": "Nitrate regulation violations: fines up to €50,000; loss of EU agricultural direct payments",
+      "exceptions": ["Organic farms certified under EU 848/2018 receive premium payments and reduced nitrate monitoring"],
+      "source": "https://www.landwirtschaft.sachsen.de",
+      "sourceLabel": "EU CAP / Nitratrichtlinie 91/676/EEC",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why is the average Saxon farm (125 ha) significantly larger than the German average?",
+        "options": ["Saxon soil quality requires larger farms", "GDR-era collectivization created large farm structures", "Saxon farmers receive larger EU subsidies", "Geography prevents small farms"],
+        "correct": 1,
+        "explanation": "GDR-era agricultural collectivization created large farm structures in Saxony that persisted after reunification, resulting in unusually large average farm sizes."
+      }
+    },
+    {
+      "id": 42163,
+      "category": "Procurement Law",
+      "severity": "medium",
+      "icon": "📋",
+      "title": "Sächsisches Vergabegesetz – Public Procurement",
+      "subtitle": "State procurement law implementing EU directives above threshold",
+      "fullDescription": "The Sächsisches Vergabegesetz (SächsVergabeG) governs public procurement above and below EU thresholds. Above-threshold contracts follow EU directives 2014/24/EU (public sector) and 2014/25/EU (utilities). Electronic procurement via eVergabe-Plattform mandatory since 2021. Annual Saxon public procurement volume: ~€5bn.",
+      "penalty": "Procurement violations by contracting authorities: contract voidance; losing bidders may claim damages",
+      "exceptions": ["Emergency procurement (Vergabe ohne Vergabeverfahren) permitted in genuine urgency under §14 Abs. 4 VgV"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/13843",
+      "sourceLabel": "SächsVergabeG / EU 2014/24",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Since when is electronic procurement (eVergabe) mandatory for Saxon public contracts?",
+        "options": ["2016", "2018", "2021", "2023"],
+        "correct": 2,
+        "explanation": "Electronic procurement via eVergabe platforms became mandatory for Saxon public contracting authorities in 2021."
+      }
+    },
+    {
+      "id": 42164,
+      "category": "Social Law",
+      "severity": "high",
+      "icon": "👶",
+      "title": "Sächsisches KitaG – Free Childcare from Age 1",
+      "subtitle": "Saxon childcare law with fee-free provision for all children",
+      "fullDescription": "The Sächsisches Kindertagesstättengesetz (SächsKitaG) provides fee-free childcare (Kita) for all children from age 1 to school entry, one of the most generous in Germany. Parents pay only for meals. Saxon Kita coverage rate is 57% for under-3s (vs 35% national average), reflecting GDR childcare tradition. ~3,200 Kitas serve 185,000 children.",
+      "penalty": "Operating unlicensed childcare: immediate closure; fines up to €10,000 under SächsKitaG §24",
+      "exceptions": ["Family day care (Tagespflege) for up to 5 children under simpler registration requirements"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/4193",
+      "sourceLabel": "SächsKitaG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Saxony's Kita coverage rate for children under 3, compared to the national average?",
+        "options": ["20% vs 15%", "57% vs 35%", "40% vs 40%", "70% vs 60%"],
+        "correct": 1,
+        "explanation": "Saxony's under-3 Kita coverage is 57%, significantly above the 35% national average, reflecting GDR childcare tradition."
+      }
+    },
+    {
+      "id": 42165,
+      "category": "Fiscal Law",
+      "severity": "high",
+      "icon": "💰",
+      "title": "Sächsische Schuldenbremse – Schuldenfreiheit 2006",
+      "subtitle": "Saxony debt-free since 2006, strictest fiscal discipline in Germany",
+      "fullDescription": "Saxony achieved zero net debt in 2006 and has operated debt-free since, unique among German states. The Sächsische Verfassung Art. 95 mirrors the federal Schuldenbremse (Art. 109 GG) but with stricter provisions. Saxony maintains the Generationenfonds (€3.3bn) to cover future pension obligations. Annual budget: ~€23bn.",
+      "penalty": "Budget violations subject to constitutional review by VerfGH; Finance Minister personally accountable",
+      "exceptions": ["Natural disaster emergency credits permitted under Art. 95 Abs. 5 SächsVerf with repayment plan"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/3975",
+      "sourceLabel": "Art. 95 SächsVerf / Art. 109 GG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year did Saxony achieve zero net debt, becoming Germany's most fiscally disciplined state?",
+        "options": ["1999", "2003", "2006", "2012"],
+        "correct": 2,
+        "explanation": "Saxony achieved zero net debt in 2006 and has maintained debt-free status since, unique among German federal states."
+      }
+    },
+    {
+      "id": 42166,
+      "category": "Transport Law",
+      "severity": "medium",
+      "icon": "🚇",
+      "title": "Dresdner Verkehrsbetriebe – ÖPNV Tarifverbund",
+      "subtitle": "Municipal public transport under SächsÖPNVG and VVO Verbund",
+      "fullDescription": "Dresdner Verkehrsbetriebe (DVB) operates Dresden's tram and bus network (15 tram lines, 29 bus lines, ~640,000 daily trips) within the Verkehrsverbund Oberelbe (VVO). It operates under SächsÖPNVG and PBefG. The historic F-Wagen trams (1926-design) are preserved as heritage vehicles. The Deutschlandticket (€58/month) applies across VVO since 2023.",
+      "penalty": "Fare evasion (Schwarzfahren): €60 Erhöhtes Beförderungsentgelt under §9 BefBed; persistent offenders prosecuted under §265a StGB",
+      "exceptions": ["Children under 6 travel free; severely disabled persons with Schwerbehindertenausweis travel free on local transport"],
+      "source": "https://www.dvb.de",
+      "sourceLabel": "SächsÖPNVG / PBefG / Deutschlandticket",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the standard fine for fare evasion on German public transport?",
+        "options": ["€20", "€40", "€60", "€100"],
+        "correct": 2,
+        "explanation": "Fare evasion (Schwarzfahren) results in a €60 Erhöhtes Beförderungsentgelt (elevated carriage fee), standardized across German public transport."
+      }
+    },
+    {
+      "id": 42167,
+      "category": "Police Law",
+      "severity": "high",
+      "icon": "🏴",
+      "title": "PEGIDA – VersG & Versammlungsfreiheit",
+      "subtitle": "Anti-Islam marches test assembly law limits in Dresden",
+      "fullDescription": "PEGIDA (Patriotische Europäer gegen die Islamisierung des Abendlandes) marches began in Dresden in October 2014, testing the limits of Versammlungsfreiheit (Art. 8 GG) and SächsVersammlungsG. At peak, 25,000 attended Monday marches. Courts repeatedly upheld PEGIDA's right to march while allowing counter-demonstrations. Police costs exceeded €50M cumulatively.",
+      "penalty": "Banned assemblies: forced dispersal under SächsVersammlungsG §15; participants risk fines up to €30,000",
+      "exceptions": ["Spontaneous assemblies (Spontanversammlungen) may occur without prior notice under Art. 8 GG"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/5004",
+      "sourceLabel": "SächsVersG / Art. 8 GG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year did PEGIDA marches begin in Dresden?",
+        "options": ["2012", "2013", "2014", "2016"],
+        "correct": 2,
+        "explanation": "PEGIDA (Patriotische Europäer gegen die Islamisierung des Abendlandes) began holding weekly Monday marches in Dresden in October 2014."
+      }
+    },
+    {
+      "id": 42168,
+      "category": "Refugee Law",
+      "severity": "high",
+      "icon": "🏘️",
+      "title": "Chemnitz 2018 – §125 StGB Landfriedensbruch",
+      "subtitle": "Far-right riots after Chemnitz killing test public order law",
+      "fullDescription": "Following the fatal stabbing of Daniel H. in Chemnitz in August 2018, far-right riots involving 6,000+ participants led to numerous §125 StGB (Landfriedensbruch) prosecutions. The event triggered national debate on right-wing violence and prompted review of SächsPolG intelligence powers. The Saxon Verfassungsschutz's handling of right-wing threats faced parliamentary scrutiny.",
+      "penalty": "Landfriedensbruch (§125 StGB): up to 3 years imprisonment; aggravated (§125a): up to 10 years if weapons used",
+      "exceptions": ["Bystanders not actively participating in riots cannot be prosecuted under §125 StGB"],
+      "source": "https://www.gesetze-im-internet.de/stgb/__125.html",
+      "sourceLabel": "§125 StGB / §125a StGB",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What criminal offense (§ StGB) applies to participation in riots that disturb public peace?",
+        "options": ["§123 Hausfriedensbruch", "§125 Landfriedensbruch", "§240 Nötigung", "§303 Sachbeschädigung"],
+        "correct": 1,
+        "explanation": "§125 StGB (Landfriedensbruch) covers participation in riots or assemblies where violence or threats disturb public peace, with up to 3 years imprisonment."
+      }
+    },
+    {
+      "id": 42169,
+      "category": "Healthcare Law",
+      "severity": "medium",
+      "icon": "💊",
+      "title": "Sächsische Landesärztekammer – Approbationsordnung",
+      "subtitle": "Medical licensing and physician conduct governed by state chamber",
+      "fullDescription": "The Sächsische Landesärztekammer regulates ~24,000 licensed physicians under the Approbationsordnung für Ärzte (ÄAppO) and Sächsische Berufsordnung für Ärzte. The Ärztegericht (medical court) handles disciplinary cases. Physician density in rural Saxon areas is below national average, prompting Landarztgesetz incentives for rural practice.",
+      "penalty": "Unlicensed medical practice: up to 3 years imprisonment under §5 HeilprG; Approbation revocation for serious misconduct",
+      "exceptions": ["EU physicians may practice under EU professional qualifications directive 2005/36/EC with recognition procedure"],
+      "source": "https://www.slaek.de",
+      "sourceLabel": "ÄAppO / Sächsische Berufsordnung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many licensed physicians does the Sächsische Landesärztekammer regulate approximately?",
+        "options": ["4,000", "10,000", "24,000", "50,000"],
+        "correct": 2,
+        "explanation": "The Sächsische Landesärztekammer regulates approximately 24,000 licensed physicians in the Free State of Saxony."
+      }
+    },
+    {
+      "id": 42170,
+      "category": "Real Estate Law",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "SächsBO – Sächsische Bauordnung 2016",
+      "subtitle": "Building code governing construction across Saxony",
+      "fullDescription": "The Sächsische Bauordnung (SächsBO) 2016 regulates construction permits, building safety, and fire protection requirements in Saxony. Buildings over 7 storeys require sprinkler systems; timber construction permitted up to 7 storeys since 2016 reform. Solar installation mandatory for new commercial buildings since 2023 (SächsBO amendment).",
+      "penalty": "Unauthorized construction: demolition order and fines up to €500,000 under §79 SächsBO",
+      "exceptions": ["Small structures under 10m² may be built without permit in many zones (verfahrensfreie Vorhaben)"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/10056",
+      "sourceLabel": "SächsBO 2016",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Since when has solar installation been mandatory for new commercial buildings in Saxony?",
+        "options": ["2019", "2021", "2023", "Not yet mandatory"],
+        "correct": 2,
+        "explanation": "Saxony's 2023 amendment to the SächsBO introduced mandatory solar installation requirements for new commercial buildings."
+      }
+    },
+    {
+      "id": 42171,
+      "category": "Wildlife Law",
+      "severity": "medium",
+      "icon": "🐺",
+      "title": "Wolfspopulation Sachsen – §44 BNatSchG Habitatschutz",
+      "subtitle": "30+ wolf packs strictly protected despite livestock conflicts",
+      "fullDescription": "Saxony has Germany's largest wolf population (30+ packs, ~180 animals) since wolves returned in 2000 (Oberlausitz). Wolves are strictly protected under §44 BNatSchG and FFH Directive Annex IV. Farmers receive compensation for livestock kills via SächsWolfFondsVO. Shooting permits (Entnahme) require federal-state approval and proof of habituation to humans.",
+      "penalty": "Illegal wolf killing: up to 5 years imprisonment under §69 BNatSchG + fines up to €50,000",
+      "exceptions": ["Immediate defense of livestock or humans from attacking wolf may be justified under §32 OWiG"],
+      "source": "https://www.wolf.sachsen.de",
+      "sourceLabel": "§44 BNatSchG / FFH Annex IV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did wolves return to Saxony after centuries of absence?",
+        "options": ["1988", "1995", "2000", "2010"],
+        "correct": 2,
+        "explanation": "Wolves returned to Saxony's Oberlausitz region in 2000, and Saxony now hosts Germany's largest wolf population with 30+ packs."
+      }
+    },
+    {
+      "id": 42172,
+      "category": "Telecommunications Law",
+      "severity": "medium",
+      "icon": "📡",
+      "title": "Glasfaserausbau Sachsen – TKG 2021 Gigabitstrategie",
+      "subtitle": "Fiber broadband expansion under 2021 Telecommunications Act",
+      "fullDescription": "Saxony aims for 90%+ gigabit broadband coverage by 2025 under the federal Gigabitstrategie and TKG 2021. SAB manages EU-funded rural broadband grants (~€600M). Urban areas served by Deutsche Telekom, Vodafone, and regional providers under open access rules. 5G coverage reaches ~85% of Saxon population.",
+      "penalty": "TKG access violations: fines imposed by BNetzA up to €1M; network separation obligations enforceable",
+      "exceptions": ["Rural areas with negative business cases receive up to 50% state subsidy for network construction"],
+      "source": "https://www.gesetze-im-internet.de/tkg_2021/",
+      "sourceLabel": "TKG 2021 / Gigabitstrategie",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Saxony's gigabit broadband coverage target year under the federal Gigabitstrategie?",
+        "options": ["2023", "2025", "2027", "2030"],
+        "correct": 1,
+        "explanation": "Saxony targets 90%+ gigabit broadband coverage by 2025, with SAB managing EU-funded rural broadband grants."
+      }
+    },
+    {
+      "id": 42173,
+      "category": "Sports Law",
+      "severity": "medium",
+      "icon": "⚽",
+      "title": "RB Leipzig – §12c LigaStatut 50+1 Ausnahme",
+      "subtitle": "Red Bull-owned club controversially exempted from 50+1 rule",
+      "fullDescription": "RB Leipzig (founded 2009 by Red Bull) operates in the Bundesliga under an exemption from the DFL's 50+1 ownership rule, which normally requires members to hold majority voting rights. The club controversially restricts membership to ~20 people (annual fee €1,000) to maintain Red Bull control. This is disputed under DFL-Lizenzierungsordnung and GWB competition law.",
+      "penalty": "DFL may sanction non-compliant clubs; potential antitrust review by Bundeskartellamt under §19 GWB",
+      "exceptions": ["Pre-2000 investor control exemptions under §16c LigaStatut (e.g., Bayer Leverkusen, VfL Wolfsburg)"],
+      "source": "https://www.dfl.de/de/lizenzierung/",
+      "sourceLabel": "§12c LigaStatut DFL / 50+1 Regel",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many members does RB Leipzig restrict itself to, to maintain Red Bull's control?",
+        "options": ["20", "200", "2,000", "20,000"],
+        "correct": 0,
+        "explanation": "RB Leipzig controversially restricts membership to approximately 20 people (with €1,000 annual fees) to ensure Red Bull maintains effective control, circumventing the spirit of the 50+1 rule."
+      }
+    },
+    {
+      "id": 42174,
+      "category": "Disability Law",
+      "severity": "medium",
+      "icon": "♿",
+      "title": "Sächsisches Behindertengleichstellungsgesetz – SächsBGG",
+      "subtitle": "State accessibility law for 230,000 severely disabled Saxons",
+      "fullDescription": "The Sächsisches Behindertengleichstellungsgesetz (SächsBGG) implements UNCRPD (UN Convention on Rights of Persons with Disabilities) at state level, complementing federal BGG. Saxony has ~230,000 persons with Schwerbehindertenausweis (≥50% GdB). Public authority websites must meet WCAG 2.1 AA accessibility standards under BITV 2.0 since 2021.",
+      "penalty": "Public authority accessibility failures: administrative proceedings; complaints to Beauftragter für Menschen mit Behinderungen",
+      "exceptions": ["Disproportionate burden exemption allows temporary non-compliance with written justification"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/14098",
+      "sourceLabel": "SächsBGG / UNCRPD / BITV 2.0",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What web accessibility standard must Saxon public authority websites meet under BITV 2.0?",
+        "options": ["WCAG 2.0 A", "WCAG 2.1 AA", "WCAG 2.2 AAA", "Section 508"],
+        "correct": 1,
+        "explanation": "Saxon public authority websites must meet WCAG 2.1 AA accessibility standards under BITV 2.0 (Barrierefreie-Informationstechnik-Verordnung) since 2021."
+      }
+    },
+    {
+      "id": 42175,
+      "category": "Fiscal Law",
+      "severity": "medium",
+      "icon": "⚖️",
+      "title": "Länderfinanzausgleich – Saxony as Net Recipient",
+      "subtitle": "Horizontal fiscal equalization transfers ~€1.5bn annually to Saxony",
+      "fullDescription": "Under the Länderfinanzausgleich (horizontal fiscal equalization), Saxony receives approximately €1.5bn annually from wealthier states (primarily Bavaria, Baden-Württemberg, Hamburg). This is supplemented by Solidarpakt II payments (ended 2019) and Kohlestrukturhilfen. Despite being a net recipient, Saxony has the lowest per-capita debt of any eastern state.",
+      "penalty": "System is constitutional obligation; no individual penalties — reviewed periodically by BVerfG",
+      "exceptions": ["City-states (Berlin, Hamburg, Bremen) calculated differently under Art. 107 GG"],
+      "source": "https://www.bundesfinanzministerium.de/laenderfinanzausgleich",
+      "sourceLabel": "Art. 107 GG / FAG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how much does Saxony receive annually through the Länderfinanzausgleich?",
+        "options": ["€150M", "€500M", "€1.5bn", "€5bn"],
+        "correct": 2,
+        "explanation": "Saxony receives approximately €1.5bn annually through the horizontal Länderfinanzausgleich from wealthier German states."
+      }
+    },
+    {
+      "id": 42176,
+      "category": "Animal Law",
+      "severity": "medium",
+      "icon": "🐾",
+      "title": "Sächsisches Tierschutzgesetz – TierSchG Enforcement",
+      "subtitle": "Animal welfare enforcement by veterinary offices in Saxony",
+      "fullDescription": "Animal welfare in Saxony is enforced under federal TierSchG by Veterinärämter (veterinary offices) in each of Saxony's 10 Landkreise plus 3 independent cities. Farm animal welfare inspections increased post-2021 following undercover investigations at Saxon pig farms. Dog ownership requires registration and liability insurance under SächsHundeVO.",
+      "penalty": "Serious animal cruelty: up to 3 years imprisonment under §17 TierSchG; animal ownership ban",
+      "exceptions": ["Slaughter for personal consumption with humane methods exempt from commercial slaughter regulations"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/13850",
+      "sourceLabel": "TierSchG / SächsHundeVO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many Landkreise plus independent cities manage veterinary enforcement in Saxony?",
+        "options": ["5 Landkreise + 1 city", "10 Landkreise + 3 cities", "7 Landkreise + 7 cities", "12 Landkreise + 2 cities"],
+        "correct": 1,
+        "explanation": "Saxony has 10 Landkreise plus 3 independent cities (kreisfreie Städte: Dresden, Leipzig, Chemnitz), each with their own Veterinäramt."
+      }
+    },
+    {
+      "id": 42177,
+      "category": "Charity Law",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Fraunhofer IPMS Dresden – AO Gemeinnützigkeit",
+      "subtitle": "Research institute tax exemption under German tax code",
+      "fullDescription": "Fraunhofer Institute for Photonic Microsystems (IPMS) Dresden, with ~600 staff, conducts applied semiconductor and sensor research. As part of Fraunhofer-Gesellschaft, it holds Gemeinnützigkeit (non-profit tax exemption) under §52 AO. Contract research revenues are subject to unrelated business income tax (wirtschaftlicher Geschäftsbetrieb). ArbEG §5 governs employee inventions.",
+      "penalty": "Loss of Gemeinnützigkeit: retroactive tax for up to 10 years; ArbEG violations: inventor compensation claims",
+      "exceptions": ["Basic research grants from public funders (BMBF, DFG) fully exempt from commercial tax treatment"],
+      "source": "https://www.ipms.fraunhofer.de",
+      "sourceLabel": "§52 AO / ArbEG / Fraunhofer-Gesellschaft",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which section of the Abgabenordnung (AO) is non-profit tax exemption (Gemeinnützigkeit) regulated?",
+        "options": ["§22 AO", "§52 AO", "§78 AO", "§143 AO"],
+        "correct": 1,
+        "explanation": "§52 AO defines the purposes qualifying for Gemeinnützigkeit (non-profit/charitable status) and the associated tax exemptions."
+      }
+    },
+    {
+      "id": 42178,
+      "category": "Media Law",
+      "severity": "medium",
+      "icon": "📰",
+      "title": "Sächsisches Pressegesetz – Landespresserecht",
+      "subtitle": "State press law governing newspapers and magazines",
+      "fullDescription": "The Sächsisches Gesetz über die Presse (SächsPresseG) governs newspapers and magazines, establishing obligations for imprints (Impressumspflicht), correction rights (Gegendarstellungsrecht), and journalist source protection (Zeugnisverweigerungsrecht under §53 StPO). Saxony has several major newspapers including Sächsische Zeitung and LVZ (Leipziger Volkszeitung).",
+      "penalty": "Impressum violations: fines up to €5,000; false reporting: civil defamation claims under §§823, 1004 BGB",
+      "exceptions": ["Journalist source protection (§53 StPO) may be overridden in terrorism investigations under §97 StPO"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/940",
+      "sourceLabel": "SächsPresseG / §53 StPO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which StPO provision do journalists have the right to refuse to reveal their sources?",
+        "options": ["§52 StPO", "§53 StPO", "§97 StPO", "§160a StPO"],
+        "correct": 1,
+        "explanation": "§53 StPO grants journalists (and other professional groups) the right to refuse testimony to protect sources (Zeugnisverweigerungsrecht)."
+      }
+    },
+    {
+      "id": 42179,
+      "category": "Immigration Law",
+      "severity": "high",
+      "icon": "🌍",
+      "title": "Ausländerbehörde Sachsen – 11% Ausländeranteil",
+      "subtitle": "Residence law enforcement for 440,000 foreign nationals in Saxony",
+      "fullDescription": "Saxony has ~440,000 foreign nationals (11% of population), a significant increase since 2015. Ausländerbehörden in each Landkreis enforce AufenthG residence law. Notable legal development: OVG Bautzen rulings on Syrian deportation cases. Integration obligations under §44 AufenthG require 660-hour German language and civics courses.",
+      "penalty": "Illegal residence: fines + deportation under §58 AufenthG; Duldung (toleration) for non-deportable persons",
+      "exceptions": ["§25 Abs. 5 AufenthG allows residence permit where deportation impossible for legal/factual reasons"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/10033",
+      "sourceLabel": "AufenthG / §44 IntegrationsG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many hours of integration courses (language + civics) does §44 AufenthG require?",
+        "options": ["300 hours", "450 hours", "660 hours", "1,000 hours"],
+        "correct": 2,
+        "explanation": "Integration courses under §44 AufenthG consist of 660 hours: 600 hours German language instruction plus 60 hours orientation/civics."
+      }
+    },
+    {
+      "id": 42180,
+      "category": "Commercial Law",
+      "severity": "medium",
+      "icon": "🏪",
+      "title": "Sächsisches Ladenöffnungsgesetz – 8 Sundays",
+      "subtitle": "Sunday shopping law permitting 8 annual trading Sundays",
+      "fullDescription": "The Sächsische Ladenöffnungsgesetz (SächsLadÖffG) permits shops to open on up to 8 Sundays per year (compared to 11 in NRW, 4 in RLP). Sunday trading requires municipal approval and is limited to 8 hours. Major shopping events like the Striezelmarkt Christmas market generate additional Sunday openings. Worker protections under ArbZG §9-11 ensure premium Sunday pay.",
+      "penalty": "Unauthorized Sunday opening: fines up to €30,000 per offense under §11 SächsLadÖffG",
+      "exceptions": ["Pharmacies, gas stations, newspapers, and florists exempt from Sunday trading restrictions"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/8870",
+      "sourceLabel": "SächsLadÖffG / ArbZG §9",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many Sundays per year may shops open in Saxony under SächsLadÖffG?",
+        "options": ["4", "8", "11", "14"],
+        "correct": 1,
+        "explanation": "Saxony's Ladenöffnungsgesetz permits retail shops to open on up to 8 Sundays per year with municipal approval."
+      }
+    },
+    {
+      "id": 42181,
+      "category": "Administrative Law",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Landesdirektion Sachsen – Mittelbehörde",
+      "subtitle": "Central state authority for administrative mid-level functions",
+      "fullDescription": "Landesdirektion Sachsen (LDS) functions as Saxony's Mittelbehörde (intermediate authority), handling approvals for major infrastructure, asylum processing, veterinary matters, and occupational health under SächsAGVwGO. It replaced three regional Regierungspräsidien in 2012. The LDS has jurisdiction over 200,000+ administrative proceedings annually.",
+      "penalty": "LDS decisions subject to appeal before Verwaltungsgericht (1st instance) and OVG Bautzen (appellate)",
+      "exceptions": ["Municipal self-governance decisions not subject to LDS supervision unless delegated by state law"],
+      "source": "https://www.lds.sachsen.de",
+      "sourceLabel": "SächsAGVwGO / LDS-Errichtungsgesetz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What major administrative reform did Saxony implement in 2012 regarding intermediate authorities?",
+        "options": ["Created 5 new Regierungspräsidien", "Merged three Regierungspräsidien into one Landesdirektion Sachsen", "Abolished all intermediate authorities", "Transferred functions to municipalities"],
+        "correct": 1,
+        "explanation": "In 2012, Saxony merged its three regional Regierungspräsidien into a single Landesdirektion Sachsen as part of administrative streamlining."
+      }
+    },
+    {
+      "id": 42182,
+      "category": "Energy Law",
+      "severity": "high",
+      "icon": "💡",
+      "title": "50Hertz – Sächsisches Stromnetz & EnWG",
+      "subtitle": "Transmission grid operator for eastern Germany under EnWG",
+      "fullDescription": "50Hertz Transmission GmbH operates the high-voltage grid in eastern Germany (including Saxony), with 10,800 km of lines and 85 substations. It operates under EnWG unbundling rules (§§6-10e EnWG) and BNetzA regulation. Saxony's renewable energy growth (wind in Lausitz, solar) requires major grid expansion projects under NOVA principle.",
+      "penalty": "Grid access discrimination: fines by BNetzA up to €1M; forced access orders under §30 EnWG",
+      "exceptions": ["Emergency grid management actions exempt from normal procurement rules under §13 EnWG"],
+      "source": "https://www.50hertz.com",
+      "sourceLabel": "EnWG / BNetzA / 50Hertz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many kilometers of high-voltage grid does 50Hertz operate in eastern Germany?",
+        "options": ["2,800 km", "5,500 km", "10,800 km", "25,000 km"],
+        "correct": 2,
+        "explanation": "50Hertz Transmission GmbH operates approximately 10,800 km of high-voltage transmission lines across eastern Germany."
+      }
+    },
+    {
+      "id": 42183,
+      "category": "Water Law",
+      "severity": "medium",
+      "icon": "🚰",
+      "title": "PFAS-Kontamination Mittelelbe – TrinkwV 2023",
+      "subtitle": "PFAS contamination in Saxon groundwater regulated under drinking water ordinance",
+      "fullDescription": "PFAS (per- and polyfluoroalkyl substances) contamination from former military bases and industrial sites affects groundwater in several Saxon districts. TrinkwV 2023 sets PFAS limit of 0.1 μg/L (sum parameter) aligned with EU 2020/2184. Waterworks operators must implement activated carbon filtration where limits are exceeded. WISMUT site remediation also addresses legacy contamination.",
+      "penalty": "Delivering non-compliant drinking water: waterworks shutdown orders; criminal liability for operators under §24 TrinkwV",
+      "exceptions": ["Temporary derogations for up to 3 years permitted under §9 TrinkwV where alternative supply exists"],
+      "source": "https://www.gesetze-im-internet.de/trinkwv_2001/",
+      "sourceLabel": "TrinkwV 2023 / EU 2020/2184",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the PFAS sum parameter limit in German drinking water under TrinkwV 2023?",
+        "options": ["0.01 μg/L", "0.1 μg/L", "1 μg/L", "10 μg/L"],
+        "correct": 1,
+        "explanation": "TrinkwV 2023 sets a PFAS sum parameter limit of 0.1 μg/L in drinking water, aligned with EU Drinking Water Directive 2020/2184."
+      }
+    },
+    {
+      "id": 42184,
+      "category": "Constitutional Law",
+      "severity": "high",
+      "icon": "📜",
+      "title": "Bundesrat Saxony – 4 Stimmen Art. 51 GG",
+      "subtitle": "Saxony holds 4 votes in the Bundesrat under GG population formula",
+      "fullDescription": "Saxony holds 4 of 69 Bundesrat votes under Art. 51 GG (states with 2–5M inhabitants get 4 votes). The Saxon government must cast all 4 votes uniformly (Einheitlichkeit). Saxony has frequently sided with CDU-led states on migration, security, and fiscal policies. Bundesrat can block Zustimmungsgesetze (laws requiring consent).",
+      "penalty": "No direct penalty for voting positions; Bundesrat failures to act create legislative deadlock",
+      "exceptions": ["Einspruchsgesetze (objection laws) can be overridden by Bundestag absolute majority"],
+      "source": "https://www.bundesrat.de",
+      "sourceLabel": "Art. 51 GG / Bundesrat-GO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many Bundesrat votes does Saxony hold under Art. 51 GG?",
+        "options": ["3", "4", "5", "6"],
+        "correct": 1,
+        "explanation": "Saxony holds 4 votes in the Bundesrat, applicable to states with 2–5 million inhabitants under Art. 51 GG."
+      }
+    },
+    {
+      "id": 42185,
+      "category": "Historic Law",
+      "severity": "low",
+      "icon": "📖",
+      "title": "Sächsisches Bergrecht – 800 Jahre Bergregal",
+      "subtitle": "Medieval mining sovereignty evolved into modern BBergG",
+      "fullDescription": "The Bergregal (sovereign mining rights) in Saxony dates to the 12th century Freiberg silver rush (~1168). Medieval Saxon mining law (Freiberger Bergrecht) was one of Europe's most influential legal codes, exported across Central and Eastern Europe. Today's BBergG and SächsBergG trace their lineage to these medieval precedents, with the state retaining mineral extraction sovereignty.",
+      "penalty": "Historical curiosity; modern enforcement under BBergG §§406-408",
+      "exceptions": ["Private landowners may extract limited quantities of certain minerals for personal use"],
+      "source": "https://www.bergbau-sachsen.de",
+      "sourceLabel": "Freiberger Bergrecht / BBergG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately when did the Freiberg silver rush trigger development of Saxon mining law (Freiberger Bergrecht)?",
+        "options": ["800 AD", "1168 AD", "1350 AD", "1550 AD"],
+        "correct": 1,
+        "explanation": "The Freiberg silver rush around 1168 AD triggered development of the Freiberger Bergrecht, one of Europe's most influential medieval mining legal codes."
+      }
+    },
+    {
+      "id": 42186,
+      "category": "Social Law",
+      "severity": "high",
+      "icon": "👴",
+      "title": "Sächsisches Pflegegesetz – WTG Sachsen",
+      "subtitle": "Care home law for 90,000+ residents in 800+ facilities",
+      "fullDescription": "The Sächsisches Wohn- und Betreuungsqualitätsgesetz (SächsWBVG) governs care homes (Pflegeheime), assisted living, and day care for Saxony's aging population. Saxony has one of Germany's oldest populations (~24% over 65). ~90,000 residents in 800+ facilities. MDK (Medizinischer Dienst) conducts annual quality inspections. Staffing ratios legally defined.",
+      "penalty": "Care quality violations: warnings, fines up to €25,000, and home closure orders under §20 SächsWBVG",
+      "exceptions": ["Small-scale assisted living for up to 8 persons under simplified regulatory requirements"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/12997",
+      "sourceLabel": "SächsWBVG / SGB XI",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately what percentage of Saxony's population is over 65, making it one of Germany's oldest?",
+        "options": ["12%", "18%", "24%", "35%"],
+        "correct": 2,
+        "explanation": "Approximately 24% of Saxony's population is over 65, making it one of Germany's oldest states and driving high demand for care services."
+      }
+    },
+    {
+      "id": 42187,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🔍",
+      "title": "OLG Dresden – §120 GVG Staatsschutzsenat",
+      "subtitle": "Higher Regional Court with jurisdiction over state security crimes",
+      "fullDescription": "Oberlandesgericht (OLG) Dresden serves as Saxony's highest civil and criminal appellate court. Under §120 GVG, OLG Dresden has first-instance jurisdiction over terrorism (§§129a-b StGB), state security, and international crimes. Notable cases include prosecutions of far-right Sachsen Network (Revolution Chemnitz) convicted 2020, and COVID-19 protest conspiracy cases.",
+      "penalty": "Terrorism organization membership (§129a StGB): up to 10 years; leadership: up to life",
+      "exceptions": ["Minor offenses by peripheral members may qualify for reduced charges under §129a Abs. 6 StGB"],
+      "source": "https://www.justiz.sachsen.de/olg/",
+      "sourceLabel": "§120 GVG / §129a StGB",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which GVG provision does OLG Dresden have first-instance jurisdiction over terrorism cases?",
+        "options": ["§73 GVG", "§100 GVG", "§120 GVG", "§138 GVG"],
+        "correct": 2,
+        "explanation": "§120 GVG grants OLG courts first-instance jurisdiction over terrorism (§129a/b StGB) and state security crimes."
+      }
+    },
+    {
+      "id": 42188,
+      "category": "Labor Law",
+      "severity": "medium",
+      "icon": "🏭",
+      "title": "Globalfoundries Dresden – BImSchG Halbleiter",
+      "subtitle": "Semiconductor fab emission control under BImSchG with 3,000 employees",
+      "fullDescription": "Globalfoundries' Dresden fab (formerly AMD), with ~3,000 employees, produces 22/12nm chips and operates under BImSchG (4. BImSchV Annex I No. 4.1) for semiconductor manufacturing. Chemical emissions (fluoride compounds, NF3) are strictly regulated. Works council under BetrVG; collective agreement with IG Metall. Major expansion planned 2024–2027.",
+      "penalty": "BImSchG emission violations: immediate shutdown orders + fines up to €50,000 per day",
+      "exceptions": ["Planned maintenance shutdowns exempt from normal continuous operation requirements"],
+      "source": "https://www.globalfoundries.com/fab-network/fab-1",
+      "sourceLabel": "BImSchG / 4. BImSchV / BetrVG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many employees does Globalfoundries' Dresden semiconductor fab have approximately?",
+        "options": ["500", "1,500", "3,000", "8,000"],
+        "correct": 2,
+        "explanation": "Globalfoundries Dresden employs approximately 3,000 people producing advanced semiconductor chips."
+      }
+    },
+    {
+      "id": 42189,
+      "category": "Heritage Law",
+      "severity": "medium",
+      "icon": "🎨",
+      "title": "Staatliche Kunstsammlungen Dresden – Leihrecht",
+      "subtitle": "World's oldest public art museum complex with 15 collections",
+      "fullDescription": "Staatliche Kunstsammlungen Dresden (SKD) comprises 15 museums including the Zwinger (Old Masters, Porcelain Collection), Albertinum, and Kupferstich-Kabinett. SKD holds ~1.5M objects and loans internationally under UNIDROIT Convention 1995 and UNESCO 1970 Convention standards. The Pillnitz Declaration (1791) on art restitution guides Nazi-era looted art (Raubkunst) claims.",
+      "penalty": "Unauthorized reproduction of museum works: copyright violations under §72 UrhG; Raubkunst failures: reputational and legal sanctions",
+      "exceptions": ["Works more than 70 years post-author's death in public domain under §64 UrhG"],
+      "source": "https://www.skd.museum",
+      "sourceLabel": "UNIDROIT 1995 / UNESCO 1970 / §72 UrhG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many museums does the Staatliche Kunstsammlungen Dresden (SKD) encompass?",
+        "options": ["5", "9", "15", "22"],
+        "correct": 2,
+        "explanation": "Staatliche Kunstsammlungen Dresden comprises 15 museums and collections, including the Zwinger and Albertinum, holding ~1.5 million objects."
+      }
+    },
+    {
+      "id": 42190,
+      "category": "Environmental Law",
+      "severity": "high",
+      "icon": "♻️",
+      "title": "Kreislaufwirtschaft Sachsen – KrWG & Abfallwirtschaftsplan",
+      "subtitle": "Circular economy waste management targeting 68% recycling rate",
+      "fullDescription": "Saxony's Abfallwirtschaftsplan Sachsen implements KrWG and EU Circular Economy Package targets. Recycling rate: ~65% (near federal 68% target). ZAW (Zweckverband Abfallwirtschaft) manages waste in multiple districts. Saxony operates 12 Deponien (landfills) and 8 MVA (Müllverbrennungsanlagen/incinerators). Separate collection of bio-waste mandatory since 2015.",
+      "penalty": "Illegal dumping (wilde Müllentsorgung): fines up to €50,000; polluter-pays principle under §22 KrWG",
+      "exceptions": ["Small quantities of garden waste may be composted on private property without formal procedures"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/10033",
+      "sourceLabel": "KrWG / Abfallwirtschaftsplan Sachsen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Germany's municipal waste recycling target under KrWG and EU circular economy rules?",
+        "options": ["50%", "58%", "68%", "80%"],
+        "correct": 2,
+        "explanation": "Germany's KrWG sets a 68% recycling rate target for municipal waste in line with EU Circular Economy Package requirements."
+      }
+    },
+    {
+      "id": 42191,
+      "category": "Labor Law",
+      "severity": "medium",
+      "icon": "📦",
+      "title": "Amazon Leipzig – ver.di Tarifkampf §9 TVG",
+      "subtitle": "Ongoing Amazon warehouse labor disputes over collective bargaining",
+      "fullDescription": "Amazon's Leipzig fulfillment center (one of its largest in Germany, ~3,000 employees) has been subject to repeated ver.di strikes since 2013 demanding Tarifvertrag under §9 TVG. Amazon refuses to recognize the Einzel- und Versandhandel collective agreement, arguing it is a logistics company. The dispute involves §2 TVG (Tariffähigkeit) and fundamental questions about gig-economy labor classification.",
+      "penalty": "Refusal to bargain in good faith: unfair labor practice complaints; wildcat strikes unprotected under §9 TVG",
+      "exceptions": ["Company-level agreements (Haustarife) permissible as alternative to sectoral Tarifvertrag"],
+      "source": "https://www.verdi.de/amazon",
+      "sourceLabel": "§9 TVG / §2 TVG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Since what year have ver.di strikes at Amazon Germany been ongoing?",
+        "options": ["2008", "2011", "2013", "2016"],
+        "correct": 2,
+        "explanation": "Ver.di has been striking at Amazon Germany's fulfillment centers, including Leipzig, since 2013, demanding recognition of retail sector collective agreements."
+      }
+    },
+    {
+      "id": 42192,
+      "category": "Water Law",
+      "severity": "medium",
+      "icon": "⚗️",
+      "title": "Lausitz Restlochseen – WHG Bergbaufolgeseen",
+      "subtitle": "Post-mining lakes governed by water law and LMBV remediation",
+      "fullDescription": "Saxony's Lausitz region contains 30+ post-mining lakes (Bergbaufolgeseen/Restlochseen) created by open-cast lignite mining, totaling 7,000+ ha of water surface. LMBV (Lausitzer und Mitteldeutsche Bergbau-Verwaltungsgesellschaft) manages remediation under BBergG and WHG. Acidification (sulfate, iron) requires ongoing treatment. The Lausitz Seenland aims to become a tourism destination.",
+      "penalty": "Unauthorized water extraction or pollution of Bergbaufolgeseen: WHG §89 liability for cleanup costs",
+      "exceptions": ["Recreational use of designated swimming areas permitted when water quality meets EU Badegewässer-VO 2006/7/EG"],
+      "source": "https://www.lmbv.de",
+      "sourceLabel": "WHG / BBergG / LMBV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What manages remediation of Saxony's post-mining lakes under BBergG and WHG?",
+        "options": ["LEAG", "LMBV (Lausitzer und Mitteldeutsche Bergbau-Verwaltungsgesellschaft)", "Sachsenforst", "Landesdirektion Sachsen"],
+        "correct": 1,
+        "explanation": "LMBV (Lausitzer und Mitteldeutsche Bergbau-Verwaltungsgesellschaft) manages the remediation of post-mining lakes in the Lausitz region."
+      }
+    },
+    {
+      "id": 42193,
+      "category": "Education Law",
+      "severity": "medium",
+      "icon": "📚",
+      "title": "Universität Leipzig – Älteste Universität Ostdeutschlands",
+      "subtitle": "Founded 1409, operating under SächsHSFG with 30,000 students",
+      "fullDescription": "Universität Leipzig, founded 1409, is eastern Germany's oldest university. It operates under SächsHSFG with ~30,000 students across 14 faculties. It hosts notable research institutes including the Max Planck Institute for Evolutionary Anthropology. Famous alumni include Leibniz, Wagner, and Nietzsche. Research funding from DFG and Horizon Europe.",
+      "penalty": "Academic misconduct (plagiarism): degree revocation under SächsHSFG; criminal fraud prosecution under §263 StGB for systematic cases",
+      "exceptions": ["Audit students (Gasthörer) not subject to examination requirements"],
+      "source": "https://www.uni-leipzig.de",
+      "sourceLabel": "SächsHSFG / Universität Leipzig",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year was Universität Leipzig founded, making it eastern Germany's oldest university?",
+        "options": ["1348", "1409", "1502", "1620"],
+        "correct": 1,
+        "explanation": "Universität Leipzig was founded in 1409, making it eastern Germany's oldest university and one of the oldest in the German-speaking world."
+      }
+    },
+    {
+      "id": 42194,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🔫",
+      "title": "Waffengesetz Sachsen – WaffG Kontrolle",
+      "subtitle": "Weapons law enforcement in Saxony with above-average legal gun ownership",
+      "fullDescription": "Saxony has above-average legal firearms ownership (~250,000 registered weapons for ~4M inhabitants) and significant illegal arms trafficking concerns highlighted by BKA reports on right-wing extremism. WaffG §§1-12 govern permits; Jagdgesetz SächsJagdG regulates hunting weapons. Post-Halle attack (2019), security checks on WaffG permit holders strengthened.",
+      "penalty": "Illegal firearms possession: up to 3 years imprisonment under §51 WaffG; trafficking: up to 5 years under §52 WaffG",
+      "exceptions": ["Hunters (Jagdscheininhaber) may possess hunting weapons without separate WaffG permit under §13 WaffG"],
+      "source": "https://www.gesetze-im-internet.de/waffg_2002/",
+      "sourceLabel": "WaffG / SächsJagdG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many legally registered weapons exist in Saxony for its ~4M population?",
+        "options": ["25,000", "100,000", "250,000", "1M"],
+        "correct": 2,
+        "explanation": "Saxony has approximately 250,000 legally registered firearms, giving it above-average legal gun ownership density compared to the national rate."
+      }
+    },
+    {
+      "id": 42195,
+      "category": "Social Law",
+      "severity": "medium",
+      "icon": "💼",
+      "title": "Jobcenter Sachsen – SGB II Bürgergeld",
+      "subtitle": "Bürgergeld (formerly Hartz IV) administration for 170,000 recipients",
+      "fullDescription": "Saxony's 13 Jobcenter (operating under SGB II joint federal-state structures) serve ~170,000 Bürgergeld recipients (Saxony has 8.8% unemployment, above 5.5% national average). The Bürgergeldgesetz 2023 replaced ALG II (Hartz IV), increasing standard rates to €563/month (single adult 2024) and reducing sanctions. ARGE model co-funded by BA (Bundesagentur für Arbeit) and municipalities.",
+      "penalty": "Fraud (§263 StGB / §60 SGB II false declarations): repayment + up to 5 years imprisonment for systematic fraud",
+      "exceptions": ["Mini-job earnings up to €538/month partially exempt from Bürgergeld deduction under §11b SGB II"],
+      "source": "https://www.bundesagentur.de/sachsen",
+      "sourceLabel": "SGB II / Bürgergeldgesetz 2023",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the monthly Bürgergeld standard rate for a single adult in 2024?",
+        "options": ["€449", "€502", "€563", "€620"],
+        "correct": 2,
+        "explanation": "The Bürgergeld standard rate for a single adult is €563/month in 2024, increased from the previous Hartz IV rate of €502."
+      }
+    },
+    {
+      "id": 42196,
+      "category": "Cultural Heritage Law",
+      "severity": "medium",
+      "icon": "🎄",
+      "title": "Striezelmarkt Dresden – Ältester Weihnachtsmarkt",
+      "subtitle": "World's oldest Christmas market regulated under VStättVO and GewO",
+      "fullDescription": "Dresden's Striezelmarkt (since 1434) is considered the world's oldest Christmas market. It operates under the Sächsische Versammlungsstättenverordnung (VStättVO), GewO market permits, and city of Dresden's special event law. ~3M visitors annually. The Dresdner Stollen (Dresden Christmas bread) is EU-protected as GI under 1151/2012 — only stollen baked within defined Dresden area may use the name.",
+      "penalty": "Unauthorized Dresdner Stollen labeling: fines + injunctions under EU GI 1151/2012; market permit violations: closure",
+      "exceptions": ["Home-baked stollen without commercial sale exempt from GI restrictions"],
+      "source": "https://www.striezelmarkt.de",
+      "sourceLabel": "EU GI 1151/2012 / VStättVO / GewO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Since what year has Dresden's Striezelmarkt been held, making it the world's oldest Christmas market?",
+        "options": ["1234", "1334", "1434", "1534"],
+        "correct": 2,
+        "explanation": "Dresden's Striezelmarkt has been held since 1434, earning it recognition as the world's oldest Christmas market."
+      }
+    },
+    {
+      "id": 42197,
+      "category": "Research Law",
+      "severity": "medium",
+      "icon": "🤖",
+      "title": "Barkhausen Institut Dresden – EU AI Act Hochrisiko",
+      "subtitle": "AI and IoT research subject to EU AI Act high-risk provisions",
+      "fullDescription": "Barkhausen Institut Dresden, founded 2018, researches AI-based wireless communications and IoT. As AI research transitions to deployment, systems fall under EU AI Act 2024/1689 high-risk categories (biometrics, critical infrastructure). The institute coordinates with CISPA and local TU Dresden on AI governance compliance frameworks.",
+      "penalty": "High-risk AI systems without conformity assessment: fines up to €30M or 6% global turnover under EU AI Act Art. 99",
+      "exceptions": ["Pure research AI systems exempt from product conformity requirements under EU AI Act Art. 2(6)"],
+      "source": "https://www.barkhauseninstitut.org",
+      "sourceLabel": "EU AI Act 2024/1689",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum fine for placing high-risk AI systems without conformity assessment under the EU AI Act?",
+        "options": ["€10M or 2%", "€20M or 4%", "€30M or 6%", "€50M or 10%"],
+        "correct": 2,
+        "explanation": "Under EU AI Act Art. 99, high-risk AI violations can result in fines up to €30M or 6% of global annual turnover, whichever is higher."
+      }
+    },
+    {
+      "id": 42198,
+      "category": "Gambling Law",
+      "severity": "medium",
+      "icon": "🎰",
+      "title": "Sächsische Spielbankengesetz – 2 Casinos",
+      "subtitle": "State gambling monopoly operating casinos in Leipzig and Dresden",
+      "fullDescription": "Saxony operates two licensed casinos (Spielbanken) in Leipzig and Dresden under the Sächsisches Spielbankgesetz and GlüStV 2021 (Glücksspielstaatsvertrag). Online gambling was liberalized under GlüStV 2021 with federal licensing by GGL (Gemeinsame Glücksspielbehörde). Casino revenues generate Spielbankabgabe (~€12M annually) paid to the state.",
+      "penalty": "Unauthorized gambling operations: criminal prosecution under §284 StGB; up to 2 years imprisonment",
+      "exceptions": ["Small-scale charity lotteries (gemeinnützige Tombolas) under €10,000 exempt from full licensing"],
+      "source": "https://www.revosax.sachsen.de/vorschrift/1019",
+      "sourceLabel": "SächsSpielbankenG / GlüStV 2021 / §284 StGB",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much Spielbankabgabe (casino tax) do Saxony's two casinos generate approximately annually?",
+        "options": ["€1.2M", "€5M", "€12M", "€50M"],
+        "correct": 2,
+        "explanation": "Saxony's two licensed casinos in Leipzig and Dresden generate approximately €12M annually in Spielbankabgabe (casino tax) paid to the state."
+      }
+    },
+    {
+      "id": 42199,
+      "category": "Cultural Law",
+      "severity": "low",
+      "icon": "🎭",
+      "title": "Richard Wagner Geburtsort Leipzig – UrhG Gemeinfreiheit",
+      "subtitle": "Wagner's works in public domain; birthplace under monument protection",
+      "fullDescription": "Richard Wagner (1813–1883) was born in Leipzig. His compositions entered public domain 70 years after his death (1953) under §64 UrhG. The Wagner birthplace (Haus zum roten und weißen Löwen, destroyed in WWII) is commemorated; the Musikviertel is a protected heritage area under SächsDSchG. The Bayreuther Festspiele (Bavaria) holds separate performance rights through 1973 arrangements.",
+      "penalty": "Commercial use of still-protected Wagner-related trademarks/brands: MarkenG claims; monument protection violations: fines under SächsDSchG",
+      "exceptions": ["Performance of Wagner operas fully free — compositions in public domain since 1953"],
+      "source": "https://www.uni-leipzig.de/wagner",
+      "sourceLabel": "§64 UrhG / SächsDSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Since what year have Wagner's compositions been in the public domain under §64 UrhG (70 years post-death)?",
+        "options": ["1943", "1953", "1963", "1983"],
+        "correct": 1,
+        "explanation": "Richard Wagner died in 1883; under the 70-year post-mortem copyright rule (§64 UrhG), his compositions entered public domain in 1953."
+      }
+    },
+    {
+      "id": 42200,
+      "category": "Fiscal Law",
+      "severity": "medium",
+      "icon": "⛪",
+      "title": "Kirchensteuer Sachsen – 9% Bistum Dresden-Meißen",
+      "subtitle": "Church tax collected by state at 9% of income tax for Saxon dioceses",
+      "fullDescription": "Saxony collects Kirchensteuer (church tax) at 9% of assessed income tax on behalf of religious communities under Art. 140 GG / Art. 137 WRV. The Catholic Diocese of Dresden-Meißen and Protestant Evangelical Lutheran Church of Saxony (EVLKS) are the main beneficiaries. Church membership declining; ~35% of Saxons have no religious affiliation (highest in Germany).",
+      "penalty": "Church tax evasion through false religious status declarations: tax fraud under §370 AO",
+      "exceptions": ["Persons who formally leave their church (Kirchenaustritt) cease paying from the following month"],
+      "source": "https://www.bistum-dresden-meissen.de",
+      "sourceLabel": "Art. 140 GG / Art. 137 WRV / KiStG Sachsen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Saxony's population has no religious affiliation — the highest in Germany?",
+        "options": ["15%", "25%", "35%", "55%"],
+        "correct": 2,
+        "explanation": "Approximately 35% of Saxons are religiously unaffiliated, the highest proportion in Germany, reflecting the GDR's state atheism policies."
+      }
+    }
+  ]
+}

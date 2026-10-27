@@ -1,0 +1,2016 @@
+{
+  "country": "Fukuoka, Japan",
+  "slug": "fukuoka-japan",
+  "laws": [
+    {
+      "id": 42801,
+      "category": "Traffic & Driving",
+      "severity": "high",
+      "icon": "🚗",
+      "title": "0.03% BAC Driving Limit",
+      "subtitle": "Japan's strict drink-driving threshold enforced in Fukuoka",
+      "fullDescription": "Fukuoka Prefecture Police enforce Japan's Road Traffic Act BAC limit of 0.03% — among the world's strictest. Fukuoka's Nakasu entertainment district is a major enforcement focus on weekends. Fukuoka City has Japan's highest proportion of young adult drivers and a notable history of drunk-driving fatalities, including a 2006 tragedy where a drunk driver killed three children, which galvanised national sentencing reform.",
+      "penalty": "Up to 3 years imprisonment or ¥500,000 fine; licence suspension",
+      "exceptions": [
+        "Zero tolerance for commercial drivers effectively"
+      ],
+      "source": "https://www.police.pref.fukuoka.jp/",
+      "sourceLabel": "Fukuoka Prefectural Police",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "A 2006 drunk-driving tragedy in Fukuoka killed three children — what national change did it trigger?",
+        "options": [
+          "New speed cameras on all roads",
+          "Major toughening of drunk-driving sentencing under the Road Traffic Act",
+          "A total alcohol ban at restaurants",
+          "Mandatory ignition interlock devices"
+        ],
+        "correct": 1,
+        "explanation": "The 2006 Fukuoka drunk-driving case — where a driver killed three young children — triggered significant national toughening of drunk-driving sentences, including higher penalties for causing death."
+      }
+    },
+    {
+      "id": 42802,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "⚔️",
+      "title": "Yakuza HQ — Yamaguchi-gumi Kudo-kai",
+      "subtitle": "Fukuoka is home to one of Japan's most dangerous yakuza groups",
+      "fullDescription": "Fukuoka Prefecture is the territory of the Kudo-kai (工藤会) — designated by police as Japan's most dangerous yakuza organisation due to its attacks on civilians (not just rival gangs). The Kudo-kai's top leaders were convicted in 2023 of murder and attempted murder charges; the boss received a death sentence. Fukuoka Prefecture's Organised Crime Exclusion Ordinance (暴力団排除条例) prohibits business dealings with the group. Police maintain dedicated anti-Kudo-kai units.",
+      "penalty": "Dealings with Kudo-kai: fines up to ¥5,000,000 + public naming; membership in violent crime group: enhanced sentence multipliers",
+      "exceptions": [],
+      "source": "https://www.police.pref.fukuoka.jp/",
+      "sourceLabel": "Fukuoka Prefectural Police — Organised Crime",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes Fukuoka's Kudo-kai (工藤会) unique among Japan's yakuza groups?",
+        "options": [
+          "It is the largest yakuza group by membership",
+          "It uniquely attacks ordinary civilians — not only rival gang members",
+          "It operates exclusively overseas",
+          "It is the only yakuza group with a legal business division"
+        ],
+        "correct": 1,
+        "explanation": "Police designated the Kudo-kai as Japan's most dangerous yakuza group because it deliberately targeted ordinary civilians — doctors, fishermen — in attacks, unlike most yakuza who confine violence to underworld rivals."
+      }
+    },
+    {
+      "id": 42803,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Hakata Bay Pollution Control",
+      "subtitle": "Fukuoka's bay subject to strict industrial discharge rules",
+      "fullDescription": "Hakata Bay (博多湾) — Fukuoka's harbour — has undergone major environmental restoration after postwar industrial pollution. The Water Pollution Prevention Act effluent standards and Fukuoka Prefecture's bay management plan regulate all discharges. The bay hosts important tideland (干潟) ecosystems at Imazu and Shingu supporting migratory shorebirds. Reclamation for Fukuoka Airport expansion has been controversial given tideland habitat loss.",
+      "penalty": "Industrial discharge exceeding limits: up to 6 months imprisonment or ¥1,000,000 fine",
+      "exceptions": [
+        "Emergency overflow events with immediate reporting"
+      ],
+      "source": "https://www.pref.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka Prefecture — Environment Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What ecosystem type in Hakata Bay supports important migratory shorebird populations?",
+        "options": [
+          "Coral reefs",
+          "Mangrove forests",
+          "Tidal flats (干潟, higata)",
+          "Kelp forests"
+        ],
+        "correct": 2,
+        "explanation": "Hakata Bay's tidal flats (干潟) at Imazu and Shingu are critical feeding grounds for migratory shorebirds — protected under the Ramsar Convention and Japan's Wildlife Protection Act."
+      }
+    },
+    {
+      "id": 42804,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "💴",
+      "title": "Fukuoka Minimum Wage",
+      "subtitle": "Fukuoka's wage reflects its dynamic gateway economy",
+      "fullDescription": "Fukuoka's regional minimum wage as of October 2024 stands at ¥992 per hour — reflecting its status as Kyushu's economic hub and Japan's fastest-growing major city. Fukuoka has attracted major IT firms, startups (Fukuoka City Startup Visa launched 2014 — Japan's first), and international companies establishing Kyushu headquarters. The Labour Bureau prioritises enforcement in the large service and hospitality sectors.",
+      "penalty": "Employers paying below minimum: fines up to ¥500,000",
+      "exceptions": [
+        "Apprenticeships with Labour Bureau approval"
+      ],
+      "source": "https://jsite.mhlw.go.jp/fukuoka-roudoukyoku/",
+      "sourceLabel": "Fukuoka Labour Bureau — Minimum Wage",
+      "lastUpdated": "2024-10-01",
+      "quiz": {
+        "q": "What pioneering business visa did Fukuoka City introduce in 2014 — a first in Japan?",
+        "options": [
+          "Digital Nomad Visa",
+          "Startup Visa for foreign entrepreneurs",
+          "Investor Residence Permit",
+          "Cultural Exchange Business Visa"
+        ],
+        "correct": 1,
+        "explanation": "Fukuoka City launched Japan's first Startup Visa in 2014 — allowing foreign entrepreneurs to reside while establishing a business, part of the city's aggressive strategy to become Japan's startup capital."
+      }
+    },
+    {
+      "id": 42805,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🏮",
+      "title": "Nakasu Entertainment District Regulations",
+      "subtitle": "Japan's largest inland entertainment district",
+      "fullDescription": "Nakasu (中洲) — a 0.6 km² island in central Fukuoka with over 3,000 restaurants and bars — is Japan's largest inland entertainment district after Kabukicho and Namba. The Fukuoka Public Safety Commission licences all entertainment businesses under the Businesses Affecting Public Morals Act. Kyaku-hiki (aggressive touting) is prohibited. Police patrol particularly on weekends, targeting drunk and disorderly conduct under the Nuisance Prevention Ordinance.",
+      "penalty": "Unlicensed entertainment business: up to 2 years; aggressive touting: fines up to ¥100,000",
+      "exceptions": [
+        "Restaurants below entertainment classification threshold"
+      ],
+      "source": "https://www.police.pref.fukuoka.jp/",
+      "sourceLabel": "Fukuoka Prefectural Police — Entertainment Licensing",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes Nakasu (中洲) in Fukuoka notable among Japan's entertainment districts?",
+        "options": [
+          "It is Japan's oldest entertainment district",
+          "It is Japan's largest inland (river island) entertainment district",
+          "It is the only entertainment district run by the municipal government",
+          "It has Japan's most Michelin-starred restaurants"
+        ],
+        "correct": 1,
+        "explanation": "Nakasu is Japan's largest inland entertainment district — a 0.6 km² island in the Naka River with over 3,000 bars and restaurants, rivalling Tokyo's Kabukicho and Osaka's Namba in scale."
+      }
+    },
+    {
+      "id": 42806,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🏯",
+      "title": "Fukuoka Castle and Maizuru Park Rules",
+      "subtitle": "Historic castle ruins protected as national historic site",
+      "fullDescription": "Fukuoka Castle (福岡城跡, Maizuru Castle) ruins — a National Historic Site — are managed within Maizuru Park by Fukuoka City. Development within the historic site boundaries requires Agency for Cultural Affairs approval. The castle grounds host cherry blossom events attracting 200,000+ visitors in spring; crowd management and temporary facility rules apply. The Fukuoka City Museum houses the famous gold seal (金印) — a 1st century Han dynasty seal discovered on nearby Shikanoshima Island.",
+      "penalty": "Damage to national historic site: up to 5 years imprisonment; unapproved development: demolition orders",
+      "exceptions": [
+        "Approved restoration works with Agency for Cultural Affairs permit"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City — Castle Historic Site",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What famous archaeological artefact from Fukuoka is kept at Fukuoka City Museum?",
+        "options": [
+          "A Yayoi period bronze bell",
+          "A 1st-century Han dynasty gold seal (金印) found on Shikanoshima Island",
+          "A Samurai sword belonging to Toyotomi Hideyoshi",
+          "A Nara period Buddhist statue"
+        ],
+        "correct": 1,
+        "explanation": "The gold seal (金印) found on Shikanoshima Island in 1784 — inscribed '漢委奴国王' (Han seal of the King of Na, Wa) — is a 1st-century Han dynasty seal proving ancient diplomatic ties between Japan and China, now housed in Fukuoka City Museum."
+      }
+    },
+    {
+      "id": 42807,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🚬",
+      "title": "Fukuoka Indoor Smoking Ban",
+      "subtitle": "National 2020 smoking ban applies in Fukuoka",
+      "fullDescription": "Fukuoka City has implemented the national Health Promotion Act indoor smoking ban aligned with Tokyo's rules. The large izakaya and restaurant culture of Nakasu and Tenjin areas had high pre-2020 smoking rates. Fukuoka City operates a dedicated smoking compliance team that inspects entertainment district establishments. Designated outdoor smoking areas are maintained at major transport hubs (Hakata Station, Tenjin bus centre).",
+      "penalty": "Businesses violating indoor ban: up to ¥500,000; individuals in prohibited zones: ¥30,000",
+      "exceptions": [
+        "Designated outdoor smoking areas",
+        "Hotel designated smoking floors"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City — Health Promotion",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Fukuoka City's two major commercial and entertainment centres are:",
+        "options": [
+          "Nakasu and Ohori Park",
+          "Tenjin and Hakata (博多)",
+          "Momochi and Marinoa City",
+          "Yakuin and Daimyo"
+        ],
+        "correct": 1,
+        "explanation": "Fukuoka's two main commercial hubs are Tenjin (天神) — the shopping and office centre — and Hakata (博多) — the transportation hub around Hakata Station, also famous for its ramen and traditional crafts."
+      }
+    },
+    {
+      "id": 42808,
+      "category": "Environmental",
+      "severity": "low",
+      "icon": "♻️",
+      "title": "Fukuoka Waste Management — Sawara Ward Model",
+      "subtitle": "Fukuoka pioneered Japan's semi-aerobic landfill method",
+      "fullDescription": "Fukuoka City is globally renowned for developing the 'Fukuoka Method' (福岡方式) — a semi-aerobic landfill technology that accelerates decomposition, reduces methane emissions, and extends landfill life. This method has been exported to over 50 countries through JICA technical assistance. Fukuoka City's waste separation requires burnable/non-burnable/recyclables separation. Residents receive ward-specific collection calendars. The method's success makes Fukuoka a global waste management study destination.",
+      "penalty": "Improper waste disposal: fines ¥2,000–¥30,000; illegal bulk dumping: up to ¥1,000,000",
+      "exceptions": [
+        "Industrial waste governed by separate Industrial Waste Management Act"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City — Waste Management Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What globally exported waste management innovation was developed by Fukuoka City?",
+        "options": [
+          "Zero-waste incineration technology",
+          "The Fukuoka Method — semi-aerobic landfill reducing methane and extending landfill life",
+          "Automated recycling sorting using AI",
+          "Household biogas digester systems"
+        ],
+        "correct": 1,
+        "explanation": "The Fukuoka Method (福岡方式) — a semi-aerobic landfill technique accelerating decomposition and reducing methane — was developed in Fukuoka and exported to 50+ countries via JICA as a low-cost, effective waste management solution."
+      }
+    },
+    {
+      "id": 42809,
+      "category": "Consumer Protection",
+      "severity": "low",
+      "icon": "🍜",
+      "title": "Hakata Ramen Style Protection",
+      "subtitle": "Fukuoka's tonkotsu ramen is a protected regional identity",
+      "fullDescription": "Hakata ramen (博多ラーメン) — rich pork bone (豚骨) broth, thin straight noodles, served with beni-shoga and sesame — is Fukuoka's most iconic culinary export. Under Japan's Geographical Indication system, 'Hakata' has not received formal GI protection for ramen, but 'Hakata Ori' (博多織, traditional textile) is GI-protected. Ramen restaurants using 'Hakata' branding outside Fukuoka are not legally restricted, though consumer law prevents false origin claims. The kaedama (替え玉) noodle refill system is unique to Fukuoka.",
+      "penalty": "False origin claims (claiming Fukuoka-made when not): Unfair Competition Prevention Act violations",
+      "exceptions": [
+        "'Hakata-style' ramen descriptor without false origin claim is legal"
+      ],
+      "source": "https://www.fukuoka.cci.or.jp/",
+      "sourceLabel": "Fukuoka Chamber of Commerce — Regional Brand",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is 'kaedama' (替え玉) — unique to Fukuoka's ramen culture?",
+        "options": [
+          "Extra toppings added to ramen",
+          "An additional serving of noodles added to the remaining broth after finishing a bowl",
+          "The name for Fukuoka's special tonkotsu broth base",
+          "A ramen eating competition tradition"
+        ],
+        "correct": 1,
+        "explanation": "Kaedama (替え玉) is Fukuoka's unique ramen custom of ordering extra noodles to add to the remaining broth — rather than ordering a whole new bowl, capturing every last drop of the rich tonkotsu."
+      }
+    },
+    {
+      "id": 42810,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "🚇",
+      "title": "Fukuoka City Subway and Nishitetsu Rail",
+      "subtitle": "Integrated transit system under national and local regulation",
+      "fullDescription": "Fukuoka City Subway (福岡市地下鉄) operates three lines; Nishitetsu (西鉄) operates the private Tenjin-Omuta line and bus network. Both operate under the Railway Business Act. Fukuoka's compact city form (Japan's most transit-oriented major city by some measures) means high ridership per capita. Hakata Station is Japan's busiest Shinkansen station for boarding as a terminus. IC card (Hayakaken はやかけん — Fukuoka's own IC card, also accepting Suica/Pasmo) is the standard payment.",
+      "penalty": "Fare evasion: back-fare + surcharge; criminal prosecution for systematic fraud",
+      "exceptions": [],
+      "source": "https://subway.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City Subway",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Fukuoka City Subway's own IC card called?",
+        "options": [
+          "Nimoca",
+          "Sugoca",
+          "Hayakaken (はやかけん)",
+          "Ica"
+        ],
+        "correct": 2,
+        "explanation": "Fukuoka City Subway's own IC card is Hayakaken (はやかけん) — one of Japan's many regional IC transit cards, compatible with Suica, Pasmo, and other national cards."
+      }
+    },
+    {
+      "id": 42811,
+      "category": "Civil Rights",
+      "severity": "low",
+      "icon": "🏳️‍🌈",
+      "title": "Fukuoka City Partnership Certificate",
+      "subtitle": "LGBT partnership recognition since 2018",
+      "fullDescription": "Fukuoka City introduced its partnership certificate scheme (パートナーシップ宣誓制度) in April 2018 — one of Japan's earlier major city adopters after Shibuya (2015) and Sapporo (2017). Fukuoka Prefecture followed with a prefectural scheme in 2021. The certificates provide hospital visiting rights, public housing eligibility, and some employer benefits. Fukuoka's LGBTQ+ community is served by Rainbow Fukuoka events and an active support centre.",
+      "penalty": "N/A — rights-granting provision",
+      "exceptions": [
+        "National marriage law unchanged"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City — Partnership Certificate",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year did Fukuoka City introduce its same-sex partnership certificate?",
+        "options": [
+          "2015",
+          "2016",
+          "2018",
+          "2020"
+        ],
+        "correct": 2,
+        "explanation": "Fukuoka City introduced its partnership certificate in April 2018 — among Japan's earlier major cities, following Shibuya Ward (2015) and Sapporo City (2017)."
+      }
+    },
+    {
+      "id": 42812,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Itoshima Coastal Conservation",
+      "subtitle": "Fukuoka's scenic peninsula faces development pressure",
+      "fullDescription": "Itoshima (糸島) Peninsula — famous for its beaches, oyster farms, and scenic landscape — is protected under Fukuoka Prefecture's coastal management ordinances. Development within the designated coastal scenic zone requires prefecture approval. Itoshima's growing popularity as a weekend destination from Fukuoka City (45 min by train) has increased pressure on coastal ecosystems. The Itoshima City oyster season (November–March) brings strict food hygiene inspections at all oyster huts (かき小屋).",
+      "penalty": "Development in coastal scenic zone without approval: demolition orders; oyster hut hygiene violations: closure orders",
+      "exceptions": [
+        "Traditional fishing and aquaculture operations"
+      ],
+      "source": "https://www.city.itoshima.lg.jp/",
+      "sourceLabel": "Itoshima City — Coastal Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What seasonal seafood activity draws visitors to Itoshima Peninsula from November to March?",
+        "options": [
+          "Tuna bluefin auctions",
+          "Oyster farming and eating at oyster huts (かき小屋)",
+          "Sea urchin diving tours",
+          "Fugu (pufferfish) preparation classes"
+        ],
+        "correct": 1,
+        "explanation": "Itoshima's oyster huts (かき小屋) — open-air grills where visitors BBQ fresh local oysters directly from the bay — are a famous seasonal attraction from November to March each year."
+      }
+    },
+    {
+      "id": 42813,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "💊",
+      "title": "Stimulant Drug Enforcement — Fukuoka",
+      "subtitle": "Fukuoka port a known drug entry point",
+      "fullDescription": "Fukuoka's Hakata Port — a major international ferry terminal connecting to South Korea (Busan, 3h by ferry) and China — is a known entry point for methamphetamine smuggling. Japan Customs and Fukuoka Prefectural Police narcotics division maintain active interdiction. The Fukuoka-Busan ferry route has historically been used for small-quantity drug mule operations. Stimulants Control Act maximum penalties apply fully.",
+      "penalty": "Methamphetamine possession: up to 10 years; import: up to life imprisonment",
+      "exceptions": [],
+      "source": "https://www.police.pref.fukuoka.jp/",
+      "sourceLabel": "Fukuoka Prefectural Police — Narcotics",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why is Fukuoka's Hakata Port a drug enforcement priority?",
+        "options": [
+          "It handles the most cargo volume in Japan",
+          "It directly connects to South Korea (Busan) and China via regular ferry — known smuggling routes",
+          "Its deep-water access allows large cargo vessels with poor inspection",
+          "It borders North Korea's fishing zone"
+        ],
+        "correct": 1,
+        "explanation": "Hakata Port's direct high-speed ferry connections to Busan, South Korea (3 hours) and China make it a priority drug interdiction point — with small-quantity drug mules using regular passenger services."
+      }
+    },
+    {
+      "id": 42814,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏙️",
+      "title": "Fukuoka City Urban Concentration Policy",
+      "subtitle": "Japan's 'compact city' model — development near transit hubs",
+      "fullDescription": "Fukuoka City's Urban Master Plan pursues a 'compact city' strategy concentrating development within 800m of subway stations and avoiding sprawl into the Itoshima and Fukuoka-east rural areas. This policy is implemented through the Urban Planning Act (都市計画法) zoning — the city designates strict urban promotion zones (市街化区域) and urbanisation control zones (市街化調整区域). Fukuoka's population is growing while most Japanese cities shrink — managing this compact growth is the plan's central challenge.",
+      "penalty": "Development in urbanisation control zone without special permit: demolition orders + fines",
+      "exceptions": [
+        "Agricultural structures in control zones have relaxed rules"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City — Urban Master Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes Fukuoka City's demographic trend unusual among Japanese major cities?",
+        "options": [
+          "It has Japan's oldest population",
+          "Its population is growing while most Japanese cities shrink",
+          "It has the highest foreign resident proportion",
+          "Its birth rate is the highest in Japan"
+        ],
+        "correct": 1,
+        "explanation": "Fukuoka City is growing while most Japanese cities decline — driven by young people migrating from rural Kyushu, making it Japan's fastest-growing major city and a model of urban vitality."
+      }
+    },
+    {
+      "id": 42815,
+      "category": "Disaster Preparedness",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Fukuoka Earthquake Risk — 2005 Fukuoka Earthquake",
+      "subtitle": "Fukuoka has unexpected seismic risk",
+      "fullDescription": "Fukuoka City — previously considered relatively earthquake-safe — was struck by an M7.0 earthquake in March 2005 (福岡西方沖地震) that killed 1 person, injured 1,000+, and severely damaged Genkai Island. The earthquake revealed an unknown fault line (警固断層, Kego Fault) running beneath central Fukuoka. The city subsequently updated its seismic hazard maps and building reinforcement programme. Buildings near the Kego Fault face mandatory seismic assessment.",
+      "penalty": "Non-compliant buildings on designated hazard zones: assessment orders; refusing orders: public notification",
+      "exceptions": [
+        "Temporary structures below size threshold"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City — Earthquake Disaster Prevention",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What geological feature revealed by the 2005 Fukuoka earthquake threatens central Fukuoka?",
+        "options": [
+          "A volcanic magma chamber beneath Hakata Bay",
+          "The Kego Fault (警固断層) running beneath central Fukuoka city",
+          "An unstable marine clay layer under reclaimed land",
+          "Subsidence from historical coal mining"
+        ],
+        "correct": 1,
+        "explanation": "The 2005 earthquake revealed the Kego Fault (警固断層) running directly beneath central Fukuoka — a previously unrecognised seismic threat that prompted a major overhaul of the city's earthquake preparedness plans."
+      }
+    },
+    {
+      "id": 42816,
+      "category": "Heritage & Culture",
+      "severity": "low",
+      "icon": "🎎",
+      "title": "Hakata Doll and Traditional Craft Protection",
+      "subtitle": "Hakata ningyo clay dolls are designated traditional craft",
+      "fullDescription": "Hakata dolls (博多人形) — unglazed polychrome clay figures of kabuki actors, geisha, and warriors — are a designated Important Traditional Craft (経済産業大臣指定伝統的工芸品) since 1976. Products must be made by hand using traditional techniques by Fukuoka craftsmen to bear the traditional craft mark. The Hakata Traditional Craft Museum (博多町家ふるさと館) preserves techniques. Similarly, Hakata-ori (博多織) — a silk weave with a distinctive raised pattern — has GI protection.",
+      "penalty": "Fraudulent use of Hakata traditional craft or GI marks: up to ¥1,000,000 fine",
+      "exceptions": [
+        "Modern artist interpretations sold without the certification mark"
+      ],
+      "source": "https://www.meti.go.jp/",
+      "sourceLabel": "METI — Traditional Craft — Hakata Doll",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What material are Hakata dolls (博多人形) made from?",
+        "options": [
+          "Porcelain (fired white clay)",
+          "Lacquered wood",
+          "Unglazed polychrome clay",
+          "Papier-mâché"
+        ],
+        "correct": 2,
+        "explanation": "Hakata dolls (博多人形) are made from unglazed, painted clay — their distinctive matte finish and vibrant colours representing kabuki actors, geisha, and warriors have made them a globally recognised Fukuoka craft."
+      }
+    },
+    {
+      "id": 42817,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏦",
+      "title": "Fukuoka Financial Centre Development",
+      "subtitle": "Fukuoka aims to become an international financial centre",
+      "fullDescription": "Fukuoka City has been designated one of Japan's candidate International Financial Centres under the national financial sector internationalisation strategy. The Fukuoka Financial Startup Support Programme offers streamlined FSA registration for overseas asset managers establishing Fukuoka operations. The Programme has attracted approximately 30 foreign financial firms since 2020. Tax incentives under Fukuoka's special economic zone complement the national financial centre strategy.",
+      "penalty": "Financial firms operating without FSA registration: criminal charges under Financial Instruments and Exchange Act",
+      "exceptions": [
+        "Firms below threshold operate with simplified notification"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City — International Financial Centre",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many foreign financial firms have established Fukuoka operations under the startup support programme since 2020?",
+        "options": [
+          "5",
+          "15",
+          "30",
+          "100"
+        ],
+        "correct": 2,
+        "explanation": "Approximately 30 foreign financial firms have established operations in Fukuoka since 2020 under the International Financial Centre support programme — contributing to Fukuoka's ambition to become Japan's second financial hub after Tokyo."
+      }
+    },
+    {
+      "id": 42818,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🐡",
+      "title": "Fugu (Pufferfish) Preparation Licence",
+      "subtitle": "Fukuoka has Japan's most distinctive fugu licensing system",
+      "fullDescription": "Fugu (フグ, pufferfish) — whose liver and ovaries contain lethal tetrodotoxin — is a Fukuoka specialty, particularly at Shimonoseki (Yamaguchi Prefecture, across the Kanmon Strait). Fukuoka Prefecture requires fugu preparers to hold a Fukuoka Prefectural Fugu Handler's Licence (ふぐ処理師免許) after passing a practical exam including species identification and safe preparation. Fukuoka restaurants serve more fugu per capita than any other prefecture. Unlicensed fugu preparation has caused deaths.",
+      "penalty": "Preparing fugu for commercial sale without licence: up to 2 years imprisonment or ¥1,000,000 fine; causing death through unlicensed fugu: criminal negligence",
+      "exceptions": [
+        "Personal home preparation of legally purchased pre-prepared fugu parts is not regulated"
+      ],
+      "source": "https://www.pref.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka Prefecture — Fugu Handler's Licence",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which part of the fugu (pufferfish) contains the lethal tetrodotoxin that makes licensing necessary?",
+        "options": [
+          "The skin only",
+          "The flesh",
+          "The liver and ovaries primarily",
+          "The eyes and mouth"
+        ],
+        "correct": 2,
+        "explanation": "Fugu's liver and ovaries contain the highest concentrations of tetrodotoxin — a paralytic toxin with no antidote. Licensed preparers must safely remove these organs without contaminating the edible flesh."
+      }
+    },
+    {
+      "id": 42819,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🦅",
+      "title": "Kyushu Crane Conservation — Arasaki",
+      "subtitle": "10,000+ cranes winter at Izumi, Kagoshima — Fukuoka supports conservation",
+      "fullDescription": "While Fukuoka is not the primary crane wintering site (that is Izumi City, Kagoshima — which hosts 90% of the world's hooded crane population and 70% of white-naped cranes), Fukuoka Prefecture participates in the Kyushu-wide crane conservation framework. Hooded cranes (ナベヅル) and white-naped cranes (マナヅル) are both designated Special Natural Monuments. Agricultural damage from cranes (crop grazing) is compensated through the Crane Conservation Fund under Kagoshima's management, with Fukuoka contributing.",
+      "penalty": "Harming a crane (Natural Monument): up to 5 years imprisonment or ¥500,000 fine",
+      "exceptions": [
+        "Licensed researchers"
+      ],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Crane Conservation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of the world's hooded crane population winters at Izumi City, Kagoshima — near Fukuoka?",
+        "options": [
+          "30%",
+          "50%",
+          "70%",
+          "90%"
+        ],
+        "correct": 3,
+        "explanation": "Izumi City, Kagoshima hosts approximately 90% of the world's hooded crane (ナベヅル) population during winter — making the Kyushu region one of the world's most critical crane conservation zones."
+      }
+    },
+    {
+      "id": 42820,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🎭",
+      "title": "Fukuoka Asian Art Museum — Cultural Exchange Rules",
+      "subtitle": "Japan's only permanent Asian contemporary art museum",
+      "fullDescription": "The Fukuoka Asian Art Museum (福岡アジア美術館) — Japan's only museum permanently dedicated to contemporary Asian art — operates under Fukuoka City's cultural facility management. Works from across Asia are subject to import/export regulations including CITES controls for works using protected materials and cultural property export permits from countries of origin. The museum's triennale (福岡アジア美術トリエンナーレ) brings international artists under visa conditions.",
+      "penalty": "Museum displaying works without proper import documentation: customs violations; damage to exhibited works: civil + criminal liability",
+      "exceptions": [
+        "Temporary exhibition loans under bilateral cultural agreements have streamlined processes"
+      ],
+      "source": "https://faam.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka Asian Art Museum",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes Fukuoka Asian Art Museum unique in Japan?",
+        "options": [
+          "It is Japan's largest art museum by floor area",
+          "It is Japan's only museum permanently dedicated to contemporary Asian art",
+          "It is Japan's oldest public art museum",
+          "It is the only art museum in Japan without entry fees"
+        ],
+        "correct": 1,
+        "explanation": "Fukuoka Asian Art Museum is Japan's only museum with a permanent collection dedicated exclusively to contemporary art from across Asia — reflecting Fukuoka's identity as Japan's gateway to Asia."
+      }
+    },
+    {
+      "id": 42821,
+      "category": "Immigration & Identity",
+      "severity": "medium",
+      "icon": "✈️",
+      "title": "Fukuoka Airport International Zone Rules",
+      "subtitle": "Fukuoka Airport is Japan's closest major airport to mainland Asia",
+      "fullDescription": "Fukuoka Airport (福岡空港) — just 5 minutes from central Fukuoka by subway — handles 25+ million passengers annually including major routes to Seoul, Shanghai, Hong Kong, and Taipei. Japan Customs Act applies fully. The airport's proximity to the city centre creates unique noise regulation challenges — residential flight path restrictions limit operation hours. A second runway is under construction (opening 2025) to handle the growing Asian tourism and business travel demand.",
+      "penalty": "Customs violations: standard penalties; prohibited agricultural imports: destruction + fines",
+      "exceptions": [
+        "Diplomatic baggage"
+      ],
+      "source": "https://www.fukuoka-airport.jp/",
+      "sourceLabel": "Fukuoka Airport — Customs Information",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long does it take to travel from Fukuoka Airport to the city centre by subway?",
+        "options": [
+          "30 minutes",
+          "15 minutes",
+          "5 minutes",
+          "1 hour"
+        ],
+        "correct": 2,
+        "explanation": "Fukuoka Airport is just 5 minutes from central Fukuoka by subway — making it Japan's most centrally located major airport and one of the most convenient in Asia."
+      }
+    },
+    {
+      "id": 42822,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "⚖️",
+      "title": "Korean Community Rights — Fukuoka Zainichi",
+      "subtitle": "Significant Zainichi Korean community in northern Kyushu",
+      "fullDescription": "Fukuoka has a significant Zainichi Korean (在日コリアン) community — reflecting historical labour migration during Japan's colonial period. Special Permanent Resident status holders in Fukuoka have the same rights as those in Osaka and Tokyo. Hakata Port's direct Korea ferry connections also mean Fukuoka has Japan's highest rate of 'newcomer' Korean residents (recent immigrants on standard work visas). Anti-Korean hate speech incidents have occurred in Fukuoka; the Fukuoka City Human Rights Centre provides support.",
+      "penalty": "Hate speech with criminal elements: charges; discrimination in services: civil tort",
+      "exceptions": [],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City — Human Rights Centre",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why does Fukuoka have Japan's highest rate of 'newcomer' Korean residents alongside its historic Zainichi community?",
+        "options": [
+          "Fukuoka has Korea-specific immigration preference",
+          "Fukuoka's direct high-speed ferry to Busan makes it Japan's most accessible city from Korea",
+          "A bilateral work agreement favours Fukuoka placement",
+          "Korean language education is uniquely available in Fukuoka"
+        ],
+        "correct": 1,
+        "explanation": "Fukuoka's direct high-speed ferry to Busan (3 hours, multiple daily) makes it the most convenient Japanese city for Korean workers and visitors — driving the highest rate of recent Korean immigration among Japan's major cities."
+      }
+    },
+    {
+      "id": 42823,
+      "category": "Agriculture",
+      "severity": "low",
+      "icon": "🍓",
+      "title": "Fukuoka Strawberry — Amaou Brand Protection",
+      "subtitle": "Amaou strawberry is Fukuoka's most valuable brand",
+      "fullDescription": "'Amaou' (あまおう) — Fukuoka's premium strawberry variety developed in 2001 — is Japan's most expensive strawberry, commanding up to ¥500 per fruit. The name is registered as a trademark by Fukuoka Prefecture JA (農協); growing Amaou outside authorised farming agreements is prohibited. Plant variety protection under the Plant Variety Protection and Seed Act (種苗法) prevents unauthorised propagation of the registered variety. Counterfeit Amaou using the name without authorisation violates trademark law.",
+      "penalty": "Unauthorised propagation of plant variety: up to 10 years imprisonment or ¥10,000,000 fine; trademark violation: civil + criminal",
+      "exceptions": [
+        "Farmers within JA Fukuoka's licensed growing programme"
+      ],
+      "source": "https://www.pref.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka Prefecture — Amaou Trademark",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does 'Amaou' (あまおう) stand for — the acronym behind Fukuoka's famous strawberry name?",
+        "options": [
+          "'Amai' (sweet) + 'Okii' (large) — simply sweet and big",
+          "'Akai' (red), 'Marui' (round), 'Okii' (large), 'Umai' (delicious)",
+          "'Ashita' (tomorrow) + 'Umai' (delicious) + 'Ou' (king)",
+          "Named after Amaou Mountain in Fukuoka"
+        ],
+        "correct": 1,
+        "explanation": "Amaou stands for Akai (赤い, red), Marui (丸い, round), Okii (大きい, large), Umai (うまい, delicious) — the four characteristics that define this premium Fukuoka strawberry variety."
+      }
+    },
+    {
+      "id": 42824,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🐟",
+      "title": "Genkai-nada Fresh Fish Market Rules",
+      "subtitle": "Fukuoka's Fukuoka City Central Wholesale Market",
+      "fullDescription": "Fukuoka's Central Wholesale Market (福岡市中央卸売市場) — Japan's most important fresh fish market for Genkai-nada (玄界灘) Sea catch — operates under the Central Wholesale Market Act (卸売市場法). Bidding, vendor licensing, and hygiene standards are strictly governed. Genkai-nada is famous for saba (mackerel), ika (squid), and fugu. The Yanagibashi Rengo Market (柳橋連合市場) — 'Fukuoka's kitchen' — is a popular retail market for locals and tourists.",
+      "penalty": "Unlicensed wholesale trading: ¥1,000,000 fine; food fraud in market: up to 2 years imprisonment",
+      "exceptions": [
+        "Direct farm/boat gate sales to consumers bypass wholesale market rules"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City — Central Wholesale Market",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Yanagibashi Rengo Market (柳橋連合市場) in Fukuoka nicknamed?",
+        "options": [
+          "Fukuoka's treasure chest",
+          "Fukuoka's kitchen",
+          "The Hakata fish labyrinth",
+          "Kyushu's Tsukiji"
+        ],
+        "correct": 1,
+        "explanation": "Yanagibashi Rengo Market is nicknamed 'Fukuoka's kitchen' (福岡の台所) — a covered alleyway market selling fresh fish, vegetables, and local produce, beloved by Fukuoka chefs and home cooks."
+      }
+    },
+    {
+      "id": 42825,
+      "category": "Disaster Preparedness",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Hakata Bay Tsunami Warning System",
+      "subtitle": "Fukuoka's bay has limited tsunami evacuation time",
+      "fullDescription": "While Fukuoka does not face the extreme tsunami risk of Pacific-coast prefectures, the Japan Sea can generate tsunamis from Sea of Japan fault activity. The 1983 Japan Sea earthquake generated a tsunami affecting Akita — similar scenarios could affect Fukuoka's bay areas. Fukuoka City operates J-Alert integration for automated warning broadcast through all public address systems within 30 seconds of JMA alert. Coastal ward evacuation maps are updated every 5 years.",
+      "penalty": "Municipalities failing to maintain J-Alert systems: administrative guidance; refusing evacuation during warning: fines",
+      "exceptions": [
+        "Emergency services and rescue personnel remain operational"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/bousai/",
+      "sourceLabel": "Fukuoka City — Disaster Prevention",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Japan's J-Alert system?",
+        "options": [
+          "A public works inspection system",
+          "An automated national warning system broadcasting alerts (missile, earthquake, tsunami) through all public speakers within 30 seconds",
+          "A nuclear emergency monitoring network",
+          "A flood prediction model"
+        ],
+        "correct": 1,
+        "explanation": "J-Alert (全国瞬時警報システム) is Japan's automated national early warning system — broadcasting earthquake, tsunami, missile, and other alerts through public address systems, TV, radio, and mobile phones within seconds of issue."
+      }
+    },
+    {
+      "id": 42826,
+      "category": "Education",
+      "severity": "low",
+      "icon": "🎓",
+      "title": "Kyushu University — Research Excellence",
+      "subtitle": "One of Japan's former Imperial Universities in Fukuoka",
+      "fullDescription": "Kyushu University (九州大学, Kyudai) — established 1911, one of Japan's eight imperial universities — is relocating its main campus to Ito Campus (Nishi Ward) after occupying central Hakozaki for over 100 years. The historic Hakozaki campus is a designated Cultural Property. Kyushu University's research strengths include aerospace engineering, materials science, and quantum computing. The Carbon Neutral Energy Institute operates here. Kyushu University has 19,000+ students with 2,000+ international students.",
+      "penalty": "Academic misconduct: institutional sanctions + criminal fraud if grant money diverted",
+      "exceptions": [],
+      "source": "https://www.kyushu-u.ac.jp/",
+      "sourceLabel": "Kyushu University",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many of Japan's 'Imperial Universities' are there — and where does Kyushu University rank?",
+        "options": [
+          "5 imperial universities — Kyushu is 4th",
+          "7 imperial universities — Kyushu is 5th",
+          "8 imperial universities (including Kyoto, Osaka, Tohoku etc.) — Kyushu is one of 8",
+          "10 imperial universities — Kyushu is 7th"
+        ],
+        "correct": 2,
+        "explanation": "Japan has 8 former Imperial Universities (帝国大学): Tokyo, Kyoto, Tohoku, Kyushu, Hokkaido, Osaka, Nagoya, and (now National Taiwan University). Kyushu University was the 4th established, in 1911."
+      }
+    },
+    {
+      "id": 42827,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🏮",
+      "title": "Yamakasa Festival Safety Regulations",
+      "subtitle": "Ancient Hakata festival requires modern safety management",
+      "fullDescription": "The Hakata Gion Yamakasa (博多祇園山笠) festival — held in July and one of Japan's most energetic festivals — involves teams of men carrying massive floats (yamakasa) weighing up to 1 tonne at a running pace through city streets. The finale race (追い山, oiyama) on July 15 begins at 4:59am. Road closures require Fukuoka City and police coordination under the Road Traffic Act. Participation by women in the running event remains controversial — traditional exclusions are not legally enforceable.",
+      "penalty": "Unapproved road use during festival: traffic violation; spectator injuries from crowd crush: liability provisions apply",
+      "exceptions": [
+        "Festival participants and shrine officials retain traditional access rights"
+      ],
+      "source": "https://www.hakatayamakasa.com/",
+      "sourceLabel": "Hakata Gion Yamakasa Executive Committee",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What time does the Yamakasa festival's final race (追い山) start on July 15?",
+        "options": [
+          "Midnight",
+          "4:59am",
+          "8:00am",
+          "Noon"
+        ],
+        "correct": 1,
+        "explanation": "The Yamakasa oiyama (追い山) race begins at exactly 4:59am on July 15 — the precise time preserved by tradition for over 700 years, requiring massive pre-dawn crowd management."
+      }
+    },
+    {
+      "id": 42828,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "💹",
+      "title": "Fukuoka Stock Exchange — Regional Exchange",
+      "subtitle": "One of Japan's three regional stock exchanges",
+      "fullDescription": "Fukuoka Stock Exchange (福岡証券取引所, FSE) is one of Japan's three surviving regional exchanges (with Sapporo and Nagoya). Under the Financial Instruments and Exchange Act, FSE lists approximately 100 regional companies including Kyushu-based businesses. FSE's Q-Board (growth market) lists smaller Kyushu startups. Following the Tokyo Stock Exchange's 2022 market restructuring, regional exchanges faced questions about consolidation. FSE remains essential for Kyushu companies seeking local capital.",
+      "penalty": "Securities violations on FSE: same FSA penalties as on TSE — up to 10 years imprisonment",
+      "exceptions": [],
+      "source": "https://www.fse.or.jp/",
+      "sourceLabel": "Fukuoka Stock Exchange",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many regional stock exchanges remain in Japan (as of 2024)?",
+        "options": [
+          "1 (Tokyo only)",
+          "3 (Fukuoka, Sapporo, Nagoya)",
+          "5 (various city exchanges)",
+          "7 (one per major region)"
+        ],
+        "correct": 1,
+        "explanation": "Japan has 3 surviving regional stock exchanges — Fukuoka, Sapporo, and Nagoya — after Osaka merged with Tokyo in 2013 and Hiroshima and Niigata closed. Tokyo Stock Exchange handles the vast majority of national trading."
+      }
+    },
+    {
+      "id": 42829,
+      "category": "Environmental",
+      "severity": "low",
+      "icon": "🌸",
+      "title": "Fukuoka Greenery Plan — Street Trees",
+      "subtitle": "Fukuoka's urban greenery strategy",
+      "fullDescription": "Fukuoka City's Greenery Basic Plan targets 25% green coverage and requires street tree planting along major new roads. The Ohori Park (大濠公園) — Fukuoka's central park surrounding a large pond — is a designated Urban Park under the Urban Park Act, prohibiting development within the park boundary. Cherry blossom events at Maizuru Park and Ohori Park attract 500,000+ visitors in April; temporary commercial permits are issued by the city parks department for festival stalls.",
+      "penalty": "Unapproved removal of designated street trees: fines up to ¥500,000; development within Urban Park boundary: planning refusal",
+      "exceptions": [
+        "Emergency utility works with replanting obligation"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City — Greenery Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What large central park in Fukuoka surrounds a historic moat and is one of Japan's top 100 parks?",
+        "options": [
+          "Maizuru Park",
+          "Ohori Park (大濠公園)",
+          "Higashi Park",
+          "Momochi Seaside Park"
+        ],
+        "correct": 1,
+        "explanation": "Ohori Park (大濠公園) is Fukuoka's beloved central park — built around the outer moat of Fukuoka Castle, it features a large pond with islands and bridges, jogging paths, and is consistently ranked among Japan's top urban parks."
+      }
+    },
+    {
+      "id": 42830,
+      "category": "Criminal Law",
+      "severity": "medium",
+      "icon": "🎭",
+      "title": "Fukuoka Cybercrime Enforcement",
+      "subtitle": "Fukuoka Prefectural Police cyber division",
+      "fullDescription": "Fukuoka Prefectural Police's Cyber Special Investigation Unit investigates computer crimes, online fraud, and cryptocurrency-related offences. Fukuoka's growing IT startup community and Korea/China connectivity via Hakata Port create both innovation and fraud vulnerabilities. The Unit has prosecuted cases involving Korean-origin cyber fraud operations targeting Japanese elderly (ore ore sagi variants) coordinated via Fukuoka addresses. Unauthorised computer access and online impersonation are priority enforcement areas.",
+      "penalty": "Unauthorised computer access: up to 3 years; online fraud: up to 10 years; cyberstalking: up to 2 years",
+      "exceptions": [],
+      "source": "https://www.police.pref.fukuoka.jp/",
+      "sourceLabel": "Fukuoka Prefectural Police — Cyber Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What geographic connectivity makes Fukuoka's cyber crime landscape distinctive?",
+        "options": [
+          "Proximity to US military cyber operations",
+          "Direct Hakata Port connections to Korea and China create links to East Asian cyber fraud networks",
+          "Japan's largest concentration of IT companies creating insider threats",
+          "Fukuoka University cybersecurity training programme graduates"
+        ],
+        "correct": 1,
+        "explanation": "Fukuoka's direct ferry connections to Korea and China create unique East Asian cyber fraud network links — with some Korean-coordinated fraud operations using Fukuoka as a base, targeting Japanese victims."
+      }
+    },
+    {
+      "id": 42831,
+      "category": "Public Health",
+      "severity": "low",
+      "icon": "♨️",
+      "title": "Fukuoka Hot Springs — Futsukaichi Onsen Rules",
+      "subtitle": "Historic hot spring town near Fukuoka City",
+      "fullDescription": "Futsukaichi Onsen (二日市温泉) — a historic hot spring resort 20 minutes from Fukuoka City — operates under the Hot Springs Act requiring source certification. The resort's traditional ryokan must accurately disclose water source, temperature, and any heating/dilution. The hot spring area has been used for recuperation since the 8th century; some ryokan date from the Meiji era and are designated historic buildings. Source water is sodium hydrogen carbonate type — classified as a certified therapeutic onsen.",
+      "penalty": "False onsen certification: up to 6 months imprisonment or ¥1,000,000 fine",
+      "exceptions": [
+        "Correctly labelled heated/diluted springs"
+      ],
+      "source": "https://www.pref.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka Prefecture — Hot Springs Act Implementation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long has Futsukaichi Onsen been used for recuperation — making it one of Kyushu's oldest hot spring resorts?",
+        "options": [
+          "Since the Edo period (1603)",
+          "Since the Meiji period (1868)",
+          "Since the 8th century",
+          "Since the 12th century"
+        ],
+        "correct": 2,
+        "explanation": "Futsukaichi Onsen has been used since the 8th century — one of Japan's oldest hot spring resorts, mentioned in the Man'yoshu poetry anthology and used by Nara period nobles recovering from illness."
+      }
+    },
+    {
+      "id": 42832,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "🚢",
+      "title": "Hakata Port Ferry Regulations",
+      "subtitle": "International ferry terminal — Japan-Korea gateway",
+      "fullDescription": "Hakata Port's international passenger terminal operates multiple daily high-speed ferry services to Busan, South Korea (JR Kyushu Beetle and Camellia Line — approximately 3 hours) and overnight services to China. Under the Marine Transportation Act and Immigration Control Act, all international ferry passengers undergo immigration and customs clearance. Hakata Port also handles domestic ferry routes to Okinawa and island communities. The port expansion plan includes new cruise ship facilities for the growing inbound cruise market.",
+      "penalty": "Attempting to board international ferry without valid passport/visa: detention and refusal; smuggling contraband via ferry: maximum customs penalties",
+      "exceptions": [],
+      "source": "https://www.city.fukuoka.lg.jp/port/",
+      "sourceLabel": "Fukuoka City — Hakata Port Authority",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how long does the high-speed ferry from Fukuoka (Hakata) to Busan, South Korea take?",
+        "options": [
+          "1 hour",
+          "3 hours",
+          "6 hours",
+          "12 hours overnight"
+        ],
+        "correct": 1,
+        "explanation": "High-speed ferries (JR Kyushu Beetle, Camellia Line) cover the Hakata–Busan route in approximately 3 hours — making it one of the world's most accessible international sea crossings."
+      }
+    },
+    {
+      "id": 42833,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🎑",
+      "title": "Kyushu National Museum — Collections Rules",
+      "subtitle": "Japan's fourth national museum focuses on Asian exchange",
+      "fullDescription": "The Kyushu National Museum (九州国立博物館) in Dazaifu — opened 2005, Japan's fourth national museum — focuses on Japanese cultural history through Asian exchange, reflecting Kyushu's role as Japan's historical gateway to the continent. Collections include objects from China, Korea, Southeast Asia, and India alongside Japanese works. Items on loan from overseas institutions are subject to bilateral cultural property loan agreements. Photography rules (no flash, no tripod) are standard; special exhibitions may ban photography entirely.",
+      "penalty": "Damage to national museum collections: maximum cultural property penalties; prohibited photography: removal from museum",
+      "exceptions": [
+        "Authorised press and research photography with museum approval"
+      ],
+      "source": "https://www.kyuhaku.jp/",
+      "sourceLabel": "Kyushu National Museum",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did the Kyushu National Museum open — and what is its unique thematic focus?",
+        "options": [
+          "1990 — Japanese traditional arts",
+          "2005 — Japanese cultural history through Asian exchange",
+          "1975 — Kyushu regional heritage only",
+          "2010 — Modern Asian contemporary art"
+        ],
+        "correct": 1,
+        "explanation": "Kyushu National Museum opened in 2005 — Japan's fourth national museum — uniquely focusing on Japanese cultural history through its exchanges with Asia, reflecting Fukuoka/Kyushu's ancient role as Japan's gateway to the continent."
+      }
+    },
+    {
+      "id": 42834,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Itoshima Organic Farming District",
+      "subtitle": "Fukuoka's Itoshima is a model organic farming area",
+      "fullDescription": "Itoshima City has developed into Fukuoka's premium organic farming district, supplying restaurants and markets in Fukuoka City. JAS organic certification requirements apply to all farms using 'organic' labelling. Itoshima's community-supported agriculture (CSA) networks and farmer's markets operate under Food Sanitation Act food handling rules. The Itoshima Food Connection programme — linking farmers directly with Fukuoka restaurants — has inspired similar programmes nationwide.",
+      "penalty": "False organic labelling: up to 2 years imprisonment or ¥2,000,000 fine",
+      "exceptions": [
+        "Farms below ¥500,000 annual sales have simplified certification"
+      ],
+      "source": "https://www.city.itoshima.lg.jp/",
+      "sourceLabel": "Itoshima City — Agriculture Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What farming distribution model pioneered in Itoshima has inspired programmes nationwide?",
+        "options": [
+          "Government purchasing cooperatives",
+          "Community-supported agriculture (CSA) and farmer-to-restaurant direct connections",
+          "Export-only premium farming clubs",
+          "City-owned urban farm cooperatives"
+        ],
+        "correct": 1,
+        "explanation": "Itoshima's direct farmer-to-restaurant connection model — bypassing wholesale markets — has been replicated across Japan as a template for premium local food sourcing supporting both farmers and high-end restaurants."
+      }
+    },
+    {
+      "id": 42835,
+      "category": "Tourism & Recreation",
+      "severity": "low",
+      "icon": "🏖️",
+      "title": "Umi no Nakamichi Seaside Park Rules",
+      "subtitle": "National seaside park on Hakata Bay peninsula",
+      "fullDescription": "Umi no Nakamichi (海の中道) — a narrow 8 km peninsula park in Hakata Bay designated as a National Seaside Park (国営海の中道海浜公園) — is managed by the Ministry of Land under the Urban Park Act. Entry fees apply; seasonal flowers (tulips, cosmos) and a marine world aquarium are major attractions. Cycling within the park requires helmets for children under 13. BBQ is permitted only in designated areas. The park hosts approximately 2.8 million visitors annually.",
+      "penalty": "Cycling without child helmet: parental guidance (no fine); BBQ outside designated area: park rule violation + removal",
+      "exceptions": [
+        "Park management vehicles and emergency services"
+      ],
+      "source": "https://uminaka-park.jp/",
+      "sourceLabel": "Umi no Nakamichi Seaside Park",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What type of designation does Umi no Nakamichi hold — making it managed by the national government?",
+        "options": [
+          "Prefectural Natural Park",
+          "National Scenic Area",
+          "National Seaside Park (国営公園) under Ministry of Land",
+          "UNESCO Biosphere Reserve"
+        ],
+        "correct": 2,
+        "explanation": "Umi no Nakamichi is a National Seaside Park (国営海の中道海浜公園) — directly managed and funded by the national government's Ministry of Land, unlike city or prefectural parks."
+      }
+    },
+    {
+      "id": 42836,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🔒",
+      "title": "Fukuoka Prison and Criminal Justice",
+      "subtitle": "Fukuoka Detention House — major judicial facility",
+      "fullDescription": "Fukuoka Detention House (福岡拘置所) holds pre-trial detainees and sentenced prisoners awaiting execution. Fukuoka High Court (福岡高等裁判所) handles criminal appeals for all of Kyushu and Okinawa. Under Japan's Code of Criminal Procedure, the 23-day pre-charge detention system applies equally in Fukuoka. Japan maintains the death penalty — executions at Fukuoka Detention House are conducted with minimal advance notice (typically notified the morning of execution). Inmates on death row receive notification of execution only on the day.",
+      "penalty": "N/A — criminal procedure rules",
+      "exceptions": [],
+      "source": "https://www.courts.go.jp/",
+      "sourceLabel": "Fukuoka High Court",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the distinctive and controversial aspect of Japan's death penalty notification practice?",
+        "options": [
+          "Death row inmates are given 30 days notice",
+          "Families are notified 1 week before execution",
+          "Death row inmates receive notification only on the morning of their execution",
+          "Executions are announced publicly 24 hours in advance"
+        ],
+        "correct": 2,
+        "explanation": "Japan's death row inmates are notified of their execution only on the morning it is carried out — a practice criticised by human rights organisations as causing severe psychological distress to those on death row."
+      }
+    },
+    {
+      "id": 42837,
+      "category": "Immigration & Identity",
+      "severity": "medium",
+      "icon": "🌏",
+      "title": "Fukuoka Startup Visa for Foreign Entrepreneurs",
+      "subtitle": "Japan's first startup visa — Fukuoka City pilot programme",
+      "fullDescription": "Fukuoka City's Startup Visa (スタートアップビザ, 創業活動計画確認書) — Japan's first, launched 2014 — allows foreign nationals to reside in Fukuoka for up to 6 months while preparing to establish a business. During this period they cannot work for pay but can conduct research, network, and prepare incorporation documents. After 6 months they must either have incorporated and transferred to a Business Manager visa or leave. The programme has attracted over 400 applicants from 60+ countries.",
+      "penalty": "Working for pay on Startup Visa: immigration violation — deportation risk; misrepresenting startup activities: visa revocation",
+      "exceptions": [
+        "Family members can accompany but also cannot work during the startup period"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City — Startup Visa Programme",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long does Fukuoka City's Startup Visa allow foreign entrepreneurs to stay while preparing a business?",
+        "options": [
+          "1 month",
+          "3 months",
+          "6 months",
+          "1 year"
+        ],
+        "correct": 2,
+        "explanation": "Fukuoka's Startup Visa allows a 6-month residence period for business preparation — after which the entrepreneur must transfer to a Business Manager visa (requiring a functioning company) or depart Japan."
+      }
+    },
+    {
+      "id": 42838,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🍣",
+      "title": "Raw Fish Safety — Anisakis Regulations",
+      "subtitle": "Fukuoka's raw fish culture requires parasite control",
+      "fullDescription": "Fukuoka's food culture — sashimi, oysters, and live fish — means strict food safety compliance under the Food Sanitation Act for raw seafood. Anisakis (アニサキス) — a parasitic roundworm in raw fish causing severe stomach pain — is a known risk requiring fishmongers and restaurants to either freeze fish below -20°C for 24+ hours or train staff in visual inspection. Fukuoka City's Food Safety Division has issued specific anisakis prevention guidance after multiple illness reports at Fukuoka restaurants.",
+      "penalty": "Restaurants serving parasitised raw fish causing illness: civil liability; systematic food safety violations: licence suspension",
+      "exceptions": [
+        "Home preparation — consumer's own responsibility"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/hofuku/shokuhin/",
+      "sourceLabel": "Fukuoka City — Food Safety Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What parasite in raw fish has caused increased food safety enforcement at Fukuoka restaurants?",
+        "options": [
+          "Tapeworm",
+          "Toxoplasma",
+          "Anisakis (アニサキス) — a roundworm causing severe stomach pain",
+          "Cryptosporidium"
+        ],
+        "correct": 2,
+        "explanation": "Anisakis is a parasitic roundworm found in mackerel, squid, salmon, and other raw fish — causing severe gastrointestinal pain within hours of ingestion. Fukuoka's high raw fish consumption makes anisakis control a major food safety priority."
+      }
+    },
+    {
+      "id": 42839,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏗️",
+      "title": "Fukuoka Tenjin Big Bang Urban Renewal",
+      "subtitle": "Major urban renewal project relaxing building height limits",
+      "fullDescription": "Fukuoka City's Tenjin Big Bang (天神ビッグバン) project — launched 2015, targeting 30 high-rise building redevelopments by 2024 — relaxes building height limits in the Tenjin commercial district in exchange for developers providing public space. Under the Act on Special Measures for Urban Regeneration, approved projects can exceed standard height limits. The project aims to modernise Fukuoka's commercial core and make it competitive with Asian cities. Expected private investment: ¥800 billion.",
+      "penalty": "Development outside approved Big Bang parameters: standard Urban Planning Act penalties",
+      "exceptions": [
+        "Projects within designated Urban Regeneration Special Zones have fast-track approval"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/soki/tenjin-bigbang/",
+      "sourceLabel": "Fukuoka City — Tenjin Big Bang",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does Fukuoka's Tenjin Big Bang project offer developers in exchange for height limit relaxations?",
+        "options": [
+          "Tax holidays for 10 years",
+          "Public space contributions and ground-level pedestrian improvements",
+          "Priority in city government contracts",
+          "Guaranteed public funding for infrastructure connections"
+        ],
+        "correct": 1,
+        "explanation": "The Tenjin Big Bang relaxes height limits for developers who contribute public space, pedestrian arcades, and ground-floor improvements — creating a private-sector-led urban renewal model funded without direct public subsidy."
+      }
+    },
+    {
+      "id": 42840,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🏟️",
+      "title": "PayPay Dome — Sports Event Safety Rules",
+      "subtitle": "Fukuoka's baseball stadium safety and crowd management",
+      "fullDescription": "PayPay Dome (ペイペイドーム, home of SoftBank Hawks) — a fully retractable-roof dome stadium with 38,000 capacity — operates under Japan's Sports Facility Safety Act (スポーツ安全法) and Fukuoka City event safety guidelines. Alcohol is sold but consumption is restricted to seats and concession areas. Bag inspection is mandatory. The attached Hotel Monterey, commercial complex, and Hawks Town create a multi-use urban district. SoftBank Hawks' championship events draw post-game street celebrations managed under temporary crowd management ordinances.",
+      "penalty": "Bag inspection refusal: denial of entry (civil); prohibited items: confiscation; violent conduct: criminal charges",
+      "exceptions": [
+        "Authorised media with credential passes bypass standard bag inspection"
+      ],
+      "source": "https://www.softbankhawks.co.jp/",
+      "sourceLabel": "SoftBank Hawks — PayPay Dome",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What capacity does Fukuoka's PayPay Dome hold — home of the SoftBank Hawks?",
+        "options": [
+          "20,000",
+          "28,000",
+          "38,000",
+          "55,000"
+        ],
+        "correct": 2,
+        "explanation": "PayPay Dome holds approximately 38,000 spectators under its retractable roof — one of Japan's most modern and beloved baseball stadiums, consistently sold out during SoftBank Hawks home games."
+      }
+    },
+    {
+      "id": 42841,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🚬",
+      "title": "Designated Outdoor Smoking Areas",
+      "subtitle": "Fukuoka city restricts street smoking to marked zones",
+      "fullDescription": "Fukuoka City's Tobacco Smoking Prevention Ordinance (福岡市たばこの吸い殻等の散乱防止に関する条例) designates specific outdoor smoking areas in busy districts such as Tenjin and Hakata. Smoking outside these zones in pedestrian-heavy areas is prohibited. The ordinance aims to reduce cigarette litter and protect non-smokers from second-hand smoke on public streets.",
+      "penalty": "Up to ¥2,000 on-the-spot fine for smoking outside designated zones",
+      "exceptions": [
+        "Private property with owner permission",
+        "Designated smoking booths"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City Ordinance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where may you smoke on Fukuoka streets under city ordinance?",
+        "options": [
+          "Anywhere outdoors",
+          "Only in designated smoking zones",
+          "Only indoors",
+          "Smoking is fully banned"
+        ],
+        "correct": 1,
+        "explanation": "Fukuoka's ordinance restricts street smoking to marked designated smoking areas in busy districts."
+      }
+    },
+    {
+      "id": 42842,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Hakata Bay Coastal Protection Rules",
+      "subtitle": "Restrictions on activity near tidal flats and seagrass beds",
+      "fullDescription": "Hakata Bay's tidal flats (干潟) and seagrass beds are protected under Fukuoka Prefecture's Nature Conservation Ordinance. Unauthorized dredging, landfill operations, and collection of marine organisms beyond personal catch limits are prohibited to preserve the bay's biodiversity and its role as a migratory bird habitat.",
+      "penalty": "Up to ¥1,000,000 fine or 1 year imprisonment for unauthorized dredging/landfill",
+      "exceptions": [
+        "Licensed commercial fishing",
+        "Government coastal maintenance works"
+      ],
+      "source": "https://www.pref.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka Prefecture Nature Conservation Ordinance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the protected marine habitat in Hakata Bay?",
+        "options": [
+          "Coral reefs",
+          "Kelp forests",
+          "Tidal flats and seagrass beds",
+          "Mangroves"
+        ],
+        "correct": 2,
+        "explanation": "Hakata Bay's tidal flats and seagrass beds are protected under Fukuoka's nature conservation rules."
+      }
+    },
+    {
+      "id": 42843,
+      "category": "Food & Drink",
+      "severity": "low",
+      "icon": "🍜",
+      "title": "Ramen Stall (Yatai) Hygiene Standards",
+      "subtitle": "Mobile food stalls face strict prefectural food safety rules",
+      "fullDescription": "Fukuoka's iconic yatai (屋台) — outdoor food stalls serving tonkotsu ramen, yakitori, and oden — operate under licences issued by Fukuoka City and must comply with the Food Sanitation Act (食品衛生法) and local health guidelines. Each stall is inspected annually, and operators must hold a food handler's certificate. Stalls must not operate past midnight without special permit.",
+      "penalty": "Licence suspension or revocation for hygiene violations; fines up to ¥300,000",
+      "exceptions": [
+        "Pre-approved festival events may have extended operating hours"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City Yatai Licensing",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What are Fukuoka's famous outdoor food stalls called?",
+        "options": [
+          "Izakaya",
+          "Yatai",
+          "Konbini",
+          "Depachika"
+        ],
+        "correct": 1,
+        "explanation": "Fukuoka's yatai (outdoor food stalls) are a cultural icon, subject to city licensing and food safety rules."
+      }
+    },
+    {
+      "id": 42844,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏠",
+      "title": "Seismic Retrofit Subsidy Program",
+      "subtitle": "Homeowners can access grants for earthquake-proofing older buildings",
+      "fullDescription": "Fukuoka City offers subsidies under its earthquake-resistant improvement support programme (耐震改修促進計画) for owners of wooden houses built before 1981 that do not meet current seismic standards. Free seismic diagnosis and partial funding for retrofit works are available. Following the 2005 Fukuoka offshore earthquake, the city prioritised structural resilience as a public safety measure.",
+      "penalty": "No direct penalty, but non-compliant buildings may be subject to demolition orders if deemed dangerous",
+      "exceptions": [
+        "Buildings already meeting current seismic standards are ineligible for subsidy"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City Earthquake Retrofit Programme",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which event prompted Fukuoka's earthquake-proofing programme for older homes?",
+        "options": [
+          "2011 Tōhoku earthquake",
+          "2016 Kumamoto earthquake",
+          "2005 Fukuoka offshore earthquake",
+          "1995 Kobe earthquake"
+        ],
+        "correct": 2,
+        "explanation": "The 2005 Fukuoka offshore earthquake accelerated the city's seismic retrofit subsidy programme for pre-1981 wooden homes."
+      }
+    },
+    {
+      "id": 42845,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🏳️‍🌈",
+      "title": "Fukuoka City Partnership Certificate",
+      "subtitle": "City recognises same-sex and unmarried partnerships officially",
+      "fullDescription": "Since 2019, Fukuoka City issues partnership certificates (パートナーシップ宣誓証明書) to same-sex and other unmarried couples who formally declare their partnership. Certificate holders receive equal treatment to married couples for city housing applications and some medical decisions. While not legally equivalent to marriage under national law, it represents a significant step in local recognition.",
+      "penalty": "False declarations may result in certificate revocation",
+      "exceptions": [
+        "Certificate valid only for city-level services; national-level rights unchanged"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City Partnership Certificate Scheme",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Fukuoka City introduce its partnership certificate for unmarried couples?",
+        "options": [
+          "2015",
+          "2017",
+          "2019",
+          "2021"
+        ],
+        "correct": 2,
+        "explanation": "Fukuoka City launched its partnership certificate scheme in 2019, recognising same-sex and unmarried partnerships for city services."
+      }
+    },
+    {
+      "id": 42846,
+      "category": "Public Order",
+      "severity": "high",
+      "icon": "⚠️",
+      "title": "Organized Crime Exclusion Ordinance",
+      "subtitle": "Businesses must not engage with yakuza-affiliated individuals",
+      "fullDescription": "Fukuoka Prefecture's Organized Crime Exclusion Ordinance (暴力団排除条例), enacted 2010, prohibits businesses from entering contracts with or providing benefits to designated organized crime groups (暴力団). Fukuoka is historically associated with the Kudo-kai and other designated groups. Violations are publicly named, and businesses risk administrative sanctions and reputational harm. Citizens who pay extortion money may also face penalties.",
+      "penalty": "Business name publication; fines for repeat violations; up to 1 year imprisonment in serious cases",
+      "exceptions": [
+        "Unknowing transactions before knowledge of affiliation"
+      ],
+      "source": "https://www.pref.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka Prefecture Organized Crime Exclusion Ordinance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does Fukuoka's Organized Crime Exclusion Ordinance prohibit?",
+        "options": [
+          "Hiring former offenders",
+          "Business dealings with designated yakuza groups",
+          "Cash transactions over ¥1M",
+          "Unlicensed nightclubs"
+        ],
+        "correct": 1,
+        "explanation": "The ordinance prohibits businesses from contracting with or benefiting designated organized crime groups."
+      }
+    },
+    {
+      "id": 42847,
+      "category": "Traffic & Driving",
+      "severity": "medium",
+      "icon": "🚉",
+      "title": "Hakata Station Taxi Queue Rules",
+      "subtitle": "Strict queuing and no-touting rules at major transport hubs",
+      "fullDescription": "Fukuoka City's Road Traffic and Transport Ordinances, alongside Fukuoka Prefecture taxi regulations, mandate orderly taxi queuing at Hakata and Tenjin stations. Touting for fares, accepting passengers outside designated taxi ranks, and blocking traffic lanes are prohibited. Violations by taxi operators can result in licence suspension through the Kyushu Transport Bureau.",
+      "penalty": "Licence suspension for taxi operators; fines for illegal stopping in taxi zones",
+      "exceptions": [
+        "Pre-booked taxis may use designated pick-up zones"
+      ],
+      "source": "https://wwwtb.mlit.go.jp/kyushu/",
+      "sourceLabel": "Kyushu Transport Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is prohibited at Hakata Station's taxi ranks?",
+        "options": [
+          "Using credit cards",
+          "Touting for fares outside designated ranks",
+          "Refusing short trips",
+          "Playing music in taxis"
+        ],
+        "correct": 1,
+        "explanation": "Touting for fares and accepting passengers outside designated taxi ranks is prohibited at Fukuoka transport hubs."
+      }
+    },
+    {
+      "id": 42848,
+      "category": "Education",
+      "severity": "low",
+      "icon": "🎓",
+      "title": "After-School Learning Support for New Residents",
+      "subtitle": "City-funded Japanese language classes for non-Japanese children",
+      "fullDescription": "Fukuoka City's International Affairs Bureau provides free after-school Japanese language support classes for foreign children enrolled in city schools. Under the Education Basic Act and the city's multicultural coexistence plan (多文化共生推進プラン), schools with ten or more non-Japanese students must designate a language support teacher. Refusal to enrol foreign children in public schools on language grounds is explicitly prohibited.",
+      "penalty": "Schools refusing enrolment may face Ministry of Education guidance and funding adjustments",
+      "exceptions": [
+        "Private international schools operate under separate frameworks"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City Multicultural Coexistence Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does Fukuoka City provide to foreign children in public schools?",
+        "options": [
+          "Private tutors",
+          "Free Japanese language support classes",
+          "Automatic visa extensions",
+          "Separate international classrooms"
+        ],
+        "correct": 1,
+        "explanation": "Fukuoka City provides free Japanese language support classes to foreign children through its multicultural coexistence plan."
+      }
+    },
+    {
+      "id": 42849,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "💳",
+      "title": "Fukuoka City Startup Visa Programme",
+      "subtitle": "Foreign entrepreneurs can obtain residence status for business planning",
+      "fullDescription": "Fukuoka was Japan's first city designated as a National Strategic Special Zone (国家戦略特区) for startup promotion. Under this scheme, foreign entrepreneurs can receive a Special Business Manager Visa allowing a 6-month stay to plan a business without the usual ¥5,000,000 capital requirement. The city provides English-language support desks and co-working space access through Fukuoka City Startup Cafe.",
+      "penalty": "Visa revocation if business plan requirements are not met within the permitted period",
+      "exceptions": [
+        "Standard Business Manager Visa rules apply after the special zone period"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/keizai/r_startup/",
+      "sourceLabel": "Fukuoka City Startup Cafe",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes Fukuoka unique among Japanese cities for foreign entrepreneurs?",
+        "options": [
+          "Zero corporate tax",
+          "Japan's first National Strategic Special Zone for startups",
+          "Free office space for 1 year",
+          "No visa required for business"
+        ],
+        "correct": 1,
+        "explanation": "Fukuoka was Japan's first National Strategic Special Zone for startup promotion, offering special visa conditions for foreign entrepreneurs."
+      }
+    },
+    {
+      "id": 42850,
+      "category": "Heritage & Culture",
+      "severity": "low",
+      "icon": "🏮",
+      "title": "Hakata Gion Yamakasa Festival Protections",
+      "subtitle": "UNESCO-listed festival floats are protected heritage items",
+      "fullDescription": "The Hakata Gion Yamakasa (博多祇園山笠) festival, registered as UNESCO Intangible Cultural Heritage in 2016, involves racing giant decorative floats (山笠) through Hakata streets each July. Fukuoka City's cultural heritage protection rules prohibit unauthorised commercial use of the Yamakasa imagery, and city roads are temporarily closed under Traffic Control orders during the event.",
+      "penalty": "Fines for road closures violations; civil action possible for unauthorised commercial IP use",
+      "exceptions": [
+        "Participating neighbourhood groups (町) have hereditary rights to operate specific floats"
+      ],
+      "source": "https://www.hakatayamakasa.com/",
+      "sourceLabel": "Hakata Gion Yamakasa Official",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which year was Hakata Gion Yamakasa registered as UNESCO Intangible Cultural Heritage?",
+        "options": [
+          "2012",
+          "2014",
+          "2016",
+          "2018"
+        ],
+        "correct": 2,
+        "explanation": "The Hakata Gion Yamakasa festival was registered as UNESCO Intangible Cultural Heritage in 2016."
+      }
+    },
+    {
+      "id": 42851,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "👷",
+      "title": "Fukuoka Construction Site Safety Inspections",
+      "subtitle": "Prefecture mandates regular safety checks on major construction sites",
+      "fullDescription": "Under the Industrial Safety and Health Act (労働安全衛生法) as applied by Fukuoka Labour Bureau, construction sites of 300 square metres or more must conduct weekly safety inspections and appoint a safety manager. Fukuoka Prefecture has additional reporting requirements for sites near its many underground utility corridors beneath the city centre.",
+      "penalty": "Up to ¥500,000 fine; work suspension for serious safety violations",
+      "exceptions": [
+        "Small-scale renovation under 30 days with single contractor may use simplified procedures"
+      ],
+      "source": "https://jsite.mhlw.go.jp/fukuoka-roudoukyoku/",
+      "sourceLabel": "Fukuoka Labour Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum site size triggers Fukuoka's mandatory construction safety manager requirement?",
+        "options": [
+          "100 sqm",
+          "200 sqm",
+          "300 sqm",
+          "500 sqm"
+        ],
+        "correct": 2,
+        "explanation": "Fukuoka requires a safety manager for construction sites of 300 square metres or more."
+      }
+    },
+    {
+      "id": 42852,
+      "category": "Agriculture",
+      "severity": "low",
+      "icon": "🍓",
+      "title": "Amaou Strawberry Trademark Protection",
+      "subtitle": "Fukuoka's famous brand strawberry is a registered trademark",
+      "fullDescription": "The Amaou (あまおう) strawberry, developed by Fukuoka Agricultural Research Institute and first sold in 2005, is a registered trademark owned by the Fukuoka Prefecture Agricultural Co-operative. Unauthorised use of the 'Amaou' name on non-certified berries is prohibited under trademark law. Growers must be certified by the co-operative and meet size, sweetness, and colour standards to use the brand.",
+      "penalty": "Civil trademark infringement claim; up to ¥3,000,000 in fines under the Trademark Act",
+      "exceptions": [
+        "Personal home growing is permitted; only commercial sales are regulated"
+      ],
+      "source": "https://www.pref.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka Prefecture Agricultural Co-operative",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who owns the trademark for Fukuoka's Amaou strawberry?",
+        "options": [
+          "The City of Fukuoka",
+          "Fukuoka Prefecture Agricultural Co-operative",
+          "A private corporation",
+          "The national government"
+        ],
+        "correct": 1,
+        "explanation": "The Amaou strawberry trademark is owned by the Fukuoka Prefecture Agricultural Co-operative, protecting certified growers."
+      }
+    },
+    {
+      "id": 42853,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🛒",
+      "title": "Tenjin Big Bang Redevelopment Consumer Rules",
+      "subtitle": "Temporary business rules apply during the Tenjin district rebuilding project",
+      "fullDescription": "Fukuoka's Tenjin Big Bang (天神ビッグバン) urban renewal project (2019–2024) required businesses operating in demolished or rebuilt buildings to follow city relocation and consumer notification rules under the Building Standards Act and city ordinance. Retailers must post clear signage of temporary closures and relocated stores. Consumers are protected from holding deposits on businesses that ceased operations.",
+      "penalty": "Consumer protection violations prosecuted under the Act on Specified Commercial Transactions",
+      "exceptions": [
+        "Buildings inside the special deregulation zone have modified floor-area ratio rules"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City Tenjin Big Bang",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Tenjin Big Bang?",
+        "options": [
+          "A fireworks festival",
+          "Fukuoka's major urban renewal project in the Tenjin district",
+          "A music event at PayPay Dome",
+          "A traffic restructuring initiative"
+        ],
+        "correct": 1,
+        "explanation": "The Tenjin Big Bang is Fukuoka's large-scale urban renewal project redeveloping the Tenjin business district from 2019 to 2024."
+      }
+    },
+    {
+      "id": 42854,
+      "category": "Public Transport",
+      "severity": "medium",
+      "icon": "✈️",
+      "title": "Fukuoka Airport Noise Curfew",
+      "subtitle": "Night flights restricted due to airport's proximity to the city centre",
+      "fullDescription": "Fukuoka Airport, located just 5km from the city centre, operates under strict noise management rules. Under the Airport Noise Prevention Act (航空機騒音防止法), scheduled commercial flights are prohibited between 22:00 and 07:00. Residents in designated noise-impact zones are eligible for sound insulation subsidies. The compact urban layout means the curfew is strictly enforced compared to other Japanese airports.",
+      "penalty": "Airlines face civil penalties and landing rights review for curfew violations",
+      "exceptions": [
+        "Emergency flights and government/military aircraft are exempt"
+      ],
+      "source": "https://www.fukuoka-airport.jp/",
+      "sourceLabel": "Fukuoka Airport Authority",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What hours are commercial flights prohibited at Fukuoka Airport?",
+        "options": [
+          "23:00–06:00",
+          "22:00–07:00",
+          "21:00–07:00",
+          "00:00–06:00"
+        ],
+        "correct": 1,
+        "explanation": "Fukuoka Airport's curfew prohibits scheduled commercial flights between 22:00 and 07:00 due to its proximity to the city centre."
+      }
+    },
+    {
+      "id": 42855,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🔒",
+      "title": "Kudo-kai Designation and Anti-Extortion Laws",
+      "subtitle": "Fukuoka's most notorious crime group faces enhanced police powers",
+      "fullDescription": "The Kudo-kai (工藤会) was designated a 'particularly dangerous' organized crime group (特定危険指定暴力団) by the National Public Safety Commission in 2012 — the first such designation in Japan. This triggers enhanced police authority to arrest members for mere association with criminal activities, and businesses that allow Kudo-kai use of premises commit a criminal offence under Fukuoka Prefecture's exclusion ordinance.",
+      "penalty": "Up to 1 year imprisonment for providing facilities or assistance to designated members; enhanced sentencing for all group offences",
+      "exceptions": [
+        "Legal representation for members is protected under attorney-client privilege"
+      ],
+      "source": "https://www.npa.go.jp/",
+      "sourceLabel": "National Police Agency",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What was historically significant about the Kudo-kai's 2012 police designation?",
+        "options": [
+          "It was Japan's largest crime group",
+          "It was Japan's first 'particularly dangerous' crime group designation",
+          "It was disbanded by court order",
+          "It was the first group linked to overseas operations"
+        ],
+        "correct": 1,
+        "explanation": "The Kudo-kai was the first group designated as 'particularly dangerous' in Japan in 2012, enabling enhanced police powers."
+      }
+    },
+    {
+      "id": 42856,
+      "category": "Immigration & Identity",
+      "severity": "medium",
+      "icon": "🛂",
+      "title": "Fukuoka Port Entry Immigration Controls",
+      "subtitle": "Vessel arrivals from Korea must comply with maritime immigration procedures",
+      "fullDescription": "Fukuoka's Hakata Port is one of Japan's busiest international ferry terminals, with regular services to Busan, South Korea. Under the Immigration Control and Refugee Recognition Act (入管法), all international arrivals must pass immigration inspection. Ferry passengers are processed at dedicated booths, and crew members must hold valid documents. Fukuoka Immigration Bureau oversees compliance and conducts spot checks on vessel crews.",
+      "penalty": "Deportation and entry ban for immigration violations; fines up to ¥300,000 for carriers transporting undocumented persons",
+      "exceptions": [
+        "Transit passengers with confirmed onward bookings may use simplified procedures"
+      ],
+      "source": "https://www.moj.go.jp/",
+      "sourceLabel": "Fukuoka Immigration Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which city in Korea does Hakata Port have regular ferry services to?",
+        "options": [
+          "Seoul",
+          "Incheon",
+          "Busan",
+          "Jeju"
+        ],
+        "correct": 2,
+        "explanation": "Hakata Port in Fukuoka has regular international ferry services to Busan, South Korea, one of the busiest routes in East Asia."
+      }
+    },
+    {
+      "id": 42857,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🎆",
+      "title": "Nishijin Festival Crowd Control Measures",
+      "subtitle": "Large gatherings require prefecture safety coordination",
+      "fullDescription": "Under the Fukuoka Prefecture Public Safety Ordinance and lessons from crowd crush incidents elsewhere in Asia, events expected to draw over 5,000 attendees in Fukuoka must submit a crowd management plan to the Fukuoka Prefectural Police at least 14 days in advance. Organisers must appoint trained crowd safety stewards at a minimum ratio of 1 per 250 attendees.",
+      "penalty": "Event cancellation; fines up to ¥500,000 for proceeding without approved plan",
+      "exceptions": [
+        "Recurring smaller neighbourhood festivals with under 2,000 attendees use streamlined notification"
+      ],
+      "source": "https://www.police.pref.fukuoka.jp/",
+      "sourceLabel": "Fukuoka Prefectural Police",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many days before a large event must Fukuoka organisers submit a crowd management plan?",
+        "options": [
+          "7 days",
+          "10 days",
+          "14 days",
+          "30 days"
+        ],
+        "correct": 2,
+        "explanation": "Events expecting over 5,000 attendees in Fukuoka must submit crowd management plans to police at least 14 days in advance."
+      }
+    },
+    {
+      "id": 42858,
+      "category": "Housing & Property",
+      "severity": "low",
+      "icon": "🏗️",
+      "title": "Fukuoka Compact City Zoning Policy",
+      "subtitle": "City promotes high-density living near transport nodes",
+      "fullDescription": "Fukuoka's Location Normalization Plan (立地適正化計画), adopted under the revised City Planning Act, designates Urban Function Induction Zones around major train stations. New commercial facilities, hospitals, and schools built outside these zones require notification and may be ineligible for city subsidies. The policy promotes walkable, transit-oriented neighbourhoods and discourages car-dependent sprawl.",
+      "penalty": "Loss of subsidy eligibility; mandatory notification for out-of-zone development",
+      "exceptions": [
+        "Emergency and temporary facilities may be exempted by city planning board"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City Location Normalization Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What concept does Fukuoka's Location Normalization Plan primarily promote?",
+        "options": [
+          "Industrial expansion",
+          "Suburban housing development",
+          "Compact, transit-oriented city planning",
+          "Green belt preservation"
+        ],
+        "correct": 2,
+        "explanation": "Fukuoka's plan promotes compact city development by concentrating urban functions near train stations."
+      }
+    },
+    {
+      "id": 42859,
+      "category": "Tourism & Recreation",
+      "severity": "low",
+      "icon": "⛩️",
+      "title": "Dazaifu Tenmangu Shrine Etiquette Rules",
+      "subtitle": "Visitors must observe conduct rules at the national treasure shrine",
+      "fullDescription": "Dazaifu Tenmangu (太宰府天満宮) in Fukuoka Prefecture, dedicated to the scholar-god Tenjin, is a National Cultural Property. Shrine administration rules prohibit drone flights over the grounds, commercial photography without prior approval, and disturbance during prayer services. The Ume plum trees, planted as a living offering, must not be touched or branches broken.",
+      "penalty": "Removal from shrine grounds; civil liability for damage to cultural property",
+      "exceptions": [
+        "Approved media crews may film with advance permission from shrine office"
+      ],
+      "source": "https://www.dazaifutenmangu.or.jp/",
+      "sourceLabel": "Dazaifu Tenmangu Shrine",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is prohibited at Dazaifu Tenmangu without prior approval?",
+        "options": [
+          "Photography with smartphones",
+          "Commercial photography and drone flights",
+          "Buying omamori charms",
+          "Visiting at night"
+        ],
+        "correct": 1,
+        "explanation": "Commercial photography and drone flights over Dazaifu Tenmangu require advance approval from shrine administration."
+      }
+    },
+    {
+      "id": 42860,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "♻️",
+      "title": "Fukuoka City Zero-Waste Recycling System",
+      "subtitle": "One of Japan's most studied waste reduction models",
+      "fullDescription": "Fukuoka City operates one of Japan's most efficient municipal waste systems, with mandatory separation into burnables, non-burnables, cans/bottles/PET, cardboard, and oversized items. Waste must be placed in transparent bags (except burnables) so collection staff can verify contents. Incorrectly sorted waste is refused collection and tagged with an explanatory sticker. The Fukuoka Method of semi-aerobic landfill is studied internationally.",
+      "penalty": "Refuse collection refusal for incorrectly sorted waste; persistent violations referred to ward office",
+      "exceptions": [
+        "Businesses must contract separate industrial waste collection services"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City Waste Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is unique about non-burnable waste bags in Fukuoka City?",
+        "options": [
+          "They must be black",
+          "They must be transparent",
+          "They are provided free by the city",
+          "They must include a barcode sticker"
+        ],
+        "correct": 1,
+        "explanation": "Fukuoka requires non-burnable waste in transparent bags so collection staff can verify correct sorting."
+      }
+    },
+    {
+      "id": 42861,
+      "category": "Disaster Preparedness",
+      "severity": "high",
+      "icon": "🌧️",
+      "title": "Fukuoka Flood Warning Evacuation Orders",
+      "subtitle": "Residents in flood zones must comply with prefectural evacuation alerts",
+      "fullDescription": "Fukuoka Prefecture uses a 5-level evacuation alert system under the Disaster Relief Act (災害対策基本法). Level 4 (Evacuation Order) requires all residents in designated hazard zones — including areas along the Naka and Umi rivers — to immediately evacuate. Non-compliance with evacuation orders does not result in criminal penalties but may void insurance claims and disqualify households from government disaster relief.",
+      "penalty": "No criminal penalty, but non-compliance may void insurance and government disaster relief eligibility",
+      "exceptions": [
+        "Persons with disabilities or requiring assisted evacuation have dedicated support routes"
+      ],
+      "source": "https://www.pref.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka Prefecture Disaster Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the consequence of ignoring a Level 4 Evacuation Order in Fukuoka?",
+        "options": [
+          "Criminal prosecution",
+          "Fines up to ¥100,000",
+          "Possible loss of insurance and disaster relief eligibility",
+          "Nothing — it is purely advisory"
+        ],
+        "correct": 2,
+        "explanation": "Non-compliance with Level 4 orders carries no criminal penalty but may void insurance claims and government disaster relief."
+      }
+    },
+    {
+      "id": 42862,
+      "category": "Traffic & Driving",
+      "severity": "medium",
+      "icon": "🚴",
+      "title": "Bicycle Registration Requirement",
+      "subtitle": "All bicycles sold or used in Fukuoka must be registered",
+      "fullDescription": "Under the Fukuoka Prefecture Bicycle Traffic Safety Ordinance (自転車の安全利用の促進及び自転車等の駐車対策の総合的推進に関する条例), all bicycles must be registered with the prefectural police bicycle registration system at time of purchase. Registration costs ¥600 and is valid for 10 years. Police use this database to reunite recovered stolen bicycles with owners. Selling a bicycle without first cancelling the existing registration is a violation.",
+      "penalty": "Unregistered bicycles may be impounded; ¥500 fine; seller may face civil liability",
+      "exceptions": [
+        "Racing bicycles used only on private tracks are exempt"
+      ],
+      "source": "https://www.police.pref.fukuoka.jp/",
+      "sourceLabel": "Fukuoka Prefectural Police Bicycle Registration",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long is a bicycle registration valid in Fukuoka Prefecture?",
+        "options": [
+          "3 years",
+          "5 years",
+          "7 years",
+          "10 years"
+        ],
+        "correct": 3,
+        "explanation": "Bicycle registration in Fukuoka costs ¥600 and is valid for 10 years."
+      }
+    },
+    {
+      "id": 42863,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🦟",
+      "title": "Dengue and Tropical Disease Surveillance",
+      "subtitle": "Fukuoka's gateway status heightens tropical disease monitoring",
+      "fullDescription": "As a major entry point from Southeast Asia and Korea, Fukuoka Airport and port are designated disease surveillance points under the Infectious Disease Control Law (感染症法). Fukuoka Prefecture operates enhanced mosquito surveillance, particularly for Aedes species that transmit dengue fever. Travellers arriving with fever symptoms may be referred to the Fukuoka Quarantine Station for examination.",
+      "penalty": "Refusal of quarantine examination may result in detention for public health reasons",
+      "exceptions": [
+        "Passengers with valid vaccination records for relevant diseases may bypass some screening"
+      ],
+      "source": "https://www.pref.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka Prefecture Infectious Disease Control",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why does Fukuoka have enhanced tropical disease surveillance?",
+        "options": [
+          "It has tropical weather year-round",
+          "It is a major entry point from Southeast Asia and Korea",
+          "It has large mangrove mosquito habitats",
+          "It hosts international medical conferences"
+        ],
+        "correct": 1,
+        "explanation": "Fukuoka's status as a gateway from Southeast Asia and Korea makes it a priority for tropical disease surveillance."
+      }
+    },
+    {
+      "id": 42864,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "♿",
+      "title": "Fukuoka Barrier-Free City Standards",
+      "subtitle": "City buildings and transport must meet enhanced accessibility rules",
+      "fullDescription": "Fukuoka City's Barrier-Free Basic Plan (バリアフリー基本計画) goes beyond the national Barrier-Free Act (バリアフリー法) requirements. All new public buildings over 2,000 sqm, public transport stations used by over 3,000 persons daily, and shopping areas in the city centre must provide step-free access, tactile paving, accessible toilets, and audio guidance systems. Non-compliance is identified through annual city audits.",
+      "penalty": "City may withhold building permits for non-compliant new construction; existing buildings receive improvement notices",
+      "exceptions": [
+        "Historic buildings with heritage protection status may apply for partial exemption"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City Barrier-Free Basic Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which transport stations must comply with Fukuoka's enhanced barrier-free rules?",
+        "options": [
+          "All stations",
+          "Stations with over 1,000 daily users",
+          "Stations with over 3,000 daily users",
+          "Only Hakata and Tenjin stations"
+        ],
+        "correct": 2,
+        "explanation": "Fukuoka's Barrier-Free Basic Plan applies to stations used by over 3,000 persons daily."
+      }
+    },
+    {
+      "id": 42865,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏦",
+      "title": "Fukuoka Asia Pacific Finance Hub Initiative",
+      "subtitle": "Special regulatory treatment for foreign financial firms in Fukuoka",
+      "fullDescription": "As part of Japan's Financial Services Agency efforts to attract overseas asset managers to Japan, Fukuoka was designated a Financial and Economic Zone. Foreign fund managers establishing Japan operations in Fukuoka benefit from simplified registration and dedicated English-language FSA consultation windows. Firms must still comply with the Financial Instruments and Exchange Act (金融商品取引法) but receive streamlined entry support.",
+      "penalty": "Standard FSA enforcement for non-compliance with financial regulations",
+      "exceptions": [
+        "Tax benefits under the special zone do not override national tax law obligations"
+      ],
+      "source": "https://www.fsa.go.jp/",
+      "sourceLabel": "Financial Services Agency / Fukuoka Zone",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What benefit does Fukuoka's Financial and Economic Zone offer to foreign fund managers?",
+        "options": [
+          "Zero corporate tax",
+          "Simplified FSA registration and English consultation support",
+          "Exemption from securities law",
+          "Guaranteed investment returns"
+        ],
+        "correct": 1,
+        "explanation": "Fukuoka's zone offers foreign asset managers simplified FSA registration and English-language consultation support."
+      }
+    },
+    {
+      "id": 42866,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🎵",
+      "title": "Live Music Venue Noise Limits",
+      "subtitle": "Late-night music venues must comply with city sound ordinances",
+      "fullDescription": "Fukuoka City has a vibrant live music scene in areas like Nakasu and Daimyo. Under the Noise Regulation Ordinance and the Act on Control and Improvement of Amusement Business (風営法), venues playing amplified music must ensure noise levels do not exceed 45 dB(A) at the nearest residential boundary after 22:00. Venues in commercial zones have a higher 60 dB(A) limit. Violations can result in business licence suspension.",
+      "penalty": "Warning, then fines up to ¥100,000; repeat violations lead to licence suspension",
+      "exceptions": [
+        "Approved outdoor festivals with temporary permits may exceed limits during specified event hours"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City Noise Regulation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the late-night noise limit for Fukuoka music venues near residential areas after 22:00?",
+        "options": [
+          "35 dB(A)",
+          "45 dB(A)",
+          "55 dB(A)",
+          "65 dB(A)"
+        ],
+        "correct": 1,
+        "explanation": "Fukuoka venues near residential areas must keep noise below 45 dB(A) after 22:00 under city ordinance."
+      }
+    },
+    {
+      "id": 42867,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "🤱",
+      "title": "Fukuoka Childcare Support for Working Parents",
+      "subtitle": "City guarantees childcare placement for working households",
+      "fullDescription": "Fukuoka City has invested heavily in childcare capacity to address the national 'daycare waiting list' (待機児童) problem. Under the Child Care and Family Support Act (子ども・子育て支援法), the city guarantees certified childcare placement for children of working parents within 3 months of application. Employers with over 100 employees must provide or subsidise childcare under the Act on Advancement of Measures to Support Raising Next-Generation Children.",
+      "penalty": "Employers failing childcare obligations face Ministry of Health guidance and potential public disclosure",
+      "exceptions": [
+        "Micro-enterprises under 10 employees are exempt from direct childcare provision requirements"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka City Childcare Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long does Fukuoka City guarantee childcare placement within for working parents?",
+        "options": [
+          "1 month",
+          "3 months",
+          "6 months",
+          "1 year"
+        ],
+        "correct": 1,
+        "explanation": "Fukuoka City guarantees certified childcare placement within 3 months of application for working parents."
+      }
+    },
+    {
+      "id": 42868,
+      "category": "Heritage & Culture",
+      "severity": "low",
+      "icon": "🎭",
+      "title": "Hakata Traditional Crafts Protection Act",
+      "subtitle": "Hakata ori silk weaving and Hakata dolls are designated traditional crafts",
+      "fullDescription": "Hakata ori (博多織), a distinctive silk weaving technique originating in the 13th century, and Hakata dolls (博多人形) are designated Traditional Craft Products under the Act for the Promotion of Traditional Craft Industries (伝統的工芸品産業の振興に関する法律). Producers must use traditional techniques and locally sourced or certified materials. Use of the Traditional Craft designation mark requires certification from the Ministry of Economy.",
+      "penalty": "Removal of certification; fines for misleading use of Traditional Craft designation",
+      "exceptions": [
+        "Modern Hakata ori designs using traditional techniques still qualify for certification"
+      ],
+      "source": "https://www.meti.go.jp/",
+      "sourceLabel": "Ministry of Economy, Trade and Industry — Traditional Crafts",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Hakata ori?",
+        "options": [
+          "A type of tonkotsu ramen",
+          "A traditional Fukuoka silk weaving technique",
+          "A festival float style",
+          "A martial arts tradition"
+        ],
+        "correct": 1,
+        "explanation": "Hakata ori is a traditional silk weaving technique from Fukuoka, designated a protected traditional craft since the 13th century."
+      }
+    },
+    {
+      "id": 42869,
+      "category": "Public Health",
+      "severity": "high",
+      "icon": "🏥",
+      "title": "Fukuoka Prefecture Mental Health Crisis Intervention",
+      "subtitle": "Prefecture operates 24-hour mental health emergency response",
+      "fullDescription": "Fukuoka Prefecture's Mental Health Welfare Center (精神保健福祉センター) operates a 24-hour crisis consultation line and mobile intervention team. Under the Mental Health and Welfare Act (精神保健福祉法), individuals in acute mental health crisis may be subject to involuntary hospitalisation ordered by the Prefecture Governor (措置入院) upon examination by two designated psychiatrists. Safeguards include mandatory review within 72 hours.",
+      "penalty": "Medical professionals who fail to report criteria-meeting cases may face professional discipline",
+      "exceptions": [
+        "Voluntary admission and voluntary treatment are always available and preferred"
+      ],
+      "source": "https://www.pref.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka Prefecture Mental Health Welfare Center",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is required for involuntary hospitalisation under Fukuoka's mental health law?",
+        "options": [
+          "Family consent",
+          "Police order",
+          "Examination by two designated psychiatrists and Prefectural Governor order",
+          "Court order only"
+        ],
+        "correct": 2,
+        "explanation": "Involuntary hospitalisation requires examination by two designated psychiatrists and a Prefectural Governor order, with 72-hour review."
+      }
+    },
+    {
+      "id": 42870,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Itoshima Coastal Forest Conservation",
+      "subtitle": "Rare coastal pine forests west of Fukuoka are protected under prefecture ordinance",
+      "fullDescription": "The coastal pine forests (防砂林) along Itoshima Peninsula in Fukuoka Prefecture are designated Protected Forests under the Forestry Act (森林法). These forests prevent coastal sand erosion and protect farmland. Cutting, burning, or developing within 50 metres of the forest boundary requires prefecture permission. The area also falls under the Genkai National Park marine zone.",
+      "penalty": "Up to ¥1,000,000 fine or 1 year imprisonment for illegal felling",
+      "exceptions": [
+        "Authorised maintenance cutting of dead wood by prefecture forestry service"
+      ],
+      "source": "https://www.pref.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka Prefecture Forestry Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What function do Itoshima's coastal pine forests serve?",
+        "options": [
+          "Tourism buffer zone",
+          "Timber production reserve",
+          "Coastal sand erosion prevention and farmland protection",
+          "Wildlife migration corridor only"
+        ],
+        "correct": 2,
+        "explanation": "Itoshima's coastal pine forests prevent sand erosion and protect farmland, making them legally protected."
+      }
+    },
+    {
+      "id": 42871,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🚫",
+      "title": "Anti-Stalking Measures — Fukuoka Enforcement",
+      "subtitle": "Fukuoka police have enhanced stalking response procedures",
+      "fullDescription": "Following several high-profile stalking murders in Fukuoka Prefecture, the Fukuoka Prefectural Police established a dedicated Anti-Stalking Task Force. Under the Stalker Control Law (ストーカー規制法), victims can apply for a restraining order (接近禁止命令), and police must respond to complaints within 24 hours. Fukuoka police issue warnings (警告) on first complaint and may arrest without warrant on second violation.",
+      "penalty": "Up to 1 year imprisonment or ¥1,000,000 fine for first restraining order breach; up to 2 years for repeated violations",
+      "exceptions": [
+        "Family courts may issue protective orders in domestic violence cases under separate law"
+      ],
+      "source": "https://www.police.pref.fukuoka.jp/",
+      "sourceLabel": "Fukuoka Prefectural Police Anti-Stalking Unit",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What prompted Fukuoka to establish a dedicated anti-stalking police task force?",
+        "options": [
+          "National government directive",
+          "Several high-profile stalking murders in the prefecture",
+          "Rising cyberstalking statistics",
+          "International pressure from UN"
+        ],
+        "correct": 1,
+        "explanation": "Several high-profile stalking murders in Fukuoka led to the establishment of a dedicated Anti-Stalking Task Force."
+      }
+    },
+    {
+      "id": 42872,
+      "category": "Tourism & Recreation",
+      "severity": "low",
+      "icon": "🐡",
+      "title": "Fugu (Pufferfish) Chef Licensing",
+      "subtitle": "Only licensed chefs may prepare the potentially lethal delicacy",
+      "fullDescription": "Fugu (河豚), the pufferfish prized in Fukuoka and renowned at Shimonoseki, contains potentially lethal tetrodotoxin. Under Fukuoka Prefecture's Food Sanitation Ordinance, restaurants serving fugu must employ a licensed fugu handler (ふぐ処理師) who has passed prefecture examinations in safe preparation techniques. Self-preparation and sale by unlicensed individuals is a criminal offence.",
+      "penalty": "Unlicensed fugu preparation for commercial sale: up to 2 years imprisonment or ¥2,000,000 fine",
+      "exceptions": [
+        "Personal consumption of home-prepared fugu is not illegal, though strongly discouraged"
+      ],
+      "source": "https://www.pref.fukuoka.lg.jp/",
+      "sourceLabel": "Fukuoka Prefecture Food Sanitation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What toxin makes fugu potentially lethal if improperly prepared?",
+        "options": [
+          "Ciguatoxin",
+          "Tetrodotoxin",
+          "Saxitoxin",
+          "Botulinum"
+        ],
+        "correct": 1,
+        "explanation": "Fugu contains tetrodotoxin, requiring licensed preparation. Fukuoka mandates a prefectural licence for commercial fugu handling."
+      }
+    },
+    {
+      "id": 42873,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "🚌",
+      "title": "Nishitetsu Bus Courtesy Seating Enforcement",
+      "subtitle": "Priority seating rules actively enforced on Fukuoka's major bus network",
+      "fullDescription": "Nishitetsu (West Japan Railroad) operates Fukuoka's extensive bus network and requires passengers to vacate priority seating (優先席) for elderly, pregnant, disabled, and injured passengers. Under guidance from Fukuoka City and national guidelines, all Nishitetsu buses display priority seating rules in Japanese and English. Mobile phones must be switched to silent near priority seats. Bus operators may ask passengers to move.",
+      "penalty": "Social enforcement; no criminal penalty, but persistent refusal may result in removal at next stop",
+      "exceptions": [
+        "Passengers with non-visible disabilities using priority seats are not required to move if they explain their condition"
+      ],
+      "source": "https://www.nishitetsu.jp/",
+      "sourceLabel": "Nishitetsu Bus Priority Seating Policy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What must passengers do with mobile phones near priority seats on Nishitetsu buses?",
+        "options": [
+          "Turn them off completely",
+          "Switch to silent mode",
+          "Use only approved apps",
+          "Nothing — no restriction applies"
+        ],
+        "correct": 1,
+        "explanation": "Passengers must switch mobile phones to silent mode near priority seats on Nishitetsu buses in Fukuoka."
+      }
+    },
+    {
+      "id": 42874,
+      "category": "Agriculture",
+      "severity": "medium",
+      "icon": "🌾",
+      "title": "Chikugo River Agricultural Water Rights",
+      "subtitle": "Strict water allocation rules govern Fukuoka's key farming waterway",
+      "fullDescription": "The Chikugo River (筑後川), Kyushu's longest river flowing through southern Fukuoka Prefecture, is subject to the River Act (河川法) and historical water rights agreements. Agricultural users drawing water for rice paddies must hold registered water rights (水利権). New or expanded extractions require approval from the Kyushu Regional Development Bureau. Water theft or exceeding approved volumes is a criminal offence.",
+      "penalty": "Up to ¥500,000 fine or 1 year imprisonment for water rights violations",
+      "exceptions": [
+        "Emergency drought relief extractions approved by prefecture governor are exempt"
+      ],
+      "source": "https://www.qsr.mlit.go.jp/",
+      "sourceLabel": "Kyushu Regional Development Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Japan's legal term for registered agricultural water extraction rights?",
+        "options": [
+          "水道権 (Suidouken)",
+          "水利権 (Suiriken)",
+          "灌漑権 (Kankouken)",
+          "農水権 (Nousuiken)"
+        ],
+        "correct": 1,
+        "explanation": "Water extraction rights in Japan are called 水利権 (suiriken). They must be registered for use from rivers like the Chikugo."
+      }
+    },
+    {
+      "id": 42875,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "📦",
+      "title": "E-Commerce Return Rules — Fukuoka Consumer Centre",
+      "subtitle": "Fukuoka Consumer Affairs Centre enforces national e-commerce cooling-off rules",
+      "fullDescription": "Fukuoka City Consumer Affairs Centre (福岡市消費生活センター) advises consumers and enforces the Act on Specified Commercial Transactions (特定商取引法), which grants an 8-day cooling-off period for door-to-door sales and a 20-day period for multi-level marketing purchases. For standard online shopping (通信販売), sellers must clearly state return conditions; if no return policy is stated, consumers can return goods within 8 days of receipt.",
+      "penalty": "Business suspension orders; fines up to ¥3,000,000 for misleading cancellation policies",
+      "exceptions": [
+        "Custom-made and perishable goods are typically exempt from cooling-off rules"
+      ],
+      "source": "https://www.city.fukuoka.lg.jp/shimin/shohiseikatsu/",
+      "sourceLabel": "Fukuoka City Consumer Affairs Centre",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many days does Japan's cooling-off period give consumers for door-to-door sales?",
+        "options": [
+          "3 days",
+          "5 days",
+          "8 days",
+          "14 days"
+        ],
+        "correct": 2,
+        "explanation": "Japan's Act on Specified Commercial Transactions gives consumers an 8-day cooling-off period for door-to-door sales."
+      }
+    }
+  ]
+}

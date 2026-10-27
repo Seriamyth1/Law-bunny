@@ -1,0 +1,2031 @@
+{
+  "country": "Maharashtra, India",
+  "slug": "maharashtra-india",
+  "laws": [
+    {
+      "id": 43026,
+      "category": "Traffic & Driving",
+      "severity": "high",
+      "icon": "🚗",
+      "title": "0.03% BAC Drink-Driving Limit",
+      "subtitle": "India's Motor Vehicles Act imposes strict BAC limits",
+      "fullDescription": "Under the Motor Vehicles Act 1988 (amended 2019), driving with a blood alcohol concentration of 0.03% or above is a criminal offence across India, including Maharashtra. Mumbai Traffic Police conduct regular breathalyser checkpoints, especially on weekends and festival seasons. Maharashtra has one of India's highest road fatality rates, driving aggressive enforcement.",
+      "penalty": "First offence: up to 6 months imprisonment or ₹10,000 fine; repeat offence: up to 2 years imprisonment or ₹15,000 fine",
+      "exceptions": [
+        "No exceptions for BAC threshold; medicinal alcohol use does not exempt a driver"
+      ],
+      "source": "https://morth.nic.in/",
+      "sourceLabel": "Ministry of Road Transport and Highways — MV Act 2019",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is India's legal BAC limit for driving under the Motor Vehicles Act?",
+        "options": [
+          "0.08%",
+          "0.05%",
+          "0.03%",
+          "0.00%"
+        ],
+        "correct": 2,
+        "explanation": "India's Motor Vehicles Act sets a BAC limit of 0.03% — among the strictest in the world."
+      }
+    },
+    {
+      "id": 43027,
+      "category": "Environmental",
+      "severity": "high",
+      "icon": "🏭",
+      "title": "Maharashtra Pollution Control Board Consents",
+      "subtitle": "All industries must obtain consent to establish and operate",
+      "fullDescription": "The Maharashtra Pollution Control Board (MPCB), constituted under the Water (Prevention and Control of Pollution) Act 1974 and Air (Prevention and Control of Pollution) Act 1981, requires all industrial units to obtain Consent to Establish (CTE) before construction and Consent to Operate (CTO) before commencing operations. Industries are categorised Red, Orange, or Green based on pollution load; Red industries face the strictest conditions.",
+      "penalty": "Closure orders; fines up to ₹1,00,000 per day of non-compliance; imprisonment up to 6 years for repeat violations",
+      "exceptions": [
+        "Household small-scale units and agricultural activities are exempt from CTE/CTO requirements"
+      ],
+      "source": "https://mpcb.gov.in/",
+      "sourceLabel": "Maharashtra Pollution Control Board",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What categories does Maharashtra Pollution Control Board use to classify industries?",
+        "options": [
+          "A, B, C",
+          "High, Medium, Low",
+          "Red, Orange, Green",
+          "1, 2, 3"
+        ],
+        "correct": 2,
+        "explanation": "MPCB classifies industries as Red (most polluting), Orange, or Green based on pollution load."
+      }
+    },
+    {
+      "id": 43028,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏠",
+      "title": "Maharashtra RERA — Real Estate Regulation",
+      "subtitle": "All residential projects must register with MahaRERA",
+      "fullDescription": "Maharashtra was the first state to operationalise the Real Estate (Regulation and Development) Act 2016 (RERA) through the Maharashtra Real Estate Regulatory Authority (MahaRERA). All residential projects with more than 8 units or over 500 sqm plot area must be registered before being advertised or sold. Developers must deposit 70% of project funds in a dedicated escrow account.",
+      "penalty": "Fines up to 10% of project cost for non-registration; imprisonment up to 3 years for repeat violations; project registration cancellation",
+      "exceptions": [
+        "Ongoing projects that received completion certificate before RERA's commencement are partially exempt"
+      ],
+      "source": "https://maharera.mahaonline.gov.in/",
+      "sourceLabel": "MahaRERA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of funds must Maharashtra real estate developers deposit in escrow under RERA?",
+        "options": [
+          "50%",
+          "60%",
+          "70%",
+          "80%"
+        ],
+        "correct": 2,
+        "explanation": "Maharashtra RERA requires developers to deposit 70% of project funds in a dedicated escrow account to protect homebuyers."
+      }
+    },
+    {
+      "id": 43029,
+      "category": "Public Order",
+      "severity": "high",
+      "icon": "🚫",
+      "title": "Maharashtra Prevention of Gambling Act",
+      "subtitle": "Public gambling is illegal; police have power to raid gambling dens",
+      "fullDescription": "The Maharashtra Prevention of Gambling Act 1887 prohibits operating or visiting a common gaming house. Police officers may enter and search suspected premises without a warrant. Online gambling is treated as an extension of the act under IT Act interpretations. The law distinguishes games of chance from games of skill — rummy and fantasy cricket have been held as skill games by courts.",
+      "penalty": "Up to ₹500 fine or 3 months imprisonment for visiting a gambling house; up to ₹1,000 fine or 6 months for operating one",
+      "exceptions": [
+        "Lotteries authorised by the state government are legal; horse racing with authorised bookmakers is exempt"
+      ],
+      "source": "https://www.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Prevention of Gambling Act 1887",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under Maharashtra gambling law, which game has courts held to be a game of skill (and thus potentially legal)?",
+        "options": [
+          "Teen Patti",
+          "Rummy",
+          "Matka",
+          "Slot machines"
+        ],
+        "correct": 1,
+        "explanation": "Rummy has been held by Indian courts to be a game of skill, potentially distinguishing it from illegal games of chance under Maharashtra law."
+      }
+    },
+    {
+      "id": 43030,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🚬",
+      "title": "COTPA Tobacco Control in Maharashtra",
+      "subtitle": "Smoking banned in all public places; tobacco sales regulated near schools",
+      "fullDescription": "The Cigarettes and Other Tobacco Products Act 2003 (COTPA), enforced by Maharashtra's Food and Drug Administration (FDA), bans smoking in all public places, workplaces, and public transport. Tobacco products may not be sold within 100 metres of educational institutions. Mumbai was among the first cities to enforce these rules vigorously, with on-the-spot fines collected by municipal inspectors.",
+      "penalty": "₹200 on-the-spot fine for smoking in prohibited areas; up to ₹1,000 for selling tobacco near schools",
+      "exceptions": [
+        "Designated smoking zones in airports and hospitality venues are permitted if separate and ventilated"
+      ],
+      "source": "https://www.mfdaindia.com/",
+      "sourceLabel": "Maharashtra Food and Drug Administration",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the minimum distance from schools within which tobacco sales are banned under COTPA?",
+        "options": [
+          "50 metres",
+          "100 metres",
+          "200 metres",
+          "500 metres"
+        ],
+        "correct": 1,
+        "explanation": "COTPA bans tobacco product sales within 100 metres of any educational institution across India, including Maharashtra."
+      }
+    },
+    {
+      "id": 43031,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "⚙️",
+      "title": "Maharashtra Shops and Establishments Act",
+      "subtitle": "Working hours, leave, and wages governed for all commercial establishments",
+      "fullDescription": "The Maharashtra Shops and Establishments Act 1948 (now updated to 2017 version) governs working conditions for shops, commercial establishments, restaurants, and hotels across Maharashtra. Employees are entitled to one day off per 7 days worked, overtime pay at double rate, earned leave, and written appointment letters. The 2017 amendment allowed 24/7 operations for certain establishments with adequate shift arrangements.",
+      "penalty": "Fines ₹5,000–₹10,000 per violation; business licence cancellation for persistent non-compliance",
+      "exceptions": [
+        "Agricultural establishments and domestic servants are excluded from the Act"
+      ],
+      "source": "https://labour.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Labour Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many days off per week are employees entitled to under Maharashtra's Shops and Establishments Act?",
+        "options": [
+          "One day per 6 days worked",
+          "One day per 7 days worked",
+          "Two days per week (mandatory)",
+          "One day per 10 days worked"
+        ],
+        "correct": 1,
+        "explanation": "The Maharashtra Shops and Establishments Act entitles employees to one day off per every 7 days worked."
+      }
+    },
+    {
+      "id": 43032,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏦",
+      "title": "Maharashtra Stamp Duty on Property Transactions",
+      "subtitle": "Property transfers attract significant state stamp duty",
+      "fullDescription": "Maharashtra levies stamp duty on property registrations under the Maharashtra Stamp Act 1958. Urban area stamp duty is 6% of property value (5% stamp duty + 1% metro cess in Mumbai). Women buyers pay 1% less (5%). Stamp duty must be paid before or at the time of registration at the Sub-Registrar's office. Under-valuation of stamp duty is a serious offence detected by circle rate (ready reckoner) comparison.",
+      "penalty": "Deficient stamp duty: penalty of 2% per month on unpaid amount; criminal prosecution for fraudulent under-valuation",
+      "exceptions": [
+        "Gift deeds between blood relatives attract concessional 3% stamp duty"
+      ],
+      "source": "https://igrmaharashtra.gov.in/",
+      "sourceLabel": "Inspector General of Registration, Maharashtra",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Mumbai's standard stamp duty rate on property transactions?",
+        "options": [
+          "3%",
+          "4%",
+          "5% + 1% metro cess = 6%",
+          "8%"
+        ],
+        "correct": 2,
+        "explanation": "Mumbai property transactions attract 5% stamp duty plus 1% metro cess, totalling 6%."
+      }
+    },
+    {
+      "id": 43033,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🔒",
+      "title": "Maharashtra Control of Organised Crime Act (MCOCA)",
+      "subtitle": "Stringent anti-organised crime law unique to Maharashtra",
+      "fullDescription": "The Maharashtra Control of Organised Crime Act 1999 (MCOCA) targets organised crime syndicates with enhanced investigative powers and presumption of guilt provisions. Accused persons may be remanded for up to 30 days (vs. normal 15 days), confessions before senior police officers are admissible, and bail is extremely difficult to obtain. The law is invoked against extortion, land-grabbing gangs, and criminal syndicates in Mumbai.",
+      "penalty": "Minimum 5 years imprisonment; up to life imprisonment or death penalty in cases involving murder",
+      "exceptions": [
+        "MCOCA may only be invoked with prior sanction of the state government; cannot be applied to single isolated offences"
+      ],
+      "source": "https://www.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Control of Organised Crime Act 1999",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "For how many days may accused persons be remanded under MCOCA vs. normal Indian law?",
+        "options": [
+          "Normal 15 days / MCOCA 30 days",
+          "Normal 7 days / MCOCA 15 days",
+          "Normal 30 days / MCOCA 60 days",
+          "They are the same"
+        ],
+        "correct": 0,
+        "explanation": "MCOCA allows remand of up to 30 days, double the standard 15-day limit under normal Indian criminal procedure."
+      }
+    },
+    {
+      "id": 43034,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Maharashtra Ancient Monuments Preservation Act",
+      "subtitle": "Heritage structures like Ajanta, Ellora, and Mumbai Fort must be protected",
+      "fullDescription": "Maharashtra houses some of India's most significant heritage sites including the Ajanta and Ellora Caves (UNESCO World Heritage Sites), Elephanta Caves, and Mumbai's colonial Fort precinct. Under the Ancient Monuments and Archaeological Sites and Remains Act 1958 and Maharashtra Ancient Monuments and Archaeological Sites and Remains Act 1960, no construction is permitted within 100m of protected monuments, and mining is banned within 200m.",
+      "penalty": "Up to 2 years imprisonment and ₹1,00,000 fine for damaging protected monuments",
+      "exceptions": [
+        "Authorised excavations by the Archaeological Survey of India or State Archaeology Department are permitted"
+      ],
+      "source": "https://www.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Directorate of Archaeology and Museums",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which two UNESCO World Heritage cave complexes are located in Maharashtra?",
+        "options": [
+          "Hampi and Badami",
+          "Ajanta and Ellora",
+          "Elephanta and Kanheri",
+          "Bhimbetka and Aurangabad"
+        ],
+        "correct": 1,
+        "explanation": "The Ajanta and Ellora Caves are UNESCO World Heritage Sites in Maharashtra, protected under strict monument preservation laws."
+      }
+    },
+    {
+      "id": 43035,
+      "category": "Agriculture",
+      "severity": "medium",
+      "icon": "🌾",
+      "title": "Maharashtra Agricultural Tenancy and Land Reforms",
+      "subtitle": "Farmland ownership and tenancy regulated by Maharashtra land ceiling laws",
+      "fullDescription": "The Maharashtra Agricultural Lands (Ceiling on Holdings) Act 1961 limits how much agricultural land a family may hold. Urban watered land is capped at 18 acres; dry land at 54 acres. Excess land is acquired by the state for redistribution. The Maharashtra Tenancy and Agricultural Lands Act 1948 protects tenant farmers from arbitrary eviction and grants them a right to purchase the land they cultivate.",
+      "penalty": "Surplus land declared vested in the state; civil penalties for evasion of ceiling laws",
+      "exceptions": [
+        "Educational and charitable trusts operating farms for bona fide agricultural purposes may apply for exemption"
+      ],
+      "source": "https://mahabhumi.gov.in/",
+      "sourceLabel": "Maharashtra Land Records Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under Maharashtra's land ceiling act, what is the maximum dry land a family may hold?",
+        "options": [
+          "27 acres",
+          "36 acres",
+          "54 acres",
+          "108 acres"
+        ],
+        "correct": 2,
+        "explanation": "Maharashtra's Agricultural Land Ceiling Act limits families to 54 acres of dry (unirrigated) agricultural land."
+      }
+    },
+    {
+      "id": 43036,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🌍",
+      "title": "Maharashtra Scheduled Castes and Tribes Atrocities Prevention",
+      "subtitle": "State enforces SC/ST Protection Act with dedicated courts",
+      "fullDescription": "The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act 1989 and its 2015 amendment are enforced in Maharashtra through 27 dedicated Special Courts. Maharashtra has established Fast Track Special Courts in each district for SC/ST atrocity cases. Cases must be investigated by a Deputy Superintendent of Police rank officer. Bail is not ordinarily granted for heinous offences under the Act.",
+      "penalty": "Minimum 6 months to life imprisonment depending on offence severity; fines up to ₹1,00,000",
+      "exceptions": [
+        "Offences not falling within the specific definitions of 'atrocity' under the Act are tried under ordinary criminal law"
+      ],
+      "source": "https://sjsa.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Social Justice and Special Assistance Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What rank officer must investigate SC/ST atrocity cases in Maharashtra?",
+        "options": [
+          "Sub-Inspector",
+          "Inspector",
+          "Deputy Superintendent of Police",
+          "Superintendent of Police"
+        ],
+        "correct": 2,
+        "explanation": "SC/ST atrocity cases in Maharashtra must be investigated by a Deputy Superintendent of Police (DSP) rank officer."
+      }
+    },
+    {
+      "id": 43037,
+      "category": "Public Transport",
+      "severity": "medium",
+      "icon": "🚇",
+      "title": "Mumbai Metro and Local Train Ticketing Rules",
+      "subtitle": "Travelling without valid ticket on Mumbai's railways is a serious offence",
+      "fullDescription": "Mumbai's suburban railway network, run by Central Railway and Western Railway, carries over 7 million passengers daily. Under the Railways Act 1989, travelling without a valid ticket (ticketless travel) attracts a penalty fare of 250 times the single journey fare or ₹250 minimum. Mumbai Metro One (Versova–Andheri–Ghatkopar) and newer metro lines operate separate ticketing. Both systems have plain-clothes ticket checkers.",
+      "penalty": "₹250 minimum or 250× the journey fare for ticketless travel; repeated offenders may be prosecuted",
+      "exceptions": [
+        "Persons with valid monthly passes (season tickets) that are accidentally left at home may resolve through the railway's grace appeal process"
+      ],
+      "source": "https://cr.indianrailways.gov.in/",
+      "sourceLabel": "Central Railway Mumbai",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the penalty multiplier for ticketless travel on Mumbai's suburban railway?",
+        "options": [
+          "50×",
+          "100×",
+          "250×",
+          "500×"
+        ],
+        "correct": 2,
+        "explanation": "Ticketless travel on Mumbai suburban railways attracts a penalty of 250 times the single journey fare, or ₹250 minimum."
+      }
+    },
+    {
+      "id": 43038,
+      "category": "Food & Drink",
+      "severity": "medium",
+      "icon": "🍖",
+      "title": "Maharashtra Beef Ban",
+      "subtitle": "Slaughter and possession of beef is banned under state law",
+      "fullDescription": "The Maharashtra Animal Preservation Act 1976, amended in 2015 as the Maharashtra Animal Preservation (Amendment) Act, bans the slaughter of cows, bulls, and bullocks, and prohibits possession, sale, and transport of beef and beef products. The ban extends to beef imported from other states. Those accused under the act face non-bailable offences. The act generated significant controversy regarding religious rights.",
+      "penalty": "Up to 5 years imprisonment and ₹10,000 fine for slaughter; up to 1 year for possession of beef",
+      "exceptions": [
+        "Buffalo meat (beef from water buffalo) is not covered by this ban and may be consumed and sold legally"
+      ],
+      "source": "https://www.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Animal Preservation Act 1976/2015",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What type of beef is NOT banned under Maharashtra's Animal Preservation Act?",
+        "options": [
+          "Cow beef",
+          "Bull beef",
+          "Bullock beef",
+          "Buffalo (water buffalo) meat"
+        ],
+        "correct": 3,
+        "explanation": "Maharashtra's beef ban covers cows, bulls, and bullocks — but not water buffalo, so buffalo meat remains legal."
+      }
+    },
+    {
+      "id": 43039,
+      "category": "Disaster Preparedness",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Mumbai Coastal Flood Hazard Zones",
+      "subtitle": "Coastal Regulation Zone rules govern development along Mumbai's coastline",
+      "fullDescription": "Maharashtra's coastline is governed by the Coastal Regulation Zone (CRZ) Notification 2019 issued under the Environment Protection Act 1986. In Mumbai, CRZ-I (ecologically sensitive — mangroves, beaches) prohibits almost all construction. CRZ-II allows FSI bonuses for redevelopment of existing buildings. Violations are investigated by the Maharashtra Coastal Zone Management Authority. Mangrove destruction is treated as a criminal offence.",
+      "penalty": "Up to 5 years imprisonment and ₹1 crore fine for CRZ violations; mandatory restoration of mangroves",
+      "exceptions": [
+        "Essential public utilities like water, sewage, and coastal roads may be constructed with environmental clearance"
+      ],
+      "source": "https://environment.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Environment Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does CRZ-I designation mean for Mumbai's mangrove areas?",
+        "options": [
+          "Controlled development allowed",
+          "Almost all construction prohibited",
+          "Residential development only",
+          "Commercial development with permit"
+        ],
+        "correct": 1,
+        "explanation": "CRZ-I designation in Mumbai prohibits almost all construction in ecologically sensitive areas including mangroves and beaches."
+      }
+    },
+    {
+      "id": 43040,
+      "category": "Tourism & Recreation",
+      "severity": "low",
+      "icon": "🎭",
+      "title": "Maharashtra Tourism Policy — Heritage Hotels",
+      "subtitle": "Heritage buildings converted to hotels must preserve architectural character",
+      "fullDescription": "Maharashtra Tourism Development Corporation (MTDC) and the Tourism Department's Heritage Hotel policy encourage conversion of palaces, forts, and havelis into hotels. Such properties must be listed on the Maharashtra Heritage List and must retain original facades, structural elements, and architectural features. Major alterations require Archaeological Department clearance. Properties like Falaknuma Palace model and various Kolhapur properties follow these rules.",
+      "penalty": "Heritage hotel status revocation; fines for unauthorised structural changes to protected heritage properties",
+      "exceptions": [
+        "Interior modernisation for guest comfort (plumbing, HVAC) is permitted with appropriate documentation"
+      ],
+      "source": "https://www.maharashtratourism.gov.in/",
+      "sourceLabel": "Maharashtra Tourism Development Corporation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What must be retained when converting a heritage building to a hotel in Maharashtra?",
+        "options": [
+          "Original furniture",
+          "Original facades, structural elements, and architectural features",
+          "Original name only",
+          "Original room layout only"
+        ],
+        "correct": 1,
+        "explanation": "Maharashtra's Heritage Hotel policy requires preservation of original facades, structural elements, and architectural features."
+      }
+    },
+    {
+      "id": 43041,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🍷",
+      "title": "Maharashtra Prohibition Act — Dry Days and Permits",
+      "subtitle": "Alcohol sale is prohibited on designated dry days and requires licensing",
+      "fullDescription": "Maharashtra follows a licensed liquor regime under the Maharashtra Prohibition Act 1949. Alcohol sales are banned on 26 national/state dry days annually (including Gandhi Jayanti, Republic Day, and polling days). Restaurants and bars require an FL-III licence; hotels require FL-II. Sale to persons under 25 is prohibited. Districts like Wardha and Gadchiroli are fully dry under local prohibition orders.",
+      "penalty": "₹50,000–₹2,00,000 fine and up to 3 years imprisonment for unlicensed sale; ₹2,000 for sale on dry days",
+      "exceptions": [
+        "Foreigners may carry alcohol purchased duty-free; certain religious ceremonies may apply for special permits"
+      ],
+      "source": "https://sbcMaharashtra.gov.in/",
+      "sourceLabel": "State Beverages Corporation Maharashtra",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the minimum drinking age in Maharashtra?",
+        "options": [
+          "18",
+          "21",
+          "25",
+          "No minimum"
+        ],
+        "correct": 2,
+        "explanation": "Maharashtra prohibits sale of alcohol to persons under 25, one of India's highest minimum drinking ages."
+      }
+    },
+    {
+      "id": 43042,
+      "category": "Education",
+      "severity": "medium",
+      "icon": "🎓",
+      "title": "Maharashtra Right to Education Act Implementation",
+      "subtitle": "Free and compulsory education guaranteed for children aged 6–14",
+      "fullDescription": "The Right of Children to Free and Compulsory Education Act 2009 (RTE Act) is implemented in Maharashtra through the Maharashtra RTE Rules 2011. Private unaided schools must reserve 25% seats for children from Economically Weaker Sections (EWS) and Disadvantaged Groups (DG). The state reimburses these schools at a per-pupil rate. Non-compliance with 25% reservation attracts refusal of school recognition renewal.",
+      "penalty": "School recognition non-renewal for non-compliance with 25% EWS reservation; fines for RTE violations",
+      "exceptions": [
+        "Minority community schools and unaided minority schools have partial exemptions from RTE provisions per Supreme Court rulings"
+      ],
+      "source": "https://rte.mscescholarshipexam.in/",
+      "sourceLabel": "Maharashtra RTE Implementation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of seats must private unaided schools reserve for EWS children under RTE in Maharashtra?",
+        "options": [
+          "10%",
+          "15%",
+          "25%",
+          "50%"
+        ],
+        "correct": 2,
+        "explanation": "The RTE Act requires private unaided schools in Maharashtra to reserve 25% of seats for children from Economically Weaker Sections."
+      }
+    },
+    {
+      "id": 43043,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "📱",
+      "title": "Maharashtra Consumer Disputes Redressal Commission",
+      "subtitle": "State consumer courts handle disputes up to ₹1 crore",
+      "fullDescription": "Under the Consumer Protection Act 2019, Maharashtra operates a three-tier consumer redressal system. District Consumer Disputes Redressal Commissions handle claims up to ₹50 lakh, the Maharashtra State Commission handles ₹50 lakh to ₹2 crore, and the National Commission handles above ₹2 crore. Online complaint filing is available through the Consumerhelpline.gov.in portal. Maharashtra has one of India's most active consumer court systems.",
+      "penalty": "Compensation orders and product recalls; criminal prosecution for repeat offenders up to 7 years imprisonment",
+      "exceptions": [
+        "Commercial disputes between businesses (B2B) are excluded; only consumer (B2C) complaints are admissible"
+      ],
+      "source": "https://consumer.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Consumer Affairs Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum claim value for Maharashtra's District Consumer Commissions?",
+        "options": [
+          "₹20 lakh",
+          "₹50 lakh",
+          "₹1 crore",
+          "₹2 crore"
+        ],
+        "correct": 1,
+        "explanation": "District Consumer Commissions in Maharashtra handle claims up to ₹50 lakh under the Consumer Protection Act 2019."
+      }
+    },
+    {
+      "id": 43044,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Mumbai Plastic Ban",
+      "subtitle": "Single-use plastics banned across Maharashtra",
+      "fullDescription": "Maharashtra issued a comprehensive single-use plastic ban through the Maharashtra Plastic and Thermocol Products (Manufacture, Usage, Sale, Transport, Handling and Storage) Notification 2018. The ban covers plastic bags, cups, plates, spoons, straws, and thermocol items. Manufacturers, shopkeepers, and users all face penalties. Maharashtra was among India's first states with such a comprehensive ban.",
+      "penalty": "First offence: ₹5,000; second: ₹10,000; third and above: ₹25,000 and up to 3 months imprisonment",
+      "exceptions": [
+        "Plastics used in medical, pharmaceutical, and milk packaging are exempt; export products have modified rules"
+      ],
+      "source": "https://environment.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Environment Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which year did Maharashtra implement its comprehensive single-use plastic ban?",
+        "options": [
+          "2015",
+          "2016",
+          "2018",
+          "2020"
+        ],
+        "correct": 2,
+        "explanation": "Maharashtra's comprehensive single-use plastic ban came into effect in 2018, making it one of India's earliest such bans."
+      }
+    },
+    {
+      "id": 43045,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🏳️‍🌈",
+      "title": "Maharashtra Prohibition of Conversion by Force or Fraud",
+      "subtitle": "Religious conversion through force, fraud, or allurement is prohibited",
+      "fullDescription": "Maharashtra does not have a Freedom of Religion Act but enforces anti-conversion through the Indian Penal Code provisions against wrongful restraint, cheating, and inducement. The Supreme Court's Navtej Singh Johar judgment (2018) decriminalised consensual same-sex relations under Section 377, effective in Maharashtra. The Maharashtra government has proposed a Freedom of Religion Bill restricting conversions.",
+      "penalty": "IPC provisions: up to 1 year imprisonment for wrongful confinement or cheating in context of forced conversion",
+      "exceptions": [
+        "Voluntary informed adult conversion is a fundamental right protected under Article 25 of the Constitution"
+      ],
+      "source": "https://www.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Home Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which Supreme Court judgment decriminalised consensual same-sex relations in India, including Maharashtra?",
+        "options": [
+          "Kesavananda Bharati case",
+          "Navtej Singh Johar judgment (2018)",
+          "Suresh Kumar Koushal case",
+          "S. Pushpavanam case"
+        ],
+        "correct": 1,
+        "explanation": "The Supreme Court's Navtej Singh Johar judgment (2018) decriminalised consensual same-sex relations by reading down Section 377 of the IPC."
+      }
+    },
+    {
+      "id": 43046,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "💳",
+      "title": "Maharashtra Value Added Tax and GST Compliance",
+      "subtitle": "GST enforcement is rigorous for Maharashtra's large business base",
+      "fullDescription": "Maharashtra is India's largest contributor to Goods and Services Tax (GST) revenue. The Maharashtra GST Department conducts audits under the CGST/MGST Acts. Businesses with annual turnover above ₹40 lakh (₹20 lakh for services) must register for GST. E-invoicing is mandatory for businesses above ₹5 crore turnover. Maharashtra's GST Intelligence and Investigation wing actively pursues input tax credit fraud.",
+      "penalty": "100–200% of evaded tax as penalty; imprisonment up to 5 years for tax evasion above ₹5 crore",
+      "exceptions": [
+        "Small businesses under threshold may opt for Composition Scheme (1–6% flat rate, no input credits)"
+      ],
+      "source": "https://mahagst.gov.in/",
+      "sourceLabel": "Maharashtra GST Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Above what annual turnover must businesses in Maharashtra mandatorily register for GST?",
+        "options": [
+          "₹10 lakh",
+          "₹20 lakh",
+          "₹40 lakh (goods)",
+          "₹1 crore"
+        ],
+        "correct": 2,
+        "explanation": "Businesses in Maharashtra dealing in goods with annual turnover above ₹40 lakh must register for GST."
+      }
+    },
+    {
+      "id": 43047,
+      "category": "Immigration & Identity",
+      "severity": "medium",
+      "icon": "🛂",
+      "title": "Foreigners Registration in Maharashtra",
+      "subtitle": "Foreign nationals must register with FRRO Mumbai within 14 days",
+      "fullDescription": "Foreign nationals staying in India beyond 180 days must register with the Foreigners Regional Registration Office (FRRO) in Mumbai within 14 days of arrival. Pakistan and Afghan nationals must register within 24 hours regardless of stay duration. Registration is online via the e-FRRO portal. Address changes must be reported within 14 days. Foreign students, employees, and long-stay visitors are all subject to FRRO registration.",
+      "penalty": "Up to ₹10,000 fine and deportation for failure to register; blacklisting for future visa applications",
+      "exceptions": [
+        "Overseas Citizens of India (OCI) cardholders are exempt from registration requirements"
+      ],
+      "source": "https://indianfrro.gov.in/",
+      "sourceLabel": "FRRO Mumbai",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Within how many hours must Pakistani nationals register with FRRO on arriving in Maharashtra?",
+        "options": [
+          "14 days",
+          "48 hours",
+          "24 hours",
+          "7 days"
+        ],
+        "correct": 2,
+        "explanation": "Pakistani and Afghan nationals must register with FRRO within 24 hours of arrival in India, including Maharashtra."
+      }
+    },
+    {
+      "id": 43048,
+      "category": "Agriculture",
+      "severity": "low",
+      "icon": "🥭",
+      "title": "Alphonso Mango Geographical Indication Protection",
+      "subtitle": "Hapus (Alphonso) mango from Konkan coast is a protected GI product",
+      "fullDescription": "The Alphonso mango (Hapus/आंबा) from the Ratnagiri and Devgad coastal districts of Maharashtra has a Geographical Indication (GI) registration under the Geographical Indications of Goods (Registration and Protection) Act 1999. Only mangoes grown in the designated GI area may be labelled and sold as 'GI Certified Ratnagiri Hapus' or 'GI Certified Devgad Hapus'. Counterfeit labelling is a civil and criminal offence.",
+      "penalty": "Civil damages and up to 3 years imprisonment for fraudulent use of GI tag under the GI Act",
+      "exceptions": [
+        "Alphonso mangoes grown elsewhere may still be sold as Alphonso, but not with the GI certification suffix"
+      ],
+      "source": "https://ipindia.gov.in/",
+      "sourceLabel": "Intellectual Property India — GI Registry",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which coastal districts' Alphonso mangoes have GI protection in Maharashtra?",
+        "options": [
+          "Nashik and Pune",
+          "Ratnagiri and Devgad",
+          "Sindhudurg and Kolhapur",
+          "Thane and Raigad"
+        ],
+        "correct": 1,
+        "explanation": "Only Alphonso mangoes grown in Ratnagiri and Devgad districts of Maharashtra's Konkan coast have GI certification."
+      }
+    },
+    {
+      "id": 43049,
+      "category": "Public Health",
+      "severity": "high",
+      "icon": "💉",
+      "title": "Maharashtra Universal Immunisation Programme",
+      "subtitle": "Free vaccines for children are mandatory under India's immunisation schedule",
+      "fullDescription": "Maharashtra implements India's Universal Immunisation Programme (UIP) through the National Health Mission. Vaccines for BCG, DPT, Hepatitis B, Polio, Measles-Rubella, and Typhoid are provided free at government health centres. Maharashtra's Pulse Polio campaign has maintained zero wild poliovirus cases since 2011. Schools must verify vaccination records as part of enrolment under Maharashtra's health guidelines.",
+      "penalty": "Schools may be directed to require vaccination records; state may conduct home visits for unreached children",
+      "exceptions": [
+        "Medical contraindications as certified by a government doctor may exempt children from specific vaccines"
+      ],
+      "source": "https://arogya.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Health Department — NHM",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Since which year has Maharashtra maintained zero wild poliovirus cases?",
+        "options": [
+          "2005",
+          "2008",
+          "2011",
+          "2014"
+        ],
+        "correct": 2,
+        "explanation": "Maharashtra has maintained zero wild poliovirus cases since 2011, part of India's successful Pulse Polio eradication campaign."
+      }
+    },
+    {
+      "id": 43050,
+      "category": "Heritage & Culture",
+      "severity": "low",
+      "icon": "🎨",
+      "title": "Mumbai Film City and Entertainment Industry Regulations",
+      "subtitle": "Film City Goregaon operates under Maharashtra Entertainment Duty Act",
+      "fullDescription": "Maharashtra Film, Stage and Cultural Development Corporation (MFSCDC) operates Film City in Goregaon, Mumbai. Productions using Film City facilities must hold appropriate entertainment licences. The Maharashtra Entertainment Duty Act 1923 levies entertainment duty on cinema tickets. Bollywood and regional Marathi films may qualify for state government subsidies under the Maharashtra Film Policy 2019 if they promote Maharashtra's culture or are shot predominantly in the state.",
+      "penalty": "Entertainment duty evasion: fines equal to evaded duty plus penalty; licence revocation for unlicensed entertainment venues",
+      "exceptions": [
+        "Award ceremonies, press screenings, and children's educational programmes are exempt from entertainment duty"
+      ],
+      "source": "https://mfscdc.gov.in/",
+      "sourceLabel": "Maharashtra Film, Stage and Cultural Development Corporation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where is Mumbai's famous Film City studio complex located?",
+        "options": [
+          "Bandra",
+          "Andheri",
+          "Goregaon",
+          "Powai"
+        ],
+        "correct": 2,
+        "explanation": "Film City is located in Goregaon, Mumbai, operated by the Maharashtra Film, Stage and Cultural Development Corporation."
+      }
+    },
+    {
+      "id": 43051,
+      "category": "Disaster Preparedness",
+      "severity": "high",
+      "icon": "🌧️",
+      "title": "Mumbai Flood Emergency Management System",
+      "subtitle": "Mumbai's annual monsoon floods trigger specific emergency protocols",
+      "fullDescription": "Mumbai receives over 2,400mm of rainfall annually, and the 2005 floods (944mm in 24 hours) killed over 1,000 people. The Brihanmumbai Municipal Corporation (BMC) operates an Integrated Flood Management System. When the India Meteorological Department issues a Red Alert (extremely heavy rain), public transport may be suspended and coastal and low-lying area residents must evacuate. The BMC has real-time stormwater pump monitoring.",
+      "penalty": "No criminal penalty for failing to evacuate; civil liability for those who disobey police cordons in disaster zones",
+      "exceptions": [
+        "Essential service workers (doctors, emergency personnel) may operate during Red Alerts with employer authorisation"
+      ],
+      "source": "https://mcgm.gov.in/",
+      "sourceLabel": "Brihanmumbai Municipal Corporation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much rainfall fell in Mumbai in a single 24-hour period during the catastrophic 2005 floods?",
+        "options": [
+          "500mm",
+          "700mm",
+          "944mm",
+          "1,200mm"
+        ],
+        "correct": 2,
+        "explanation": "Mumbai recorded 944mm of rainfall in 24 hours during the catastrophic July 2005 floods, killing over 1,000 people."
+      }
+    },
+    {
+      "id": 43052,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🐄",
+      "title": "Maharashtra Prevention of Cruelty to Animals Act",
+      "subtitle": "Animal cruelty carries both state and central penalties in Maharashtra",
+      "fullDescription": "Maharashtra enforces the Prevention of Cruelty to Animals Act 1960 (central) and the Maharashtra Prevention of Cruelty to Animals Rules. Animal fights (cockfighting, dog fighting) are specifically prohibited. The Bombay High Court has issued orders protecting stray dogs under the Animal Birth Control (Dogs) Rules. Municipal corporations must operate dog sterilisation and vaccination programmes. Cruelty complaints may be filed at any police station.",
+      "penalty": "Up to ₹50,000 fine and 5 years imprisonment for organised animal fighting; ₹750 fine for general cruelty",
+      "exceptions": [
+        "Slaughter of animals for bona fide religious purposes under regulated conditions is exempt from cruelty law"
+      ],
+      "source": "https://awbi.org/",
+      "sourceLabel": "Animal Welfare Board of India",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What must municipal corporations in Maharashtra operate to manage the stray dog population?",
+        "options": [
+          "Stray dog pounds",
+          "Dog sterilisation and vaccination programmes",
+          "Dog licensing offices",
+          "Breed restriction registries"
+        ],
+        "correct": 1,
+        "explanation": "Maharashtra municipal corporations must operate dog sterilisation and vaccination programmes under the Animal Birth Control Rules."
+      }
+    },
+    {
+      "id": 43053,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "🤰",
+      "title": "Maharashtra Maternity Benefit Act Implementation",
+      "subtitle": "Women employees entitled to 26 weeks paid maternity leave",
+      "fullDescription": "The Maternity Benefit (Amendment) Act 2017 entitles women employees in Maharashtra to 26 weeks of paid maternity leave (for first two children; 12 weeks for third child onwards). Establishments with 50 or more employees must provide crèche facilities. The employer may not dismiss a woman during maternity leave. Maharashtra Labour Department conducts inspections for compliance. Work from home may be offered after the maternity leave period.",
+      "penalty": "Fine up to ₹5,000 and/or 3 months imprisonment for employers who dismiss women during maternity leave",
+      "exceptions": [
+        "Contract and gig workers are covered by the central act if they worked for the employer for at least 80 days in preceding 12 months"
+      ],
+      "source": "https://labour.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Labour Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many weeks of paid maternity leave are women entitled to for their first child in Maharashtra?",
+        "options": [
+          "12 weeks",
+          "18 weeks",
+          "26 weeks",
+          "52 weeks"
+        ],
+        "correct": 2,
+        "explanation": "The Maternity Benefit Act 2017 provides 26 weeks of paid leave for the first two children; 12 weeks for the third."
+      }
+    },
+    {
+      "id": 43054,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🚨",
+      "title": "Maharashtra Anti-Terrorism Squad (ATS) Powers",
+      "subtitle": "ATS has enhanced investigative powers for terror and organised crime",
+      "fullDescription": "Maharashtra's Anti-Terrorism Squad (ATS), established after the 1993 Bombay bombings, investigates terror cases under the Unlawful Activities (Prevention) Act 1967 (UAPA) and the Maharashtra Control of Organised Crime Act (MCOCA). The ATS may detain suspects for up to 30 days without bail under UAPA. Surveillance, interception, and financial investigation powers are broader than normal police powers. The ATS foiled the 2007 Hyderabad-Mecca Masjid plotters and other attacks.",
+      "penalty": "Imprisonment from 5 years to life for terror offences under UAPA; death penalty possible for attacks causing death",
+      "exceptions": [
+        "Only the National Investigation Agency (NIA) or ATS with government sanction may invoke UAPA; it cannot be applied to ordinary criminal disputes"
+      ],
+      "source": "https://mahapolice.gov.in/",
+      "sourceLabel": "Maharashtra Police ATS",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which law may Maharashtra's ATS detain suspects for up to 30 days without bail?",
+        "options": [
+          "MCOCA",
+          "UAPA (Unlawful Activities Prevention Act)",
+          "NDPS Act",
+          "IPC Section 124A"
+        ],
+        "correct": 1,
+        "explanation": "The Unlawful Activities (Prevention) Act (UAPA) allows Maharashtra's ATS to detain terror suspects for up to 30 days without bail."
+      }
+    },
+    {
+      "id": 43055,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Mumbai Development Control and Promotion Regulations",
+      "subtitle": "FSI and building height controlled by Mumbai's master plan",
+      "fullDescription": "Mumbai's Development Control and Promotion Regulation (DCPR) 2034 governs Floor Space Index (FSI) — the ratio of total built-up area to plot area. FSI ranges from 1.0 in suburbs to 5.0+ for affordable housing projects. Builders must obtain Commencement Certificate, Occupation Certificate, and (in some areas) Coastal Regulation Zone clearance. Mumbai's limited land has driven some of the world's most complex FSI-linked development rules.",
+      "penalty": "Demolition orders for unauthorised construction; fines based on value of unauthorised FSI consumed",
+      "exceptions": [
+        "Dharavi redevelopment and slum rehabilitation projects operate under special FSI and incentive rules under SRA"
+      ],
+      "source": "https://mcgm.gov.in/",
+      "sourceLabel": "Brihanmumbai Municipal Corporation DCPR 2034",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does FSI (Floor Space Index) measure in Mumbai's building regulations?",
+        "options": [
+          "Building height in floors",
+          "Ratio of total built-up area to plot area",
+          "Percentage of plot that can be covered",
+          "Maximum number of units per hectare"
+        ],
+        "correct": 1,
+        "explanation": "FSI (Floor Space Index) measures the ratio of total built-up area to plot area, the core parameter in Mumbai's building regulations."
+      }
+    },
+    {
+      "id": 43056,
+      "category": "Traffic & Driving",
+      "severity": "medium",
+      "icon": "🚘",
+      "title": "Odd-Even Scheme Powers in Maharashtra Cities",
+      "subtitle": "Nagpur and Pune have authority to implement odd-even traffic restriction",
+      "fullDescription": "Under the Motor Vehicles Act and Maharashtra Motor Vehicles (Amendment) Rules, municipal commissioners of major Maharashtra cities have authority to implement traffic restriction schemes including odd-even number plate rules during high-pollution episodes, major events, or congestion. Pune has used traffic restriction during major festivals. Mumbai's High Court has endorsed city authority to impose temporary vehicle restrictions for pollution control.",
+      "penalty": "₹500–₹2,000 fine for driving on wrong parity day during declared odd-even periods",
+      "exceptions": [
+        "Emergency vehicles, women driving alone after 20:00, differently-abled persons, and CNG/electric vehicles are exempt"
+      ],
+      "source": "https://transport.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Transport Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which categories of vehicles are exempt from odd-even restrictions in Maharashtra?",
+        "options": [
+          "Only emergency vehicles",
+          "CNG/electric vehicles and women driving alone",
+          "Government cars and taxis",
+          "All registered vehicles over 10 years old"
+        ],
+        "correct": 1,
+        "explanation": "CNG/electric vehicles, women driving alone after 20:00, and differently-abled persons are typically exempt from Maharashtra's odd-even restrictions."
+      }
+    },
+    {
+      "id": 43057,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🦟",
+      "title": "Maharashtra Malaria and Dengue Control Ordinance",
+      "subtitle": "Property owners must eliminate mosquito breeding grounds or face fines",
+      "fullDescription": "Maharashtra's Municipal Corporation Acts and the National Vector Borne Disease Control Programme empower local authorities to fine property owners who allow mosquito breeding on their premises. Inspectors from Municipal Corporations check construction sites, terrace gardens, cooler trays, and stagnant water. Mumbai, Pune, and Nashik conduct intensive anti-larval operations during monsoon season (June–September).",
+      "penalty": "₹500–₹5,000 fine per violation; repeat offenders face escalating fines and possible sealing of premises",
+      "exceptions": [
+        "Natural water bodies like ponds and rivers managed by competent authorities are not the liability of adjacent property owners"
+      ],
+      "source": "https://mcgm.gov.in/",
+      "sourceLabel": "BMC Public Health Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When are intensive anti-larval operations conducted in Mumbai?",
+        "options": [
+          "January–March (winter)",
+          "April–May (summer)",
+          "June–September (monsoon)",
+          "October–December (post-monsoon)"
+        ],
+        "correct": 2,
+        "explanation": "Mumbai conducts intensive anti-larval operations during the monsoon season (June–September) when mosquito breeding peaks."
+      }
+    },
+    {
+      "id": 43058,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏛️",
+      "title": "Maharashtra Professional Tax",
+      "subtitle": "Employees and self-employed persons pay annual professional tax",
+      "fullDescription": "Maharashtra levies Professional Tax under the Maharashtra State Tax on Professions, Trades, Callings and Employments Act 1975. Employers must deduct and remit professional tax on behalf of employees based on salary slabs — the maximum is ₹2,500 per year. Self-employed professionals (lawyers, doctors, CAs) must register and pay directly. Professional tax is deductible from income for income tax purposes.",
+      "penalty": "Interest at 1.25% per month on late payment; up to ₹5,000 penalty for non-registration",
+      "exceptions": [
+        "Persons above 65 years of age are exempt; disabled persons and war widows are also exempt"
+      ],
+      "source": "https://ptax.mahakosh.gov.in/",
+      "sourceLabel": "Maharashtra Professional Tax Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum annual Professional Tax deducted from employees in Maharashtra?",
+        "options": [
+          "₹1,000",
+          "₹1,500",
+          "₹2,500",
+          "₹5,000"
+        ],
+        "correct": 2,
+        "explanation": "Maharashtra's Professional Tax is capped at ₹2,500 per year for the highest salary slab."
+      }
+    },
+    {
+      "id": 43059,
+      "category": "Agriculture",
+      "severity": "medium",
+      "icon": "🍇",
+      "title": "Maharashtra Grape and Wine Industry Regulation",
+      "subtitle": "Nashik Valley wineries operate under special excise and agriculture rules",
+      "fullDescription": "Maharashtra's Nashik district is India's wine capital, producing over 80% of India's wine. The Maharashtra Wine Policy under the Prohibition Act allows grape growers to obtain winery licences at concessional rates. Wine produced from locally grown grapes attracts lower excise duty than other alcohol. Wineries must follow FSSAI food safety standards and Maharashtra Excise Department regulations for labelling and sales.",
+      "penalty": "Licence revocation for adulteration; fines for wine labelling violations; excise penalties for unreported production",
+      "exceptions": [
+        "Wine produced for export is exempt from domestic retail excise duty"
+      ],
+      "source": "https://www.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Excise Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of India's wine does Maharashtra's Nashik Valley produce?",
+        "options": [
+          "40%",
+          "60%",
+          "Over 80%",
+          "95%"
+        ],
+        "correct": 2,
+        "explanation": "Maharashtra's Nashik Valley produces over 80% of India's wine, making it the undisputed centre of India's wine industry."
+      }
+    },
+    {
+      "id": 43060,
+      "category": "Civil Rights",
+      "severity": "high",
+      "icon": "👩‍🔧",
+      "title": "Maharashtra Women's Self-Help Group Empowerment Scheme",
+      "subtitle": "SHGs in Maharashtra receive preferential loans and market access",
+      "fullDescription": "Maharashtra's Mahila Arthik Vikas Mahamandal (MAVIM) implements women's empowerment through 3.5 lakh self-help groups across the state. Women in SHGs receive priority access to government contracts under Maharashtra's public procurement policy (20% reservation for SHGs and women-led enterprises). Banks must offer preferential lending rates to MAVIM-affiliated SHGs under Maharashtra's priority sector lending guidelines.",
+      "penalty": "Misrepresentation of SHG membership to obtain benefits carries penalties under Maharashtra fraud provisions",
+      "exceptions": [
+        "SHGs in tribal areas receive additional benefits under the Tribal Sub-Plan components"
+      ],
+      "source": "https://mavim.maharashtra.gov.in/",
+      "sourceLabel": "Mahila Arthik Vikas Mahamandal (MAVIM)",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of public procurement contracts does Maharashtra reserve for SHGs and women-led enterprises?",
+        "options": [
+          "5%",
+          "10%",
+          "15%",
+          "20%"
+        ],
+        "correct": 3,
+        "explanation": "Maharashtra reserves 20% of public procurement contracts for Self-Help Groups and women-led enterprises."
+      }
+    },
+    {
+      "id": 43061,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Western Ghats Eco-Sensitive Zone Regulations",
+      "subtitle": "Development highly restricted in Maharashtra's Western Ghats",
+      "fullDescription": "Parts of Maharashtra's Western Ghats — a UNESCO World Heritage biodiversity hotspot — are designated Eco-Sensitive Zones (ESZ) under the Environment Protection Act. In ESZs, mining, quarrying, and large-scale construction are prohibited. Red category industries are banned. The Maharashtra government has notified ESZ boundaries around 17 Wildlife Sanctuaries and 6 National Parks. Forest clearance from the Ministry of Environment is mandatory for any development.",
+      "penalty": "Up to 5 years imprisonment and ₹1 crore fine for illegal mining in eco-sensitive zones",
+      "exceptions": [
+        "Small-scale subsistence farming and traditional community uses are permitted in ESZs"
+      ],
+      "source": "https://environment.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Environment Department — Western Ghats ESZ",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What UNESCO status do parts of Maharashtra's Western Ghats hold?",
+        "options": [
+          "Cultural Heritage Site",
+          "Biosphere Reserve",
+          "World Heritage biodiversity hotspot",
+          "Ramsar Wetland Site"
+        ],
+        "correct": 2,
+        "explanation": "Parts of Maharashtra's Western Ghats are a UNESCO World Heritage biodiversity hotspot, subject to strict eco-sensitive zone regulations."
+      }
+    },
+    {
+      "id": 43062,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "🚌",
+      "title": "MSRTC Bus Passenger Rights",
+      "subtitle": "Maharashtra State Road Transport passengers have enforceable rights",
+      "fullDescription": "Maharashtra State Road Transport Corporation (MSRTC) operates over 16,000 buses serving 90,000+ routes. Under the Motor Vehicles Act and MSRTC Act 1950, passengers are entitled to a seat for the ticket purchased, refund of unused journey within 72 hours, and compensation for accidents under Motor Accident Claims Tribunal procedures. Conductors must issue proper tickets and may not demand informal charges.",
+      "penalty": "MSRTC employees face service action for overcharging; company liable for injury compensation under tort law",
+      "exceptions": [
+        "Seasonal special buses during festivals may operate with standing passengers up to a capped number for short distances"
+      ],
+      "source": "https://msrtc.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra State Road Transport Corporation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long does MSRTC allow for refund of an unused journey ticket?",
+        "options": [
+          "24 hours",
+          "48 hours",
+          "72 hours",
+          "1 week"
+        ],
+        "correct": 2,
+        "explanation": "MSRTC passengers may claim a refund for unused journey tickets within 72 hours of the scheduled journey time."
+      }
+    },
+    {
+      "id": 43063,
+      "category": "Criminal Law",
+      "severity": "medium",
+      "icon": "🔐",
+      "title": "Maharashtra Cyber Crime Reporting — Cyber Safe Maharashtra",
+      "subtitle": "State operates dedicated cybercrime reporting portals and cells",
+      "fullDescription": "Maharashtra Cyber, the state's dedicated cybercrime unit, operates under the IT Act 2000 and IPC provisions. The Cyber Safe Maharashtra initiative runs awareness campaigns and the online reporting portal 'cybercrime.gov.in'. Maharashtra has 36 district-level cybercrime cells. Investment fraud (cyber fraud posing as stock market schemes) is the fastest-growing cyber offence in Mumbai. Citizens can freeze accounts within 1 hour through the 1930 helpline.",
+      "penalty": "Up to 3 years imprisonment and ₹2 lakh fine for data theft; up to 7 years for hacking/unauthorized access",
+      "exceptions": [
+        "Bonafide cyber security research with prior written permission from system owners is not an offence"
+      ],
+      "source": "https://cybercrime.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Cyber — Cyber Safe Maharashtra",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What emergency helpline can citizens call to freeze accounts in cybercrime cases in Maharashtra?",
+        "options": [
+          "112",
+          "100",
+          "1930",
+          "1800-180-1235"
+        ],
+        "correct": 2,
+        "explanation": "Citizens in Maharashtra can call the 1930 National Cyber Crime Helpline to freeze bank accounts within 1 hour of reporting fraud."
+      }
+    },
+    {
+      "id": 43064,
+      "category": "Tourism & Recreation",
+      "severity": "medium",
+      "icon": "🏖️",
+      "title": "Goa-Adjacent Beaches — Maharashtra Coastal Tourism Rules",
+      "subtitle": "Konkan coast beaches have seasonal safety and commercial rules",
+      "fullDescription": "Maharashtra's Konkan coast beaches (Alibaug, Kashid, Harihareshwar, Tarkarli) are managed under the Maharashtra Coastal Zone Management Plan. Beach shack operators must hold MTDC-approved licences and may operate only October–May. Swimming is regulated at unmanned beaches with seasonal flags (green/yellow/red). Marine protected areas near Malvan (Sindhudurg) prohibit motorised vessels in designated snorkelling zones.",
+      "penalty": "₹5,000–₹25,000 fines for unlicensed beach commercial operations; civil liability for operators if swimmers drown at unwarned hazard beaches",
+      "exceptions": [
+        "Traditional fishing communities have permanent access rights to beaches even within tourist management zones"
+      ],
+      "source": "https://www.maharashtratourism.gov.in/",
+      "sourceLabel": "Maharashtra Tourism Development Corporation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "During which months may licensed beach shack operators operate on Maharashtra's Konkan coast?",
+        "options": [
+          "May–September",
+          "July–December",
+          "October–May",
+          "Year-round"
+        ],
+        "correct": 2,
+        "explanation": "Licensed beach shack operators on Maharashtra's Konkan coast may operate October–May, outside the monsoon season."
+      }
+    },
+    {
+      "id": 43065,
+      "category": "Education",
+      "severity": "low",
+      "icon": "🎓",
+      "title": "Maharashtra Scholarship Schemes for OBC and EWS Students",
+      "subtitle": "State scholarships cover tuition and maintenance for disadvantaged students",
+      "fullDescription": "Maharashtra provides scholarships under the Maharashtra State Scholarship Scheme for students from Other Backward Classes (OBC), Economically Weaker Sections (EWS), and Scheduled Tribes. The Post-Matric Scholarship covers college tuition and maintenance allowance. The Social Justice Department manages disbursement through Direct Benefit Transfer. Students must have at least 50% marks in previous examination. Scholarship amounts range from ₹500 to ₹6,000 per year depending on category and level.",
+      "penalty": "Recovery of scholarship amount if obtained by misrepresentation; debarment from future scholarships",
+      "exceptions": [
+        "Students who change courses mid-year must re-apply; merit scholarships have different income thresholds"
+      ],
+      "source": "https://scholarships.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Social Justice Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Through what system does Maharashtra disburse scholarships to OBC and EWS students?",
+        "options": [
+          "Cheque to college",
+          "Cash at district office",
+          "Direct Benefit Transfer (DBT)",
+          "Fee waiver at source"
+        ],
+        "correct": 2,
+        "explanation": "Maharashtra disburses student scholarships through Direct Benefit Transfer (DBT) directly to students' bank accounts."
+      }
+    },
+    {
+      "id": 43066,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🎉",
+      "title": "Maharashtra Noise Pollution Rules — Festival Firecrackers",
+      "subtitle": "Time and decibel limits for festivals like Diwali and Ganesh Chaturthi",
+      "fullDescription": "The Noise Pollution (Regulation and Control) Rules 2000 under the Environment Protection Act set noise limits of 55 dB(A) in residential areas and 65 dB(A) in commercial areas during the day. For festivals, the Supreme Court has ruled firecrackers may only be burst between 06:00–10:00 and 20:00–22:00. Maharashtra enforces these rules during Diwali and Ganesh Chaturthi through police and pollution control board teams.",
+      "penalty": "Seizure of loudspeakers and firecrackers; fines ₹1,000–₹5,000; MPCB may issue closure notices to persistent violators",
+      "exceptions": [
+        "Ganesh Chaturthi processions have special route permits for loudspeakers up to 10 decibels above limits during procession hours"
+      ],
+      "source": "https://mpcb.gov.in/",
+      "sourceLabel": "Maharashtra Pollution Control Board",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "During Diwali, during which hours are firecrackers permitted under Supreme Court rules in Maharashtra?",
+        "options": [
+          "All day",
+          "06:00–10:00 and 20:00–22:00",
+          "10:00–22:00",
+          "Only after sunset until midnight"
+        ],
+        "correct": 1,
+        "explanation": "The Supreme Court allows firecrackers only between 06:00–10:00 and 20:00–22:00 on Diwali, enforced by Maharashtra police."
+      }
+    },
+    {
+      "id": 43067,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏦",
+      "title": "Maharashtra Co-operative Banks Regulation",
+      "subtitle": "Urban co-operative banks in Mumbai face dual regulation by RBI and state",
+      "fullDescription": "Maharashtra has India's highest concentration of Urban Co-operative Banks (UCBs). After the PMC Bank crisis (2019), RBI took regulatory control of all UCBs under the Banking Regulation (Amendment) Act 2020. Maharashtra's Co-operation Department and RBI jointly regulate these banks. Depositors' funds up to ₹5 lakh are insured under DICGC. Maharashtra UCBs must maintain 9% Capital to Risk-Weighted Assets Ratio (CRAR).",
+      "penalty": "RBI may supersede board and appoint administrator for non-compliant co-operative banks; criminal prosecution for fraud",
+      "exceptions": [
+        "Primary Agricultural Credit Societies (PACS) are regulated solely by the state Co-operation Department, not RBI"
+      ],
+      "source": "https://cooperativesmaharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Co-operation Department / RBI",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Up to what amount are deposits in Maharashtra urban co-operative banks insured?",
+        "options": [
+          "₹1 lakh",
+          "₹2 lakh",
+          "₹5 lakh",
+          "₹10 lakh"
+        ],
+        "correct": 2,
+        "explanation": "Deposits in all Indian banks including Maharashtra's urban co-operative banks are insured up to ₹5 lakh under DICGC."
+      }
+    },
+    {
+      "id": 43068,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "📋",
+      "title": "Maharashtra RTI Act Implementation",
+      "subtitle": "Citizens have the right to obtain government information within 30 days",
+      "fullDescription": "The Right to Information Act 2005 (RTI Act) applies in Maharashtra through the Maharashtra State Information Commission. Citizens may file RTI applications to any public authority for ₹10 fee (₹2 per page for documents). The public authority must respond within 30 days (48 hours for life/liberty matters). The Maharashtra State Information Commission (MSIC) hears second appeals and may impose penalties on delinquent PIOs.",
+      "penalty": "PIOs fined ₹250 per day (max ₹25,000) for unreasonable delay; disciplinary action for systematic refusal",
+      "exceptions": [
+        "Cabinet secretariat, intelligence and security organisations, and information received in confidence from foreign governments are exempt"
+      ],
+      "source": "https://mahaic.gov.in/",
+      "sourceLabel": "Maharashtra State Information Commission",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum penalty that can be imposed on a PIO for unreasonable RTI delays in Maharashtra?",
+        "options": [
+          "₹5,000",
+          "₹10,000",
+          "₹25,000",
+          "₹1,00,000"
+        ],
+        "correct": 2,
+        "explanation": "Maharashtra PIOs can be fined ₹250 per day of delay with a maximum penalty of ₹25,000 under the RTI Act."
+      }
+    },
+    {
+      "id": 43069,
+      "category": "Employment & Labour",
+      "severity": "high",
+      "icon": "🏗️",
+      "title": "Maharashtra Building and Other Construction Workers Act",
+      "subtitle": "Construction workers entitled to welfare fund benefits",
+      "fullDescription": "Under the Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act 1996, all construction workers in Maharashtra must be registered with the Maharashtra Building and Other Construction Workers Welfare Board. Workers receive accidental death benefits (₹5 lakh), skill development training, and housing loan assistance. Construction establishments employing 10+ workers must register and contribute 1% of construction cost to the welfare fund.",
+      "penalty": "Fines ₹1,000–₹2,000 per day for unregistered establishments; prosecution for employers who fail to deduct and remit contributions",
+      "exceptions": [
+        "Homeowners undertaking personal residential construction without employing a contractor are exempt from employer obligations"
+      ],
+      "source": "https://bocw.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra BOCW Welfare Board",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What accidental death benefit do registered construction workers' families receive in Maharashtra?",
+        "options": [
+          "₹1 lakh",
+          "₹2 lakh",
+          "₹5 lakh",
+          "₹10 lakh"
+        ],
+        "correct": 2,
+        "explanation": "Families of registered construction workers in Maharashtra receive ₹5 lakh accidental death benefit from the BOCW Welfare Board."
+      }
+    },
+    {
+      "id": 43070,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🎭",
+      "title": "Ganesh Chaturthi Festival Regulation",
+      "subtitle": "Maharashtra's biggest festival has specific idol immersion and noise rules",
+      "fullDescription": "Ganesh Chaturthi, Maharashtra's most celebrated festival, is regulated by BMC guidelines and Supreme Court/NGT orders. Plaster of Paris (PoP) idols are banned from sea and river immersion due to pollution; only natural clay idols may be immersed in water bodies. Loud music must cease by 22:00 (midnight on the final day). Mandal organisers must obtain police permission for large pandals (tent structures).",
+      "penalty": "Seizure of PoP idols being taken for sea immersion; fines ₹5,000–₹50,000 for noise rule violations",
+      "exceptions": [
+        "Small home (gharguti) Ganesh idols of under 30cm may use silver/gold painted clay with supervised immersion"
+      ],
+      "source": "https://mcgm.gov.in/",
+      "sourceLabel": "BMC Ganesh Festival Circular",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why are Plaster of Paris (PoP) Ganesh idols banned from water immersion in Maharashtra?",
+        "options": [
+          "They dissolve too quickly",
+          "They cause water pollution and harm aquatic life",
+          "They are heavier and dangerous for immersion",
+          "They are considered disrespectful"
+        ],
+        "correct": 1,
+        "explanation": "PoP Ganesh idols are banned from water immersion because they cause serious pollution and harm aquatic life. Only natural clay idols are permitted."
+      }
+    },
+    {
+      "id": 43071,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🛒",
+      "title": "Maharashtra Weights and Measures Enforcement",
+      "subtitle": "Weighing machines and measuring devices must be certified",
+      "fullDescription": "The Legal Metrology Act 2009 and Maharashtra Legal Metrology (Enforcement) Rules require all commercial weighing scales, fuel pumps, and measuring devices to be certified and stamped by the Maharashtra Legal Metrology Department. Inspectors conduct raids on markets, petrol stations, and wholesale markets. Giving short measure, using uncertified scales, or adulterating packaged commodities are serious offences.",
+      "penalty": "Up to ₹25,000 fine and 1 year imprisonment for using uncertified weights; ₹10,000 for short measure",
+      "exceptions": [
+        "Personal home weighing machines not used for commercial purposes need not be certified"
+      ],
+      "source": "https://maharashtralegalmetrology.gov.in/",
+      "sourceLabel": "Maharashtra Legal Metrology Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who must certify commercial weighing scales and fuel pumps in Maharashtra?",
+        "options": [
+          "BMC inspectors",
+          "Maharashtra Legal Metrology Department",
+          "Bureau of Indian Standards",
+          "Police department"
+        ],
+        "correct": 1,
+        "explanation": "The Maharashtra Legal Metrology Department must certify and stamp all commercial weighing and measuring devices."
+      }
+    },
+    {
+      "id": 43072,
+      "category": "Public Health",
+      "severity": "high",
+      "icon": "🏥",
+      "title": "Maharashtra Clinical Establishments Act",
+      "subtitle": "All hospitals and clinics must be registered and meet minimum standards",
+      "fullDescription": "The Clinical Establishments (Registration and Regulation) Act 2010 is implemented in Maharashtra through the Maharashtra Clinical Establishments Rules. All private hospitals, nursing homes, clinics, and diagnostic centres must register with the district health authority. Minimum staffing, equipment, and hygiene standards are prescribed for each category. Hospitals must display registration certificates and patient rights charters prominently.",
+      "penalty": "Closure of unregistered establishments; fines up to ₹5 lakh; imprisonment up to 3 years for false information in registration",
+      "exceptions": [
+        "Government-owned hospitals are exempt from registration but must comply with standards; small individual physician practices under specified conditions have relaxed rules"
+      ],
+      "source": "https://arogya.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Health Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What must all registered hospitals in Maharashtra display prominently under the Clinical Establishments Act?",
+        "options": [
+          "Their annual profit report",
+          "Registration certificates and patient rights charters",
+          "List of staff qualifications",
+          "Emergency escape routes only"
+        ],
+        "correct": 1,
+        "explanation": "All registered Maharashtra hospitals must display their registration certificates and patient rights charters prominently."
+      }
+    },
+    {
+      "id": 43073,
+      "category": "Traffic & Driving",
+      "severity": "medium",
+      "icon": "🚕",
+      "title": "Mumbai Taxi and Auto-Rickshaw Meter Regulations",
+      "subtitle": "Fares strictly regulated; refusal to go is a punishable offence",
+      "fullDescription": "Mumbai's iconic black-and-yellow taxis and auto-rickshaws are regulated by the Maharashtra Motor Vehicles Department. Drivers may not refuse a passenger going to any destination within their permitted zone without reason. Meters must be calibrated and tariff cards displayed. Uberisation (app taxis) is regulated under aggregator licence rules. Night charges (25% surcharge after midnight) must be clearly displayed.",
+      "penalty": "₹2,000–₹5,000 fine and licence suspension for refusing passengers or running on tampered meters",
+      "exceptions": [
+        "Taxis and autos may refuse journeys if the driver has already accepted a prior booking or is completing a shift return"
+      ],
+      "source": "https://transport.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Regional Transport Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the night surcharge on Mumbai taxi fares after midnight?",
+        "options": [
+          "10%",
+          "15%",
+          "25%",
+          "50%"
+        ],
+        "correct": 2,
+        "explanation": "Mumbai taxis charge a 25% night surcharge after midnight, which must be clearly displayed in the vehicle."
+      }
+    },
+    {
+      "id": 43074,
+      "category": "Agriculture",
+      "severity": "medium",
+      "icon": "🌻",
+      "title": "Maharashtra Cotton Procurement — MSP Enforcement",
+      "subtitle": "CCI procures cotton at Minimum Support Price directly from Vidarbha farmers",
+      "fullDescription": "Maharashtra's Vidarbha region is India's cotton-growing heartland and has experienced a severe agrarian crisis. The Cotton Corporation of India (CCI) procures Vidarbha cotton at the government's Minimum Support Price (MSP) when market prices fall below MSP. Maharashtra has supplementary state procurement through the Maharashtra State Co-operative Cotton Growers' Marketing Federation. Middlemen bypassing MSP regulations may be prosecuted under the Essential Commodities Act.",
+      "penalty": "Prosecution under Essential Commodities Act for manipulating cotton prices below MSP; fines up to ₹1 lakh",
+      "exceptions": [
+        "Organic certified cotton sold directly to export buyers may be priced above or below MSP at market rates"
+      ],
+      "source": "https://cotcorp.gov.in/",
+      "sourceLabel": "Cotton Corporation of India — Maharashtra",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which Maharashtra region is India's most important cotton-growing heartland?",
+        "options": [
+          "Konkan",
+          "Western Maharashtra",
+          "Marathwada",
+          "Vidarbha"
+        ],
+        "correct": 3,
+        "explanation": "Vidarbha in eastern Maharashtra is India's cotton-growing heartland, where the government enforces MSP procurement through the CCI."
+      }
+    },
+    {
+      "id": 43075,
+      "category": "Disaster Preparedness",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Maharashtra Earthquake Resilience — BIS Standards for Construction",
+      "subtitle": "Buildings in Seismic Zone III must meet mandatory IS code requirements",
+      "fullDescription": "Large parts of Maharashtra including Marathwada, Nashik, and parts of Pune fall in Seismic Zone III (moderate seismic risk). The 1993 Latur earthquake killed nearly 10,000 people and devastated the region due to non-engineered construction. All new construction in Zone III must comply with IS 1893 earthquake design code. Municipal corporations must not issue building permits for non-compliant designs. Maharashtra has a Structural Assessment programme for old buildings in seismically active zones.",
+      "penalty": "Building permit refusal for non-IS code compliant designs; demolition orders for occupied unsafe structures",
+      "exceptions": [
+        "Traditional single-storey rural stone constructions in low-risk sub-zones may use simplified seismic bracing guidelines"
+      ],
+      "source": "https://www.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Housing and Area Development Authority",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which 1993 disaster in Maharashtra led to strict seismic building codes?",
+        "options": [
+          "Bhuj earthquake",
+          "Latur earthquake",
+          "Koyna earthquake",
+          "Osmanabad earthquake"
+        ],
+        "correct": 1,
+        "explanation": "The 1993 Latur earthquake killed nearly 10,000 people in Maharashtra, driving strict adoption of IS code seismic requirements for all new construction."
+      }
+    },
+    {
+      "id": 43076,
+      "category": "Public Order",
+      "severity": "high",
+      "icon": "🔫",
+      "title": "Maharashtra Arms Act Enforcement",
+      "subtitle": "Strict licensing for firearms; unlicensed possession is a serious crime",
+      "fullDescription": "The Arms Act 1959 governs firearm licensing in Maharashtra. The District Collector issues arms licences after police verification. Mumbai and major cities are designated restricted areas where civilian firearms licences are exceptionally difficult to obtain. Arms dealers must maintain purchase and sale registers. The Arms (Amendment) Act 2019 enhanced penalties for unlicensed possession.",
+      "penalty": "Up to 7 years imprisonment (minimum 1 year) for unlicensed possession; up to 10 years for use in crime",
+      "exceptions": [
+        "Farmers in certain rural districts may obtain agricultural licences for pest control with wildlife officer approval"
+      ],
+      "source": "https://mahapolice.gov.in/",
+      "sourceLabel": "Maharashtra Police",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who issues arms licences in Maharashtra?",
+        "options": [
+          "State Home Minister",
+          "District Collector after police verification",
+          "Maharashtra Police Commissioner",
+          "High Court"
+        ],
+        "correct": 1,
+        "explanation": "The District Collector issues arms licences in Maharashtra following police verification of the applicant's background."
+      }
+    },
+    {
+      "id": 43077,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "💧",
+      "title": "Maharashtra Water (Prevention and Control of Pollution) Act",
+      "subtitle": "Factories must obtain no-objection certificates before discharging effluents",
+      "fullDescription": "The Water (Prevention and Control of Pollution) Act 1974, enforced by MPCB, requires all industries discharging trade effluents into rivers, lakes, or land to obtain consent and comply with effluent discharge standards. The Ulhas River, Mithi River, and Mula-Mutha River in Maharashtra have been severely polluted by industrial discharge. MPCB issues show-cause notices and can seal factories for non-compliance.",
+      "penalty": "Imprisonment 1.5–6 years and fines ₹10,000–₹1,00,000 per day for illegal effluent discharge",
+      "exceptions": [
+        "Domestic sewage from residential areas is managed by municipal corporations under separate rules"
+      ],
+      "source": "https://mpcb.gov.in/",
+      "sourceLabel": "Maharashtra Pollution Control Board",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which Mumbai river has been most severely affected by industrial effluent discharge?",
+        "options": [
+          "Ulhas River",
+          "Mithi River",
+          "Mula-Mutha River",
+          "All of the above"
+        ],
+        "correct": 3,
+        "explanation": "The Mithi, Ulhas, and Mula-Mutha rivers in Maharashtra have all been severely affected by industrial effluent discharge."
+      }
+    },
+    {
+      "id": 43078,
+      "category": "Immigration & Identity",
+      "severity": "low",
+      "icon": "🪪",
+      "title": "Maharashtra Domicile Certificate Rules",
+      "subtitle": "15 years' residence required for state domicile certificate",
+      "fullDescription": "A Maharashtra domicile certificate (कायमस्वरूपी रहिवासी दाखला) is required for admission to certain state professional colleges and government job eligibility. Applicants must prove 15 years of continuous residence in Maharashtra through school leaving certificates, ration cards, or property records. Applications are filed at the Tehsildar's office. Children of government employees posted in Maharashtra may claim domicile without the 15-year requirement.",
+      "penalty": "Cancellation of admission or employment; prosecution for submitting false domicile certificates",
+      "exceptions": [
+        "Children born in Maharashtra to resident parents get domicile from birth; military personnel's children have special provisions"
+      ],
+      "source": "https://aaplesarkar.mahaonline.gov.in/",
+      "sourceLabel": "Maharashtra Aaple Sarkar Portal",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many years of continuous residence are required for a Maharashtra domicile certificate?",
+        "options": [
+          "5 years",
+          "10 years",
+          "15 years",
+          "20 years"
+        ],
+        "correct": 2,
+        "explanation": "A Maharashtra domicile certificate requires proof of 15 years of continuous residence in the state."
+      }
+    },
+    {
+      "id": 43079,
+      "category": "Heritage & Culture",
+      "severity": "low",
+      "icon": "🎶",
+      "title": "Lavani and Tamasha Cultural Performance Licensing",
+      "subtitle": "Maharashtra's folk performance arts require cultural permits for public shows",
+      "fullDescription": "Lavani (लावणी) — Maharashtra's sensual folk dance-theatre form — and Tamasha (तमाशा) performances require entertainment licences under the Maharashtra Entertainment Duty Act 1923 and local police permissions for public shows. The Maharashtra government has designated Lavani as a State Heritage Art Form, entitling registered troupes to performance grants and subsidised training under the Directorate of Cultural Affairs.",
+      "penalty": "Fines for unlicensed public performances; entertainment duty evasion penalties",
+      "exceptions": [
+        "Private family functions with Lavani performances do not require entertainment licences under informal interpretation"
+      ],
+      "source": "https://culture.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Directorate of Cultural Affairs",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What status has Maharashtra granted to Lavani (लावणी)?",
+        "options": [
+          "UNESCO Intangible Heritage",
+          "Central Government Protected Art",
+          "State Heritage Art Form",
+          "Restricted Performing Art"
+        ],
+        "correct": 2,
+        "explanation": "Maharashtra has designated Lavani as a State Heritage Art Form, entitling troupes to government grants and training support."
+      }
+    },
+    {
+      "id": 43080,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏗️",
+      "title": "Mumbai Infrastructure Investment Zones",
+      "subtitle": "MMRDA-designated zones attract infrastructure investment with special rules",
+      "fullDescription": "The Mumbai Metropolitan Region Development Authority (MMRDA) designates Infrastructure Investment Zones (IIZ) for large transport, housing, and commercial projects. Projects in MMRDA areas receive faster environmental clearances and infrastructure grant support from the state. The Bandra-Kurla Complex (BKC), developed by MMRDA, is Mumbai's premier business district and demonstrates the zone development model.",
+      "penalty": "Loss of zone status and grant eligibility for projects that deviate from approved master plans without MMRDA approval",
+      "exceptions": [
+        "Small modifications under 10% of approved floor area may be adjusted without full plan revision"
+      ],
+      "source": "https://mmrda.maharashtra.gov.in/",
+      "sourceLabel": "Mumbai Metropolitan Region Development Authority",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which of Mumbai's business districts was developed entirely by MMRDA as a planned zone?",
+        "options": [
+          "Nariman Point",
+          "Lower Parel",
+          "Bandra-Kurla Complex (BKC)",
+          "Andheri MIDC"
+        ],
+        "correct": 2,
+        "explanation": "Bandra-Kurla Complex (BKC) was developed by MMRDA as a planned Infrastructure Investment Zone and is now Mumbai's premier business district."
+      }
+    },
+    {
+      "id": 43081,
+      "category": "Civil Rights",
+      "severity": "high",
+      "icon": "👩‍🏫",
+      "title": "Maharashtra Protection of Women from Domestic Violence Act",
+      "subtitle": "Protection orders available within 3 days of application",
+      "fullDescription": "The Protection of Women from Domestic Violence Act 2005 (PWDVA) is implemented in Maharashtra through Protection Officers appointed in each district. Women facing domestic violence may obtain Protection Orders, Residence Orders, and Monetary Relief Orders from a Magistrate. The Magistrate must dispose of applications within 60 days. Maharashtra's State Women's Commission provides emergency helpline and shelter services.",
+      "penalty": "Violation of Protection Order: imprisonment up to 1 year and/or ₹20,000 fine; can be arrested without warrant",
+      "exceptions": [
+        "The Act covers all women in domestic relationships — not just married women; live-in partners are also protected"
+      ],
+      "source": "https://wcd.nic.in/",
+      "sourceLabel": "Maharashtra Women and Child Development Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Within how many days must a Magistrate in Maharashtra dispose of domestic violence applications?",
+        "options": [
+          "30 days",
+          "45 days",
+          "60 days",
+          "90 days"
+        ],
+        "correct": 2,
+        "explanation": "Under the Domestic Violence Act in Maharashtra, Magistrates must dispose of applications within 60 days."
+      }
+    },
+    {
+      "id": 43082,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "🚢",
+      "title": "Mumbai Ferry and Water Transport Rules",
+      "subtitle": "Water taxis and ferries across Mumbai harbour are regulated by Port Trust",
+      "fullDescription": "Mumbai Port Trust and Maharashtra Maritime Board regulate water transport across Mumbai Harbour, including the Mandwa, Alibaug, and Elephanta ferry services. Vessels must have valid safety certificates under the Inland Vessels Act 2021. Passenger capacity must not be exceeded. Life jackets must be available for all passengers. The Maharashtra Maritime Board issues licences for water taxis and promotes water transport as an alternative to road congestion.",
+      "penalty": "Suspension of vessel licence for overloading; fines ₹10,000–₹50,000 for safety certificate violations",
+      "exceptions": [
+        "Traditional fishing boats (nauka) used for non-commercial transport in coastal villages have relaxed certification requirements"
+      ],
+      "source": "https://mmb.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Maritime Board",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which authority regulates ferry and water taxi services in Mumbai Harbour?",
+        "options": [
+          "BMC",
+          "Mumbai Traffic Police",
+          "Maharashtra Maritime Board and Mumbai Port Trust",
+          "MMRDA"
+        ],
+        "correct": 2,
+        "explanation": "The Maharashtra Maritime Board and Mumbai Port Trust jointly regulate ferry and water taxi services in Mumbai Harbour."
+      }
+    },
+    {
+      "id": 43083,
+      "category": "Agriculture",
+      "severity": "low",
+      "icon": "🧅",
+      "title": "Maharashtra Onion Export and Price Stabilisation",
+      "subtitle": "Government may ban onion exports to control domestic prices",
+      "fullDescription": "Maharashtra produces over 40% of India's onions, primarily from Nashik district. The central government, in consultation with Maharashtra, periodically bans or restricts onion exports through the DGFT (Directorate General of Foreign Trade) when domestic prices spike. Maharashtra's Agricultural Produce Market Committee (APMC) regulates onion auction processes at the Lasalgaon (world's largest onion market) and other mandis.",
+      "penalty": "Seizure and penalty under the Foreign Trade (Development and Regulation) Act for exporting banned commodities",
+      "exceptions": [
+        "Small-quantity exports under ₹5,000 per consignment may be permissible under specific exceptions during ban periods"
+      ],
+      "source": "https://mahaaapmc.org/",
+      "sourceLabel": "Maharashtra APMC",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of India's onions does Maharashtra produce?",
+        "options": [
+          "20%",
+          "30%",
+          "Over 40%",
+          "60%"
+        ],
+        "correct": 2,
+        "explanation": "Maharashtra produces over 40% of India's onions, primarily from Nashik district, making it India's most important onion-producing state."
+      }
+    },
+    {
+      "id": 43084,
+      "category": "Education",
+      "severity": "medium",
+      "icon": "🎓",
+      "title": "Maharashtra Entrance Exams — MHT-CET Rules",
+      "subtitle": "State Common Entrance Test governs engineering and pharmacy admissions",
+      "fullDescription": "The Maharashtra Health and Technical Common Entrance Test (MHT-CET) is conducted by the State CET Cell under the Maharashtra Unaided Private Professional Educational Institutions (Regulation of Admissions and Fees) Act 2015. All candidates must have Maharashtra domicile for 85% of state quota seats. Impersonation in exams is a criminal offence. Results and answer keys must be published within 30 days of the exam.",
+      "penalty": "3 years ban from state exams for malpractice; criminal prosecution for impersonation in examinations",
+      "exceptions": [
+        "Children of defence personnel may claim domicile benefits without the 15-year residency requirement"
+      ],
+      "source": "https://cetcell.mahacet.org/",
+      "sourceLabel": "Maharashtra State CET Cell",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Maharashtra engineering college seats are reserved for Maharashtra domicile holders?",
+        "options": [
+          "50%",
+          "70%",
+          "85%",
+          "100%"
+        ],
+        "correct": 2,
+        "explanation": "85% of Maharashtra engineering college seats are reserved for students with Maharashtra domicile under the state quota."
+      }
+    },
+    {
+      "id": 43085,
+      "category": "Criminal Law",
+      "severity": "medium",
+      "icon": "🏘️",
+      "title": "Maharashtra Slum Act — Slum Rehabilitation Authority",
+      "subtitle": "Slum demolition without SRA process is prohibited; residents have rights",
+      "fullDescription": "The Maharashtra Slum Areas (Improvement, Clearance and Redevelopment) Act 1971 and the Slum Rehabilitation Authority (SRA) regulate Mumbai's extensive slum areas (home to ~40% of city population). Slum dwellers with proof of residence before January 1, 1995 are eligible for free 300 sqft flats under SRA redevelopment schemes. Unauthorized demolition of notified slums without SRA process is prohibited, even by property owners.",
+      "penalty": "Criminal trespass and destruction of property charges for unauthorized slum demolition; SRA schemes can be cancelled for developer non-compliance",
+      "exceptions": [
+        "Slums on forest land, railway land, and mangroves are not eligible for SRA rehabilitation and may face eviction"
+      ],
+      "source": "https://sra.gov.in/",
+      "sourceLabel": "Slum Rehabilitation Authority Maharashtra",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What cut-off date must slum dwellers prove residence before to be eligible for SRA rehabilitation in Mumbai?",
+        "options": [
+          "January 1, 1990",
+          "January 1, 1995",
+          "January 1, 2000",
+          "January 1, 2005"
+        ],
+        "correct": 1,
+        "explanation": "Slum dwellers must prove residence in Mumbai before January 1, 1995 to be eligible for free SRA rehabilitation flats."
+      }
+    },
+    {
+      "id": 43086,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🧪",
+      "title": "Maharashtra Drug and Food Adulteration Control",
+      "subtitle": "FDA Maharashtra conducts raids against food and drug adulteration",
+      "fullDescription": "The Food Safety and Standards Act 2006 (FSSAI) and Drugs and Cosmetics Act 1940 are enforced by Maharashtra's Food and Drug Administration (FDA). The FDA conducts regular raids on food manufacturers, restaurants, and pharmacies. Milk adulteration, use of banned food colours, and spurious drugs are priority enforcement targets. Maharashtra was among the first states to adopt mobile food testing labs (Food Safety on Wheels) for field testing.",
+      "penalty": "Life imprisonment for adulteration causing death; 7 years for grievous injury; up to ₹10 lakh fines for food safety violations",
+      "exceptions": [
+        "Home-prepared food sold at local charity events is not covered by FSSAI commercial licence requirements"
+      ],
+      "source": "https://www.mfdaindia.com/",
+      "sourceLabel": "Maharashtra Food and Drug Administration",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What mobile initiative did Maharashtra introduce for field-testing food safety?",
+        "options": [
+          "Food Safety Drones",
+          "Food Safety on Wheels (mobile labs)",
+          "FSSAI Express Vans",
+          "FDA Rapid Response Team"
+        ],
+        "correct": 1,
+        "explanation": "Maharashtra pioneered 'Food Safety on Wheels' — mobile food testing labs that conduct on-site testing at markets and events."
+      }
+    },
+    {
+      "id": 43087,
+      "category": "Tourism & Recreation",
+      "severity": "medium",
+      "icon": "🐅",
+      "title": "Maharashtra Tiger Reserve Rules — Tadoba and Melghat",
+      "subtitle": "Strict tourist entry quotas and zone rules in Maharashtra's tiger reserves",
+      "fullDescription": "Maharashtra's Tadoba-Andhari Tiger Reserve (Chandrapur) and Melghat Tiger Reserve (Amravati) are managed under Project Tiger guidelines and the Wildlife Protection Act 1972. Tourist zones have daily vehicle entry quotas managed by the Maharashtra Forest Department. Vehicles must be accompanied by forest guides. Tourists must maintain silence, not feed animals, and stay in vehicles. Night safaris require special permits. Core zones are closed for six months during monsoon.",
+      "penalty": "Up to 7 years imprisonment and ₹25,000 fine for disturbing tigers; vehicle ban for repeated violations of safari rules",
+      "exceptions": [
+        "Forest staff, scientific researchers with Chief Wildlife Warden's permit, and local tribal community members have different access rights"
+      ],
+      "source": "https://mahaforest.gov.in/",
+      "sourceLabel": "Maharashtra Forest Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which two tiger reserves are Maharashtra's most famous?",
+        "options": [
+          "Pench and Sahyadri",
+          "Tadoba-Andhari and Melghat",
+          "Bor and Navegaon-Nagzira",
+          "Tipeshwar and Umred-Karhandla"
+        ],
+        "correct": 1,
+        "explanation": "Tadoba-Andhari (Chandrapur) and Melghat (Amravati) are Maharashtra's most famous tiger reserves with the highest tiger densities."
+      }
+    },
+    {
+      "id": 43088,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏢",
+      "title": "SEBI-Regulated Brokerages in Mumbai's Financial District",
+      "subtitle": "India's financial capital has the highest density of SEBI-regulated entities",
+      "fullDescription": "Mumbai hosts the Bombay Stock Exchange (BSE, est. 1875 — Asia's oldest), National Stock Exchange (NSE), and most of India's SEBI-regulated brokerages and fund houses. Under the Securities and Exchange Board of India Act 1992, all market intermediaries must be SEBI-registered. Maharashtra's companies register through MCA and file annual returns. KYC (Know Your Customer) documentation is mandatory for all securities accounts.",
+      "penalty": "SEBI may impose fines up to ₹25 crore, bar market access, and refer criminal cases for securities fraud",
+      "exceptions": [
+        "Proprietary trading desks of banks regulated by RBI have modified SEBI registration requirements"
+      ],
+      "source": "https://www.sebi.gov.in/",
+      "sourceLabel": "Securities and Exchange Board of India",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which Mumbai-based stock exchange, established in 1875, is Asia's oldest?",
+        "options": [
+          "National Stock Exchange (NSE)",
+          "Bombay Stock Exchange (BSE)",
+          "MCX (Multi Commodity Exchange)",
+          "NCDEX"
+        ],
+        "correct": 1,
+        "explanation": "The Bombay Stock Exchange (BSE), established in 1875, is Asia's oldest stock exchange, headquartered in Mumbai."
+      }
+    },
+    {
+      "id": 43089,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "🤝",
+      "title": "Maharashtra Industrial Disputes Act — Strike Rules",
+      "subtitle": "Public utility workers must give 14 days' notice before striking",
+      "fullDescription": "Under the Industrial Disputes Act 1947 as applied in Maharashtra, workers in public utility services (power, water, transport) must give 14 days written notice before striking. Maharashtra has designated additional industries as essential services under the Essential Services Maintenance Act during emergencies. Wildcat strikes in Maharashtra's manufacturing sector face conciliation and compulsory arbitration procedures.",
+      "penalty": "Up to ₹1,000 fine per day for illegal strike in public utility; criminal prosecution for violence during strikes",
+      "exceptions": [
+        "Go-slow tactics (working to rule) are not legally classified as a 'strike' and cannot be prohibited under the Act"
+      ],
+      "source": "https://labour.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Labour Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many days' notice must public utility workers give before striking in Maharashtra?",
+        "options": [
+          "7 days",
+          "10 days",
+          "14 days",
+          "21 days"
+        ],
+        "correct": 2,
+        "explanation": "Public utility workers in Maharashtra must give 14 days' written notice before going on strike under the Industrial Disputes Act."
+      }
+    },
+    {
+      "id": 43090,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "📷",
+      "title": "Maharashtra CCTV Surveillance — Mumbai City",
+      "subtitle": "Mumbai operates one of Asia's largest urban CCTV networks",
+      "fullDescription": "Mumbai Police operates the Intelligent Traffic Management System (ITMS) and a city-wide CCTV network of over 7,000 cameras under the Maharashtra Police Act. Footage is retained for 30 days. Private establishments are required to install and maintain CCTV systems in certain commercial zones under BMC regulations and post-26/11 terror attack security directives. The Police Commissioner can requisition private CCTV footage for investigation.",
+      "penalty": "Hotels and malls that fail to maintain required CCTV systems may lose trade licences; non-cooperation with police requisition: prosecution",
+      "exceptions": [
+        "Residential areas and private dwellings are not required to install CCTV under public security directives"
+      ],
+      "source": "https://mumbaipolice.gov.in/",
+      "sourceLabel": "Mumbai Police",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many days is CCTV footage retained in Mumbai's police surveillance system?",
+        "options": [
+          "7 days",
+          "14 days",
+          "30 days",
+          "90 days"
+        ],
+        "correct": 2,
+        "explanation": "Mumbai Police retains CCTV surveillance footage for 30 days before overwriting."
+      }
+    },
+    {
+      "id": 43091,
+      "category": "Environmental",
+      "severity": "high",
+      "icon": "🌳",
+      "title": "Maharashtra Tree Authority — Permission to Fell Trees",
+      "subtitle": "Cutting trees in Mumbai and urban Maharashtra requires Tree Authority permit",
+      "fullDescription": "The Maharashtra (Urban Areas) Protection and Preservation of Trees Act 1975 establishes Tree Authorities in every municipal corporation. Residents must apply for permission to fell, transplant, or prune trees above defined trunk circumferences. Tree Authorities may approve, reject, or require compensatory plantation. After 26 illegal tree-felling incidents in Mumbai's Aarey Forest (2019) drew national protests, enforcement has intensified.",
+      "penalty": "Fines ₹1,000–₹5,000 per tree felled without permission; transplantation at owner's cost as restoration order",
+      "exceptions": [
+        "Dangerous trees posing immediate safety risk may be felled with post-hoc intimation to the Tree Authority within 24 hours"
+      ],
+      "source": "https://mcgm.gov.in/",
+      "sourceLabel": "BMC Tree Authority Mumbai",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which 2019 Mumbai controversy brought the Maharashtra Tree Authority rules to national attention?",
+        "options": [
+          "Powai Lake deforestation",
+          "Aarey Forest tree felling for Metro car shed",
+          "Sanjay Gandhi National Park encroachment",
+          "Mangrove clearing in Thane Creek"
+        ],
+        "correct": 1,
+        "explanation": "The felling of trees in Mumbai's Aarey Forest for a Metro car shed in 2019 sparked national protests and heightened enforcement of Maharashtra's Tree Authority rules."
+      }
+    },
+    {
+      "id": 43092,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Maharashtra Lokayukta — Anti-Corruption Oversight",
+      "subtitle": "Lokayukta investigates corruption complaints against state officials",
+      "fullDescription": "The Maharashtra Lokayukta, constituted under the Maharashtra Lokayukta and Upa-Lokayukta Act 1971, is an independent ombudsman investigating corruption and maladministration complaints against state government officials and ministers. Complaints may be filed by any citizen. The Lokayukta has powers of civil court for evidence gathering. Maharashtra also has the Anti-Corruption Bureau (ACB) conducting trap cases against bribe-taking officials.",
+      "penalty": "Lokayukta findings result in suspension, prosecution, or disciplinary action; ACB trap cases lead to criminal prosecution",
+      "exceptions": [
+        "The Chief Minister's conduct can only be investigated with Governor's prior sanction"
+      ],
+      "source": "https://lokayukta.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Lokayukta",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which 1971 Act is the Maharashtra Lokayukta constituted?",
+        "options": [
+          "Maharashtra Public Services Act",
+          "Maharashtra Lokayukta and Upa-Lokayukta Act 1971",
+          "Prevention of Corruption Act",
+          "Maharashtra Administrative Tribunals Act"
+        ],
+        "correct": 1,
+        "explanation": "The Maharashtra Lokayukta is constituted under the Maharashtra Lokayukta and Upa-Lokayukta Act 1971 as an independent anti-corruption ombudsman."
+      }
+    },
+    {
+      "id": 43093,
+      "category": "Consumer Protection",
+      "severity": "low",
+      "icon": "💊",
+      "title": "Maharashtra Pharmacy Act Enforcement",
+      "subtitle": "All pharmacies must be registered and supervised by qualified pharmacists",
+      "fullDescription": "The Pharmacy Act 1948 and Maharashtra Pharmacy Rules require all pharmacy establishments to be registered with the Maharashtra Pharmacy Council. A qualified pharmacist (B.Pharm or D.Pharm degree holder, registered with MPC) must be on duty during dispensing hours. Schedule H and H1 drugs (antibiotics, psychotropics) may only be dispensed against a valid registered medical practitioner's prescription. Selling expired drugs is a serious offence.",
+      "penalty": "Up to ₹1,00,000 fine and 3 years imprisonment for dispensing Schedule H drugs without prescription; pharmacy licence cancellation",
+      "exceptions": [
+        "Homeopathic and Ayurvedic pharmacies operate under separate licensing frameworks and have different prescription requirements"
+      ],
+      "source": "https://www.mpcb.gov.in/",
+      "sourceLabel": "Maharashtra Pharmacy Council",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What category of drugs may only be dispensed against a prescription in Maharashtra pharmacies?",
+        "options": [
+          "Schedule A drugs",
+          "Schedule H and H1 drugs",
+          "All OTC medications",
+          "Schedule E drugs"
+        ],
+        "correct": 1,
+        "explanation": "Schedule H and H1 drugs (including antibiotics and psychotropics) may only be dispensed with a valid doctor's prescription in Maharashtra."
+      }
+    },
+    {
+      "id": 43094,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🧠",
+      "title": "Maharashtra Mental Healthcare Act Implementation",
+      "subtitle": "Mental Health Review Boards oversee treatment and patient rights",
+      "fullDescription": "The Mental Healthcare Act 2017 is implemented in Maharashtra through the Maharashtra Mental Health Authority and district-level Mental Health Review Boards. Voluntary admission is always available. Involuntary hospitalisation (for persons posing danger to self or others) requires two medical opinions and Mental Health Review Board review within 5 days. Patients retain legal capacity and may appoint advance directives. Maharashtra operates 4 government psychiatric hospitals.",
+      "penalty": "Prosecution for healthcare providers who violate patient rights under the Mental Healthcare Act",
+      "exceptions": [
+        "Emergency treatment to prevent imminent danger may be initiated before Review Board approval, subject to immediate notification"
+      ],
+      "source": "https://arogya.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Health Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Within how many days must the Mental Health Review Board review an involuntary hospitalisation in Maharashtra?",
+        "options": [
+          "24 hours",
+          "3 days",
+          "5 days",
+          "14 days"
+        ],
+        "correct": 2,
+        "explanation": "Involuntary hospitalisations in Maharashtra must be reviewed by the Mental Health Review Board within 5 days."
+      }
+    },
+    {
+      "id": 43095,
+      "category": "Disaster Preparedness",
+      "severity": "medium",
+      "icon": "🔥",
+      "title": "Maharashtra Fire Prevention and Life Safety Act",
+      "subtitle": "High-rise buildings must have fire NOC before occupation",
+      "fullDescription": "Maharashtra's Fire Prevention and Life Safety Measures Act 2006 requires all buildings above 15 metres (or over 500 sqm) to obtain a Fire No-Objection Certificate (Fire NOC) from the fire brigade before occupation. Annual renewals are required. Fire drills must be conducted twice yearly. Mumbai Fire Brigade conducted mass audits post-2019 Kamala Mills fire which killed 14 people. Buildings with blocked fire exits are sealed.",
+      "penalty": "Closure of buildings without valid Fire NOC; ₹5,000–₹50,000 fines for fire safety violations; criminal negligence prosecution for fire deaths",
+      "exceptions": [
+        "Single-storey residential homes under 200 sqm are exempt from Fire NOC requirements"
+      ],
+      "source": "https://mcgm.gov.in/",
+      "sourceLabel": "Mumbai Fire Brigade",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which 2019 fire tragedy in Mumbai led to mass fire safety audits of commercial buildings?",
+        "options": [
+          "Mantralaya fire",
+          "Kamala Mills fire (2017)",
+          "Esplanade Mansion fire",
+          "CST building fire"
+        ],
+        "correct": 1,
+        "explanation": "The Kamala Mills fire in 2017 (reported as 2019 audit trigger) killed 14 people and led Maharashtra to conduct mass fire safety audits of commercial buildings."
+      }
+    },
+    {
+      "id": 43096,
+      "category": "Employment & Labour",
+      "severity": "low",
+      "icon": "🧶",
+      "title": "Maharashtra Handloom and Cottage Industries Support",
+      "subtitle": "Handloom weavers receive special subsidies and market protection",
+      "fullDescription": "Maharashtra's handloom industry — particularly Paithani silk saris from Yeola (Nashik) and Kolhapuri chappals — receives protection under the Handlooms (Reservation of Articles for Production) Act 1985. Certain items are reserved for production only by handloom weavers. Maharashtra Rajya Haatmag Mahamandal provides subsidised raw materials and market access. Paithani saris have GI protection under the GI Act.",
+      "penalty": "Fines under the Handlooms Reservation Act for power-loom production of reserved articles",
+      "exceptions": [
+        "Export production and items for institutional bulk orders may use power looms with certification"
+      ],
+      "source": "https://textiles.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Textiles Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "From which town in Maharashtra do the famous Paithani silk saris originate?",
+        "options": [
+          "Nagpur",
+          "Kolhapur",
+          "Yeola (Nashik district)",
+          "Aurangabad"
+        ],
+        "correct": 2,
+        "explanation": "Paithani silk saris originate from Yeola in Nashik district, Maharashtra, and carry GI protection."
+      }
+    },
+    {
+      "id": 43097,
+      "category": "Tourism & Recreation",
+      "severity": "low",
+      "icon": "🏔️",
+      "title": "Maharashtra Adventure Sports Regulation",
+      "subtitle": "Trekking and adventure activities in Sahyadri forts require registration",
+      "fullDescription": "Maharashtra's Sahyadri range hosts over 350 historical forts (including Raigad, Rajgad, Torna) and is a popular trekking destination. The Maharashtra Tourism Department and Forest Department require commercial trekking operators to register under the Maharashtra Adventure Sports (Regulation) Rules. Night treks in protected forest areas require Forest Department permission. Operators are liable for hiker safety and must carry first-aid equipment and emergency communication devices.",
+      "penalty": "Fines ₹5,000–₹25,000 for unregistered commercial trekking operators; civil liability for injuries due to operator negligence",
+      "exceptions": [
+        "Individual non-commercial trekkers do not require registration; they must inform local authorities before trekking in restricted zones"
+      ],
+      "source": "https://mahaforest.gov.in/",
+      "sourceLabel": "Maharashtra Forest Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many historical forts does Maharashtra's Sahyadri range contain?",
+        "options": [
+          "Over 100",
+          "Over 200",
+          "Over 350",
+          "Over 500"
+        ],
+        "correct": 2,
+        "explanation": "Maharashtra's Sahyadri range contains over 350 historical forts, making it one of the world's highest concentrations of hill fortifications."
+      }
+    },
+    {
+      "id": 43098,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🚨",
+      "title": "Maharashtra Police Act — Preventive Detention Powers",
+      "subtitle": "Police may detain known offenders for up to 3 months under MPDA",
+      "fullDescription": "The Maharashtra Prevention of Dangerous Activities (MPDA) Act 1981 allows the state government to detain habitual offenders, bootleggers, drug traffickers, and dangerous persons for up to 3 months without trial. The detainee must be informed of grounds and can challenge detention before an Advisory Board. The MPDA is frequently used against gang members in Mumbai who repeatedly evade conviction due to witness intimidation.",
+      "penalty": "Detention up to 3 months (extendable) without trial; detainee retains right to legal representation and Advisory Board review",
+      "exceptions": [
+        "MPDA cannot be applied to political activists for lawful protest activities; courts have overturned misuse repeatedly"
+      ],
+      "source": "https://mahapolice.gov.in/",
+      "sourceLabel": "Maharashtra Police",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "For how long may Maharashtra detain dangerous persons under the MPDA without trial?",
+        "options": [
+          "1 month",
+          "3 months",
+          "6 months",
+          "1 year"
+        ],
+        "correct": 1,
+        "explanation": "Maharashtra's Prevention of Dangerous Activities Act allows detention of up to 3 months without trial, subject to Advisory Board review."
+      }
+    },
+    {
+      "id": 43099,
+      "category": "Agriculture",
+      "severity": "medium",
+      "icon": "🥜",
+      "title": "Maharashtra Farmer Loan Waiver Scheme Rules",
+      "subtitle": "State periodically waives agricultural loans under specific conditions",
+      "fullDescription": "Maharashtra has implemented multiple farm loan waiver schemes, most recently the Mahatma Jyotirao Phule Shetkari Karjmukti Yojana (2019) providing relief up to ₹2 lakh per farmer. Eligibility requires valid Kisan Credit Card (KCC) loan with the nationalised bank and proof of land ownership. Loans above the cap must be paid by the farmer. Fake beneficiary claims are treated as fraud under the Maharashtra government circular.",
+      "penalty": "Recovery of waiver amount plus 24% interest penalty for fraudulent claims; FIR under IPC fraud provisions",
+      "exceptions": [
+        "Large-scale commercial farmers with land exceeding the ceiling limit are not eligible for loan waivers"
+      ],
+      "source": "https://karjmukti.maharashtra.gov.in/",
+      "sourceLabel": "Maharashtra Agriculture Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum loan relief provided per farmer under Maharashtra's most recent loan waiver scheme?",
+        "options": [
+          "₹50,000",
+          "₹1 lakh",
+          "₹2 lakh",
+          "₹5 lakh"
+        ],
+        "correct": 2,
+        "explanation": "Maharashtra's Mahatma Jyotirao Phule Shetkari Karjmukti Yojana provided loan relief up to ₹2 lakh per eligible farmer."
+      }
+    },
+    {
+      "id": 43100,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🎪",
+      "title": "Maharashtra Circus and Performing Animals Regulation",
+      "subtitle": "Use of wild animals in circuses and performances is banned",
+      "fullDescription": "Following the Wildlife Protection Act 1972 and Supreme Court directions, Maharashtra has banned the use of elephants, bears, monkeys, tigers, and panthers in circuses and performances. The Maharashtra government enforces this through the State Wildlife Crime Control Bureau. Performing Animals Registration Rules require registration for use of any trained animal in entertainment. Violations are prosecuted by the Wildlife Crime Control Bureau.",
+      "penalty": "Up to 7 years imprisonment and ₹25,000 fine for using protected animals in performances; circus licence cancellation",
+      "exceptions": [
+        "Domesticated animals (horses in polo, dogs in shows) with Animal Welfare Board registration are not covered by the ban"
+      ],
+      "source": "https://mahaforest.gov.in/",
+      "sourceLabel": "Maharashtra Forest and Wildlife Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which animals are specifically banned from circus performances in Maharashtra under Supreme Court directives?",
+        "options": [
+          "Dogs and horses",
+          "Elephants, bears, monkeys, tigers, and panthers",
+          "All domesticated animals",
+          "Only endangered species"
+        ],
+        "correct": 1,
+        "explanation": "Maharashtra has banned elephants, bears, monkeys, tigers, and panthers from circus and entertainment performances under Supreme Court directives."
+      }
+    }
+  ]
+}

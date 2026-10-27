@@ -1,0 +1,2689 @@
+<!--
+  =============================================================================
+  BACKUP COPY — DO NOT MODIFY WITHOUT EXPLICIT OWNER PERMISSION
+  =============================================================================
+  This file is a frozen snapshot for recovery only.
+
+  Never overwrite, auto-merge, truncate, "restore minimal runtime" into, or
+  otherwise change this backup unless the project owner has clearly approved
+  that specific change.
+
+  Working copy for day-to-day edits: law-bunny.html (same folder).
+  Snapshot date: 2026-05-15
+  =============================================================================
+-->
+
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Global law & etiquette guide for travelers. Local laws, cultural norms, and AI-verified updates from Claude.">
+<meta name="color-scheme" content="light dark">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<!-- Defense-in-depth: block <object>/<embed>, lock base/form/frame targets.
+     Script/style remain permissive because the app ships inline handlers. -->
+<meta http-equiv="Content-Security-Policy" content="object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none';">
+<title>Law Bunny 🐰 — Global Law & Etiquette Guide</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=DM+Sans:wght@300;400;500&family=Fredoka:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+/* ═══════════════════════════════════
+   THEME VARIABLES — LIGHT & DARK
+═══════════════════════════════════ */
+:root {
+  --green: #2ECC71;
+  --green-dark: #27AE60;
+  --green-light: #EAFAF1;
+  --green-mid: #A9DFBF;
+  --amber: #F39C12;
+  --amber-light: #FEF9E7;
+  --red: #E74C3C;
+  --red-light: #FDEDEC;
+  --blue: #3498DB;
+  --blue-light: #EBF5FB;
+  --teal: #1ABC9C;
+  --teal-light: #E8F8F5;
+  --purple: #9B59B6;
+  --radius: 16px;
+  --radius-sm: 10px;
+  --shadow: 0 4px 20px rgba(0,0,0,0.08);
+  --shadow-hover: 0 8px 32px rgba(0,0,0,0.14);
+}
+
+[data-theme="light"] {
+  --bg-page: #F0FDF4;
+  --bg-card: #FFFFFF;
+  --bg-header: #FFFFFF;
+  --bg-input: #F8F9FA;
+  --bg-sidebar: #FFFFFF;
+  --bg-hover: #F8F9FA;
+  --border: #ECF0F1;
+  --border-green: #A9DFBF;
+  --text: #34495E;
+  --text-light: #7F8C8D;
+  --text-dark: #2C3E50;
+  --header-shadow: rgba(46,204,113,0.1);
+  --card-shadow: rgba(0,0,0,0.08);
+  --overlay: rgba(0,0,0,0.5);
+  --toggle-bg: #ECF0F1;
+  --toggle-icon: "🌙";
+}
+
+[data-theme="dark"] {
+  --bg-page: #0F1923;
+  --bg-card: #1A2535;
+  --bg-header: #151F2E;
+  --bg-input: #1E2D40;
+  --bg-sidebar: #1A2535;
+  --bg-hover: #1E2D40;
+  --border: #2A3F57;
+  --border-green: #1E5C3A;
+  --text: #C8D6E5;
+  --text-light: #7F8C8D;
+  --text-dark: #ECF0F1;
+  --header-shadow: rgba(46,204,113,0.08);
+  --card-shadow: rgba(0,0,0,0.3);
+  --overlay: rgba(0,0,0,0.7);
+  --toggle-bg: #2A3F57;
+  --toggle-icon: "☀️";
+  --green-light: #0D2B1F;
+  --green-mid: #1A4A2E;
+  --amber-light: #2B1F05;
+  --red-light: #2B0D0D;
+  --blue-light: #0D1E2D;
+  --teal-light: #0D2B25;
+  --green-dark: #2ECC71;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: var(--bg-page);
+  color: var(--text);
+  min-height: 100vh;
+  transition: background 0.3s, color 0.3s;
+}
+
+/* ═══ HEADER ═══ */
+header {
+  background: var(--bg-header);
+  border-bottom: 2px solid var(--border-green);
+  padding: 0 24px;
+  position: sticky; top: 0; z-index: 100;
+  box-shadow: 0 2px 12px var(--header-shadow);
+  transition: background 0.3s, border-color 0.3s;
+}
+.header-inner {
+  max-width: 1100px; margin: 0 auto;
+  display: flex; align-items: center; gap: 12px; height: 68px;
+}
+.logo { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+.bunny-icon {
+  width: 44px; height: 44px; flex-shrink: 0;
+  border-radius: 50%; overflow: hidden;
+  box-shadow: 0 2px 12px rgba(44, 62, 80, 0.12);
+  border: 1.5px solid rgba(44, 62, 80, 0.12);
+  background: linear-gradient(145deg, #faf8f5 0%, #f0ebe3 100%);
+}
+.bunny-icon svg { width: 100%; height: 100%; display: block; }
+.logo-text { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 26px; font-weight: 700; color: var(--text-dark); line-height: 1; white-space: nowrap; letter-spacing: -0.02em; }
+.logo-text span { color: var(--green-dark); }
+
+.search-bar { flex: 1; max-width: 420px; margin-left: auto; position: relative; }
+.search-bar input {
+  width: 100%; padding: 9px 40px 9px 14px;
+  border: 2px solid var(--border); border-radius: 50px;
+  font-size: 14px; font-family: 'DM Sans', sans-serif;
+  background: var(--bg-input); color: var(--text);
+  outline: none; transition: all 0.2s;
+}
+.search-bar input:focus { border-color: var(--green); background: var(--bg-card); }
+.search-icon { position: absolute; right: 13px; top: 50%; transform: translateY(-50%); color: var(--text-light); font-size: 15px; pointer-events: none; }
+
+.location-pill {
+  display: flex; align-items: center; gap: 5px;
+  background: var(--green-light); border: 1.5px solid var(--border-green);
+  border-radius: 50px; padding: 6px 12px; font-size: 13px;
+  font-weight: 500; color: var(--green-dark); cursor: pointer;
+  white-space: nowrap; transition: all 0.2s; font-family: 'DM Sans', sans-serif;
+}
+.location-pill:hover { background: var(--green-mid); }
+
+/* Theme toggle button */
+.theme-toggle {
+  width: 38px; height: 38px; border-radius: 50%;
+  border: 2px solid var(--border); background: var(--toggle-bg);
+  cursor: pointer; display: flex; align-items: center; justify-content: center;
+  font-size: 17px; flex-shrink: 0; transition: all 0.2s;
+}
+.theme-toggle:hover { border-color: var(--green); }
+
+/* Settings button */
+.settings-btn {
+  width: 38px; height: 38px; border-radius: 50%;
+  border: 2px solid var(--border); background: var(--toggle-bg);
+  cursor: pointer; display: flex; align-items: center; justify-content: center;
+  font-size: 17px; flex-shrink: 0; transition: all 0.2s;
+}
+.settings-btn:hover { border-color: var(--green); }
+
+/* ═══ LAYOUT ═══ */
+.app-layout {
+  max-width: 1100px; margin: 0 auto; padding: 24px 20px;
+  display: grid; grid-template-columns: 250px 1fr; gap: 20px; align-items: start;
+}
+
+/* ═══ SIDEBAR ═══ */
+.sidebar { position: sticky; top: 88px; }
+
+.bunny-card {
+  background: var(--bg-card); border-radius: var(--radius);
+  padding: 18px; border: 2px solid var(--green-light);
+  box-shadow: var(--shadow); margin-bottom: 14px;
+  text-align: center; transition: background 0.3s, border-color 0.3s;
+}
+.bunny-svg {
+  width: 96px; height: 96px; margin: 0 auto 10px;
+  filter: drop-shadow(0 2px 6px rgba(44, 62, 80, 0.08));
+}
+.bunny-name { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 20px; font-weight: 700; color: var(--text-dark); }
+.bunny-speech {
+  font-size: 12px; color: var(--text-light); line-height: 1.5;
+  background: var(--green-light); border-radius: 8px; padding: 9px 11px;
+  margin-top: 9px; border-left: 3px solid var(--green); transition: background 0.3s, border-color 0.3s;
+}
+.bunny-speech.speaking {
+  border-left-color: var(--amber);
+  background: var(--amber-light);
+  animation: bunny-pulse 0.9s ease-in-out infinite;
+}
+@keyframes bunny-pulse {
+  0%,100% { opacity: 1; }
+  50% { opacity: 0.75; }
+}
+.bunny-svg.speaking {
+  animation: bunny-bounce 0.55s ease-in-out infinite alternate;
+}
+@keyframes bunny-bounce {
+  from { transform: translateY(0px); }
+  to   { transform: translateY(-5px); }
+}
+.speak-btn {
+  display: inline-flex; align-items: center; gap: 5px;
+  padding: 5px 11px; border-radius: 20px; border: 1.5px solid var(--border);
+  background: var(--bg-card); color: var(--text-light);
+  font-size: 12px; font-family: 'DM Sans', sans-serif; font-weight: 500;
+  cursor: pointer; transition: all 0.2s;
+}
+.speak-btn:hover { border-color: var(--amber); color: var(--amber); background: var(--amber-light); }
+.speak-btn.active { border-color: var(--amber); color: var(--amber); background: var(--amber-light); }
+.speak-btn:disabled { opacity: 0.4; cursor: default; }
+.profile-chip {
+  margin-top: 12px; font-size: 11px; color: var(--text-light);
+  background: var(--bg-hover); border-radius: 8px; padding: 8px 10px;
+  line-height: 1.45; text-align: left;
+}
+.profile-chip strong { color: var(--text-dark); font-weight: 600; display: block; margin-bottom: 2px; font-size: 12px; }
+
+.categories-card {
+  background: var(--bg-card); border-radius: var(--radius);
+  padding: 16px; border: 2px solid var(--green-light);
+  box-shadow: var(--shadow); margin-bottom: 14px; transition: background 0.3s;
+}
+.card-title { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 18px; font-weight: 700; color: var(--text-dark); margin-bottom: 10px; }
+.category-list { display: flex; flex-direction: column; gap: 3px; }
+.cat-btn {
+  display: flex; align-items: center; gap: 8px; padding: 8px 10px;
+  border-radius: 8px; border: none; background: transparent; cursor: pointer;
+  font-size: 12px; font-family: 'DM Sans', sans-serif; color: var(--text);
+  text-align: left; transition: all 0.15s; width: 100%;
+}
+.cat-btn:hover { background: var(--bg-hover); }
+.cat-btn.active { background: var(--green-light); color: var(--green-dark); font-weight: 500; }
+.cat-icon { font-size: 14px; width: 20px; text-align: center; }
+.cat-count { margin-left: auto; background: var(--border); border-radius: 50px; padding: 1px 7px; font-size: 10px; font-weight: 500; color: var(--text-light); }
+.cat-btn.active .cat-count { background: var(--green-mid); color: var(--green-dark); }
+
+.tip-card {
+  background: var(--bg-card); border-radius: var(--radius); padding: 14px;
+  border: 1.5px solid var(--border); box-shadow: var(--shadow);
+  font-size: 12px; color: var(--text-light); line-height: 1.55;
+}
+.tip-card strong { color: var(--text-dark); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; display: block; margin-bottom: 6px; }
+
+/* ═══ MAIN CONTENT ═══ */
+.hero-banner {
+  background: var(--bg-card); border-radius: var(--radius); padding: 20px 24px;
+  border: 2px solid var(--green-light); box-shadow: var(--shadow);
+  margin-bottom: 16px; transition: background 0.3s, border-color 0.3s;
+}
+.hero-banner h2 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 22px; font-weight: 700; color: var(--text-dark); margin-bottom: 5px; }
+.hero-banner p { font-size: 13px; color: var(--text-light); line-height: 1.5; }
+.hero-jurisdiction-note { font-size: 11px; color: var(--amber); margin-top: 8px; line-height: 1.45; display: none; }
+.hero-jurisdiction-note.visible { display: block; }
+.hero-badges { display: flex; gap: 7px; margin-top: 10px; flex-wrap: wrap; }
+
+.badge { display: inline-flex; align-items: center; gap: 4px; padding: 3px 9px; border-radius: 50px; font-size: 11px; font-weight: 500; }
+.badge-green { background: var(--green-light); color: var(--green-dark); }
+.badge-blue { background: var(--blue-light); color: #1A6BAA; }
+.badge-amber { background: var(--amber-light); color: #B7770D; }
+.badge-purple { background: #F5EEF8; color: #7D3C98; }
+.badge-teal { background: var(--teal-light); color: #1A7A6B; }
+
+/* AI section */
+.ai-section {
+  background: var(--bg-card); border-radius: var(--radius); padding: 16px;
+  border: 2px solid var(--green-light); box-shadow: var(--shadow);
+  margin-bottom: 14px; transition: background 0.3s;
+}
+.ai-messages { max-height: 180px; overflow-y: auto; display: flex; flex-direction: column; gap: 7px; margin-top: 9px; }
+.ai-msg { padding: 7px 11px; border-radius: 8px; font-size: 13px; line-height: 1.5; }
+.ai-msg.user { background: var(--green-light); color: var(--green-dark); align-self: flex-end; max-width: 80%; }
+.ai-msg.bunny { background: var(--bg-hover); color: var(--text); align-self: flex-start; max-width: 90%; border-left: 3px solid var(--green); }
+.ai-input-row { display: flex; gap: 7px; margin-top: 9px; }
+.ai-input {
+  flex: 1; padding: 9px 13px; border: 2px solid var(--border);
+  border-radius: 8px; font-size: 13px; font-family: 'DM Sans', sans-serif;
+  outline: none; background: var(--bg-input); color: var(--text); transition: border-color 0.2s;
+}
+.ai-input:focus { border-color: var(--green); }
+.ai-send-btn { padding: 9px 14px; background: var(--green); color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 15px; transition: background 0.15s; }
+.ai-send-btn:hover { background: var(--green-dark); }
+.ai-send-btn:disabled { background: var(--border); cursor: not-allowed; }
+
+/* Tabs */
+.tabs { display: flex; gap: 3px; margin-bottom: 14px; background: var(--bg-card); border-radius: 10px; padding: 3px; border: 2px solid var(--border); width: fit-content; transition: background 0.3s; }
+.tab-btn { padding: 7px 16px; border: none; background: transparent; border-radius: 7px; font-size: 13px; font-weight: 500; font-family: 'DM Sans', sans-serif; cursor: pointer; color: var(--text-light); transition: all 0.15s; }
+.tab-btn.active { background: var(--green); color: white; box-shadow: 0 2px 8px rgba(46,204,113,0.3); }
+
+/* ═══ LAW CARDS ═══ */
+.law-grid { display: flex; flex-direction: column; gap: 10px; }
+.law-card {
+  background: var(--bg-card); border-radius: var(--radius);
+  padding: 16px; border: 2px solid var(--border); cursor: pointer;
+  transition: all 0.2s; position: relative; overflow: hidden;
+}
+.law-card::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; border-radius: 4px 0 0 4px; }
+.law-card.severity-high::before { background: var(--red); }
+.law-card.severity-medium::before { background: var(--amber); }
+.law-card.severity-low::before { background: var(--green); }
+.law-card.severity-info::before { background: var(--blue); }
+.law-card.severity-etiquette::before { background: var(--teal); }
+.law-card:hover { border-color: var(--border-green); box-shadow: var(--shadow-hover); transform: translateY(-1px); }
+.law-card.expanded { border-color: var(--green); }
+
+.law-header { display: flex; align-items: flex-start; gap: 10px; }
+.law-icon { width: 38px; height: 38px; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 18px; flex-shrink: 0; background: var(--bg-hover); }
+.law-meta { flex: 1; }
+.law-title { font-weight: 500; font-size: 14px; color: var(--text-dark); margin-bottom: 3px; line-height: 1.3; }
+.law-subtitle { font-size: 12px; color: var(--text-light); line-height: 1.4; }
+.law-badges { display: flex; gap: 5px; flex-wrap: wrap; align-items: center; }
+
+.severity-tag { padding: 2px 7px; border-radius: 50px; font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.4px; }
+.sev-high { background: var(--red-light); color: var(--red); }
+.sev-medium { background: var(--amber-light); color: var(--amber); }
+.sev-low { background: var(--green-light); color: var(--green-dark); }
+.sev-info { background: var(--blue-light); color: var(--blue); }
+.sev-etiquette { background: var(--teal-light); color: var(--teal); }
+
+/* Law detail */
+.law-detail { display: none; margin-top: 14px; padding-top: 14px; border-top: 1.5px solid var(--border); }
+.law-card.expanded .law-detail { display: block; animation: slideDown 0.2s ease; }
+@keyframes slideDown { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: translateY(0); } }
+
+.detail-section { margin-bottom: 12px; }
+.detail-label { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.8px; color: var(--text-light); margin-bottom: 5px; }
+.detail-text { font-size: 13px; color: var(--text); line-height: 1.6; }
+.penalty-box { background: var(--red-light); border: 1.5px solid #F5B7B1; border-radius: 8px; padding: 9px 12px; font-size: 12px; color: var(--red); display: flex; align-items: flex-start; gap: 7px; }
+.etiquette-box { background: var(--teal-light); border: 1.5px solid #A2D9CE; border-radius: 8px; padding: 9px 12px; font-size: 12px; color: var(--teal); }
+.source-link { display: inline-flex; align-items: center; gap: 5px; color: var(--blue); font-size: 12px; text-decoration: none; font-weight: 500; padding: 5px 10px; background: var(--blue-light); border-radius: 7px; transition: all 0.15s; }
+.source-link:hover { opacity: 0.8; }
+.exception-list { list-style: none; display: flex; flex-direction: column; gap: 5px; }
+.exception-list li { display: flex; align-items: flex-start; gap: 7px; font-size: 12px; color: var(--text); line-height: 1.5; }
+.exception-list li::before { content: '✓'; color: var(--green-dark); font-weight: 600; flex-shrink: 0; }
+.quiz-prompt { display: inline-flex; align-items: center; gap: 5px; margin-top: 10px; padding: 7px 12px; background: var(--green-light); border: 1.5px solid var(--green-mid); border-radius: 50px; font-size: 12px; font-weight: 500; color: var(--green-dark); cursor: pointer; transition: all 0.15s; }
+.quiz-prompt:hover { background: var(--green-mid); }
+.fav-btn { background: none; border: none; cursor: pointer; font-size: 18px; padding: 2px 4px; border-radius: 6px; transition: transform 0.15s; line-height: 1; }
+.fav-btn:hover { transform: scale(1.3); }
+.share-btn { display: inline-flex; align-items: center; gap: 5px; margin-top: 10px; padding: 7px 12px; background: var(--bg-hover); border: 1.5px solid var(--border); border-radius: 50px; font-size: 12px; font-weight: 500; color: var(--text); cursor: pointer; transition: all 0.15s; }
+.share-btn:hover { background: var(--border); }
+
+/* Empty state */
+.empty-state { text-align: center; padding: 40px 20px; color: var(--text-light); }
+.empty-state .empty-icon { font-size: 44px; margin-bottom: 10px; }
+.empty-state p { font-size: 13px; line-height: 1.6; }
+
+/* ═══ TYPING INDICATOR ═══ */
+.typing-dots { display: inline-flex; gap: 3px; align-items: center; }
+.typing-dots span { width: 5px; height: 5px; background: var(--green); border-radius: 50%; animation: bounce 1.2s infinite; }
+.typing-dots span:nth-child(2) { animation-delay: 0.2s; }
+.typing-dots span:nth-child(3) { animation-delay: 0.4s; }
+@keyframes bounce { 0%,80%,100%{ transform:translateY(0)} 40%{transform:translateY(-5px)} }
+
+/* ═══ MODALS ═══ */
+.modal-overlay {
+  display: none; position: fixed; inset: 0; background: var(--overlay);
+  z-index: 200; align-items: center; justify-content: center; padding: 20px;
+}
+.modal-overlay.open { display: flex; }
+.modal {
+  background: var(--bg-card); border-radius: 20px; padding: 24px;
+  max-width: 460px; width: 100%; box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+  animation: popIn 0.25s cubic-bezier(0.34,1.56,0.64,1); max-height: 90vh; overflow-y: auto;
+}
+@keyframes popIn { from { transform: scale(0.85); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+.modal-header { display: flex; align-items: center; gap: 10px; margin-bottom: 16px; }
+.modal-bunny { font-size: 32px; }
+.modal-title { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 22px; font-weight: 700; color: var(--text-dark); }
+.modal-close-btn {
+  width: 100%; padding: 11px; background: var(--green); color: white;
+  border: none; border-radius: 8px; font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 17px; font-weight: 600; cursor: pointer; transition: background 0.15s; margin-top: 12px;
+}
+.modal-close-btn:hover { background: var(--green-dark); }
+
+/* Quiz modal */
+.quiz-question { font-size: 15px; font-weight: 500; color: var(--text-dark); line-height: 1.5; margin-bottom: 16px; }
+.quiz-options { display: flex; flex-direction: column; gap: 7px; margin-bottom: 12px; }
+.quiz-option { padding: 11px 14px; border-radius: 8px; border: 2px solid var(--border); cursor: pointer; font-size: 13px; background: var(--bg-input); transition: all 0.15s; text-align: left; font-family: 'DM Sans', sans-serif; color: var(--text); }
+.quiz-option:hover { border-color: var(--green); background: var(--green-light); }
+.quiz-option.correct { border-color: var(--green); background: var(--green-light); color: var(--green-dark); }
+.quiz-option.wrong { border-color: var(--red); background: var(--red-light); color: var(--red); }
+.quiz-feedback { display: none; padding: 11px 14px; border-radius: 8px; font-size: 13px; font-weight: 500; margin-bottom: 10px; }
+.quiz-feedback.correct { display: block; background: var(--green-light); color: var(--green-dark); border: 1.5px solid var(--green-mid); }
+.quiz-feedback.wrong { display: block; background: var(--red-light); color: var(--red); border: 1.5px solid #F5B7B1; }
+
+/* Location modal */
+.loc-modal { max-width: 440px; }
+.loc-btn {
+  padding: 11px 14px; border: 1.5px solid var(--border); border-radius: 8px;
+  background: var(--bg-input); cursor: pointer; font-size: 13px;
+  font-family: 'DM Sans', sans-serif; transition: all 0.15s; text-align: left;
+  width: 100%; color: var(--text);
+}
+.loc-btn:hover { border-color: var(--green); background: var(--green-light); color: var(--green-dark); }
+.loc-btn.selected { border-color: var(--green); background: var(--green-light); color: var(--green-dark); font-weight: 500; }
+
+/* Settings modal */
+.settings-section { margin-bottom: 20px; }
+.settings-section-title { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.8px; color: var(--text-light); margin-bottom: 10px; }
+.setting-row { display: flex; align-items: center; justify-content: space-between; padding: 12px 0; border-bottom: 1px solid var(--border); }
+.setting-row:last-child { border-bottom: none; }
+.setting-label { font-size: 14px; color: var(--text); font-weight: 500; }
+.setting-desc { font-size: 11px; color: var(--text-light); margin-top: 2px; }
+.toggle-switch { position: relative; width: 44px; height: 24px; }
+.toggle-switch input { opacity: 0; width: 0; height: 0; }
+.slider {
+  position: absolute; cursor: pointer; inset: 0;
+  background: var(--border); border-radius: 24px; transition: 0.3s;
+}
+.slider:before {
+  position: absolute; content: ""; height: 18px; width: 18px;
+  left: 3px; bottom: 3px; background: white; border-radius: 50%; transition: 0.3s;
+}
+input:checked + .slider { background: var(--green); }
+input:checked + .slider:before { transform: translateX(20px); }
+.theme-btn {
+  display: flex; align-items: center; gap: 10px; padding: 10px 14px;
+  border: 2px solid var(--border); border-radius: 10px; cursor: pointer;
+  font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 500;
+  color: var(--text); background: var(--bg-input); transition: all 0.2s; width: 100%;
+  margin-bottom: 8px;
+}
+.theme-btn:hover { border-color: var(--green); }
+.theme-btn.active { border-color: var(--green); background: var(--green-light); color: var(--green-dark); }
+.theme-btn .theme-icon { font-size: 20px; }
+
+/* ═══ BUNNY CUSTOMIZATION ═══ */
+.custom-color-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:8px; margin-bottom:14px; }
+.color-swatch { width:100%; aspect-ratio:1; border-radius:50%; cursor:pointer; border:3px solid transparent; transition:all 0.15s; }
+.color-swatch.selected { border-color:#111; transform:scale(1.1); }
+.hat-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin-bottom:14px; }
+.hat-btn { padding:10px 6px; border:2px solid var(--border); border-radius:10px; background:var(--bg-input); cursor:pointer; font-size:20px; text-align:center; transition:all 0.15s; }
+.hat-btn:hover { border-color:var(--green); }
+.hat-btn.selected { border-color:var(--green); background:var(--green-light); }
+.hat-btn span { display:block; font-size:10px; color:var(--text-light); margin-top:3px; }
+
+/* ═══ ACCESSIBILITY ═══ */
+/* Skip-to-content link for keyboard/screen-reader users. Visually hidden
+   until focused, then anchors at the top-left. */
+.skip-link {
+  position: absolute; top: -40px; left: 8px;
+  background: var(--green-dark); color: #fff; padding: 8px 14px;
+  border-radius: 8px; font-weight: 600; font-size: 13px;
+  text-decoration: none; z-index: 10000;
+  transition: top 0.15s ease;
+}
+.skip-link:focus { top: 8px; outline: 3px solid #fff; outline-offset: 2px; }
+/* Consistent focus-visible outline for every interactive control. */
+:focus-visible {
+  outline: 2px solid var(--green-dark);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+/* Respect the OS-level 'reduce motion' setting. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+/* Screen-reader-only utility for labels that sighted users don't need to see. */
+.sr-only {
+  position: absolute !important;
+  width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+}
+
+/* ═══ RESPONSIVE ═══ */
+@media (max-width: 768px) {
+  .app-layout { grid-template-columns: 1fr; gap: 12px; }
+  .sidebar { position: static; }
+  .logo-text { font-size: 20px; }
+  /* Make search usable on mobile: full-width row below the logo instead of hidden */
+  header .header-inner { flex-wrap: wrap; gap: 8px; padding: 10px 12px; }
+  .search-bar { display: flex; order: 3; flex: 1 1 100%; max-width: 100%; margin: 4px 0 0; }
+  .search-bar input { width: 100%; font-size: 14px; }
+  /* Tap targets: WCAG 2.5.5 minimum 44x44 */
+  .fav-btn { font-size: 22px; padding: 8px 10px; min-width: 44px; min-height: 44px; }
+  .share-btn, .quiz-prompt, .source-link { padding: 10px 14px; min-height: 44px; }
+  .hat-btn { min-height: 44px; padding: 12px 6px; }
+  /* Hospital modal tabs: allow horizontal scroll if cramped, keep each tab tappable */
+  #hospTabBar { overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+  #hospTabBar::-webkit-scrollbar { display: none; }
+  #hospTabBar .hosp-tab-btn { flex: 0 0 auto; min-width: 92px; white-space: nowrap; padding: 10px 12px !important; font-size: 12px !important; }
+  /* Hospital quick info column: stack on narrower screens so it doesn't squish */
+  #hospQuickInfo { grid-template-columns: 1fr 1fr !important; }
+}
+@media (max-width: 480px) {
+  /* Shrink oversized modals so they fit phone viewports with no horizontal scroll */
+  .modal { max-width: 100% !important; width: calc(100vw - 16px) !important; max-height: calc(100vh - 32px); overflow-y: auto; padding: 16px !important; border-radius: 14px; }
+  .modal-overlay { padding: 8px !important; }
+  /* Header: ease squeeze between logo and action buttons */
+  header .header-inner { gap: 6px; }
+  header .header-inner .lang-select, header .header-inner button { padding: 8px 10px; font-size: 13px; }
+  /* Quick-info grid down to one column on the tiniest screens */
+  #hospQuickInfo { grid-template-columns: 1fr !important; }
+  /* Typography: reduce to keep two-line titles etc. readable */
+  .logo-text { font-size: 18px; }
+  h1, h2 { font-size: 18px; }
+}
+
+/* ═══════════════════════════════════
+   GLOBAL SEARCH HERO
+═══════════════════════════════════ */
+.global-search-hero {
+  background: linear-gradient(135deg, #1a5c36 0%, #2ECC71 100%);
+  padding: 32px 24px 28px;
+  text-align: center;
+}
+.global-search-hero h2 {
+  color: #fff;
+  font-family: 'Fredoka', sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  margin: 0 0 14px;
+  opacity: .92;
+}
+.global-search-wrap {
+  position: relative;
+  max-width: 640px;
+  margin: 0 auto;
+}
+.global-search-wrap input {
+  width: 100%;
+  padding: 14px 48px 14px 18px;
+  border: none;
+  border-radius: 50px;
+  font-size: 16px;
+  font-family: 'DM Sans', sans-serif;
+  outline: none;
+  box-shadow: 0 4px 24px rgba(0,0,0,.18);
+  background: var(--bg-card);
+  color: var(--text);
+  box-sizing: border-box;
+}
+.global-search-wrap .gs-icon {
+  position: absolute;
+  right: 17px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 18px;
+  pointer-events: none;
+}
+.global-search-results {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0; right: 0;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: 0 12px 40px rgba(0,0,0,.18);
+  max-height: 420px;
+  overflow-y: auto;
+  z-index: 1200;
+  text-align: left;
+  display: none;
+}
+.global-search-results.open { display: block; }
+.gs-result-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 11px 16px;
+  cursor: pointer;
+  border-bottom: 1px solid var(--border);
+  transition: background .15s;
+}
+.gs-result-item:last-child { border-bottom: none; }
+.gs-result-item:hover { background: var(--bg-hover); }
+.gs-result-icon { font-size: 20px; flex-shrink: 0; }
+.gs-result-body { flex: 1; min-width: 0; }
+.gs-result-title { font-weight: 600; font-size: 13.5px; color: var(--text-dark); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.gs-result-sub { font-size: 12px; color: var(--text-light); margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.gs-result-loc { font-size: 11px; color: var(--green-dark); font-weight: 500; margin-top: 3px; }
+.gs-region-header {
+  padding: 8px 16px 4px;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-light);
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  background: var(--bg-hover);
+}
+.gs-no-results { padding: 20px; text-align: center; color: var(--text-light); font-size: 14px; }
+.gs-loading { padding: 16px; text-align: center; color: var(--text-light); font-size: 13px; }
+
+/* ═══════════════════════════════════
+   BUNNY BOT CHAT BUBBLE
+═══════════════════════════════════ */
+#bunnyBotBubble {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  width: 56px;
+  height: 56px;
+  background: linear-gradient(135deg, #27AE60, #2ECC71);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 26px;
+  cursor: pointer;
+  box-shadow: 0 4px 20px rgba(46,204,113,.45);
+  z-index: 2000;
+  transition: transform .2s, box-shadow .2s;
+  border: none;
+  outline: none;
+}
+#bunnyBotBubble:hover { transform: scale(1.1); box-shadow: 0 8px 28px rgba(46,204,113,.55); }
+#bunnyBotBubble .bot-badge {
+  position: absolute;
+  top: -3px; right: -3px;
+  width: 16px; height: 16px;
+  background: #E74C3C;
+  border-radius: 50%;
+  font-size: 9px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  display: none;
+}
+
+#bunnyBotPanel {
+  position: fixed;
+  bottom: 90px;
+  right: 24px;
+  width: 370px;
+  max-width: calc(100vw - 32px);
+  height: 520px;
+  max-height: calc(100vh - 110px);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  box-shadow: 0 16px 56px rgba(0,0,0,.22);
+  display: flex;
+  flex-direction: column;
+  z-index: 1999;
+  overflow: hidden;
+  transform: scale(.85) translateY(20px);
+  opacity: 0;
+  pointer-events: none;
+  transition: transform .22s cubic-bezier(.34,1.56,.64,1), opacity .18s;
+}
+#bunnyBotPanel.open {
+  transform: scale(1) translateY(0);
+  opacity: 1;
+  pointer-events: all;
+}
+.bot-header {
+  background: linear-gradient(135deg, #1a5c36, #2ECC71);
+  padding: 14px 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+}
+.bot-header-avatar { font-size: 24px; }
+.bot-header-info { flex: 1; }
+.bot-header-name { color: #fff; font-weight: 600; font-size: 15px; font-family: 'Fredoka', sans-serif; }
+.bot-header-status { color: rgba(255,255,255,.75); font-size: 11.5px; }
+.bot-close { background: none; border: none; color: rgba(255,255,255,.8); font-size: 20px; cursor: pointer; padding: 0 4px; }
+.bot-close:hover { color: #fff; }
+
+.bot-messages {
+  flex: 1;
+  overflow-y: auto;
+  padding: 14px 14px 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.bot-msg {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  max-width: 92%;
+}
+.bot-msg.user { align-self: flex-end; flex-direction: row-reverse; }
+.bot-msg-avatar { font-size: 18px; flex-shrink: 0; margin-top: 2px; }
+.bot-msg-bubble {
+  padding: 9px 13px;
+  border-radius: 16px;
+  font-size: 13.5px;
+  line-height: 1.5;
+  color: var(--text);
+  background: var(--bg-hover);
+  word-break: break-word;
+}
+.bot-msg.user .bot-msg-bubble {
+  background: linear-gradient(135deg, #27AE60, #2ECC71);
+  color: #fff;
+  border-radius: 16px 16px 4px 16px;
+}
+.bot-msg.bot .bot-msg-bubble { border-radius: 16px 16px 16px 4px; }
+.bot-msg-bubble a { color: var(--green-dark); text-decoration: underline; }
+.bot-msg.user .bot-msg-bubble a { color: rgba(255,255,255,.85); }
+.bot-typing { display: flex; gap: 4px; align-items: center; padding: 10px 13px; }
+.bot-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--text-light); animation: botDotBounce 1.2s infinite; }
+.bot-dot:nth-child(2) { animation-delay: .2s; }
+.bot-dot:nth-child(3) { animation-delay: .4s; }
+@keyframes botDotBounce { 0%,80%,100% { transform: translateY(0); } 40% { transform: translateY(-6px); } }
+
+.bot-sources {
+  font-size: 11px;
+  color: var(--text-light);
+  margin-top: 5px;
+  padding: 5px 8px;
+  background: var(--bg-input);
+  border-radius: 8px;
+}
+.bot-law-chip {
+  display: inline-block;
+  background: var(--green-light);
+  color: var(--green-dark);
+  border-radius: 20px;
+  padding: 2px 8px;
+  font-size: 11px;
+  font-weight: 500;
+  margin: 2px 2px 0 0;
+  cursor: pointer;
+  border: 1px solid var(--border-green);
+}
+[data-theme="dark"] .bot-law-chip { background: #1a3a28; }
+
+.bot-input-row {
+  display: flex;
+  gap: 8px;
+  padding: 10px 12px 14px;
+  border-top: 1px solid var(--border);
+  flex-shrink: 0;
+  align-items: flex-end;
+}
+.bot-input-row textarea {
+  flex: 1;
+  resize: none;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 9px 12px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13.5px;
+  background: var(--bg-input);
+  color: var(--text);
+  outline: none;
+  min-height: 38px;
+  max-height: 100px;
+  line-height: 1.4;
+}
+.bot-input-row textarea:focus { border-color: var(--green); }
+.bot-send {
+  background: var(--green);
+  border: none;
+  border-radius: 10px;
+  padding: 9px 13px;
+  cursor: pointer;
+  font-size: 17px;
+  color: #fff;
+  align-self: flex-end;
+  transition: background .15s;
+  flex-shrink: 0;
+}
+.bot-send:hover { background: var(--green-dark); }
+.bot-send:disabled { opacity: .45; cursor: default; }
+.bot-no-key {
+  padding: 12px 14px;
+  background: var(--amber-light);
+  font-size: 12.5px;
+  color: var(--text);
+  border-top: 1px solid var(--border);
+  flex-shrink: 0;
+}
+.bot-no-key a { color: var(--green-dark); text-decoration: underline; cursor: pointer; }
+</style>
+</head>
+<body>
+
+<!-- Skip-to-content link for keyboard/screen-reader users -->
+<a href="#mainContent" class="skip-link">Skip to content</a>
+
+<!-- ═══ HEADER ═══ -->
+<header>
+  <div class="header-inner">
+    <a class="logo" href="#">
+      <div class="bunny-icon" aria-hidden="true">
+        <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="lgEar" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#f4e8dc"/><stop offset="100%" style="stop-color:#e8cfc4"/></linearGradient>
+            <linearGradient id="lgFur" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" style="stop-color:#fdf9f6"/><stop offset="100%" style="stop-color:#ebe3db"/></linearGradient>
+          </defs>
+          <ellipse cx="24" cy="28" rx="14" ry="12" fill="url(#lgFur)" stroke="#5c4a42" stroke-width="1.1" stroke-linejoin="round"/>
+          <ellipse cx="24" cy="17" rx="11" ry="10" fill="url(#lgFur)" stroke="#5c4a42" stroke-width="1.1"/>
+          <path d="M14 8 Q11 18 15 22" fill="none" stroke="#5c4a42" stroke-width="1" stroke-linecap="round"/>
+          <path d="M34 8 Q37 18 33 22" fill="none" stroke="#5c4a42" stroke-width="1" stroke-linecap="round"/>
+          <ellipse cx="13" cy="12" rx="4" ry="9" fill="url(#lgEar)" stroke="#5c4a42" stroke-width="0.9" transform="rotate(-12 13 12)"/>
+          <ellipse cx="35" cy="12" rx="4" ry="9" fill="url(#lgEar)" stroke="#5c4a42" stroke-width="0.9" transform="rotate(12 35 12)"/>
+          <circle cx="19" cy="16" r="2.2" fill="#3d3d3d"/><circle cx="29" cy="16" r="2.2" fill="#3d3d3d"/>
+          <circle cx="19.4" cy="15.5" r="0.7" fill="#fff"/><circle cx="29.4" cy="15.5" r="0.7" fill="#fff"/>
+          <path d="M22 20 Q24 22 26 20" fill="none" stroke="#8b6914" stroke-width="0.85" stroke-linecap="round"/>
+          <ellipse cx="24" cy="30" rx="5" ry="3.5" fill="#c8e6c9" opacity="0.85" stroke="#2e7d32" stroke-width="0.6"/>
+        </svg>
+      </div>
+      <div class="logo-text">Law <span>Bunny</span></div>
+    </a>
+    <div class="search-bar" role="search">
+      <label for="searchInput" class="sr-only">Search laws</label>
+      <input type="text" id="searchInput" placeholder="Search laws… (jaywalking, noise, minimum wage…)" data-i18n-placeholder="search.placeholder" oninput="filterLaws()" aria-label="Search laws">
+      <span class="search-icon" aria-hidden="true">🔍</span>
+    </div>
+    <button class="location-pill" onclick="openLocModal()" aria-label="Change location"><span aria-hidden="true">📍</span> <span id="locationLabel">California, USA</span> <span aria-hidden="true">▾</span></button>
+    <button class="settings-btn" onclick="openProfileModal()" title="Your profile" aria-label="Open your profile" data-i18n-title="hdr.profile"><span aria-hidden="true">👤</span></button>
+    <button class="theme-toggle" onclick="toggleTheme()" id="themeToggleBtn" title="Toggle dark/light mode" aria-label="Toggle dark and light mode" data-i18n-title="hdr.theme"><span aria-hidden="true">🌙</span></button>
+    <button class="settings-btn" onclick="openSettings()" title="Settings" aria-label="Open settings" data-i18n-title="hdr.settings"><span aria-hidden="true">⚙️</span></button>
+  </div>
+</header>
+
+<div id="notAdvice" role="note" style="background:var(--bg-card);border-bottom:1px solid var(--border);padding:8px 20px;text-align:center;font-size:12px;line-height:1.45;color:var(--text)">
+  <strong>Not legal advice.</strong> This is a study guide. Confirm anything you might rely on with the official source or a lawyer. Laws change, and most entries have not been checked against a current statute.
+</div>
+
+<!-- API key notice banner -->
+<div id="apiKeyBanner" style="display:none;background:linear-gradient(90deg,#FEF3C7,#FEF9E7);border-bottom:2px solid #F39C12;padding:8px 20px;text-align:center;font-size:12px;color:#92400E">
+  🤖 <strong data-i18n="banner.need">AI features need a Claude API key.</strong> <span data-i18n="banner.addyours">Add yours in</span> <button onclick="openProfileModal()" style="background:none;border:none;color:#1A6BAA;font-size:12px;font-weight:600;cursor:pointer;text-decoration:underline" data-i18n="banner.profile">your profile ↗</button> <span data-i18n="banner.toenable">to enable Ask Lex, law verification &amp; update checks.</span>
+</div>
+
+<!-- ═══ APP LAYOUT ═══ -->
+<div class="app-layout">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <div class="bunny-card">
+      <!-- Maushold-style bunny: clean white fills, bold black outlines, huge round eyes, pink inner ears -->
+      <svg class="bunny-svg" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <!-- Left ear -->
+        <ellipse cx="33" cy="21" rx="9" ry="18" fill="#FEFEFE" stroke="#111" stroke-width="2.3"/>
+        <ellipse cx="33" cy="21" rx="5" ry="13" fill="#FFB6C1"/>
+        <!-- Right ear -->
+        <ellipse cx="67" cy="21" rx="9" ry="18" fill="#FEFEFE" stroke="#111" stroke-width="2.3"/>
+        <ellipse cx="67" cy="21" rx="5" ry="13" fill="#FFB6C1"/>
+        <!-- Body -->
+        <ellipse cx="50" cy="76" rx="26" ry="19" fill="#FEFEFE" stroke="#111" stroke-width="2.3"/>
+        <!-- Head (big round — key Maushold trait) -->
+        <circle cx="50" cy="47" r="25" fill="#FEFEFE" stroke="#111" stroke-width="2.3"/>
+        <!-- Eyes: very large circles -->
+        <circle cx="39" cy="45" r="9" fill="white" stroke="#111" stroke-width="2"/>
+        <circle cx="61" cy="45" r="9" fill="white" stroke="#111" stroke-width="2"/>
+        <!-- Pupils -->
+        <circle cx="40" cy="46" r="5.5" fill="#111"/>
+        <circle cx="62" cy="46" r="5.5" fill="#111"/>
+        <!-- Eye highlights -->
+        <circle cx="38" cy="43" r="2" fill="white"/>
+        <circle cx="60" cy="43" r="2" fill="white"/>
+        <!-- Nose -->
+        <ellipse cx="50" cy="56" rx="2.5" ry="2" fill="#FF8FAB"/>
+        <!-- Smile -->
+        <path d="M44 59 Q50 65 56 59" fill="none" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+        <!-- Rosy cheeks -->
+        <ellipse cx="33" cy="53" rx="5.5" ry="3.5" fill="#FFB6C1" opacity="0.5"/>
+        <ellipse cx="67" cy="53" rx="5.5" ry="3.5" fill="#FFB6C1" opacity="0.5"/>
+        <!-- Tiny round paws -->
+        <ellipse cx="29" cy="80" rx="8" ry="5" fill="#FEFEFE" stroke="#111" stroke-width="1.8"/>
+        <ellipse cx="71" cy="80" rx="8" ry="5" fill="#FEFEFE" stroke="#111" stroke-width="1.8"/>
+        <!-- Seasonal outfit layer — swapped by JS on load -->
+        <g id="bunny-outfit"></g>
+      </svg>
+      <div class="bunny-name">Lex the Bunny <span id="lexSeasonTag" style="font-size:11px;font-weight:400;color:var(--text-light);display:block;margin-top:1px"></span></div>
+      <div class="bunny-speech" id="bunnyMsg" aria-live="polite" aria-atomic="true">Welcome. I help you browse local laws and etiquette with calm, clear notes — always verify with official sources.</div>
+      <button onclick="openCustomizeModal()" style="margin-top:10px;width:100%;padding:7px;background:transparent;border:1.5px solid var(--border-green);border-radius:8px;font-size:12px;font-weight:500;color:var(--green-dark);cursor:pointer;font-family:'DM Sans',sans-serif;transition:all 0.2s" onmouseover="this.style.background='var(--green-light)'" onmouseout="this.style.background='transparent'">🎨 Customize Lex</button>
+      <div class="profile-chip" id="sidebarProfileTeaser">
+        <strong id="sidebarProfileName">Guest</strong>
+        <span id="sidebarProfileIntro">Set up your profile with the person icon above.</span>
+      </div>
+    </div>
+
+    <div class="categories-card">
+      <div class="card-title">📂 Categories</div>
+      <div class="category-list">
+        <button class="cat-btn active" onclick="filterCat('all',this)"><span class="cat-icon">🏛️</span><span data-i18n="cat.all">All Laws</span><span class="cat-count" id="cnt-all">0</span></button>
+        <button class="cat-btn" onclick="filterCat('traffic',this)"><span class="cat-icon">🚗</span><span data-i18n="cat.traffic">Traffic</span><span class="cat-count" id="cnt-traffic">0</span></button>
+        <button class="cat-btn" onclick="filterCat('noise',this)"><span class="cat-icon">🔊</span><span data-i18n="cat.noise">Noise</span><span class="cat-count" id="cnt-noise">0</span></button>
+        <button class="cat-btn" onclick="filterCat('property',this)"><span class="cat-icon">🏠</span><span data-i18n="cat.property">Property</span><span class="cat-count" id="cnt-property">0</span></button>
+        <button class="cat-btn" onclick="filterCat('business',this)"><span class="cat-icon">💼</span><span data-i18n="cat.business">Business</span><span class="cat-count" id="cnt-business">0</span></button>
+        <button class="cat-btn" onclick="filterCat('environment',this)"><span class="cat-icon">🌿</span><span data-i18n="cat.environment">Environment</span><span class="cat-count" id="cnt-environment">0</span></button>
+        <button class="cat-btn" onclick="filterCat('alcohol',this)"><span class="cat-icon">🍺</span><span data-i18n="cat.alcohol">Alcohol</span><span class="cat-count" id="cnt-alcohol">0</span></button>
+        <button class="cat-btn" onclick="filterCat('animals',this)"><span class="cat-icon">🐶</span><span data-i18n="cat.animals">Animals</span><span class="cat-count" id="cnt-animals">0</span></button>
+        <button class="cat-btn" onclick="filterCat('digital',this)"><span class="cat-icon">📱</span><span data-i18n="cat.digital">Digital</span><span class="cat-count" id="cnt-digital">0</span></button>
+        <button class="cat-btn" onclick="filterCat('etiquette',this)"><span class="cat-icon">🤝</span><span data-i18n="cat.etiquette">Etiquette</span><span class="cat-count" id="cnt-etiquette">0</span></button>
+        <button class="cat-btn" onclick="filterCat('legal',this)"><span class="cat-icon">⚖️</span><span data-i18n="cat.legal">Legal</span><span class="cat-count" id="cnt-legal">0</span></button>
+        <button class="cat-btn" id="favCatBtn" onclick="filterCat('favorites',this)"><span class="cat-icon">❤️</span><span data-i18n="cat.favorites">Favorites</span><span class="cat-count" id="cnt-favorites">0</span></button>
+      </div>
+    </div>
+
+    <!-- LAW OF THE DAY WIDGET -->
+    <div class="categories-card" id="lotdCard" style="margin-top:0">
+      <div class="card-title">🌅 Law of the Day</div>
+      <div id="lotdContent" style="font-size:12px;color:var(--text);line-height:1.6">
+        <div id="lotdIcon" style="font-size:28px;text-align:center;margin-bottom:6px">📜</div>
+        <div id="lotdTitle" style="font-weight:600;font-size:13px;margin-bottom:4px;color:var(--text-dark)">Loading…</div>
+        <div id="lotdLocation" style="font-size:11px;color:var(--text-light);margin-bottom:6px"></div>
+        <div id="lotdDesc" style="color:var(--text);margin-bottom:8px"></div>
+        <button onclick="nextLotd()" style="width:100%;padding:6px;background:var(--green-light);border:1.5px solid var(--green-mid);border-radius:8px;font-size:11px;font-weight:500;color:var(--green-dark);cursor:pointer;font-family:'DM Sans',sans-serif">✨ Show another</button>
+      </div>
+    </div>
+
+  </aside>
+
+  <!-- MAIN CONTENT -->
+  <main id="mainContent" tabindex="-1">
+    <div class="hero-banner">
+      <h2 id="heroBannerTitle">📍 California, USA — Local Law Guide</h2>
+      <p>Official laws and cultural etiquette sourced from public government databases. Always consult a legal professional for specific advice.</p>
+      <p class="hero-jurisdiction-note" id="heroJurisdictionNote"></p>
+      <div class="hero-badges">
+        <span class="badge badge-green">✓ Official Sources</span>
+        <span class="badge badge-blue" id="heroBadgeLaws">📖 0 Laws</span>
+        <span class="badge badge-amber" id="heroBadgeHigh">⚠️ 0 High Severity</span>
+        <span class="badge badge-teal" id="heroBadgeEtiq">🤝 0 Etiquette Tips</span>
+        <span class="badge badge-purple">🎓 Educational Use</span>
+      </div>
+    </div>
+
+    <div class="ai-section">
+      <div class="card-title">🐰 Ask Lex — AI Law Helper</div>
+      <div class="ai-messages" id="aiMessages"></div>
+      <div class="ai-input-row">
+        <input class="ai-input" id="aiInput" type="text" placeholder="Ask about any local law or custom…" data-i18n-placeholder="ai.placeholder" onkeydown="if(event.key==='Enter') askLex()">
+        <button class="ai-send-btn" id="aiSendBtn" onclick="askLex()">↑</button>
+      </div>
+    </div>
+
+    <!-- Auto-update banner -->
+    <div id="updateBanner" style="display:none;background:var(--amber-light);border:1.5px solid var(--amber);border-radius:12px;padding:12px 16px;margin-bottom:14px;display:flex;align-items:center;gap:10px;flex-wrap:wrap">
+      <span style="font-size:18px">🔄</span>
+      <div style="flex:1">
+        <div style="font-size:13px;font-weight:500;color:var(--text-dark)" id="updateBannerTitle">Checking for legal updates…</div>
+        <div style="font-size:11px;color:var(--text-light);margin-top:2px" id="updateBannerSub"></div>
+      </div>
+      <button onclick="checkLegalUpdates()" id="updateBtn"
+        style="padding:7px 13px;background:var(--amber);color:white;border:none;border-radius:8px;font-size:12px;font-weight:500;font-family:'DM Sans',sans-serif;cursor:pointer;white-space:nowrap">
+        🔄 Check Now
+      </button>
+      <button onclick="document.getElementById('updateBanner').style.display='none'"
+        style="background:none;border:none;cursor:pointer;font-size:16px;color:var(--text-light);padding:4px">✕</button>
+    </div>
+
+    <!-- Last-checked bar -->
+    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;flex-wrap:wrap;gap:8px">
+      <div style="display:flex;flex-wrap:wrap;align-items:center;gap:8px">
+      <div class="tabs" style="margin-bottom:0">
+        <button class="tab-btn active" onclick="switchTab('browse',this)">Browse Laws</button>
+        <button class="tab-btn" onclick="switchTab('trending',this)">High Alert</button>
+        <button class="tab-btn" onclick="switchTab('etiquette',this)">Etiquette Only</button>
+        <button class="tab-btn" onclick="switchTab('updates',this)">Recent</button>
+        <button class="tab-btn" onclick="switchTab('hospitals',this)">🏥 Hospitals</button>
+      </div>
+      <button type="button" onclick="openAddLawModal()"
+        style="padding:7px 14px;border-radius:10px;border:2px solid var(--green-mid);background:var(--green-light);color:var(--green-dark);font-size:12px;font-weight:600;font-family:'DM Sans',sans-serif;cursor:pointer;white-space:nowrap"
+        title="AI verifies the rule exists and checks recent news">＋ Add law</button>
+      </div>
+      <button onclick="showUpdatePanel()" id="autoUpdateChip"
+        style="display:flex;align-items:center;gap:6px;padding:6px 12px;background:var(--bg-card);border:1.5px solid var(--border);border-radius:50px;font-size:11px;font-weight:500;color:var(--text-light);cursor:pointer;font-family:'DM Sans',sans-serif;transition:all 0.2s"
+        title="Auto-update laws via AI">
+        <span id="updateDot" style="width:7px;height:7px;border-radius:50%;background:#7F8C8D;display:inline-block"></span>
+        <span id="updateChipLabel">Laws not yet verified</span>
+      </button>
+    </div>
+
+    <!-- Location switch suggestion (shown when user searches a city name) -->
+    <div id="locSwitchSuggestion" style="display:none;align-items:center;justify-content:space-between;padding:10px 14px;background:var(--blue-light);border:1.5px solid var(--blue);border-radius:10px;margin-bottom:10px;flex-wrap:wrap;gap:8px">
+      <div style="font-size:13px;color:var(--blue)">🌍 Did you mean: <strong id="locSwitchName"></strong>?</div>
+      <button id="locSwitchBtn" type="button" style="padding:6px 14px;background:var(--blue);color:white;border:none;border-radius:7px;font-size:12px;font-weight:500;cursor:pointer;font-family:'DM Sans',sans-serif" data-i18n="loc.switch">Switch Location →</button>
+    </div>
+
+    <div class="law-grid" id="lawGrid"></div>
+
+    <!-- Hospital panel -->
+    <div id="hospitalPanel" style="display:none">
+      <div style="background:var(--bg-card);border-radius:var(--radius);padding:18px;border:2px solid var(--border);box-shadow:var(--shadow);margin-bottom:14px">
+        <div style="display:flex;align-items:center;gap:10px;margin-bottom:14px">
+          <span style="font-size:24px">🏥</span>
+          <div>
+            <div style="font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;font-weight:700;color:var(--text-dark)">Hospital Finder</div>
+            <div style="font-size:12px;color:var(--text-light)">Find nearby hospitals and their key patient regulations</div>
+          </div>
+        </div>
+        <div style="display:flex;gap:8px;margin-bottom:12px">
+          <input id="hospitalSearchInput" type="text" placeholder="Search by city, hospital name, or postcode…" data-i18n-placeholder="hospital.placeholder"
+            style="flex:1;padding:9px 13px;border:2px solid var(--border);border-radius:8px;font-size:13px;font-family:'DM Sans',sans-serif;background:var(--bg-input);color:var(--text);outline:none"
+            onfocus="this.style.borderColor='var(--blue)'" onblur="this.style.borderColor='var(--border)'"
+            onkeydown="if(event.key==='Enter')searchHospitals()">
+          <button onclick="searchHospitals()" style="padding:9px 16px;background:var(--blue);color:white;border:none;border-radius:8px;font-size:13px;font-weight:500;font-family:'DM Sans',sans-serif;cursor:pointer">🔍 Search</button>
+          <button onclick="findNearbyHospitals()" style="padding:9px 14px;background:var(--green-light);border:1.5px solid var(--green-mid);border-radius:8px;font-size:12px;font-weight:500;color:var(--green-dark);cursor:pointer;font-family:'DM Sans',sans-serif">📍 Near Me</button>
+        </div>
+        <div id="hospitalResults" style="display:flex;flex-direction:column;gap:10px">
+          <div style="text-align:center;padding:24px;color:var(--text-light)">
+            <div style="font-size:36px;margin-bottom:8px">🏥</div>
+            <p style="font-size:13px">Search for hospitals above, or click "Near Me" to find nearby facilities using your location.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="empty-state" id="emptyState" style="display:none">
+      <div class="empty-icon">🔍</div>
+      <p>No laws found matching your search.<br>Try a different keyword or category.</p>
+    </div>
+  </main>
+</div>
+
+<!-- ═══ FOOTER ═══ -->
+<footer role="contentinfo" style="max-width:1280px;margin:24px auto 0;padding:14px 20px 24px;font-size:11px;color:var(--text-light);line-height:1.6;border-top:1px solid var(--border);text-align:center">
+  <p style="margin-bottom:6px">
+    <strong>Law Bunny is not a lawyer.</strong>
+    Content is informational only — always confirm with official sources or qualified counsel before acting.
+    Laws change; AI-verified entries reflect the moment they were checked.
+  </p>
+  <p>
+    Your favorites, settings, and any laws you add are stored only on this device.
+    Nothing is sent anywhere except Anthropic's API when you use AI features with your own key.
+  </p>
+</footer>
+
+<!-- ═══ QUIZ MODAL ═══ -->
+<div class="modal-overlay" id="quizModal">
+  <div class="modal">
+    <div class="modal-header"><div class="modal-bunny">🐰</div><div class="modal-title">Quick Quiz!</div></div>
+    <div class="quiz-question" id="quizQuestion"></div>
+    <div class="quiz-options" id="quizOptions"></div>
+    <div class="quiz-feedback" id="quizFeedback"></div>
+    <button class="modal-close-btn" id="quizCloseBtn" onclick="closeQuiz()" style="display:none">Continue Learning ✓</button>
+  </div>
+</div>
+
+<!-- ═══ LOCATION MODAL ═══ -->
+<div class="modal-overlay" id="locModal">
+  <div class="modal loc-modal">
+    <div class="modal-header"><div class="modal-bunny">📍</div><div class="modal-title" data-i18n="loc.choose">Choose Location</div></div>
+    <div style="position:relative;margin-bottom:10px">
+      <input type="text" id="locSearch" placeholder="Search country, city, region…"
+        oninput="renderLocResults(this.value)"
+        style="width:100%;padding:9px 38px 9px 13px;border:2px solid var(--border);border-radius:8px;font-size:13px;font-family:'DM Sans',sans-serif;outline:none;background:var(--bg-input);color:var(--text)"
+        onfocus="this.style.borderColor='var(--green)'" onblur="this.style.borderColor='var(--border)'">
+      <span style="position:absolute;right:11px;top:50%;transform:translateY(-50%);font-size:14px;pointer-events:none">🔍</span>
+    </div>
+    <button onclick="useMyLocation()"
+      style="width:100%;padding:9px;margin-bottom:10px;background:var(--blue-light);border:2px solid var(--border);border-radius:8px;font-size:13px;font-weight:500;font-family:'DM Sans',sans-serif;color:#1A6BAA;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:7px">
+      <span data-i18n="loc.usegps">📡 Use My Current Location (GPS)</span>
+    </button>
+    <p id="gpsStatus" style="font-size:11px;text-align:center;min-height:16px;margin-bottom:8px;color:var(--text-light)"></p>
+    <div style="font-size:10px;text-transform:uppercase;letter-spacing:0.8px;font-weight:600;color:var(--text-light);margin-bottom:7px">Showing <span id="locCount">0</span> regions</div>
+    <div id="locResults" style="display:flex;flex-direction:column;gap:5px;max-height:300px;overflow-y:auto"></div>
+    <button class="modal-close-btn" style="background:var(--border);color:var(--text)" onclick="closeLocModal()">Cancel</button>
+  </div>
+</div>
+
+<!-- ═══ SETTINGS MODAL ═══ -->
+<div class="modal-overlay" id="settingsModal">
+  <div class="modal">
+    <div class="modal-header"><div class="modal-bunny">⚙️</div><div class="modal-title" data-i18n="settings.title">Settings</div></div>
+
+    <div class="settings-section">
+      <div class="settings-section-title" data-i18n="settings.appearance">🎨 Appearance</div>
+      <button class="theme-btn active" id="btnLight" onclick="setTheme('light')">
+        <span class="theme-icon">☀️</span>
+        <div><div style="font-weight:500" data-i18n="settings.light">Light Mode</div><div style="font-size:11px;color:var(--text-light)" data-i18n="settings.lightDesc">Bright, clean interface</div></div>
+      </button>
+      <button class="theme-btn" id="btnDark" onclick="setTheme('dark')">
+        <span class="theme-icon">🌙</span>
+        <div><div style="font-weight:500" data-i18n="settings.dark">Dark Mode</div><div style="font-size:11px;color:var(--text-light)" data-i18n="settings.darkDesc">Easy on the eyes at night</div></div>
+      </button>
+      <button class="theme-btn" id="btnAuto" onclick="setTheme('auto')">
+        <span class="theme-icon">🖥️</span>
+        <div><div style="font-weight:500" data-i18n="settings.auto">System Default</div><div style="font-size:11px;color:var(--text-light)" data-i18n="settings.autoDesc">Match your OS setting</div></div>
+      </button>
+    </div>
+
+    <div class="settings-section">
+      <div class="settings-section-title" data-i18n="settings.language">🌐 Language</div>
+      <select id="langSelect" onchange="setLanguage(this.value)"
+        style="width:100%;padding:10px 12px;border:2px solid var(--border);border-radius:8px;font-size:14px;background:var(--bg-input);color:var(--text);font-family:'DM Sans',sans-serif;cursor:pointer">
+        <option value="en">English</option>
+        <option value="es">Español (Spanish)</option>
+        <option value="fr">Français (French)</option>
+        <option value="ja">日本語 (Japanese)</option>
+        <option value="zh">简体中文 (Chinese Simplified)</option>
+        <option value="pt">Português (Portuguese)</option>
+        <option value="de">Deutsch (German)</option>
+        <option value="it">Italiano (Italian)</option>
+        <option value="nl">Nederlands (Dutch)</option>
+        <option value="ru">Русский (Russian)</option>
+        <option value="ar">العربية (Arabic)</option>
+        <option value="hi">हिन्दी (Hindi)</option>
+        <option value="ko">한국어 (Korean)</option>
+        <option value="tr">Türkçe (Turkish)</option>
+        <option value="pl">Polski (Polish)</option>
+        <option value="sv">Svenska (Swedish)</option>
+        <option value="el">Ελληνικά (Greek)</option>
+        <option value="id">Bahasa Indonesia (Indonesian)</option>
+        <option value="th">ไทย (Thai)</option>
+        <option value="vi">Tiếng Việt (Vietnamese)</option>
+            <option value="bn">বাংলা (Bengali)</option>
+            <option value="ur">اردو (Urdu)</option>
+            <option value="fa">فارسی (Persian)</option>
+            <option value="he">עברית (Hebrew)</option>
+            <option value="cs">Čeština (Czech)</option>
+            <option value="ro">Română (Romanian)</option>
+            <option value="hu">Magyar (Hungarian)</option>
+            <option value="fi">Suomi (Finnish)</option>
+            <option value="da">Dansk (Danish)</option>
+            <option value="no">Norsk (Norwegian)</option>
+            <option value="uk">Українська (Ukrainian)</option>
+            <option value="ms">Bahasa Melayu (Malay)</option>
+            <option value="tl">Filipino (Filipino)</option>
+            <option value="sw">Kiswahili (Swahili)</option>
+            <option value="ta">தமிழ் (Tamil)</option>
+            <option value="bg">Български (Bulgarian)</option>
+            <option value="sr">Srpski (Serbian)</option>
+            <option value="hr">Hrvatski (Croatian)</option>
+            <option value="sk">Slovenčina (Slovak)</option>
+            <option value="sl">Slovenščina (Slovenian)</option>
+            <option value="lt">Lietuvių (Lithuanian)</option>
+            <option value="lv">Latviešu (Latvian)</option>
+            <option value="et">Eesti (Estonian)</option>
+            <option value="ca">Català (Catalan)</option>
+            <option value="is">Íslenska (Icelandic)</option>
+            <option value="cy">Cymraeg (Welsh)</option>
+            <option value="ga">Gaeilge (Irish)</option>
+            <option value="mt">Malti (Maltese)</option>
+            <option value="sq">Shqip (Albanian)</option>
+            <option value="mk">Македонски (Macedonian)</option>
+            <option value="te">తెలుగు (Telugu)</option>
+            <option value="ml">മലയാളം (Malayalam)</option>
+            <option value="kn">ಕನ್ನಡ (Kannada)</option>
+            <option value="gu">ગુજરાતી (Gujarati)</option>
+            <option value="mr">मराठी (Marathi)</option>
+            <option value="pa">ਪੰਜਾਬੀ (Punjabi)</option>
+            <option value="my">မြန်မာ (Burmese)</option>
+            <option value="km">ខ្មែរ (Khmer)</option>
+            <option value="lo">ລາວ (Lao)</option>
+            <option value="ne">नेपाली (Nepali)</option>
+            <option value="si">සිංහල (Sinhala)</option>
+            <option value="am">አማርኛ (Amharic)</option>
+            <option value="yo">Yorùbá (Yoruba)</option>
+            <option value="zu">isiZulu (Zulu)</option>
+            <option value="af">Afrikaans (Afrikaans)</option>
+            <option value="az">Azərbaycan (Azerbaijani)</option>
+            <option value="uz">Oʻzbek (Uzbek)</option>
+            <option value="kk">Қазақша (Kazakh)</option>
+            <option value="ky">Кыргызча (Kyrgyz)</option>
+            <option value="mn">Монгол (Mongolian)</option>
+            <option value="ka">ქართული (Georgian)</option>
+            <option value="hy">Հայերեն (Armenian)</option>
+            <option value="tg">Тоҷикӣ (Tajik)</option>
+            <option value="ps">پښتو (Pashto)</option>
+            <option value="ku">کوردی (Kurdish)</option>
+            <option value="ha">Hausa (Hausa)</option>
+            <option value="ig">Igbo (Igbo)</option>
+            <option value="so">Soomaali (Somali)</option>
+            <option value="mg">Malagasy (Malagasy)</option>
+            <option value="eo">Esperanto (Esperanto)</option>
+            <option value="eu">Euskara (Basque)</option>
+            <option value="gl">Galego (Galician)</option>
+            <option value="be">Беларуская (Belarusian)</option>
+            <option value="lb">Lëtzebuergesch (Luxembourgish)</option>
+            <option value="fo">Føroyskt (Faroese)</option>
+            <option value="gd">Gàidhlig (Scottish Gaelic)</option>
+            <option value="tt">Татарча (Tatar)</option>
+            <option value="mi">Māori (Maori)</option>
+            <option value="sm">Gagana Samoa (Samoan)</option>
+            <option value="jv">Basa Jawa (Javanese)</option>
+            <option value="su">Basa Sunda (Sundanese)</option>
+            <option value="ny">Chichewa (Chichewa)</option>
+            <option value="xh">isiXhosa (Xhosa)</option>
+            <option value="sn">chiShona (Shona)</option>
+            <option value="la">Latina (Latin)</option>
+            <option value="rw">Kinyarwanda (Kinyarwanda)</option>
+            <option value="st">Sesotho (Sesotho)</option>
+            <option value="tn">Setswana (Tswana)</option>
+            <option value="ts">Xitsonga (Tsonga)</option>
+            <option value="ss">SiSwati (Swati)</option>
+            <option value="om">Afaan Oromoo (Oromo)</option>
+            <option value="ti">ትግርኛ (Tigrinya)</option>
+            <option value="dv">ދިވެހި (Dhivehi)</option>
+            <option value="bo">བོད་སྐད (Tibetan)</option>
+            <option value="dz">རྫོང་ཁ (Dzongkha)</option>
+            <option value="ug">ئۇيغۇرچە (Uyghur)</option>
+            <option value="wo">Wolof (Wolof)</option>
+            <option value="ff">Fulfulde (Fula)</option>
+            <option value="bm">Bamanankan (Bambara)</option>
+            <option value="ak">Akan (Akan)</option>
+            <option value="ba">Башҡортса (Bashkir)</option>
+            <option value="cv">Чӑвашла (Chuvash)</option>
+            <option value="ce">Нохчийн (Chechen)</option>
+            <option value="os">Ирон (Ossetian)</option>
+            <option value="ia">Interlingua (Interlingua)</option>
+            <option value="io">Ido (Ido)</option>
+            <option value="vo">Volapük (Volapük)</option>
+            <option value="bi">Bislama (Bislama)</option>
+            <option value="to">Lea faka-Tonga (Tongan)</option>
+            <option value="fj">Vosa Vakaviti (Fijian)</option>
+            <option value="ty">Reo Tahiti (Tahitian)</option>
+            <option value="ch">Chamoru (Chamorro)</option>
+            <option value="co">Corsu (Corsican)</option>
+            <option value="rm">Rumantsch (Romansh)</option>
+            <option value="an">Aragonés (Aragonese)</option>
+            <option value="ht">Kreyòl Ayisyen (Haitian Creole)</option>
+            <option value="fy">Frysk (Western Frisian)</option>
+            <option value="oc">Occitan (Occitan)</option>
+            <option value="wa">Walon (Walloon)</option>
+            <option value="ast">Asturianu (Asturian)</option>
+            <option value="scn">Sicilianu (Sicilian)</option>
+            <option value="nap">Napulitano (Neapolitan)</option>
+            <option value="vec">Vèneto (Venetian)</option>
+            <option value="lmo">Lombard (Lombard)</option>
+            <option value="pms">Piemontèis (Piedmontese)</option>
+            <option value="sc">Sardu (Sardinian)</option>
+            <option value="pap">Papiamentu (Papiamento)</option>
+            <option value="gsw">Schwiizerdütsch (Swiss German)</option>
+            <option value="bar">Boarisch (Bavarian)</option>
+            <option value="nds">Plattdüütsch (Low German)</option>
+      </select>
+      <div style="font-size:11px;color:var(--text-light);margin-top:6px" data-i18n="settings.languageDesc">Interface only — law text remains in English.</div>
+    </div>
+
+    <div class="settings-section">
+      <div class="settings-section-title" data-i18n="settings.prefs">🔔 Preferences</div>
+      <div class="setting-row">
+        <div><div class="setting-label" data-i18n="settings.etiq">Show Etiquette Tips</div><div class="setting-desc" data-i18n="settings.etiqDesc">Display cultural / social etiquette cards</div></div>
+        <label class="toggle-switch"><input type="checkbox" id="toggleEtiquette" checked onchange="renderLaws()"><span class="slider"></span></label>
+      </div>
+      <div class="setting-row">
+        <div><div class="setting-label" data-i18n="settings.highFirst">Show High Severity First</div><div class="setting-desc" data-i18n="settings.highFirstDesc">Prioritise important laws at the top</div></div>
+        <label class="toggle-switch"><input type="checkbox" id="toggleSortSeverity" onchange="renderLaws()"><span class="slider"></span></label>
+      </div>
+      <div class="setting-row">
+        <div><div class="setting-label" data-i18n="settings.compact">Compact Card View</div><div class="setting-desc" data-i18n="settings.compactDesc">Smaller cards, more laws visible at once</div></div>
+        <label class="toggle-switch"><input type="checkbox" id="toggleCompact" onchange="toggleCompactMode()"><span class="slider"></span></label>
+      </div>
+    </div>
+
+    <div class="settings-section">
+      <div class="settings-section-title" data-i18n="settings.about">📊 About</div>
+      <div style="font-size:13px;color:var(--text-light);line-height:1.6;background:var(--bg-hover);border-radius:8px;padding:12px">
+        🐰 <strong style="color:var(--text-dark)">Law Bunny v2.0</strong><br>
+        Covers <strong style="color:var(--green-dark)" id="settingsCountryCount">100+</strong> countries<br>
+        Laws + Cultural Etiquette<br>
+        ⚠️ Educational purposes only — not legal advice
+      </div>
+    </div>
+
+    <div class="settings-section">
+      <div class="settings-section-title" data-i18n="settings.api">🤖 Claude API (optional)</div>
+      <p style="font-size:12px;color:var(--text-light);line-height:1.5;margin-bottom:8px" data-i18n="settings.apiDesc">Stored only in this browser (localStorage). Required for Ask Lex, hospital AI lookup, update checks, and adding laws.</p>
+      <input type="password" id="settingsAnthropicKey" placeholder="sk-ant-api…"
+        style="width:100%;padding:10px 12px;border:2px solid var(--border);border-radius:8px;font-size:13px;font-family:monospace;background:var(--bg-input);color:var(--text)"
+        autocomplete="off">
+    </div>
+
+    <button class="modal-close-btn" onclick="closeSettings()" data-i18n="settings.save">Save &amp; Close</button>
+  </div>
+</div>
+
+<!-- ═══ PROFILE MODAL ═══ -->
+<div class="modal-overlay" id="profileModal">
+  <div class="modal">
+    <div class="modal-header"><div class="modal-bunny">👤</div><div class="modal-title">Your profile</div></div>
+    <p style="font-size:12px;color:var(--text-light);line-height:1.55;margin-bottom:14px">Introduce yourself and choose a sign-in for this device. Passwords are kept in your browser only — not suitable for real security; use a throwaway password.</p>
+    <label style="font-size:11px;font-weight:600;color:var(--text-light);display:block;margin-bottom:4px">Username</label>
+    <input type="text" id="profileUsername" maxlength="40" placeholder="e.g. traveler_j"
+      style="width:100%;padding:10px 12px;border:2px solid var(--border);border-radius:8px;font-size:14px;margin-bottom:12px;background:var(--bg-input);color:var(--text)">
+    <label style="font-size:11px;font-weight:600;color:var(--text-light);display:block;margin-bottom:4px">Password</label>
+    <input type="password" id="profilePassword" placeholder="Local device only"
+      style="width:100%;padding:10px 12px;border:2px solid var(--border);border-radius:8px;font-size:14px;margin-bottom:12px;background:var(--bg-input);color:var(--text)">
+    <label style="font-size:11px;font-weight:600;color:var(--text-light);display:block;margin-bottom:4px">Short introduction</label>
+    <textarea id="profileIntro" rows="3" maxlength="280" placeholder="A sentence or two about you or how you use Law Bunny…"
+      style="width:100%;padding:10px 12px;border:2px solid var(--border);border-radius:8px;font-size:13px;resize:vertical;margin-bottom:14px;background:var(--bg-input);color:var(--text);font-family:'DM Sans',sans-serif;line-height:1.5"></textarea>
+    <label style="font-size:11px;font-weight:600;color:var(--text-light);display:block;margin-bottom:4px">🤖 Claude API Key <span style="font-weight:400;color:#B7770D">(required for AI features)</span></label>
+    <input type="password" id="profileApiKey" placeholder="sk-ant-api03-…"
+      style="width:100%;padding:10px 12px;border:2px solid var(--border);border-radius:8px;font-size:13px;font-family:monospace;margin-bottom:6px;background:var(--bg-input);color:var(--text)" autocomplete="off">
+    <p style="font-size:11px;color:var(--text-light);margin-bottom:14px;line-height:1.5">Get your key at <a href="https://console.anthropic.com" target="_blank" style="color:var(--blue)">console.anthropic.com</a>. Stored only in this browser — never sent anywhere except Anthropic's API.</p>
+    <button class="modal-close-btn" onclick="saveProfile()" style="margin-top:0">Save profile</button>
+    <button class="modal-close-btn" style="background:var(--border);color:var(--text);margin-top:8px" onclick="closeProfileModal()">Cancel</button>
+  </div>
+</div>
+
+<!-- ═══ CUSTOMIZE BUNNY MODAL ═══ -->
+<div class="modal-overlay" id="customizeModal">
+  <div class="modal" style="max-width:380px">
+    <div class="modal-header">
+      <div id="previewBunnySvg" style="width:70px;height:70px;flex-shrink:0"></div>
+      <div>
+        <div class="modal-title">Customize Lex 🎨</div>
+        <div style="font-size:11px;color:var(--text-light);margin-top:2px">Pick a look for your bunny!</div>
+      </div>
+    </div>
+
+    <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:0.8px;color:var(--text-light);margin-bottom:8px">Fur Color</div>
+    <div class="custom-color-grid" id="furColorGrid"></div>
+
+    <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:0.8px;color:var(--text-light);margin-bottom:8px">Hat</div>
+    <div class="hat-grid" id="hatGrid"></div>
+
+    <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:0.8px;color:var(--text-light);margin-bottom:8px">Accessory</div>
+    <div class="hat-grid" id="accessoryGrid"></div>
+
+    <button class="modal-close-btn" onclick="saveCustomize()">Save Look ✓</button>
+    <button class="modal-close-btn" style="background:var(--border);color:var(--text);margin-top:8px" onclick="closeCustomizeModal()">Cancel</button>
+  </div>
+</div>
+
+<!-- ═══ ADD LAW MODAL ═══ -->
+<div class="modal-overlay" id="addLawModal">
+  <div class="modal" style="max-width:520px">
+    <div class="modal-header"><div class="modal-bunny">⚖️</div><div class="modal-title">Add a law</div></div>
+    <p style="font-size:12px;color:var(--text-light);line-height:1.55;margin-bottom:12px">Describe a real statute, regulation, or ordinance. Claude will use web search to confirm it exists and scan recent news. Nothing is saved until verification passes.</p>
+    <div style="font-size:12px;margin-bottom:10px;padding:8px 10px;background:var(--green-light);border-radius:8px;color:var(--green-dark)">Jurisdiction: <strong id="addLawJurisdiction">—</strong></div>
+    <label style="font-size:11px;font-weight:600;color:var(--text-light);display:block;margin-bottom:4px">Title</label>
+    <input type="text" id="addLawTitle" placeholder="Short name of the law or rule"
+      style="width:100%;padding:10px 12px;border:2px solid var(--border);border-radius:8px;font-size:13px;margin-bottom:10px;background:var(--bg-input);color:var(--text)">
+    <label style="font-size:11px;font-weight:600;color:var(--text-light);display:block;margin-bottom:4px">Citation / subtitle</label>
+    <input type="text" id="addLawSubtitle" placeholder="Code section, bill number, or official name"
+      style="width:100%;padding:10px 12px;border:2px solid var(--border);border-radius:8px;font-size:13px;margin-bottom:10px;background:var(--bg-input);color:var(--text)">
+    <label style="font-size:11px;font-weight:600;color:var(--text-light);display:block;margin-bottom:4px">What it requires (summary)</label>
+    <textarea id="addLawDescription" rows="4" placeholder="Plain-language summary…"
+      style="width:100%;padding:10px 12px;border:2px solid var(--border);border-radius:8px;font-size:13px;margin-bottom:10px;background:var(--bg-input);color:var(--text);font-family:'DM Sans',sans-serif;line-height:1.5"></textarea>
+    <label style="font-size:11px;font-weight:600;color:var(--text-light);display:block;margin-bottom:4px">Official source URL (optional)</label>
+    <input type="url" id="addLawSource" placeholder="https://…"
+      style="width:100%;padding:10px 12px;border:2px solid var(--border);border-radius:8px;font-size:13px;margin-bottom:12px;background:var(--bg-input);color:var(--text)">
+    <div id="addLawResult" style="display:none;margin-bottom:12px;font-size:13px;line-height:1.55;padding:12px;border-radius:10px"></div>
+    <button class="modal-close-btn" id="addLawVerifyBtn" onclick="verifyAndAddLaw()" style="margin-top:0">Verify & add</button>
+    <button class="modal-close-btn" style="background:var(--border);color:var(--text);margin-top:8px" onclick="closeAddLawModal()">Close</button>
+  </div>
+</div>
+
+<!-- ═══ HOSPITAL DETAIL MODAL ═══ -->
+<div class="modal-overlay" id="hospitalModal">
+  <div class="modal" style="max-width:600px;max-height:90vh;overflow-y:auto">
+    <div style="display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:16px">
+      <div style="display:flex;align-items:center;gap:10px">
+        <span style="font-size:28px">🏥</span>
+        <div>
+          <div id="hospModalName" style="font-family:'Cormorant Garamond',Georgia,serif;font-size:21px;font-weight:700;color:var(--text-dark)">Hospital Name</div>
+          <div id="hospModalAddress" style="font-size:12px;color:var(--text-light);margin-top:2px"></div>
+        </div>
+      </div>
+      <button onclick="closeHospitalModal()" style="background:var(--bg-hover);border:none;border-radius:50%;width:32px;height:32px;cursor:pointer;font-size:16px;color:var(--text-light);flex-shrink:0">✕</button>
+    </div>
+    <div id="hospQuickInfo" style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:16px"></div>
+    <div style="display:flex;gap:3px;margin-bottom:14px;background:var(--bg-hover);border-radius:8px;padding:3px" id="hospTabBar">
+      <button class="hosp-tab-btn" data-tab="regulations" onclick="switchHospTab('regulations',this)" style="flex:1;padding:7px 6px;border:none;background:var(--green);color:white;border-radius:6px;font-size:11px;font-weight:500;font-family:'DM Sans',sans-serif;cursor:pointer">📋 Regulations</button>
+      <button class="hosp-tab-btn" data-tab="rights" onclick="switchHospTab('rights',this)" style="flex:1;padding:7px 6px;border:none;background:transparent;color:var(--text-light);border-radius:6px;font-size:11px;font-weight:500;font-family:'DM Sans',sans-serif;cursor:pointer">🛡️ Patient Rights</button>
+      <button class="hosp-tab-btn" data-tab="emergency" onclick="switchHospTab('emergency',this)" style="flex:1;padding:7px 6px;border:none;background:transparent;color:var(--text-light);border-radius:6px;font-size:11px;font-weight:500;font-family:'DM Sans',sans-serif;cursor:pointer">🚨 Emergency</button>
+      <button class="hosp-tab-btn" data-tab="contact" onclick="switchHospTab('contact',this)" style="flex:1;padding:7px 6px;border:none;background:transparent;color:var(--text-light);border-radius:6px;font-size:11px;font-weight:500;font-family:'DM Sans',sans-serif;cursor:pointer">📞 Contact</button>
+    </div>
+    <div id="hospTabContent" style="min-height:120px"></div>
+    <div style="margin-top:14px;padding-top:14px;border-top:1px solid var(--border)">
+      <button onclick="fetchHospitalRegulations()" id="fetchRegBtn"
+        style="width:100%;padding:11px;background:var(--blue-light);border:1.5px solid var(--blue);border-radius:10px;font-size:13px;font-weight:500;color:var(--blue);cursor:pointer;font-family:'DM Sans',sans-serif;display:flex;align-items:center;justify-content:center;gap:8px">
+        🤖 AI: Look Up This Hospital's Regulations
+      </button>
+      <div id="hospAiResult" style="margin-top:10px;display:none"></div>
+    </div>
+    <div style="display:flex;gap:8px;margin-top:12px">
+      <button id="hospDirectionsBtn" onclick="openHospDirections()" style="flex:1;padding:10px;background:var(--green);color:white;border:none;border-radius:8px;font-size:13px;font-weight:500;cursor:pointer;font-family:'DM Sans',sans-serif">🗺️ Directions</button>
+      <button onclick="callHospital()" id="hospCallBtn" style="flex:1;padding:10px;background:var(--bg-hover);border:1.5px solid var(--border);color:var(--text);border-radius:8px;font-size:13px;font-weight:500;cursor:pointer;font-family:'DM Sans',sans-serif">📞 Call</button>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ LAW AUTO-UPDATE PANEL ═══ -->
+<div class="modal-overlay" id="updateModal">
+  <div class="modal" style="max-width:540px">
+    <div class="modal-header">
+      <div class="modal-bunny">🔄</div>
+      <div>
+        <div class="modal-title" data-i18n="update.modalTitle">Auto Law Updater</div>
+        <div style="font-size:11px;color:var(--text-light);margin-top:2px" data-i18n="update.modalTagline">AI-powered legal change detection</div>
+      </div>
+    </div>
+    <div style="background:var(--blue-light);border:1.5px solid var(--blue);border-radius:10px;padding:12px;margin-bottom:14px;font-size:12px;color:var(--blue);line-height:1.6" data-i18n="update.modalBlurb">
+      🤖 Uses <strong>Claude AI + Web Search</strong> to check if laws for your location have changed recently. Scans official government sources and legal news for new legislation, amendments, and repeals.
+    </div>
+    <div style="margin-bottom:14px">
+      <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:0.8px;color:var(--text-light);margin-bottom:8px" data-i18n="update.locLabel">Checking location</div>
+      <div style="padding:10px 14px;background:var(--green-light);border:1.5px solid var(--green-mid);border-radius:8px;font-size:14px;font-weight:500;color:var(--green-dark)" id="updateModalLocation">—</div>
+    </div>
+    <div style="margin-bottom:14px">
+      <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:0.8px;color:var(--text-light);margin-bottom:8px" data-i18n="update.listLabel">Laws to verify</div>
+      <div style="display:flex;flex-direction:column;gap:5px;max-height:160px;overflow-y:auto" id="updateCheckList"></div>
+    </div>
+    <button onclick="runLegalUpdateCheck()" id="runUpdateBtn"
+      style="width:100%;padding:12px;background:var(--green);color:white;border:none;border-radius:10px;font-family:'Cormorant Garamond',Georgia,serif;font-size:18px;font-weight:600;cursor:pointer;margin-bottom:10px"
+      data-i18n="update.runBtn">
+      🔄 Run Update Check Now
+    </button>
+    <div id="updateProgress" style="display:none;margin-bottom:12px">
+      <div style="height:5px;background:var(--border);border-radius:50px;overflow:hidden;margin-bottom:8px">
+        <div id="updateProgressBar" style="height:100%;background:var(--green);border-radius:50px;width:0%;transition:width 0.5s"></div>
+      </div>
+      <div id="updateProgressLabel" style="font-size:12px;color:var(--text-light);text-align:center"></div>
+    </div>
+    <div id="updateResults" style="display:flex;flex-direction:column;gap:8px;max-height:240px;overflow-y:auto"></div>
+    <div style="margin-top:10px;font-size:11px;color:var(--text-light);text-align:center;line-height:1.5" data-i18n="update.disclaimer">⚠️ AI-generated updates are educational only. Always verify with official government sources.</div>
+    <button class="modal-close-btn" style="background:var(--border);color:var(--text);margin-top:10px" onclick="closeUpdateModal()" data-i18n="update.close">Close</button>
+  </div>
+</div>
+
+<!-- ═══ DATA + APP LOGIC ═══ -->
+<script>
+// ═══════════════════════════════════════════════════════
+// LAW BUNNY — GLOBAL LAW & ETIQUETTE DATABASE
+// ═══════════════════════════════════════════════════════
+window.lawsDB = {}; // populated lazily per-country
+
+// ─── LAZY LOADING INFRASTRUCTURE ──────────────────────────────────────────
+var _fetchPromises = {};
+
+function isFileProtocol() {
+  return typeof location !== 'undefined' && location.protocol === 'file:';
+}
+
+function fetchCountry(name) {
+  if (window.lawsDB[name] && window.lawsDB[name].length > 0)
+    return Promise.resolve(window.lawsDB[name]);
+  if (_fetchPromises[name]) return _fetchPromises[name];
+
+  var entry = window.locationIndex &&
+    window.locationIndex.find(function(e) { return e.name === name; });
+  if (!entry) {
+    return Promise.resolve([]);
+  }
+
+  var url = './data/' + entry.file;
+  _fetchPromises[name] = fetch(url)
+    .then(function(r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    })
+    .then(function(data) {
+      window.lawsDB[name] = data.laws || [];
+      // Merge any locally-saved user laws for this country
+      try {
+        var raw = localStorage.getItem('lb-user-laws');
+        if (raw) {
+          var extra = JSON.parse(raw);
+          if (extra && extra[name] && Array.isArray(extra[name])) {
+            window.lawsDB[name] = window.lawsDB[name].concat(extra[name]);
+          }
+        }
+      } catch(e) {}
+      return window.lawsDB[name];
+    })
+    .catch(function(err) {
+      console.warn('fetchCountry failed for', name, err);
+      window.lawsDB[name] = [];
+      return [];
+    });
+
+  return _fetchPromises[name];
+}
+
+function loadLocationIndex() {
+  if (isFileProtocol()) {
+    var warn = document.getElementById('lb-offline-notice');
+    if (warn) warn.style.display = 'block';
+    window.locationIndex = [];
+    return Promise.resolve([]);
+  }
+  return fetch('./data/index.json')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      window.locationIndex = data.map(function(e) {
+        return { name: e.name, lawsFrom: e.name, label: e.name,
+                 file: e.file, slug: e.slug };
+      });
+      return window.locationIndex;
+    })
+    .catch(function(err) {
+      console.error('loadLocationIndex failed', err);
+      window.locationIndex = [];
+      return [];
+    });
+}
+
+// locationIndex populated asynchronously by loadLocationIndex() in initApp()
+window.locationIndex = [];
+
+// Minimal Law Bunny runtime (restored). i18n + scheduled law digest checks; some AI flows still stubbed.
+
+
+var currentLang = "en";
+var LB_STRINGS_EN = {"search.placeholder": "Search laws… (jaywalking, noise, minimum wage…)", "hdr.profile": "Your profile", "hdr.theme": "Toggle dark/light mode", "hdr.settings": "Settings", "banner.need": "AI features need a Claude API key.", "banner.addyours": "Add yours in", "banner.profile": "your profile ↗", "banner.toenable": "to enable Ask Lex, law verification & update checks.", "cat.all": "All Laws", "cat.traffic": "Traffic", "cat.noise": "Noise", "cat.property": "Property", "cat.business": "Business", "cat.environment": "Environment", "cat.alcohol": "Alcohol", "cat.animals": "Animals", "cat.digital": "Digital", "cat.etiquette": "Etiquette", "cat.legal": "Legal", "cat.favorites": "Favorites", "sidebar.guest": "Guest", "sidebar.setup": "Set up your profile with the person icon above.", "profile.traveler": "Traveler", "ai.placeholder": "Ask about any local law or custom…", "loc.choose": "Choose Location", "loc.usegps": "📡 Use My Current Location (GPS)", "loc.switch": "Switch Location →", "loc.gpsNA": "Pick a region from the list, or enable GPS in a secure browser context.", "hospital.placeholder": "Search by city, hospital name, or postcode…", "hero.subtitle": "Local Law Guide", "badge.laws": "📖 {n} Laws", "badge.high": "⚠️ {n} High Severity", "badge.etiq": "🤝 {n} Etiquette Tips", "settings.title": "Settings", "settings.appearance": "🎨 Appearance", "settings.light": "Light Mode", "settings.lightDesc": "Bright, clean interface", "settings.dark": "Dark Mode", "settings.darkDesc": "Easy on the eyes at night", "settings.auto": "System Default", "settings.autoDesc": "Match your OS setting", "settings.language": "🌐 Language", "settings.languageDesc": "Interface only — law text remains in English.", "settings.prefs": "🔔 Preferences", "settings.etiq": "Show Etiquette Tips", "settings.etiqDesc": "Display cultural / social etiquette cards", "settings.highFirst": "Show High Severity First", "settings.highFirstDesc": "Prioritise important laws at the top", "settings.compact": "Compact Card View", "settings.compactDesc": "Smaller cards, more laws visible at once", "settings.about": "📊 About", "settings.api": "🤖 Claude API (optional)", "settings.apiDesc": "Stored only in this browser (localStorage). Required for Ask Lex, hospital AI lookup, update checks, and adding laws.", "settings.save": "Save & Close", "update.modalTitle": "Auto Law Updater", "update.modalTagline": "AI-powered legal change detection", "update.modalBlurb": "🤖 Uses <strong>Claude AI + Web Search</strong> to check if laws for your location have changed recently. Scans official government sources and legal news for new legislation, amendments, and repeals.", "update.locLabel": "Checking location", "update.listLabel": "Laws to verify", "update.runBtn": "🔄 Run Update Check Now", "update.disclaimer": "⚠️ AI-generated updates are educational only. Always verify with official government sources.", "update.close": "Close", "update.chipDefault": "Laws not yet verified", "update.chipBusy": "Checking legal updates…", "update.chipNews": "Review legal update note", "update.bannerTitle": "Legal update check", "update.bannerSub": "Open the banner or Auto Law Updater for details.", "update.apiMissing": "Add a Claude API key in Settings to enable automatic checks.", "update.corsHint": "If the browser blocks the API (CORS), open this page from http://localhost or https."};
+var LB_STRINGS_PARTIAL = {"es": {"search.placeholder": "Buscar leyes… (peatones, ruido, salario mínimo…)", "hdr.profile": "Tu perfil", "hdr.theme": "Modo claro / oscuro", "hdr.settings": "Ajustes", "banner.need": "Las funciones de IA necesitan una clave API de Claude.", "banner.addyours": "Añádela en", "banner.profile": "tu perfil ↗", "banner.toenable": "para Ask Lex, verificación de leyes y comprobaciones de novedades.", "cat.all": "Todas las leyes", "cat.traffic": "Tráfico", "cat.noise": "Ruido", "cat.property": "Propiedad", "cat.business": "Negocios", "cat.environment": "Medio ambiente", "cat.alcohol": "Alcohol", "cat.animals": "Animales", "cat.digital": "Digital", "cat.etiquette": "Etiqueta", "cat.legal": "Legal", "cat.favorites": "Favoritos", "sidebar.guest": "Invitado", "sidebar.setup": "Configura tu perfil con el icono de persona arriba.", "profile.traveler": "Viajero", "ai.placeholder": "Pregunta por una ley o costumbre local…", "loc.choose": "Elegir ubicación", "loc.usegps": "📡 Usar mi ubicación actual (GPS)", "loc.switch": "Cambiar ubicación →", "loc.gpsNA": "Elige una región de la lista o activa el GPS en un contexto seguro del navegador.", "hospital.placeholder": "Buscar por ciudad, hospital o código postal…", "hero.subtitle": "Guía legal local", "badge.laws": "📖 {n} leyes", "badge.high": "⚠️ {n} de alta gravedad", "badge.etiq": "🤝 {n} consejos de etiqueta", "settings.title": "Ajustes", "settings.appearance": "🎨 Apariencia", "settings.light": "Modo claro", "settings.lightDesc": "Interfaz luminosa y limpia", "settings.dark": "Modo oscuro", "settings.darkDesc": "Más descanso para la vista por la noche", "settings.auto": "Predeterminado del sistema", "settings.autoDesc": "Igual que tu sistema operativo", "settings.language": "🌐 Idioma", "settings.languageDesc": "Solo la interfaz — el texto de las leyes sigue en inglés.", "settings.prefs": "🔔 Preferencias", "settings.etiq": "Mostrar consejos de etiqueta", "settings.etiqDesc": "Mostrar tarjetas de etiqueta cultural / social", "settings.highFirst": "Gravedad alta primero", "settings.highFirstDesc": "Priorizar leyes importantes arriba", "settings.compact": "Vista compacta", "settings.compactDesc": "Tarjetas más pequeñas, más leyes visibles", "settings.about": "📊 Acerca de", "settings.api": "🤖 API de Claude (opcional)", "settings.apiDesc": "Solo en este navegador (localStorage). Necesaria para Ask Lex, hospitales con IA, comprobaciones y añadir leyes.", "settings.save": "Guardar y cerrar", "update.modalTitle": "Actualizador automático de leyes", "update.modalTagline": "Detección de cambios legales con IA", "update.modalBlurb": "🤖 Usa <strong>Claude IA + búsqueda web</strong> para ver si las leyes de tu ubicación cambiaron recientemente. Revisa fuentes oficiales y noticias jurídicas.", "update.locLabel": "Ubicación comprobada", "update.listLabel": "Leyes a verificar", "update.runBtn": "🔄 Ejecutar comprobación ahora", "update.disclaimer": "⚠️ Las actualizaciones generadas por IA son solo educativas. Verifica siempre en fuentes gubernamentales oficiales.", "update.close": "Cerrar", "update.chipDefault": "Leyes aún no verificadas", "update.chipBusy": "Comprobando novedades legales…", "update.chipNews": "Revisar nota de actualización legal", "update.bannerTitle": "Comprobación de actualizaciones legales", "update.bannerSub": "Abre el panel Actualizador automático para más detalles.", "update.apiMissing": "Añade una clave API de Claude en Ajustes para activar comprobaciones automáticas.", "update.corsHint": "Si el navegador bloquea la API (CORS), abre esta página desde http://localhost o https."}, "fr": {"search.placeholder": "Rechercher des lois… (piétons, bruit, salaire minimum…)", "hdr.profile": "Your profile", "hdr.theme": "Toggle dark/light mode", "hdr.settings": "Settings", "banner.need": "AI features need a Claude API key.", "banner.addyours": "Add yours in", "banner.profile": "your profile ↗", "banner.toenable": "to enable Ask Lex, law verification & update checks.", "cat.all": "Toutes les lois", "cat.traffic": "Traffic", "cat.noise": "Noise", "cat.property": "Property", "cat.business": "Business", "cat.environment": "Environment", "cat.alcohol": "Alcohol", "cat.animals": "Animals", "cat.digital": "Digital", "cat.etiquette": "Etiquette", "cat.legal": "Legal", "cat.favorites": "Favorites", "sidebar.guest": "Guest", "sidebar.setup": "Set up your profile with the person icon above.", "ai.placeholder": "Ask about any local law or custom…", "loc.choose": "Choisir un lieu", "loc.usegps": "📡 Use My Current Location (GPS)", "loc.switch": "Switch Location →", "loc.gpsNA": "Pick a region from the list, or enable GPS in a secure browser context.", "hospital.placeholder": "Search by city, hospital name, or postcode…", "hero.subtitle": "Guide juridique local", "badge.laws": "📖 {n} Laws", "badge.high": "⚠️ {n} High Severity", "badge.etiq": "🤝 {n} Etiquette Tips", "settings.title": "Paramètres", "settings.appearance": "🎨 Appearance", "settings.light": "Light Mode", "settings.lightDesc": "Bright, clean interface", "settings.dark": "Dark Mode", "settings.darkDesc": "Easy on the eyes at night", "settings.auto": "System Default", "settings.autoDesc": "Match your OS setting", "settings.language": "🌐 Langue", "settings.languageDesc": "Interface only — law text remains in English.", "settings.prefs": "🔔 Preferences", "settings.etiq": "Show Etiquette Tips", "settings.etiqDesc": "Display cultural / social etiquette cards", "settings.highFirst": "Show High Severity First", "settings.highFirstDesc": "Prioritise important laws at the top", "settings.compact": "Compact Card View", "settings.compactDesc": "Smaller cards, more laws visible at once", "settings.about": "📊 About", "settings.api": "🤖 Claude API (optional)", "settings.apiDesc": "Stored only in this browser (localStorage). Required for Ask Lex, hospital AI lookup, update checks, and adding laws.", "settings.save": "Enregistrer et fermer", "update.modalTitle": "Mise à jour automatique des lois", "update.modalTagline": "AI-powered legal change detection", "update.modalBlurb": "🤖 Uses <strong>Claude AI + Web Search</strong> to check if laws for your location have changed recently. Scans official government sources and legal news for new legislation, amendments, and repeals.", "update.locLabel": "Checking location", "update.listLabel": "Laws to verify", "update.runBtn": "🔄 Lancer la vérification", "update.disclaimer": "⚠️ AI-generated updates are educational only. Always verify with official government sources.", "update.close": "Close", "update.chipDefault": "Laws not yet verified", "update.chipBusy": "Checking legal updates…", "update.chipNews": "Review legal update note", "update.bannerTitle": "Legal update check", "update.bannerSub": "Open the banner or Auto Law Updater for details.", "update.apiMissing": "Add a Claude API key in Settings to enable automatic checks.", "update.corsHint": "If the browser blocks the API (CORS), open this page from http://localhost or https."}, "de": {"search.placeholder": "Search laws… (jaywalking, noise, minimum wage…)", "hdr.profile": "Your profile", "hdr.theme": "Toggle dark/light mode", "hdr.settings": "Settings", "banner.need": "AI features need a Claude API key.", "banner.addyours": "Add yours in", "banner.profile": "your profile ↗", "banner.toenable": "to enable Ask Lex, law verification & update checks.", "cat.all": "Alle Gesetze", "cat.traffic": "Traffic", "cat.noise": "Noise", "cat.property": "Property", "cat.business": "Business", "cat.environment": "Environment", "cat.alcohol": "Alcohol", "cat.animals": "Animals", "cat.digital": "Digital", "cat.etiquette": "Etiquette", "cat.legal": "Legal", "cat.favorites": "Favorites", "sidebar.guest": "Guest", "sidebar.setup": "Set up your profile with the person icon above.", "ai.placeholder": "Ask about any local law or custom…", "loc.choose": "Ort wählen", "loc.usegps": "📡 Use My Current Location (GPS)", "loc.switch": "Switch Location →", "loc.gpsNA": "Pick a region from the list, or enable GPS in a secure browser context.", "hospital.placeholder": "Search by city, hospital name, or postcode…", "hero.subtitle": "Lokaler Rechtsleitfaden", "badge.laws": "📖 {n} Laws", "badge.high": "⚠️ {n} High Severity", "badge.etiq": "🤝 {n} Etiquette Tips", "settings.title": "Einstellungen", "settings.appearance": "🎨 Appearance", "settings.light": "Light Mode", "settings.lightDesc": "Bright, clean interface", "settings.dark": "Dark Mode", "settings.darkDesc": "Easy on the eyes at night", "settings.auto": "System Default", "settings.autoDesc": "Match your OS setting", "settings.language": "🌐 Sprache", "settings.languageDesc": "Interface only — law text remains in English.", "settings.prefs": "🔔 Preferences", "settings.etiq": "Show Etiquette Tips", "settings.etiqDesc": "Display cultural / social etiquette cards", "settings.highFirst": "Show High Severity First", "settings.highFirstDesc": "Prioritise important laws at the top", "settings.compact": "Compact Card View", "settings.compactDesc": "Smaller cards, more laws visible at once", "settings.about": "📊 About", "settings.api": "🤖 Claude API (optional)", "settings.apiDesc": "Stored only in this browser (localStorage). Required for Ask Lex, hospital AI lookup, update checks, and adding laws.", "settings.save": "Speichern & Schließen", "update.modalTitle": "Auto Law Updater", "update.modalTagline": "AI-powered legal change detection", "update.modalBlurb": "🤖 Uses <strong>Claude AI + Web Search</strong> to check if laws for your location have changed recently. Scans official government sources and legal news for new legislation, amendments, and repeals.", "update.locLabel": "Checking location", "update.listLabel": "Laws to verify", "update.runBtn": "🔄 Run Update Check Now", "update.disclaimer": "⚠️ AI-generated updates are educational only. Always verify with official government sources.", "update.close": "Close", "update.chipDefault": "Laws not yet verified", "update.chipBusy": "Checking legal updates…", "update.chipNews": "Review legal update note", "update.bannerTitle": "Legal update check", "update.bannerSub": "Open the banner or Auto Law Updater for details.", "update.apiMissing": "Add a Claude API key in Settings to enable automatic checks.", "update.corsHint": "If the browser blocks the API (CORS), open this page from http://localhost or https."}, "ja": {"search.placeholder": "Search laws… (jaywalking, noise, minimum wage…)", "hdr.profile": "Your profile", "hdr.theme": "Toggle dark/light mode", "hdr.settings": "Settings", "banner.need": "AI features need a Claude API key.", "banner.addyours": "Add yours in", "banner.profile": "your profile ↗", "banner.toenable": "to enable Ask Lex, law verification & update checks.", "cat.all": "すべての法律", "cat.traffic": "Traffic", "cat.noise": "Noise", "cat.property": "Property", "cat.business": "Business", "cat.environment": "Environment", "cat.alcohol": "Alcohol", "cat.animals": "Animals", "cat.digital": "Digital", "cat.etiquette": "Etiquette", "cat.legal": "Legal", "cat.favorites": "Favorites", "sidebar.guest": "Guest", "sidebar.setup": "Set up your profile with the person icon above.", "ai.placeholder": "Ask about any local law or custom…", "loc.choose": "地域を選択", "loc.usegps": "📡 Use My Current Location (GPS)", "loc.switch": "Switch Location →", "loc.gpsNA": "Pick a region from the list, or enable GPS in a secure browser context.", "hospital.placeholder": "Search by city, hospital name, or postcode…", "hero.subtitle": "地域の法律ガイド", "badge.laws": "📖 {n} Laws", "badge.high": "⚠️ {n} High Severity", "badge.etiq": "🤝 {n} Etiquette Tips", "settings.title": "設定", "settings.appearance": "🎨 Appearance", "settings.light": "Light Mode", "settings.lightDesc": "Bright, clean interface", "settings.dark": "Dark Mode", "settings.darkDesc": "Easy on the eyes at night", "settings.auto": "System Default", "settings.autoDesc": "Match your OS setting", "settings.language": "🌐 言語", "settings.languageDesc": "Interface only — law text remains in English.", "settings.prefs": "🔔 Preferences", "settings.etiq": "Show Etiquette Tips", "settings.etiqDesc": "Display cultural / social etiquette cards", "settings.highFirst": "Show High Severity First", "settings.highFirstDesc": "Prioritise important laws at the top", "settings.compact": "Compact Card View", "settings.compactDesc": "Smaller cards, more laws visible at once", "settings.about": "📊 About", "settings.api": "🤖 Claude API (optional)", "settings.apiDesc": "Stored only in this browser (localStorage). Required for Ask Lex, hospital AI lookup, update checks, and adding laws.", "settings.save": "保存して閉じる", "update.modalTitle": "Auto Law Updater", "update.modalTagline": "AI-powered legal change detection", "update.modalBlurb": "🤖 Uses <strong>Claude AI + Web Search</strong> to check if laws for your location have changed recently. Scans official government sources and legal news for new legislation, amendments, and repeals.", "update.locLabel": "Checking location", "update.listLabel": "Laws to verify", "update.runBtn": "🔄 Run Update Check Now", "update.disclaimer": "⚠️ AI-generated updates are educational only. Always verify with official government sources.", "update.close": "Close", "update.chipDefault": "Laws not yet verified", "update.chipBusy": "Checking legal updates…", "update.chipNews": "Review legal update note", "update.bannerTitle": "Legal update check", "update.bannerSub": "Open the banner or Auto Law Updater for details.", "update.apiMissing": "Add a Claude API key in Settings to enable automatic checks.", "update.corsHint": "If the browser blocks the API (CORS), open this page from http://localhost or https."}, "zh": {"search.placeholder": "Search laws… (jaywalking, noise, minimum wage…)", "hdr.profile": "Your profile", "hdr.theme": "Toggle dark/light mode", "hdr.settings": "Settings", "banner.need": "AI features need a Claude API key.", "banner.addyours": "Add yours in", "banner.profile": "your profile ↗", "banner.toenable": "to enable Ask Lex, law verification & update checks.", "cat.all": "全部法律", "cat.traffic": "Traffic", "cat.noise": "Noise", "cat.property": "Property", "cat.business": "Business", "cat.environment": "Environment", "cat.alcohol": "Alcohol", "cat.animals": "Animals", "cat.digital": "Digital", "cat.etiquette": "Etiquette", "cat.legal": "Legal", "cat.favorites": "Favorites", "sidebar.guest": "Guest", "sidebar.setup": "Set up your profile with the person icon above.", "ai.placeholder": "Ask about any local law or custom…", "loc.choose": "选择地区", "loc.usegps": "📡 Use My Current Location (GPS)", "loc.switch": "Switch Location →", "loc.gpsNA": "Pick a region from the list, or enable GPS in a secure browser context.", "hospital.placeholder": "Search by city, hospital name, or postcode…", "hero.subtitle": "本地法律指南", "badge.laws": "📖 {n} Laws", "badge.high": "⚠️ {n} High Severity", "badge.etiq": "🤝 {n} Etiquette Tips", "settings.title": "设置", "settings.appearance": "🎨 Appearance", "settings.light": "Light Mode", "settings.lightDesc": "Bright, clean interface", "settings.dark": "Dark Mode", "settings.darkDesc": "Easy on the eyes at night", "settings.auto": "System Default", "settings.autoDesc": "Match your OS setting", "settings.language": "🌐 语言", "settings.languageDesc": "Interface only — law text remains in English.", "settings.prefs": "🔔 Preferences", "settings.etiq": "Show Etiquette Tips", "settings.etiqDesc": "Display cultural / social etiquette cards", "settings.highFirst": "Show High Severity First", "settings.highFirstDesc": "Prioritise important laws at the top", "settings.compact": "Compact Card View", "settings.compactDesc": "Smaller cards, more laws visible at once", "settings.about": "📊 About", "settings.api": "🤖 Claude API (optional)", "settings.apiDesc": "Stored only in this browser (localStorage). Required for Ask Lex, hospital AI lookup, update checks, and adding laws.", "settings.save": "保存并关闭", "update.modalTitle": "Auto Law Updater", "update.modalTagline": "AI-powered legal change detection", "update.modalBlurb": "🤖 Uses <strong>Claude AI + Web Search</strong> to check if laws for your location have changed recently. Scans official government sources and legal news for new legislation, amendments, and repeals.", "update.locLabel": "Checking location", "update.listLabel": "Laws to verify", "update.runBtn": "🔄 Run Update Check Now", "update.disclaimer": "⚠️ AI-generated updates are educational only. Always verify with official government sources.", "update.close": "Close", "update.chipDefault": "Laws not yet verified", "update.chipBusy": "Checking legal updates…", "update.chipNews": "Review legal update note", "update.bannerTitle": "Legal update check", "update.bannerSub": "Open the banner or Auto Law Updater for details.", "update.apiMissing": "Add a Claude API key in Settings to enable automatic checks.", "update.corsHint": "If the browser blocks the API (CORS), open this page from http://localhost or https."}, "pt": {"search.placeholder": "Search laws… (jaywalking, noise, minimum wage…)", "hdr.profile": "Your profile", "hdr.theme": "Toggle dark/light mode", "hdr.settings": "Settings", "banner.need": "AI features need a Claude API key.", "banner.addyours": "Add yours in", "banner.profile": "your profile ↗", "banner.toenable": "to enable Ask Lex, law verification & update checks.", "cat.all": "Todas as leis", "cat.traffic": "Traffic", "cat.noise": "Noise", "cat.property": "Property", "cat.business": "Business", "cat.environment": "Environment", "cat.alcohol": "Alcohol", "cat.animals": "Animals", "cat.digital": "Digital", "cat.etiquette": "Etiquette", "cat.legal": "Legal", "cat.favorites": "Favorites", "sidebar.guest": "Guest", "sidebar.setup": "Set up your profile with the person icon above.", "ai.placeholder": "Ask about any local law or custom…", "loc.choose": "Escolher local", "loc.usegps": "📡 Use My Current Location (GPS)", "loc.switch": "Switch Location →", "loc.gpsNA": "Pick a region from the list, or enable GPS in a secure browser context.", "hospital.placeholder": "Search by city, hospital name, or postcode…", "hero.subtitle": "Guia jurídico local", "badge.laws": "📖 {n} Laws", "badge.high": "⚠️ {n} High Severity", "badge.etiq": "🤝 {n} Etiquette Tips", "settings.title": "Configurações", "settings.appearance": "🎨 Appearance", "settings.light": "Light Mode", "settings.lightDesc": "Bright, clean interface", "settings.dark": "Dark Mode", "settings.darkDesc": "Easy on the eyes at night", "settings.auto": "System Default", "settings.autoDesc": "Match your OS setting", "settings.language": "🌐 Idioma", "settings.languageDesc": "Interface only — law text remains in English.", "settings.prefs": "🔔 Preferences", "settings.etiq": "Show Etiquette Tips", "settings.etiqDesc": "Display cultural / social etiquette cards", "settings.highFirst": "Show High Severity First", "settings.highFirstDesc": "Prioritise important laws at the top", "settings.compact": "Compact Card View", "settings.compactDesc": "Smaller cards, more laws visible at once", "settings.about": "📊 About", "settings.api": "🤖 Claude API (optional)", "settings.apiDesc": "Stored only in this browser (localStorage). Required for Ask Lex, hospital AI lookup, update checks, and adding laws.", "settings.save": "Salvar e fechar", "update.modalTitle": "Auto Law Updater", "update.modalTagline": "AI-powered legal change detection", "update.modalBlurb": "🤖 Uses <strong>Claude AI + Web Search</strong> to check if laws for your location have changed recently. Scans official government sources and legal news for new legislation, amendments, and repeals.", "update.locLabel": "Checking location", "update.listLabel": "Laws to verify", "update.runBtn": "🔄 Run Update Check Now", "update.disclaimer": "⚠️ AI-generated updates are educational only. Always verify with official government sources.", "update.close": "Close", "update.chipDefault": "Laws not yet verified", "update.chipBusy": "Checking legal updates…", "update.chipNews": "Review legal update note", "update.bannerTitle": "Legal update check", "update.bannerSub": "Open the banner or Auto Law Updater for details.", "update.apiMissing": "Add a Claude API key in Settings to enable automatic checks.", "update.corsHint": "If the browser blocks the API (CORS), open this page from http://localhost or https."}, "it": {"search.placeholder": "Search laws… (jaywalking, noise, minimum wage…)", "hdr.profile": "Your profile", "hdr.theme": "Toggle dark/light mode", "hdr.settings": "Settings", "banner.need": "AI features need a Claude API key.", "banner.addyours": "Add yours in", "banner.profile": "your profile ↗", "banner.toenable": "to enable Ask Lex, law verification & update checks.", "cat.all": "Tutte le leggi", "cat.traffic": "Traffic", "cat.noise": "Noise", "cat.property": "Property", "cat.business": "Business", "cat.environment": "Environment", "cat.alcohol": "Alcohol", "cat.animals": "Animals", "cat.digital": "Digital", "cat.etiquette": "Etiquette", "cat.legal": "Legal", "cat.favorites": "Favorites", "sidebar.guest": "Guest", "sidebar.setup": "Set up your profile with the person icon above.", "ai.placeholder": "Ask about any local law or custom…", "loc.choose": "Scegli luogo", "loc.usegps": "📡 Use My Current Location (GPS)", "loc.switch": "Switch Location →", "loc.gpsNA": "Pick a region from the list, or enable GPS in a secure browser context.", "hospital.placeholder": "Search by city, hospital name, or postcode…", "hero.subtitle": "Guida legale locale", "badge.laws": "📖 {n} Laws", "badge.high": "⚠️ {n} High Severity", "badge.etiq": "🤝 {n} Etiquette Tips", "settings.title": "Impostazioni", "settings.appearance": "🎨 Appearance", "settings.light": "Light Mode", "settings.lightDesc": "Bright, clean interface", "settings.dark": "Dark Mode", "settings.darkDesc": "Easy on the eyes at night", "settings.auto": "System Default", "settings.autoDesc": "Match your OS setting", "settings.language": "🌐 Lingua", "settings.languageDesc": "Interface only — law text remains in English.", "settings.prefs": "🔔 Preferences", "settings.etiq": "Show Etiquette Tips", "settings.etiqDesc": "Display cultural / social etiquette cards", "settings.highFirst": "Show High Severity First", "settings.highFirstDesc": "Prioritise important laws at the top", "settings.compact": "Compact Card View", "settings.compactDesc": "Smaller cards, more laws visible at once", "settings.about": "📊 About", "settings.api": "🤖 Claude API (optional)", "settings.apiDesc": "Stored only in this browser (localStorage). Required for Ask Lex, hospital AI lookup, update checks, and adding laws.", "settings.save": "Salva e chiudi", "update.modalTitle": "Auto Law Updater", "update.modalTagline": "AI-powered legal change detection", "update.modalBlurb": "🤖 Uses <strong>Claude AI + Web Search</strong> to check if laws for your location have changed recently. Scans official government sources and legal news for new legislation, amendments, and repeals.", "update.locLabel": "Checking location", "update.listLabel": "Laws to verify", "update.runBtn": "🔄 Run Update Check Now", "update.disclaimer": "⚠️ AI-generated updates are educational only. Always verify with official government sources.", "update.close": "Close", "update.chipDefault": "Laws not yet verified", "update.chipBusy": "Checking legal updates…", "update.chipNews": "Review legal update note", "update.bannerTitle": "Legal update check", "update.bannerSub": "Open the banner or Auto Law Updater for details.", "update.apiMissing": "Add a Claude API key in Settings to enable automatic checks.", "update.corsHint": "If the browser blocks the API (CORS), open this page from http://localhost or https."}};
+
+function getStringPack(lang) {
+  var o = {};
+  var k;
+  for (k in LB_STRINGS_EN) o[k] = LB_STRINGS_EN[k];
+  var extra = LB_STRINGS_PARTIAL[lang];
+  if (extra) for (k in extra) o[k] = extra[k];
+  return o;
+}
+
+function tf(key, vars) {
+  vars = vars || {};
+  var lang = currentLang || "en";
+  var S = getStringPack(lang);
+  var s = S[key] != null ? S[key] : (LB_STRINGS_EN[key] != null ? LB_STRINGS_EN[key] : key);
+  for (var p in vars) s = s.split("{" + p + "}").join(String(vars[p]));
+  return s;
+}
+
+function syncSidebarProfileDisplay() {
+  var sb = document.getElementById("sidebarProfileName");
+  var si = document.getElementById("sidebarProfileIntro");
+  try {
+    var p = JSON.parse(localStorage.getItem("lb-profile") || "{}");
+    var u = (p.username || "").trim();
+    var intro = (p.intro || "").trim();
+    if (sb) {
+      if (u) sb.textContent = u;
+      else if (localStorage.getItem("lb-profile-setup")) sb.textContent = tf("profile.traveler");
+      else sb.textContent = tf("sidebar.guest");
+    }
+    if (si) {
+      if (intro) si.textContent = intro;
+      else si.textContent = tf("sidebar.setup");
+    }
+  } catch (e) {
+    if (sb) sb.textContent = tf("sidebar.guest");
+    if (si) si.textContent = tf("sidebar.setup");
+  }
+}
+
+function applyI18n() {
+  var lang = localStorage.getItem("lb-lang") || "en";
+  currentLang = lang;
+  if (document.documentElement) document.documentElement.setAttribute("lang", lang);
+  var S = getStringPack(lang);
+  document.querySelectorAll("[data-i18n]").forEach(function (el) {
+    var k = el.getAttribute("data-i18n");
+    if (!k || S[k] == null) return;
+    setSafeRichText(el, S[k]);
+  });
+  document.querySelectorAll("[data-i18n-placeholder]").forEach(function (el) {
+    var k = el.getAttribute("data-i18n-placeholder");
+    if (!k || S[k] == null) return;
+    el.setAttribute("placeholder", S[k]);
+  });
+  document.querySelectorAll("[data-i18n-title]").forEach(function (el) {
+    var k = el.getAttribute("data-i18n-title");
+    if (!k || S[k] == null) return;
+    el.setAttribute("title", S[k]);
+    if (el.hasAttribute("aria-label")) el.setAttribute("aria-label", S[k]);
+  });
+  var ls = document.getElementById("langSelect");
+  if (ls) ls.value = lang;
+  syncSidebarProfileDisplay();
+}
+
+function setLanguage(code) {
+  localStorage.setItem("lb-lang", code || "en");
+  applyI18n();
+  renderLaws();
+  syncUpdateModalI18n();
+}
+
+function syncUpdateModalI18n() {
+  var m = document.getElementById("updateModal");
+  if (m && m.classList.contains("open")) applyI18n();
+}
+
+function getAnthropicKey() {
+  var k = (localStorage.getItem("lb-anthropic-key") || "").trim();
+  if (k) return k;
+  var s = document.getElementById("settingsAnthropicKey");
+  return (s && s.value && s.value.trim()) || "";
+}
+
+function updateApiKeyBanner() {
+  var b = document.getElementById("apiKeyBanner");
+  if (!b) return;
+  b.style.display = getAnthropicKey() ? "none" : "flex";
+}
+
+async function anthropicComplete(userPrompt) {
+  var key = getAnthropicKey();
+  if (!key) throw new Error("no_key");
+  var res = await fetch("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: {
+      "content-type": "application/json",
+      "x-api-key": key,
+      "anthropic-version": "2023-06-01",
+    },
+    body: JSON.stringify({
+      model: "claude-haiku-4-5",
+      max_tokens: 1400,
+      messages: [{ role: "user", content: userPrompt }],
+    }),
+  });
+  var raw = await res.text();
+  if (!res.ok) throw new Error("api_" + res.status + ":" + raw.slice(0, 200));
+  var data = JSON.parse(raw);
+  var text = "";
+  (data.content || []).forEach(function (b) {
+    if (b && b.text) text += b.text;
+  });
+  return text;
+}
+
+function extractJsonObject(text) {
+  var a = text.indexOf("{");
+  var b = text.lastIndexOf("}");
+  if (a < 0 || b <= a) return null;
+  try {
+    return JSON.parse(text.slice(a, b + 1));
+  } catch (e) {
+    return null;
+  }
+}
+
+function setUpdateChip(mode, detail) {
+  var dot = document.getElementById("updateDot");
+  var lab = document.getElementById("updateChipLabel");
+  if (dot) {
+    dot.style.background = mode === "news" ? "#E67E22" : mode === "busy" ? "#3498DB" : "#7F8C8D";
+  }
+  if (lab) {
+    if (mode === "busy") lab.textContent = tf("update.chipBusy");
+    else if (mode === "news") lab.textContent = tf("update.chipNews");
+    else lab.textContent = tf("update.chipDefault");
+  }
+  if (detail && lab && mode === "news") lab.title = detail;
+}
+
+async function runLawDigestForLocation(loc, sampleTitles) {
+  var prompt =
+    "You help travelers stay aware of legal changes. Jurisdiction: " +
+    loc +
+    ". Sample of current in-app law card titles (English): " +
+    JSON.stringify(sampleTitles.slice(0, 35)) +
+    ". Reply with ONLY valid JSON (no markdown) in this shape: " +
+    '{"changed":boolean,"summary":string,"bullets":string[],"severity":"none|low|medium|high"}' +
+    ". Use your knowledge and typical official sources; if unsure, set changed false and explain briefly in summary.";
+  var txt = await anthropicComplete(prompt);
+  return extractJsonObject(txt) || { changed: false, summary: txt.slice(0, 400), bullets: [], severity: "none" };
+}
+
+async function performLegalUpdateCheck(showBanner) {
+  var key = getAnthropicKey();
+  if (!key) {
+    if (showBanner) alert(tf("update.apiMissing"));
+    setUpdateChip("idle", "");
+    return null;
+  }
+  setUpdateChip("busy", "");
+  var list = getLawList();
+  var titles = list.map(function (L) {
+    return L.title;
+  });
+  try {
+    var r = await runLawDigestForLocation(currentLocation, titles);
+    var when = new Date().toISOString();
+    localStorage.setItem("lb-law-update-last", when);
+    localStorage.setItem("lb-law-update-cache", JSON.stringify({ when: when, loc: currentLocation, result: r }));
+    if (r && r.changed) {
+      setUpdateChip("news", r.summary || "");
+      if (showBanner) {
+        var ban = document.getElementById("updateBanner");
+        var bt = document.getElementById("updateBannerTitle");
+        var bs = document.getElementById("updateBannerSub");
+        if (ban) ban.style.display = "flex";
+        if (bt) bt.textContent = tf("update.bannerTitle");
+        if (bs) bs.textContent = (r.summary || "") + (r.bullets && r.bullets.length ? " — " + r.bullets.join(" · ") : "");
+      }
+    } else {
+      setUpdateChip("idle", "");
+    }
+    return r;
+  } catch (e) {
+    setUpdateChip("idle", "");
+    if (showBanner) {
+      var msg = String(e && e.message ? e.message : e);
+      if (msg.indexOf("Failed to fetch") >= 0 || msg.indexOf("NetworkError") >= 0)
+        alert(tf("update.corsHint"));
+      else alert(msg);
+    }
+    return null;
+  }
+}
+
+var __lawUpdateTimer = null;
+
+function scheduleAutoLawRefresh() {
+  if (__lawUpdateTimer) clearInterval(__lawUpdateTimer);
+  var hours = parseFloat(localStorage.getItem("lb-auto-update-hours") || "12", 10);
+  if (!hours || hours < 2) hours = 12;
+  var ms = hours * 3600000;
+  __lawUpdateTimer = setInterval(function () {
+    if (!getAnthropicKey()) return;
+    performLegalUpdateCheck(true);
+  }, ms);
+  var last = localStorage.getItem("lb-law-update-last");
+  if (!last || Date.now() - Date.parse(last) > ms) {
+    if (getAnthropicKey()) performLegalUpdateCheck(true);
+  }
+}
+function mergeStoredUserLaws() {
+  try {
+    var raw = localStorage.getItem("lb-user-laws");
+    if (!raw || !window.lawsDB) return;
+    var extra = JSON.parse(raw);
+    if (!extra || typeof extra !== "object") return;
+    Object.keys(extra).forEach(function (k) {
+      if (!window.lawsDB[k] || !Array.isArray(extra[k])) return;
+      window.lawsDB[k] = window.lawsDB[k].concat(extra[k]);
+    });
+  } catch (e) {}
+}
+
+var currentLocation = "California, USA";
+var currentCat = "all";
+var currentTab = "browse";
+var favorites = {};
+
+function loadFavorites() {
+  try {
+    favorites = JSON.parse(localStorage.getItem("lb-favorites") || "{}") || {};
+  } catch (e) {
+    favorites = {};
+  }
+}
+
+function saveFavorites() {
+  localStorage.setItem("lb-favorites", JSON.stringify(favorites));
+}
+
+function getLawList() {
+  var arr = window.lawsDB && window.lawsDB[currentLocation];
+  return Array.isArray(arr) ? arr : [];
+}
+
+function lawMatchesSearch(L, q) {
+  if (!q) return true;
+  q = q.toLowerCase();
+  return (
+    String(L.title || "")
+      .toLowerCase()
+      .indexOf(q) >= 0 ||
+    String(L.subtitle || "")
+      .toLowerCase()
+      .indexOf(q) >= 0 ||
+    String(L.fullDescription || "")
+      .toLowerCase()
+      .indexOf(q) >= 0
+  );
+}
+
+function getFilteredLaws() {
+  var q = (document.getElementById("searchInput") && document.getElementById("searchInput").value) || "";
+  return getLawList().filter(function (L) {
+    if (!lawMatchesSearch(L, q)) return false;
+    if (currentCat === "favorites") return !!favorites[L.id];
+    if (currentCat === "all") return true;
+    return String(L.category || "").toLowerCase() === currentCat;
+  });
+}
+
+function esc(s) {
+  return String(s == null ? "" : s)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+function setSafeRichText(el, raw) {
+  el.textContent = "";
+  var s = String(raw == null ? "" : raw);
+  var re = /<strong>|<\/strong>/gi;
+  var last = 0;
+  var strong = false;
+  var m;
+  function append(text, asStrong) {
+    if (!text) return;
+    if (asStrong) {
+      var b = document.createElement("strong");
+      b.textContent = text;
+      el.appendChild(b);
+    } else {
+      el.appendChild(document.createTextNode(text));
+    }
+  }
+  while ((m = re.exec(s))) {
+    append(s.slice(last, m.index), strong);
+    strong = m[0].toLowerCase() === "<strong>";
+    last = m.index + m[0].length;
+  }
+  append(s.slice(last), strong);
+}
+
+function lawIdNum(id) {
+  var n = Number(id);
+  return Number.isInteger(n) ? n : null;
+}
+
+function renderLaws() {
+  var grid = document.getElementById("lawGrid");
+  if (!grid) return;
+  var list = getFilteredLaws();
+  grid.innerHTML = list
+    .map(function (L) {
+      var fav = favorites[L.id] ? "❤️" : "🤍";
+      return (
+        '<article class="law-card" data-id="' +
+        esc(L.id) +
+        '">' +
+        '<div class="law-card-head"><span class="law-icon">' +
+        esc(L.icon) +
+        '</span><div class="law-card-titles"><div class="law-title">' +
+        esc(L.title) +
+        '</div><div class="law-sub">' +
+        esc(L.subtitle) +
+        '</div></div><button type="button" class="fav-btn"' +
+        (lawIdNum(L.id) == null ? "" : ' onclick="toggleFav(' + lawIdNum(L.id) + ')"') +
+        '>' +
+        fav +
+        "</button></div>" +
+        '<p class="law-desc">' +
+        esc(L.fullDescription).slice(0, 420) +
+        (String(L.fullDescription || "").length > 420 ? "…" : "") +
+        "</p>" +
+        "</article>"
+      );
+    })
+    .join("");
+  updateBadges();
+  updateCategoryCounts();
+}
+
+function toggleFav(id) {
+  if (favorites[id]) delete favorites[id];
+  else favorites[id] = true;
+  saveFavorites();
+  renderLaws();
+}
+
+function updateBadges() {
+  var all = getLawList();
+  var hi = all.filter(function (L) {
+    return String(L.severity || "").toLowerCase() === "high";
+  }).length;
+  var et = all.filter(function (L) {
+    return String(L.category || "").toLowerCase() === "etiquette" || String(L.category || "").toLowerCase() === "info";
+  }).length;
+  var hb = document.getElementById("heroBadgeLaws");
+  var hh = document.getElementById("heroBadgeHigh");
+  var he = document.getElementById("heroBadgeEtiq");
+  if (hb) hb.textContent = tf("badge.laws", { n: all.length });
+  if (hh) hh.textContent = tf("badge.high", { n: hi });
+  if (he) he.textContent = tf("badge.etiq", { n: et });
+}
+
+function updateCategoryCounts() {
+  var all = getLawList();
+  function c(cat) {
+    if (cat === "all") return all.length;
+    if (cat === "favorites")
+      return all.filter(function (L) {
+        return favorites[L.id];
+      }).length;
+    return all.filter(function (L) {
+      return String(L.category || "").toLowerCase() === cat;
+    }).length;
+  }
+  ["all", "traffic", "noise", "property", "business", "environment", "alcohol", "animals", "digital", "etiquette", "legal", "favorites"].forEach(function (cat) {
+    var el = document.getElementById("cnt-" + cat);
+    if (el) el.textContent = String(c(cat));
+  });
+}
+
+function filterLaws() {
+  renderLaws();
+}
+
+function filterCat(cat, btn) {
+  currentCat = cat;
+  document.querySelectorAll(".cat-btn").forEach(function (b) {
+    b.classList.remove("active");
+  });
+  if (btn) btn.classList.add("active");
+  renderLaws();
+}
+
+function switchTab(tab, el) {
+  currentTab = tab;
+  document.querySelectorAll(".tab-btn").forEach(function (b) {
+    b.classList.remove("active");
+  });
+  if (el) el.classList.add("active");
+  var hp = document.getElementById("hospitalPanel");
+  var grid = document.getElementById("lawGrid");
+  if (hp && grid) {
+    if (tab === "hospitals") {
+      hp.style.display = "block";
+      grid.style.display = "none";
+    } else {
+      hp.style.display = "none";
+      grid.style.display = "";
+    }
+  }
+  renderLaws();
+}
+
+function nextLotd() {
+  var list = getLawList();
+  if (!list.length) return;
+  var L = list[Math.floor(Math.random() * list.length)];
+  var t = document.getElementById("lotdTitle");
+  var d = document.getElementById("lotdDesc");
+  var loc = document.getElementById("lotdLocation");
+  if (t) t.textContent = L.icon + " " + L.title;
+  if (d) d.textContent = L.fullDescription || "";
+  if (loc) loc.textContent = currentLocation;
+}
+
+function openLocModal() {
+  var m = document.getElementById("locModal");
+  if (m) m.classList.add("open");
+  renderLocResults("");
+}
+
+function closeLocModal() {
+  var m = document.getElementById("locModal");
+  if (m) m.classList.remove("open");
+}
+
+function renderLocResults(q) {
+  q = (q || "").toLowerCase();
+  var idx = window.locationIndex || [];
+  var filtered = idx.filter(function (row) {
+    var name = row.name || row.label || "";
+    return !q || String(name).toLowerCase().indexOf(q) >= 0;
+  });
+  var box = document.getElementById("locResults");
+  var cnt = document.getElementById("locCount");
+  if (cnt) cnt.textContent = String(filtered.length);
+  if (!box) return;
+  box.innerHTML = filtered
+    .map(function (row) {
+      var name = row.name || row.label || "";
+      var enc = encodeURIComponent(name);
+      return (
+        '<button type="button" class="loc-row" data-loc="' +
+        enc +
+        '" onclick="selectLocation(decodeURIComponent(this.dataset.loc))" style="text-align:left;padding:8px 10px;border:1px solid var(--border);border-radius:8px;background:var(--bg-card);cursor:pointer;font-size:13px">' +
+        esc(name) +
+        "</button>"
+      );
+    })
+    .join("");
+}
+
+function selectLocation(name) {
+  currentLocation = name;
+  localStorage.setItem("lb-location", name);
+  var lab = document.getElementById("locationLabel");
+  if (lab) lab.textContent = name;
+  var hero = document.getElementById("heroBannerTitle");
+  if (hero) hero.textContent = "\ud83d\udccd " + name + " \u2014 " + tf("hero.subtitle");
+  closeLocModal();
+  // Show loading placeholder while country JSON fetches
+  var lawsList = document.getElementById("lawsList");
+  if (lawsList && (!window.lawsDB[name] || window.lawsDB[name].length === 0)) {
+    lawsList.innerHTML = '<p style="text-align:center;padding:2rem 1rem;opacity:.55">'
+      + 'Loading laws for ' + esc(name) + '\u2026</p>';
+  }
+  fetchCountry(name).then(function() {
+    if (currentLocation === name) { renderLaws(); nextLotd(); }
+  });
+}
+
+function useMyLocation() {
+  var g = document.getElementById("gpsStatus");
+  if (g) g.textContent = tf("loc.gpsNA");
+}
+
+function toggleTheme() {
+  var h = document.documentElement;
+  var d = h.getAttribute("data-theme") === "dark";
+  setTheme(d ? "light" : "dark");
+}
+
+function setTheme(mode) {
+  if (mode === "auto") {
+    var dark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    mode = dark ? "dark" : "light";
+  }
+  document.documentElement.setAttribute("data-theme", mode === "dark" ? "dark" : "light");
+  localStorage.setItem("lb-theme", mode);
+  var b = document.getElementById("themeToggleBtn");
+  if (b) b.querySelector("span").textContent = mode === "dark" ? "☀️" : "🌙";
+}
+
+function openSettings() {
+  var m = document.getElementById("settingsModal");
+  if (m) m.classList.add("open");
+  var inp = document.getElementById("settingsAnthropicKey");
+  if (inp) inp.value = localStorage.getItem("lb-anthropic-key") || "";
+  var ls = document.getElementById("langSelect");
+  if (ls) ls.value = localStorage.getItem("lb-lang") || "en";
+  applyI18n();
+}
+
+function closeSettings() {
+  var m = document.getElementById("settingsModal");
+  if (m) m.classList.remove("open");
+  var inp = document.getElementById("settingsAnthropicKey");
+  if (inp) localStorage.setItem("lb-anthropic-key", inp.value.trim());
+  var ls = document.getElementById("langSelect");
+  if (ls) setLanguage(ls.value || "en");
+  else applyI18n();
+  updateApiKeyBanner();
+  scheduleAutoLawRefresh();
+}
+
+function openProfileModal() {
+  var m = document.getElementById("profileModal");
+  if (m) m.classList.add("open");
+  try {
+    var p = JSON.parse(localStorage.getItem("lb-profile") || "{}");
+    var u = document.getElementById("profileUsername");
+    var pw = document.getElementById("profilePassword");
+    var intro = document.getElementById("profileIntro");
+    var ak = document.getElementById("profileApiKey");
+    if (u) u.value = p.username || "";
+    if (pw) pw.value = p.password || "";
+    if (intro) intro.value = p.intro || "";
+    if (ak) ak.value = localStorage.getItem("lb-anthropic-key") || p.apiKey || "";
+  } catch (e) {}
+}
+
+function closeProfileModal() {
+  var m = document.getElementById("profileModal");
+  if (m) m.classList.remove("open");
+}
+
+function saveProfile() {
+  var u = document.getElementById("profileUsername");
+  var pw = document.getElementById("profilePassword");
+  var intro = document.getElementById("profileIntro");
+  var ak = document.getElementById("profileApiKey");
+  var key = (ak && ak.value.trim()) || "";
+  if (key) localStorage.setItem("lb-anthropic-key", key);
+  var obj = {
+    username: (u && u.value) || "",
+    password: (pw && pw.value) || "",
+    intro: (intro && intro.value) || "",
+  };
+  localStorage.setItem("lb-profile", JSON.stringify(obj));
+  localStorage.setItem("lb-profile-setup", "1");
+  closeProfileModal();
+  syncSidebarProfileDisplay();
+}
+
+function openCustomizeModal() {}
+function closeCustomizeModal() {}
+function saveCustomize() {}
+
+function openAddLawModal() {
+  alert("Add-law flow needs the full app script. Add an API key in Settings for when restored.");
+}
+function closeAddLawModal() {}
+function verifyAndAddLaw() {}
+
+function askLex() {
+  alert("Ask Lex needs a Claude API key in Settings and the full Claude integration script.");
+}
+
+function checkLegalUpdates() {
+  performLegalUpdateCheck(true);
+}
+
+function syncUpdateModalLocation() {
+  var el = document.getElementById("updateModalLocation");
+  if (el) el.textContent = currentLocation;
+}
+
+function fillUpdateChecklistTitles() {
+  var box = document.getElementById("updateCheckList");
+  if (!box) return;
+  var list = getLawList().slice(0, 60);
+  box.innerHTML = list
+    .map(function (L) {
+      return (
+        '<div style="padding:6px 8px;border:1px solid var(--border);border-radius:6px;font-size:12px">' +
+        esc(L.title) +
+        "</div>"
+      );
+    })
+    .join("");
+}
+
+function showUpdatePanel() {
+  var m = document.getElementById("updateModal");
+  if (!m) return;
+  m.classList.add("open");
+  applyI18n();
+  syncUpdateModalLocation();
+  fillUpdateChecklistTitles();
+}
+
+function closeUpdateModal() {
+  var m = document.getElementById("updateModal");
+  if (m) m.classList.remove("open");
+}
+
+async function runLegalUpdateCheck() {
+  var prog = document.getElementById("updateProgress");
+  var bar = document.getElementById("updateProgressBar");
+  var plab = document.getElementById("updateProgressLabel");
+  var resBox = document.getElementById("updateResults");
+  if (prog) prog.style.display = "block";
+  if (bar) bar.style.width = "15%";
+  if (plab) plab.textContent = tf("update.chipBusy");
+  if (resBox) resBox.innerHTML = "";
+  syncUpdateModalLocation();
+  fillUpdateChecklistTitles();
+  try {
+    var r = await performLegalUpdateCheck(false);
+    if (bar) bar.style.width = "100%";
+    if (plab) plab.textContent = "";
+    if (resBox && r) {
+      var sev = (r.severity && String(r.severity)) || "none";
+      var bullets = (r.bullets || []).map(function (b) {
+        return "<li>" + esc(b) + "</li>";
+      }).join("");
+      resBox.innerHTML =
+        '<div style="padding:10px;border-radius:8px;background:var(--bg-card);border:1px solid var(--border);font-size:13px;line-height:1.5">' +
+        "<div style=\"font-weight:600;margin-bottom:6px\">" +
+        esc(currentLocation) +
+        "</div>" +
+        "<p>" +
+        esc(r.summary || "") +
+        "</p>" +
+        (bullets ? "<ul style=\"margin:8px 0 0 18px\">" + bullets + "</ul>" : "") +
+        '<p style="font-size:11px;color:var(--text-light);margin-top:8px">' +
+        esc(tf("update.disclaimer")) +
+        "</p></div>";
+    }
+  } catch (e) {
+    if (bar) bar.style.width = "0%";
+    if (plab) plab.textContent = "";
+  }
+  if (prog) setTimeout(function () { prog.style.display = "none"; }, 600);
+}
+
+function searchHospitals() {}
+function findNearbyHospitals() {}
+function closeHospitalModal() {}
+function switchHospTab() {}
+function fetchHospitalRegulations() {}
+function openHospDirections() {}
+function callHospital() {}
+
+function closeQuiz() {}
+
+function initApp() {
+  loadFavorites();
+  applyI18n();
+  var th = localStorage.getItem("lb-theme");
+  if (th) setTheme(th);
+  updateApiKeyBanner();
+  scheduleAutoLawRefresh();
+  if (!localStorage.getItem("lb-profile-setup")) openProfileModal();
+  // Load country list, then navigate to starting location
+  loadLocationIndex().then(function() {
+    renderLocResults(""); // refresh picker with fetched list
+    var saved = localStorage.getItem("lb-location");
+    var startLoc = (saved && window.locationIndex.find(function(e) { return e.name === saved; }))
+      ? saved
+      : (window.locationIndex.length ? window.locationIndex[0].name : "California, USA");
+    selectLocation(startLoc);
+  });
+}
+
+if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", initApp);
+else initApp();
+
+/* ═══════════════════════════════════════════════════════════════
+   GLOBAL SEARCH — searches law titles/subtitles/descriptions
+   across all cached + on-demand jurisdiction JSONs
+═══════════════════════════════════════════════════════════════ */
+
+var gsDebounceTimer = null;
+var gsCurrentQuery = "";
+var gsFetchQueue = {}; // track in-flight fetches to avoid duplicates
+
+function gsOnInput(val) {
+  gsCurrentQuery = (val || "").trim();
+  clearTimeout(gsDebounceTimer);
+  var box = document.getElementById("globalSearchResults");
+  if (!gsCurrentQuery) {
+    if (box) { box.innerHTML = ""; box.classList.remove("open"); }
+    return;
+  }
+  gsDebounceTimer = setTimeout(function() { gsSearch(gsCurrentQuery); }, 260);
+}
+
+function gsOnKeydown(e) {
+  if (e.key === "Escape") {
+    gsOnInput("");
+    document.getElementById("globalSearchInput").value = "";
+  }
+}
+
+function gsSearch(q) {
+  if (q !== gsCurrentQuery) return;
+  var box = document.getElementById("globalSearchResults");
+  if (!box) return;
+
+  var terms = q.toLowerCase().split(/\s+/).filter(Boolean);
+
+  // 1. Search already-loaded law databases in memory
+  var inMemResults = [];
+  Object.keys(window.lawsDB || {}).forEach(function(locName) {
+    var laws = window.lawsDB[locName] || [];
+    laws.forEach(function(L) {
+      var haystack = [L.title, L.subtitle, L.fullDescription, L.category, L.penalty].join(" ").toLowerCase();
+      if (terms.every(function(t) { return haystack.indexOf(t) >= 0; })) {
+        inMemResults.push({ law: L, loc: locName });
+      }
+    });
+  });
+  inMemResults = inMemResults.slice(0, 40);
+
+  // 2. Search jurisdiction names in index for term matches (for quick jurisdiction filter)
+  var idxMatches = (window.locationIndex || []).filter(function(row) {
+    return terms.some(function(t) { return (row.name || "").toLowerCase().indexOf(t) >= 0; });
+  }).slice(0, 8);
+
+  gsRenderResults(inMemResults, idxMatches, q, box);
+
+  // 3. Fetch top matching jurisdictions not yet loaded, then re-render
+  var toFetch = idxMatches.filter(function(row) {
+    return !window.lawsDB[row.name] && !gsFetchQueue[row.name];
+  }).slice(0, 3);
+
+  toFetch.forEach(function(row) {
+    gsFetchQueue[row.name] = true;
+    fetchCountry(row.name).then(function() {
+      delete gsFetchQueue[row.name];
+      if (q === gsCurrentQuery) gsSearch(q); // re-render with new data
+    });
+  });
+}
+
+function gsResultItem(icon, title, sub, locLine) {
+  var item = document.createElement("div");
+  item.className = "gs-result-item";
+  item.setAttribute("role", "option");
+  var ic = document.createElement("span");
+  ic.className = "gs-result-icon";
+  ic.textContent = icon;
+  var body = document.createElement("div");
+  body.className = "gs-result-body";
+  var t = document.createElement("div");
+  t.className = "gs-result-title";
+  t.textContent = title;
+  var s = document.createElement("div");
+  s.className = "gs-result-sub";
+  s.textContent = sub;
+  body.appendChild(t);
+  body.appendChild(s);
+  if (locLine) body.appendChild(locLine);
+  item.appendChild(ic);
+  item.appendChild(body);
+  return item;
+}
+
+function gsRenderResults(lawMatches, idxMatches, q, box) {
+  box.textContent = "";
+  if (!lawMatches.length && !idxMatches.length) {
+    var empty = document.createElement("div");
+    empty.className = "gs-no-results";
+    empty.appendChild(document.createTextNode('No results for "'));
+    var strong = document.createElement("strong");
+    strong.textContent = q;
+    empty.appendChild(strong);
+    empty.appendChild(document.createTextNode('"'));
+    empty.appendChild(document.createElement("br"));
+    var hint = document.createElement("span");
+    hint.style.fontSize = "12px";
+    hint.style.opacity = "0.7";
+    hint.textContent = "Try a broader term or jurisdiction name";
+    empty.appendChild(hint);
+    box.appendChild(empty);
+    box.classList.add("open");
+    return;
+  }
+
+  if (idxMatches.length) {
+    var jump = document.createElement("div");
+    jump.className = "gs-region-header";
+    jump.textContent = "📍 Jump to jurisdiction";
+    box.appendChild(jump);
+    idxMatches.forEach(function(row) {
+      var item = gsResultItem("🌍", row.name || "", "Browse all laws for this jurisdiction", null);
+      item.addEventListener("click", function() { gsGoLocation(row.name || ""); });
+      box.appendChild(item);
+    });
+  }
+
+  if (lawMatches.length) {
+    var head = document.createElement("div");
+    head.className = "gs-region-header";
+    head.textContent = '⚖️ Laws matching "' + q + '"';
+    box.appendChild(head);
+    lawMatches.forEach(function(item) {
+      var L = item.law;
+      var sevColor = L.severity === "critical" ? "#E74C3C" : L.severity === "high" ? "#E67E22" : L.severity === "medium" ? "#F39C12" : "#27AE60";
+      var locLine = document.createElement("div");
+      locLine.className = "gs-result-loc";
+      locLine.appendChild(document.createTextNode((item.loc || "") + " · "));
+      var sev = document.createElement("span");
+      sev.style.color = sevColor;
+      sev.textContent = L.severity || "";
+      locLine.appendChild(sev);
+      var row = gsResultItem(L.icon || "⚖️", L.title || "", String(L.subtitle || "").slice(0, 80), locLine);
+      var idNum = lawIdNum(L.id);
+      if (idNum != null) {
+        row.addEventListener("click", function() { gsGoLaw(item.loc, idNum); });
+      }
+      box.appendChild(row);
+    });
+  }
+
+  box.classList.add("open");
+}
+
+function gsGoLocation(name) {
+  document.getElementById("globalSearchInput").value = "";
+  document.getElementById("globalSearchResults").classList.remove("open");
+  gsCurrentQuery = "";
+  selectLocation(name);
+  document.getElementById("mainContent").scrollIntoView({ behavior: "smooth" });
+}
+
+function gsGoLaw(locName, lawId) {
+  document.getElementById("globalSearchInput").value = "";
+  document.getElementById("globalSearchResults").classList.remove("open");
+  gsCurrentQuery = "";
+  selectLocation(locName);
+  // After load, highlight the card
+  fetchCountry(locName).then(function() {
+    setTimeout(function() {
+      var card = document.querySelector('[data-id="' + lawId + '"]');
+      if (card) {
+        card.scrollIntoView({ behavior: "smooth", block: "center" });
+        card.style.outline = "3px solid var(--green)";
+        card.style.borderRadius = "16px";
+        setTimeout(function() { card.style.outline = ""; }, 2600);
+      }
+    }, 500);
+  });
+}
+
+// Close search results when clicking outside
+document.addEventListener("click", function(e) {
+  var wrap = document.querySelector(".global-search-wrap");
+  if (wrap && !wrap.contains(e.target)) {
+    var box = document.getElementById("globalSearchResults");
+    if (box) box.classList.remove("open");
+  }
+});
+
+
+/* ═══════════════════════════════════════════════════════════════
+   BUNNY BOT — Claude-powered chatbot with Law Bunny database
+   System prompt encodes the full database identity from this session
+═══════════════════════════════════════════════════════════════ */
+
+var botOpen = false;
+var botHistory = []; // {role, content} array for multi-turn
+var botBusy = false;
+var botWelcomed = false;
+
+var BUNNY_BOT_SYSTEM = [
+  "You are Law Bunny Bot 🐰, a friendly, precise, and witty AI assistant built into the Law Bunny app.",
+  "You have deep knowledge of the Law Bunny database: 284 jurisdictions covering 196 countries, all 50 US states + DC, 13 Canadian provinces/territories, 8 Australian states/territories, and all 16 German federal states (Länder) — the last added June 2026.",
+  "The 16 German Länder in the database with their law ID ranges: Baden-Württemberg (41226–41300), Bavaria (41301–41375), Berlin (41376–41450), Brandenburg (41451–41525), Bremen (41526–41600), Hamburg (41601–41675), Hesse (41676–41750), Mecklenburg-Vorpommern (41751–41825), Lower Saxony (41826–41900), North Rhine-Westphalia (41901–41975), Rhineland-Palatinate (41976–42050), Saarland (42051–42125), Saxony (42126–42200), Saxony-Anhalt (42201–42275), Schleswig-Holstein (42276–42350), Thuringia (42351–42425).",
+  "Each jurisdiction has 75–125 laws covering categories: Constitutional Law, Criminal Law, Traffic Law, Tax Law, Environmental Law, Labor Law, Data Protection Law, Cultural Heritage Law, Social Law, Administrative Law, Energy Law, Media Law, Nature Conservation Law, Consumer Protection Law, and more.",
+  "Laws include: title, subtitle, full description, penalty, exceptions, source, quiz question with 4 options.",
+  "The app is a static GitHub Pages site using lazy-loading JSON. Total database: ~22,000 laws across 284 jurisdictions.",
+  "Your role: Answer questions about laws in any of these 284 jurisdictions. When the user provides relevant laws from the database as context, use them to give precise, sourced answers.",
+  "Always add a short disclaimer that your answers are educational only and users should consult a lawyer for specific advice.",
+  "Keep answers concise, clear, and engaging. Use emoji sparingly. Never make up law citations — if unsure, say so.",
+].join(" ");
+
+function toggleBunnyBot() {
+  botOpen = !botOpen;
+  var panel = document.getElementById("bunnyBotPanel");
+  if (panel) panel.classList.toggle("open", botOpen);
+  if (botOpen && !botWelcomed) {
+    botWelcomed = true;
+    setTimeout(function() { botAddMessage("bot", botWelcomeMsg()); }, 300);
+  }
+  if (botOpen) {
+    var badge = document.getElementById("botBadge");
+    if (badge) badge.style.display = "none";
+    setTimeout(function() {
+      var inp = document.getElementById("botInput");
+      if (inp) inp.focus();
+    }, 320);
+  }
+  checkBotKeyState();
+}
+
+function botWelcomeMsg() {
+  var loc = (typeof currentLocation !== "undefined" && currentLocation) ? currentLocation : "your current location";
+  return "Hi! I'm Law Bunny Bot. I can search the jurisdictions in this guide, including the German states, US states, and countries already loaded.<br><br>"
+    + "You're currently browsing <strong>" + esc(loc) + "</strong>. Ask me anything:<br>"
+    + "<em>\"What's the jaywalking penalty in Germany?\"</em><br>"
+    + "<em>\"Which US states ban open carry?\"</em><br>"
+    + "<em>\"Explain GDPR fines in Thuringia\"</em>";
+}
+
+function checkBotKeyState() {
+  var noKey = document.getElementById("botNoKey");
+  var send = document.getElementById("botSend");
+  var hasKey = !!getAnthropicKey();
+  if (noKey) noKey.style.display = hasKey ? "none" : "flex";
+  if (send) send.disabled = !hasKey || botBusy;
+}
+
+function botAutoResize(ta) {
+  ta.style.height = "auto";
+  ta.style.height = Math.min(ta.scrollHeight, 100) + "px";
+}
+
+function botInputKeydown(e) {
+  if (e.key === "Enter" && !e.shiftKey) {
+    e.preventDefault();
+    botSendMessage();
+  }
+}
+
+function botAddMessage(role, html, sourceChips) {
+  var messages = document.getElementById("botMessages");
+  if (!messages) return;
+  var isBot = role === "bot";
+  var div = document.createElement("div");
+  div.className = "bot-msg " + role;
+  var avatarHtml = isBot
+    ? '<span class="bot-msg-avatar">🐰</span>'
+    : '<span class="bot-msg-avatar" style="font-size:16px">👤</span>';
+  var wrap = document.createElement("div");
+  var bubble = document.createElement("div");
+  bubble.className = "bot-msg-bubble";
+  bubble.innerHTML = html;
+  wrap.appendChild(bubble);
+  if (sourceChips && sourceChips.length) {
+    var sources = document.createElement("div");
+    sources.className = "bot-sources";
+    sources.appendChild(document.createTextNode("Relevant laws found: "));
+    sourceChips.slice(0, 5).forEach(function(c) {
+      var chipId = lawIdNum(c.id);
+      if (chipId == null) return;
+      var chip = document.createElement("span");
+      chip.className = "bot-law-chip";
+      chip.title = "Go to " + (c.loc || "");
+      chip.textContent = (c.icon || "⚖️") + " " + String(c.title || "").slice(0, 32);
+      chip.addEventListener("click", function() { gsGoLaw(c.loc, chipId); });
+      sources.appendChild(chip);
+    });
+    wrap.appendChild(sources);
+  }
+  div.innerHTML = avatarHtml;
+  div.appendChild(wrap);
+  messages.appendChild(div);
+  messages.scrollTop = messages.scrollHeight;
+}
+
+function botShowTyping() {
+  var messages = document.getElementById("botMessages");
+  if (!messages) return null;
+  var div = document.createElement("div");
+  div.className = "bot-msg bot";
+  div.id = "botTyping";
+  div.innerHTML = '<span class="bot-msg-avatar">🐰</span><div class="bot-msg-bubble bot-typing"><span class="bot-dot"></span><span class="bot-dot"></span><span class="bot-dot"></span></div>';
+  messages.appendChild(div);
+  messages.scrollTop = messages.scrollHeight;
+  return div;
+}
+
+function botRemoveTyping() {
+  var t = document.getElementById("botTyping");
+  if (t) t.remove();
+}
+
+function botFindRelevantLaws(query) {
+  var terms = query.toLowerCase().split(/\s+/).filter(function(t) { return t.length > 2; });
+  var results = [];
+  Object.keys(window.lawsDB || {}).forEach(function(locName) {
+    var laws = window.lawsDB[locName] || [];
+    laws.forEach(function(L) {
+      var haystack = [L.title, L.subtitle, L.fullDescription, L.category].join(" ").toLowerCase();
+      var score = terms.reduce(function(acc, t) { return acc + (haystack.split(t).length - 1); }, 0);
+      if (score > 0) results.push({ score: score, law: L, loc: locName });
+    });
+  });
+  results.sort(function(a, b) { return b.score - a.score; });
+  return results.slice(0, 8);
+}
+
+function botBuildContext(relevantLaws) {
+  if (!relevantLaws.length) return "";
+  return "\n\nRELEVANT LAWS FROM DATABASE:\n" + relevantLaws.map(function(item) {
+    var L = item.law;
+    return "--- " + item.loc + " ---\n"
+      + "Title: " + L.title + "\n"
+      + "Subtitle: " + (L.subtitle || "") + "\n"
+      + "Description: " + (L.fullDescription || "") + "\n"
+      + "Penalty: " + (L.penalty || "") + "\n"
+      + "Exceptions: " + (L.exceptions || []).join("; ") + "\n"
+      + "Source: " + (L.source || "") + "\n";
+  }).join("\n");
+}
+
+async function botSendMessage() {
+  if (botBusy) return;
+  var inp = document.getElementById("botInput");
+  var query = (inp && inp.value.trim()) || "";
+  if (!query) return;
+
+  var key = getAnthropicKey();
+  if (!key) { checkBotKeyState(); return; }
+
+  // Display user message
+  botAddMessage("user", esc(query));
+  inp.value = "";
+  inp.style.height = "auto";
+
+  botBusy = true;
+  var send = document.getElementById("botSend");
+  if (send) send.disabled = true;
+  var status = document.getElementById("botStatus");
+  if (status) status.textContent = "Searching database…";
+
+  // Add to history
+  var relevantLaws = botFindRelevantLaws(query);
+  var context = botBuildContext(relevantLaws);
+  var userContent = query + context;
+  botHistory.push({ role: "user", content: userContent });
+
+  // Keep history manageable (last 8 turns)
+  if (botHistory.length > 16) botHistory = botHistory.slice(-16);
+
+  var typingEl = botShowTyping();
+  if (status) status.textContent = "Thinking…";
+
+  try {
+    var res = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: {
+        "content-type": "application/json",
+        "x-api-key": key,
+        "anthropic-version": "2023-06-01",
+        "anthropic-dangerous-direct-browser-access": "true"
+      },
+      body: JSON.stringify({
+        model: "claude-haiku-4-5-20251001",
+        max_tokens: 800,
+        system: BUNNY_BOT_SYSTEM,
+        messages: botHistory
+      })
+    });
+
+    var raw = await res.text();
+    if (!res.ok) throw new Error("API error " + res.status);
+    var data = JSON.parse(raw);
+    var replyText = "";
+    (data.content || []).forEach(function(b) { if (b && b.text) replyText += b.text; });
+
+    botHistory.push({ role: "assistant", content: replyText });
+    botRemoveTyping();
+
+    // Convert newlines to <br> and basic markdown bold
+    var replyHtml = esc(replyText)
+      .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+      .replace(/\*(.*?)\*/g, "<em>$1</em>")
+      .replace(/\n/g, "<br>");
+
+    var chips = relevantLaws.map(function(r) {
+      return { loc: r.loc, id: r.law.id, icon: r.law.icon, title: r.law.title };
+    });
+
+    botAddMessage("bot", replyHtml, chips);
+    if (status) status.textContent = "Ask me anything about laws worldwide";
+
+  } catch(err) {
+    botRemoveTyping();
+    botHistory.pop(); // remove failed user turn
+    var errMsg = err.message && err.message.indexOf("no_key") >= 0
+      ? "Please add a Claude API key in Settings first."
+      : "Something went wrong. Check your API key and try again.";
+    botAddMessage("bot", "⚠️ " + esc(errMsg));
+    if (status) status.textContent = "Ask me anything about laws worldwide";
+  }
+
+  botBusy = false;
+  if (send) send.disabled = false;
+}
+
+// Inject global search hero into page after header on load
+document.addEventListener("DOMContentLoaded", function() {
+  var hero = document.getElementById("globalSearchHero");
+  var main = document.getElementById("mainContent");
+  if (hero && main && main.parentNode) {
+    main.parentNode.insertBefore(hero, main);
+  }
+  checkBotKeyState();
+});
+
+</script>
+
+<!-- Law Bunny file:// notice -->
+<div id="lb-offline-notice" style="display:none;position:fixed;top:0;left:0;right:0;background:#c0392b;color:#fff;padding:.75rem 1rem;text-align:center;z-index:9999;font-size:.9rem">
+  ⚠️ <strong>Law Bunny</strong> must be served over HTTP to load country data. Run <code>python3 -m http.server</code> in this folder, then open <code>http://localhost:8000</code>
+</div>
+
+<!-- ═══ GLOBAL SEARCH HERO ═══ -->
+<div class="global-search-hero" id="globalSearchHero">
+  <h2>Search laws across every jurisdiction in this guide</h2>
+  <div class="global-search-wrap">
+    <input type="text" id="globalSearchInput" placeholder="jaywalking Germany, noise California, cannabis Netherlands…" autocomplete="off"
+      oninput="gsOnInput(this.value)" onkeydown="gsOnKeydown(event)" aria-label="Global law search" />
+    <span class="gs-icon">🐰</span>
+    <div class="global-search-results" id="globalSearchResults" role="listbox"></div>
+  </div>
+</div>
+
+<!-- ═══ BUNNY BOT FLOATING BUBBLE ═══ -->
+<button id="bunnyBotBubble" onclick="toggleBunnyBot()" title="Ask Law Bunny Bot" aria-label="Open Law Bunny chatbot">
+  🐰
+  <span class="bot-badge" id="botBadge">1</span>
+</button>
+
+<!-- ═══ BUNNY BOT PANEL ═══ -->
+<div id="bunnyBotPanel" role="dialog" aria-label="Law Bunny Bot" aria-modal="true">
+  <div class="bot-header">
+    <span class="bot-header-avatar">🐰</span>
+    <div class="bot-header-info">
+      <div class="bot-header-name">Law Bunny Bot</div>
+      <div class="bot-header-status" id="botStatus">Ask me anything about laws worldwide</div>
+    </div>
+    <button class="bot-close" onclick="toggleBunnyBot()" aria-label="Close chatbot">✕</button>
+  </div>
+
+  <div class="bot-messages" id="botMessages">
+    <!-- welcome message injected by JS -->
+  </div>
+
+  <div class="bot-no-key" id="botNoKey" style="display:none">
+    ⚠️ Add a <a onclick="openSettings()">Claude API key in Settings</a> to enable the bot.
+  </div>
+
+  <div class="bot-input-row">
+    <textarea id="botInput" placeholder="Ask about a law, penalty, country…" rows="1"
+      onkeydown="botInputKeydown(event)" oninput="botAutoResize(this)"></textarea>
+    <button class="bot-send" id="botSend" onclick="botSendMessage()" title="Send">➤</button>
+  </div>
+</div>
+</body>
+</html>

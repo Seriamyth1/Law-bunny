@@ -1,0 +1,1507 @@
+{
+  "country": "Hesse, Germany",
+  "slug": "hesse-germany",
+  "laws": [
+    {
+      "id": 41676,
+      "category": "Constitutional",
+      "severity": "info",
+      "icon": "🏛️",
+      "title": "Hessische Verfassung 1946",
+      "subtitle": "Hesse's constitution — unique social rights provisions",
+      "fullDescription": "Hesse's constitution (1946) was adopted before the Basic Law and contains unique provisions: Article 29 allows socialisation (nationalisation) of key industries; Article 38 guarantees a right to housing. The Hessischer Landtag has 137 seats. Hesse is governed by a Minister-President (Ministerpräsident). Frankfurt houses the ECB, Bundesbank, and Germany's largest financial centre.",
+      "penalty": "N/A — constitutional information",
+      "exceptions": [],
+      "source": "https://www.hessen.de/verfassung",
+      "sourceLabel": "Hessen.de",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What unique right does Article 38 of Hesse's 1946 constitution guarantee?",
+        "options": ["Right to employment", "Right to housing", "Right to free education", "Right to healthcare"],
+        "correct": 1,
+        "explanation": "Article 38 of Hesse's 1946 constitution guarantees a right to housing — an unusual provision among German state constitutions."
+      }
+    },
+    {
+      "id": 41677,
+      "category": "Finance",
+      "severity": "high",
+      "icon": "🏦",
+      "title": "ECB (European Central Bank) — Frankfurt Seat",
+      "subtitle": "ECB headquarters in Frankfurt — European financial law hub",
+      "fullDescription": "The European Central Bank (ECB) is headquartered in Frankfurt am Main, established there since 1998. ECB decisions on interest rates and quantitative easing are binding across the Eurozone. Germany's hosting obligation under the 1992 Maastricht Treaty is administered through Hesse. The ECB tower (185 m, 2014) is in the Ostend district. Hesse's Finanzministerium coordinates federal-state financial supervision.",
+      "penalty": "ECB enforcement actions against banks: licence revocation, fines up to 10% of annual turnover",
+      "exceptions": ["Non-Eurozone EU member states not subject to ECB monetary policy decisions"],
+      "source": "https://www.ecb.europa.eu",
+      "sourceLabel": "European Central Bank",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which year did the ECB establish its headquarters in Frankfurt?",
+        "options": ["1992", "1995", "1998", "2002"],
+        "correct": 2,
+        "explanation": "The ECB was established in Frankfurt in 1998 ahead of the Euro's introduction in 1999."
+      }
+    },
+    {
+      "id": 41678,
+      "category": "Finance",
+      "severity": "high",
+      "icon": "📈",
+      "title": "Frankfurt Stock Exchange (Frankfurter Wertpapierbörse)",
+      "subtitle": "Germany's largest stock exchange — Deutsche Börse AG",
+      "fullDescription": "The Frankfurter Wertpapierbörse (FWB), operated by Deutsche Börse AG, is Germany's largest and Europe's fourth-largest stock exchange. Trading is governed by the Börsengesetz (BörsG) and supervised by the Hessian Exchange Supervisory Authority (Börsenaufsichtsbehörde Hessen). The DAX index tracks the 40 largest German companies. High-frequency trading (HFT) requires BaFin registration. Market manipulation under §20a WpHG carries criminal penalties.",
+      "penalty": "Market manipulation: up to 5 years imprisonment; insider trading: up to 5 years",
+      "exceptions": ["Market makers conducting price stabilisation exempt from certain manipulation rules"],
+      "source": "https://www.deutsche-boerse.com",
+      "sourceLabel": "Deutsche Börse",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which authority supervises the Frankfurt Stock Exchange at state level?",
+        "options": ["BaFin alone", "Hessian Exchange Supervisory Authority (Börsenaufsichtsbehörde Hessen)", "Deutsche Bundesbank", "Bundesfinanzministerium"],
+        "correct": 1,
+        "explanation": "The Hessian Exchange Supervisory Authority (Börsenaufsichtsbehörde Hessen) supervises the FWB at state level, alongside federal BaFin oversight."
+      }
+    },
+    {
+      "id": 41679,
+      "category": "Aviation",
+      "severity": "high",
+      "icon": "✈️",
+      "title": "Frankfurt Airport (FRA) — Planfeststellungsbeschluss",
+      "subtitle": "Germany's largest airport — night flight ban and runway rules",
+      "fullDescription": "Frankfurt Airport (FRA), operated by Fraport AG, is Germany's largest and Europe's third-busiest hub (60+ million passengers/year). A strict night flight ban applies 23:00–05:00 following a landmark 2012 Hessian VGH court ruling. A fourth runway (Nordwest) opened 2011 after 10 years of legal battles. Fraport must pay noise compensation to affected homeowners under the Planfeststellungsbeschluss. Hesse's Luftfahrtbehörde issues operating permits.",
+      "penalty": "Airline fines for curfew violations; noise compensation liability for Fraport",
+      "exceptions": ["Medical evacuations and diversions from weather permitted overnight"],
+      "source": "https://www.frankfurt-airport.com",
+      "sourceLabel": "Frankfurt Airport / Fraport",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What night flight ban applies at Frankfurt Airport?",
+        "options": ["22:00–06:00", "23:00–05:00", "00:00–05:00", "01:00–06:00"],
+        "correct": 1,
+        "explanation": "Frankfurt Airport has a strict night flight ban from 23:00–05:00, confirmed by Hesse's VGH court in 2012."
+      }
+    },
+    {
+      "id": 41680,
+      "category": "Data & Privacy",
+      "severity": "high",
+      "icon": "🔒",
+      "title": "HBDI — Hessian Data Protection Commissioner",
+      "subtitle": "Hesse's DPA with jurisdiction over Frankfurt's financial sector",
+      "fullDescription": "The Hessische Beauftragte für Datenschutz und Informationsfreiheit (HBDI) supervises GDPR compliance in Hesse. Uniquely, Hesse has jurisdiction over many international banks and financial institutions due to Frankfurt's role. The HBDI issued major fines against banking apps for cookie violations. GDPR breach notifications must reach HBDI within 72 hours. Hesse also has the oldest data protection law in the world (Hessisches Datenschutzgesetz, 1970).",
+      "penalty": "GDPR fines up to €20m or 4% global turnover",
+      "exceptions": ["Small businesses under 250 employees have reduced GDPR documentation obligations"],
+      "source": "https://www.datenschutz.hessen.de",
+      "sourceLabel": "HBDI Hessen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Hesse enacted the world's first data protection law in which year?",
+        "options": ["1965", "1970", "1975", "1980"],
+        "correct": 1,
+        "explanation": "Hesse's Hessisches Datenschutzgesetz (1970) was the world's first data protection law, predating all others by years."
+      }
+    },
+    {
+      "id": 41681,
+      "category": "Automotive",
+      "severity": "medium",
+      "icon": "🚗",
+      "title": "Autobahn A3/A5/A67 — Frankfurt Hub Speed Rules",
+      "subtitle": "Frankfurt motorway hub — Germany's busiest interchange",
+      "fullDescription": "The Frankfurt Kreuz (junction of A3 and A5) is Germany's busiest motorway interchange, with 330,000 vehicles/day. Variable speed limits (Streckenbeeinflussungsanlage) apply across the Frankfurt motorway network — overhead gantry signs show 80, 100, or 120 km/h limits which are legally binding. Permanent 130 km/h advisory applies on unrestricted sections. Hesse enforces Lkw overtaking bans on A3/A5 during peak hours.",
+      "penalty": "Speeding fines per StVO; Lkw overtaking ban violations: €70–€240",
+      "exceptions": ["Emergency vehicles exempt; variable limits not displayed = unrestricted advisory applies"],
+      "source": "https://www.autobahn.de",
+      "sourceLabel": "Autobahn GmbH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many vehicles per day pass through Germany's busiest interchange, the Frankfurt Kreuz?",
+        "options": ["150,000", "220,000", "330,000", "450,000"],
+        "correct": 2,
+        "explanation": "The Frankfurt Kreuz (A3/A5 junction) handles approximately 330,000 vehicles per day — Germany's busiest motorway interchange."
+      }
+    },
+    {
+      "id": 41682,
+      "category": "Cultural Heritage",
+      "severity": "medium",
+      "icon": "📚",
+      "title": "Frankfurter Buchmesse — Intellectual Property",
+      "subtitle": "World's largest book fair — copyright and licensing centre",
+      "fullDescription": "The Frankfurter Buchmesse (Frankfurt Book Fair), held annually in October, is the world's largest trade book fair (4,000+ exhibitors, 100+ countries). Rights and licensing deals concluded there are governed by German copyright law (UrhG) and international conventions (Berne Convention). The Friedenspreis des Deutschen Buchhandels (Peace Prize) is awarded during the fair. Publishers must register with the German National Library (Deutsche Nationalbibliothek in Frankfurt) for ISBN assignment.",
+      "penalty": "Copyright infringement: injunctions, damages, up to 3 years imprisonment",
+      "exceptions": ["Academic quotation (Zitatrecht) under §51 UrhG exempt from infringement claims"],
+      "source": "https://www.buchmesse.de",
+      "sourceLabel": "Frankfurter Buchmesse",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where is Germany's Deutsche Nationalbibliothek (National Library) located?",
+        "options": ["Berlin only", "Munich only", "Frankfurt and Leipzig", "Bonn and Frankfurt"],
+        "correct": 2,
+        "explanation": "Germany's Deutsche Nationalbibliothek has two sites: Frankfurt am Main and Leipzig."
+      }
+    },
+    {
+      "id": 41683,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "⚖️",
+      "title": "Hessisches Polizeigesetz (HSOG) — Preventive Powers",
+      "subtitle": "Hesse's police law with expanded preventive detention",
+      "fullDescription": "Hesse's Public Safety and Order Act (HSOG) was expanded in 2018 to include: electronic ankle tagging for terrorism suspects; extended preventive detention (Unterbindungsgewahrsam) up to 1 month with court approval; drone surveillance; contact bans (Kontaktverbote). The Hessisches LKA (state criminal office) operates INPOL and cooperates with BKA. Frankfurt's status as financial hub means Hesse's policing priorities include organised financial crime.",
+      "penalty": "Terrorism-related offences: up to life imprisonment under §§129a, 211 StGB",
+      "exceptions": ["Preventive measures require judicial review within 48 hours of initial detention"],
+      "source": "https://www.polizei.hessen.de",
+      "sourceLabel": "Polizei Hessen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long may Hesse hold a person in preventive detention (with court approval) under HSOG?",
+        "options": ["7 days", "14 days", "1 month", "3 months"],
+        "correct": 2,
+        "explanation": "Hesse's HSOG allows up to 1 month of preventive detention (Unterbindungsgewahrsam) with court approval — among Germany's longest."
+      }
+    },
+    {
+      "id": 41684,
+      "category": "Housing",
+      "severity": "high",
+      "icon": "🏠",
+      "title": "Frankfurt Mietpreisbremse & Wohnungsknappheit",
+      "subtitle": "Frankfurt's severe housing shortage — rent controls and new builds",
+      "fullDescription": "Frankfurt has Germany's highest rents outside Munich. Hesse designated Frankfurt and 48 other municipalities as tight housing markets under §556d BGB. New rents may not exceed 10% above the Mietspiegel (rent index). Frankfurt Mietspiegel 2024 shows average rents of €14/m². The Hessisches Wohnraumförderungsgesetz (HWoFG) funds social housing construction. Frankfurt's Liegenschaftsamt disposes of city land with affordable housing quotas.",
+      "penalty": "Excess rent must be repaid; systematic violations fined up to €500,000",
+      "exceptions": ["Newly built apartments (post-2014) exempt from Mietpreisbremse for first rental"],
+      "source": "https://www.frankfurt.de/wohnen",
+      "sourceLabel": "Frankfurt Wohnen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Frankfurt's approximate average rent per m² in 2024?",
+        "options": ["€9/m²", "€11/m²", "€14/m²", "€18/m²"],
+        "correct": 2,
+        "explanation": "Frankfurt's 2024 Mietspiegel shows average rents around €14/m², among Germany's highest outside Munich."
+      }
+    },
+    {
+      "id": 41685,
+      "category": "Banking",
+      "severity": "high",
+      "icon": "🏦",
+      "title": "Deutsche Bundesbank — Frankfurt Headquarters",
+      "subtitle": "Germany's central bank — cash, reserves, and banking supervision",
+      "fullDescription": "The Deutsche Bundesbank, headquartered in Frankfurt, is Germany's central bank and an integral part of the Eurosystem. It manages Germany's gold reserves (3,352 tonnes — world's second largest), issues banknotes, and supervises payment systems (Target2). The Bundesbank campus in Ginnheim stores physical gold. Bundesbank and BaFin jointly supervise German banks under SSM (Single Supervisory Mechanism). Counterfeiting euro banknotes is a federal crime under §146 StGB.",
+      "penalty": "Euro counterfeiting: up to 15 years imprisonment under §146 StGB",
+      "exceptions": ["Clearly artistic reproductions of banknotes are permitted under specific EU Regulation 2847/98 conditions"],
+      "source": "https://www.bundesbank.de",
+      "sourceLabel": "Deutsche Bundesbank",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much gold does Germany's Bundesbank hold (world ranking)?",
+        "options": ["1,200 tonnes (4th)", "2,100 tonnes (3rd)", "3,352 tonnes (2nd)", "4,500 tonnes (1st)"],
+        "correct": 2,
+        "explanation": "Germany holds 3,352 tonnes of gold reserves — the world's second largest after the United States."
+      }
+    },
+    {
+      "id": 41686,
+      "category": "Rail",
+      "severity": "medium",
+      "icon": "🚆",
+      "title": "Frankfurt Hauptbahnhof — Germany's Busiest Station",
+      "subtitle": "Frankfurt Hbf: 500,000 passengers/day — strictest safety rules",
+      "fullDescription": "Frankfurt Hauptbahnhof is Germany's busiest railway station (500,000 passengers/day, 350,000 trains/year). DB Sicherheit (railway security) and Federal Police (Bundespolizei) maintain a permanent presence. The station's Drogenszene (drug scene) historically required a Drogenberatungszentrum and needle exchange on-site. EBO (Eisenbahn-Bau- und Betriebsordnung) governs all track and platform safety. The City Tunnel (S-Bahn underground) and ICE network converge here.",
+      "penalty": "Platform trespass: criminal offence; unauthorized track access up to 3 years",
+      "exceptions": ["DB staff and emergency services have unrestricted platform access"],
+      "source": "https://www.bahnhof.de/frankfurt-hbf",
+      "sourceLabel": "Frankfurt Hauptbahnhof",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many passengers per day pass through Frankfurt Hauptbahnhof?",
+        "options": ["200,000", "350,000", "500,000", "750,000"],
+        "correct": 2,
+        "explanation": "Frankfurt Hauptbahnhof handles approximately 500,000 passengers per day, making it Germany's busiest railway station."
+      }
+    },
+    {
+      "id": 41687,
+      "category": "Chemicals",
+      "severity": "high",
+      "icon": "⚗️",
+      "title": "Höchst Industrial Park — Chemical Safety Rules (SEVESO III)",
+      "subtitle": "Europe's largest chemical park — major accident hazard regulations",
+      "fullDescription": "Industriepark Höchst in Frankfurt-Höchst is one of Europe's largest chemical industrial parks (90 companies, 22,000 workers). As a SEVESO III upper-tier site, it is subject to the Störfall-Verordnung (12. BImSchV), requiring safety management systems, emergency plans, and land-use buffer zones. The Regierungspräsidium Darmstadt (Hesse's regional authority) conducts SEVESO inspections. Hoechst AG's former pharmaceutical division spun off as Sanofi-Aventis.",
+      "penalty": "SEVESO violations: immediate closure order; fines up to €50,000; criminal liability for directors",
+      "exceptions": ["Research laboratories using smaller quantities may qualify for lower-tier status"],
+      "source": "https://www.industriepark-hoechst.com",
+      "sourceLabel": "Industriepark Höchst",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many companies operate in Frankfurt's Industriepark Höchst?",
+        "options": ["30", "60", "90", "120"],
+        "correct": 2,
+        "explanation": "Industriepark Höchst hosts approximately 90 companies and 22,000 workers, making it one of Europe's largest chemical parks."
+      }
+    },
+    {
+      "id": 41688,
+      "category": "Environment",
+      "severity": "medium",
+      "icon": "🌲",
+      "title": "Hessisches Naturschutzgesetz — Kellerwald-Edersee NP",
+      "subtitle": "Hesse's only national park — strict wilderness protection",
+      "fullDescription": "Kellerwald-Edersee National Park (57 km²) is Hesse's only national park, established 2004 and designated UNESCO World Heritage (ancient beech forests) in 2011. The Hessisches Naturschutzgesetz (HeNatG) prohibits all collection, disturbance, and economic use in the core zone. The Edersee reservoir (adjacent) is managed by the Wasserstraßen- und Schifffahrtsamt. Hesse maintains 40% forest cover (Hessisches Waldgesetz).",
+      "penalty": "Collecting plants or disturbing animals in NP core zone: fines up to €50,000",
+      "exceptions": ["Scientific research with HeNatG ministerial permit permitted in buffer zone"],
+      "source": "https://www.nationalpark-kellerwald-edersee.de",
+      "sourceLabel": "NP Kellerwald-Edersee",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Kellerwald-Edersee receive UNESCO World Heritage status?",
+        "options": ["2004", "2007", "2011", "2015"],
+        "correct": 2,
+        "explanation": "Kellerwald-Edersee's ancient beech forests were designated UNESCO World Heritage in 2011, as part of the European Primeval Beech Forests site."
+      }
+    },
+    {
+      "id": 41689,
+      "category": "Pharmaceutical",
+      "severity": "high",
+      "icon": "💊",
+      "title": "Paul-Ehrlich-Institut — Vaccine & Biomedical Regulation",
+      "subtitle": "Germany's federal vaccine authority headquartered in Langen, Hesse",
+      "fullDescription": "The Paul-Ehrlich-Institut (PEI), located in Langen (near Frankfurt), is Germany's Federal Institute for Vaccines and Biomedicines. It approves and batch-releases all vaccines, blood products, and advanced therapy medicinal products (ATMPs) sold in Germany. PEI is also a WHO collaborating centre. All COVID-19 vaccines used in Germany were batch-released by PEI under AMG (Arzneimittelgesetz). Clinical trials require PEI approval for biological medicines.",
+      "penalty": "Distributing unapproved vaccines: criminal offence under §96 AMG; up to 3 years imprisonment",
+      "exceptions": ["Named-patient compassionate use of unapproved biologics permitted with PEI notification"],
+      "source": "https://www.pei.de",
+      "sourceLabel": "Paul-Ehrlich-Institut",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Paul-Ehrlich-Institut's primary function?",
+        "options": ["Regulating food additives", "Approving and batch-releasing vaccines and biologics", "Licensing general practitioners", "Supervising hospital construction"],
+        "correct": 1,
+        "explanation": "PEI approves and batch-releases all vaccines and biological medicines in Germany, and is a WHO collaborating centre."
+      }
+    },
+    {
+      "id": 41690,
+      "category": "Internet",
+      "severity": "medium",
+      "icon": "🌐",
+      "title": "DE-CIX Frankfurt — World's Largest Internet Exchange",
+      "subtitle": "Frankfurt hosts the world's busiest internet exchange point",
+      "fullDescription": "DE-CIX (Deutscher Commercial Internet Exchange) in Frankfurt is the world's largest internet exchange point by peak traffic (over 14 Tbps). It connects 1,000+ networks. DE-CIX operations are subject to TKG (Telekommunikationsgesetz), EU NIS2 Directive, and Hesse's cybersecurity obligations. The BND (Germany's foreign intelligence) famously tapped DE-CIX traffic — a practice later found partly illegal by German courts. DE-CIX must comply with Bundesnetzagentur data retention rules.",
+      "penalty": "Unauthorised interception of DE-CIX traffic: criminal offence under §202a StGB; intelligence agencies require G10 Act authorisation",
+      "exceptions": ["Lawful intercept under G10 Act with G10 Commission approval is permitted"],
+      "source": "https://www.de-cix.net",
+      "sourceLabel": "DE-CIX Frankfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What peak traffic level does DE-CIX Frankfurt handle?",
+        "options": ["4 Tbps", "8 Tbps", "14 Tbps", "20 Tbps"],
+        "correct": 2,
+        "explanation": "DE-CIX Frankfurt handles over 14 Tbps peak traffic, making it the world's busiest internet exchange point."
+      }
+    },
+    {
+      "id": 41691,
+      "category": "Museum & Culture",
+      "severity": "low",
+      "icon": "🎨",
+      "title": "Museumsufer Frankfurt — Kulturfinanzierung",
+      "subtitle": "Frankfurt's museum embankment — Germany's densest museum strip",
+      "fullDescription": "Frankfurt's Museumsufer (museum embankment) on the Main river contains 15 museums within 2 km — Germany's densest concentration. Key institutions: Städel Museum (700 years of European art), Liebieghaus (sculpture), Senckenberg Natural History Museum, and Museum der Weltkulturen. Museums receive Hessian Kulturförderung (culture funding) under the Hessisches Kulturfördergesetz. The Museumsuferfest (annual August festival, 3 days) attracts 1.8 million visitors.",
+      "penalty": "Loss of Kulturförderung for non-compliant institutions; copyright violations in reproductions prosecuted",
+      "exceptions": ["Public domain works (post-70 years after creator's death) may be reproduced freely"],
+      "source": "https://www.museumsufer.de",
+      "sourceLabel": "Museumsufer Frankfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many museums are on Frankfurt's Museumsufer within 2 km?",
+        "options": ["8", "12", "15", "20"],
+        "correct": 2,
+        "explanation": "Frankfurt's Museumsufer contains 15 museums within 2 km, making it Germany's densest concentration of museums."
+      }
+    },
+    {
+      "id": 41692,
+      "category": "Taxation",
+      "severity": "medium",
+      "icon": "💰",
+      "title": "Hessische Grunderwerbsteuer — 6%",
+      "subtitle": "Hesse's property transfer tax",
+      "fullDescription": "Hesse's Grunderwerbsteuer (property transfer tax) is 6% of the purchase price — above the national average but below the highest-rate states (Brandenburg, NRW, SH at 6.5%). Tax is payable within 1 month of purchase contract. The Hessisches Finanzamt processes declarations. Share deals transferring >90% of a property-holding company also trigger the tax. First-time buyers benefit from no federal exemption, though Hesse has piloted reduced rates for primary residences.",
+      "penalty": "Late payment attracts 1% monthly interest; evasion prosecuted under §370 AO",
+      "exceptions": ["Transfers between spouses and first-degree relatives exempt under §3 GrEStG"],
+      "source": "https://www.finanzamt.hessen.de",
+      "sourceLabel": "Hessen Finanzamt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Hesse's Grunderwerbsteuer (property transfer tax) rate?",
+        "options": ["3.5%", "5%", "6%", "6.5%"],
+        "correct": 2,
+        "explanation": "Hesse charges 6% Grunderwerbsteuer on property transfers."
+      }
+    },
+    {
+      "id": 41693,
+      "category": "Energy",
+      "severity": "medium",
+      "icon": "⚡",
+      "title": "Hessisches Energiegesetz — Wind Energy Restrictions",
+      "subtitle": "Hesse's 1,000-metre wind turbine setback rule",
+      "fullDescription": "Hesse introduced a 1,000-metre minimum setback (Abstandsregelung) between wind turbines and residential buildings under the Hessisches Windenergie-Erlass 2013, significantly restricting wind energy expansion. The rule was controversial and partially reversed by court decisions. Hesse now targets 2% of state land area for wind energy. The Regierungspräsidien issue Immissionsschutzgenehmigungen (environmental permits) for turbines. Hesse has 1,100+ turbines generating 3,300 MW.",
+      "penalty": "Turbines built without permit: demolition order; fines up to €50,000",
+      "exceptions": ["Repowering of existing turbine locations may use simplified permit process"],
+      "source": "https://www.energie.hessen.de",
+      "sourceLabel": "Hessen Energie",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum setback distance did Hesse impose between wind turbines and homes?",
+        "options": ["500 metres", "800 metres", "1,000 metres", "1,500 metres"],
+        "correct": 2,
+        "explanation": "Hesse's 2013 Wind Energy Decree imposed a 1,000-metre minimum setback between turbines and residential buildings."
+      }
+    },
+    {
+      "id": 41694,
+      "category": "Education",
+      "severity": "medium",
+      "icon": "🎓",
+      "title": "Hessisches Schulgesetz — G8/G9 and Inclusion",
+      "subtitle": "Hesse's school system — bilingual and inclusive education",
+      "fullDescription": "Hesse's Schulgesetz (HSchG) governs compulsory education from age 6. Hesse offers both G8 (8-year Gymnasium, Abitur at 17) and G9 (9-year Gymnasium, Abitur at 18) — schools may choose. Hesse is a leader in bilingual education (English, French, Spanish, Turkish streams). Inclusion (gemeinsames Lernen) is embedded in the HSchG following the UN CRPD. Hesse's Abitur average grade 2023 was 2.3. The Hessische Lehrkräfteakademie trains teachers.",
+      "penalty": "Truancy (Schulpflichtverletzung): fines up to €1,000; police escort back to school for persistent cases",
+      "exceptions": ["Home schooling not permitted in Hesse; hospital schooling for long-term illness available"],
+      "source": "https://www.kultusministerium.hessen.de",
+      "sourceLabel": "Hessen Kultusministerium",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is unique about Hesse's Gymnasium system compared to most German states?",
+        "options": ["Only G8 permitted", "Only G9 permitted", "Schools may choose between G8 and G9", "G10 offered at elite schools"],
+        "correct": 2,
+        "explanation": "Unlike states that mandated one system, Hesse allows individual Gymnasium schools to choose between G8 (Abitur at 17) and G9 (Abitur at 18)."
+      }
+    },
+    {
+      "id": 41695,
+      "category": "Justice",
+      "severity": "medium",
+      "icon": "⚖️",
+      "title": "OLG Frankfurt — Germany's Commercial Law Centre",
+      "subtitle": "Frankfurt's appeal court handles Germany's largest commercial disputes",
+      "fullDescription": "The Oberlandesgericht (OLG) Frankfurt am Main is Germany's leading commercial appeal court, handling major corporate, banking, and IP disputes. The Landgericht Frankfurt has a specialised Kartellsenat (competition law chamber) and a dedicated IP chamber. Germany's largest insolvency proceedings (Wirecard, Thomas Cook Germany) were processed through Frankfurt courts. The OLG Frankfurt also handles appeals in cases involving the ECB and EU financial institutions.",
+      "penalty": "Court-ordered remedies enforced by Gerichtsvollzieher (bailiffs); contempt fines (Ordnungsgeld) up to €250,000",
+      "exceptions": ["Diplomatic staff of ECB and EU institutions enjoy limited procedural immunity"],
+      "source": "https://www.olg-frankfurt.justiz.hessen.de",
+      "sourceLabel": "OLG Frankfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which major German insolvency was processed through Frankfurt courts?",
+        "options": ["Karstadt", "Wirecard", "Air Berlin", "Galeria Kaufhof"],
+        "correct": 1,
+        "explanation": "Wirecard's insolvency — Germany's largest fraud scandal — was processed through Frankfurt courts given the company's financial sector nexus."
+      }
+    },
+    {
+      "id": 41696,
+      "category": "Water",
+      "severity": "medium",
+      "icon": "💧",
+      "title": "Rhine-Main Water Authority — Drinking Water Protection",
+      "subtitle": "Hesse's drinking water protection zones in Rhine-Main region",
+      "fullDescription": "The Rhine-Main region draws drinking water from groundwater protected under Hesse's Wasserschutzgebietsverordnungen (water protection zone ordinances). Zones I–III restrict building, agriculture, and industrial activity near water extraction points. The Main river has EU Water Framework Directive (WFD) 'good status' targets. Hessenwasser GmbH supplies 2.3 million people. Nitrate pollution from agriculture exceeding 50 mg/L triggers farmer fines under the DüV (fertiliser ordinance).",
+      "penalty": "Polluting protected water zones: fines up to €50,000; criminal liability for gross negligence",
+      "exceptions": ["Existing agricultural operations in Zone III may continue with best practice certification"],
+      "source": "https://www.hessenwasser.de",
+      "sourceLabel": "Hessenwasser",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What nitrate concentration triggers fines for farmers near Hesse's water protection zones?",
+        "options": ["25 mg/L", "37.5 mg/L", "50 mg/L", "75 mg/L"],
+        "correct": 2,
+        "explanation": "Nitrate levels exceeding 50 mg/L (the EU drinking water limit) in protected groundwater zones trigger fines under Germany's DüV."
+      }
+    },
+    {
+      "id": 41697,
+      "category": "Political",
+      "severity": "info",
+      "icon": "🗳️",
+      "title": "Hessischer Landtag — Coalition Government",
+      "subtitle": "Hesse's 137-seat parliament — CDU heartland",
+      "fullDescription": "Hesse's Landtag has 137 seats, elected every 5 years via proportional representation with 5% threshold. Hesse has been CDU-governed almost continuously since 1987. The 2023 election produced a CDU/SPD coalition under Boris Rhein. Hesse's Staatsgerichtshof (constitutional court) adjudicates state constitutional disputes. The Hessian Bundesrat votes carry special weight given Frankfurt's economic significance.",
+      "penalty": "N/A — political information",
+      "exceptions": [],
+      "source": "https://www.hessischer-landtag.de",
+      "sourceLabel": "Hessischer Landtag",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many seats does Hesse's Landtag have?",
+        "options": ["110", "121", "137", "150"],
+        "correct": 2,
+        "explanation": "Hesse's Landtag has 137 seats, elected every 5 years. Hesse has been CDU-governed almost continuously since 1987."
+      }
+    },
+    {
+      "id": 41698,
+      "category": "Labour",
+      "severity": "medium",
+      "icon": "✈️",
+      "title": "Lufthansa Headquarters — Frankfurt Labour Law",
+      "subtitle": "Lufthansa Group based in Frankfurt — aviation collective agreements",
+      "fullDescription": "Deutsche Lufthansa AG is headquartered in Frankfurt (Deutz/Köln for holding, but operational HQ Frankfurt Airport). Lufthansa employs 100,000+ worldwide. Pilots are represented by Vereinigung Cockpit (VC) and cabin crew by UFO union. Lufthansa strikes have major national impact given its role in Frankfurt hub. Aviation collective agreements (Manteltarifvertrag) govern flight and rest times under EU Flight Time Limitations (FTL) OPS Subpart FTL.",
+      "penalty": "EU FTL violations by airlines: EASA enforcement; operating certificate suspension",
+      "exceptions": ["Charter operations have slightly different FTL rules than scheduled carriers"],
+      "source": "https://www.lufthansagroup.com",
+      "sourceLabel": "Lufthansa Group",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which union represents Lufthansa pilots in collective bargaining?",
+        "options": ["ver.di", "IG Metall", "Vereinigung Cockpit (VC)", "UFO"],
+        "correct": 2,
+        "explanation": "Lufthansa pilots are represented by Vereinigung Cockpit (VC), which has conducted several high-profile strikes affecting Frankfurt Airport."
+      }
+    },
+    {
+      "id": 41699,
+      "category": "Historic",
+      "severity": "info",
+      "icon": "📜",
+      "title": "Paulskirche — Birthplace of German Democracy",
+      "subtitle": "Frankfurt's Paulskirche — 1848 National Assembly heritage site",
+      "fullDescription": "The Paulskirche in Frankfurt is the birthplace of German parliamentary democracy — the 1848 Frankfurt National Assembly convened here, drafting the first all-German constitution (Paulskirchenverfassung). The building is now a protected monument (Kulturdenkmal) and event venue owned by the City of Frankfurt. The Goethe Prize and other major awards are presented here. Denkmalschutz rules prohibit structural alterations.",
+      "penalty": "Unauthorised structural alterations: fines up to €500,000; restoration at owner's cost",
+      "exceptions": ["Temporary exhibition structures inside the hall permitted without heritage permit"],
+      "source": "https://www.paulskirche.de",
+      "sourceLabel": "Paulskirche Frankfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What historic event took place at Frankfurt's Paulskirche in 1848?",
+        "options": ["Holy Roman Empire coronation", "German unification proclamation", "First all-German National Assembly", "Signing of the Peace of Westphalia"],
+        "correct": 2,
+        "explanation": "The Frankfurt National Assembly (1848–49) met at the Paulskirche — the first democratically elected parliament for all of Germany."
+      }
+    },
+    {
+      "id": 41700,
+      "category": "Sports",
+      "severity": "low",
+      "icon": "🏆",
+      "title": "Eintracht Frankfurt — UEFA Licence & Fan Regulation",
+      "subtitle": "Europa League winners 2022 — stadium and fan safety rules",
+      "fullDescription": "Eintracht Frankfurt won the UEFA Europa League in 2022 — the first German club since 1980. The Deutsche Bank Park (51,500 seats) events are governed by the Hessische Versammlungsstättenverordnung (HVStättVO). DFL Sicherheitsrichtlinien require stewards, CCTV, and crowd management plans. Fan travel and pyrotechnics (verboten) are enforced at a federal and UEFA level. Frankfurt's broad European fan base required special police operations.",
+      "penalty": "Stadium pyrotechnics: criminal charges under §27 SprengG; stadium ban up to 3 years",
+      "exceptions": ["Licensed theatrical pyrotechnics for opening ceremonies with separate SprengG permit"],
+      "source": "https://www.eintracht.de",
+      "sourceLabel": "Eintracht Frankfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Eintracht Frankfurt last win a European trophy?",
+        "options": ["2019", "2021", "2022", "2023"],
+        "correct": 2,
+        "explanation": "Eintracht Frankfurt won the UEFA Europa League in 2022, beating Rangers on penalties in Seville."
+      }
+    },
+    {
+      "id": 41701,
+      "category": "Media",
+      "severity": "medium",
+      "icon": "📡",
+      "title": "hr (Hessischer Rundfunk) — Public Broadcasting",
+      "subtitle": "Hesse's public broadcaster and ARD member",
+      "fullDescription": "Hessischer Rundfunk (hr), headquartered in Frankfurt, is Hesse's public broadcaster and an ARD member. HR is governed by the hr-Gesetz (Hessisches Rundfunkgesetz). The Rundfunkbeitrag (€18.36/month per household) funds hr and other ARD/ZDF broadcasters. HR operates hr1–hr4, hr-info, YOU FM radio stations and hr-fernsehen TV. The Hessische Landesanstalt für privaten Rundfunk (LPR Hessen) licenses private broadcasters in Hesse.",
+      "penalty": "Non-payment of Rundfunkbeitrag: debt collection; €8 monthly surcharge after reminder",
+      "exceptions": ["Recipients of Bürgergeld or social assistance eligible for full Rundfunkbeitrag exemption"],
+      "source": "https://www.hr.de",
+      "sourceLabel": "Hessischer Rundfunk",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Germany's monthly Rundfunkbeitrag (broadcasting fee) per household?",
+        "options": ["€14.50", "€16.20", "€18.36", "€20.00"],
+        "correct": 2,
+        "explanation": "Germany's Rundfunkbeitrag is €18.36 per month per household, funding public broadcasters including Hessischer Rundfunk."
+      }
+    },
+    {
+      "id": 41702,
+      "category": "Pharmaceutical",
+      "severity": "high",
+      "icon": "🔬",
+      "title": "Merck KGaA — Darmstadt Pharmaceutical Regulations",
+      "subtitle": "World's oldest pharmaceutical company headquartered in Darmstadt",
+      "fullDescription": "Merck KGaA (founded 1668 in Darmstadt) is the world's oldest pharmaceutical and chemical company, headquartered in Hesse. Merck operates under AMG (Arzneimittelgesetz), EU GMP (Good Manufacturing Practice), and EMA oversight. Clinical trials require ethics committee approval (Ethikkommission Hessen). Merck's semiconductor materials division (semiconductors/OLED) is subject to German export controls under AWG/AWV. Merck employs 60,000+ worldwide.",
+      "penalty": "GMP violations: EMA/ BfArM batch recall; criminal liability for responsible persons",
+      "exceptions": ["Named-patient supply of non-approved Merck products permitted with physician justification"],
+      "source": "https://www.merckgroup.com",
+      "sourceLabel": "Merck KGaA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was Merck KGaA founded in Darmstadt?",
+        "options": ["1568", "1668", "1750", "1820"],
+        "correct": 1,
+        "explanation": "Merck KGaA was founded in Darmstadt in 1668, making it the world's oldest pharmaceutical and chemical company."
+      }
+    },
+    {
+      "id": 41703,
+      "category": "Transport",
+      "severity": "medium",
+      "icon": "🚇",
+      "title": "RMV (Rhein-Main-Verkehrsverbund) — Integrated Transport",
+      "subtitle": "Frankfurt's regional transport network: Europe's largest Verbund",
+      "fullDescription": "The Rhein-Main-Verkehrsverbund (RMV) covers Frankfurt and 11,800 km² across Hesse, Rhineland-Palatinate and Bavaria — one of Europe's largest integrated transport networks. U-Bahn (9 lines), S-Bahn, trams, and regional trains use one ticket system. Schwarzfahren (fare evasion) carries a €60 penalty. Frankfurt's U-Bahn system (1968) is unique — it mixes standard gauge (1,435 mm) underground with Stadtbahn surface trams. The Deutschlandticket (€49/month) is valid across all RMV services.",
+      "penalty": "€60 erhöhtes Beförderungsentgelt for fare evasion",
+      "exceptions": ["Children under 6 travel free on all RMV services"],
+      "source": "https://www.rmv.de",
+      "sourceLabel": "RMV Frankfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How large an area does the RMV cover?",
+        "options": ["3,500 km²", "7,000 km²", "11,800 km²", "18,000 km²"],
+        "correct": 2,
+        "explanation": "The RMV covers 11,800 km² across Hesse and neighbouring states — one of Europe's largest integrated transport networks."
+      }
+    },
+    {
+      "id": 41704,
+      "category": "Architecture",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Frankfurt Skyline — Hochhausrahmenplan",
+      "subtitle": "Frankfurt's high-rise plan — Germany's only true skyline",
+      "fullDescription": "Frankfurt am Main has Germany's only major skyline with multiple skyscrapers. The Hochhausrahmenplan (2008, updated 2021) controls where high-rises (>60m) may be built, their heights, and their relationship to the historic Altstadt. The Commerzbank Tower (259m, 1997) and Messeturm (257m, 1991) are iconic. All high-rises require Bebauungsplan (binding land-use plan) amendment and structural reviews under HBauO Hessen. Frankfurt's Römerberg historic district has strict height restrictions.",
+      "penalty": "Building without Hochhausrahmenplan conformity: refusal of Baugenehmigung",
+      "exceptions": ["Church steeples and transmission towers exempt from high-rise residential planning rules"],
+      "source": "https://www.stadtplanungsamt-frankfurt.de",
+      "sourceLabel": "Frankfurt Stadtplanungsamt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the height of Frankfurt's tallest building, the Commerzbank Tower?",
+        "options": ["210 m", "235 m", "259 m", "280 m"],
+        "correct": 2,
+        "explanation": "The Commerzbank Tower (1997, architect Norman Foster) stands 259 m tall, making it Germany's tallest building."
+      }
+    },
+    {
+      "id": 41705,
+      "category": "Consumer",
+      "severity": "medium",
+      "icon": "🛒",
+      "title": "Hessisches Ladenöffnungsgesetz",
+      "subtitle": "Hesse's Sunday retail closure law",
+      "fullDescription": "Hesse's Ladenöffnungsgesetz (HLöG) prohibits retail trade on Sundays and public holidays. Hesse has 12 state-specific public holidays. Exceptions include: petrol stations, pharmacies, airport shops, florists at cemeteries, kiosks, and bakers before 10:00 on Sundays. Frankfurt designates up to 8 shopping Sundays per year in tourist/event contexts. Hesse courts have upheld the Sunday trading ban against legal challenges citing EU freedom of services.",
+      "penalty": "Trading on Sunday without exemption: fines up to €2,500 per violation",
+      "exceptions": ["Frankfurt Römerberg Christmas market area permits up to 8 shopping Sundays in December"],
+      "source": "https://www.hessen.de/ladenöffnung",
+      "sourceLabel": "Hessen.de",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many shopping Sundays per year can Frankfurt designate under Hesse's law?",
+        "options": ["4", "6", "8", "12"],
+        "correct": 2,
+        "explanation": "Frankfurt may designate up to 8 shopping Sundays per year for tourist/event areas under Hesse's Ladenöffnungsgesetz."
+      }
+    },
+    {
+      "id": 41706,
+      "category": "Heritage",
+      "severity": "low",
+      "icon": "📖",
+      "title": "Goethe-Haus Frankfurt — Literary Heritage Protection",
+      "subtitle": "Goethe's birthplace — protected national literary monument",
+      "fullDescription": "Goethe's birthplace at Großer Hirschgraben 23–25, Frankfurt, is one of Germany's most visited literary museums. The Freies Deutsches Hochstift (foundation) operates the Goethe-Haus and Goethe-Museum. The building (bombed 1944, reconstructed 1951) is a protected Kulturdenkmal. The annual Goethe Prize (€50,000) is awarded by Frankfurt city. Academic use of Goethe's works is unrestricted (pre-1870 author, public domain). Replicas of interior items require museum licensing.",
+      "penalty": "Denkmalschutz violations: fines up to €500,000",
+      "exceptions": ["Temporary exhibition structures inside the courtyard permitted with Denkmalschutzamt approval"],
+      "source": "https://www.goethehaus-frankfurt.de",
+      "sourceLabel": "Goethe-Haus Frankfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What happened to Frankfurt's Goethe-Haus in 1944?",
+        "options": ["It was sold to a private buyer", "It was bombed and later reconstructed (1951)", "It survived the war undamaged", "It was relocated to another site"],
+        "correct": 1,
+        "explanation": "Goethe's birthplace was bombed in 1944 and meticulously reconstructed by 1951, reopening as a museum."
+      }
+    },
+    {
+      "id": 41707,
+      "category": "Health",
+      "severity": "medium",
+      "icon": "🏥",
+      "title": "Hessisches Krankenhausgesetz — Hospital Planning",
+      "subtitle": "Hesse's hospital plan governs public healthcare provision",
+      "fullDescription": "Hesse's Krankenhausgesetz (HKHG) governs the Hessischer Krankenhausplan — the state's hospital planning list. Hospitals on the plan receive Investitionskostenförderung (capital investment subsidies). Frankfurt has Germany's highest hospital bed density per capita in urban areas. Hesse implemented the federal Krankenhausreformgesetz 2024 with a Leistungsgruppen (service group) system, concentrating specialist care in larger hospitals. The Uniklinik Frankfurt (UKFF) and Darmstadt Klinikum are leading centres.",
+      "penalty": "Hospitals operating without plan inclusion denied state investment subsidies",
+      "exceptions": ["Private day clinics (Tageskliniken) operate under GewO, not HKHG, for minor procedures"],
+      "source": "https://www.soziales.hessen.de/krankenhaus",
+      "sourceLabel": "Hessen Sozialministerium",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does Hesse's 2024 hospital reform Leistungsgruppen system do?",
+        "options": ["Privatises all hospitals", "Concentrates specialist care in larger designated hospitals", "Eliminates state investment subsidies", "Merges all hospitals into one network"],
+        "correct": 1,
+        "explanation": "The Leistungsgruppen system concentrates specialist medical services in larger hospitals, reducing duplication and improving quality."
+      }
+    },
+    {
+      "id": 41708,
+      "category": "Cycling",
+      "severity": "low",
+      "icon": "🚲",
+      "title": "Hessen Mobil — Radnetz Hessen Cycling Network",
+      "subtitle": "Hesse's 14,000 km cycling network",
+      "fullDescription": "Hesse Mobil manages the Radnetz Hessen — 14,000 km of signposted cycling routes, including the Radfernwege (long-distance routes) such as the Lahntal-Radweg and Main-Radweg. Cycle paths adjacent to federal roads are administered by Autobahn GmbH; state roads by Hessen Mobil. The minimum width for a shared cycle/pedestrian path is 2.5 m under ERA (Empfehlungen für Radverkehrsanlagen). E-bike charging at Hessen Mobil service points is free.",
+      "penalty": "Cycling on footpaths without Fahrrad-frei sign: €15–25 fine",
+      "exceptions": ["Children under 8 must cycle on footpaths; children under 10 may choose pavement or road"],
+      "source": "https://www.hessen-mobil.de/radfahren",
+      "sourceLabel": "Hessen Mobil Radnetz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many km of signposted cycling routes does the Radnetz Hessen cover?",
+        "options": ["5,000 km", "9,000 km", "14,000 km", "20,000 km"],
+        "correct": 2,
+        "explanation": "The Radnetz Hessen comprises 14,000 km of signposted cycling routes across the state."
+      }
+    },
+    {
+      "id": 41709,
+      "category": "Agriculture",
+      "severity": "medium",
+      "icon": "🌾",
+      "title": "Hessisches Landwirtschaftsgesetz — Weinbau (Wine)",
+      "subtitle": "Hesse's Rheingau wine region — Germany's premier Riesling area",
+      "fullDescription": "Hesse's Rheingau is one of Germany's 13 designated wine regions (Anbaugebiete), famous for Riesling. The Weingesetz (WeinG) and EU Wine Regulation 2021/2117 control appellations. Rheingau Riesling Qualitätswein requires minimum must weight. The Hessische Staatsweingüter Kloster Eberbach manages Germany's largest wine estate under state ownership. Chaptalisation (adding sugar) is prohibited for Prädikatswein. Wine fraud carries criminal penalties under §27 WeinG.",
+      "penalty": "Wine fraud/mislabelling: up to 2 years imprisonment under §27 WeinG; confiscation of stock",
+      "exceptions": ["EU cross-border wine transit does not require German wine label compliance"],
+      "source": "https://www.rheingau-wein.de",
+      "sourceLabel": "Rheingau Wein",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes Hesse's Rheingau wine region particularly famous?",
+        "options": ["Spätburgunder (Pinot Noir)", "Silvaner", "Riesling", "Müller-Thurgau"],
+        "correct": 2,
+        "explanation": "The Rheingau in Hesse is Germany's premier Riesling wine region, producing world-class wines from the Rhine riverside slopes."
+      }
+    },
+    {
+      "id": 41710,
+      "category": "Emergency Services",
+      "severity": "high",
+      "icon": "🚒",
+      "title": "Hessisches Brand- und Katastrophenschutzgesetz (HBKG)",
+      "subtitle": "Hesse's fire and civil protection law",
+      "fullDescription": "Hesse's HBKG governs fire brigades, THW (Technisches Hilfswerk), and Katastrophenschutz. Municipalities must maintain professional or volunteer fire brigades. Hesse has 70,000+ volunteer firefighters. Frankfurt's Berufsfeuerwehr (professional fire service) has 1,100 staff and responds to chemical incidents at Höchst. The state's KATWARN app (integrated with NINA) provides emergency alerts. Arson (§306 StGB) carries up to 10 years; deaths caused: up to life.",
+      "penalty": "Arson: up to 10 years; deaths: up to life imprisonment; obstructing fire brigade: fines",
+      "exceptions": ["Controlled burns (Brennen) for land management require written permit from Ordnungsamt"],
+      "source": "https://www.hessen.de/buerger/sicherheit/brandschutz",
+      "sourceLabel": "Hessen Brandschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many volunteer firefighters does Hesse have?",
+        "options": ["20,000", "40,000", "70,000", "100,000"],
+        "correct": 2,
+        "explanation": "Hesse has over 70,000 volunteer firefighters (Freiwillige Feuerwehr) supplementing professional services."
+      }
+    },
+    {
+      "id": 41711,
+      "category": "Housing",
+      "severity": "medium",
+      "icon": "🏢",
+      "title": "Städtisches Wohnen Frankfurt — ABG FRANK FURT",
+      "subtitle": "Frankfurt's municipal housing company — 53,000 apartments",
+      "fullDescription": "ABG FRANKFURT HOLDING is Frankfurt's municipal housing company, managing 53,000 apartments — Frankfurt's largest landlord. Rents are set below market rate for qualifying tenants (Wohnberechtigungsschein — WBS required). Frankfurt's Housing Authority (Wohnungsamt) issues WBS certificates for households below income thresholds. ABG also develops new affordable housing under Frankfurt's Wohnbauprogramm target of 2,500 new units/year. Tenants have full BGB residential tenancy rights.",
+      "penalty": "WBS fraud (claiming social housing without qualifying): criminal charges, eviction",
+      "exceptions": ["Artists and cultural workers qualify for Frankfurt's Atelierwohnungen (studio flat) programme at reduced rent"],
+      "source": "https://www.abg-frankfurt.de",
+      "sourceLabel": "ABG Frankfurt Holding",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many apartments does Frankfurt's ABG FRANKFURT HOLDING manage?",
+        "options": ["25,000", "40,000", "53,000", "75,000"],
+        "correct": 2,
+        "explanation": "ABG FRANKFURT HOLDING manages 53,000 apartments as Frankfurt's largest landlord and municipal housing company."
+      }
+    },
+    {
+      "id": 41712,
+      "category": "Wildlife",
+      "severity": "medium",
+      "icon": "🦅",
+      "title": "Hessisches Jagdgesetz — Hunting Regulations",
+      "subtitle": "Hesse's hunting law — seasons, permits, and wildlife management",
+      "fullDescription": "Hesse's Hessisches Jagdgesetz (HJagdG) sets hunting seasons, licensing requirements, and wildlife management obligations. A Jagdschein (hunting licence) requires passing a Jägerprüfung (hunter's exam). Wild boar (Wildschwein) hunting is particularly important due to African Swine Fever (ASF) risk. Hesse has 11,000+ licensed hunters. Night hunting with thermal optics was legalised in 2021 for wild boar. Poaching (Wilderei) is a criminal offence under §292 StGB.",
+      "penalty": "Poaching: up to 3 years imprisonment; hunting without licence: fines up to €5,000",
+      "exceptions": ["Farmers may shoot crop-destroying rabbits and pigeons on their own land without Jagdschein"],
+      "source": "https://www.hlnug.de/jagd",
+      "sourceLabel": "Hessen Jagd",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why was night hunting with thermal optics legalised in Hesse in 2021?",
+        "options": ["Deer population control", "African Swine Fever (ASF) wild boar management", "Fox rabies control", "Seasonal wolf culling"],
+        "correct": 1,
+        "explanation": "Hesse legalised night hunting with thermal optics for wild boar in 2021 to help control African Swine Fever (ASF) spread."
+      }
+    },
+    {
+      "id": 41713,
+      "category": "Social",
+      "severity": "medium",
+      "icon": "👶",
+      "title": "Hessisches Kinder- und Jugendhilfegesetzbuch (HKJGB)",
+      "subtitle": "Hesse's child and youth welfare law",
+      "fullDescription": "Hesse's HKJGB implements SGB VIII and adds state-specific provisions for child protection. All children in Hesse have a right to Kita from age 1 under §24 SGB VIII. Hesse's Kita fees are income-related (unlike Berlin's free system). The Hessisches Kinderschutzgesetz mandates reporting of child abuse by professionals. Hesse's Jugendämter (youth welfare offices) in 26 Landkreise/kreisfreie Städte investigate all child welfare concerns.",
+      "penalty": "Failure to report known abuse: professional sanctions; neglect: §171 StGB up to 3 years",
+      "exceptions": ["Confidential counselling services may advise without reporting obligation in certain circumstances"],
+      "source": "https://www.soziales.hessen.de/kinder-jugend",
+      "sourceLabel": "Hessen Kinder & Jugend",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many Jugendämter (youth welfare offices) does Hesse operate?",
+        "options": ["12", "18", "26", "35"],
+        "correct": 2,
+        "explanation": "Hesse operates 26 Jugendämter across its Landkreise and kreisfreie Städte."
+      }
+    },
+    {
+      "id": 41714,
+      "category": "Cybersecurity",
+      "severity": "high",
+      "icon": "🛡️",
+      "title": "Hessen CyberCompetenceCenter (Hessen3C)",
+      "subtitle": "Hesse's state cybersecurity authority",
+      "fullDescription": "The Hessen CyberCompetenceCenter (Hessen3C) is Hesse's state cybersecurity authority, established 2019 and strengthened after attacks on Frankfurt and Gießen city IT systems in 2019. Under NIS2 (EU Directive 2022/2555, transposed into German law 2024), critical infrastructure operators — including Frankfurt's financial sector — must report incidents within 24 hours and implement minimum security measures. Hessen3C cooperates with BSI nationally.",
+      "penalty": "NIS2 violations: fines up to €10 million or 2% of global turnover for essential entities",
+      "exceptions": ["Micro-enterprises (under 10 employees) exempt from most NIS2 obligations"],
+      "source": "https://www.hessen.de/hessen3c",
+      "sourceLabel": "Hessen3C",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When must critical infrastructure operators report cybersecurity incidents under NIS2?",
+        "options": ["12 hours", "24 hours", "72 hours", "7 days"],
+        "correct": 1,
+        "explanation": "Under NIS2 (2022/2555), essential entities must report significant cybersecurity incidents to authorities within 24 hours."
+      }
+    },
+    {
+      "id": 41715,
+      "category": "Trade Fair",
+      "severity": "low",
+      "icon": "🏟️",
+      "title": "Messe Frankfurt — World's Largest Trade Fair Company",
+      "subtitle": "Frankfurt's trade fair corporation — global operations",
+      "fullDescription": "Messe Frankfurt GmbH (owned: City of Frankfurt 60%, Hesse 40%) is one of the world's largest trade fair companies. It operates the Frankfurt Exhibition Centre (578,000 m² gross hall area) and hosts Automechanika, Light+Building, Ambiente, and Musikmesse. Trade fair exhibitors are subject to Messe-AGB (general terms), Hessian fire safety rules (Sonderbauvorschriften für Messen), and ABM (exhibition construction safety rules). International exhibitors must comply with German product liability law.",
+      "penalty": "Fire safety violations at trade fairs: immediate stand closure; fines; liability for injuries",
+      "exceptions": ["Prototype exhibits not for sale exempt from CE marking requirements"],
+      "source": "https://www.messefrankfurt.com",
+      "sourceLabel": "Messe Frankfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who owns Messe Frankfurt GmbH?",
+        "options": ["Federal government 100%", "City of Frankfurt 60%, Hesse 40%", "Private shareholders", "Deutsche Messe AG"],
+        "correct": 1,
+        "explanation": "Messe Frankfurt is owned 60% by the City of Frankfurt and 40% by the State of Hesse."
+      }
+    },
+    {
+      "id": 41716,
+      "category": "Social Security",
+      "severity": "medium",
+      "icon": "🤝",
+      "title": "Jobcenter Frankfurt — Bürgergeld Administration",
+      "subtitle": "Germany's Bürgergeld welfare system in Frankfurt",
+      "fullDescription": "Frankfurt's Jobcenter administers Bürgergeld (€563/month for singles, 2024) for 80,000+ recipients. Frankfurt's high rents mean the Kosten der Unterkunft (KdU — housing cost supplement) is among Germany's highest (up to €860/month for a single person's 'angemessene' apartment). Frankfurt's labour market is tight (3.8% unemployment 2024) — Jobcenter focus is on long-term unemployed and migrants. Integration agreements (Eingliederungsvereinbarungen) are mandatory.",
+      "penalty": "Sanktionen: benefit reductions up to 30% for non-cooperation; fraud prosecuted under §263 StGB",
+      "exceptions": ["Persons in vocational training, caregivers, and those medically unfit have reduced obligations"],
+      "source": "https://www.jobcenter-frankfurt.de",
+      "sourceLabel": "Jobcenter Frankfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Frankfurt's maximum monthly housing supplement (KdU) for a single Bürgergeld recipient?",
+        "options": ["€600", "€720", "€860", "€1,000"],
+        "correct": 2,
+        "explanation": "Due to Frankfurt's high rents, the Kosten der Unterkunft supplement can reach up to €860/month for a single person's adequate apartment."
+      }
+    },
+    {
+      "id": 41717,
+      "category": "Environment",
+      "severity": "high",
+      "icon": "♻️",
+      "title": "Hessisches Abfallgesetz — Waste Management",
+      "subtitle": "Hesse's waste law and zero waste targets",
+      "fullDescription": "Hesse's Abfallgesetz implements the EU Waste Framework Directive (2008/98/EC) and the Kreislaufwirtschaftsgesetz (KrWG). Hesse's state-owned EAD (Entsorgungsbetrieb der Stadt Darmstadt) and Frankfurt's FES (Frankfurter Entsorgungs- und Service GmbH) manage municipal waste. Hesse targets 65% municipal waste recycling (2025). Illegal dumping (wildes Ablagern) of construction waste in forests triggers full cleanup costs on the polluter. PFAS (per- and polyfluoroalkyl substances) discharge to water requires specific permits.",
+      "penalty": "Illegal hazardous waste dumping: up to 5 years imprisonment; cleanup cost liability",
+      "exceptions": ["Green waste (garden cuttings) composted on own property exempt from waste disposal fees"],
+      "source": "https://www.umwelt.hessen.de/abfall",
+      "sourceLabel": "Hessen Umwelt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What recycling rate does Hesse target by 2025?",
+        "options": ["45%", "55%", "65%", "75%"],
+        "correct": 2,
+        "explanation": "Hesse targets 65% municipal waste recycling rate by 2025, in line with EU Waste Framework Directive requirements."
+      }
+    },
+    {
+      "id": 41718,
+      "category": "Insurance",
+      "severity": "high",
+      "icon": "🛡️",
+      "title": "Frankfurt Insurance Hub — BaFin Supervision",
+      "subtitle": "Frankfurt as Germany's insurance regulatory centre",
+      "fullDescription": "Frankfurt is home to major German insurers including Allianz (Munich), Zurich (Frankfurt office), and R+V Versicherung (Wiesbaden, Hesse). BaFin (Bundesanstalt für Finanzdienstleistungsaufsicht), based in Bonn and Frankfurt, supervises all German insurers under VVG (insurance contract law) and EU Solvency II Directive. Minimum solvency capital ratios must be maintained. InsurTech companies operating from Frankfurt fintech hub require BaFin FinTech-Lizenz.",
+      "penalty": "Insolvency due to Solvency II breach: BaFin intervention; policyholder protection via Protektor AG",
+      "exceptions": ["Captive insurers serving only their parent group have simplified Solvency II requirements"],
+      "source": "https://www.bafin.de",
+      "sourceLabel": "BaFin Frankfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What EU directive governs insurance solvency requirements enforced by Frankfurt's BaFin?",
+        "options": ["Basel III", "MiFID II", "Solvency II", "IORP II"],
+        "correct": 2,
+        "explanation": "Solvency II (EU Directive 2009/138/EC) sets capital adequacy and governance requirements for EU insurers, enforced in Germany by BaFin."
+      }
+    },
+    {
+      "id": 41719,
+      "category": "Labour",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Hessisches Tariftreue- und Vergabegesetz (HVTG)",
+      "subtitle": "Hesse's public procurement — wage compliance requirements",
+      "fullDescription": "Hesse's HVTG requires contractors winning public procurement contracts (above EU thresholds: €5.5m for works, €143,000 for services) to pay applicable collective bargaining rates to all workers on the project. Subcontractors must also comply. Hesse's Vergaberecht includes environmental, social, and innovation criteria (§§31, 32 HVTG). Non-compliant bids are excluded. The Vergabekammer Hessen adjudicates procurement disputes.",
+      "penalty": "Contract exclusion for non-compliant bidders; fines up to 1% of contract value for wage violations",
+      "exceptions": ["Contracts below EU thresholds follow simplified Unterschwellenvergabeordnung (UVgO) rules"],
+      "source": "https://www.hessen.de/hvtg",
+      "sourceLabel": "Hessen HVTG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does Hesse's HVTG require of public procurement contractors?",
+        "options": ["Pay corporate tax in Hesse", "Employ only German workers", "Pay applicable collective bargaining rates to all workers", "Submit annual sustainability reports"],
+        "correct": 2,
+        "explanation": "Hesse's HVTG (Tariftreue- und Vergabegesetz) requires all public procurement contractors to pay applicable collective bargaining rates."
+      }
+    },
+    {
+      "id": 41720,
+      "category": "Heritage",
+      "severity": "low",
+      "icon": "🏰",
+      "title": "Loreley & Rhine Gorge — UNESCO World Heritage",
+      "subtitle": "Upper Middle Rhine Valley — shared Hesse/Rhineland-Palatinate UNESCO site",
+      "fullDescription": "The Upper Middle Rhine Valley (Oberes Mittelrheintal, 67 km) is a UNESCO World Heritage Site (2002) shared between Hesse and Rhineland-Palatinate. The Loreley rock (132 m) is one of Germany's most visited natural landmarks. The Welterbegesetz (heritage protection agreement) restricts industrial development and requires visual impact assessments for new buildings. Hesse's section includes Rüdesheim am Rhein and Bingen. Rhine river cruise vessels are licensed by WSA Rhein.",
+      "penalty": "Heritage-incompatible construction: Denkmalschutz fines up to €500,000; possible UNESCO listing warning",
+      "exceptions": ["Necessary infrastructure repairs to existing bridges and rail lines exempt from full heritage assessment"],
+      "source": "https://www.welterbe-mittelrheintal.de",
+      "sourceLabel": "UNESCO Mittelrheintal",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year did the Upper Middle Rhine Valley (including Loreley) become UNESCO World Heritage?",
+        "options": ["1995", "1998", "2002", "2007"],
+        "correct": 2,
+        "explanation": "The Upper Middle Rhine Valley (Oberes Mittelrheintal), including the Loreley rock, was designated UNESCO World Heritage in 2002."
+      }
+    },
+    {
+      "id": 41721,
+      "category": "Cannabis",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Hesse Cannabis Social Club Licensing",
+      "subtitle": "Hesse's implementation of the CanG 2024",
+      "fullDescription": "Following Germany's Cannabis Act (CanG, April 2024), Hesse's Regierungspräsidien license cannabis social clubs (CSCs). Clubs are limited to 500 members, must be non-profit, and maintain 200m distance from schools and youth facilities. Each member may receive up to 25g/day (max 50g/month). Hesse's Ordnungsamt inspects compliance. Frankfurt's drug policy has historically favoured harm reduction (Frankfurt drug consumption rooms since 1994 — Germany's first).",
+      "penalty": "Non-compliant CSC: licence revocation; fines up to €30,000",
+      "exceptions": ["Medical cannabis prescribed by doctors operates under separate Betäubungsmittelgesetz/MedCanG pathway"],
+      "source": "https://www.frankfurt.de/drogen",
+      "sourceLabel": "Frankfurt Drogenpolitik",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Frankfurt open Germany's first drug consumption room?",
+        "options": ["1985", "1990", "1994", "2000"],
+        "correct": 2,
+        "explanation": "Frankfurt opened Germany's first drug consumption room in 1994, pioneering a harm reduction approach later adopted nationwide."
+      }
+    },
+    {
+      "id": 41722,
+      "category": "Animal Welfare",
+      "severity": "medium",
+      "icon": "🐾",
+      "title": "Hessisches Tierschutzgesetz",
+      "subtitle": "Hesse's animal welfare enforcement",
+      "fullDescription": "Hesse enforces the federal Tierschutzgesetz (TierSchG) through its Veterinärämter (veterinary offices) in each Landkreis. Hesse banned battery cage eggs before the national ban. Farm inspections target pig farming (Schweinehaltungs-Hygieneverordnung) and poultry keeping. Hesse's largest animal welfare case involved a major pig farm closure for systematic abuse (2022). The Tierheimgesetz requires animal shelters to meet minimum standards. Animal experiments require state ethics commission approval.",
+      "penalty": "Animal cruelty: up to 3 years imprisonment under §17 TierSchG",
+      "exceptions": ["Livestock slaughter for religious purposes (Schächten) permitted with state exemption from stunning requirement"],
+      "source": "https://www.hlnug.de/tierschutz",
+      "sourceLabel": "Hessen Tierschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What maximum penalty does §17 TierSchG set for animal cruelty in Germany?",
+        "options": ["1 year", "2 years", "3 years", "5 years"],
+        "correct": 2,
+        "explanation": "§17 TierSchG sets a maximum penalty of 3 years imprisonment for animal cruelty — the same across all German states."
+      }
+    },
+    {
+      "id": 41723,
+      "category": "Digital",
+      "severity": "medium",
+      "icon": "💻",
+      "title": "Frankfurt FinTech Hub — BaFin Digital Sandbox",
+      "subtitle": "Frankfurt as Europe's leading FinTech centre",
+      "fullDescription": "Frankfurt's TechQuartier hosts 200+ FinTech companies. BaFin operates an Innovation Hub providing regulatory guidance for new business models. Crypto asset service providers (CASPs) must register with BaFin under MiCAR (Markets in Crypto-Assets Regulation, 2024). Payment institutions require BaFin payment institution licence under ZAG (Zahlungsdiensteaufsichtsgesetz). Germany's first crypto securities (Kryptowertpapiere) were registered under eWpG (Electronic Securities Act) 2021.",
+      "penalty": "Operating as unregistered CASP after MiCAR deadline: up to 5 years imprisonment",
+      "exceptions": ["Crypto issued for internal company use (utility tokens) may qualify for reduced MiCAR obligations"],
+      "source": "https://www.techquartier.com",
+      "sourceLabel": "TechQuartier Frankfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What EU regulation requires crypto asset service providers to register with BaFin?",
+        "options": ["DORA", "MiFID II", "MiCAR", "PSD2"],
+        "correct": 2,
+        "explanation": "MiCAR (Markets in Crypto-Assets Regulation, 2024) requires all crypto asset service providers to obtain BaFin authorisation."
+      }
+    },
+    {
+      "id": 41724,
+      "category": "Public Safety",
+      "severity": "high",
+      "icon": "🚨",
+      "title": "Hessischer Katastrophenschutz — Civil Protection",
+      "subtitle": "Hesse's disaster protection system and CBRN response",
+      "fullDescription": "Hesse's Katastrophenschutzbehörde coordinates civil protection under the HBKG. Hesse is responsible for CBRN (chemical, biological, radiological, nuclear) response given Höchst industrial park and Frankfurt Airport. The state maintains ABC-Züge (CBRN response units) in all Landkreise. The Katwarn/NINA alert system covers all Hessian residents. Nuclear emergency plans cover the Biblis nuclear plant (decommissioned 2011) site in Hesse.",
+      "penalty": "Obstruction of civil protection measures: fines; requisition of private vehicles/facilities permitted in declared disaster",
+      "exceptions": ["Religious or conscientious objectors may substitute civil protection service with alternative community service"],
+      "source": "https://www.hessen.de/katastrophenschutz",
+      "sourceLabel": "Hessen Katastrophenschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why does Hesse maintain particularly strong CBRN response capacity?",
+        "options": ["Military bases", "Höchst chemical park and Frankfurt Airport", "Nuclear power plants still operating", "Proximity to French border"],
+        "correct": 1,
+        "explanation": "Hesse's CBRN capacity reflects risks from the Höchst industrial chemical park and Frankfurt Airport's hazmat handling."
+      }
+    },
+    {
+      "id": 41725,
+      "category": "Economy",
+      "severity": "info",
+      "icon": "📊",
+      "title": "Hesse GDP & Länderfinanzausgleich (Net Payer)",
+      "subtitle": "Hesse is one of Germany's richest states — major Finanzausgleich contributor",
+      "fullDescription": "Hesse has Germany's highest GDP per capita among the Flächenländer (non-city states), driven by Frankfurt's financial sector, Airbus, Merck, and trade fairs. Hesse is one of Germany's three permanent net payers into the Länderfinanzausgleich (fiscal equalisation system) alongside Bavaria and Baden-Württemberg, contributing €4–5 billion annually. Hesse has repeatedly challenged the Finanzausgleich formula before the Bundesverfassungsgericht.",
+      "penalty": "N/A — economic information",
+      "exceptions": [],
+      "source": "https://www.statistik.hessen.de",
+      "sourceLabel": "Hessen Statistik",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much does Hesse contribute annually to Germany's Länderfinanzausgleich?",
+        "options": ["€1–2 billion", "€2–3 billion", "€4–5 billion", "€7–8 billion"],
+        "correct": 2,
+        "explanation": "Hesse contributes €4–5 billion annually to Germany's Länderfinanzausgleich fiscal equalisation system as one of three permanent net payers."
+      }
+    }
+  ,
+    {
+      "id": 41726,
+      "category": "Road Safety",
+      "severity": "medium",
+      "icon": "🚦",
+      "title": "Hesse Road Safety — A66 Frankfurt–Wiesbaden",
+      "subtitle": "Hesse's motorway speed enforcement on urban autobahns",
+      "fullDescription": "The A66 connecting Frankfurt to Wiesbaden passes through dense urban areas with permanent 100 km/h limits and stationäre Blitzer (fixed speed cameras) at 12 locations. Hesse operates Germany's most comprehensive fixed camera network on urban autobahns. Section control (Streckenradar) measuring average speed over 2 km was piloted on the A66 in 2022. The Hessisches Ministerium für Wirtschaft oversees road safety targets — Hesse aims for zero road deaths by 2050 (Vision Zero).",
+      "penalty": "Speeding 21–30 km/h over limit: €80 + 1 point; 31–40 km/h: €160 + 2 points + 1 month ban",
+      "exceptions": ["Emergency vehicles responding to calls are exempt from speed limits under §35 StVO"],
+      "source": "https://www.hessen-mobil.de",
+      "sourceLabel": "Hessen Mobil",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What was piloted on Hesse's A66 motorway in 2022?",
+        "options": ["Autonomous vehicle lane", "Section control (average speed over 2 km)", "Electric vehicle priority lane", "Congestion charging"],
+        "correct": 1,
+        "explanation": "Hesse piloted section control (Streckenradar) on the A66 in 2022, measuring average speed over a 2 km stretch."
+      }
+    },
+    {
+      "id": 41727,
+      "category": "Legal Aid",
+      "severity": "medium",
+      "icon": "⚖️",
+      "title": "Prozesskostenhilfe (PKH) in Hesse",
+      "subtitle": "Legal aid for low-income litigants in Hessian courts",
+      "fullDescription": "Prozesskostenhilfe (PKH — legal aid) is available to persons unable to afford court costs. In Hesse, PKH covers court fees and appointed lawyer fees (Pflichtverteidiger in criminal cases). Frankfurt's courts handle Germany's highest volume of PKH applications due to its diverse, lower-income population. The Rechtsantragsstelle at each Amtsgericht provides free legal advice. Income thresholds: single person under ~€1,600/month net qualifies for full PKH.",
+      "penalty": "False PKH applications: repayment of costs + criminal fraud charges",
+      "exceptions": ["Criminal defendants who cannot afford a lawyer always receive a Pflichtverteidiger regardless of income"],
+      "source": "https://www.justiz.hessen.de",
+      "sourceLabel": "Justiz Hessen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What income threshold qualifies a single person for full Prozesskostenhilfe in Germany?",
+        "options": ["Under €800/month", "Under €1,200/month", "Under €1,600/month", "Under €2,000/month"],
+        "correct": 2,
+        "explanation": "A single person earning under approximately €1,600/month net may qualify for full Prozesskostenhilfe (PKH) legal aid."
+      }
+    },
+    {
+      "id": 41728,
+      "category": "Telecommunications",
+      "severity": "medium",
+      "icon": "📡",
+      "title": "Frankfurt 5G Network — TKG 2021 Obligations",
+      "subtitle": "Hesse's 5G rollout under Germany's updated telecoms law",
+      "fullDescription": "Germany's updated Telekommunikationsgesetz (TKG 2021) transposes the EU EECC and mandates 5G coverage for roads, railways, and populated areas. In Hesse, Frankfurt's financial district was prioritised for 5G by Telekom, Vodafone, and O2. Network operators must allow open infrastructure access (Mitnutzungsrecht). The Bundesnetzagentur monitors 5G coverage maps. Frankfurt's dense financial IT environment requires low-latency 5G for algorithmic trading compliance.",
+      "penalty": "TKG coverage obligations: Bundesnetzagentur fines; licence conditions for failure to build",
+      "exceptions": ["Remote rural Hesse areas have extended 5G rollout deadlines (2030 target)"],
+      "source": "https://www.bundesnetzagentur.de",
+      "sourceLabel": "Bundesnetzagentur",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What EU directive does Germany's TKG 2021 transpose?",
+        "options": ["GDPR", "NIS2", "EECC (European Electronic Communications Code)", "Digital Markets Act"],
+        "correct": 2,
+        "explanation": "Germany's TKG 2021 transposes the EU EECC (European Electronic Communications Code), updating telecoms regulation including 5G rollout obligations."
+      }
+    },
+    {
+      "id": 41729,
+      "category": "Food",
+      "severity": "low",
+      "icon": "🥨",
+      "title": "Apfelwein (Apple Wine) — Frankfurt Traditional Drink",
+      "subtitle": "Frankfurt's Ebbelwoi — protected regional tradition",
+      "fullDescription": "Apfelwein (Ebbelwoi/Äppler) is Frankfurt's traditional alcoholic drink — fermented apple juice with 5–7% alcohol. Frankfurt's Sachsenhausen district is the Apfelwein quarter with dozens of Apfelweinwirtschaften (apple wine taverns). The Bembel (stoneware jug) is the traditional serving vessel. Apfelwein is not a PDO/PGI product but Frankfurt's Apfelwein is associated with regional identity. Alcohol-free Süßer (fresh apple juice) is sold alongside. Serving alcohol to under-16s violates JuSchG.",
+      "penalty": "Serving alcohol to minors: fines up to €5,000 under JuSchG",
+      "exceptions": ["16–17 year olds may legally consume beer and wine (not spirits) under JuSchG §9"],
+      "source": "https://www.frankfurt.de/apfelwein",
+      "sourceLabel": "Frankfurt Apfelwein",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which Frankfurt district is the traditional Apfelwein (apple wine) quarter located?",
+        "options": ["Bornheim", "Sachsenhausen", "Nordend", "Bockenheim"],
+        "correct": 1,
+        "explanation": "Frankfurt's Sachsenhausen district is the traditional Apfelwein quarter, home to dozens of Apfelweinwirtschaften serving Ebbelwoi."
+      }
+    },
+    {
+      "id": 41730,
+      "category": "Space",
+      "severity": "low",
+      "icon": "🚀",
+      "title": "ESA ESOC Darmstadt — Space Operations",
+      "subtitle": "European space operations centre in Hesse",
+      "fullDescription": "ESA's European Space Operations Centre (ESOC) is located in Darmstadt, Hesse, and controls all ESA satellite missions including Mars Express, Rosetta, and Gaia. ESOC operates under a 1975 Host Country Agreement with Germany. Staff enjoy limited diplomatic status. German export controls (AWG/AWV) apply to dual-use space technology. The Space2025 programme funds German space sector companies in the Darmstadt region. ESOC employs 800+ from 20+ nations.",
+      "penalty": "Unauthorised access to ESOC facilities: security offence; dual-use export violations: criminal prosecution",
+      "exceptions": ["International staff with ESOC accreditation have simplified customs procedures for work equipment"],
+      "source": "https://www.esoc.esa.int",
+      "sourceLabel": "ESA ESOC Darmstadt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is ESOC in Darmstadt responsible for?",
+        "options": ["Developing rocket engines", "Operating all ESA satellite missions from ground", "Manufacturing satellites", "Training ESA astronauts"],
+        "correct": 1,
+        "explanation": "ESA ESOC in Darmstadt controls and operates all ESA satellite missions from the ground, including Mars Express and Gaia."
+      }
+    },
+    {
+      "id": 41731,
+      "category": "Retail",
+      "severity": "low",
+      "icon": "🛍️",
+      "title": "Zeil Frankfurt — Pedestrian Zone Law",
+      "subtitle": "Frankfurt's Zeil: Germany's highest-turnover shopping street",
+      "fullDescription": "The Zeil in Frankfurt is Germany's highest-turnover shopping street (€1 billion+ annual retail sales/km). It is a pedestrian zone (Fußgängerzone) under §41 StVO — motor vehicles prohibited except for delivery 05:00–11:00 and emergency vehicles. E-bikes may not be ridden on the Zeil; cyclists must walk bikes. Street performers (Straßenkünstler) require a Sondernutzungserlaubnis (special use permit) from Frankfurt Ordnungsamt. Skateboarding is prohibited.",
+      "penalty": "Driving in pedestrian zone: fines €35–80; skateboarding: €15 fine",
+      "exceptions": ["Approved events may temporarily close adjoining streets and expand Zeil use"],
+      "source": "https://www.frankfurt.de/zeil",
+      "sourceLabel": "Frankfurt Innenstadt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the annual retail turnover of Frankfurt's Zeil shopping street?",
+        "options": ["€200 million", "€500 million", "€1 billion+", "€2 billion"],
+        "correct": 2,
+        "explanation": "Frankfurt's Zeil generates over €1 billion in annual retail sales per km, making it Germany's highest-turnover shopping street."
+      }
+    },
+    {
+      "id": 41732,
+      "category": "Environment",
+      "severity": "high",
+      "icon": "🌍",
+      "title": "Hessischer Klimaschutzplan 2025",
+      "subtitle": "Hesse's climate action plan — 40% CO₂ reduction by 2025",
+      "fullDescription": "Hesse's Integrierter Klimaschutzplan Hessen 2025 targets 40% CO₂ reduction vs. 1990. The Hessisches Klimaschutzgesetz (HKlimaSchG 2021) legally binds the state government. Hesse's CO₂ emissions are dominated by Frankfurt Airport, the Autobahn network, and industrial Höchst. The state renewable energy target is 100% by 2050. Hesse provides €300 million in Klimaschutzförderung (climate funding) annually for building insulation, solar, and transport.",
+      "penalty": "State bodies must report annual emissions; no direct citizen penalties for missing targets",
+      "exceptions": ["Emergency industrial operations may exceed emissions limits with temporary Regierungspräsidium exemption"],
+      "source": "https://www.hessen.de/klimaschutz",
+      "sourceLabel": "Hessen Klimaschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What CO₂ reduction target does Hesse's Klimaschutzplan 2025 set?",
+        "options": ["25% vs. 1990", "30% vs. 1990", "40% vs. 1990", "55% vs. 1990"],
+        "correct": 2,
+        "explanation": "Hesse's Klimaschutzplan 2025 targets a 40% reduction in CO₂ emissions compared to 1990 levels."
+      }
+    },
+    {
+      "id": 41733,
+      "category": "Consumer Rights",
+      "severity": "medium",
+      "icon": "🛡️",
+      "title": "Verbraucherzentrale Hessen — Consumer Advice Centre",
+      "subtitle": "Hesse's consumer advice centre enforces consumer rights",
+      "fullDescription": "Verbraucherzentrale Hessen (VZH) is funded by Hesse and provides legal consumer advice, conducts market surveillance, and takes companies to court via Abmahnungen (cease-and-desist letters). VZH has sued companies for GDPR violations, misleading advertising (UWG), and unfair contract terms (AGB). Frankfurt's competitive legal environment makes VZH particularly active against FinTech and banking sector consumer abuses. VZH publishes complaint rankings and product test results.",
+      "penalty": "UWG Abmahnung: injunction + legal costs; systematic violations: up to €250,000 Ordnungsgeld",
+      "exceptions": ["B2B (business-to-business) transactions have reduced consumer protection — UWG applies differently"],
+      "source": "https://www.verbraucherzentrale-hessen.de",
+      "sourceLabel": "Verbraucherzentrale Hessen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is an Abmahnung issued by Verbraucherzentrale Hessen?",
+        "options": ["A tax audit notice", "A cease-and-desist letter requiring a company to stop unlawful practices", "A product recall order", "A court subpoena"],
+        "correct": 1,
+        "explanation": "An Abmahnung is a cease-and-desist letter requiring a company to stop unlawful practices (e.g. GDPR violations, misleading ads) or face injunction."
+      }
+    },
+    {
+      "id": 41734,
+      "category": "Disability",
+      "severity": "medium",
+      "icon": "♿",
+      "title": "Hessisches Behinderten-Gleichstellungsgesetz (HessBGG)",
+      "subtitle": "Hesse's disability equality law — accessibility obligations",
+      "fullDescription": "Hesse's HessBGG (2004, updated 2022) requires state buildings, websites, and public transport to be accessible under DIN 18040 and BITV 2.0 (web accessibility). The Hessische Beauftragte für Menschen mit Behinderungen monitors compliance. Frankfurt's U-Bahn has 85% accessible stations. The UN CRPD (ratified Germany 2009) is directly applicable. The EU Accessibility Act (EAA, to be implemented by 2025) extends obligations to private sector banks and e-commerce.",
+      "penalty": "State body inaccessibility complaints: Ombudsman review; EU EAA violations from 2025: fines",
+      "exceptions": ["Historic listed buildings may apply for exemption if access modifications would damage heritage fabric"],
+      "source": "https://www.hessen.de/behinderung",
+      "sourceLabel": "Hessen Behindertenbeauftragte",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Frankfurt's U-Bahn stations are accessible to wheelchair users?",
+        "options": ["60%", "75%", "85%", "100%"],
+        "correct": 2,
+        "explanation": "Approximately 85% of Frankfurt's U-Bahn stations are step-free/accessible, with full accessibility targeted under HessBGG."
+      }
+    },
+    {
+      "id": 41735,
+      "category": "Gambling",
+      "severity": "medium",
+      "icon": "🎰",
+      "title": "Hessisches Glücksspielgesetz — Casino Wiesbaden",
+      "subtitle": "Wiesbaden Casino — Germany's oldest casino under state licence",
+      "fullDescription": "Wiesbaden's Spielbank is Germany's oldest casino (operating since 1810), licensed under the Hessisches Glücksspielgesetz (HGlüG). The state monopoly on casino gaming was upheld by German courts. Online gambling was liberalised under the Glücksspielstaatsvertrag 2021 (GlüStV 2021), allowing licensed private operators. Hesse's Glücksspielaufsicht (gambling supervisory authority) issues online licences. Slot machines (Geldspielgeräte) in pubs are regulated under SpielV, limited to 3 per venue in Hesse.",
+      "penalty": "Unlicensed gambling operations: up to 2 years imprisonment; fines up to €500,000",
+      "exceptions": ["Charity lotteries under €40,000 prize pool exempt from full gambling licence requirement"],
+      "source": "https://www.spielbank-wiesbaden.de",
+      "sourceLabel": "Spielbank Wiesbaden",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Since when has Wiesbaden's Spielbank (Germany's oldest casino) been operating?",
+        "options": ["1750", "1810", "1850", "1900"],
+        "correct": 1,
+        "explanation": "Wiesbaden's Spielbank has been operating since 1810, making it Germany's oldest casino still in operation."
+      }
+    },
+    {
+      "id": 41736,
+      "category": "Transport",
+      "severity": "medium",
+      "icon": "🚋",
+      "title": "Frankfurt Straßenbahn (Tram) Network",
+      "subtitle": "Frankfurt's tram network — shared road rules",
+      "fullDescription": "Frankfurt's 9-line tram (Straßenbahn) network operated by VGF (Verkehrsgesellschaft Frankfurt) covers 64 km. Trams have right-of-way over all road traffic under §19 StVO — all vehicles must yield to departing trams. Minimum 1 m side clearance when passing stationary trams. Frankfurt uniquely operates both trams and U-Bahn underground — some U-Bahn lines run above ground as light rail. Passengers alighting from trams in traffic must cross behind the tram.",
+      "penalty": "Failing to yield to departing tram: fines €35–75; accidents involving trams: civil liability",
+      "exceptions": ["Emergency vehicles responding to calls may pass stationary trams with caution"],
+      "source": "https://www.vgf-ffm.de",
+      "sourceLabel": "VGF Frankfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which StVO provision must vehicles yield to departing trams?",
+        "options": ["§12 StVO", "§17 StVO", "§19 StVO", "§25 StVO"],
+        "correct": 2,
+        "explanation": "§19 StVO requires all vehicles to yield to trams departing from stops — trams have priority over road traffic."
+      }
+    },
+    {
+      "id": 41737,
+      "category": "Religion",
+      "severity": "low",
+      "icon": "⛪",
+      "title": "Hessische Kirchensteuer — Church Tax",
+      "subtitle": "Hesse's church tax system for registered members",
+      "fullDescription": "Hesse collects Kirchensteuer (church tax) of 9% of income tax liability on behalf of the Catholic Church, Protestant Church (Evangelische Kirche in Hessen und Nassau — EKHN, and Kurhessen-Waldeck), and Jewish communities. Church membership is held on the Einwohnermeldeamt register — resignation (Kirchenaustritt) must be formally declared at the Amtsgericht. Frankfurt has Germany's largest Jewish community (8,000+) and its Jewish community (Jüdische Gemeinde Frankfurt) is Germany's oldest continuously active.",
+      "penalty": "Failure to notify Kirchenaustritt properly while continuing to withhold: Finanzamt assessment",
+      "exceptions": ["Non-church members pay no Kirchensteuer; declaration of no religion at registration avoids automatic enrolment"],
+      "source": "https://www.ekhn.de",
+      "sourceLabel": "EKHN Hessen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where must Frankfurt residents formally resign from their church to stop paying Kirchensteuer?",
+        "options": ["At the church itself", "At the Finanzamt", "At the Amtsgericht", "Online via ELSTER"],
+        "correct": 2,
+        "explanation": "Church resignation (Kirchenaustritt) must be declared formally before the Amtsgericht (district court) to stop Kirchensteuer deductions."
+      }
+    },
+    {
+      "id": 41738,
+      "category": "Social",
+      "severity": "medium",
+      "icon": "🏘️",
+      "title": "Frankfurt Nordend & Gentrifizierung — Anti-Displacement Policy",
+      "subtitle": "Frankfurt's Milieuschutz zones protect long-term residents",
+      "fullDescription": "Frankfurt has designated Milieuschutzgebiete (social conservation areas) in Nordend, Sachsenhausen, and Bornheim under §172 BauGB. In these zones, conversions of rental apartments to owner-occupied Eigentumswohnungen require city approval (Genehmigungsvorbehalt). Luxury modernisations that force rent increases above the Mietpreisbremse trigger Abwehrrechte (defence rights). Frankfurt's city council can exercise Vorkaufsrecht (pre-emption right) to buy buildings at market price before private investors.",
+      "penalty": "Unapproved conversion in Milieuschutzgebiet: nullity of conversion; administrative fine",
+      "exceptions": ["Owner-occupiers converting their own long-held apartment for personal use may receive an exception"],
+      "source": "https://www.frankfurt.de/milieuschutz",
+      "sourceLabel": "Frankfurt Stadtplanung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which BauGB provision can Frankfurt city buy buildings to prevent speculative conversion?",
+        "options": ["§34 BauGB", "§172 BauGB", "§203 BauGB", "§250 BauGB"],
+        "correct": 1,
+        "explanation": "§172 BauGB enables Milieuschutzgebiete (social conservation areas) where conversions require city approval and Vorkaufsrecht applies."
+      }
+    },
+    {
+      "id": 41739,
+      "category": "Finance",
+      "severity": "high",
+      "icon": "📊",
+      "title": "KfW Bank — Frankfurt Development Bank Headquarters",
+      "subtitle": "Germany's state development bank based in Frankfurt",
+      "fullDescription": "KfW (Kreditanstalt für Wiederaufbau), headquartered in Frankfurt, is Germany's and one of the world's largest development banks (€500+ billion balance sheet). KfW is owned by the federal government (80%) and Länder (20%). It funds energy-efficient building renovation, SME loans, student loans (KfW-Studienkredit), and Germany's international development (KfW IPEX-Bank). KfW loans are distributed through private banks. KfW is AAA-rated and exempt from normal banking supervision as a public law institution.",
+      "penalty": "KfW subsidy fraud: criminal prosecution under §264 StGB; repayment of subsidies + interest",
+      "exceptions": ["KfW itself exempt from EU state aid rules as a non-market entity under certain programmes"],
+      "source": "https://www.kfw.de",
+      "sourceLabel": "KfW Frankfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is KfW's approximate balance sheet total?",
+        "options": ["€100 billion", "€250 billion", "€500 billion", "€800 billion"],
+        "correct": 2,
+        "explanation": "KfW has a balance sheet of over €500 billion, making it one of the world's largest development banks."
+      }
+    },
+    {
+      "id": 41740,
+      "category": "Policing",
+      "severity": "high",
+      "icon": "🚔",
+      "title": "Hesse NSU Scandal — Verfassungsschutz Reforms",
+      "subtitle": "Hesse's domestic intelligence reforms after NSU terror links",
+      "fullDescription": "The NSU (National Socialist Underground) murdered 9 people with Turkish/Greek backgrounds and 1 policewoman in Germany 2000–2007. Two murders occurred in Frankfurt (Kassel region). Hesse's Verfassungsschutz (LfV Hessen) was found to have had a V-Mann (informant) at the scene of one NSU murder. The resulting scandal led to major reforms: parliamentary oversight committees, V-Mann controls, and the Hessisches Verfassungsschutzgesetz 2018 reform. LfV file destruction after NSU discovery caused further scandal.",
+      "penalty": "LfV officers destroying evidence face criminal charges; V-Mann handlers subject to disciplinary review",
+      "exceptions": ["V-Mann identities classified as state secret (Staatsgeheimnis) — parliamentary committees may review in camera"],
+      "source": "https://www.verfassungsschutz.hessen.de",
+      "sourceLabel": "LfV Hessen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What connection did Hesse's Verfassungsschutz have to the NSU murders?",
+        "options": ["It identified the NSU first", "It had a V-Mann (informant) present at one NSU murder scene", "It protected NSU witnesses", "It had no connection"],
+        "correct": 1,
+        "explanation": "Hesse's LfV had a V-Mann (registered informant) present at the Kassel murder of Halit Yozgat in 2006 — the handler claimed not to have noticed the shooting."
+      }
+    },
+    {
+      "id": 41741,
+      "category": "Housing",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Baulandmobilisierungsgesetz in Hesse",
+      "subtitle": "Germany's 2021 land mobilisation law applied in Frankfurt",
+      "fullDescription": "The Baulandmobilisierungsgesetz (2021) expanded §34 BauGB rights and gave municipalities new Vorkaufsrechte (pre-emption rights) in tight housing markets. Frankfurt has used these powers to purchase properties and protect affordable housing. The law also extended the Genehmigungsvorbehalt for Umwandlung (conversion of rental to owned) to more cities. Hesse's Regierungspräsidium Darmstadt supervises Frankfurt's designation as an Anspannungsgebiet (tight market). The law sunsets in 2026.",
+      "penalty": "Unauthorised Umwandlung in designated areas: administrative fine; nullity of conversion",
+      "exceptions": ["Conversions of small buildings (under 5 apartments) by owners living in the building may be exempt"],
+      "source": "https://www.bmwsb.bund.de/baulandmobilisierung",
+      "sourceLabel": "BMWSB Baulandmobilisierung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When does Germany's Baulandmobilisierungsgesetz sunset (expire)?",
+        "options": ["2024", "2025", "2026", "2030"],
+        "correct": 2,
+        "explanation": "The Baulandmobilisierungsgesetz (2021) contains a sunset clause expiring in 2026, after which its expanded pre-emption rights lapse."
+      }
+    },
+    {
+      "id": 41742,
+      "category": "International",
+      "severity": "info",
+      "icon": "🌍",
+      "title": "Frankfurt as EU Financial Capital",
+      "subtitle": "Frankfurt hosts 5 EU/international financial institutions",
+      "fullDescription": "Frankfurt hosts an unrivalled concentration of EU financial institutions: ECB (European Central Bank), EIOPA (European Insurance and Occupational Pensions Authority), ESRB (European Systemic Risk Board, co-located with ECB), EBA (European Banking Authority — moved to Paris post-Brexit but maintains significant Frankfurt presence), and ITLOS. Germany chose Frankfurt for these institutions under EU treaty negotiations. Hesse provides diplomatic protocol support to institution staff.",
+      "penalty": "N/A — institutional information",
+      "exceptions": [],
+      "source": "https://www.ecb.europa.eu",
+      "sourceLabel": "ECB Frankfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which EU supervisory authority for insurance is headquartered in Frankfurt?",
+        "options": ["ESMA", "EBA", "EIOPA", "SRB"],
+        "correct": 2,
+        "explanation": "EIOPA (European Insurance and Occupational Pensions Authority) is headquartered in Frankfurt alongside the ECB."
+      }
+    },
+    {
+      "id": 41743,
+      "category": "Criminal",
+      "severity": "high",
+      "icon": "🚔",
+      "title": "Frankfurt Drug Trafficking — §29 BtMG Enforcement",
+      "subtitle": "Frankfurt's drug hot-spot policing at Bahnhofsviertel",
+      "fullDescription": "Frankfurt's Bahnhofsviertel (station quarter) has Germany's most visible open drug scene. Hesse's police enforce §29 BtMG (Betäubungsmittelgesetz) — trafficking carries up to 5 years; commercial trafficking (§29a) up to 10 years. Frankfurt's Drogenhilfe (drug help) operates Germany's oldest drug consumption room (1994) and a heroin-assisted treatment programme (Diamorphin) under §10b BtMG. The CanG 2024 permits possession of up to 25g cannabis — reducing arrests significantly.",
+      "penalty": "Drug trafficking §29a BtMG: 1–10 years; §30 BtMG (gang trafficking): 2–15 years",
+      "exceptions": ["Personal use of cannabis up to 25g no longer criminal under CanG 2024"],
+      "source": "https://www.polizei.hessen.de",
+      "sourceLabel": "Polizei Hessen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Frankfurt open Germany's first heroin-assisted treatment (Diamorphin) programme?",
+        "options": ["1994 (with consumption rooms)", "1998", "2002", "2009"],
+        "correct": 2,
+        "explanation": "Frankfurt's heroin-assisted treatment (Diamorphin) programme began in 2002 under §10b BtMG, following the success of the 1994 drug consumption rooms."
+      }
+    },
+    {
+      "id": 41744,
+      "category": "Aviation",
+      "severity": "medium",
+      "icon": "🛸",
+      "title": "Frankfurt Airport CTR — Drone Exclusion Zone",
+      "subtitle": "Strict no-drone zone around Frankfurt Airport",
+      "fullDescription": "Frankfurt Airport is surrounded by a CTR (Control Zone) with a radius of approximately 7 km and altitude limit of 1,500 ft, within which all drone flights are prohibited without NOTAM/DFS approval under §21h LuftVO and EU Drone Regulation (EU 2019/947). Violations near airports are treated as serious (§315 StGB air traffic interference). The DFS (Deutsche Flugsicherung) based in Langen (Hesse) provides Germany's air traffic control and issues drone operational permits.",
+      "penalty": "Drone in airport CTR without permit: criminal charges §315 StGB; fines up to €50,000",
+      "exceptions": ["Police and emergency service drones authorised by DFS for airport security operations"],
+      "source": "https://www.dfs.de",
+      "sourceLabel": "DFS Deutsche Flugsicherung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where is Germany's air traffic control authority DFS headquartered?",
+        "options": ["Frankfurt city centre", "Langen, Hesse", "Munich", "Berlin"],
+        "correct": 1,
+        "explanation": "Germany's DFS (Deutsche Flugsicherung) is headquartered in Langen, near Frankfurt Airport in Hesse."
+      }
+    },
+    {
+      "id": 41745,
+      "category": "Heritage",
+      "severity": "low",
+      "icon": "🎻",
+      "title": "Frankfurt Opera & Alte Oper — Event Licensing",
+      "subtitle": "Frankfurt's Alte Oper and Oper Frankfurt — cultural venue rules",
+      "fullDescription": "The Alte Oper Frankfurt (1880, rebuilt 1981) is a concert hall — not an opera house despite its name. Oper Frankfurt (Städtische Bühnen) is the opera company, repeatedly voted Opera House of the Year. Both operate under the Hessische Versammlungsstättenverordnung (HVStättVO) for event safety. The Städtische Bühnen receive €100m+ annual city subsidies. Musicians employed under TVöD Bühnen (collective agreement) or NV Bühne. Ticketing requires accessible pricing under disability law.",
+      "penalty": "Events exceeding licensed capacity: immediate closure; HVStättVO violations: fines",
+      "exceptions": ["Closed rehearsals and technical tests do not require public event licence"],
+      "source": "https://www.alteoper.de",
+      "sourceLabel": "Alte Oper Frankfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is paradoxical about the Alte Oper Frankfurt?",
+        "options": ["It is run by the Hesse state, not Frankfurt city", "It is called an opera house but functions as a concert hall", "It has no public subsidy", "It was never bombed in WWII"],
+        "correct": 1,
+        "explanation": "Despite being called the 'Old Opera', the Alte Oper Frankfurt is actually a concert hall — the opera company (Oper Frankfurt) performs at a different venue."
+      }
+    },
+    {
+      "id": 41746,
+      "category": "Water Sports",
+      "severity": "low",
+      "icon": "🚣",
+      "title": "Main River Navigation — Recreational Rules",
+      "subtitle": "Frankfurt's Main river — rowing, kayaking, and motorboat rules",
+      "fullDescription": "The Main river through Frankfurt is a federal waterway (Bundeswasserstraße) administered by WSA Rhein-Main. Speed limit for motor boats in Frankfurt city section: 12 km/h. Rowing clubs (Rudervereine) must register with the Deutsches Ruderverband. Stand-up paddleboarding (SUP) without BSH registration permitted below 12 km/h. Motorboats require BSH Sportbootführerschein Binnen for 15 kW+ engines. The Nizza gardens on the Main bank are a protected green area.",
+      "penalty": "Motorboat without licence: fines up to €1,500; speed limit violation: fines €15–80",
+      "exceptions": ["Rowing in organised regattas with event permit exempt from standard navigation rules on blocked course"],
+      "source": "https://www.wsa-rhein-main.wsv.de",
+      "sourceLabel": "WSA Rhein-Main",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What speed limit applies to motor boats on the Main river through Frankfurt?",
+        "options": ["8 km/h", "10 km/h", "12 km/h", "20 km/h"],
+        "correct": 2,
+        "explanation": "Motor boats on the Main river through Frankfurt's city section are limited to 12 km/h."
+      }
+    },
+    {
+      "id": 41747,
+      "category": "Postal",
+      "severity": "low",
+      "icon": "📬",
+      "title": "Deutsche Post / DHL — Frankfurt Sorting Hub",
+      "subtitle": "Germany's largest postal sorting hub at Frankfurt Airport",
+      "fullDescription": "DHL's global hub at Frankfurt Airport (Hub 1 and Hub 2) processes 3+ million parcels nightly. Deutsche Post AG operates under the Postgesetz (PostG) and European Postal Services Directive. The universal service obligation (Universaldienst) requires delivery to every German address within 1 working day for standard letters. DHL's overnight air freight from Frankfurt requires Luftfahrtbehörde Hessen operating licences for cargo aircraft. Frankfurt hub employs 10,000+.",
+      "penalty": "Failure to meet Universaldienst standards: Bundesnetzagentur regulatory action; fines",
+      "exceptions": ["Islands and extremely remote locations may receive 2-day universal service delivery"],
+      "source": "https://www.dhl.com/frankfurt-hub",
+      "sourceLabel": "DHL Hub Frankfurt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many parcels does DHL's Frankfurt Airport hub process per night?",
+        "options": ["500,000", "1 million", "3 million+", "5 million"],
+        "correct": 2,
+        "explanation": "DHL's Frankfurt Airport global hub processes over 3 million parcels per night, making it one of the world's busiest cargo hubs."
+      }
+    },
+    {
+      "id": 41748,
+      "category": "Real Estate",
+      "severity": "medium",
+      "icon": "🏢",
+      "title": "Frankfurt Hochhaus-Cluster — Office Market Regulation",
+      "subtitle": "Frankfurt's bank towers — commercial real estate and planning law",
+      "fullDescription": "Frankfurt's banking district (Bankenviertel) contains Germany's highest concentration of skyscrapers. Office developments over 60m require Bebauungsplan (binding land-use plan) amendments and architectural competitions for landmark buildings. The Hochhausrahmenplan (2021) designates four development clusters. Commercial real estate transfer is subject to Grunderwerbsteuer (6% in Hesse). REITs (Real Estate Investment Trusts) are regulated under REITG and must distribute 90% of profits.",
+      "penalty": "Unapproved high-rise: Baugenehmigung refusal; REIT non-distribution: loss of tax-privileged status",
+      "exceptions": ["Small office conversions under 500 m² of additional floor area may proceed under standard Baugenehmigung"],
+      "source": "https://www.stadtplanungsamt-frankfurt.de",
+      "sourceLabel": "Frankfurt Stadtplanungsamt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of profits must German REITs distribute to shareholders?",
+        "options": ["50%", "70%", "90%", "100%"],
+        "correct": 2,
+        "explanation": "German REITs (Real Estate Investment Trusts) under REITG must distribute at least 90% of profits to maintain their tax-privileged status."
+      }
+    },
+    {
+      "id": 41749,
+      "category": "Demographics",
+      "severity": "info",
+      "icon": "🌍",
+      "title": "Frankfurt Diversity — International City Rules",
+      "subtitle": "Frankfurt: 58% non-German or migration background residents",
+      "fullDescription": "Frankfurt has one of Europe's most diverse populations: 58% of residents have a migration background, 180+ nationalities, 115 languages spoken. Frankfurt's Stadtschulamt operates multilingual schools. The Frankfurter Integrationssummit coordinates city-wide integration policy. Hesse's Kommunales Integrationsmanagement (KIM) funds local integration projects. Discrimination based on national origin violates AGG (Allgemeines Gleichbehandlungsgesetz) — Frankfurt's ADS (Antidiskriminierungsstelle) handles complaints.",
+      "penalty": "AGG discrimination: compensation claims up to 3 months' salary; criminal charges for severe cases",
+      "exceptions": ["Targeted support programmes for specific immigrant groups permitted as positive action under AGG §5"],
+      "source": "https://www.frankfurt.de/integration",
+      "sourceLabel": "Frankfurt Integration",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Frankfurt's residents have a migration background?",
+        "options": ["35%", "45%", "58%", "70%"],
+        "correct": 2,
+        "explanation": "58% of Frankfurt residents have a migration background, making it one of Europe's most internationally diverse cities."
+      }
+    },
+    {
+      "id": 41750,
+      "category": "Climate",
+      "severity": "medium",
+      "icon": "🌡️",
+      "title": "Frankfurt Heat Island — Urban Climate Adaptation",
+      "subtitle": "Frankfurt's urban heat island response and green infrastructure law",
+      "fullDescription": "Frankfurt experiences Germany's most intense urban heat island effect (up to 10°C warmer than surroundings). Frankfurt's Klimaanpassungsstrategie requires new developments to implement green roofs, Fassadenbegrünung (green facades), and permeable surfaces under the Bebauungsplan conditions. The Stadtwald (5,400 ha — one of Germany's largest urban forests) provides cooling. The Hessisches Klimaanpassungsgesetz (2024) obligates municipalities to adopt local adaptation plans by 2026.",
+      "penalty": "Non-compliant new developments: Baugenehmigung conditions not met = permit refusal",
+      "exceptions": ["Heritage-listed buildings exempt from mandatory green roof requirements"],
+      "source": "https://www.frankfurt.de/klimaanpassung",
+      "sourceLabel": "Frankfurt Klimaanpassung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much warmer can Frankfurt's urban heat island be compared to surrounding areas?",
+        "options": ["3°C", "5°C", "8°C", "10°C"],
+        "correct": 3,
+        "explanation": "Frankfurt's urban heat island effect can make the city up to 10°C warmer than surrounding rural areas — Germany's most intense urban heat island."
+      }
+    }
+  ]
+}

@@ -1,0 +1,2031 @@
+{
+  "country": "Kanagawa, Japan",
+  "slug": "kanagawa-japan",
+  "laws": [
+    {
+      "id": 42876,
+      "category": "Traffic & Driving",
+      "severity": "high",
+      "icon": "🚗",
+      "title": "0.03% BAC Driving Limit",
+      "subtitle": "Japan's strict drink-driving threshold applies across Kanagawa",
+      "fullDescription": "Under the Road Traffic Act (道路交通法), driving with a BAC of 0.03% or above is a criminal offence. Kanagawa Police enforce this at checkpoints on the Tomei Expressway and Route 1 Tokaido. Even a single standard drink can push an average person over the limit.",
+      "penalty": "Up to 3 years imprisonment or ¥500,000 fine; licence suspension for first offence",
+      "exceptions": [
+        "Commercial drivers are held to a zero-tolerance standard"
+      ],
+      "source": "https://www.police.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefectural Police",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Japan's BAC limit for driving, enforced in Kanagawa?",
+        "options": [
+          "0.08%",
+          "0.05%",
+          "0.03%",
+          "0.01%"
+        ],
+        "correct": 2,
+        "explanation": "Japan's Road Traffic Act sets the BAC limit at 0.03%, among the strictest in the world."
+      }
+    },
+    {
+      "id": 42877,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🎵",
+      "title": "Yokohama Noise Control Ordinance",
+      "subtitle": "Strict decibel limits in Japan's second-largest city",
+      "fullDescription": "Yokohama City's Noise Control Ordinance sets maximum noise levels for construction, factories, and entertainment venues. Residential areas may not be subjected to more than 60 dB(A) during day hours (08:00–19:00) or 45 dB(A) at night. Construction within 50 metres of a school or hospital requires advance notification and must stop by 19:00.",
+      "penalty": "Fines up to ¥500,000; stop-work orders for persistent construction violations",
+      "exceptions": [
+        "Emergency public works approved by the city may operate outside standard hours"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/",
+      "sourceLabel": "Yokohama City Environment Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the nighttime noise limit in Yokohama residential areas?",
+        "options": [
+          "35 dB(A)",
+          "45 dB(A)",
+          "55 dB(A)",
+          "65 dB(A)"
+        ],
+        "correct": 1,
+        "explanation": "Yokohama's ordinance limits nighttime noise in residential zones to 45 dB(A)."
+      }
+    },
+    {
+      "id": 42878,
+      "category": "Environmental",
+      "severity": "high",
+      "icon": "🏭",
+      "title": "Yokohama Port Industrial Emissions Standards",
+      "subtitle": "Strict air quality rules govern Japan's busiest port",
+      "fullDescription": "Yokohama enforces strict industrial emissions standards under the Air Pollution Control Act and Kanagawa Prefecture's enhanced ordinance. Port factories must install continuous emissions monitoring and report monthly. Kanagawa's history of severe industrial pollution drove some of Japan's earliest environmental laws.",
+      "penalty": "Up to ¥3,000,000 fine or 1 year imprisonment for exceeding emissions standards",
+      "exceptions": [
+        "Small-scale workshops below emission thresholds use simplified self-reporting"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Environment Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What must Yokohama Port factories install under Kanagawa's environmental rules?",
+        "options": [
+          "Solar panels",
+          "Continuous emissions monitoring equipment",
+          "Noise barriers",
+          "Water recycling systems"
+        ],
+        "correct": 1,
+        "explanation": "Yokohama Port industrial facilities must install continuous emissions monitoring and report monthly."
+      }
+    },
+    {
+      "id": 42879,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "⛩️",
+      "title": "Kamakura Great Buddha Protection Zone",
+      "subtitle": "Building and excavation restrictions around the national treasure",
+      "fullDescription": "The Kamakura Great Buddha (鎌倉大仏, Kotoku-in), a National Treasure, sits within a protected archaeological zone. Construction and excavation within 200 metres require approval from the Agency for Cultural Affairs. High-rise development altering the scenic backdrop is prohibited under Kamakura's landscape plan.",
+      "penalty": "Up to ¥500,000 fine or 5 years imprisonment for damaging designated national treasures",
+      "exceptions": [
+        "Approved conservation works by certified heritage bodies are exempt"
+      ],
+      "source": "https://www.bunka.go.jp/",
+      "sourceLabel": "Agency for Cultural Affairs",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How far from the Kamakura Great Buddha is construction restricted?",
+        "options": [
+          "50 metres",
+          "100 metres",
+          "200 metres",
+          "500 metres"
+        ],
+        "correct": 2,
+        "explanation": "Construction and excavation within 200 metres of the Great Buddha require Agency for Cultural Affairs approval."
+      }
+    },
+    {
+      "id": 42880,
+      "category": "Public Transport",
+      "severity": "medium",
+      "icon": "🚆",
+      "title": "Tokaido Shinkansen Passenger Conduct Rules",
+      "subtitle": "JR Central enforces strict behaviour rules on the high-speed line",
+      "fullDescription": "The Tokaido Shinkansen, stopping at Shin-Yokohama, is governed by JR Central's conduct rules and the Railway Business Act. Passengers must not obstruct doors, must use mobile phones silently in car 7 (quiet car on Hikari), and should avoid strong-smelling food in the cabin.",
+      "penalty": "Removal from train by staff; fines for obstructing railway operations up to ¥1,000,000",
+      "exceptions": [
+        "Green Car passengers may receive food service trays"
+      ],
+      "source": "https://www.jrcentral.co.jp/",
+      "sourceLabel": "JR Central Passenger Guidelines",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the quiet car rule on Tokaido Shinkansen Hikari services?",
+        "options": [
+          "No talking at all",
+          "Mobile phone calls banned in car 7",
+          "No eating or drinking",
+          "Children in family cars only"
+        ],
+        "correct": 1,
+        "explanation": "On Hikari Shinkansen services, car 7 is a quiet car where mobile phone calls are prohibited."
+      }
+    },
+    {
+      "id": 42881,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏠",
+      "title": "Yokohama Rental Housing Discrimination Prohibition",
+      "subtitle": "Landlords may not refuse foreigners, elderly, or disabled tenants without cause",
+      "fullDescription": "Yokohama City's housing guidelines reinforce the national Housing Accommodation Act. Landlords receiving city subsidies must not refuse tenants on grounds of nationality, age, or disability. The city operates a landlord mediation service, and documented discrimination may be reported to Kanagawa Prefecture.",
+      "penalty": "Loss of city subsidy eligibility; public naming for persistent discrimination",
+      "exceptions": [
+        "Shared housing with landlord on premises may impose certain house rules"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/",
+      "sourceLabel": "Yokohama City Housing Policy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What may Yokohama landlords lose if they discriminate in housing?",
+        "options": [
+          "Their buildings",
+          "City subsidy eligibility",
+          "Their citizenship",
+          "Neighbourhood association membership"
+        ],
+        "correct": 1,
+        "explanation": "Landlords receiving city subsidies risk losing that eligibility if they discriminate on protected grounds."
+      }
+    },
+    {
+      "id": 42882,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🚫",
+      "title": "Yokohama Gang Violence Exclusion Ordinance",
+      "subtitle": "Port city's organised crime laws are among Japan's strictest",
+      "fullDescription": "Kanagawa's Violent Crime Group Exclusion Ordinance covers the entire prefecture. Businesses must include anti-organised crime clauses in contracts and must report extortion attempts to police within 30 days. Failure to report may result in liability alongside the extorting party.",
+      "penalty": "Fines for businesses that pay extortion without reporting; up to 1 year imprisonment for associated parties",
+      "exceptions": [
+        "Businesses that report immediately and cooperate with police are protected from prosecution"
+      ],
+      "source": "https://www.police.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefectural Police",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many days do Kanagawa businesses have to report extortion to police?",
+        "options": [
+          "7 days",
+          "14 days",
+          "30 days",
+          "60 days"
+        ],
+        "correct": 2,
+        "explanation": "Kanagawa businesses must report extortion attempts to police within 30 days of the incident."
+      }
+    },
+    {
+      "id": 42883,
+      "category": "Food & Drink",
+      "severity": "medium",
+      "icon": "🍣",
+      "title": "Yokohama Fish Market Seafood Traceability",
+      "subtitle": "Sellers must document the origin of all seafood products",
+      "fullDescription": "Under the Food Labelling Act and Kanagawa's supplementary guidelines, seafood sold at Yokohama's Honmoku Wharf Market must carry country-of-origin labelling and, for wild-caught species, the catch area. Sellers lacking origin documentation face sales suspension.",
+      "penalty": "Sales suspension; fines up to ¥1,000,000 for repeat mislabelling",
+      "exceptions": [
+        "Pre-packaged products from certified processors with printed labels are exempt from additional documentation"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Food Safety Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What must wild-caught seafood labels include at Yokohama markets?",
+        "options": [
+          "Calorie count",
+          "Country of origin and catch area",
+          "Vessel name",
+          "Harvest date only"
+        ],
+        "correct": 1,
+        "explanation": "Wild-caught seafood must carry country-of-origin labelling and the catch area."
+      }
+    },
+    {
+      "id": 42884,
+      "category": "Education",
+      "severity": "low",
+      "icon": "🎓",
+      "title": "Yokohama International School Accreditation",
+      "subtitle": "Foreign curriculum schools must meet prefecture registration standards",
+      "fullDescription": "Kanagawa's international schools may operate as miscellaneous schools (各種学校) upon prefecture approval under the School Education Act. They must meet minimum safety, staffing, and curriculum disclosure standards. Schools on US military bases operate under SOFA and are exempt from prefecture oversight.",
+      "penalty": "Fines up to ¥300,000; closure order for operating without registration",
+      "exceptions": [
+        "Military base and diplomatic mission schools operate under their own jurisdictions"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Education Board",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which legal category do international schools typically operate in Kanagawa?",
+        "options": [
+          "Public school",
+          "Private high school",
+          "Miscellaneous school (各種学校)",
+          "Correspondence school"
+        ],
+        "correct": 2,
+        "explanation": "International schools in Kanagawa are typically registered as miscellaneous schools under the School Education Act."
+      }
+    },
+    {
+      "id": 42885,
+      "category": "Immigration & Identity",
+      "severity": "medium",
+      "icon": "🛂",
+      "title": "US Naval Base Yokosuka Access Rules",
+      "subtitle": "Civilians require military authorisation to enter SOFA-governed facilities",
+      "fullDescription": "Yokosuka Naval Base, home of the US 7th Fleet, operates under the Japan-US Status of Forces Agreement (SOFA). Japanese nationals and non-US foreign nationals require prior authorisation to enter. Japanese authorities have limited jurisdiction over crimes within the base perimeter.",
+      "penalty": "Trespassing: arrest by US military police and/or Japanese police; deportation for non-residents",
+      "exceptions": [
+        "Invited guests and contractors with valid passes may enter designated areas"
+      ],
+      "source": "https://www.mofa.go.jp/",
+      "sourceLabel": "Japan Ministry of Foreign Affairs — SOFA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What agreement governs US military bases in Kanagawa?",
+        "options": [
+          "UN Charter",
+          "Japan-US Mutual Defence Treaty",
+          "Status of Forces Agreement (SOFA)",
+          "Kanagawa Prefecture Ordinance"
+        ],
+        "correct": 2,
+        "explanation": "US bases in Japan operate under the Status of Forces Agreement (SOFA), which takes precedence over local ordinances."
+      }
+    },
+    {
+      "id": 42886,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Sagami Bay Marine Protected Area",
+      "subtitle": "Restrictions on fishing and anchoring in designated habitat zones",
+      "fullDescription": "Parts of Sagami Bay are designated Nature Conservation Areas, protecting diverse ecosystems including sea turtle nesting beaches at Yuigahama. Commercial fishing vessels must not anchor within marked zones and must respect seasonal species restrictions. Divers removing marine life face criminal penalties.",
+      "penalty": "Up to ¥500,000 fine for unauthorised fishing or anchoring in protected zones",
+      "exceptions": [
+        "Licensed scientific research vessels with prefectural permits may operate in protected zones"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Nature Conservation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is notably protected on Yuigahama beach in Kanagawa?",
+        "options": [
+          "Coral reef",
+          "Sea turtle nesting sites",
+          "Historical shipwrecks",
+          "Kelp forest"
+        ],
+        "correct": 1,
+        "explanation": "Yuigahama beach has sea turtle nesting sites protected under Kanagawa's Nature Conservation Area designations."
+      }
+    },
+    {
+      "id": 42887,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🌍",
+      "title": "Kanagawa Multicultural Coexistence Ordinance",
+      "subtitle": "Prefecture promotes rights of foreign residents",
+      "fullDescription": "Kanagawa's Basic Policy on Multicultural Coexistence ensures foreign residents have equal access to prefecture services with language support in at least English, Chinese, Korean, Portuguese, and Spanish. The policy was pioneered due to large Brazilian and Korean communities.",
+      "penalty": "No specific penalty; violations reported to the prefecture ombudsman",
+      "exceptions": [
+        "Security-sensitive services may be restricted to Japanese nationals"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Multicultural Policy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which language communities prompted Kanagawa's multicultural policy?",
+        "options": [
+          "English and French",
+          "Brazilian and Korean communities",
+          "Chinese and Vietnamese communities",
+          "Filipino and Thai communities"
+        ],
+        "correct": 1,
+        "explanation": "Kanagawa's multicultural policy was shaped particularly by its large Brazilian and Korean resident communities."
+      }
+    },
+    {
+      "id": 42888,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "💴",
+      "title": "Kanagawa Prefecture Tobacco Tax",
+      "subtitle": "Prefecture-level tobacco tax applies on top of national rates",
+      "fullDescription": "Kanagawa levies a prefectural tobacco tax on manufacturers and importers. Combined national, prefectural, and municipal tobacco tax accounts for over 60% of the retail price of cigarettes. Selling untaxed tobacco products is a criminal offence.",
+      "penalty": "Up to ¥1,000,000 fine or 3 years imprisonment for selling untaxed tobacco",
+      "exceptions": [
+        "Tobacco sold in duty-free shops to outbound international travellers is exempt"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Revenue Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of a cigarette's retail price in Kanagawa consists of combined tobacco taxes?",
+        "options": [
+          "30%",
+          "45%",
+          "Over 60%",
+          "Over 80%"
+        ],
+        "correct": 2,
+        "explanation": "Combined national, prefectural, and municipal tobacco taxes account for over 60% of cigarette retail prices in Kanagawa."
+      }
+    },
+    {
+      "id": 42889,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🚬",
+      "title": "Kanagawa Indoor Smoking Restrictions",
+      "subtitle": "Japan's first prefecture to ban indoor smoking in public places",
+      "fullDescription": "Kanagawa was Japan's first prefecture to enact an indoor public places smoking ban with its Passive Smoking Prevention Ordinance in 2009 — a decade before the national law. Smoking is prohibited inside restaurants, bars, hotels, and entertainment venues open to the public.",
+      "penalty": "Fines up to ¥50,000 for venue operators who fail to enforce the smoking ban",
+      "exceptions": [
+        "Designated smoking rooms with sealed ventilation systems are permitted"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Health Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Kanagawa introduce Japan's first indoor public places smoking ban?",
+        "options": [
+          "2005",
+          "2009",
+          "2013",
+          "2020"
+        ],
+        "correct": 1,
+        "explanation": "Kanagawa enacted Japan's first indoor smoking ban ordinance in 2009, a decade before the national law."
+      }
+    },
+    {
+      "id": 42890,
+      "category": "Disaster Preparedness",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Tsunami Evacuation Zones — Kanagawa Coastline",
+      "subtitle": "Strict building and evacuation rules in Sagami Bay tsunami risk areas",
+      "fullDescription": "Following 2011 Tōhoku, Kanagawa revised tsunami hazard maps. Coastal areas of Kamakura, Fujisawa, and Hiratsuka are classified as Tsunami Hazard Zones. New residential construction in highest-risk zones requires elevated foundations or tsunami-resistant certification. Evacuation routes must be posted along the coast.",
+      "penalty": "Building permit refusal for non-compliant coastal construction; fines for removing evacuation signage",
+      "exceptions": [
+        "Industrial port facilities with tsunami impact assessments may use alternative protective measures"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Disaster Prevention",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which coastal Kanagawa cities have Tsunami Hazard Zone designations?",
+        "options": [
+          "Yokohama, Kawasaki, Sagamihara",
+          "Kamakura, Fujisawa, Hiratsuka",
+          "Atsugi, Odawara, Miura",
+          "Zushi, Hayama, Chigasaki"
+        ],
+        "correct": 1,
+        "explanation": "Kamakura, Fujisawa, and Hiratsuka are among the Kanagawa coastal cities with Tsunami Hazard Zone designations."
+      }
+    },
+    {
+      "id": 42891,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "⚙️",
+      "title": "Kawasaki Heavy Industry Safety Regulations",
+      "subtitle": "Kanagawa's industrial corridor faces enhanced worker safety oversight",
+      "fullDescription": "Kawasaki City, one of Japan's foremost heavy industry centres, has enhanced industrial safety inspections. Chemical plants and steel works must have on-site safety supervisors at all times. Near-miss incidents must be reported within 24 hours, and fatal accidents trigger mandatory prefecture-level investigation.",
+      "penalty": "Up to ¥3,000,000 fine; work suspension; criminal prosecution for managerial negligence causing death",
+      "exceptions": [
+        "Administrative offices of factories use standard safety rules"
+      ],
+      "source": "https://jsite.mhlw.go.jp/kanagawa-roudoukyoku/",
+      "sourceLabel": "Kanagawa Labour Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Within how many hours must near-miss incidents be reported in Kawasaki industrial facilities?",
+        "options": [
+          "4 hours",
+          "12 hours",
+          "24 hours",
+          "48 hours"
+        ],
+        "correct": 2,
+        "explanation": "Near-miss incidents in Kawasaki's industrial facilities must be reported within 24 hours."
+      }
+    },
+    {
+      "id": 42892,
+      "category": "Tourism & Recreation",
+      "severity": "low",
+      "icon": "🏄",
+      "title": "Shonan Beach Conduct Rules",
+      "subtitle": "Japan's most famous surf beach has strict seasonal rules",
+      "fullDescription": "Shonan Beach, Japan's surf capital, has seasonal ordinances (June–September) prohibiting glass containers, open fires outside BBQ areas, and alcohol in carparks. Surfers must use designated surfing areas marked by buoys, separated from swimmer zones.",
+      "penalty": "Fines ¥5,000–¥20,000 for glass container violations; civil liability for surfing zone collisions",
+      "exceptions": [
+        "Lifeguard-supervised swimming areas may expand or contract seasonally"
+      ],
+      "source": "https://www.city.fujisawa.kanagawa.jp/",
+      "sourceLabel": "Fujisawa City Beach Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is prohibited at Shonan Beach under seasonal rules?",
+        "options": [
+          "Pets",
+          "Glass containers and fires outside BBQ zones",
+          "Surfing before 8am",
+          "Commercial photography"
+        ],
+        "correct": 1,
+        "explanation": "Glass containers and open fires outside designated BBQ areas are prohibited at Shonan Beach during the summer season."
+      }
+    },
+    {
+      "id": 42893,
+      "category": "Agriculture",
+      "severity": "low",
+      "icon": "🍊",
+      "title": "Kanagawa Farmland Preservation Ordinance",
+      "subtitle": "Urban sprawl restrictions protect remaining agricultural land",
+      "fullDescription": "Kanagawa has among Japan's highest land values, creating pressure to convert farmland. Converting registered agricultural land requires approval from the Kanagawa Agricultural Committee. Urban farming plots in Yokohama and Kawasaki must maintain active cultivation to retain reduced tax treatment.",
+      "penalty": "Back-payment of full property taxes if farmland is illegally developed; fines up to ¥1,000,000",
+      "exceptions": [
+        "Publicly-planned infrastructure projects may override farmland protection with compensation"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Agricultural Committee",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What must urban farming plots in Yokohama do to retain reduced tax treatment?",
+        "options": [
+          "Grow only certified organic produce",
+          "Maintain active cultivation",
+          "Open to the public twice yearly",
+          "File annual yield reports"
+        ],
+        "correct": 1,
+        "explanation": "Urban farming plots in Yokohama must maintain active cultivation to qualify for reduced agricultural tax rates."
+      }
+    },
+    {
+      "id": 42894,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🏪",
+      "title": "Yokohama Chinatown Vendor Conduct Rules",
+      "subtitle": "Japan's largest Chinatown has specific trading ordinances",
+      "fullDescription": "Yokohama's Chinatown (中華街), Japan's largest with over 600 businesses, operates under city ordinances. Hawking customers in a manner deemed threatening or obstructive is prohibited under Kanagawa's Nuisance Prevention Ordinance. Signage must comply with city bilingual labelling requirements.",
+      "penalty": "Warning from city; ¥10,000–¥50,000 fine for aggressive street hawking",
+      "exceptions": [
+        "Traditional restaurant greeting at entrance (not physically blocking passage) is permitted"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/",
+      "sourceLabel": "Yokohama City Commercial Zone Regulations",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Japan's largest Chinatown?",
+        "options": [
+          "Nagasaki Chinatown",
+          "Kobe Chinatown",
+          "Yokohama Chinatown",
+          "Osaka Chinatown"
+        ],
+        "correct": 2,
+        "explanation": "Yokohama's Chinatown is Japan's largest, with over 600 shops and restaurants."
+      }
+    },
+    {
+      "id": 42895,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Yokohama Minato Mirai Height Restrictions",
+      "subtitle": "Waterfront skyline managed by strict zoning height limits",
+      "fullDescription": "Yokohama's Minato Mirai 21 waterfront district has controlled building heights under Urban Planning Law designations. Maximum heights in sub-zones range from 120m to 296m (the Landmark Tower). New towers must undergo wind-impact and shadow assessments. The Yokohama City Design Council reviews all major development proposals.",
+      "penalty": "Building permits refused for non-compliant designs; mandatory redesign required",
+      "exceptions": [
+        "Major public infrastructure may negotiate individual height waivers"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/",
+      "sourceLabel": "Yokohama City Urban Planning",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum height in the core Minato Mirai zone, marked by the Landmark Tower?",
+        "options": [
+          "180m",
+          "240m",
+          "296m",
+          "350m"
+        ],
+        "correct": 2,
+        "explanation": "The Yokohama Landmark Tower at 296m marks the maximum height designation in the core Minato Mirai zone."
+      }
+    },
+    {
+      "id": 42896,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🛍️",
+      "title": "Yokohama Consumer Cooperative Fairness Rules",
+      "subtitle": "Co-op retailers must provide clear pricing and membership terms",
+      "fullDescription": "Kanagawa has a high concentration of consumer cooperatives (生活協同組合). Under the Consumer Cooperative Societies Act, co-ops must provide itemised breakdowns of membership fees and dividend calculations. Annual audits are required for co-ops with assets over ¥3 billion.",
+      "penalty": "Prefecture-imposed management improvement orders; fines up to ¥2,000,000 for misleading membership practices",
+      "exceptions": [
+        "Small community co-ops under ¥100M in assets use simplified reporting"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Consumer Affairs",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What annual requirement applies to Kanagawa consumer co-ops with assets over ¥3 billion?",
+        "options": [
+          "Public listing requirement",
+          "Mandatory merger review",
+          "Annual audit",
+          "Member referendum"
+        ],
+        "correct": 2,
+        "explanation": "Consumer co-ops in Kanagawa with assets exceeding ¥3 billion must undergo annual audits."
+      }
+    },
+    {
+      "id": 42897,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🧑‍⚖️",
+      "title": "Kanagawa Human Rights Counselling Service",
+      "subtitle": "Prefecture provides free legal aid for discrimination complaints",
+      "fullDescription": "Kanagawa operates a Human Rights Counselling Centre providing free legal advice and mediation in multiple languages. Housing discrimination, workplace harassment, and ethnic discrimination are the most common complaints handled.",
+      "penalty": "No direct penalty mechanism; referrals to police or courts for actionable violations",
+      "exceptions": [
+        "Complaints involving criminal conduct are referred directly to Kanagawa Prefectural Police"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Human Rights Counselling",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What are the most common complaint types at Kanagawa's Human Rights Counselling Centre?",
+        "options": [
+          "Tax disputes",
+          "Housing discrimination, workplace harassment, ethnic discrimination",
+          "Traffic accidents",
+          "Consumer product defects"
+        ],
+        "correct": 1,
+        "explanation": "Housing discrimination, workplace harassment, and ethnic discrimination are the most common complaint types."
+      }
+    },
+    {
+      "id": 42898,
+      "category": "Public Health",
+      "severity": "high",
+      "icon": "💉",
+      "title": "Kanagawa Mass Vaccination Programme Management",
+      "subtitle": "Prefecture coordinates large-scale public health immunisation drives",
+      "fullDescription": "Kanagawa, Japan's most populous prefecture, coordinates vaccination programmes with Yokohama, Kawasaki, and Sagamihara cities under the Immunization Act. During outbreaks, the Governor may invoke emergency vaccination orders. Wilful non-compliance may result in exclusion from public venues during epidemic emergencies.",
+      "penalty": "Exclusion from public facilities during epidemic emergency for unvaccinated non-exempt individuals",
+      "exceptions": [
+        "Medical exemptions granted by certified physicians are accepted"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Health and Welfare",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which three cities does Kanagawa coordinate vaccination programmes with?",
+        "options": [
+          "Kamakura, Odawara, Atsugi",
+          "Yokohama, Kawasaki, Sagamihara",
+          "Fujisawa, Chigasaki, Hiratsuka",
+          "Yokosuka, Miura, Hayama"
+        ],
+        "correct": 1,
+        "explanation": "Kanagawa coordinates mass vaccination with Yokohama, Kawasaki, and Sagamihara."
+      }
+    },
+    {
+      "id": 42899,
+      "category": "Traffic & Driving",
+      "severity": "medium",
+      "icon": "🚢",
+      "title": "Yokohama Port Speed Limits for Vessels",
+      "subtitle": "Ships must observe strict speed limits inside the harbour",
+      "fullDescription": "Under the Port and Harbour Act, vessels navigating within Yokohama Outer Port must not exceed 5 knots within 300 metres of piers and 3 knots in congested inner berth areas. The Port Authority monitors speed and may suspend berthing rights for violations.",
+      "penalty": "Fines up to ¥500,000; temporary suspension of berthing rights",
+      "exceptions": [
+        "Coast guard and emergency response vessels are exempt"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/kanko/portof/",
+      "sourceLabel": "Yokohama Port Authority",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the speed limit for vessels within 300 metres of Yokohama Port piers?",
+        "options": [
+          "3 knots",
+          "5 knots",
+          "8 knots",
+          "10 knots"
+        ],
+        "correct": 1,
+        "explanation": "Vessels must not exceed 5 knots within 300 metres of Yokohama Port piers."
+      }
+    },
+    {
+      "id": 42900,
+      "category": "Heritage & Culture",
+      "severity": "low",
+      "icon": "🏯",
+      "title": "Odawara Castle Preservation Zone",
+      "subtitle": "Development controls protect the restored Sengoku-era castle",
+      "fullDescription": "Odawara Castle (小田原城), the Hojo clan's stronghold, is a designated Historic Site. A 200-metre preservation zone prohibits construction over 10 metres in height. Commercial activities within the inner bailey require city council approval.",
+      "penalty": "Fines up to ¥500,000 for illegal construction in the preservation zone",
+      "exceptions": [
+        "Approved restoration and archaeological research by designated institutions are permitted"
+      ],
+      "source": "https://www.city.odawara.kanagawa.jp/",
+      "sourceLabel": "Odawara City Cultural Property Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which feudal clan historically held Odawara Castle?",
+        "options": [
+          "Tokugawa",
+          "Oda",
+          "Hojo",
+          "Date"
+        ],
+        "correct": 2,
+        "explanation": "Odawara Castle was the stronghold of the Hojo clan."
+      }
+    },
+    {
+      "id": 42901,
+      "category": "Environmental",
+      "severity": "high",
+      "icon": "🏭",
+      "title": "Kawasaki Pollution Compensation Scheme",
+      "subtitle": "Japan's pioneering industrial pollution compensation still operates",
+      "fullDescription": "Kawasaki was the site of severe post-war industrial pollution. Kanagawa's compensation scheme provides medical fee assistance to residents with certified pollution-related respiratory conditions. New industrial facilities near residential areas must undergo cumulative air quality impact assessments.",
+      "penalty": "Fines and shutdown orders for facilities exceeding emissions limits in residential-adjacent zones",
+      "exceptions": [
+        "Pre-existing facilities have transition period compliance schedules"
+      ],
+      "source": "https://www.city.kawasaki.jp/",
+      "sourceLabel": "Kawasaki City Environmental Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does Kawasaki's Pollution Compensation Scheme provide?",
+        "options": [
+          "Free hospitalisation",
+          "Medical fee assistance for pollution-related respiratory conditions",
+          "Monthly disability payment",
+          "Free medication only"
+        ],
+        "correct": 1,
+        "explanation": "Kawasaki's scheme provides medical fee assistance for residents with certified pollution-related respiratory conditions."
+      }
+    },
+    {
+      "id": 42902,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🚦",
+      "title": "Yokohama Night-Time Economic Zone Rules",
+      "subtitle": "Late-night businesses in Noge and Kannai must follow extended trading rules",
+      "fullDescription": "Yokohama's entertainment districts operate under the Act on Control and Improvement of Amusement Business (風営法). Nightclubs and hostess bars must hold licences and may not admit minors after 18:00. Police may enter without warrant for compliance checks. Venues near Chinatown have noise curfews after 01:00.",
+      "penalty": "Licence suspension for admitting minors; fines up to ¥2,000,000",
+      "exceptions": [
+        "Live music venues under 100 capacity may operate under simplified registration"
+      ],
+      "source": "https://www.police.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefectural Police Wind Business Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "After what time may Yokohama nightclubs not admit minors?",
+        "options": [
+          "16:00",
+          "18:00",
+          "20:00",
+          "22:00"
+        ],
+        "correct": 1,
+        "explanation": "Yokohama nightclubs under the Amusement Business Act must not admit minors after 18:00."
+      }
+    },
+    {
+      "id": 42903,
+      "category": "Disaster Preparedness",
+      "severity": "high",
+      "icon": "🌋",
+      "title": "Mt. Hakone Volcanic Alert System",
+      "subtitle": "Kanagawa enforces evacuation zones around Hakone's active volcano",
+      "fullDescription": "Mt. Hakone is an active volcano monitored by JMA. Kanagawa enforces a tiered volcanic alert system. At Alert Level 3 (Entry Restriction), summit access is prohibited and enforced by police. At Level 4, Hakone Town must begin resident evacuation. The 2015 eruption demonstrated the need for rapid enforcement.",
+      "penalty": "Fines or detention for entering restricted volcanic zones; civil liability for rescue costs",
+      "exceptions": [
+        "JMA and approved university scientists may enter with protective equipment and authorisation"
+      ],
+      "source": "https://www.jma.go.jp/",
+      "sourceLabel": "Japan Meteorological Agency — Hakone",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "At what volcanic alert level is access to Hakone's summit area prohibited?",
+        "options": [
+          "Level 1",
+          "Level 2",
+          "Level 3",
+          "Level 5"
+        ],
+        "correct": 2,
+        "explanation": "Hakone Alert Level 3 (Entry Restriction) prohibits public access to the summit area."
+      }
+    },
+    {
+      "id": 42904,
+      "category": "Food & Drink",
+      "severity": "medium",
+      "icon": "🥚",
+      "title": "Owakudani Black Eggs — Vendor Regulation",
+      "subtitle": "Volcanic hot spring eggs must meet food safety standards",
+      "fullDescription": "The famous black eggs (黒たまご) cooked in Hakone's volcanic springs are a major tourist product. Under Kanagawa's Food Sanitation Ordinance, vendors must maintain minimum storage temperatures and use-by labels. Vendors may not claim therapeutic health benefits that are not scientifically substantiated.",
+      "penalty": "Licence suspension for food safety failures; fines up to ¥500,000 for false health claims",
+      "exceptions": [
+        "Traditional folk claims printed as cultural tourism information (not health claims) may be permissible"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Food Safety Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why may Owakudani black egg production be suspended during volcanic alerts?",
+        "options": [
+          "Tourism crowd control",
+          "Egg quality declines at high alert levels",
+          "Safety order suspending access to volcanic vent cooking areas",
+          "Environmental protection"
+        ],
+        "correct": 2,
+        "explanation": "Prefecture safety orders can suspend access to the volcanic vent areas used to cook the famous black eggs."
+      }
+    },
+    {
+      "id": 42905,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "🤝",
+      "title": "Kanagawa Foreign Worker Housing Support Rules",
+      "subtitle": "Employers bringing foreign workers must meet housing standards",
+      "fullDescription": "Kanagawa, a major destination for overseas Technical Intern Trainees, enforces employer-provided housing standards through the Kanagawa Labour Bureau and OTIT. Employer housing must meet minimum floor space (4.5 tatami per person), sanitation, and heating standards. Employers may not deduct excessive amounts for housing.",
+      "penalty": "Programme suspension; employer banned from accepting new trainees for up to 5 years",
+      "exceptions": [
+        "Dormitory-style accommodation is permitted if individual space minimums are met per occupant"
+      ],
+      "source": "https://jsite.mhlw.go.jp/kanagawa-roudoukyoku/",
+      "sourceLabel": "Kanagawa Labour Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the minimum floor space per person for foreign worker housing in Kanagawa?",
+        "options": [
+          "2.5 tatami",
+          "3 tatami",
+          "4.5 tatami",
+          "6 tatami"
+        ],
+        "correct": 2,
+        "explanation": "Employer-provided housing for foreign workers must provide a minimum of 4.5 tatami per person."
+      }
+    },
+    {
+      "id": 42906,
+      "category": "Tourism & Recreation",
+      "severity": "low",
+      "icon": "🎡",
+      "title": "Hakone Open-Air Museum Safety Rules",
+      "subtitle": "Outdoor sculpture parks must meet visitor safety and preservation standards",
+      "fullDescription": "The Hakone Open-Air Museum (箱根彫刻の森美術館), Japan's first open-air museum (1969), operates under Ministry of Education registration and local tourism regulations. Visitors may not touch sculptures unless signage permits, and commercial photography requires written permission. Display conditions for loaned artworks are contractually binding.",
+      "penalty": "Civil liability for restoration costs for visitors damaging sculptures",
+      "exceptions": [
+        "Hands-on interactive sculptures designated as tactile exhibits are exempt from no-touch rules"
+      ],
+      "source": "https://www.hakone-oam.or.jp/",
+      "sourceLabel": "Hakone Open-Air Museum",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What was historically notable about the Hakone Open-Air Museum?",
+        "options": [
+          "It displayed samurai armour",
+          "It was Japan's first open-air museum",
+          "It was designed by a famous architect",
+          "It was the first museum in Kanagawa"
+        ],
+        "correct": 1,
+        "explanation": "The Hakone Open-Air Museum was Japan's first open-air museum, established in 1969."
+      }
+    },
+    {
+      "id": 42907,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏦",
+      "title": "Yokohama Municipal Bond Transparency",
+      "subtitle": "Japan's largest municipal bond issuer faces strict disclosure rules",
+      "fullDescription": "Yokohama City is Japan's largest municipal bond issuer. Under the Local Finance Act and Securities Exchange Act, it must publish annual financial statements and bond prospectuses disclosing all major liabilities. Deliberate non-disclosure may expose city officials to criminal liability.",
+      "penalty": "Criminal prosecution for officials knowingly misrepresenting municipal finances; bond issue suspension",
+      "exceptions": [
+        "Information classified for national security may be withheld"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/",
+      "sourceLabel": "Yokohama City Finance Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What distinction does Yokohama City hold in Japan's municipal finance market?",
+        "options": [
+          "Lowest municipal debt per capita",
+          "Oldest bond issuer",
+          "Japan's largest municipal bond issuer",
+          "First city to issue green bonds"
+        ],
+        "correct": 2,
+        "explanation": "Yokohama City is Japan's largest municipal bond issuer."
+      }
+    },
+    {
+      "id": 42908,
+      "category": "Public Transport",
+      "severity": "medium",
+      "icon": "🚇",
+      "title": "Yokohama Municipal Subway Fare Evasion Rules",
+      "subtitle": "Strict gate system and surveillance for fare compliance",
+      "fullDescription": "The Yokohama Municipal Subway enforces fare payment through automatic gates. Fare evasion is a civil and criminal offence. Persistent evaders face unpaid fares plus a penalty charge of up to 3 times the fare. IC card users passing through exit gates without sufficient balance cannot exit until balance is topped up.",
+      "penalty": "Civil claim for unpaid fares plus 3× penalty surcharge; criminal prosecution for deliberate systematic evasion",
+      "exceptions": [
+        "Passengers delayed by operational failure receive free supplementary ride vouchers"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/kotsu/",
+      "sourceLabel": "Yokohama Municipal Transportation Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What penalty surcharge can persistent fare evaders face on Yokohama Municipal Subway?",
+        "options": [
+          "Same as unpaid fare",
+          "Twice the fare",
+          "3 times the fare",
+          "5 times the fare"
+        ],
+        "correct": 2,
+        "explanation": "Persistent fare evaders face unpaid fares plus a 3× penalty surcharge."
+      }
+    },
+    {
+      "id": 42909,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🧪",
+      "title": "Yokohama Port Drug Interdiction Laws",
+      "subtitle": "Major port enforces strict drug import/export detection",
+      "fullDescription": "Yokohama Customs and Kanagawa Prefectural Police collaborate on drug interdiction at Yokohama Port. Container scanning and drug-detection dogs operate on all high-risk cargo. Japan's drug penalties are among the strictest in the developed world — importing even small amounts of cannabis or methamphetamine can carry potential life imprisonment.",
+      "penalty": "Up to life imprisonment for large-scale drug importation; minimum 1 year for any commercial drug import",
+      "exceptions": [
+        "Licensed pharmaceutical manufacturers may import restricted substances with Ministry of Health approval"
+      ],
+      "source": "https://www.customs.go.jp/",
+      "sourceLabel": "Yokohama Customs",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What controls drug importation through Yokohama Port?",
+        "options": [
+          "Only customs officers",
+          "Kanagawa police alone",
+          "Yokohama Customs and Kanagawa Prefectural Police collaborating",
+          "Coast Guard only"
+        ],
+        "correct": 2,
+        "explanation": "Yokohama Port's drug interdiction is a collaboration between Yokohama Customs and Kanagawa Prefectural Police."
+      }
+    },
+    {
+      "id": 42910,
+      "category": "Immigration & Identity",
+      "severity": "medium",
+      "icon": "🗂️",
+      "title": "Kanagawa Residence Card Registration Rules",
+      "subtitle": "Foreign nationals must update residence registration within 14 days",
+      "fullDescription": "Foreign nationals residing in Kanagawa for more than 3 months must register their address at the local ward or city office within 14 days of arriving. They must carry their Residence Card at all times. Kanagawa's Yokohama Immigration Bureau handles all status changes.",
+      "penalty": "Up to ¥200,000 fine for failure to register; deportation in serious cases",
+      "exceptions": [
+        "Short-stay tourists and diplomatic personnel use separate registration processes"
+      ],
+      "source": "https://www.moj.go.jp/",
+      "sourceLabel": "Yokohama Immigration Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many days do foreign nationals have to register their address in Kanagawa?",
+        "options": [
+          "7 days",
+          "14 days",
+          "30 days",
+          "60 days"
+        ],
+        "correct": 1,
+        "explanation": "Foreign nationals staying over 3 months must register within 14 days of arriving."
+      }
+    },
+    {
+      "id": 42911,
+      "category": "Heritage & Culture",
+      "severity": "low",
+      "icon": "🎨",
+      "title": "Yokohama Museum of Art Loan Conditions",
+      "subtitle": "International art loans follow strict conservation and insurance rules",
+      "fullDescription": "Yokohama Museum of Art operates under national museum law and international loan agreements. Loaned artworks valued over ¥10,000,000 must carry Government Indemnity insurance. Display conditions including temperature (18–22°C), humidity (45–55% RH), and lighting (max 50 lux for watercolours) are contractually binding.",
+      "penalty": "Civil liability to lending institution for damage; potential exclusion from future international loan programmes",
+      "exceptions": [
+        "Permanent collection works displayed at museum's discretion do not require indemnity insurance"
+      ],
+      "source": "https://www.yma.city.yokohama.jp/",
+      "sourceLabel": "Yokohama Museum of Art",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What maximum lux level must Yokohama Museum maintain for watercolour loans?",
+        "options": [
+          "20 lux",
+          "50 lux",
+          "100 lux",
+          "200 lux"
+        ],
+        "correct": 1,
+        "explanation": "Watercolour works on loan must be displayed at no more than 50 lux to prevent light damage."
+      }
+    },
+    {
+      "id": 42912,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🏊",
+      "title": "Kanagawa Swimming Pool Hygiene Standards",
+      "subtitle": "Public and hotel pools must meet residual chlorine standards",
+      "fullDescription": "Under Kanagawa's building sanitation guidance, public pools must maintain residual free chlorine between 0.4 and 1.0 mg/L and turbidity below 0.5 degrees. Pools must be tested at minimum three times per day. Pools used by more than 50 persons daily must appoint a certified pool sanitation manager.",
+      "penalty": "Closure orders for out-of-standard pool water; fines up to ¥300,000",
+      "exceptions": [
+        "Natural outdoor swimming areas (sea or river) are managed under separate beach safety rules"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Health Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How often must public pool water be tested during operating hours in Kanagawa?",
+        "options": [
+          "Once per day",
+          "Twice per day",
+          "Three times per day",
+          "Hourly"
+        ],
+        "correct": 2,
+        "explanation": "Kanagawa requires public pools to test water quality at minimum three times per day."
+      }
+    },
+    {
+      "id": 42913,
+      "category": "Agriculture",
+      "severity": "low",
+      "icon": "🥕",
+      "title": "Miura Peninsula Vegetable Brand Protection",
+      "subtitle": "Miura daikon and watermelon carry prefecture certification marks",
+      "fullDescription": "The Miura Peninsula is famous for Miura daikon (三浦大根) and watermelons. Kanagawa Prefecture Agricultural Co-operative certifies produce under JA Kanagawa Miura brand standards. Producers outside the approved growing area may not use the Miura brand name.",
+      "penalty": "Trademark infringement proceedings; up to ¥1,000,000 in fines for false brand use",
+      "exceptions": [
+        "Home gardening for personal use is not subject to brand certification"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "JA Kanagawa Miura Agricultural Co-operative",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What famous vegetable is the Miura Peninsula known for?",
+        "options": [
+          "Miura cabbage",
+          "Miura daikon (radish)",
+          "Miura lotus root",
+          "Miura burdock"
+        ],
+        "correct": 1,
+        "explanation": "The Miura Peninsula is famous for Miura daikon (giant radish) and watermelons."
+      }
+    },
+    {
+      "id": 42914,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🏳️‍🌈",
+      "title": "Yokohama City Partnership Certification",
+      "subtitle": "Yokohama recognises same-sex and unmarried partnerships",
+      "fullDescription": "Since 2021, Yokohama City issues Partnership Certification to same-sex and other unmarried couples. Certificate holders may share city-managed public housing, access joint medical decisions at city hospitals, and be treated as partners for city administrative purposes.",
+      "penalty": "False declarations may result in certificate revocation and administrative penalties",
+      "exceptions": [
+        "National-law marriage rights are unchanged; the certificate has no family registry (戸籍) effect"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/",
+      "sourceLabel": "Yokohama City Partnership Certification",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Yokohama City introduce its partnership certification scheme?",
+        "options": [
+          "2017",
+          "2019",
+          "2021",
+          "2023"
+        ],
+        "correct": 2,
+        "explanation": "Yokohama City launched its partnership certification scheme in 2021."
+      }
+    },
+    {
+      "id": 42915,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "📱",
+      "title": "Yokohama Online Consumer Fraud Prevention",
+      "subtitle": "City operates active SNS-monitoring scam alert service",
+      "fullDescription": "Yokohama City Consumer Affairs Centre monitors social media for scam advertisements targeting Kanagawa residents. Under the Act on Prevention of Unjustifiable Premiums and Misleading Representations, the city can issue removal requests to platforms and alert local media. A telephone hotline (☎ 045-845-6666) is available for scam reports.",
+      "penalty": "Civil and criminal penalties for perpetrators under fraud provisions and the Premiums Act",
+      "exceptions": [
+        "Legitimate promotions with clearly disclosed terms are not subject to removal requests"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/kurashi/consumer/",
+      "sourceLabel": "Yokohama City Consumer Affairs Centre",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does Yokohama City Consumer Affairs Centre do about online scam advertisements?",
+        "options": [
+          "Arrests scammers directly",
+          "Issues removal requests to platforms and alerts media",
+          "Only provides advice to victims",
+          "Forwards all cases to national police"
+        ],
+        "correct": 1,
+        "explanation": "Yokohama's Consumer Affairs Centre issues platform removal requests and alerts local media about scam ads."
+      }
+    },
+    {
+      "id": 42916,
+      "category": "Disaster Preparedness",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Kanagawa Liquefaction Risk Zone Disclosure",
+      "subtitle": "Property sellers must disclose liquefaction risk for reclaimed land",
+      "fullDescription": "Large parts of Yokohama Port island and Kawasaki's reclaimed industrial zones are prone to liquefaction during earthquakes. Under Kanagawa's real estate disclosure guidelines, sellers must disclose whether a property is in a prefecture-designated liquefaction risk zone. Failure to disclose can result in contract rescission.",
+      "penalty": "Contract rescission; civil damages; real estate agent licence suspension for non-disclosure",
+      "exceptions": [
+        "Properties on bedrock or in low-risk zones may use simplified disclosure forms"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Real Estate Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What must Kanagawa real estate sellers disclose about reclaimed land areas?",
+        "options": [
+          "Historical ownership records",
+          "Soil contamination",
+          "Liquefaction risk zone designation",
+          "Sea level rise projections"
+        ],
+        "correct": 2,
+        "explanation": "Sellers must disclose if a property is in a prefecture-designated liquefaction risk zone."
+      }
+    },
+    {
+      "id": 42917,
+      "category": "Employment & Labour",
+      "severity": "low",
+      "icon": "💼",
+      "title": "Yokohama Creative Industry Support Programme",
+      "subtitle": "City subsidises creative businesses and enforces fair IP practices",
+      "fullDescription": "Yokohama's Creative City Policy supports artists and cultural entrepreneurs in Koganecho and Kogane-cho art districts. Businesses receiving city cultural subsidies must comply with IP ownership disclosures. Freelancers under the 2024 Freelance Protection Act must receive written contracts.",
+      "penalty": "Subsidy clawback for non-disclosure; civil action available for uncontracted freelancers",
+      "exceptions": [
+        "Artists displaying at public exhibitions under city patronage have simplified administrative requirements"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/",
+      "sourceLabel": "Yokohama City Creative City Policy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What are the notable art districts in Yokohama's Creative City programme?",
+        "options": [
+          "Minato Mirai and Kannai",
+          "Koganecho and Kogane-cho",
+          "Chinatown and Motomachi",
+          "Yamashita Park and Isezakicho"
+        ],
+        "correct": 1,
+        "explanation": "Yokohama's Creative City programme is centred on the Koganecho and Kogane-cho art districts."
+      }
+    },
+    {
+      "id": 42918,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🐕",
+      "title": "Kanagawa Dog and Dangerous Animal Regulations",
+      "subtitle": "All dogs must be registered; large breed rules apply",
+      "fullDescription": "Under Kanagawa's Animal Protection Ordinance and the Rabies Prevention Act, all dogs must be registered annually and vaccinated against rabies. Dogs over 25kg of classified powerful breeds must be kept on lead and muzzled in public. Animal abandonment is a criminal offence.",
+      "penalty": "Up to ¥1,000,000 fine or 1 year imprisonment for animal abandonment; ¥20,000 for failing to register",
+      "exceptions": [
+        "Working dogs (guide dogs, police dogs, customs detection dogs) are exempt from muzzle requirements"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Animal Management Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What must dogs over 25kg of specified breeds do in public in Kanagawa?",
+        "options": [
+          "Be carried",
+          "Wear a collar only",
+          "Be on lead and muzzled",
+          "Stay in designated dog parks"
+        ],
+        "correct": 2,
+        "explanation": "Dogs over 25kg of powerful breeds must be kept on lead and muzzled in public spaces in Kanagawa."
+      }
+    },
+    {
+      "id": 42919,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏛️",
+      "title": "Kanagawa Hometown Tax (Furusato Nozei) Rules",
+      "subtitle": "Donors to Kanagawa municipalities receive tax deductions and local gifts",
+      "fullDescription": "Under the Hometown Tax system, individuals may donate to Kanagawa municipalities and receive up to 30% of the donation back as gifts of local products. Yokohama City, Kawasaki, and Kamakura participate. Gifts are capped at 30% of donation value and must be locally produced under 2023 rules.",
+      "penalty": "Municipalities offering non-compliant gifts lose central government equalisation grants",
+      "exceptions": [
+        "Donations over ¥1,000,000 to a single municipality trigger enhanced anti-abuse reporting"
+      ],
+      "source": "https://www.soumu.go.jp/",
+      "sourceLabel": "Ministry of Internal Affairs — Furusato Nozei",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum gift value as a percentage of donation under Japan's Hometown Tax rules?",
+        "options": [
+          "10%",
+          "20%",
+          "30%",
+          "50%"
+        ],
+        "correct": 2,
+        "explanation": "Return gifts are capped at 30% of the donation value under furusato nozei rules."
+      }
+    },
+    {
+      "id": 42920,
+      "category": "Tourism & Recreation",
+      "severity": "low",
+      "icon": "🚡",
+      "title": "Hakone Ropeway Safety and Capacity Rules",
+      "subtitle": "Hakone's famous aerial ropeway has strict load and weather rules",
+      "fullDescription": "The Hakone Ropeway, operating over volcanic terrain, is governed by the Railway Business Act and Cableway Safety Regulations. Each gondola is limited to 18 passengers, and operations are suspended when wind speeds exceed 10 m/s. During volcanic Activity Level 2 or above around Owakudani, the section over the active zone is closed.",
+      "penalty": "Operator licence suspension for overloading gondolas or operating in unsafe weather",
+      "exceptions": [
+        "Maintenance and safety inspection vehicles may operate outside normal passenger rules"
+      ],
+      "source": "https://www.hakoneropeway.co.jp/",
+      "sourceLabel": "Hakone Ropeway",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "At what wind speed is the Hakone Ropeway suspended?",
+        "options": [
+          "5 m/s",
+          "8 m/s",
+          "10 m/s",
+          "15 m/s"
+        ],
+        "correct": 2,
+        "explanation": "The Hakone Ropeway suspends operations when wind speeds exceed 10 m/s."
+      }
+    },
+    {
+      "id": 42921,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌳",
+      "title": "Kanagawa Urban Tree Canopy Preservation",
+      "subtitle": "Large trees in designated areas require permit before removal",
+      "fullDescription": "Kanagawa's Green Area Conservation Ordinance and Yokohama City's Urban Greenery Plan designate large trees as protected green areas. Removal of trees with a trunk circumference of 100cm or more requires advance notification or formal permit from the mayor. The city pays compensation to landowners whose trees are designated 'noteworthy trees'.",
+      "penalty": "Fines up to ¥3,000,000 for illegal removal of protected trees",
+      "exceptions": [
+        "Dead or diseased trees posing safety hazards may be removed with 24-hour emergency notification"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/",
+      "sourceLabel": "Yokohama City Urban Greenery Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What trunk circumference triggers the permit requirement before tree removal in Yokohama?",
+        "options": [
+          "50cm",
+          "75cm",
+          "100cm",
+          "150cm"
+        ],
+        "correct": 2,
+        "explanation": "Trees with a trunk circumference of 100cm or more require advance notification or permit before removal."
+      }
+    },
+    {
+      "id": 42922,
+      "category": "Public Health",
+      "severity": "low",
+      "icon": "🦷",
+      "title": "Kanagawa School Dental Health Programme",
+      "subtitle": "Annual dental checks are mandatory for all public school students",
+      "fullDescription": "Under the School Health and Safety Act, all Kanagawa public school students must receive an annual dental examination. Results are recorded and sent to parents. Kanagawa's programme subsidises fluoride treatment and dental sealants for elementary students. Schools must ensure students with dental conditions are referred for treatment within 3 months.",
+      "penalty": "Administrative guidance for schools failing to conduct annual dental examinations",
+      "exceptions": [
+        "Home-schooled children are exempt from school dental checks"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture School Health Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How often are dental examinations mandatory for Kanagawa public school students?",
+        "options": [
+          "Every 6 months",
+          "Once per year",
+          "Every 2 years",
+          "Only when parents request"
+        ],
+        "correct": 1,
+        "explanation": "Annual dental examinations are mandatory for all public school students in Kanagawa."
+      }
+    },
+    {
+      "id": 42923,
+      "category": "Disaster Preparedness",
+      "severity": "high",
+      "icon": "🏚️",
+      "title": "Kanagawa Vacant Building Safety Ordinance",
+      "subtitle": "Abandoned buildings can be demolished at owner cost if dangerous",
+      "fullDescription": "Under the Act on Special Measures for Promotion of Vacant House Measures and Kanagawa's implementing ordinance, authorities can designate abandoned buildings as 'specified vacant houses' if they pose collapse, fire, or hygiene risks. Owners receive improvement orders and, if ignored, the city may demolish the building and bill the owner.",
+      "penalty": "Forced demolition with costs charged to owner; property tax rebates revoked for vacant structures",
+      "exceptions": [
+        "Historically significant vacant buildings can be placed in a preservation programme instead of demolition"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Housing Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What can Kanagawa authorities do with buildings designated as 'specified vacant houses'?",
+        "options": [
+          "Seize and sell them",
+          "Rent them to new tenants",
+          "Demolish them and bill the owner",
+          "Convert them to community centres"
+        ],
+        "correct": 2,
+        "explanation": "After improvement notices are ignored, Kanagawa can demolish 'specified vacant houses' and charge the cost to the owner."
+      }
+    },
+    {
+      "id": 42924,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "📷",
+      "title": "Yokohama CCTV Notification Rules",
+      "subtitle": "CCTV operators must post visible notices to residents",
+      "fullDescription": "Yokohama City's CCTV guidelines require operators to post clear signage in Japanese and English informing passersby they are being filmed. Footage must be stored securely and deleted within 30 days unless needed for law enforcement. Breach may lead to civil liability for privacy violations.",
+      "penalty": "Civil liability for privacy invasion; potential Personal Information Protection Act violations",
+      "exceptions": [
+        "Police-operated cameras under investigation orders have separate operational rules"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/",
+      "sourceLabel": "Yokohama City Surveillance Camera Guidelines",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long must CCTV footage be retained before deletion under Yokohama guidelines?",
+        "options": [
+          "7 days maximum",
+          "30 days maximum",
+          "90 days maximum",
+          "1 year maximum"
+        ],
+        "correct": 1,
+        "explanation": "Yokohama's CCTV guidelines require footage to be deleted within 30 days unless needed for law enforcement."
+      }
+    },
+    {
+      "id": 42925,
+      "category": "Heritage & Culture",
+      "severity": "low",
+      "icon": "⚓",
+      "title": "Yokohama Port Opening Heritage Commemorations",
+      "subtitle": "Landmarks from Japan's 1859 port opening are legally protected",
+      "fullDescription": "Yokohama was opened to foreign trade in 1859 under the Harris Treaty. Several Meiji-era foreign settlement buildings are designated Important Cultural Properties (重要文化財). The Kanagawa Prefectural Museum of Cultural History and Yokohama Archives of History are mandated to maintain public access to the historical record.",
+      "penalty": "Fines for damaging or altering designated Important Cultural Properties without authorisation",
+      "exceptions": [
+        "Minor restoration work approved by the Agency for Cultural Affairs is permitted"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefectural Museum of Cultural History",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which year was Yokohama opened to foreign trade?",
+        "options": [
+          "1854",
+          "1859",
+          "1868",
+          "1872"
+        ],
+        "correct": 1,
+        "explanation": "Yokohama was opened to foreign trade in 1859 under the Harris Treaty."
+      }
+    },
+    {
+      "id": 42926,
+      "category": "Food & Drink",
+      "severity": "low",
+      "icon": "🥟",
+      "title": "Yokohama Chinatown Monthly Food Inspections",
+      "subtitle": "Kanagawa health authorities conduct monthly food inspections",
+      "fullDescription": "Yokohama's Chinatown, with over 600 food businesses, is subject to monthly health inspections by the Yokohama City Health and Environment Research Institute. Restaurants must display current health inspection certificates at the entrance. Serious violations require temporary closure notices displayed at the entrance.",
+      "penalty": "Temporary closure (営業停止) for serious violations; public display of violation notice required",
+      "exceptions": [
+        "Food market wholesalers with separate wholesale licences are inspected at different intervals"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/",
+      "sourceLabel": "Yokohama City Health and Environment Research Institute",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What must Yokohama Chinatown restaurants display at their entrances?",
+        "options": [
+          "Menu prices",
+          "Health inspection certificates",
+          "Operating hours and seating capacity",
+          "Country of origin for ingredients"
+        ],
+        "correct": 1,
+        "explanation": "Yokohama Chinatown restaurants must display current health inspection certificates at their entrances."
+      }
+    },
+    {
+      "id": 42927,
+      "category": "Civil Rights",
+      "severity": "high",
+      "icon": "🧑‍⚖️",
+      "title": "Kanagawa Child Welfare Intervention Rules",
+      "subtitle": "Child welfare officers have broad powers to investigate suspected abuse",
+      "fullDescription": "Kanagawa's Child Welfare Centers operate under the Child Welfare Act and the Act on Prevention of Child Abuse. Child welfare officers may conduct welfare checks without parental consent and, in emergencies, remove children to temporary protective care without a court order. Kanagawa tripled its welfare officer numbers since 2018 following nationally publicised child abuse cases.",
+      "penalty": "Criminal prosecution for obstruction of welfare officers; prison for child abuse perpetrators",
+      "exceptions": [
+        "Physical punishment prohibited since 2020 amendment; traditional discipline reviewed case-by-case"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Child Welfare Center",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What powers do Kanagawa child welfare officers have in abuse cases?",
+        "options": [
+          "They must get police approval first",
+          "They may conduct checks and remove children without court order in emergencies",
+          "They can only advise families",
+          "They require parental consent for all visits"
+        ],
+        "correct": 1,
+        "explanation": "Kanagawa child welfare officers may conduct welfare checks without parental consent and remove children without a court order in emergencies."
+      }
+    },
+    {
+      "id": 42928,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "🚢",
+      "title": "Yokohama Port Longshoremen Licencing",
+      "subtitle": "Crane operators and dockworkers require certified licences",
+      "fullDescription": "Port workers at Yokohama engaged in crane operation and hazardous goods loading must hold certificates under the Industrial Safety and Health Act. The Kanagawa Labour Bureau issues crane operation certificates (クレーン運転士). Employers must ensure all listed equipment is operated only by licensed personnel.",
+      "penalty": "Work suspension; fines up to ¥500,000 for employers allowing unlicensed crane operation; criminal liability for injuries",
+      "exceptions": [
+        "Trainee operators may practice under direct, licensed supervision in designated training zones"
+      ],
+      "source": "https://jsite.mhlw.go.jp/kanagawa-roudoukyoku/",
+      "sourceLabel": "Kanagawa Labour Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What licence is required for crane operators at Yokohama Port?",
+        "options": [
+          "Port Authority Card",
+          "クレーン運転士 (Crane Operator Certificate)",
+          "Maritime Heavy Equipment Licence",
+          "General Forklift Certificate"
+        ],
+        "correct": 1,
+        "explanation": "Crane operators at Yokohama Port must hold a クレーン運転士 (Crane Operator Certificate) from Kanagawa Labour Bureau."
+      }
+    },
+    {
+      "id": 42929,
+      "category": "Public Transport",
+      "severity": "medium",
+      "icon": "🚃",
+      "title": "Private Railway Punctuality and Accessibility Rules",
+      "subtitle": "Tokyu, Keikyu, and Odakyu railways must comply with passenger quality standards",
+      "fullDescription": "Private railways Tokyu, Keikyu, Odakyu, and Enoshima Electric Railway in Kanagawa must comply with MLIT passenger service quality standards. This includes punctuality targets (within 1 minute), barrier-free access improvements by 2025, and priority boarding assistance for disabled passengers at major stations.",
+      "penalty": "MLIT business improvement orders; licence conditions may be tightened for persistent failures",
+      "exceptions": [
+        "Delays caused by natural disasters, suicides, or trespassing are excluded from punctuality statistics"
+      ],
+      "source": "https://www.mlit.go.jp/",
+      "sourceLabel": "Ministry of Land, Infrastructure, Transport and Tourism",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Japan's punctuality target for private railways in Kanagawa?",
+        "options": [
+          "Within 5 minutes",
+          "Within 3 minutes",
+          "Within 2 minutes",
+          "Within 1 minute"
+        ],
+        "correct": 3,
+        "explanation": "Japan's railway system targets punctuality within 1 minute."
+      }
+    },
+    {
+      "id": 42930,
+      "category": "Immigration & Identity",
+      "severity": "medium",
+      "icon": "🌐",
+      "title": "Kanagawa Refugee Support Programmes",
+      "subtitle": "Prefecture provides Japanese language and resettlement support for refugees",
+      "fullDescription": "Kanagawa operates refugee support services through the Japan International Cooperation Agency (JICA) and Kanagawa Foundation for International Exchange (KFIE), providing Japanese language classes, employment counselling, and housing navigation for recognised refugees. Kanagawa has accepted Indochinese refugee families since the late 1970s.",
+      "penalty": "No prefecture-specific penalties; national immigration law applies for status violations",
+      "exceptions": [
+        "Recognised refugees may apply for permanent residence after 5 years"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Foundation for International Exchange",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Kanagawa begin accepting Indochinese refugee families?",
+        "options": [
+          "Late 1960s",
+          "Late 1970s",
+          "Late 1980s",
+          "Early 1990s"
+        ],
+        "correct": 1,
+        "explanation": "Kanagawa has accepted Indochinese refugee families since the late 1970s."
+      }
+    },
+    {
+      "id": 42931,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🔫",
+      "title": "Firearms Prohibition — Kanagawa Enforcement",
+      "subtitle": "Japan's near-total civilian gun ban is strictly enforced",
+      "fullDescription": "Japan's Firearms and Swords Control Law prohibits civilian possession of firearms except for licensed hunting and target shooting. Kanagawa Police operate dedicated firearms enforcement units and conduct periodic compliance checks. Yokohama Port is monitored for illegal gun imports. Penalties for illegal possession were enhanced in 2023.",
+      "penalty": "Up to 15 years imprisonment for illegal firearm possession; up to 3 years for illegal ammunition possession (2023 enhanced penalties)",
+      "exceptions": [
+        "Licensed hunters, competitive shooters, and security professionals with ministry approval may possess firearms under strict conditions"
+      ],
+      "source": "https://www.police.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefectural Police",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum sentence for illegal firearm possession in Japan following 2023 enhancements?",
+        "options": [
+          "3 years",
+          "7 years",
+          "10 years",
+          "15 years"
+        ],
+        "correct": 3,
+        "explanation": "Following 2023 enhancements, illegal firearm possession in Japan carries up to 15 years imprisonment."
+      }
+    },
+    {
+      "id": 42932,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🦠",
+      "title": "Kanagawa Food Poisoning Reporting Obligation",
+      "subtitle": "Suspected food poisoning must be reported immediately to health authorities",
+      "fullDescription": "Under the Food Sanitation Act, medical professionals in Kanagawa who diagnose suspected food poisoning must report it to the nearest Health Centre within 24 hours. Restaurants and food businesses that learn of multiple sick customers must proactively report. The Kanagawa Prefecture Centre for Food Safety investigates all clusters and can issue immediate recalls.",
+      "penalty": "Fines up to ¥300,000 for medical professionals who fail to report; civil liability for businesses that suppress reports",
+      "exceptions": [
+        "Individual family cases not linked to commercial food are not subject to business reporting rules"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Food Safety Centre",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Within how many hours must food poisoning be reported to Kanagawa health authorities?",
+        "options": [
+          "6 hours",
+          "12 hours",
+          "24 hours",
+          "48 hours"
+        ],
+        "correct": 2,
+        "explanation": "Suspected food poisoning must be reported to Kanagawa Prefecture Health Centres within 24 hours."
+      }
+    },
+    {
+      "id": 42933,
+      "category": "Tourism & Recreation",
+      "severity": "low",
+      "icon": "🌸",
+      "title": "Kamakura Cherry Blossom Crowd Control",
+      "subtitle": "Seasonal traffic and pedestrian restrictions protect narrow historic streets",
+      "fullDescription": "During cherry blossom season (late March to early April), Kamakura City implements pedestrian-only closures on Komachi-dori. Private vehicles are prohibited from entering the central shrine area on weekends. Free buses from Kamakura Station to Hase Temple operate during peak periods to manage tourist flow.",
+      "penalty": "Fines ¥5,000–¥30,000 for driving into pedestrian-only zones during closure periods",
+      "exceptions": [
+        "Residents with vehicle access permits and delivery vehicles in designated windows are exempt"
+      ],
+      "source": "https://www.city.kamakura.kanagawa.jp/",
+      "sourceLabel": "Kamakura City Tourist Traffic Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What seasonal measure does Kamakura implement on Komachi-dori during cherry blossom season?",
+        "options": [
+          "Extended shopping hours",
+          "Pedestrian-only road closures",
+          "Free shuttle buses only",
+          "Night illumination events"
+        ],
+        "correct": 1,
+        "explanation": "Kamakura implements pedestrian-only road closures on Komachi-dori during cherry blossom season."
+      }
+    },
+    {
+      "id": 42934,
+      "category": "Agriculture",
+      "severity": "low",
+      "icon": "🍋",
+      "title": "Shonan Citrus and Persimmon Harvest Regulations",
+      "subtitle": "Kanagawa's coastal farms must follow JAS standards for fruit marketing",
+      "fullDescription": "The Shonan coastline is known for citrus (mikan) and persimmon cultivation. Under the JAS Act, growers marketing fruit with specific quality grades must meet standards for size, brix (sweetness), and surface appearance. Cooperative members who mislabel grade receive suspension from the co-operative.",
+      "penalty": "Fines under the JAS Act for misleading labelling; suspension from co-operative marketing programme",
+      "exceptions": [
+        "Seconds fruit sold directly from farm stands may use 'non-graded' labelling"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "JA Kanagawa Agricultural Co-operative",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the sweetness measurement used in fruit grading?",
+        "options": [
+          "Umami",
+          "Brix",
+          "Scoville",
+          "Sakarido"
+        ],
+        "correct": 1,
+        "explanation": "Brix is the measurement of sugar content used in fruit grading, including for Shonan citrus and persimmons."
+      }
+    },
+    {
+      "id": 42935,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "💻",
+      "title": "Kawasaki Frontier Research Town Fiscal Incentives",
+      "subtitle": "R&D firms in Kawasaki's tech cluster receive city tax incentives",
+      "fullDescription": "Kawasaki City's Frontier Research Town around Shin-Kawasaki station offers corporate tax reductions and land-use fee subsidies to qualifying research institutions and biotech companies. Firms must be engaged in approved R&D activities, maintain a minimum of 20 researchers, and file annual activity reports.",
+      "penalty": "Clawback of all received incentives plus interest for misrepresentation or early discontinuation of qualifying activities",
+      "exceptions": [
+        "Startups in their first 3 years have simplified filing requirements"
+      ],
+      "source": "https://www.city.kawasaki.jp/",
+      "sourceLabel": "Kawasaki City Economic Affairs Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where is Kawasaki's Frontier Research Town located?",
+        "options": [
+          "Near Kawasaki Station",
+          "Near Shin-Kawasaki Station",
+          "Near Musashi-Kosugi Station",
+          "Near Noborito Station"
+        ],
+        "correct": 1,
+        "explanation": "Kawasaki's Frontier Research Town is centred around Shin-Kawasaki Station."
+      }
+    },
+    {
+      "id": 42936,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🎊",
+      "title": "Yokohama Port Festival Permit Requirements",
+      "subtitle": "Events in Yamashita Park require city approval",
+      "fullDescription": "Yamashita Park hosts the Port Festival (港まつり) every May and other major outdoor events. Organisers of events over 1,000 attendees must apply for a park use permit at least 45 days in advance, specifying allowed areas, waste management, sound levels, and fire safety requirements.",
+      "penalty": "Event termination and fines up to ¥300,000 for unpermitted events over 1,000 people",
+      "exceptions": [
+        "Small spontaneous gatherings under 50 persons do not require advance permits"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/",
+      "sourceLabel": "Yokohama City Park Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many days in advance must large event permits be applied for at Yamashita Park?",
+        "options": [
+          "14 days",
+          "30 days",
+          "45 days",
+          "60 days"
+        ],
+        "correct": 2,
+        "explanation": "Events over 1,000 attendees at Yamashita Park require permit applications at least 45 days in advance."
+      }
+    },
+    {
+      "id": 42937,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Kanagawa Ocean Plastic Reduction Programme",
+      "subtitle": "Businesses near the coast face enhanced plastic waste rules",
+      "fullDescription": "Under Kanagawa's Marine Litter Countermeasures Plan, businesses within 2km of Kanagawa's coastline must conduct annual plastic waste audits and implement reduction plans. Retail businesses must comply with plastic bag reduction requirements and may not distribute non-biodegradable straws as standard.",
+      "penalty": "Warning, then fines up to ¥500,000 for businesses failing to comply",
+      "exceptions": [
+        "Medical facilities may use non-biodegradable plastic for hygiene-critical applications"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Marine Litter Programme",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What distance from the coast triggers Kanagawa's enhanced plastic waste rules for businesses?",
+        "options": [
+          "500m",
+          "1km",
+          "2km",
+          "5km"
+        ],
+        "correct": 2,
+        "explanation": "Businesses within 2km of Kanagawa's coastline face enhanced plastic waste audit and reduction plan requirements."
+      }
+    },
+    {
+      "id": 42938,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🧬",
+      "title": "Kanagawa Biobank Consent and Privacy Rules",
+      "subtitle": "Genetic research requires strict informed consent under prefecture guidelines",
+      "fullDescription": "Kanagawa's concentration of biotech and pharmaceutical firms has led to detailed Biobank Ethical Guidelines implementing national law. Patients contributing samples must give specific written consent; blanket consent is insufficient for secondary uses. Genetic data may not be used for insurance assessment without express separate consent.",
+      "penalty": "Research programme suspension by ethics committee; prosecution under Personal Information Protection Act for genetic data misuse",
+      "exceptions": [
+        "Anonymised aggregate research data not linked to individuals is exempt from individual consent requirements"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Biobank Guidelines",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What type of consent is required for genetic data use in insurance assessment in Kanagawa?",
+        "options": [
+          "General blanket consent",
+          "Express separate consent specifically for insurance",
+          "Implied consent through participation",
+          "No consent required if anonymised"
+        ],
+        "correct": 1,
+        "explanation": "Genetic data may not be used for insurance assessment without express, specific separate consent."
+      }
+    },
+    {
+      "id": 42939,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🧑‍🦯",
+      "title": "Guide Dog Access Rights in Kanagawa",
+      "subtitle": "Service animals must be admitted to all public places and transport",
+      "fullDescription": "Under the Acts for Supporting the Independence of Persons with Disabilities and for Eliminating Discrimination, certified guide dogs (盲導犬), hearing dogs (聴導犬), and service dogs (介助犬) must be admitted to all public facilities, restaurants, hotels, and public transport in Kanagawa. Refusal must be justified on specific safety grounds.",
+      "penalty": "Administrative guidance; civil liability for service providers who unjustifiably refuse service animal access",
+      "exceptions": [
+        "Operating kitchens and sterile medical environments may exclude service animals with reasonable accommodation offered"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Disability Affairs Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which three types of service animals must be admitted to public places in Kanagawa?",
+        "options": [
+          "Guard dogs, detection dogs, therapy dogs",
+          "Guide dogs, hearing dogs, service dogs",
+          "Police dogs, bomb dogs, drug dogs",
+          "Show dogs, racing greyhounds, sled dogs"
+        ],
+        "correct": 1,
+        "explanation": "Certified guide dogs (盲導犬), hearing dogs (聴導犬), and service dogs (介助犬) must be admitted to all public facilities."
+      }
+    },
+    {
+      "id": 42940,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏢",
+      "title": "Yokohama Minato Mirai Smart Building Standards",
+      "subtitle": "New developments must include energy and IoT infrastructure",
+      "fullDescription": "New buildings of 2,000 sqm or more in the Minato Mirai zone must install BEMS (Building Energy Management Systems), energy-efficient LED lighting, and EV charging points covering at least 20% of parking spaces. Buildings receiving city incentives must publish annual energy performance reports. Yokohama aims for carbon neutrality by 2030.",
+      "penalty": "Loss of city development incentives; building permit conditions for non-compliant designs",
+      "exceptions": [
+        "Heritage buildings converted to new uses may apply for modified smart building requirements"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/",
+      "sourceLabel": "Yokohama City Smart City Promotion",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum percentage of parking spaces must have EV charging in new Minato Mirai buildings?",
+        "options": [
+          "5%",
+          "10%",
+          "20%",
+          "50%"
+        ],
+        "correct": 2,
+        "explanation": "New buildings of 2,000 sqm or more in Minato Mirai must provide EV charging for at least 20% of parking spaces."
+      }
+    },
+    {
+      "id": 42941,
+      "category": "Consumer Protection",
+      "severity": "high",
+      "icon": "🚗",
+      "title": "Kanagawa Used Vehicle Dealer Disclosure Rules",
+      "subtitle": "Used car dealers must fully disclose accident history",
+      "fullDescription": "Kanagawa's used vehicle dealers under the Act on Specified Commercial Transactions and Used Goods Dealer Licencing must disclose accident history, flood damage (significant after typhoon seasons), and odometer discrepancies. Deliberate concealment of significant damage history is prosecuted as fraud.",
+      "penalty": "Up to 10 years imprisonment and ¥5,000,000 fine for odometer tampering fraud; contract rescission for non-disclosure",
+      "exceptions": [
+        "Auction houses selling vehicles as-is with documented inspection reports are exempt from dealer warranty obligations"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Used Goods Dealer Regulation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What specific damage type must Kanagawa used vehicle dealers disclose after typhoons?",
+        "options": [
+          "Tyre wear",
+          "Rust spots",
+          "Flood damage",
+          "Paint scratches"
+        ],
+        "correct": 2,
+        "explanation": "Flood damage must be fully disclosed by Kanagawa used vehicle dealers, particularly after typhoon seasons."
+      }
+    },
+    {
+      "id": 42942,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "🩺",
+      "title": "Kanagawa Workplace Stress Check Obligation",
+      "subtitle": "Employers must conduct annual stress checks for all employees",
+      "fullDescription": "Under the Industrial Safety and Health Act as amended in 2015, all employers with 50 or more employees in Kanagawa must conduct annual stress check tests. Individual results are confidential; only aggregate data is shared with employers. Workers who score high-stress may request a medical interview that employers cannot refuse.",
+      "penalty": "Fines up to ¥500,000 for employers failing to conduct stress checks; penalties for breaching medical interview confidentiality",
+      "exceptions": [
+        "Companies under 50 employees have a voluntary system"
+      ],
+      "source": "https://jsite.mhlw.go.jp/kanagawa-roudoukyoku/",
+      "sourceLabel": "Kanagawa Labour Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was Japan's mandatory workplace stress check law introduced?",
+        "options": [
+          "2010",
+          "2013",
+          "2015",
+          "2018"
+        ],
+        "correct": 2,
+        "explanation": "The mandatory annual workplace stress check was introduced in the 2015 amendment to the Industrial Safety and Health Act."
+      }
+    },
+    {
+      "id": 42943,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Yokohama Western-Style Architecture Preservation",
+      "subtitle": "Meiji-era buildings in Yamate are protected as historical assets",
+      "fullDescription": "Yokohama's Yamate (山手) hillside district contains some of Japan's finest surviving Western-style residences from the Meiji and Taisho eras. These are designated Historic Buildings by Yokohama City. Owners must consult with the city before any exterior alterations and must maintain the distinctive Western architectural character.",
+      "penalty": "Fines up to ¥500,000 for unauthorised exterior alterations to designated historic buildings",
+      "exceptions": [
+        "Interior modifications not affecting historic facade characteristics may proceed with notification only"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/",
+      "sourceLabel": "Yokohama City Urban Development Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which Yokohama district are the most significant Western-style Meiji-era buildings found?",
+        "options": [
+          "Minato Mirai",
+          "Yamate (山手)",
+          "Kannai",
+          "Daikanyama"
+        ],
+        "correct": 1,
+        "explanation": "The Yamate hillside district of Yokohama contains Japan's finest surviving Western-style residences from the Meiji and Taisho eras."
+      }
+    },
+    {
+      "id": 42944,
+      "category": "Disaster Preparedness",
+      "severity": "high",
+      "icon": "🔥",
+      "title": "Yokohama Fire Prevention — High-Rise Buildings",
+      "subtitle": "Stringent fire escape and suppression rules for tall buildings",
+      "fullDescription": "Buildings over 60 metres in Yokohama must have automatic sprinkler systems covering all floors, pressurised stairwell smoke extraction, refuge floors (避難階) at set intervals, and 30-minute fire-rated structural elements. Annual fire drills are mandatory and must include evacuation of mobility-impaired occupants.",
+      "penalty": "Fines up to ¥3,000,000; building use restriction orders for serious fire safety deficiencies",
+      "exceptions": [
+        "Pre-existing buildings may qualify for phased compliance with approved retrofit schedules"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/kurashi/bousai-kyukyu-bohan/shobo/",
+      "sourceLabel": "Yokohama City Fire Department",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What height threshold triggers Yokohama's enhanced high-rise fire prevention rules?",
+        "options": [
+          "30 metres",
+          "45 metres",
+          "60 metres",
+          "100 metres"
+        ],
+        "correct": 2,
+        "explanation": "Buildings over 60 metres in Yokohama face enhanced fire prevention requirements."
+      }
+    },
+    {
+      "id": 42945,
+      "category": "Public Transport",
+      "severity": "medium",
+      "icon": "🚴",
+      "title": "Kanagawa Bicycle Parking Rules at Stations",
+      "subtitle": "Illegally parked bicycles are removed and impounded",
+      "fullDescription": "Under the Act on Promotion of Bicycle Utilization, municipalities actively remove bicycles parked outside designated cycle parking areas near railway stations. Impoundment fees range from ¥1,000 to ¥2,500 for first removal, with higher charges for repeat offences. Yokohama has invested in major underground cycle parking facilities at key stations.",
+      "penalty": "Impoundment fees ¥1,000–¥2,500; escalating fees for repeat offenders",
+      "exceptions": [
+        "Bicycles with disabled parking permits may use expanded areas near station entrances"
+      ],
+      "source": "https://www.city.yokohama.lg.jp/",
+      "sourceLabel": "Yokohama City Bicycle Parking Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What type of bicycle parking facility has Yokohama invested in near major stations?",
+        "options": [
+          "Rooftop bicycle parks",
+          "Automated vending-style racks",
+          "Underground cycle parking facilities",
+          "Floating pontoon parks"
+        ],
+        "correct": 2,
+        "explanation": "Yokohama has invested in underground cycle parking facilities at key stations."
+      }
+    },
+    {
+      "id": 42946,
+      "category": "Food & Drink",
+      "severity": "low",
+      "icon": "🍺",
+      "title": "Yokohama Craft Beer Brewpub Licensing",
+      "subtitle": "Microbreweries with on-site consumption require dual licences",
+      "fullDescription": "Kanagawa's craft beer scene operates under the Liquor Tax Act and Food Sanitation Act. A microbrewery must hold both a sake manufacturing licence issued by the Yokohama Tax Office and a restaurant licence for on-premises consumption. Annual minimum production quotas (60 kilolitres for beer) apply; the 2018 special small brewery designation helps smaller operations.",
+      "penalty": "Licence revocation for producing alcohol without a manufacturing licence; fines for on-premises sales without food licence",
+      "exceptions": [
+        "Homebrew for personal non-commercial consumption is legal in Japan"
+      ],
+      "source": "https://www.nta.go.jp/",
+      "sourceLabel": "National Tax Agency — Yokohama Regional",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What annual minimum production did the 2018 small brewery designation help Kanagawa breweries below?",
+        "options": [
+          "10 kilolitres",
+          "30 kilolitres",
+          "60 kilolitres",
+          "100 kilolitres"
+        ],
+        "correct": 2,
+        "explanation": "The 2018 special small brewery designation helped microbreweries unable to meet the standard 60 kilolitre annual minimum."
+      }
+    },
+    {
+      "id": 42947,
+      "category": "Environmental",
+      "severity": "high",
+      "icon": "☣️",
+      "title": "Kawasaki Industrial Hazardous Waste Disposal",
+      "subtitle": "Strict manifest system governs industrial toxic waste",
+      "fullDescription": "Kawasaki City, with one of Japan's densest concentrations of chemical, steel, and energy industries, enforces rigorous industrial waste manifest (マニフェスト) requirements. Every transfer of industrial waste must be accompanied by a 6-copy manifest tracking it from generator to final disposal. Electronic manifests have been mandatory for most industrial waste since 2020.",
+      "penalty": "Up to ¥3,000,000 fine or 1 year imprisonment for manifest falsification; up to ¥10,000,000 and 5 years for illegal dumping",
+      "exceptions": [
+        "Very small generators under 10kg per day of specific non-toxic waste may use simplified records"
+      ],
+      "source": "https://www.city.kawasaki.jp/",
+      "sourceLabel": "Kawasaki City Environmental Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many copies must an industrial waste manifest have in Kawasaki?",
+        "options": [
+          "3 copies",
+          "4 copies",
+          "6 copies",
+          "8 copies"
+        ],
+        "correct": 2,
+        "explanation": "Industrial waste transfers in Kawasaki must be accompanied by a 6-copy manifest."
+      }
+    },
+    {
+      "id": 42948,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "📚",
+      "title": "Kanagawa Information Disclosure Ordinance",
+      "subtitle": "Residents can request prefecture documents under transparency rules",
+      "fullDescription": "Kanagawa's Information Disclosure Ordinance grants all residents and entities the right to request prefecture administrative documents unless they fall within defined exemptions. Requests must receive a response within 14 days. Appeal of non-disclosure decisions goes to the Kanagawa Information Disclosure Review Board.",
+      "penalty": "No criminal penalty; non-compliance with the Review Board's ruling may trigger prefectural ombudsman investigation",
+      "exceptions": [
+        "Documents relating to ongoing investigations, national security, or individual privacy are exempt"
+      ],
+      "source": "https://www.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefecture Information Disclosure Ordinance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Within how many days must Kanagawa Prefecture respond to an information disclosure request?",
+        "options": [
+          "7 days",
+          "14 days",
+          "30 days",
+          "60 days"
+        ],
+        "correct": 1,
+        "explanation": "Kanagawa Prefecture must respond to information disclosure requests within 14 days."
+      }
+    },
+    {
+      "id": 42949,
+      "category": "Tourism & Recreation",
+      "severity": "low",
+      "icon": "🎭",
+      "title": "Yokohama Red Brick Warehouse Event Rules",
+      "subtitle": "Historic port warehouse converted to cultural venue has strict event guidelines",
+      "fullDescription": "Yokohama's Red Brick Warehouse (赤レンガ倉庫), a Meiji-era port facility designated as a Historic Building, hosts major events. Commercial events using the plaza must apply 60 days in advance and maintain a maximum sound level of 85 dB at the building face. The structure's historic masonry must not be permanently affixed without written authorisation.",
+      "penalty": "Event termination and fines for exceeding sound limits; civil liability for structural damage to the historic building",
+      "exceptions": [
+        "City-organised cultural events on the National Day of Cultural Heritage are exempt from advance application fees"
+      ],
+      "source": "https://www.yokohama-akarenga.jp/",
+      "sourceLabel": "Yokohama Red Brick Warehouse Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many days in advance must commercial event applications be submitted for the Red Brick Warehouse plaza?",
+        "options": [
+          "14 days",
+          "30 days",
+          "45 days",
+          "60 days"
+        ],
+        "correct": 3,
+        "explanation": "Commercial events at the Red Brick Warehouse plaza require applications 60 days in advance."
+      }
+    },
+    {
+      "id": 42950,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "💻",
+      "title": "Kanagawa Cybercrime Reporting and Enforcement",
+      "subtitle": "Kanagawa Prefectural Police have a dedicated cybercrime division",
+      "fullDescription": "Kanagawa Prefectural Police's Cybercrime Division handles online fraud, unauthorized computer access, and child exploitation material. In 2019, a Kanagawa government contractor was arrested for stealing and selling personal data of 9 million residents — Japan's largest government data breach — leading to significantly enhanced data security requirements for all prefectural vendors.",
+      "penalty": "Up to 3 years imprisonment for unauthorized access; up to 5 years for large-scale data theft with intent to sell",
+      "exceptions": [
+        "Security research conducted with explicit written permission from system owners is exempt"
+      ],
+      "source": "https://www.police.pref.kanagawa.jp/",
+      "sourceLabel": "Kanagawa Prefectural Police Cybercrime Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What significant data incident in 2019 strengthened Kanagawa's data security rules?",
+        "options": [
+          "Hack of Yokohama City Hall systems",
+          "A contractor stealing and selling data of 9 million residents",
+          "Ransomware attack on port management systems",
+          "Leak of school student records"
+        ],
+        "correct": 1,
+        "explanation": "In 2019, a Kanagawa contractor stole and sold personal data of 9 million residents — Japan's largest government data breach."
+      }
+    }
+  ]
+}

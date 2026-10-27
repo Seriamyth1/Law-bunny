@@ -1,0 +1,1506 @@
+{
+  "country": "Okinawa, Japan",
+  "slug": "okinawa-japan",
+  "laws": [
+    {
+      "id": 42726,
+      "category": "Military & Security",
+      "severity": "high",
+      "icon": "✈️",
+      "title": "US Military Base Status of Forces Agreement (SOFA)",
+      "subtitle": "American troops in Okinawa governed by US-Japan SOFA",
+      "fullDescription": "Okinawa hosts approximately 70% of US military facilities in Japan despite comprising less than 1% of Japan's land area. The Japan-US Status of Forces Agreement (SOFA, 日米地位協定) governs the legal status of US military personnel — granting them preferential treatment in criminal proceedings, including the right for the US military to retain custody of accused personnel until indictment in serious cases. This arrangement is deeply controversial in Okinawa following high-profile crimes by US servicemembers.",
+      "penalty": "Crimes by US military under SOFA: tried in Japanese courts for serious offences post-indictment; US military handles internal discipline for minor offences; Japanese law applies in principle",
+      "exceptions": ["On-base offences may be tried in US military courts under SOFA provisions"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — SOFA and Base Issues",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of US military facilities in Japan are located in Okinawa?",
+        "options": ["30%", "50%", "70%", "90%"],
+        "correct": 2,
+        "explanation": "Despite being less than 1% of Japan's land area, Okinawa hosts approximately 70% of US military facilities in Japan — a source of major friction between the prefecture and the national government."
+      }
+    },
+    {
+      "id": 42727,
+      "category": "Environmental",
+      "severity": "high",
+      "icon": "🪸",
+      "title": "Coral Reef Protection Ordinance",
+      "subtitle": "Okinawa's coral reefs protected by strict marine rules",
+      "fullDescription": "Okinawa hosts Japan's most extensive coral reef systems — including Sekisei Lagoon (石西礁湖), Japan's largest coral reef. Under the Natural Parks Act and Okinawa's own Marine Area Conservation Ordinance, touching, standing on, or collecting coral is prohibited. The Environment Ministry designates coral bleaching emergency response zones with additional restrictions during mass bleaching events (which have become annual due to climate change). Anchoring boats on reef areas is banned; only mooring buoys may be used.",
+      "penalty": "Coral collection or deliberate damage: up to 6 months imprisonment or ¥500,000 fine; boat anchoring on reef: fines up to ¥300,000",
+      "exceptions": ["Licensed scientific research with Ministry of Environment approval"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Sekisei Lagoon Protection",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Sekisei Lagoon (石西礁湖) — Okinawa's most important marine protected area?",
+        "options": ["Japan's deepest ocean trench", "Japan's largest coral reef system", "Okinawa's main naval base lagoon", "A protected mangrove estuary"],
+        "correct": 1,
+        "explanation": "Sekisei Lagoon is Japan's largest coral reef system — covering approximately 20,000 hectares between Ishigaki and Iriomote islands, facing severe bleaching pressure from rising sea temperatures."
+      }
+    },
+    {
+      "id": 42728,
+      "category": "Environmental",
+      "severity": "high",
+      "icon": "🦎",
+      "title": "Iriomote Wildcat Protection",
+      "subtitle": "Fewer than 100 Iriomote wildcats remain — critically protected",
+      "fullDescription": "The Iriomote wildcat (イリオモテヤマネコ) — found only on Iriomote Island, Okinawa — is one of the world's rarest cats with fewer than 100 individuals. It is a designated Special Natural Monument (特別天然記念物) under the Law for the Protection of Cultural Properties. Vehicle collisions are the leading cause of death; speed limits on Iriomote are 40 km/h (reduced from 50 km/h) with wildcat crossing signs. Night driving is strongly discouraged. The entire island is a national park.",
+      "penalty": "Killing or injuring an Iriomote wildcat: up to 5 years imprisonment or ¥500,000 fine; speeding in wildcat zone: traffic penalties",
+      "exceptions": ["Emergency vehicle responses with reduced speed remain obligated to watch for wildlife"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Iriomote Wildcat Conservation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many Iriomote wildcats remain in the wild?",
+        "options": ["500–1,000", "200–300", "Fewer than 100", "Only 10–20"],
+        "correct": 2,
+        "explanation": "Fewer than 100 Iriomote wildcats (イリオモテヤマネコ) survive — found only on Iriomote Island, Okinawa. Vehicle collisions are the leading cause of death, prompting island-wide speed restrictions."
+      }
+    },
+    {
+      "id": 42729,
+      "category": "Traffic & Driving",
+      "severity": "medium",
+      "icon": "🚗",
+      "title": "Okinawa Driving Transition — Left to Right",
+      "subtitle": "Okinawa switched from US right-hand to Japan left-hand driving in 1978",
+      "fullDescription": "On July 30, 1978 — 'Nanahana' (730) day — Okinawa switched from US-style right-hand traffic to Japan's left-hand traffic following reversion to Japan in 1972. The transition involved changing 29,000 road signs overnight. The event is commemorated as a significant moment in Okinawa's cultural reintegration with Japan. All vehicles registered in Okinawa today must comply with Japan's Road Traffic Act, including the 0.03% BAC limit and seat belt requirements.",
+      "penalty": "Standard Road Traffic Act penalties apply — drunk driving up to 3 years; seat belt violation: ¥7,000 fine",
+      "exceptions": ["US military bases on Okinawa still use right-hand traffic internally"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Traffic History",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "On what famous date did Okinawa switch from right-hand (US-style) to left-hand (Japanese-style) driving?",
+        "options": ["May 15, 1972 (Reversion Day)", "January 1, 1975", "July 30, 1978 ('730' Day)", "April 1, 1980"],
+        "correct": 2,
+        "explanation": "July 30, 1978 — called '730 Day' (七・三〇, Nanahana) — was when Okinawa switched to left-hand traffic, completing a major aspect of its post-reversion integration with Japan."
+      }
+    },
+    {
+      "id": 42730,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🏯",
+      "title": "Ryukyuan World Heritage — Gusuku Castle Sites",
+      "subtitle": "9 Ryukyuan gusuku sites designated UNESCO World Heritage",
+      "fullDescription": "Nine sites of Ryukyuan cultural heritage — including Shuri Castle (首里城), Nakagusuku Castle, and Katsuren Castle — are inscribed as UNESCO World Heritage properties (Gusuku Sites and Related Properties of the Kingdom of Ryukyu, 2000). These are protected under Japan's Law for the Protection of Cultural Properties. Shuri Castle's main hall burned down in October 2019 and is under reconstruction — a major heritage restoration project funded by national and prefectural government and public donations.",
+      "penalty": "Damage to designated Ryukyuan heritage: up to 5 years imprisonment + restoration costs",
+      "exceptions": ["Authorised restoration contractors on the Shuri Castle reconstruction"],
+      "source": "https://www.bunka.go.jp/",
+      "sourceLabel": "Agency for Cultural Affairs — Ryukyuan World Heritage",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What happened to Shuri Castle's main hall in October 2019?",
+        "options": ["It was closed for earthquake damage repair", "It burned down in a major fire — reconstruction is ongoing", "It was struck by a typhoon and partially collapsed", "It was deliberately demolished to make way for a replica"],
+        "correct": 1,
+        "explanation": "Shuri Castle's main hall (正殿) burned down on October 31, 2019 — the cause remains under investigation. A major publicly-funded reconstruction project is restoring it to its pre-fire state."
+      }
+    },
+    {
+      "id": 42731,
+      "category": "Public Health",
+      "severity": "low",
+      "icon": "🌺",
+      "title": "Okinawan Longevity and Healthcare",
+      "subtitle": "Okinawa's centenarian rate among world's highest",
+      "fullDescription": "Okinawa was historically famed as the 'Land of Immortals' for its exceptional longevity — among Japan's highest centenarian rates (67.3 per 100,000 as of 2020). The Okinawa Prefectural Government operates targeted health programmes studying the traditional diet (Okinawa diet — sweet potato, bitter melon, tofu, seaweed). However, the Americanisation of diet post-WWII US occupation has increased obesity and diabetes rates among younger generations. Okinawa now has one of Japan's highest obesity rates, below 50.",
+      "penalty": "N/A — health promotion programme; non-compliance with health screenings: no penalty but reduced insurance benefits potentially",
+      "exceptions": [],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Health Promotion Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the traditional Okinawan vegetable credited with health benefits — bitter in flavour?",
+        "options": ["Sweet potato (only)", "Bitter melon (ゴーヤー, goya)", "Shiitake mushrooms", "Lotus root"],
+        "correct": 1,
+        "explanation": "Bitter melon (ゴーヤー, goya) is Okinawa's most iconic vegetable — consumed daily in traditional dishes and studied for potential anti-diabetic and anti-inflammatory properties."
+      }
+    },
+    {
+      "id": 42732,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌀",
+      "title": "Typhoon Building Standards — Reinforced Concrete Mandate",
+      "subtitle": "Okinawa has Japan's strictest typhoon-resistant building codes",
+      "fullDescription": "Okinawa lies directly in Japan's main typhoon track and averages 7–8 typhoon impacts per year. Post-war reconstruction after WWII devastation led to a prefecture-wide shift to reinforced concrete construction — today over 90% of Okinawan homes are concrete, the highest rate in Japan. Building Standards Act typhoon-specific provisions for Okinawa include mandatory reinforced shutters, higher wind load calculations, and rooftop water tanks (for water supply during typhoon disruption). New buildings must withstand 250 km/h wind gusts.",
+      "penalty": "Buildings not meeting typhoon wind load standards: planning refusal; non-compliant typhoon shutter retrofit: administrative guidance",
+      "exceptions": ["Temporary structures for tourism with lighter standards but restricted to off-typhoon-season use"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Construction Standards",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Okinawan homes are built from reinforced concrete — Japan's highest rate?",
+        "options": ["50%", "70%", "Over 90%", "100%"],
+        "correct": 2,
+        "explanation": "Over 90% of Okinawan homes are reinforced concrete — Japan's highest rate — a result of post-WWII reconstruction policies designed to withstand the prefecture's frequent severe typhoons."
+      }
+    },
+    {
+      "id": 42733,
+      "category": "Tourism & Recreation",
+      "severity": "medium",
+      "icon": "🤿",
+      "title": "Diving Operator Licensing — Okinawa",
+      "subtitle": "Dive shops must be registered under maritime safety rules",
+      "fullDescription": "Okinawa is Japan's premier diving destination with over 30,000 species of marine life. Commercial dive operators must register under the Small Vessel Licensing Act (小型船舶操縦士法) and hold business registration with the Okinawa prefecture. Dive guides must hold CMAS, PADI, or equivalent Japanese (CMAS-affiliated) qualifications. Okinawa's dive sites include the famous Yonaguni Monument (underwater rock formation), manta ray cleaning stations, and WWII wreck dives — wrecks are protected as war graves under the Act on War Grave.",
+      "penalty": "Unlicensed commercial dive guiding: fines up to ¥1,000,000; vessel without small craft licence operator: up to 1 year imprisonment",
+      "exceptions": ["Self-guided recreational diving with personal certification requires no operator licence"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Marine Tourism Licensing",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What protection status do WWII shipwrecks in Okinawa's waters hold?",
+        "options": ["Historic landmark — no touching", "War graves — protected under the Act on War Grave", "Open public diving sites with no restrictions", "Private property of descendants of crew"],
+        "correct": 1,
+        "explanation": "WWII shipwrecks in Okinawa — including Japanese and American vessels from the 1945 Battle of Okinawa — are protected as war graves under Japan's Act on War Grave, restricting disturbance or removal of artefacts."
+      }
+    },
+    {
+      "id": 42734,
+      "category": "Military & Security",
+      "severity": "high",
+      "icon": "🕊️",
+      "title": "Battle of Okinawa Memorial Laws",
+      "subtitle": "June 23 — Okinawa Memorial Day — official commemoration",
+      "fullDescription": "June 23 is Okinawa Memorial Day (慰霊の日) — commemorating the official end of the Battle of Okinawa in 1945, which killed approximately 200,000 people including one-third of the civilian population. Under Okinawa Prefecture's Ordinance on Okinawa Memorial Day, the prefectural government conducts official ceremonies, public schools hold memorial services, and public institutions fly flags at half-mast. The Okinawa Prefectural Peace Memorial Museum and Cornerstone of Peace monument list all Battle of Okinawa victims by name.",
+      "penalty": "N/A — commemorative ordinance; desecration of war memorial sites: criminal property damage",
+      "exceptions": [],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Memorial Day",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many people — including what proportion of civilians — died in the 1945 Battle of Okinawa?",
+        "options": ["50,000 — mostly soldiers", "100,000 — equal soldier and civilian", "200,000 — including one-third of Okinawa's civilian population", "500,000 — mainly Japanese soldiers"],
+        "correct": 2,
+        "explanation": "The Battle of Okinawa killed approximately 200,000 people — including roughly one-third of Okinawa's entire civilian population — making it the bloodiest ground battle of the Pacific War."
+      }
+    },
+    {
+      "id": 42735,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🏖️",
+      "title": "Beach and Marine Park Access Rules",
+      "subtitle": "Okinawa's beaches governed by coastal and marine park law",
+      "fullDescription": "Okinawa's beaches are mostly public under the Coast Act (海岸法) — private beach access denial (common in some countries) is generally prohibited for natural coastlines. However, designated swimming areas are managed by local municipalities with safety flagging systems (red flag = prohibited swimming). Jet ski operations require marine vessel licences and designated zone compliance. The Kerama Islands National Park restricts motorised vessels in core marine protection areas.",
+      "penalty": "Swimming in prohibited zones (red flag): fines up to ¥30,000; unlicensed jet ski operation: up to 1 year imprisonment",
+      "exceptions": ["Emergency water rescue operations"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Coastal Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Are natural beaches in Okinawa generally public or private?",
+        "options": ["Mostly private — beach access fees common", "Generally public under Japan's Coast Act — private denial of natural beach access is broadly prohibited", "Managed as national park concessions", "Split between US military and public"],
+        "correct": 1,
+        "explanation": "Japan's Coast Act generally makes natural coastal areas public — private exclusion of beach access is broadly not permitted, unlike in some countries where beach fronts can be fully private."
+      }
+    },
+    {
+      "id": 42736,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Okinawa Promotion and Development Special Measures",
+      "subtitle": "Okinawa receives special national development subsidies",
+      "fullDescription": "Okinawa operates under the Okinawa Promotion and Development Special Measures Act (沖縄振興特別措置法), renewed every 10 years, which provides preferential tax treatment, higher national subsidy rates (approximately 8/10 of project cost vs 5/10 nationally), and targeted economic development funding. The Okinawa Comprehensive Bureau (内閣府沖縄総合事務局) manages national investment in Okinawa. As compensation for the disproportionate base burden, national funding for Okinawa infrastructure is among Japan's highest per capita.",
+      "penalty": "Misuse of Okinawa Special Measures subsidies: full clawback + criminal fraud charges",
+      "exceptions": [],
+      "source": "https://www.cao.go.jp/okinawa/",
+      "sourceLabel": "Cabinet Office — Okinawa Comprehensive Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What national subsidy rate does Okinawa typically receive under the Special Measures Act compared to other prefectures?",
+        "options": ["Same as other prefectures (5/10)", "Higher — approximately 8/10 of project cost", "Full 10/10 national funding", "Lower — Okinawa self-funds more"],
+        "correct": 1,
+        "explanation": "Okinawa receives approximately 8/10 national subsidy rates under the Special Measures Act — significantly higher than the standard 5/10 — partly compensating for the economic burden of hosting US military bases."
+      }
+    },
+    {
+      "id": 42737,
+      "category": "Agriculture",
+      "severity": "low",
+      "icon": "🍍",
+      "title": "Okinawan Tropical Agriculture — Sugarcane Rules",
+      "subtitle": "Sugarcane production governed by sugar industry protection",
+      "fullDescription": "Okinawa produces the majority of Japan's domestic sugarcane (サトウキビ) — used to make raw sugar and kokuto (黒糖, Okinawan brown sugar). Under the Act on Stabilisation of Sugar Price (砂糖の価格調整に関する法律), a price support system guarantees minimum prices to farmers via the ALIC. Kokuto from specific Okinawan islands (Hateruma, Iriomote) has informal GI-level recognition. The sugarcane harvest (December–March) involves seasonal agricultural machinery under specific safety rules.",
+      "penalty": "Food fraud labelling kokuto as mainland sugar product: consumer law violations; farming subsidy fraud: criminal charges",
+      "exceptions": ["Small-scale home production of kokuto for personal use not regulated"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Agriculture Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is kokuto (黒糖)?",
+        "options": ["Okinawa's traditional rice wine", "Okinawan unrefined brown sugar made from sugarcane — a regional specialty", "A tropical fruit grown only in Okinawa", "Traditional Ryukyuan pottery"],
+        "correct": 1,
+        "explanation": "Kokuto (黒糖) is Okinawan unrefined brown sugar made from sugarcane — darker and more mineral-rich than refined sugar, produced on several Okinawan islands and a prized regional food product."
+      }
+    },
+    {
+      "id": 42738,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🎶",
+      "title": "Ryukyuan Music and Dance — Intangible Heritage",
+      "subtitle": "Traditional Ryukyuan performing arts protected",
+      "fullDescription": "Okinawan traditional performing arts — including Ryukyuan dance (琉球舞踊), Kumiodori (組踊, classical opera), and sanshin (三線) music — are designated Important Intangible Cultural Properties and UNESCO Intangible Cultural Heritage (Kumiodori inscribed 2010). Practitioners must train under licensed iemoto masters. The Okinawa Prefectural Arts University is Japan's only arts university with dedicated Ryukyuan performing arts programmes. Commercial use of traditional Ryukyuan designs and music requires cultural sensitivity and may involve IP considerations.",
+      "penalty": "Damage to designated cultural property instruments (eg. antique sanshin): up to 5 years; fraudulent iemoto certification claims: fraud charges",
+      "exceptions": ["Educational and community performance exempt from commercial licensing requirements"],
+      "source": "https://www.bunka.go.jp/",
+      "sourceLabel": "Agency for Cultural Affairs — Ryukyuan Intangible Heritage",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the sanshin (三線) — central to Okinawan traditional music?",
+        "options": ["A three-stringed banjo-like instrument with snakeskin body", "A traditional Okinawan wind instrument similar to shakuhachi", "A three-drum percussion set used in Ryukyuan dance", "A ceremonial gong used at Ryukyuan royal court"],
+        "correct": 0,
+        "explanation": "The sanshin (三線) is a three-stringed lute with a snakeskin-covered body — Okinawa's most iconic traditional instrument, ancestral to Japan's mainland shamisen and related to Chinese sanxian."
+      }
+    },
+    {
+      "id": 42739,
+      "category": "Environmental",
+      "severity": "high",
+      "icon": "🐢",
+      "title": "Sea Turtle Nesting Beach Protection",
+      "subtitle": "Okinawa's beaches are critical sea turtle nesting habitat",
+      "fullDescription": "Okinawa's beaches — particularly on Kerama, Miyako, and the main island's north — are critical nesting grounds for green turtles (アオウミガメ) and loggerhead turtles (アカウミガメ), both protected under the Wildlife Protection Act. During nesting season (May–August), beach lighting must be minimised, beach furniture must be removed at night, and sand vehicles are prohibited. Touching nesting turtles or hatchlings is prohibited. Beach hotels must comply with light management requirements.",
+      "penalty": "Disturbing nesting turtles or eggs: up to 1 year imprisonment or ¥1,000,000 fine; hotel non-compliance with lighting rules: administrative orders",
+      "exceptions": ["Licensed scientific researchers monitoring nesting programmes"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Sea Turtle Conservation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What beach management measure do Okinawa's hotel regulations require during sea turtle nesting season?",
+        "options": ["Closing beaches entirely at night", "Minimising beach lighting and removing furniture at night to avoid disorienting nesting turtles", "Installing turtle-proof beach barriers", "Providing turtle monitoring staff at every hotel"],
+        "correct": 1,
+        "explanation": "Artificial lighting disorients nesting sea turtles and hatchlings — Okinawa's regulations require hotels near nesting beaches to minimise lighting and remove beach furniture overnight during the May–August nesting season."
+      }
+    },
+    {
+      "id": 42740,
+      "category": "Public Order",
+      "severity": "high",
+      "icon": "✈️",
+      "title": "Futenma Air Station Relocation Dispute",
+      "subtitle": "Ongoing legal dispute over Marine Corps base relocation",
+      "fullDescription": "The relocation of US Marine Corps Air Station Futenma (普天間飛行場) — located in densely populated Ginowan City — to a coastal landfill site at Henoko has been the subject of a decade-long legal dispute. Okinawa Prefecture has repeatedly refused to approve landfill permits; Japan's national government overrode the refusal using central government authority. The Supreme Court ruled in 2023 the national override was lawful. Anti-base protest camps at Henoko maintain 24-hour presence; trespass to construction zones is prosecuted.",
+      "penalty": "Trespassing in construction zone at Henoko: criminal trespass; obstruction of national government work: administrative and civil penalties",
+      "exceptions": ["Peaceful demonstration at designated protest areas is protected under freedom of assembly"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Base Relocation Policy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What did Japan's Supreme Court rule in 2023 regarding the Henoko base construction?",
+        "options": ["Okinawa Prefecture's refusal of the landfill permit was valid", "The national government's override of Okinawa's permit refusal was lawful", "Construction must be paused for environmental review", "The Futenma base must close before construction begins"],
+        "correct": 1,
+        "explanation": "Japan's Supreme Court ruled in 2023 that the national government's override of Okinawa Prefecture's permit refusal was lawful — clearing the way for continued Henoko landfill construction despite local opposition."
+      }
+    },
+    {
+      "id": 42741,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "💴",
+      "title": "Okinawa Minimum Wage and Low-Wage Economy",
+      "subtitle": "Okinawa has Japan's lowest minimum wage",
+      "fullDescription": "Okinawa's regional minimum wage of ¥896 per hour (October 2024) is Japan's lowest — reflecting the prefecture's chronically high unemployment rate (consistently the highest in Japan at 3–4%) and reliance on tourism, US base-related services, and public sector employment. The low wage contributes to poverty rates approximately 2.5× the national average. The Okinawa Labour Bureau prioritises enforcement in tourism hospitality, care work, and agricultural sectors.",
+      "penalty": "Employers paying below minimum: fines up to ¥500,000",
+      "exceptions": ["Apprenticeships with Labour Bureau waiver"],
+      "source": "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/",
+      "sourceLabel": "Okinawa Labour Bureau — Minimum Wage",
+      "lastUpdated": "2024-10-01",
+      "quiz": {
+        "q": "How does Okinawa's unemployment rate compare to the national average?",
+        "options": ["Below national average", "Equal to national average", "Consistently Japan's highest — approximately 3–4%", "Only seasonally elevated"],
+        "correct": 2,
+        "explanation": "Okinawa consistently records Japan's highest unemployment rate at 3–4% — reflecting structural economic challenges including over-reliance on low-wage tourism and base-related services."
+      }
+    },
+    {
+      "id": 42742,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Dugong Protection — Henoko Construction Impact",
+      "subtitle": "Okinawa's last dugong population threatened by base construction",
+      "fullDescription": "Okinawa's Henoko-Oura Bay area hosts Japan's last dugong (ジュゴン) population — fewer than 3 individuals as of 2022. Dugongs are listed as Endangered (IUCN) and are a designated Natural Monument under Japan's cultural properties law. US and Japanese courts have heard cases arguing Henoko base construction violates NEPA (US environmental law, through US base connection) and Japan's Natural Monument protections. The construction's dredging has degraded critical seagrass habitat.",
+      "penalty": "Deliberately harming dugong: up to 5 years imprisonment as Natural Monument; construction impact liability contested through courts",
+      "exceptions": ["Emergency dredging with environmental impact mitigation"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Dugong Conservation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many dugongs remain in Okinawa — making it Japan's last population?",
+        "options": ["Around 50", "Around 20", "Around 10", "Fewer than 3"],
+        "correct": 3,
+        "explanation": "Fewer than 3 dugongs are believed to remain in Okinawa as of 2022 — Japan's last population, critically threatened by habitat loss including construction activity at Henoko."
+      }
+    },
+    {
+      "id": 42743,
+      "category": "Heritage & Culture",
+      "severity": "low",
+      "icon": "🏺",
+      "title": "Ryukyuan Lacquerware (Ryukyu Shikki) Protection",
+      "subtitle": "Traditional lacquer art designated important craft",
+      "fullDescription": "Ryukyu lacquerware (琉球漆器, Ryukyu shikki) — produced using distinctive red, black, and gold lacquer on wood or cloth bases — is a designated Important Intangible Cultural Property and traditional craft. Under the Act on Promotion of Traditional Craft Industries, products must meet production criteria to bear the traditional craft mark. The Okinawa Prefectural Museum displays historic Ryukyuan lacquerware confiscated during WWII that Japan has been working to repatriate from international collections.",
+      "penalty": "Fraudulent use of Ryukyu lacquerware traditional craft mark: up to ¥1,000,000 fine",
+      "exceptions": ["Modern artist interpretations sold without the traditional craft mark"],
+      "source": "https://www.meti.go.jp/",
+      "sourceLabel": "METI — Traditional Craft Industries — Ryukyu Lacquerware",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What are the distinctive colours of traditional Ryukyu lacquerware?",
+        "options": ["Blue, white, and gold", "Red, black, and gold", "Green, brown, and silver", "Yellow, orange, and black"],
+        "correct": 1,
+        "explanation": "Traditional Ryukyu lacquerware (琉球漆器) is characterised by vibrant red, black, and gold lacquer work — influenced by Chinese lacquer traditions and developed into a distinctly Ryukyuan art form."
+      }
+    },
+    {
+      "id": 42744,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🐍",
+      "title": "Habu Snake Bite Emergency Protocol",
+      "subtitle": "Okinawa's habu snake poses serious public health risk",
+      "fullDescription": "Okinawa is home to the habu (ハブ), one of Asia's most dangerous pit vipers. Approximately 50–70 habu bites are reported annually, occasionally fatal if untreated. Okinawa Prefecture maintains habu antivenom stockpiles at designated medical facilities. Under the Act for Prevention of Infectious Diseases and Medical Care for Patients with Infectious Diseases (as categorised), habu bites requiring antivenom must be reported. Mongoose were introduced to control habu in the 1970s — now themselves an invasive species being eradicated.",
+      "penalty": "Possession of live habu without permit: fine under Invasive Species Act provisions; private mongoose keeping: prohibited under Invasive Species Act",
+      "exceptions": ["Licensed venom research facilities"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Habu Control Programme",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why were mongooses introduced to Okinawa in the 1970s — and what went wrong?",
+        "options": ["For fur farming — they escaped", "To control habu snakes — but they are now an invasive species being eradicated", "As military working animals — abandoned after US withdrawal", "As pets — released when owners couldn't manage them"],
+        "correct": 1,
+        "explanation": "Mongoose were introduced in 1910 (and again in the 1970s) to control habu snakes — but prefer lizards, birds, and eggs over habu. They are now a serious invasive species threatening Okinawa's native wildlife."
+      }
+    },
+    {
+      "id": 42745,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "⚓",
+      "title": "Territorial Waters Enforcement — Senkaku Islands",
+      "subtitle": "Japan Coast Guard enforces Japanese territorial claim",
+      "fullDescription": "Japan administers the Senkaku Islands (尖閣諸島) — claimed also by China (Diaoyu Islands) and Taiwan — as part of Okinawa Prefecture. Japan Coast Guard vessels regularly intercept Chinese government ships entering Japan's territorial waters around the islands. Under the Law Concerning the Exclusive Economic Zone and Continental Shelf of Japan, foreign vessels may not conduct research or resource extraction in Japan's EEZ without permission. Incursions by Chinese Coast Guard vessels into the 12-nautical-mile territorial sea have become nearly daily since 2012.",
+      "penalty": "Illegal fishing in Japan's Senkaku EEZ: vessel seizure + fines; territorial water entry without permission: diplomatic protest and potential criminal charges for crew",
+      "exceptions": ["Innocent passage through territorial sea (UNCLOS) — not including resource activities"],
+      "source": "https://www.kaiho.mlit.go.jp/",
+      "sourceLabel": "Japan Coast Guard — Senkaku Response",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Chinese name for the Senkaku Islands — claimed by both Japan and China?",
+        "options": ["Paracel Islands", "Diaoyu Islands (钓鱼岛)", "Spratly Islands", "Ryukyu Islands"],
+        "correct": 1,
+        "explanation": "The Senkaku Islands are called Diaoyu Islands (钓鱼岛) in Chinese — a territorial dispute that has intensified since 2012 with near-daily Chinese Coast Guard incursions into Japan-administered waters."
+      }
+    },
+    {
+      "id": 42746,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌴",
+      "title": "Iriomote-Ishigaki National Park Rules",
+      "subtitle": "Japan's most biodiverse national park with strict access rules",
+      "fullDescription": "Iriomote-Ishigaki National Park — designated Japan's 32nd and southernmost national park in 2007 — encompasses Iriomote Island's ancient rainforest, Ishigaki's mountains, and surrounding coral seas. The park contains Japan's only subtropical rainforest. Under the Natural Parks Act, the Special Protection Zone prohibits plant collection, off-trail access, and development. Mangrove kayaking is only permitted on licenced tour routes. Star sand beaches are protected — removing sand is prohibited.",
+      "penalty": "Removing star sand or protected plants from national park: up to ¥500,000 fine; off-trail access to Special Protection Zone: fines up to ¥300,000",
+      "exceptions": ["Scientific research with Ministry approval"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Iriomote-Ishigaki National Park",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What unique ecosystem type exists only within Iriomote-Ishigaki National Park in Japan?",
+        "options": ["Temperate rainforest", "Subtropical rainforest — Japan's only example", "Desert scrubland", "Arctic tundra (at elevation)"],
+        "correct": 1,
+        "explanation": "Iriomote Island hosts Japan's only subtropical rainforest — a globally rare ecosystem supporting the Iriomote wildcat and hundreds of endemic species found nowhere else."
+      }
+    },
+    {
+      "id": 42747,
+      "category": "Consumer Protection",
+      "severity": "low",
+      "icon": "🥃",
+      "title": "Awamori Production and Labelling Rules",
+      "subtitle": "Okinawa's traditional spirit protected by GI designation",
+      "fullDescription": "Awamori (泡盛) — Okinawa's traditional distilled spirit made from Thai long-grain rice using Aspergillus awamori mould — is protected as a Geographical Indication (GI) under the Liquor Tax Act (酒税法). Only awamori produced in Okinawa using traditional methods can be labelled as awamori. Aged awamori over 3 years is called 'kuusu' (古酒). Production must comply with national tax bureau distillery licensing. Awamori at 30% ABV is the standard strength; versions up to 60% ABV are produced.",
+      "penalty": "False awamori GI labelling (producing outside Okinawa and labelling as awamori): fines under Liquor Tax Act and Unfair Competition Prevention Act",
+      "exceptions": ["Okinawa-branded spirits using different techniques must use different names"],
+      "source": "https://www.nta.go.jp/",
+      "sourceLabel": "National Tax Agency — Awamori GI Designation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What grain is used to produce Okinawan awamori (泡盛) — distinguishing it from Japanese shochu?",
+        "options": ["Barley", "Sweet potato", "Thai long-grain rice (indica rice)", "Buckwheat"],
+        "correct": 2,
+        "explanation": "Awamori is made exclusively from Thai long-grain (indica) rice using Aspergillus awamori black mould — distinguishing it from mainland Japanese shochu, which uses Japanese rice or sweet potato."
+      }
+    },
+    {
+      "id": 42748,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "🚝",
+      "title": "Okinawa Monorail (Yui Rail) Rules",
+      "subtitle": "Okinawa's only rail system — monorail from Naha Airport",
+      "fullDescription": "The Okinawa Urban Monorail (沖縄都市モノレール, Yui Rail — ゆいレール) is Okinawa's only rail public transport, running 17 km from Naha Airport to Tedako-Uranishi. Given Okinawa's car-centric layout, it primarily serves tourists and commuters between Naha's key districts. Under the Railway Business Act, Yui Rail must comply with standard safety, accessibility, and fare regulations. Extensions to Okinawa's north are under planning study. IC card integration (Suica/PASMO accepted) was added in 2022.",
+      "penalty": "Fare evasion: back-fare + surcharge; safety zone violations: standard rail trespass penalties",
+      "exceptions": [],
+      "source": "https://www.yui-rail.co.jp/",
+      "sourceLabel": "Okinawa Urban Monorail (Yui Rail)",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does 'Yui' (ゆい) mean in Yui Rail — Okinawa's monorail name?",
+        "options": ["'Speed' in Okinawan dialect", "'Unity' or 'connection' in Okinawan — reflecting the monorail's role linking communities", "'Sea' — referring to Okinawa's coastal character", "'Sky' — the monorail runs elevated above streets"],
+        "correct": 1,
+        "explanation": "'Yui' (ゆい) comes from the Okinawan concept of 'yuimaaru' (ゆいまーる) — mutual help and community connection — reflecting the monorail's role in linking Naha's communities."
+      }
+    },
+    {
+      "id": 42749,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🗳️",
+      "title": "Okinawa Prefectural Referendum Tradition",
+      "subtitle": "Okinawa uses public referendums on major policy questions",
+      "fullDescription": "Okinawa has held multiple public referendums on US base policy — a rare practice in Japan. The 1996 referendum on SOFA revision and base reduction saw 89% vote in favour of base reduction. The 2019 Henoko landfill referendum saw 72% oppose the relocation. While these referendums are advisory (Japanese law does not require binding local referendums on national security), they carry significant political weight. The Okinawa Prefectural Government operates a citizens' referendum framework under the Local Autonomy Act.",
+      "penalty": "Referendum process violations: administrative penalties under Local Autonomy Act",
+      "exceptions": ["National security decisions remain within the national government's exclusive authority regardless of referendum results"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Referendum Governance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage voted against the Henoko base landfill in Okinawa's 2019 referendum?",
+        "options": ["51%", "60%", "72%", "89%"],
+        "correct": 2,
+        "explanation": "72% of Okinawa voters opposed the Henoko landfill relocation in the February 2019 referendum — but the result was advisory and the national government proceeded with construction."
+      }
+    },
+    {
+      "id": 42750,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🦅",
+      "title": "Okinawa Rail (Yanbaru Kuina) Protection",
+      "subtitle": "World's rarest flightless bird found only in Okinawa's north",
+      "fullDescription": "The Okinawa rail (ヤンバルクイナ, Yanbaru Kuina) — a flightless bird discovered in 1981, found only in Okinawa's northern Yanbaru forest — is critically endangered with approximately 1,800 individuals. It is a Special Natural Monument. Yanbaru (やんばる) forest was designated Japan's 34th national park in 2021 and is a 2021 UNESCO World Natural Heritage inscribed site (Amami-Okinawa). Mongoose predation has been the primary threat — eradication programmes have successfully reduced mongoose in the north.",
+      "penalty": "Killing or capturing Okinawa rail: up to 5 years imprisonment or ¥500,000 fine",
+      "exceptions": ["Licensed scientific research with Environment Ministry approval"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Okinawa Rail Conservation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was the Okinawa rail (Yanbaru Kuina) first scientifically discovered?",
+        "options": ["1920", "1950", "1981", "2001"],
+        "correct": 2,
+        "explanation": "The Okinawa rail was discovered in 1981 — one of the 20th century's most significant ornithological discoveries — immediately recognised as critically endangered and legally protected."
+      }
+    },
+    {
+      "id": 42751,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏨",
+      "title": "Okinawa Tourism Tax and Resort Development",
+      "subtitle": "Okinawa targets premium resort development",
+      "fullDescription": "Okinawa is pursuing high-end resort development under the Okinawa Promotion Special Zone to capture higher-spending tourists and raise the prefecture's low average revenue-per-tourist. Several municipalities have introduced or are planning accommodation taxes. Okinawa received 10.5 million visitors in 2019 (pre-COVID record); tourism accounts for approximately 15% of prefectural GDP. The Free Trade Zone (那覇空港自由貿易地域) at Naha Airport allows duty-free import and re-export of goods.",
+      "penalty": "Accommodation tax non-remittance: standard tax penalty surcharges; Free Trade Zone violations: customs penalties",
+      "exceptions": ["Long-stay residents exempt from accommodation taxes"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Tourism Promotion Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What share of Okinawa's GDP does tourism account for?",
+        "options": ["5%", "10%", "Approximately 15%", "30%"],
+        "correct": 2,
+        "explanation": "Tourism accounts for approximately 15% of Okinawa's prefectural GDP — making it by far the most tourism-dependent economy in Japan and particularly vulnerable to external shocks like COVID-19."
+      }
+    },
+    {
+      "id": 42752,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "☀️",
+      "title": "UV Radiation and Skin Cancer Prevention",
+      "subtitle": "Okinawa has Japan's highest UV radiation levels",
+      "fullDescription": "Okinawa receives Japan's highest UV radiation levels year-round (UV Index 11+ in summer). The Okinawa Prefectural Government's health promotion programmes specifically include UV protection guidance — sun protection is incorporated into school physical education curricula. Despite this, Okinawa has among Japan's lowest skin cancer rates — possibly linked to the traditional diet's antioxidant content. Outdoor workers (construction, agriculture, diving) are subject to occupational health guidance on sun protection under the Industrial Safety and Health Act.",
+      "penalty": "Employers failing occupational UV protection duty: administrative guidance under Industrial Safety Act",
+      "exceptions": [],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Health Promotion",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Okinawa's UV Index at its peak in summer?",
+        "options": ["6–7", "8–9", "10–11", "11+"],
+        "correct": 3,
+        "explanation": "Okinawa regularly reaches UV Index 11+ in summer — the 'Extreme' category — the highest in Japan, requiring consistent sun protection for outdoor activities."
+      }
+    },
+    {
+      "id": 42753,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "💊",
+      "title": "Drug Smuggling via Okinawa's Maritime Routes",
+      "subtitle": "Okinawa's island geography presents drug transit risks",
+      "fullDescription": "Okinawa's 160 inhabited islands spread across 1,000 km of ocean create complex maritime border monitoring challenges. Japan Coast Guard and customs operate dedicated patrols for drug smuggling routes used to transit methamphetamine and synthetic drugs from Southeast Asia toward mainland Japan. The 2021 interception of a 600 kg methamphetamine shipment near Okinawa was Japan's largest seizure. The Customs Act and Stimulants Control Act provide maximum penalties for import trafficking.",
+      "penalty": "Methamphetamine import: up to life imprisonment; large-scale trafficking with organised crime: mandatory maximum sentences typically applied",
+      "exceptions": [],
+      "source": "https://www.customs.go.jp/",
+      "sourceLabel": "Japan Customs — Okinawa Region",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many inhabited islands does Okinawa Prefecture have — creating its complex maritime border?",
+        "options": ["20", "50", "100", "160"],
+        "correct": 3,
+        "explanation": "Okinawa Prefecture has 160 inhabited islands spread across approximately 1,000 km of ocean — creating one of Japan's most challenging maritime border monitoring environments for customs and coast guard."
+      }
+    },
+    {
+      "id": 42754,
+      "category": "Indigenous Rights",
+      "severity": "medium",
+      "icon": "🪶",
+      "title": "Ryukyuan Cultural Identity and Dialect Rights",
+      "subtitle": "Uchinaaguchi (Okinawan language) at risk of extinction",
+      "fullDescription": "Uchinaaguchi (ウチナーグチ) — the Okinawan language, linguistically distinct from Japanese — is UNESCO-classified as a critically endangered language with fewer than 1,000 fluent speakers remaining. Unlike the Ainu, the Ryukyuan people lack formal indigenous legal recognition in Japan — a political distinction given the Ryukyu Kingdom's forced annexation in 1879. Okinawa Prefecture funds language revitalisation programmes. The 2019 Ainu Act recognised Ainu as indigenous but did not extend similar recognition to Ryukyuans.",
+      "penalty": "N/A — cultural promotion programme; discrimination against Okinawan dialect speakers historically notable but no specific legal remedy",
+      "exceptions": [],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Uchinaaguchi Revitalisation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the name of the Okinawan language — distinct from Japanese — now critically endangered?",
+        "options": ["Ryukyugo", "Uchinaaguchi (ウチナーグチ)", "Naha-ben", "Amami-go"],
+        "correct": 1,
+        "explanation": "Uchinaaguchi (ウチナーグチ) is the Okinawan language — a separate language (not a dialect) from Japanese, with fewer than 1,000 fluent speakers and classified as critically endangered by UNESCO."
+      }
+    },
+    {
+      "id": 42755,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Okinawa Coastal Development Restriction",
+      "subtitle": "Mangroves and seagrass beds protected from development",
+      "fullDescription": "Okinawa's mangrove forests (マングローブ林) — concentrated in Iriomote, Miyako, and Kouri Island areas — and seagrass beds (海草藻場) are protected under the Nature Conservation Act and Coast Act. Development requiring mangrove clearing needs comprehensive environmental assessment and Ministry of Environment approval. Mangroves support juvenile fish populations critical to Okinawa's fishing industry. Climate change-driven sea level rise threatens low-lying mangrove areas independently of development.",
+      "penalty": "Unauthorised mangrove clearing: restoration order + fines up to ¥1,000,000",
+      "exceptions": ["Flood control infrastructure with approved environmental mitigation"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Okinawa Coastal Ecosystems",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why are Okinawa's seagrass beds legally protected beyond their scenic value?",
+        "options": ["They are sacred Ryukyuan cultural sites", "They support juvenile fish and are critical feeding habitat for dugongs", "They generate significant oxygen for the island chain", "They stabilise island foundations against typhoon erosion"],
+        "correct": 1,
+        "explanation": "Okinawa's seagrass beds support juvenile fish critical to the fishing industry and are the primary food source for the prefecture's last remaining dugongs — making their protection economically and ecologically essential."
+      }
+    },
+    {
+      "id": 42756,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🎊",
+      "title": "Okinawa Eisa Dance Festival Rules",
+      "subtitle": "Obon drum dance festival managed under event safety rules",
+      "fullDescription": "Eisa (エイサー) — Okinawa's traditional Obon drum dance performed by youth groups (青年会) during the August lunar Obon period — takes place on public streets across all Okinawan municipalities. Street processions require road closure permits under the Road Traffic Act. The All-Okinawa Eisa Festival (全島エイサーまつり) in Okinawa City draws 30,000+ spectators. Drum noise levels during night performances in residential areas are managed under municipal noise ordinances.",
+      "penalty": "Unpermitted road closure for eisa procession: traffic law violation; excessive noise past ordinance hours: fines",
+      "exceptions": ["Traditional community eisa during Obon on designated community streets has streamlined permitting"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Cultural Events Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "During which Japanese Buddhist observance is Okinawan Eisa traditionally performed?",
+        "options": ["New Year (Shogatsu)", "Cherry Blossom Season (Hanami)", "Obon — the festival for ancestor spirits", "Winter Solstice (Toji)"],
+        "correct": 2,
+        "explanation": "Eisa is performed during Obon (お盆) — the Japanese Buddhist festival welcoming and sending off ancestor spirits — typically in August, with youth groups dancing through neighbourhood streets."
+      }
+    },
+    {
+      "id": 42757,
+      "category": "Education",
+      "severity": "low",
+      "icon": "🎓",
+      "title": "Okinawa International University and Campus Safety",
+      "subtitle": "Private university near Futenma base faces unique safety challenges",
+      "fullDescription": "Okinawa International University (沖縄国際大学) in Ginowan is located immediately adjacent to US Marine Corps Air Station Futenma. In August 2004, a US military helicopter crashed into the university campus — no students were killed (summer holidays) but the incident became a defining symbol of base risk to civilian life. The university's campus safety plans and evacuation protocols are unique in Japan for incorporating military aircraft crash scenarios. Access to the crash site is commemorated annually.",
+      "penalty": "N/A — safety planning requirement; related criminal liability from 2004 crash was subject to SOFA provisions",
+      "exceptions": [],
+      "source": "https://www.okiu.ac.jp/",
+      "sourceLabel": "Okinawa International University",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What happened at Okinawa International University in August 2004?",
+        "options": ["A violent anti-base student protest", "A US military helicopter crashed into the university campus — a defining symbol of base risk", "The university was used as a military base during manoeuvres", "A chemical spill from nearby base affected campus water"],
+        "correct": 1,
+        "explanation": "In August 2004, a US Marine CH-53D helicopter crashed into Okinawa International University's campus — no students were killed (summer holidays) but the incident became a defining symbol of the risks posed by Futenma's location in dense civilian areas."
+      }
+    },
+    {
+      "id": 42758,
+      "category": "Consumer Protection",
+      "severity": "low",
+      "icon": "🐠",
+      "title": "Okinawa Aquaculture Product Labelling",
+      "subtitle": "Farmed vs wild Okinawan fish must be correctly labelled",
+      "fullDescription": "Okinawa's aquaculture industry produces farmed grouper (クエ), sea bream (タイ), and pearl oysters (真珠). Under the Food Labelling Act, farmed fish must be labelled as such (養殖) — it cannot be sold as 'natural' (天然) catch. Okinawa's fishery cooperatives operate strict traceability systems. Pearl farming — particularly Akoya pearls from Mie and Okinawan saltwater pearls — is a significant industry; grading and provenance certification prevents fraudulent quality claims.",
+      "penalty": "Mislabelling farmed fish as wild: up to 2 years imprisonment or ¥2,000,000 fine",
+      "exceptions": ["Hatchery-raised fish released into the wild and later caught commercially have ambiguous labelling rules"],
+      "source": "https://www.caa.go.jp/",
+      "sourceLabel": "Consumer Affairs Agency — Aquaculture Labelling",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What labelling is required for farmed fish in Japan — preventing 'natural' false claims?",
+        "options": ["'Marine product' label only", "'養殖' (farmed) must be stated — it cannot be sold as '天然' (wild/natural)", "No labelling required for fish type", "Only restaurant menus require farmed/wild distinction"],
+        "correct": 1,
+        "explanation": "Japan's Food Labelling Act requires farmed fish to be labelled '養殖' (farmed) — selling farmed fish as '天然' (natural/wild) is a criminal offence carrying up to 2 years imprisonment."
+      }
+    },
+    {
+      "id": 42759,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏝️",
+      "title": "離島 (Remote Island) Subsidy Scheme",
+      "subtitle": "Japan subsidises essential services on Okinawa's remote islands",
+      "fullDescription": "Under the Remote Islands Promotion Act (離島振興法) and Okinawa-specific provisions, the national government subsidises ferry and air transport to Okinawa's outlying islands (Miyako, Yaeyama, Amami) to ensure essential access. These subsidies cover ticket price caps, fuel costs, and route maintenance. The Okinawa Prefectural Government additionally subsidises medical transport for remote island residents requiring mainland hospital care. Without subsidies, many island routes would be commercially unviable.",
+      "penalty": "Transport operators receiving subsidies while not maintaining service standards: subsidy clawback + contract termination",
+      "exceptions": [],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Remote Island Development",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why does Japan subsidise ferry and air routes to Okinawa's remote islands?",
+        "options": ["To support military logistics to island bases", "To ensure essential access and prevent population collapse — routes would be commercially unviable without support", "To comply with UNCLOS island habitation requirements", "EU aid conditions for Pacific island development"],
+        "correct": 1,
+        "explanation": "Without subsidies, air and ferry routes to Okinawa's outer islands (Miyako, Yaeyama, etc.) would be commercially unviable — the Remote Islands Promotion Act ensures essential transport access to prevent population collapse."
+      }
+    },
+    {
+      "id": 42760,
+      "category": "Civil Rights",
+      "severity": "high",
+      "icon": "🕊️",
+      "title": "Anti-War and Peace Movement Legal Protections",
+      "subtitle": "Okinawa's peace movement exercises strong assembly rights",
+      "fullDescription": "Okinawa has Japan's most active anti-war and anti-base peace movement — rooted in the WWII Battle of Okinawa experience and ongoing base burden. Peaceful demonstrations at Henoko, Futenma perimeter, and prefectural government buildings are legally protected under Article 21 of Japan's Constitution (freedom of assembly and expression). Okinawa's courts have consistently upheld protesters' rights to demonstrate at base gate areas, while also upholding construction access rights. The tension between these rights is a defining aspect of Okinawan civic life.",
+      "penalty": "Peaceful protest at designated areas: legally protected; blocking construction access or vehicles: civil obstruction; trespassing on base property: criminal trespass up to 3 years",
+      "exceptions": ["Registered protest demonstrations with police notification have broadest protection"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Peace Policy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under which article of Japan's Constitution is freedom of assembly — protecting Okinawa's peace protests — guaranteed?",
+        "options": ["Article 9 (renunciation of war)", "Article 14 (equality)", "Article 21 (freedom of assembly and expression)", "Article 25 (right to maintain minimum standards of living)"],
+        "correct": 2,
+        "explanation": "Article 21 of Japan's Constitution guarantees freedom of assembly and expression — the constitutional basis for Okinawa's peace movement's right to demonstrate at base perimeters and construction sites."
+      }
+    },
+    {
+      "id": 42761,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Climate Change Adaptation — Sea Level Rise",
+      "subtitle": "Low-lying Okinawan islands face existential flooding risk",
+      "fullDescription": "Several of Okinawa's outer islands — particularly Taketomi, Kume, and the Yaeyama group — have maximum elevations of only 2–5 metres above sea level. Under Japan's Climate Change Adaptation Act (気候変動適応法, 2018), coastal municipalities must develop adaptation plans. Okinawa Prefecture's Climate Change Action Plan includes coral reef protection (as a natural wave buffer), seawall construction, and long-term population management planning for the most vulnerable islands.",
+      "penalty": "Municipalities failing to develop Climate Adaptation Plans: administrative guidance from Ministry of Environment",
+      "exceptions": ["Islands with no permanent municipal government receive prefectural planning"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Climate Change Adaptation Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What natural structure does Okinawa's climate adaptation plan specifically protect as a wave buffer against sea level rise?",
+        "options": ["Mangrove forests only", "Rocky limestone coastlines", "Coral reefs — which buffer wave energy", "Seagrass beds"],
+        "correct": 2,
+        "explanation": "Coral reefs are a critical natural wave buffer for Okinawa's low-lying islands — their degradation from bleaching and development directly increases flood risk, making coral protection central to climate adaptation."
+      }
+    },
+    {
+      "id": 42762,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🎋",
+      "title": "Okinawa US Base Perimeter Protests — Legal Framework",
+      "subtitle": "Daily gate protests subject to careful legal management",
+      "fullDescription": "The Henoko Gate (ゲート前) sit-in protests — operating since 2015 — involve daily non-violent demonstrations blocking concrete mixer and construction vehicles entering Camp Schwab. Okinawa Prefecture Police manage the protests under a framework balancing Article 21 freedom of assembly with road traffic law. Protesters are physically moved to allow vehicle access — a regular, carefully choreographed interaction that has been ongoing for nearly a decade with thousands of arrests and convictions for obstruction.",
+      "penalty": "Physically blocking construction vehicles: obstruction of business (業務妨害) charges — typically fines; repeat offenders: escalating penalties",
+      "exceptions": ["Standing demonstration without physical blockade: protected expression"],
+      "source": "https://www.police.pref.okinawa.lg.jp/",
+      "sourceLabel": "Okinawa Prefectural Police",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What legal charge is typically applied to protesters who physically block construction vehicles at Henoko Gate?",
+        "options": ["Criminal trespass", "Obstruction of business (業務妨害)", "Public nuisance", "Civil disobedience — not criminal"],
+        "correct": 1,
+        "explanation": "Protesters physically blocking concrete trucks at Henoko Gate are typically charged with obstruction of business (業務妨害) — a criminal charge usually resulting in fines for first-time offenders."
+      }
+    },
+    {
+      "id": 42763,
+      "category": "Agriculture",
+      "severity": "low",
+      "icon": "🌺",
+      "title": "Orchid and Tropical Plant Export Controls",
+      "subtitle": "Okinawa's tropical flora subject to CITES and phytosanitary rules",
+      "fullDescription": "Okinawa produces 30% of Japan's orchids (particularly Dendrobium and Cymbidium) and significant tropical ornamental plants. Export to other countries requires phytosanitary certificates from the Plant Protection Station (植物防疫所). CITES Appendix II controls apply to certain wild orchid species — commercial export requires CITES permits. Bringing Okinawan plants or soil to mainland Japan requires inspection to prevent spread of the Okinawa-specific Spodoptera frugiperda (fall armyworm) which infests sugarcane.",
+      "penalty": "Exporting CITES-controlled plants without permit: up to 5 years imprisonment; moving uninspected plants/soil to mainland: fines under Plant Protection Act",
+      "exceptions": ["Certified nursery stock with clean phytosanitary certificates"],
+      "source": "https://www.pps.go.jp/",
+      "sourceLabel": "Plant Protection Station — Okinawa",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Japan's orchid production comes from Okinawa?",
+        "options": ["5%", "15%", "30%", "60%"],
+        "correct": 2,
+        "explanation": "Okinawa produces approximately 30% of Japan's orchids — its tropical climate supporting large-scale Dendrobium and Cymbidium cultivation for the domestic and export markets."
+      }
+    },
+    {
+      "id": 42764,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🏪",
+      "title": "US Base-Area Commercial Zone Rules",
+      "subtitle": "Gate towns (ゲート前通り) near bases have special commercial character",
+      "fullDescription": "Commercial areas around Okinawa's US bases — known as 'gate towns' (ゲート前) or American villages (アメリカンビレッジ) — historically operated with mixed US and Japanese commercial regulations, selling US goods at PX-equivalent prices. Today all commercial operations in gate towns must comply with Japanese consumer law, business licensing, and food safety standards. American Village (アメリカンビレッジ) in Chatan is a planned commercial development with themed US-style architecture — all standard Japanese business laws apply.",
+      "penalty": "Commercial violations in gate town areas: standard Japanese business law penalties",
+      "exceptions": ["On-base PX/AAFES stores operate under US military regulations — not accessible to Japanese civilians"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Commerce and Industry",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is 'American Village' (アメリカンビレッジ) in Chatan, Okinawa?",
+        "options": ["A US military residential compound", "A planned commercial development with US-themed architecture — but under full Japanese law", "A heritage museum of postwar US occupation", "A special economic zone with US business regulations"],
+        "correct": 1,
+        "explanation": "American Village (アメリカンビレッジ) is a commercially developed area in Chatan with US-themed architecture and shopping — it is a fully Japanese commercial zone that has capitalised on Okinawa's unique American cultural influence."
+      }
+    },
+    {
+      "id": 42765,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "⚔️",
+      "title": "WWII Unexploded Ordnance Discovery Protocol",
+      "subtitle": "Thousands of WWII shells discovered in Okinawa annually",
+      "fullDescription": "Okinawa's soil still contains approximately 2,000 tonnes of unexploded ordnance (不発弾) from the 1945 Battle of Okinawa — the deadliest ground battle of the Pacific War. Approximately 1,000 items of unexploded ordnance are discovered and safely disposed of annually by Japan Self-Defence Force explosive ordnance disposal (EOD) units. Construction projects in Okinawa are legally required to conduct ordnance surveys before ground-breaking. Failure to report discovered ordnance is a criminal offence.",
+      "penalty": "Failure to report discovered unexploded ordnance: up to 1 year imprisonment; moving or tampering with unexploded ordnance: criminal recklessness + potential explosive offences",
+      "exceptions": ["JSDF EOD teams operating under authorisation"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — UXO Disposal Programme",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many tonnes of WWII unexploded ordnance are estimated to remain in Okinawa's soil?",
+        "options": ["200 tonnes", "500 tonnes", "1,000 tonnes", "2,000 tonnes"],
+        "correct": 3,
+        "explanation": "Approximately 2,000 tonnes of unexploded ordnance from the 1945 Battle of Okinawa remain in the soil — with approximately 1,000 items safely disposed of annually by JSDF EOD teams."
+      }
+    },
+    {
+      "id": 42766,
+      "category": "Public Health",
+      "severity": "low",
+      "icon": "🌊",
+      "title": "Okinawa Water Safety — No Direct River Drinking",
+      "subtitle": "Okinawa's short rivers require careful water treatment",
+      "fullDescription": "Okinawa's small islands lack large river systems — most water comes from rainfall captured in dams and treated at water purification plants. Unlike Hokkaido's clean rivers, Okinawan surface water is subject to agricultural runoff and contamination risks in the densely populated areas. The Water Supply Act (水道法) governs drinking water quality. During typhoons, water supply can be interrupted — rooftop water tanks (common in concrete construction) serve as emergency reserves. Drinking untreated surface water is strongly discouraged.",
+      "penalty": "Water supply operators violating quality standards: up to 2 years imprisonment or ¥1,000,000 fine",
+      "exceptions": ["Emergency water purification tablets (approved by Ministry of Health) for disaster situations"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Waterworks Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why do most concrete buildings in Okinawa have rooftop water tanks?",
+        "options": ["Solar water heating systems built into tanks", "Emergency water reserves for typhoon-related supply interruptions", "US occupation-era building codes still in use", "Rainwater collection for garden use"],
+        "correct": 1,
+        "explanation": "Okinawa's frequent typhoons can interrupt water supply — rooftop tanks on concrete buildings serve as emergency reserves, a practical adaptation embedded in Okinawa's building culture."
+      }
+    },
+    {
+      "id": 42767,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🐬",
+      "title": "Spinner Dolphin Protection — Zamami",
+      "subtitle": "Whale watching and dolphin tours strictly regulated",
+      "fullDescription": "Spinner dolphins resident in Zamami Island's (座間味島) waters are protected under the Wildlife Protection Act and a Zamami Village ordinance requiring minimum approach distances of 100 metres by boats and prohibiting swimming with dolphins in their rest areas. The dolphins use specific shallow bays for rest during daylight hours — disturbing this rest (which tourists have historically done by swimming near them) is prohibited. Zamami issues whale-watching licences for humpback whale season (January–March).",
+      "penalty": "Approaching dolphins within prohibited distance: fines up to ¥100,000; entering dolphin rest zone: ordinance penalties",
+      "exceptions": ["Licensed marine research vessels"],
+      "source": "https://www.vill.zamami.okinawa.jp/",
+      "sourceLabel": "Zamami Village — Dolphin Protection Ordinance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the minimum approach distance boats must maintain from spinner dolphins near Zamami Island?",
+        "options": ["20 metres", "50 metres", "100 metres", "200 metres"],
+        "correct": 2,
+        "explanation": "Zamami Village's ordinance requires boats to maintain at least 100 metres from resident spinner dolphins — protecting their critical rest areas in shallow coastal bays."
+      }
+    },
+    {
+      "id": 42768,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🌸",
+      "title": "Okinawa Cherry Blossom Season Management",
+      "subtitle": "Japan's earliest cherry blossoms in January — Motobu Peninsula",
+      "fullDescription": "Okinawa's Higanzakura (緋寒桜, scarlet cherry) blooms from late January — making it Japan's first cherry blossom season, 2–3 months before Tokyo's. The National Okinawa Memorial Park (海洋博公園) and Nakijin Castle (世界遺産) UNESCO World Heritage site host major blossom festivals. Road traffic management, temporary parking restrictions, and crowd flow plans are implemented under local ordinances. The uniquely early timing attracts Japanese mainland visitors during winter.",
+      "penalty": "Traffic violations at festival sites: standard Road Traffic Act fines; damage to cherry trees (cultural property context at Nakijin): property damage charges",
+      "exceptions": [],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Tourism Events",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When do Okinawa's cherry blossoms (Higanzakura) typically bloom — making it Japan's earliest?",
+        "options": ["November–December", "Late January–February", "March", "Same time as Tokyo (late March–early April)"],
+        "correct": 1,
+        "explanation": "Okinawa's Higanzakura (緋寒桜) blooms from late January — 2–3 months before Tokyo's sakura — making Okinawa the starting point of Japan's famous cherry blossom season."
+      }
+    },
+    {
+      "id": 42769,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏗️",
+      "title": "Okinawa Science and Technology Graduate University (OIST)",
+      "subtitle": "International research university with special governance",
+      "fullDescription": "The Okinawa Institute of Science and Technology Graduate University (OIST, 沖縄科学技術大学院大学) — established 2011, funded approximately 90% by the national government — is a unique English-language graduate university in Okinawa. Its budget exceeds ¥30 billion/year; it has one of Japan's highest paper-citation rates per faculty member. OIST operates under a special Act (沖縄科学技術大学院大学学園法) with unusual autonomy including hiring foreign researchers directly without standard Japanese university procedures. It is the centrepiece of Okinawa's knowledge economy strategy.",
+      "penalty": "Research misconduct at OIST: institutional sanctions + potential criminal fraud if grant money misused",
+      "exceptions": ["OIST operates under its own Act — not the standard University Act"],
+      "source": "https://www.oist.jp/",
+      "sourceLabel": "Okinawa Institute of Science and Technology",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What language does OIST (Okinawa Institute of Science and Technology) operate in — unusual for a Japanese university?",
+        "options": ["Japanese only", "Japanese and Chinese", "English (entirely English-language instruction and administration)", "Okinawan and Japanese"],
+        "correct": 2,
+        "explanation": "OIST operates entirely in English — a unique characteristic among Japanese universities — attracting international researchers and forming a global research hub in Okinawa."
+      }
+    },
+    {
+      "id": 42770,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "⚖️",
+      "title": "Okinawa Human Rights — Discrimination Prohibition",
+      "subtitle": "Okinawa prefectural ordinance on discrimination",
+      "fullDescription": "Okinawa Prefecture enacted a Human Rights Promotion Ordinance (人権が尊重される社会づくり条例) addressing discrimination based on origin, ethnicity, disability, and sexual orientation. The ordinance follows Okinawa's particular experience of historical discrimination — including mainland Japanese derogatory terms for Okinawans ('Ryukyuan pig' slurs) and the legacy of second-class treatment during mainland Japan's rapid economic growth while Okinawa was under US occupation. The ordinance provides consultation services and administrative remedy.",
+      "penalty": "No direct criminal penalty; administrative remedy and public mediation for documented discrimination cases",
+      "exceptions": [],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Human Rights Promotion Ordinance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "While mainland Japan experienced rapid economic growth in the 1950s–60s, what was Okinawa's political status?",
+        "options": ["An independent Ryukyuan republic", "Under US civil administration — separate from Japan until 1972 reversion", "A Japanese territory but economically excluded", "Part of a US trust territory along with Micronesia"],
+        "correct": 1,
+        "explanation": "Okinawa was under US civil administration from 1945 until reversion to Japan on May 15, 1972 — missing Japan's entire 'economic miracle' recovery period and arriving in Japan as its poorest prefecture."
+      }
+    },
+    {
+      "id": 42771,
+      "category": "Public Health",
+      "severity": "high",
+      "icon": "🌀",
+      "title": "Typhoon Emergency Warning System",
+      "subtitle": "Okinawa's typhoon alert levels trigger legal obligations",
+      "fullDescription": "Japan Meteorological Agency's Typhoon Emergency Warning (台風特別警報) — the highest meteorological alert — triggers specific legal obligations in Okinawa. Schools must close, outdoor workers must cease, and evacuation orders activate the Disaster Countermeasures Basic Act. Okinawa issues approximately 5–10 typhoon advisories annually. Direct typhoon hits average 7–8 per decade. The prefectural disaster prevention plan requires all public facilities to shelter populations in designated typhoon-grade concrete buildings.",
+      "penalty": "Employers requiring workers to remain outdoors during Typhoon Special Warning: employer liability for injuries; refusal to evacuate: fines under Disaster Act",
+      "exceptions": ["Emergency services and critical infrastructure workers with safety protocols"],
+      "source": "https://www.jma.go.jp/",
+      "sourceLabel": "Japan Meteorological Agency — Typhoon Warnings",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many typhoon advisories does Okinawa receive approximately per year?",
+        "options": ["1–2", "3–4", "5–10", "15–20"],
+        "correct": 2,
+        "explanation": "Okinawa issues approximately 5–10 typhoon advisories per year — more than any other Japanese prefecture, reflecting its position directly in the main typhoon track through the western Pacific."
+      }
+    },
+    {
+      "id": 42772,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "🏖️",
+      "title": "Tourism Seasonal Worker Protections",
+      "subtitle": "Okinawa's seasonal tourism workforce needs specific protections",
+      "fullDescription": "Okinawa's tourism sector employs approximately 80,000 people — with significant seasonal fluctuation between peak (summer, holiday seasons) and low season. Under the Labour Standards Act, fixed-term contracts for seasonal hotel, dive, and resort workers cannot exceed 1 year without specific justification. The Employment Insurance Act covers seasonal workers for unemployment benefits. The Okinawa Labour Bureau has found repeated violations of fixed-term contract rules in the resort hotel sector — using back-to-back short contracts to avoid benefits.",
+      "penalty": "Illegal repeated fixed-term contracts to avoid benefits: administrative guidance → labour tribunal orders; employment insurance fraud: criminal charges",
+      "exceptions": ["Genuinely seasonal operations (beach rental businesses) have broader fixed-term contract use"],
+      "source": "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/",
+      "sourceLabel": "Okinawa Labour Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many people does Okinawa's tourism sector employ?",
+        "options": ["20,000", "50,000", "80,000", "200,000"],
+        "correct": 2,
+        "explanation": "Okinawa's tourism sector employs approximately 80,000 people — accounting for a major proportion of the prefecture's workforce and making tourism labour standards critical to the local economy."
+      }
+    },
+    {
+      "id": 42773,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🏯",
+      "title": "Nakijin Castle Reconstruction Rules",
+      "subtitle": "UNESCO World Heritage Nakijin Castle under strict preservation",
+      "fullDescription": "Nakijin Castle (今帰仁城, Nakijin Gusuku) — a UNESCO World Heritage Ryukyuan gusuku castle ruin on Okinawa's Motobu Peninsula — is managed under Japan's Law for the Protection of Cultural Properties. As a ruin (not reconstructed like Shuri Castle), the stone walls cannot be modified or reconstructed without exhaustive archaeological documentation and approval. Annual cherry blossom festivals at the site require careful crowd management to prevent compaction damage to the historic earthworks.",
+      "penalty": "Any unapproved structural modification to UNESCO World Heritage site fabric: up to 5 years imprisonment",
+      "exceptions": ["Emergency stabilisation of collapsing wall sections with immediate notification"],
+      "source": "https://www.nakijin.jp/",
+      "sourceLabel": "Nakijin Village — Castle Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes Nakijin Castle (今帰仁城) particularly significant among Okinawa's UNESCO World Heritage sites?",
+        "options": ["It is the only castle that survived WWII intact", "It is the largest Ryukyuan gusuku fortress in area", "It is the northernmost of the Ryukyuan World Heritage sites", "It was the seat of the Ryukyuan royal family"],
+        "correct": 2,
+        "explanation": "Nakijin Castle is the northernmost of Okinawa's UNESCO World Heritage gusuku sites — an extensive ruin in Motobu Peninsula known for its dramatic views and spectacular cherry blossom festival."
+      }
+    },
+    {
+      "id": 42774,
+      "category": "Consumer Protection",
+      "severity": "low",
+      "icon": "🥢",
+      "title": "Okinawan Soba Labelling — Not Japanese Soba",
+      "subtitle": "Okinawan soba is wheat noodles — a different product from buckwheat soba",
+      "fullDescription": "Okinawan soba (沖縄そば) — thick wheat noodles in pork broth topped with braised pork belly and kamaboko — was historically threatened with losing its 'soba' designation because it contains no buckwheat (standard soba). A 1978 agreement between the Okinawa Soba Cooperative and the Japan Fair Trade Commission confirmed Okinawan soba as a regional specialty exempt from standard soba labelling rules, provided it is clearly identified as 'Okinawa soba.' Selling mainland-style buckwheat soba as Okinawa soba would be mislabelling.",
+      "penalty": "Mislabelling mainland soba as Okinawa soba or vice versa: consumer law violation; small fine",
+      "exceptions": ["Products clearly labelled as 'Okinawa soba style' or 'inspired by' without false origin claim"],
+      "source": "https://www.caa.go.jp/",
+      "sourceLabel": "Consumer Affairs Agency — Regional Food Labelling",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the key ingredient difference between Okinawan soba and mainland Japanese soba?",
+        "options": ["Okinawan soba uses sweet potato starch", "Okinawan soba uses wheat noodles — not buckwheat (standard soba is buckwheat)", "Okinawan soba is made from rice flour", "They are identical — only the broth differs"],
+        "correct": 1,
+        "explanation": "Okinawan soba (沖縄そば) is made from wheat flour — not buckwheat — making it technically different from standard Japanese soba. A 1978 FTC agreement allows the 'soba' name as a regional exception."
+      }
+    },
+    {
+      "id": 42775,
+      "category": "Environmental",
+      "severity": "high",
+      "icon": "🌡️",
+      "title": "Coral Bleaching Emergency Response Plan",
+      "subtitle": "Okinawa has protocol for mass coral bleaching events",
+      "fullDescription": "Sekisei Lagoon experienced catastrophic coral bleaching in 2016 (70% bleached) and recurring events since. The Ministry of Environment's Coral Bleaching Emergency Response Plan activates when sea surface temperatures exceed the bleaching threshold (typically 30°C) for more than 8 weeks. Responses include anchor prohibition across the lagoon, increased sewage and runoff controls to reduce additional stressors, and coral fragment collection for ex-situ care. Climate change is the root cause — local responses provide limited mitigation.",
+      "penalty": "Anchoring in Sekisei Lagoon during bleaching emergency: fines up to ¥300,000",
+      "exceptions": ["Emergency rescue vessels"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Coral Bleaching Emergency Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Sekisei Lagoon's coral bleached in the catastrophic 2016 event?",
+        "options": ["20%", "40%", "70%", "100%"],
+        "correct": 2,
+        "explanation": "Approximately 70% of Sekisei Lagoon's coral bleached in 2016 — a catastrophic event that prompted Japan's first coral bleaching emergency response plan and raised global awareness of Okinawa's reef crisis."
+      }
+    },
+    {
+      "id": 42776,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "⛴️",
+      "title": "Inter-Island Ferry Network Regulations",
+      "subtitle": "Essential ferry links between Okinawa's 160 islands",
+      "fullDescription": "Okinawa's inter-island ferry network — connecting 160 inhabited islands — is regulated under the Marine Transportation Act and subsidised under the Remote Islands Promotion Act. Key operators include Marix Line (Naha–Amami–Kagoshima), A-Line, and Okinawa Ferry. Passenger vessels must carry certified life jackets for all passengers, conduct emergency drills, and maintain vessel inspection certification. Typhoon cancellations are common and legally excused under force majeure; operators must provide refunds for cancelled voyages.",
+      "penalty": "Operating without maritime safety certification: up to 1 year imprisonment; life jacket non-provision: criminal negligence if incident occurs",
+      "exceptions": ["Small boats under 20 tonnes have lighter certification requirements"],
+      "source": "https://www.mlit.go.jp/",
+      "sourceLabel": "MLIT — Marine Transportation Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What law subsidises ferry routes to Okinawa's remote outer islands?",
+        "options": ["Island Development Finance Act", "Remote Islands Promotion Act (離島振興法)", "Okinawa Special Measures Act exclusively", "Maritime Safety Subsidy Act"],
+        "correct": 1,
+        "explanation": "The Remote Islands Promotion Act (離島振興法) subsidises ferry and air routes to remote islands — without these subsidies, many routes connecting Okinawa's 160 inhabited islands would be commercially unviable."
+      }
+    },
+    {
+      "id": 42777,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🔒",
+      "title": "US Military Crime and Japanese Jurisdiction",
+      "subtitle": "High-profile US servicemember crimes have shaped SOFA debates",
+      "fullDescription": "The 1995 abduction and assault of a 12-year-old Okinawan girl by three US servicemembers — and the subsequent SOFA dispute over custody transfer to Japanese authorities — triggered massive protests (85,000 people) and led to partial SOFA revisions. Japan now receives custody of US suspects before indictment for heinous crimes (murder, rape) under a 1995 revision. However, critics argue the system still gives US military excessive protections. Each incident involving US personnel renews calls for full SOFA revision.",
+      "penalty": "Crimes by US military in Japan: Japanese criminal law applies; custody transfer per 1995 SOFA revision for heinous crimes",
+      "exceptions": ["On-duty military acts remain subject to US military jurisdiction under SOFA"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — SOFA Revision Demands",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What 1995 incident triggered 85,000-person protests in Okinawa and led to partial SOFA revisions?",
+        "options": ["A US military helicopter crash", "The abduction and assault of a 12-year-old girl by three US servicemembers", "A training accident killing Okinawan civilians", "The expansion of Futenma base into civilian land"],
+        "correct": 1,
+        "explanation": "The 1995 assault on a 12-year-old Okinawan girl by three US servicemembers — and the SOFA custody dispute — triggered 85,000-person protests and a partial revision allowing earlier custody transfer for heinous crimes."
+      }
+    },
+    {
+      "id": 42778,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🐠",
+      "title": "Blue Coral (Heliopora) Protection",
+      "subtitle": "Okinawa's blue coral is Japan's rarest coral species",
+      "fullDescription": "Blue coral (ヒドウミサンゴ, Heliopora coerulea) — the only surviving species of an ancient coral order — is found in Okinawa's waters and is designated a Natural Monument. Its unique blue skeleton (from bile salts) makes it a target for collection. Collection, removal, or export without permit is prohibited under cultural properties law and CITES Appendix II. Climate change-driven bleaching has severely reduced blue coral populations. Research-only touch permits are issued by the prefecture.",
+      "penalty": "Collecting blue coral without permit: up to 5 years as Natural Monument violation; CITES export: up to 5 years",
+      "exceptions": ["Licensed scientific research with prefecture and Ministry approvals"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Blue Coral Protection",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes blue coral (Heliopora) biologically remarkable?",
+        "options": ["It is the only living coral found at depths over 500m", "It is the only surviving species of an ancient coral order — with a unique blue skeleton", "It produces its own antibiotic chemicals", "It grows 100× faster than other coral species"],
+        "correct": 1,
+        "explanation": "Blue coral (Heliopora coerulea) is the sole surviving species of the order Helioporacea — an ancient coral lineage whose blue skeleton colour (from bile pigments) makes it unique among all living corals."
+      }
+    },
+    {
+      "id": 42779,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🍺",
+      "title": "Okinawa Alcohol Culture — US Influence and Local Rules",
+      "subtitle": "US base culture has influenced Okinawa's alcohol landscape",
+      "fullDescription": "Okinawa's alcohol culture reflects both traditional Ryukyuan awamori culture and postwar US military influence (bars, craft beer). The national drinking age of 20 applies equally. US base gate-towns historically had bars open 24 hours serving military personnel — local municipalities have imposed closing hours through noise and nuisance ordinances. The Naha city centre entertainment district (栄町市場 area) has its own character distinct from both Japanese izakaya and US-style bars.",
+      "penalty": "Serving alcohol to under-20s: up to ¥500,000 fine; bar noise past curfew: ordinance fines",
+      "exceptions": ["Shrine/festival ceremonial sake — narrow cultural exceptions"],
+      "source": "https://www.city.naha.okinawa.jp/",
+      "sourceLabel": "Naha City — Entertainment District Rules",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What traditional Okinawan spirit, made from rice using black koji mould, anchors the local drinking culture?",
+        "options": ["Shochu", "Sake", "Awamori (泡盛)", "Habushu (habu snake wine)"],
+        "correct": 2,
+        "explanation": "Awamori (泡盛) — distilled from Thai indica rice using black koji mould — is Okinawa's signature spirit and GI-protected liquor, central to local drinking culture alongside the more exotic habushu (awamori with pickled habu snake)."
+      }
+    },
+    {
+      "id": 42780,
+      "category": "Heritage & Culture",
+      "severity": "low",
+      "icon": "🏺",
+      "title": "Tsuboya Pottery District — Yachimun Rules",
+      "subtitle": "Naha's pottery district protected as traditional craft",
+      "fullDescription": "Tsuboya (壺屋) district in Naha is Okinawa's traditional pottery quarter — producing yachimun (やちむん, Okinawan pottery) for over 300 years. The Tsuboya Pottery Street is designated as a preservation district under Naha City's landscape ordinance. Wood-fired kilns (薪窯) in the district cannot be expanded without permit — and some have been relocated to Yomitan Village due to urban smoke regulations. Yachimun is a designated traditional craft; fraudulent use of the designation is prohibited.",
+      "penalty": "Fraudulent yachimun traditional craft mark use: fines; unapproved kiln expansion: planning violation",
+      "exceptions": ["Gas kiln replacements for relocated urban potters are encouraged, not restricted"],
+      "source": "https://www.city.naha.okinawa.jp/",
+      "sourceLabel": "Naha City — Tsuboya Pottery District",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is 'yachimun' (やちむん)?",
+        "options": ["Traditional Okinawan lacquerware", "Okinawan pottery — made in Tsuboya district for over 300 years", "Traditional Ryukyuan textile weaving", "Okinawan woodblock printing"],
+        "correct": 1,
+        "explanation": "Yachimun (やちむん) is the Okinawan word for pottery — produced in Naha's Tsuboya district for over 300 years using distinctive bold patterns and thick glazes reflecting both Asian and Southeast Asian influences."
+      }
+    },
+    {
+      "id": 42781,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "💹",
+      "title": "Okinawa Economic Zone — Special Tax Incentives",
+      "subtitle": "Okinawa Special Zone offers 35% tax credit for businesses",
+      "fullDescription": "The Okinawa Promotion Special Zone (沖縄振興特別地域) provides qualifying businesses with a 35% tax credit on income from operations in Okinawa — one of Japan's most generous enterprise zone incentives. Tourism, IT, financial services, and manufacturing qualify. The Naha Free Trade Zone offers duty-free import, storage, and re-export of goods. As of 2024, approximately 300 companies have utilised the tax credit scheme, adding ¥50 billion in annual investment.",
+      "penalty": "Misuse of Okinawa Special Zone tax credits: full clawback + 35% penalty + interest; fraud: criminal charges",
+      "exceptions": ["Companies must maintain Okinawa as primary place of business — shell offices do not qualify"],
+      "source": "https://www.cao.go.jp/okinawa/",
+      "sourceLabel": "Cabinet Office — Okinawa Special Zone Tax Incentive",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the tax credit rate available to qualifying businesses in Okinawa's Special Economic Zone?",
+        "options": ["10%", "20%", "35%", "50%"],
+        "correct": 2,
+        "explanation": "Okinawa's Special Zone provides a 35% tax credit on income from qualifying business activities — one of Japan's most generous regional enterprise zone incentives, used to attract investment to the historically poor prefecture."
+      }
+    },
+    {
+      "id": 42782,
+      "category": "Education",
+      "severity": "low",
+      "icon": "🎓",
+      "title": "University of the Ryukyus — National University",
+      "subtitle": "Okinawa's largest university with US occupation legacy",
+      "fullDescription": "University of the Ryukyus (琉球大学) was established in 1950 under the US Civil Administration of the Ryukyu Islands — making it unique as Japan's only national university founded under foreign administration. Its founding mission included preserving Ryukyuan culture and educating leaders for post-occupation Okinawa. Today it operates under the National University Corporation Act with approximately 7,000 students. Its medical school is the only medical faculty in Okinawa. Research on coral reefs, Ryukyuan culture, and tropical medicine are institutional strengths.",
+      "penalty": "Academic fraud at national university: institutional sanctions + criminal fraud if grants misused",
+      "exceptions": [],
+      "source": "https://www.u-ryukyu.ac.jp/",
+      "sourceLabel": "University of the Ryukyus",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under what administration was the University of the Ryukyus founded in 1950?",
+        "options": ["Japanese national government", "US Civil Administration of the Ryukyu Islands", "UN Trusteeship Council", "Joint US-Japan educational commission"],
+        "correct": 1,
+        "explanation": "University of the Ryukyus was founded in 1950 under the US Civil Administration — making it Japan's only national university established under foreign administration, with a distinctive founding mission of Ryukyuan cultural preservation."
+      }
+    },
+    {
+      "id": 42783,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🎆",
+      "title": "Naha Dragon Boat Festival (Haarii) Safety",
+      "subtitle": "Ancient maritime festival regulated for modern safety",
+      "fullDescription": "The Naha Haarii (那覇ハーリー) dragon boat festival — held at Naha Port for over 600 years during the Chinese lunar festival period — is one of Okinawa's most important traditional events. The races involve dragon boats (ハーリー舟) crewed by teams from different districts competing for fishing luck. The Naha Port Authority and coast guard regulate boat seating, life jacket requirements, and course safety. Media boat access to filming positions is permitted zones only. The festival draws 30,000+ spectators.",
+      "penalty": "Spectator boats entering race course without permit: coast guard removal; race vessel safety violation: competition disqualification + administrative fines",
+      "exceptions": ["Traditional racing vessels operated by certified community groups have modified safety standards reflecting their design"],
+      "source": "https://www.naha-haarii.com/",
+      "sourceLabel": "Naha Haarii Festival Executive Committee",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long has the Naha Haarii dragon boat festival been held — making it one of Okinawa's oldest traditions?",
+        "options": ["About 100 years", "About 200 years", "About 400 years", "Over 600 years"],
+        "correct": 3,
+        "explanation": "Naha Haarii has been held for over 600 years — originating as a prayer ceremony for safe fishing by Ryukyuan fishing communities and now a major Okinawan cultural event drawing 30,000+ spectators."
+      }
+    },
+    {
+      "id": 42784,
+      "category": "Environmental",
+      "severity": "low",
+      "icon": "🌴",
+      "title": "Fukugi Tree Lane Preservation",
+      "subtitle": "Traditional windbreak trees along Okinawan villages protected",
+      "fullDescription": "Fukugi (福木, Garcinia subelliptica) trees — planted as windbreaks and privacy screens around traditional Okinawan villages since the Ryukyuan Kingdom period — are slow-growing (3 cm/year) and irreplaceable once removed. Several villages on Ie Island and Bise (Motobu) have preserved their fukugi lanes as cultural landscapes. Naha City and some northern municipalities have designated fukugi lanes as scenic landscape preservation zones under local ordinances — removal requires city approval.",
+      "penalty": "Removing designated fukugi trees without approval: fines up to ¥300,000 per tree",
+      "exceptions": ["Emergency removal of disease-infected or storm-damaged trees with rapid notification"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Landscape Preservation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the growth rate of Okinawa's protected fukugi (福木) windbreak trees?",
+        "options": ["30 cm/year (fast)", "10 cm/year", "3 cm/year (extremely slow)", "They do not measurably grow once mature"],
+        "correct": 2,
+        "explanation": "Fukugi trees grow approximately 3 cm per year — making century-old village windbreak lanes irreplaceable. A tree removed today would take 100+ years to restore to its original size."
+      }
+    },
+    {
+      "id": 42785,
+      "category": "Consumer Protection",
+      "severity": "low",
+      "icon": "🛍️",
+      "title": "Kokusai Street Vendor and Shopping Rules",
+      "subtitle": "Naha's main tourist street commercial regulations",
+      "fullDescription": "Kokusai Street (国際通り, 'International Street') — Naha's 1.6 km main tourist shopping street — is governed by Naha City commercial regulations and standard Japanese consumer law. Street vendors and hawkers require municipal permits. The 'Ichiba Hondori' (市場本通り, Makishi market area) adjacent to Kokusai Street operates under food sanitation rules. Tourist-targeted souvenir pricing is monitored by Okinawa Consumer Affairs Centre for deceptive practices. The street revived from WWII destruction to become Okinawa's commercial heart — nicknamed 'Miracle Mile.'",
+      "penalty": "Unlicensed street vending: fines; deceptive pricing: consumer law penalties",
+      "exceptions": ["Permitted festival stalls during Kokusai Street events"],
+      "source": "https://www.naha-navi.or.jp/",
+      "sourceLabel": "Naha City Tourism — Kokusai Street",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What nickname was given to Naha's Kokusai Street for its remarkable postwar commercial recovery?",
+        "options": ["Phoenix Road", "Miracle Mile", "The Rising Street", "Okinawa Broadway"],
+        "correct": 1,
+        "explanation": "Kokusai Street (国際通り) earned the nickname 'Miracle Mile' for recovering from WWII devastation to become Okinawa's most vibrant commercial street within just a few years of the war's end."
+      }
+    },
+    {
+      "id": 42786,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Okinawa Prefectural Government vs National Government",
+      "subtitle": "Constitutional framework for prefecture-nation disputes",
+      "fullDescription": "Okinawa Prefecture's repeated clashes with the national government over base policy have tested Japan's Local Autonomy Act (地方自治法) to its limits. The national government has used Administrative Appeal procedures to override Okinawa Governor refusals of permits, and the Supreme Court upheld this authority in 2023. Okinawa Governor Denny Tamaki argues the current legal framework systematically disadvantages local government in national security matters — a debate central to Japanese federalism and constitutional law.",
+      "penalty": "Prefecture failing to follow national administrative orders: national government may perform the act itself (代執行); no criminal penalty for Governor",
+      "exceptions": ["Actions by the national government exceeding its legal authority may be challenged in court"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Governance and Autonomy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What legal mechanism allows Japan's national government to override a prefecture's permit refusal?",
+        "options": ["Emergency imperial decree", "Administrative Appeal + national government substitute performance (代執行)", "Parliamentary vote overriding prefectural objection", "Constitutional amendment by cabinet only"],
+        "correct": 1,
+        "explanation": "Japan's Local Autonomy Act allows the national government to use administrative appeal procedures and ultimately substitute performance (代執行) — performing the refused act itself — as the Supreme Court upheld in the 2023 Henoko ruling."
+      }
+    },
+    {
+      "id": 42787,
+      "category": "Public Health",
+      "severity": "low",
+      "icon": "🏃",
+      "title": "Okinawa Marathon and Road Race Permits",
+      "subtitle": "Okinawa Marathon requires prefectural police road closure",
+      "fullDescription": "The Naha Marathon (那覇マラソン) — held in December, attracting 30,000+ runners — requires road closure permits from Okinawa Prefectural Police and Naha City under the Road Traffic Act. The race passes through areas near US base boundaries, requiring military-civilian coordination. All marathon medical support stations must comply with event first aid standards. The Okinawa Prefecture Athletics Association coordinates with police, military, hospitals, and municipalities for the annual event.",
+      "penalty": "Running road race without permit: traffic obstruction charges; medical station failing duty of care: civil liability",
+      "exceptions": ["Small running events on park paths with under 50 participants have simplified requirements"],
+      "source": "https://www.naha-marathon.jp/",
+      "sourceLabel": "Naha Marathon Executive Committee",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many runners participate in the Naha Marathon each year?",
+        "options": ["5,000", "10,000", "30,000+", "50,000"],
+        "correct": 2,
+        "explanation": "The Naha Marathon attracts over 30,000 runners — one of Japan's largest marathons, held each December when Okinawa's mild winter temperatures (around 20°C) make ideal running conditions."
+      }
+    },
+    {
+      "id": 42788,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🌺",
+      "title": "Okinawa Flower and Agricultural Export Promotion",
+      "subtitle": "Chrysanthemum export to Hong Kong and Taiwan",
+      "fullDescription": "Okinawa is one of Japan's major cut flower producers — particularly chrysanthemums (菊) — exported to Hong Kong, Taiwan, and mainland China. Under the Plant Protection Act, all exported flowers require phytosanitary certification. The Japan External Trade Organization (JETRO) supports Okinawan agricultural export through market development programmes. Chrysanthemum varieties developed by Okinawan breeders are subject to Plant Variety Protection — unauthorised propagation and export of protected varieties is a criminal offence.",
+      "penalty": "Exporting without phytosanitary certificate: customs seizure; infringing plant variety protection: up to 10 years imprisonment or ¥10,000,000 fine",
+      "exceptions": ["Research propagation under licence"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Agricultural Export Promotion",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What certificate is required for all plant and flower exports from Japan?",
+        "options": ["Agricultural quality certificate", "Phytosanitary certificate (plant health certificate)", "CITES permit (for all plants)", "JAS organic certificate"],
+        "correct": 1,
+        "explanation": "All plant exports from Japan require a phytosanitary certificate issued by Japan's Plant Protection Station — certifying the plants are free from pests and diseases that could threaten importing countries' agriculture."
+      }
+    },
+    {
+      "id": 42789,
+      "category": "Tourism & Recreation",
+      "severity": "medium",
+      "icon": "🏄",
+      "title": "Surfing and Water Sports Safety Rules",
+      "subtitle": "Okinawa's surf spots require operator safety compliance",
+      "fullDescription": "Okinawa's consistent swells and warm water have made it Japan's premier surf destination — particularly the main island's north coast and Miyako Island. Commercial surf schools must register under the Maritime Safety Act's small vessel operator framework. Surf rescue services (監視員) are required at designated beach areas during swimming season under prefecture beach management rules. Surfing in designated swimming zones is prohibited when flags indicate swimmers present. Kitesurfing requires maintaining 100m separation from swimmers.",
+      "penalty": "Commercial surf instruction without registration: fines up to ¥1,000,000; surfing in prohibited swimming zone: ¥30,000 fine",
+      "exceptions": ["Surf competitions with coast guard coordination and temporary zone closures"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Marine Sports Safety",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum separation must kitesurfers maintain from swimmers at Okinawan beaches?",
+        "options": ["20 metres", "50 metres", "100 metres", "200 metres"],
+        "correct": 2,
+        "explanation": "Kitesurfers must maintain 100 metres separation from designated swimming areas in Okinawa — the kite's large radius of motion and rapid speed make closer proximity dangerous to swimmers."
+      }
+    },
+    {
+      "id": 42790,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Ocean Plastic Waste — Okinawa Beach Cleanup Obligations",
+      "subtitle": "Marine plastic debris a major Okinawa environmental challenge",
+      "fullDescription": "Okinawa's beaches — particularly on the Japan Sea-facing northern coasts — accumulate significant ocean plastic debris from China, Korea, and the wider Pacific. Under Japan's Act on Promotion of Marine Plastic Litter Measures (海洋プラスチックごみ対策促進法, 2021), local governments must develop marine litter action plans. Okinawa Prefecture organises beach cleanup programmes and tracks debris origin. Deliberate littering into ocean or coastal areas carries enhanced penalties under Waste Management Law.",
+      "penalty": "Deliberate ocean littering: up to ¥5,000,000 fine under Waste Management Law; ocean dumping from vessels: Criminal penalties under London Protocol implementing legislation",
+      "exceptions": ["Fishing gear lost in storms is not criminal — reporting obligations apply for retrieval"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Marine Plastic Litter Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "From where does much of the ocean plastic debris accumulating on Okinawa's northern beaches originate?",
+        "options": ["Tokyo Bay industrial discharge", "Hawaii and the Great Pacific Garbage Patch", "China, Korea, and the wider Pacific via ocean currents", "Okinawa's own fishing industry primarily"],
+        "correct": 2,
+        "explanation": "Okinawa's northern beaches accumulate plastic debris carried by ocean currents from China, Korea, and the broader Pacific — a transnational environmental problem requiring international cooperation."
+      }
+    },
+    {
+      "id": 42791,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🌺",
+      "title": "Shuri Castle Reconstruction Public Participation",
+      "subtitle": "Historic reconstruction involving public donations and oversight",
+      "fullDescription": "The Shuri Castle reconstruction (ongoing since the 2019 fire) is funded by national and prefectural government plus public donations (募金) — which exceeded ¥4.8 billion by 2024. The reconstruction is governed by an Advisory Committee including historians, cultural property experts, and community representatives. Authentic traditional building methods (木工技術) are being used to recreate the original Ryukyuan royal palace using Okinawan timber. The project is expected to complete the main hall by 2026.",
+      "penalty": "Fraudulent Shuri Castle donation solicitations: fraud charges up to 10 years; diversion of designated restoration funds: criminal breach of trust",
+      "exceptions": [],
+      "source": "https://oki-shurijo.jp/",
+      "sourceLabel": "Shuri Castle Reconstruction Project",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How much did public donations for Shuri Castle's reconstruction exceed by 2024?",
+        "options": ["¥500 million", "¥2 billion", "¥4.8 billion", "¥10 billion"],
+        "correct": 2,
+        "explanation": "Public donations for Shuri Castle's reconstruction exceeded ¥4.8 billion by 2024 — reflecting the castle's deep importance to Okinawan identity and Japanese national heritage."
+      }
+    },
+    {
+      "id": 42792,
+      "category": "Criminal Law",
+      "severity": "medium",
+      "icon": "🐠",
+      "title": "Aquarium Species Import — Okinawa Coral Fish Trade",
+      "subtitle": "CITES controls on ornamental fish collection",
+      "fullDescription": "Okinawa's reefs support a major ornamental fish collection industry — with species including Nemo-type clownfish (カクレクマノミ), mandarin fish, and various wrasse sought by global aquarium trade. CITES Appendix II restrictions apply to certain reef fish and coral species. Japan's Wildlife Protection Act and CITES implementing legislation require export permits for controlled species and prohibit collection from Marine Protected Area cores. Captive-bred clownfish have largely replaced wild collection for domestic sales since 'Finding Nemo' demand spikes.",
+      "penalty": "Illegal wild collection of CITES-listed reef fish: up to 5 years imprisonment; export without permit: same penalties",
+      "exceptions": ["Captive-bred specimens with documented provenance"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — CITES Marine Species",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What film drove a massive spike in demand for Okinawa's clownfish (カクレクマノミ) — prompting a shift to captive breeding?",
+        "options": ["The Blue Planet documentary series", "Shark Tale", "Finding Nemo (2003)", "Flipper"],
+        "correct": 2,
+        "explanation": "Pixar's 'Finding Nemo' (2003) triggered a global demand spike for clownfish (Amphiprion ocellaris) — threatening wild populations until the aquarium industry shifted to captive breeding to meet demand."
+      }
+    },
+    {
+      "id": 42793,
+      "category": "Public Health",
+      "severity": "low",
+      "icon": "🌿",
+      "title": "Traditional Okinawan Medicine — Chinpi and Herb Rules",
+      "subtitle": "Traditional plant remedies regulated as food or quasi-pharmaceutical",
+      "fullDescription": "Okinawa's traditional medicine uses indigenous plants including turmeric (ウコン, ukon), chinpi (陳皮, dried citrus peel), and various tropical herbs. These products are regulated as foods or 'food with functional claims' (機能性表示食品) under the Food Labelling Act — they cannot claim to cure diseases. The thriving turmeric (ukon) industry in Okinawa (Yomitan Village is the production centre) must clearly distinguish food from pharmaceutical claims. Imported tropical herbs must clear phytosanitary inspection.",
+      "penalty": "Medical claims on food products without PMDA approval: up to 2 years imprisonment under Pharmaceutical Affairs Law",
+      "exceptions": ["General food health claims within approved functional claim categories"],
+      "source": "https://www.caa.go.jp/",
+      "sourceLabel": "Consumer Affairs Agency — Functional Food Claims",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What Okinawan herb — a bright yellow spice — is the centre of a major production industry in Yomitan Village?",
+        "options": ["Ginger", "Bitter melon", "Turmeric (ukon, ウコン)", "Morinda citrifolia (noni)"],
+        "correct": 2,
+        "explanation": "Turmeric (ukon, ウコン) production is centred in Yomitan Village, Okinawa — marketed for liver health benefits, with Okinawa producing the majority of Japan's domestically grown turmeric."
+      }
+    },
+    {
+      "id": 42794,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "US Base Construction Employment Rules",
+      "subtitle": "Japanese workers at US bases subject to hybrid employment law",
+      "fullDescription": "Approximately 9,000 Japanese nationals work at US military bases in Okinawa — employed by the US Forces through the Japan-US Labour Agreement. These workers are subject to Japanese labour law for core protections (minimum wage, working hours, safety) but US military operating procedures for workplace rules. The Japan-US Labour Committee (日米合同委員会労働分科会) resolves disputes. Base workers are eligible for Japan's employment insurance and social security systems.",
+      "penalty": "Base operators (US military) violating Japanese labour law minimums for Japanese employees: diplomatic complaints → Labour Agreement dispute resolution",
+      "exceptions": ["US military personnel themselves are not subject to Japanese labour law"],
+      "source": "https://www.mhlw.go.jp/",
+      "sourceLabel": "Ministry of Health — Japan-US Labour Agreement",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many Japanese nationals work at US military bases in Okinawa?",
+        "options": ["1,000", "5,000", "9,000", "20,000"],
+        "correct": 2,
+        "explanation": "Approximately 9,000 Japanese nationals are employed at US military bases in Okinawa — subject to Japanese labour law for core protections under the Japan-US Labour Agreement."
+      }
+    },
+    {
+      "id": 42795,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🎭",
+      "title": "Kumiodori Classical Drama — UNESCO Heritage",
+      "subtitle": "Ryukyuan classical opera inscribed as UNESCO Intangible Heritage",
+      "fullDescription": "Kumiodori (組踊) — Okinawa's classical theatrical form combining dance, music, and poetry, created by Tamagusuku Chokun in 1719 for reception of Chinese imperial envoys — is inscribed on UNESCO's Intangible Cultural Heritage Representative List (2010). Performers train for over 10 years under master teachers of the National Theatre Okinawa (国立劇場おきなわ). Kumiodori uses Okinawan language (uchinaaguchi) and traditional costume — its preservation is threatened by the declining number of Okinawan language speakers.",
+      "penalty": "Damage to Kumiodori traditional costume and instruments (National Important Cultural Property designation): up to 5 years; fraudulent performance certification: fraud charges",
+      "exceptions": ["Student training performances and non-commercial educational presentations"],
+      "source": "https://www.nt-okinawa.or.jp/",
+      "sourceLabel": "National Theatre Okinawa",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "For what occasion was Kumiodori classical drama created in 1719?",
+        "options": ["Celebration of the Ryukyu Kingdom's founding", "Reception of Chinese imperial envoys to the Ryukyuan royal court", "Victory ceremony after defeating a Japanese invasion", "New Year festival at Shuri Castle"],
+        "correct": 1,
+        "explanation": "Kumiodori was created by Tamagusuku Chokun in 1719 to entertain Chinese imperial envoys (冊封使) visiting the Ryukyuan royal court — showcasing Okinawan high culture to representatives of the Ming/Qing court."
+      }
+    },
+    {
+      "id": 42796,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏝️",
+      "title": "Okinawa Duty-Free Shopping — Naha Airport Zone",
+      "subtitle": "Naha Airport Free Trade Zone enables tax-free commerce",
+      "fullDescription": "Naha Airport's Free Trade Zone (那覇空港自由貿易地域) allows duty-free import, processing, and re-export of goods — primarily cosmetics, fashion, electronics, and food products destined for mainland Japan or international markets. Goods sold within the free trade zone are exempt from Japanese customs duties but must exit Japan within the zone's framework. The zone supports Okinawa's hub-logistics strategy between East Asia and Japan's domestic market.",
+      "penalty": "Goods diverted from free trade zone into Japanese domestic market without customs declaration: full duty assessment + 30% penalty; deliberate smuggling: criminal customs violations",
+      "exceptions": ["Samples below de minimis value for legitimate trade promotion"],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Naha Free Trade Zone",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What strategic positioning does Naha Airport's Free Trade Zone leverage for Okinawa's economy?",
+        "options": ["Proximity to Tokyo for fast domestic logistics", "Hub location between East Asia and Japan's domestic market", "Deep port facilities for container shipping", "ASEAN free trade zone membership"],
+        "correct": 1,
+        "explanation": "Naha Airport's Free Trade Zone exploits Okinawa's geographic position between East Asia (China, Taiwan, Korea) and Japan's domestic market — enabling duty-free processing and redistribution of goods."
+      }
+    },
+    {
+      "id": 42797,
+      "category": "Public Order",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Henoko Offshore Landfill — Marine Safety Zone",
+      "subtitle": "Construction zone enforced as restricted marine area",
+      "fullDescription": "The Henoko-Oura Bay offshore landfill construction site — for the new US Marine Corps air station — is designated a restricted marine area under the Coast Guard Act. Protest boats and kayakers approaching within the exclusion zone are intercepted by Japan Coast Guard vessels. The exclusion zone has been the site of the most physically confrontational interactions between protesters and authorities in modern Okinawan history. Coast Guard staff have been disciplined for excessive force; protesters have been criminally charged for zone entry.",
+      "penalty": "Entering Henoko marine exclusion zone without authorisation: coast guard removal + potential obstruction charges; repeat offenders: criminal prosecution",
+      "exceptions": ["Authorised research and construction vessels"],
+      "source": "https://www.kaiho.mlit.go.jp/",
+      "sourceLabel": "Japan Coast Guard — Okinawa Region",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What mode of protest transport has been most commonly used by activists challenging the Henoko marine exclusion zone?",
+        "options": ["Swimming", "Protest ships", "Kayaks and small canoes", "Jet skis"],
+        "correct": 2,
+        "explanation": "Anti-base activists most commonly use kayaks and canoes to enter the Henoko marine exclusion zone in protest — allowing them to navigate the shallow bay waters and approach the construction site despite coast guard interception."
+      }
+    },
+    {
+      "id": 42798,
+      "category": "Environmental",
+      "severity": "low",
+      "icon": "🦋",
+      "title": "Yambaru National Park — Biodiversity Protection",
+      "subtitle": "2021 UNESCO World Natural Heritage — Japan's southernmost",
+      "fullDescription": "Yambaru (やんばる) — the forested northern Okinawa Peninsula — was inscribed as part of the Amami-Okinawa UNESCO World Natural Heritage in 2021, alongside the Amami Islands, Tokunoshima, Iriomote, and northern Okinawa. The inscription recognises outstanding endemic biodiversity including the Okinawa rail, Okinawa woodpecker, and Okinawa spiny rat. The Yambaru National Park (2016) governs access with Special Protection Zones restricting entry. Eco-tourism operators require prefecture licences.",
+      "penalty": "Unlicensed eco-tourism in Yanbaru National Park: fines up to ¥500,000; collection of plants or animals in Special Protection Zone: criminal penalties",
+      "exceptions": ["Licenced researchers and traditional forest users"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Yambaru National Park",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was the Amami-Okinawa UNESCO World Natural Heritage — including Yambaru — inscribed?",
+        "options": ["2005", "2011", "2016", "2021"],
+        "correct": 3,
+        "explanation": "The Amami-Okinawa UNESCO World Natural Heritage was inscribed in July 2021 — recognising the extraordinary biodiversity of the Ryukyu island chain's subtropical forests and endemic species."
+      }
+    },
+    {
+      "id": 42799,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🏖️",
+      "title": "Beach Resort Fee Transparency",
+      "subtitle": "Okinawa resort beach charges must be clearly disclosed",
+      "fullDescription": "Okinawa's premium resort hotels charge beach access, parasol rental, and water sport fees that sometimes surprise domestic and international visitors. Under the Act on Specified Commercial Transactions and Consumer Affairs Agency guidance, all fee structures must be clearly displayed — 'surprise charges' for beach amenities not disclosed at booking constitute deceptive trade practices. Okinawa Consumer Affairs Centre receives annual complaints about undisclosed resort fees during peak summer season.",
+      "penalty": "Undisclosed fees at point of booking: Consumer Affairs cease-and-desist; systematic deception: fines up to 3% of related revenue",
+      "exceptions": ["Voluntary tips and gratuities — standard in some international resorts — are not regulated"],
+      "source": "https://www.caa.go.jp/",
+      "sourceLabel": "Consumer Affairs Agency — Tourism Fee Transparency",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What consumer law principle requires Okinawa resort hotels to clearly disclose beach and amenity fees?",
+        "options": ["The Tourism Consumer Protection Act", "Act on Specified Commercial Transactions — fee structures must be clearly displayed at point of booking", "Hotel Industry Standard Disclosure Rules only", "International Tourism Consumer Guidelines"],
+        "correct": 1,
+        "explanation": "Japan's Act on Specified Commercial Transactions requires all fee structures to be clearly disclosed — including resort beach access and amenity fees — before consumers commit to booking."
+      }
+    },
+    {
+      "id": 42800,
+      "category": "Civil Rights",
+      "severity": "high",
+      "icon": "🕊️",
+      "title": "Okinawa Peace Declaration — Annual Government Statement",
+      "subtitle": "Governor's annual June 23 peace message has legal basis",
+      "fullDescription": "The Okinawa Governor's Peace Declaration (平和宣言), delivered annually on June 23 (Okinawa Memorial Day), is a formal government statement calling for the abolition of nuclear weapons, reform of SOFA, and reduction of the US base burden. Under Okinawa's Memorial Day Ordinance, this is a required official act of the prefectural government. The 2023 Declaration specifically called for Japan to accede to the Treaty on the Prohibition of Nuclear Weapons (TPNW) — contrary to national government policy, creating a formal prefecture-nation policy conflict.",
+      "penalty": "N/A — this is a protected government speech act; the Governor's declarations have diplomatic implications but no domestic criminal dimension",
+      "exceptions": [],
+      "source": "https://www.pref.okinawa.jp/",
+      "sourceLabel": "Okinawa Prefecture — Annual Peace Declaration",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What international treaty did Okinawa's 2023 Peace Declaration call on Japan to join — contrary to national government policy?",
+        "options": ["Comprehensive Nuclear-Test-Ban Treaty (already signed)", "Treaty on the Prohibition of Nuclear Weapons (TPNW)", "Non-Proliferation Treaty revision protocol", "ASEAN Nuclear Weapon-Free Zone Treaty"],
+        "correct": 1,
+        "explanation": "Okinawa's 2023 Peace Declaration called on Japan to join the Treaty on the Prohibition of Nuclear Weapons (TPNW) — a treaty Japan has refused to sign as it would conflict with US extended nuclear deterrence commitments."
+      }
+    }
+  ]
+}

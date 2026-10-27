@@ -1,0 +1,1506 @@
+{
+  "country": "Kyoto, Japan",
+  "slug": "kyoto-japan",
+  "laws": [
+    {
+      "id": 42576,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🏯",
+      "title": "Kyoto Landscape Policy — Height Restrictions",
+      "subtitle": "Strict building height limits protect historic skyline",
+      "fullDescription": "Kyoto's Landscape Policy (京都市景観計画, strengthened 2007) imposes among Japan's strictest height limits on new construction. In the historic districts surrounding Gion, Higashiyama, and Arashiyama, building heights are capped at 10–15 metres. Even central commercial areas (Kawaramachi, Karasuma) are capped at 31 metres. The policy also restricts signage colours and sizes. Several landmark buildings constructed before the 2007 tightening now exceed current limits and cannot be rebuilt as-is.",
+      "penalty": "Non-compliant construction: planning refusal; illegally built structures: demolition orders",
+      "exceptions": ["Pre-existing non-conforming buildings can be maintained but not expanded above the limit"],
+      "source": "https://www.city.kyoto.lg.jp/tokei/",
+      "sourceLabel": "Kyoto City Urban Planning Bureau — Landscape Policy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum building height in Kyoto's most protected historic districts like Gion?",
+        "options": ["5 metres", "10–15 metres", "25 metres", "45 metres"],
+        "correct": 1,
+        "explanation": "Kyoto's 2007 Landscape Policy caps buildings at 10–15 metres in its most protected historic districts — among Japan's strictest height limits."
+      }
+    },
+    {
+      "id": 42577,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🎑",
+      "title": "Outdoor Advertising Restriction Ordinance",
+      "subtitle": "Kyoto bans garish signs to protect historic aesthetic",
+      "fullDescription": "Kyoto's Outdoor Advertising Ordinance (屋外広告物条例) is one of Japan's strictest, banning LED displays, neon signs, and oversized billboards in protected scenic zones. Even permitted signs must use earth tones and traditional colour palettes. In 2008, international chains including McDonald's and Lawson voluntarily adopted muted-colour branding for their Kyoto outlets. The ordinance distinguishes between preservation areas where signs are near-banned and general commercial zones.",
+      "penalty": "Non-compliant signs: removal orders + fines up to ¥300,000 per violation; repeat offences escalate",
+      "exceptions": ["Traffic and official government signs", "Small shop name signs within approved dimensions"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Outdoor Advertising Ordinance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What did major chains like McDonald's do in Kyoto to comply with the Outdoor Advertising Ordinance?",
+        "options": ["Closed all Kyoto locations", "Adopted muted, earth-tone branding instead of their standard colours", "Moved to underground malls only", "Used smaller font sizes"],
+        "correct": 1,
+        "explanation": "McDonald's, Lawson, and others voluntarily adopted muted earth-tone branding for Kyoto outlets to comply with the city's strict aesthetic preservation rules."
+      }
+    },
+    {
+      "id": 42578,
+      "category": "Heritage & Culture",
+      "severity": "high",
+      "icon": "⛩️",
+      "title": "Cultural Properties Protection — 17 UNESCO Sites",
+      "subtitle": "Kyoto has 17 UNESCO World Heritage properties",
+      "fullDescription": "Kyoto's 17 UNESCO World Heritage properties — including Kinkaku-ji (Golden Pavilion), Ryoan-ji, Nijo Castle, and Fushimi Inari Taisha — are protected under Japan's Law for the Protection of Cultural Properties (文化財保護法) and the World Heritage Convention. Any construction, development, or commercial activity near these sites requires cultural authority approval. Buffer zones around each site further restrict development. Japan's Agency for Cultural Affairs oversees all national treasure designations.",
+      "penalty": "Damage to designated cultural property: up to 5 years imprisonment or ¥300,000 fine; development violations in buffer zones: planning refusal + demolition orders",
+      "exceptions": ["Approved restoration works by licensed heritage craftsmen"],
+      "source": "https://www.bunka.go.jp/",
+      "sourceLabel": "Agency for Cultural Affairs — World Heritage Kyoto",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many UNESCO World Heritage properties does Kyoto have?",
+        "options": ["5", "10", "17", "25"],
+        "correct": 2,
+        "explanation": "Kyoto has 17 UNESCO World Heritage properties — more than any other Japanese city — including Kinkaku-ji, Nijo Castle, and Fushimi Inari Taisha."
+      }
+    },
+    {
+      "id": 42579,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "📸",
+      "title": "Gion Geiko District Photography Ordinance",
+      "subtitle": "Photographing geiko (geisha) in Gion without consent is banned",
+      "fullDescription": "Kyoto's Gion district (祇園) enacted Japan's first local ordinance banning unwanted photography of geiko (芸妓) and maiko (舞妓) in public streets in March 2019. The ordinance — Kyoto City Gion District Tourism Management Ordinance — covers the historic stone-paved Hanamikoji-dori and surrounding streets. Tourists who harass or photograph geiko without consent face fines. The move came after incidents of tourists grabbing geiko for photos and obstructing their movement.",
+      "penalty": "Photographing geiko/maiko without consent in Gion: ¥10,000 fine; physical harassment: criminal assault charges",
+      "exceptions": ["Photography within licensed ozashiki (geisha banquet) contexts with host permission"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Gion Tourism Management Ordinance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What triggered Kyoto's 2019 ordinance banning photography of geiko in Gion?",
+        "options": ["Privacy law update", "Religious customs", "Tourists grabbing and harassing geiko for photos", "Security concerns post-terrorism"],
+        "correct": 2,
+        "explanation": "Incidents of tourists physically grabbing geiko and maiko to pose for photos — disrupting their work routes — prompted Kyoto's pioneering anti-harassment photography ordinance."
+      }
+    },
+    {
+      "id": 42580,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🚶",
+      "title": "Overtourism Management Regulations",
+      "subtitle": "Kyoto managing 50+ million annual visitor impacts",
+      "fullDescription": "Kyoto received over 50 million tourists in 2019, straining infrastructure and resident quality of life. The city has implemented area-specific visitor management: Arashiyama's bamboo grove limits crowds through timed entry pilots, certain Geisha districts restrict pedestrian access during peak hours, and the Philosopher's Walk (哲学の道) has conduct guidelines. A tourist tax (宿泊税) of ¥200–¥1,000 per night was introduced in 2018 to fund management measures.",
+      "penalty": "Visitor conduct violations in restricted zones: fines up to ¥50,000; entering closed areas: trespass charges",
+      "exceptions": ["Residents and delivery workers retain access to restricted zones"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City Tourism Management Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What accommodation tax did Kyoto introduce in 2018 to fund tourism management?",
+        "options": ["¥50–¥100 per night", "¥200–¥1,000 per night", "¥3,000 flat fee", "5% of room rate"],
+        "correct": 1,
+        "explanation": "Kyoto's 2018 accommodation tax charges ¥200–¥1,000 per night depending on the room rate — used to fund tourism management and infrastructure."
+      }
+    },
+    {
+      "id": 42581,
+      "category": "Traffic & Driving",
+      "severity": "medium",
+      "icon": "🚌",
+      "title": "Kyoto Bus Congestion Management",
+      "subtitle": "Tourist buses restricted from central historic routes",
+      "fullDescription": "Kyoto City has progressively restricted tourist bus access to central areas. Large tour buses cannot park along Shijo-dori and Kawaramachi-dori during peak hours. A designated coach terminal at Hachijo-guchi (near Kyoto Station) serves as the required coach drop-off point. Private car access to Arashiyama and Higashiyama during peak season is restricted under the Road Traffic Act's traffic restriction provisions. City buses operate priority lanes.",
+      "penalty": "Illegal bus parking in restricted zones: ¥18,000 fine; operating outside designated routes: administrative penalty",
+      "exceptions": ["Resident and service vehicles with ward permits"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City Transportation Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where must large tourist coaches drop off passengers in central Kyoto?",
+        "options": ["Directly at each temple", "Along Shijo-dori", "Designated coach terminal at Hachijo-guchi near Kyoto Station", "Nishiki Market entrance"],
+        "correct": 2,
+        "explanation": "Kyoto requires large tourist coaches to use the Hachijo-guchi terminal near Kyoto Station rather than accessing historic centre streets."
+      }
+    },
+    {
+      "id": 42582,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌸",
+      "title": "Kyoto Protocol Legacy — Local Carbon Targets",
+      "subtitle": "Kyoto city maintains ambitious carbon reduction goals",
+      "fullDescription": "The Kyoto Protocol (京都議定書), signed in Kyoto in 1997, set binding emissions reduction targets for developed nations. While the Protocol was a national/international instrument, Kyoto City itself has committed to 70% CO2 reduction from 1990 levels by 2050, exceeding national targets. The city's Low-Carbon City Promotion Plan includes solar panel subsidies, district heating networks, and restrictions on new fossil-fuel heating systems in city facilities.",
+      "penalty": "City facilities non-compliant with energy standards: internal administrative measures; private sector: standard emissions reporting requirements",
+      "exceptions": ["Heritage buildings exempt from some energy retrofit mandates if structural integrity would be compromised"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Low Carbon City Promotion Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year was the Kyoto Protocol signed in Kyoto city?",
+        "options": ["1992", "1995", "1997", "2000"],
+        "correct": 2,
+        "explanation": "The Kyoto Protocol — the first binding international climate treaty — was signed in Kyoto, Japan in December 1997."
+      }
+    },
+    {
+      "id": 42583,
+      "category": "Heritage & Culture",
+      "severity": "high",
+      "icon": "🔥",
+      "title": "Kinkaku-ji Arson Law",
+      "subtitle": "Japan's famous arson case shaped cultural property law",
+      "fullDescription": "The 1950 arson of Kinkaku-ji (the Golden Pavilion) by a young monk — immortalised in Mishima Yukio's novel 'The Temple of the Golden Pavilion' — directly prompted strengthening of Japan's cultural property protection laws. The 1950 Law for the Protection of Cultural Properties (文化財保護法) was enacted partly in response. The rebuilt Kinkaku-ji (1955) is now designated a Special Historical Site and World Cultural Heritage property. Any damage to it carries maximum heritage penalty provisions.",
+      "penalty": "Damage to National Treasure or Special Historic Site: up to 5 years imprisonment + full restoration cost civil liability",
+      "exceptions": [],
+      "source": "https://www.bunka.go.jp/",
+      "sourceLabel": "Agency for Cultural Affairs — Cultural Properties Protection Law 1950",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What event directly prompted Japan to enact the 1950 Law for the Protection of Cultural Properties?",
+        "options": ["WWII bombing damage to Nara temples", "Arson of Kinkaku-ji by a young monk", "Earthquake damage to Nijo Castle", "Flood damage to Kyoto's canal network"],
+        "correct": 1,
+        "explanation": "The 1950 arson of Kinkaku-ji (Golden Pavilion) by a novice monk prompted Japan to enact comprehensive cultural properties protection legislation."
+      }
+    },
+    {
+      "id": 42584,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🚬",
+      "title": "Kyoto Smoking Ban — Preservation Zone Extension",
+      "subtitle": "Smoking banned across all heritage district streets",
+      "fullDescription": "Beyond the national 2020 indoor smoking ban, Kyoto City extends a near-total outdoor smoking ban to all designated Historic Preservation Areas (歴史的景観保全地区). This covers Gion, Higashiyama, Arashiyama, Nishiki, and over 50 designated zones. Smoking is prohibited while walking anywhere in these areas. Designated smoking areas (指定喫煙所) are scarce — usually only near major transport hubs. The restriction aims to prevent fire risk to wooden historic structures.",
+      "penalty": "Smoking in prohibited outdoor zones: ¥1,000 fine (on-the-spot); area enforcement officers patrol peak season",
+      "exceptions": ["Designated smoking areas (指定喫煙所) clearly marked"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Smoking Regulation in Historic Districts",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why does Kyoto extend its outdoor smoking ban to historic district streets beyond the national rules?",
+        "options": ["Air quality concerns", "Tourist experience aesthetics", "Fire risk to wooden historic structures", "Religious shrine regulations"],
+        "correct": 2,
+        "explanation": "Kyoto's outdoor smoking ban in historic areas primarily addresses fire risk — the densely packed wooden buildings of Gion and Higashiyama are extremely vulnerable."
+      }
+    },
+    {
+      "id": 42585,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏘️",
+      "title": "Machiya Traditional Town House Preservation",
+      "subtitle": "Kyoto subsidises preservation of wooden townhouses",
+      "fullDescription": "Kyoto's Machiya Regeneration Programme (町家再生プログラム) provides subsidies and low-interest loans for owners of traditional wooden townhouses (町家) to restore rather than demolish them. At their 1990 peak, 28,000 machiya existed in Kyoto; by 2022 fewer than 22,000 remained due to demolitions. A 2008 ordinance requires owners to notify the city before demolishing a machiya over 50 years old — creating a 6-month window for the city to propose preservation alternatives.",
+      "penalty": "Demolishing without notification: fines up to ¥300,000; demolishing a designated preservation machiya: restoration orders",
+      "exceptions": ["Structurally unsafe buildings may be demolished urgently with post-notification"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Machiya Regeneration Programme",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many traditional machiya townhouses remain in Kyoto as of 2022 (down from 28,000)?",
+        "options": ["25,000", "22,000", "15,000", "8,000"],
+        "correct": 1,
+        "explanation": "Kyoto's machiya population declined from ~28,000 in 1990 to fewer than 22,000 by 2022 — despite preservation programmes — due to demolitions for modern development."
+      }
+    },
+    {
+      "id": 42586,
+      "category": "Traffic & Driving",
+      "severity": "low",
+      "icon": "🚲",
+      "title": "Kyoto Bicycle Parking Rules",
+      "subtitle": "Illegal bicycle parking removed in historic tourist zones",
+      "fullDescription": "Kyoto City's bicycle parking ordinance bans locking bicycles to railings, street furniture, and gates in designated management zones — particularly around Kyoto Station, Nishiki Market, and shrine/temple approaches. Illegally parked bicycles are removed to a bicycle pound (自転車保管所) and owners must pay a retrieval fee. The city operates over 30 designated bicycle parking facilities. Designated free bicycle parking is available near major attractions during peak season.",
+      "penalty": "Illegally parked bicycle removal fee: ¥2,300 retrieval + ¥500/day storage; unclaimed after 3 months: destroyed or recycled",
+      "exceptions": ["Registered bicycles with disabled parking permits"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City Transportation Bureau — Bicycle Parking",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What happens to illegally parked bicycles in Kyoto's designated management zones?",
+        "options": ["A fine notice is attached but bicycle is left", "Bicycle is removed to a pound; owner pays retrieval fee", "Owner is contacted by police", "Bicycle chain is cut"],
+        "correct": 1,
+        "explanation": "Illegally parked bicycles in Kyoto's management zones are removed to a pound — owners pay a ¥2,300 retrieval fee plus daily storage charges."
+      }
+    },
+    {
+      "id": 42587,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "💴",
+      "title": "Kyoto Regional Minimum Wage",
+      "subtitle": "Kyoto's minimum wage higher than national average",
+      "fullDescription": "Kyoto Prefecture's regional minimum wage as of October 2024 stands at ¥1,077 per hour — above the national weighted average. Kyoto's economy is heavily reliant on tourism, traditional crafts (Nishijin-ori weaving, Kiyomizu pottery), and high-tech manufacturing (Kyocera, Shimadzu, Murata are all Kyoto-headquartered companies). The blend of artisan, service, and high-tech employment creates diverse minimum wage compliance needs.",
+      "penalty": "Employers paying below minimum: fines up to ¥500,000",
+      "exceptions": ["Apprenticeship exceptions require Labour Bureau approval"],
+      "source": "https://jsite.mhlw.go.jp/kyoto-roudoukyoku/",
+      "sourceLabel": "Kyoto Labour Bureau — Minimum Wage",
+      "lastUpdated": "2024-10-01",
+      "quiz": {
+        "q": "Which major electronics company — maker of capacitors and sensors — is headquartered in Kyoto?",
+        "options": ["Panasonic", "Sharp", "Murata Manufacturing", "Hitachi"],
+        "correct": 2,
+        "explanation": "Murata Manufacturing — the world's largest capacitor producer — is headquartered in Kyoto, part of the city's significant high-tech manufacturing sector."
+      }
+    },
+    {
+      "id": 42588,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🎎",
+      "title": "Traditional Craft Industry Protection",
+      "subtitle": "Nishijin weaving and Kiyomizu ware designated traditional crafts",
+      "fullDescription": "Japan's Act on the Promotion of Traditional Craft Industries (伝統的工芸品産業の振興に関する法律) designates protected traditional industries whose products must meet strict production criteria — primarily handmade, using traditional techniques and materials. Kyoto has 17 designated traditional crafts including Nishijin-ori (西陣織) silk weaving, Kyoto Nishiki (京友禅) dyed textiles, and Kiyomizu-yaki (清水焼) pottery. Fake 'Nishijin-ori' products without the official certificate violate the Act.",
+      "penalty": "Fraudulent use of traditional craft designations: up to 1 year imprisonment or ¥1,000,000 fine",
+      "exceptions": ["Products using traditional techniques but produced outside strict geographic criteria may be sold without the designation mark"],
+      "source": "https://www.meti.go.jp/",
+      "sourceLabel": "METI — Traditional Craft Industries Promotion Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Nishijin-ori (西陣織) — one of Kyoto's most famous traditional crafts?",
+        "options": ["Lacquerware", "Silk weaving", "Ceramic pottery", "Paper-making"],
+        "correct": 1,
+        "explanation": "Nishijin-ori (西陣織) is Kyoto's famous hand-woven silk textile craft — produced in the Nishijin district since the 5th century and protected as a designated traditional craft."
+      }
+    },
+    {
+      "id": 42589,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🌙",
+      "title": "Gion Matsuri Road Closure Rules",
+      "subtitle": "Annual festival requires major traffic management",
+      "fullDescription": "The Gion Matsuri (祇園祭), held throughout July and one of Japan's three greatest festivals, involves elaborate float processions (山鉾巡行) that require closure of central Kyoto streets. Under the Road Traffic Act, the Kyoto Prefectural Police issues temporary road use permits and establishes crowd control zones. Roping off streets, prohibiting private vehicles, and directing pedestrian flow are mandatory. The festival's yamaboko floats are UNESCO Intangible Cultural Heritage.",
+      "penalty": "Entering closed vehicle zones during procession: traffic offence + fines; damaging floats: criminal property damage",
+      "exceptions": ["Emergency vehicles retain access with police escort"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Gion Matsuri Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What UNESCO status do the yamaboko floats of the Gion Matsuri hold?",
+        "options": ["World Heritage Site", "UNESCO Intangible Cultural Heritage", "UNESCO Memory of the World", "No formal UNESCO recognition"],
+        "correct": 1,
+        "explanation": "The Gion Matsuri's yamaboko float processions are inscribed on UNESCO's Intangible Cultural Heritage list, recognising them as living cultural traditions."
+      }
+    },
+    {
+      "id": 42590,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌳",
+      "title": "Satoyama Landscape Preservation",
+      "subtitle": "Traditional rural landscape around Kyoto protected",
+      "fullDescription": "Kyoto Prefecture's satoyama (里山) — traditional semi-natural landscapes of bamboo groves, mixed forests, and rice paddies on the city's outskirts (Arashiyama, Ohara, Kurama) — are protected under the Natural Environment Preservation Act and Kyoto's own Green Vision Plan. Bamboo, an invasive species if unmanaged, is subject to mandatory control in designated zones. Development in satoyama zones requires environmental impact assessment.",
+      "penalty": "Unauthorised development in satoyama preservation zones: administrative orders + fines up to ¥500,000",
+      "exceptions": ["Traditional agricultural activities including bamboo harvesting are encouraged, not restricted"],
+      "source": "https://www.pref.kyoto.jp/",
+      "sourceLabel": "Kyoto Prefecture — Green Vision Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does 'satoyama' (里山) refer to in Japanese environmental policy?",
+        "options": ["Urban park networks", "Mountain national park wilderness zones", "Traditional semi-natural rural landscapes between settlements and mountains", "Coastal wetlands"],
+        "correct": 2,
+        "explanation": "Satoyama (里山) refers to Japan's traditional patchwork landscapes of bamboo groves, mixed forests, and farmland that buffer between human settlements and mountains."
+      }
+    },
+    {
+      "id": 42591,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏛️",
+      "title": "Kyoto City Bond — Cultural Preservation Financing",
+      "subtitle": "Kyoto issues cultural preservation bonds",
+      "fullDescription": "Kyoto City issues municipal bonds (京都市債) under the Local Finance Law to fund cultural preservation works, temple approach road repairs, and infrastructure maintenance near UNESCO sites. The city's fiscal position has been challenged by high maintenance costs for heritage infrastructure — the cost of repairing Kyoto's historic road networks alone exceeds ¥10 billion annually. Bond issuance requires Ministry of Internal Affairs approval given Kyoto's debt levels.",
+      "penalty": "N/A — municipal finance instrument; default on bonds subject to national government intervention",
+      "exceptions": [],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City Finance Bureau — Municipal Bonds",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how much does Kyoto City spend annually just on historic road network maintenance near heritage sites?",
+        "options": ["¥100 million", "¥1 billion", "¥10 billion", "¥100 billion"],
+        "correct": 2,
+        "explanation": "Kyoto's historic road repair and heritage infrastructure maintenance costs exceed ¥10 billion annually — a significant fiscal burden driving municipal bond issuance."
+      }
+    },
+    {
+      "id": 42592,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🌿",
+      "title": "Cannabis Prohibition — Kyoto University Context",
+      "subtitle": "Japan's cannabis laws apply equally to students",
+      "fullDescription": "Kyoto University (京都大学), Japan's second most prestigious institution, has experienced periodic cannabis arrests among students. Japan's Cannabis Control Act applies equally to students — no academic exemption exists. Kyoto Prefectural Police narcotics division actively investigates student drug use networks. Since 2022, Japanese law allows cannabis-derived medicines (CBD products remain in a grey zone — cannabidiol with no THC is not explicitly regulated).",
+      "penalty": "Cannabis possession: up to 5 years imprisonment; cultivation/import: up to 7 years; arrest typically followed by expulsion from university",
+      "exceptions": ["Licensed hemp producers; approved cannabis medicines from 2024"],
+      "source": "https://www.npa.go.jp/",
+      "sourceLabel": "NPA — Cannabis Control Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Japan's second most prestigious national university, located in Kyoto?",
+        "options": ["Doshisha University", "Ritsumeikan University", "Kyoto University (京都大学)", "Kansai University"],
+        "correct": 2,
+        "explanation": "Kyoto University (京都大学, Kyodai) is Japan's second most prestigious national university after the University of Tokyo — producing 10 Nobel laureates."
+      }
+    },
+    {
+      "id": 42593,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "🚋",
+      "title": "Kyoto Tram Heritage — Eizan Railway",
+      "subtitle": "Historic narrow-gauge railways operate under Railway Act",
+      "fullDescription": "Kyoto retains several historic narrow-gauge and heritage railways: the Eizan Electric Railway (叡山電鉄) serving the northern Demachiyanagi–Kibune/Kurama corridor and the Keifuku Electric Railway (嵐電, Randen) tram serving Arashiyama. These operate under the Railway Business Act (鉄道事業法). The Randen — running through residential streets in west Kyoto — has a 6km/h speed limit at pedestrian crossings. Both railways are tourist attractions subject to non-photography zones at scenic points.",
+      "penalty": "Fare evasion: surcharges; trespassing on tracks: criminal trespass + fines",
+      "exceptions": ["Emergency maintenance crews"],
+      "source": "https://www.eizandensha.co.jp/",
+      "sourceLabel": "Eizan Electric Railway",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the colloquial name for Kyoto's Keifuku Electric Railway — a beloved historic tram?",
+        "options": ["Sagano tram", "Randen (嵐電)", "Gion Express", "Maiko Line"],
+        "correct": 1,
+        "explanation": "Keifuku Electric Railway is affectionately called Randen (嵐電) — a charming historic tram running through Kyoto's residential streets to Arashiyama."
+      }
+    },
+    {
+      "id": 42594,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🎎",
+      "title": "Geiko Licensing and Training System",
+      "subtitle": "Geiko profession governed by Gion Kobu Kabukai",
+      "fullDescription": "Kyoto's geiko (芸妓) and maiko (舞妓) — professional traditional entertainers of the five hanamachi (花街) districts — are trained and licenced by the Gion Kobu Kabukai and equivalent bodies. While not government-regulated per se, the hanamachi system intersects with employment law (geiko are typically independent contractors or employees of okiya (置屋)), working hours, and the minimum age for maiko (officially 15, debated due to labour law). The okiya must register with Kyoto City.",
+      "penalty": "Labour law violations in the hanamachi: standard employment law penalties; minors working outside permitted hours: up to ¥300,000 fine for operators",
+      "exceptions": ["Cultural performance exemptions for traditional arts apply but are limited"],
+      "source": "https://www.gionkobu.com/",
+      "sourceLabel": "Gion Kobu Kabukai — Official Site",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is a 'hanamachi' (花街) in Kyoto?",
+        "options": ["A traditional flower market district", "A flower arrangement school", "A geisha entertainment district", "A historic sake brewery district"],
+        "correct": 2,
+        "explanation": "A hanamachi (花街, 'flower town') is a geisha entertainment district — Kyoto has five, including the most famous Gion Kobu."
+      }
+    },
+    {
+      "id": 42595,
+      "category": "Consumer Protection",
+      "severity": "low",
+      "icon": "🍵",
+      "title": "Uji Matcha Geographical Indication",
+      "subtitle": "Authentic Uji matcha protected by GI certification",
+      "fullDescription": "Uji City (宇治市) in Kyoto Prefecture is Japan's most famous tea-producing region. 'Uji Tea' (宇治茶) is protected by Japan's Geographical Indication (GI) system under the Act for Protection of Specified Agricultural, Forestry, Fishery and Food Products. Products must meet origin and production method criteria to bear the Uji Tea GI mark. The Kyoto GI system has expanded to cover Kyoto vegetables (京野菜) and certain traditional craft products.",
+      "penalty": "Fraudulent use of Uji Tea or Kyoto GI marks: up to 1 year imprisonment or ¥1,000,000 fine",
+      "exceptions": ["Generic tea product descriptions ('Uji-style') without the official GI mark are not violations"],
+      "source": "https://www.maff.go.jp/",
+      "sourceLabel": "Ministry of Agriculture — Geographical Indication System",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What type of legal protection covers 'Uji Tea' to prevent counterfeit products?",
+        "options": ["Trademark registration", "Patent protection", "Geographical Indication (GI) certification", "Traditional Craft designation"],
+        "correct": 2,
+        "explanation": "Uji Tea is protected by Japan's Geographical Indication (GI) system — only tea meeting origin and production criteria can be labelled with the official GI mark."
+      }
+    },
+    {
+      "id": 42596,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🦌",
+      "title": "Deer and Wildlife in Kyoto Outskirts",
+      "subtitle": "Wildlife management as deer expand from Nara",
+      "fullDescription": "As Nara's sika deer (鹿) population expands north into Kyoto Prefecture (Kurama, Kibune areas), Kyoto has implemented wildlife management permits under the Wildlife Protection and Hunting Act (鳥獣保護管理法). Deer damage to Satoyama vegetation and temple gardens is a growing problem. Kyoto Prefecture issues culling permits while also encouraging eco-tourism deer viewing. Feeding deer outside designated areas is prohibited to prevent habituation.",
+      "penalty": "Illegal deer feeding in prohibited zones: ¥50,000 fine; unlicensed deer hunting: up to 1 year imprisonment or ¥1,000,000 fine",
+      "exceptions": ["Licensed hunters during designated season", "Farmers protecting crops under damage prevention permits"],
+      "source": "https://www.pref.kyoto.jp/",
+      "sourceLabel": "Kyoto Prefecture — Wildlife Management Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "From which famous Japanese city is the sika deer population expanding northward into Kyoto's forests?",
+        "options": ["Osaka", "Kobe", "Nara", "Nagoya"],
+        "correct": 2,
+        "explanation": "Nara's famous free-roaming sika deer population is expanding, with deer increasingly appearing in Kyoto's northern Kurama and Kibune mountain areas."
+      }
+    },
+    {
+      "id": 42597,
+      "category": "Public Order",
+      "severity": "high",
+      "icon": "⛩️",
+      "title": "Shrine and Temple Entry Regulations",
+      "subtitle": "Trespassing on sacred grounds strictly enforced",
+      "fullDescription": "Many of Kyoto's shrines and temples (神社・寺院) close at night and restrict entry to ticket-holding visitors. Trespassing in closed sacred sites — a growing problem with social media-driven visitors seeking dawn or night photos — is prosecuted under criminal trespass provisions (不法侵入, Penal Code Article 130). The monks and priests managing these properties have been vocal about nighttime intrusions. Kinkaku-ji and Fushimi Inari have security patrols.",
+      "penalty": "Trespassing in closed shrine/temple: up to 3 years imprisonment or ¥100,000 fine; damage to sacred objects: up to 5 years",
+      "exceptions": ["Authorised pre-dawn photography sessions booked through official channels"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Cultural Properties Protection Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What drives the growing problem of nighttime trespassing at Kyoto's shrines and temples?",
+        "options": ["Religious protests", "Organised crime", "Social media influencers seeking exclusive dawn/night photos", "Political demonstrations"],
+        "correct": 2,
+        "explanation": "Social media pressure to capture unique dawn or closed-hours photos has driven a sharp rise in trespassing at Kyoto's sacred sites."
+      }
+    },
+    {
+      "id": 42598,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏭",
+      "title": "Kyoto High-Tech Industry Tax Incentives",
+      "subtitle": "Kyoto Prefecture supports semiconductor and biotech firms",
+      "fullDescription": "Kyoto Prefecture operates the Kyoto Industrial Location Incentive System providing tax reductions (fixed asset tax reduction up to 100% for 5 years) and infrastructure grants for companies establishing advanced manufacturing in designated industrial zones. Target industries include semiconductors (Rohm, Kyocera), measurement instruments (Shimadzu, Horiba), and pharmaceuticals. The scheme operates under the Act on Temporary Measures for the Promotion of Business Location in Specified Areas.",
+      "penalty": "Companies misusing incentives (moving before commitment period ends): clawback of all benefits",
+      "exceptions": ["Biotech and green energy companies receive extended incentive periods"],
+      "source": "https://www.pref.kyoto.jp/",
+      "sourceLabel": "Kyoto Prefecture — Industrial Location Incentives",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which famous scientific instrument company, maker of mass spectrometers, is headquartered in Kyoto?",
+        "options": ["Olympus", "Nikon", "Shimadzu Corporation", "Canon"],
+        "correct": 2,
+        "explanation": "Shimadzu Corporation — maker of analytical instruments, medical equipment, and mass spectrometers — has been headquartered in Kyoto since 1875."
+      }
+    },
+    {
+      "id": 42599,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🗳️",
+      "title": "Kyoto Prefectural Assembly Electoral District",
+      "subtitle": "Kyoto's electoral system under national rules",
+      "fullDescription": "Kyoto Prefecture elects members to the national House of Representatives (衆議院) from 6 electoral districts under the Public Offices Election Act. Kyoto City Council (48 seats) and Prefectural Assembly (60 seats) are separately elected. Kyoto's student population (approximately 135,000 students — Japan's highest student-to-resident ratio) creates an unusual electorate. Voter registration can be at university address, benefiting student participation.",
+      "penalty": "Vote buying: up to 3 years imprisonment; electoral fraud: disqualification",
+      "exceptions": ["Non-citizens cannot vote in national or prefectural elections"],
+      "source": "https://www.soumu.go.jp/",
+      "sourceLabel": "Ministry of Internal Affairs — Kyoto Electoral Districts",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes Kyoto's electorate unusual compared to other Japanese prefectural capitals?",
+        "options": ["High proportion of elderly voters", "Very low voter turnout", "Japan's highest student-to-resident ratio (~135,000 students)", "Predominantly public sector workers"],
+        "correct": 2,
+        "explanation": "Kyoto has Japan's highest student-to-resident ratio — approximately 135,000 university students among a city population of ~1.4 million — creating a distinctively young electorate."
+      }
+    },
+    {
+      "id": 42600,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🎻",
+      "title": "Kyoto Noh Theatre and Performance Licensing",
+      "subtitle": "Noh theatre registered as UNESCO Intangible Heritage",
+      "fullDescription": "Noh (能) theatre, originating in Kyoto in the 14th century under Zeami Motokiyo and patronised by the Muromachi Shogunate, is registered as UNESCO Intangible Cultural Heritage. Kyoto's Kanze Noh Theatre (観世流宗家) is the headquarters of the largest Noh school. Noh performers must study for 10–20 years under licensed masters. While not regulated by government licensing, the Noh Association (社団法人能楽協会) controls certification, and performances use cultural property instruments subject to preservation rules.",
+      "penalty": "Damage to Noh cultural property instruments (National Treasure category): up to 5 years + restoration",
+      "exceptions": [],
+      "source": "https://www.the-noh.com/",
+      "sourceLabel": "Noh Theatre — Kyoto Kanze School",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who developed Noh theatre in 14th century Kyoto, codifying it as a high art form?",
+        "options": ["Matsuo Basho", "Zeami Motokiyo", "Sen no Rikyu", "Sesshu Toyo"],
+        "correct": 1,
+        "explanation": "Zeami Motokiyo (世阿弥元清) developed and codified Noh theatre in 14th century Kyoto — writing 200+ plays and essential acting theory texts still used today."
+      }
+    },
+    {
+      "id": 42601,
+      "category": "Public Health",
+      "severity": "low",
+      "icon": "🌿",
+      "title": "Kyoto Vegetarian/Buddhist Dietary Practices",
+      "subtitle": "Shojin ryori temple cuisine subject to food standards",
+      "fullDescription": "Shojin ryori (精進料理) — Zen Buddhist vegan temple cuisine — is a Kyoto culinary tradition with legal implications for restaurant labelling. Under the Food Labelling Act, restaurants serving shojin ryori must accurately label if any non-vegan ingredients are used. Growing inbound tourism demand for genuine vegan and halal options has led Kyoto City to issue restaurant guidance on allergen and dietary disclosure. Over 100 Kyoto restaurants are registered on the city's halal/vegan-friendly database.",
+      "penalty": "Mislabelling of vegan or religious dietary foods: civil liability for health impacts; criminal fraud if deliberate (up to 2 years)",
+      "exceptions": ["Traditional temple kitchens on enclosed religious properties"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City Tourism Promotion Division — Dietary Information",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is 'shojin ryori' (精進料理)?",
+        "options": ["Traditional Kyoto meat dishes", "Zen Buddhist vegan temple cuisine", "Festival street food", "Imperial court cuisine"],
+        "correct": 1,
+        "explanation": "Shojin ryori (精進料理) is the vegan Buddhist temple cuisine of Japan — a Kyoto tradition dating from Zen monasteries, now served at many temple restaurants."
+      }
+    },
+    {
+      "id": 42602,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Kamo River Management Ordinance",
+      "subtitle": "Kyoto's iconic river subject to strict bank use rules",
+      "fullDescription": "The Kamo River (鴨川), flowing through central Kyoto, is subject to the Kamo River Ordinance (鴨川条例) which governs its banks. The famous kawayuka (川床) — wooden decks extending over the river from restaurants along Pontocho — are licensed annually by Kyoto City and must comply with precise placement, load, and drainage standards. Bathing, fishing with hooks (net fishing permitted with permit), and driving vehicles onto river beds are prohibited.",
+      "penalty": "Unlicensed kawayuka deck: removal orders + fines up to ¥500,000; prohibited river activities: fines up to ¥50,000",
+      "exceptions": ["Licensed seasonal kawayuka with annual permit", "Traditional cormorant fishing (鵜飼) with permission"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Kamo River Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What are 'kawayuka' (川床) — Kyoto's famous seasonal riverside structures?",
+        "options": ["Floating lanterns set on the river", "Licensed wooden dining decks extending over the Kamo River from riverside restaurants", "Traditional fishing platforms", "Stone stepping stones crossing the river"],
+        "correct": 1,
+        "explanation": "Kawayuka (川床) are the famous licensed wooden dining platforms that Pontocho district restaurants extend over the Kamo River during summer — a quintessential Kyoto experience."
+      }
+    },
+    {
+      "id": 42603,
+      "category": "Education",
+      "severity": "low",
+      "icon": "🎓",
+      "title": "Kyoto as Japan's Academic Capital",
+      "subtitle": "Densest concentration of universities in Japan",
+      "fullDescription": "Kyoto Prefecture has over 30 universities and colleges — the highest concentration per capita in Japan. National universities include Kyoto University (iPS cell research, 10 Nobel laureates) and Kyoto Institute of Technology. Private institutions include Doshisha, Ritsumeikan, and Kyoto Sangyo. The University Act (学校教育法) governs all accreditation. Kyoto University's unconventional culture (students historically resisted entrance exams with 'academic freedom' protests) is protected by academic freedom provisions.",
+      "penalty": "Unaccredited institutions claiming university status: up to ¥1,000,000 fine + closure",
+      "exceptions": ["Research institutes affiliated with accredited universities can use academic titles"],
+      "source": "https://www.kyoto-u.ac.jp/",
+      "sourceLabel": "Kyoto University — Official Site",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What Nobel Prize-winning research is particularly associated with Kyoto University?",
+        "options": ["Physics (quantum mechanics)", "Chemistry (synthetic polymers)", "Medicine (iPS cell development by Shinya Yamanaka)", "Literature"],
+        "correct": 2,
+        "explanation": "Kyoto University's Shinya Yamanaka won the 2012 Nobel Prize in Physiology or Medicine for developing induced pluripotent stem cells (iPS cells) — a landmark Kyoto discovery."
+      }
+    },
+    {
+      "id": 42604,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🔥",
+      "title": "Fushimi Inari Visitor Safety Rules",
+      "subtitle": "Mountain trail management at Japan's most visited shrine",
+      "fullDescription": "Fushimi Inari Taisha (伏見稲荷大社) — Japan's most visited shrine, with over 10,000 vermilion torii gates ascending Mt. Inari — has implemented visitor safety rules for the 4km mountain trail. The shrine is open 24 hours but the upper mountain becomes dangerous at night. Staff and volunteer guides patrol the lower trails. Theft of torii offerings, graffiti on torii gates, and leaving rubbish on the mountain path are criminal acts. The shrine privately owns the mountain.",
+      "penalty": "Graffiti on torii: criminal property damage up to 3 years + restoration cost; theft of offerings: up to 10 years",
+      "exceptions": [],
+      "source": "https://inari.jp/",
+      "sourceLabel": "Fushimi Inari Taisha — Official Site",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many vermilion torii gates line the trails of Fushimi Inari Taisha?",
+        "options": ["1,000", "5,000", "10,000", "50,000"],
+        "correct": 2,
+        "explanation": "Fushimi Inari Taisha has approximately 10,000 vermilion torii gates donated by individuals and businesses — forming the iconic tunnel-like path up Mt. Inari."
+      }
+    },
+    {
+      "id": 42605,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🏮",
+      "title": "Traditional Inn (Ryokan) Standards",
+      "subtitle": "Ryokan licensed under Hotel Business Act with specific rules",
+      "fullDescription": "Kyoto's approximately 800 ryokan (traditional inns) are licensed under the Hotel Business Act (旅館業法) as a separate category from western hotels. Ryokan must meet specific room size, bathing facility, and service standards. As traditional establishments, many have age-old operational customs (check-in times, communal bath etiquette, kaiseki dinner procedures) that have partial codification in their operating licences. Ryokan rates are unregulated (unlike the postwar price control era).",
+      "penalty": "Operating ryokan without licence: up to 6 months imprisonment or ¥1,000,000 fine; hygiene violations: closure orders",
+      "exceptions": ["Minpaku (Airbnb) properties cannot use ryokan designation — separate licensing required"],
+      "source": "https://www.mhlw.go.jp/",
+      "sourceLabel": "Ministry of Health — Hotel Business Act (Ryokan)",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many traditional ryokan operate in Kyoto city?",
+        "options": ["50", "200", "800", "2,000"],
+        "correct": 2,
+        "explanation": "Kyoto has approximately 800 licensed ryokan — one of Japan's highest concentrations — serving domestic and international guests seeking traditional accommodation experiences."
+      }
+    },
+    {
+      "id": 42606,
+      "category": "Privacy & Technology",
+      "severity": "medium",
+      "icon": "📱",
+      "title": "Kyoto Animation Memorial Site Rules",
+      "subtitle": "Restrictions on filming near tragedy memorial",
+      "fullDescription": "The Kyoto Animation arson attack (July 2019, 36 killed) was Japan's deadliest mass murder since WWII. The studio site in Fushimi Ward has become a memorial location. Kyoto Animation and city authorities have issued guidance asking visitors not to film or post content that could identify victims' memorials or film inside the rebuilding studio. Privacy laws (Personal Information Protection Act) cover any footage identifying individuals. The perpetrator was convicted and sentenced to death in 2024.",
+      "penalty": "Filming inside active studio without consent: criminal trespass; exploitative content using victims' likenesses: civil tort",
+      "exceptions": ["Officially sanctioned memorial photography"],
+      "source": "https://www.kyotoanimation.co.jp/",
+      "sourceLabel": "Kyoto Animation — Official Memorial Guidance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many people were killed in the 2019 Kyoto Animation arson attack?",
+        "options": ["12", "22", "36", "49"],
+        "correct": 2,
+        "explanation": "The 2019 Kyoto Animation arson killed 36 people — Japan's deadliest mass murder since WWII and a national tragedy for the anime industry."
+      }
+    },
+    {
+      "id": 42607,
+      "category": "Heritage & Culture",
+      "severity": "low",
+      "icon": "🍵",
+      "title": "Tea Ceremony Cultural Property",
+      "subtitle": "Sen no Rikyu's tea houses are National Treasures",
+      "fullDescription": "The Japanese tea ceremony (茶道, chado) was codified in Kyoto by Sen no Rikyu in the 16th century. Historic tea houses (茶室) associated with Rikyu's tradition — including Taian at Yamazaki and properties of the Urasenke and Omotesenke schools in Kyoto — are designated National Treasures or Important Cultural Properties. Tea utensils (茶器) of historical significance are similarly protected. The three Kyoto Sen family schools collectively train over 1 million practitioners.",
+      "penalty": "Damage to National Treasure tea house or utensil: up to 5 years imprisonment + restoration",
+      "exceptions": ["Normal use by licensed practitioners in approved ceremonies"],
+      "source": "https://www.urasenke.or.jp/",
+      "sourceLabel": "Urasenke School of Tea — Kyoto",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who codified the Japanese tea ceremony (茶道) in 16th century Kyoto, becoming its most revered master?",
+        "options": ["Toyotomi Hideyoshi", "Tokugawa Ieyasu", "Sen no Rikyu (千利休)", "Oda Nobunaga"],
+        "correct": 2,
+        "explanation": "Sen no Rikyu (千利休) codified the Japanese tea ceremony in 16th century Kyoto — his wabi-sabi aesthetic principles remain the foundation of all major tea schools."
+      }
+    },
+    {
+      "id": 42608,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Disaster Resilience Retrofitting — Kyoto",
+      "subtitle": "Pre-1981 buildings in historic districts must be assessed",
+      "fullDescription": "Kyoto's high proportion of pre-1981 wooden buildings (both historic machiya and postwar construction) creates significant earthquake vulnerability. Under the Building Standards Act and Kyoto City's own Seismic Assessment Programme, buildings with four or more floors built before 1981 must undergo assessment. The city offers subsidies (up to 23% of retrofit costs for heritage structures). Seismically deficient buildings on Kyoto's listed high-risk streets face mandatory assessment orders.",
+      "penalty": "Failure to comply with mandatory assessment order for flagged buildings: public notification; persistent refusal: administrative orders",
+      "exceptions": ["Buildings with current structural survey confirming compliance"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Seismic Retrofit Programme",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of retrofit costs does Kyoto City subsidise for heritage structures undergoing earthquake strengthening?",
+        "options": ["5%", "15%", "Up to 23%", "50%"],
+        "correct": 2,
+        "explanation": "Kyoto City subsidises up to 23% of earthquake retrofit costs for designated heritage structures — incentivising owners to strengthen machiya and other historic buildings."
+      }
+    },
+    {
+      "id": 42609,
+      "category": "Criminal Law",
+      "severity": "medium",
+      "icon": "💰",
+      "title": "Nishiki Market Vendor Fraud Prevention",
+      "subtitle": "Tourist-area pricing must comply with consumer law",
+      "fullDescription": "Nishiki Market (錦市場), Kyoto's historic covered food market, has seen rising tourist prices for traditional foods. While price-setting is generally free, deceptive pricing practices (displaying a false 'original price', denying refunds required under the Specified Commercial Transactions Act, or mislabelling food origin) are subject to Consumer Affairs Agency and Kyoto City enforcement. Several vendors have received administrative guidance for deceptive tourist pricing.",
+      "penalty": "Deceptive pricing: cease-and-desist; persistent violations: fines up to 3% of related sales; food fraud: up to 2 years",
+      "exceptions": ["Premium pricing for high-quality ingredients is fully legal"],
+      "source": "https://www.caa.go.jp/",
+      "sourceLabel": "Consumer Affairs Agency — Price Representation Rules",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Kyoto's Nishiki Market (錦市場) commonly nicknamed?",
+        "options": ["Kyoto's Pantry", "Kyoto's Kitchen", "The Thousand-Year Street", "The Dragon Spine"],
+        "correct": 1,
+        "explanation": "Nishiki Market is nicknamed 'Kyoto's Kitchen' (京の台所) — a 400-year-old covered market in central Kyoto selling fresh produce, pickles, and traditional food."
+      }
+    },
+    {
+      "id": 42610,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🎋",
+      "title": "Bamboo Grove Protection — Arashiyama",
+      "subtitle": "Arashiyama bamboo grove under strict conduct rules",
+      "fullDescription": "The Arashiyama bamboo grove (竹林の小径) is Kyoto's most photographed natural landscape. The bamboo is private property owned largely by Jojakko-ji temple and managed under cooperation with Kyoto City. Rules prohibit: touching or cutting bamboo, leaving rubbish, cycling within the grove, and extended photography sessions that block the path. The grove is open 24 hours but nighttime access is informally discouraged after light-up events conclude. Peak morning hours before 8am remain the least crowded.",
+      "penalty": "Cutting or damaging bamboo: property damage charge; cycling in prohibited zone: ¥5,000 fine",
+      "exceptions": ["Official photography sessions with landowner and city permission"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Arashiyama Area Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who primarily owns the famous Arashiyama bamboo grove's land in Kyoto?",
+        "options": ["Kyoto City government", "Jojakko-ji temple and adjacent private landowners", "Japan Forest Agency", "The imperial household"],
+        "correct": 1,
+        "explanation": "The Arashiyama bamboo grove path runs largely through Jojakko-ji temple land and adjacent private properties — managed in cooperation with Kyoto City."
+      }
+    },
+    {
+      "id": 42611,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏺",
+      "title": "Art and Antique Export Control",
+      "subtitle": "Cultural property export requires Agency approval",
+      "fullDescription": "Under the Law for the Protection of Cultural Properties, export of designated cultural properties from Japan — including antique ceramics, Buddhist art, tea utensils, and historical documents — requires approval from the Commissioner for Cultural Affairs. Kyoto's antique districts (Shinmonzen and Furumonzen streets) deal in significant pieces that approach or meet export control thresholds. Japan Customs maintains a list of culturally sensitive items requiring pre-export screening.",
+      "penalty": "Exporting controlled cultural property without approval: up to 5 years imprisonment or ¥5,000,000 fine",
+      "exceptions": ["Temporary export for museum exhibitions with return guarantee"],
+      "source": "https://www.bunka.go.jp/",
+      "sourceLabel": "Agency for Cultural Affairs — Export Control",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which Kyoto streets are famous for antique dealers specialising in Japanese art and cultural objects?",
+        "options": ["Gion-dori and Hanamikoji", "Shinmonzen and Furumonzen", "Nishiki and Karasuma", "Kawaramachi and Shijo"],
+        "correct": 1,
+        "explanation": "Shinmonzen (新門前通) and Furumonzen (古門前通) are Kyoto's premier antique dealer streets — a global destination for Japanese ceramics, lacquerware, and Buddhist art."
+      }
+    },
+    {
+      "id": 42612,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🏥",
+      "title": "Medical Tourism and Dental Treatment Rules",
+      "subtitle": "Foreign patients must use licensed practitioners",
+      "fullDescription": "Kyoto has seen growth in medical tourism, particularly for dental work, cosmetic procedures, and traditional medicine (kampo 漢方). All medical and dental practitioners must hold Japanese government licences under the Medical Practitioners Act (医師法) and Dental Practitioners Act (歯科医師法). Kampo (traditional Chinese/Japanese medicine) prescribed by licenced doctors is covered by national health insurance. Unlicensed practitioners offering medical services to foreign visitors have been prosecuted.",
+      "penalty": "Unlicensed medical practice: up to 3 years imprisonment or ¥1,000,000 fine",
+      "exceptions": ["Licensed practitioners holding foreign credentials in limited exchange agreements"],
+      "source": "https://www.mhlw.go.jp/",
+      "sourceLabel": "Ministry of Health — Medical Practitioners Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What traditional medical system — combining Chinese and Japanese herbal medicine — is covered by Japan's national health insurance?",
+        "options": ["Ayurveda", "Acupuncture only", "Kampo (漢方, traditional Japanese-Chinese herbal medicine)", "Homeopathy"],
+        "correct": 2,
+        "explanation": "Kampo (漢方) — Japan's traditional herbal medicine system derived from Chinese medicine — is covered by national health insurance when prescribed by a licensed doctor."
+      }
+    },
+    {
+      "id": 42613,
+      "category": "Civil Rights",
+      "severity": "low",
+      "icon": "♿",
+      "title": "Kyoto Temple Accessibility Improvements",
+      "subtitle": "Barrier-free access at heritage sites — complex balance",
+      "fullDescription": "Kyoto's UNESCO World Heritage sites must balance accessibility obligations under the Barrier-Free Act with heritage conservation requirements that often prohibit ramps, lifts, or paving modifications. The Agency for Cultural Affairs and Ministry of Land have issued joint guidance allowing 'soft' accessibility measures (portable ramps, accessible entry points) without permanent structural modification. Several major temples (Kinkaku-ji, Ryoan-ji) have achieved partial accessibility certification.",
+      "penalty": "New public buildings adjacent to heritage sites must fully comply with Barrier-Free Act; heritage structures have modified standards",
+      "exceptions": ["Designated cultural properties exempt from structural modification requirements but must offer alternative accessible routes"],
+      "source": "https://www.mlit.go.jp/",
+      "sourceLabel": "MLIT — Barrier-Free Act Heritage Site Guidance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What approach does Japan recommend for making ancient temples accessible without damaging heritage fabric?",
+        "options": ["Modern glass lifts alongside historic buildings", "Portable ramps and accessible entry points — 'soft' measures", "Complete reconstruction to modern standards", "Exempting all heritage sites from accessibility requirements"],
+        "correct": 1,
+        "explanation": "Japan's guidance recommends 'soft' accessibility measures — portable ramps, designated accessible entry points — that don't permanently modify the fabric of protected heritage buildings."
+      }
+    },
+    {
+      "id": 42614,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "🎨",
+      "title": "Traditional Craftsperson Apprenticeship",
+      "subtitle": "Long apprenticeships governed by employment law",
+      "fullDescription": "Kyoto's traditional craft industries — including lacquerware (蒔絵), Nishijin weaving, and Buddhist altar making — rely on multi-year apprenticeships. Under Japan's Labour Standards Act and Vocational Ability Development Promotion Act (職業能力開発促進法), apprenticeships must pay at least the minimum wage and provide standard labour protections. The Ministry of Economy designates 'Traditional Craftsperson' (伝統工芸士) qualifications recognising master-level skill after 12+ years practice.",
+      "penalty": "Apprenticeship agreements below minimum wage: back-pay + fines; exploitative apprenticeships: labour inspection action",
+      "exceptions": ["Brief unpaid try-out periods (max 3 days) before formal apprenticeship start"],
+      "source": "https://www.meti.go.jp/",
+      "sourceLabel": "METI — Traditional Craftsperson Qualification",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many years of practice are required before a craftsperson can apply for Japan's 'Traditional Craftsperson' (伝統工芸士) certification?",
+        "options": ["3 years", "5 years", "12 years", "20 years"],
+        "correct": 2,
+        "explanation": "Japan's Traditional Craftsperson (伝統工芸士) certification requires 12 or more years of practice in a designated traditional industry — reflecting the depth of skill required."
+      }
+    },
+    {
+      "id": 42615,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🍂",
+      "title": "Autumn Foliage Crowd Management",
+      "subtitle": "Kyoto manages 60 million koyo visitors annually",
+      "fullDescription": "Kyoto's autumn foliage (紅葉, koyo) season — typically November–early December — attracts even larger crowds than cherry blossom season, exceeding 20 million visitors in November alone. Temple access is often timed and ticketed, with Kiyomizu-dera, Eikan-do, and Tofuku-ji implementing strict entry quotas during peak weekends. Road closures and traffic management around foliage hotspots are coordinated between Kyoto City and Kyoto Prefectural Police. Drone photography is prohibited in most temple precincts.",
+      "penalty": "Drone operation in prohibited zone (near temples): ¥500,000 fine under Civil Aeronautics Act; crowd zone violations: ordinance fines",
+      "exceptions": ["Licensed aerial photography with temple and city approval"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City Tourism Management — Koyo Season",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is 'koyo' (紅葉) in Japanese seasonal culture?",
+        "options": ["Cherry blossom season", "Autumn foliage viewing", "Summer fireworks season", "New Year celebrations"],
+        "correct": 1,
+        "explanation": "Koyo (紅葉) is the Japanese autumn foliage viewing tradition — celebrated when maple and ginkgo trees turn red and gold, typically in November in Kyoto."
+      }
+    },
+    {
+      "id": 42616,
+      "category": "Environmental",
+      "severity": "low",
+      "icon": "♻️",
+      "title": "Kyoto Waste Reduction — Zero-Waste Temple Model",
+      "subtitle": "Kyoto temples lead Japan's zero-waste initiatives",
+      "fullDescription": "Several Kyoto temples — notably Ryoan-ji and Ginkaku-ji — have implemented zero-waste visitor management policies, refusing to provide single-use plastics and operating composting systems for organic waste. These are voluntary initiatives complementing Kyoto City's Waste Reduction Promotion Plan (ごみ半減プラン) which targets 50% waste reduction from 2000 levels by 2030. Kyoto City operates an unusual civic 'citizen consultation' system for waste policy decisions.",
+      "penalty": "Temple-specific no-plastic rules enforced through entry conditions (civil, not criminal); general Waste Management Act violations: standard fines",
+      "exceptions": ["Emergency use packaging"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Waste Reduction Promotion Plan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By what percentage does Kyoto City's waste reduction plan aim to cut waste from 2000 levels by 2030?",
+        "options": ["20%", "30%", "50%", "70%"],
+        "correct": 2,
+        "explanation": "Kyoto City's Waste Reduction Promotion Plan (ごみ半減プラン) targets 50% waste reduction from 2000 levels by 2030 — one of Japan's most ambitious municipal targets."
+      }
+    },
+    {
+      "id": 42617,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "💎",
+      "title": "Antique and Art Theft — Kyoto's Temples at Risk",
+      "subtitle": "Temple art theft carries maximum cultural property penalties",
+      "fullDescription": "Kyoto's thousands of temples and shrines hold extraordinary concentrations of cultural property — Buddhist statues, painted screens, tea utensils, and calligraphy. Theft of designated cultural properties carries enhanced penalties under the Law for the Protection of Cultural Properties beyond standard theft charges. Several high-profile thefts — including wooden Buddhist statues stolen from rural Kyoto temples — led to improved security funding. Police coordinate with Interpol for international art crime.",
+      "penalty": "Theft of designated cultural property: up to 10 years imprisonment; selling stolen cultural property: same + civil restitution",
+      "exceptions": [],
+      "source": "https://www.bunka.go.jp/",
+      "sourceLabel": "Agency for Cultural Affairs — Cultural Property Crime Response",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What international organisation does Kyoto's police coordinate with to track stolen cultural property abroad?",
+        "options": ["UNESCO", "Interpol", "World Customs Organization", "International Art Crime Bureau"],
+        "correct": 1,
+        "explanation": "Japan's police coordinate with Interpol's Works of Art unit to track culturally significant objects stolen from Kyoto temples that appear in overseas art markets."
+      }
+    },
+    {
+      "id": 42618,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏨",
+      "title": "Kyoto Tourism Accommodation Tax",
+      "subtitle": "Japan's most sophisticated accommodation tax system",
+      "fullDescription": "Kyoto City's accommodation tax (宿泊税), introduced in October 2018 and the first in Japan to graduate rates by nightly spend, charges: ¥200/night (rooms ¥20,000), ¥500/night (rooms ¥20,000–¥50,000), and ¥1,000/night (rooms over ¥50,000). Revenue funds tourism management infrastructure. Revenue exceeded ¥4 billion in FY2019 before COVID. Minpaku hosts must collect and remit the tax through their registration system.",
+      "penalty": "Accommodation operators not collecting/remitting tax: back-assessment + penalty surcharges up to 15%; systematic non-compliance: criminal referral",
+      "exceptions": ["Long-term residents (30+ day stays) exempt"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Accommodation Tax Scheme",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What was Kyoto City's accommodation tax revenue in FY2019 (pre-COVID peak)?",
+        "options": ["¥500 million", "¥1 billion", "¥4 billion", "¥10 billion"],
+        "correct": 2,
+        "explanation": "Kyoto City's accommodation tax generated over ¥4 billion in FY2019 — significant revenue for tourism management before COVID devastated visitor numbers."
+      }
+    },
+    {
+      "id": 42619,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "🚌",
+      "title": "Kyoto City Bus System — 100 Yen Loop Bus",
+      "subtitle": "Flat-fare tourist bus routes regulated by city",
+      "fullDescription": "Kyoto City Bus and Kyoto Bus operate the city's primary public transport network. The tourist-friendly Raku Bus (洛バス) routes connect major temple areas with flat-fare or discount day pass options. Under the Road Transportation Act (道路運送法), bus routes and fares require Ministry of Land approval. Kyoto City provides operating subsidies to maintain unprofitable but socially necessary routes through residential areas with elderly populations.",
+      "penalty": "Unlicensed bus operation: up to 2 years imprisonment or ¥3,000,000 fine",
+      "exceptions": ["Private shuttle buses to specific venues (hotels, temples) with limited capacity"],
+      "source": "https://www.city.kyoto.lg.jp/kotsu/",
+      "sourceLabel": "Kyoto City Bus — Route Information",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the name of Kyoto's special tourist bus routes connecting major heritage sites?",
+        "options": ["Gion Express", "Higashiyama Loop", "Raku Bus (洛バス)", "Kyoto Heritage Shuttle"],
+        "correct": 2,
+        "explanation": "The Raku Bus (洛バス) are Kyoto City's dedicated tourist bus routes with easy-to-understand numbering connecting major temples and heritage sites."
+      }
+    },
+    {
+      "id": 42620,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🏯",
+      "title": "Nijo Castle World Heritage Management",
+      "subtitle": "Shogun's palace governed by strict preservation rules",
+      "fullDescription": "Nijo Castle (二条城), built by Tokugawa Ieyasu in 1603 as his Kyoto residence and listed as UNESCO World Heritage, is owned by Kyoto City and managed by the Nijo Castle Office. Entry fees and visitor management ensure conservation funding. The 'nightingale floors' (鶯張り) — designed to squeak when walked upon to detect intruders — are original and protected. Any commercial filming within the castle grounds requires Kyoto City approval and heritage authority review.",
+      "penalty": "Damage to Nijo Castle fabric: up to 5 years imprisonment; unauthorised commercial filming: ¥500,000 fine",
+      "exceptions": ["Educational documentary filming with prior approval"],
+      "source": "https://nijo-jocastle.city.kyoto.lg.jp/",
+      "sourceLabel": "Nijo Castle — Kyoto City Management Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What architectural security feature of Nijo Castle is both its most famous and most protected element?",
+        "options": ["Stone moat walls", "Revolving doors", "Nightingale floors (鶯張り) designed to squeak when walked upon", "Hidden guard rooms"],
+        "correct": 2,
+        "explanation": "Nijo Castle's nightingale floors (鶯張り) — deliberately engineered to squeak underfoot — served as an intrusion detection system and are now among Japan's most famous architectural features."
+      }
+    },
+    {
+      "id": 42621,
+      "category": "Consumer Protection",
+      "severity": "low",
+      "icon": "🫖",
+      "title": "Kyoto Restaurant Reservation Cancellation Policy",
+      "subtitle": "High-end restaurants enforcing cancellation deposits",
+      "fullDescription": "Kyoto's high-end kaiseki restaurants — which require bookings weeks or months in advance — have faced a growing problem of no-shows and last-minute cancellations, particularly from international tourists. The Specified Commercial Transactions Act and civil contract law allow restaurants to charge cancellation fees if clearly stated in advance. Some establishments now take deposits (per person) credited to the meal. These policies, if disclosed, are legally enforceable civil contracts.",
+      "penalty": "No direct criminal penalty for cancellation; civil: restaurant can recover stated cancellation fee through court if necessary",
+      "exceptions": ["Force majeure (illness with documentation) typically waived by reputable establishments"],
+      "source": "https://www.caa.go.jp/",
+      "sourceLabel": "Consumer Affairs Agency — Contract Cancellation Policy",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is 'kaiseki' (懐石) cuisine — the style served in Kyoto's most prestigious restaurants?",
+        "options": ["A type of ramen with multiple toppings", "Multi-course traditional Japanese haute cuisine", "A communal hot-pot style meal", "Buddhist temple vegan food"],
+        "correct": 1,
+        "explanation": "Kaiseki (懐石) is Japan's most refined multi-course cuisine — rooted in Kyoto's imperial and tea ceremony culture, using seasonal ingredients in artfully presented sequences of dishes."
+      }
+    },
+    {
+      "id": 42622,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Imperial Household Law — Kyoto Imperial Palace",
+      "subtitle": "Imperial Palace sites subject to Imperial Household Agency rules",
+      "fullDescription": "The Kyoto Imperial Palace (京都御所) and Katsura Imperial Villa (桂離宮) are managed by the Imperial Household Agency (宮内庁) under the Imperial Household Agency Act. Public visits to the Palace grounds (opened without advance reservation since 2016) are subject to the Agency's conduct rules — no drones, no dogs, no running, no alcohol. Katsura Imperial Villa visits still require advance application. The Imperial Palace Site is Crown property — technically not Kyoto City's to regulate.",
+      "penalty": "Violating Imperial Household Agency site rules: removal + potential criminal trespass; damaging Crown property: civil and criminal liability",
+      "exceptions": ["Invited dignitaries and official state occasions"],
+      "source": "https://sankan.kunaicho.go.jp/",
+      "sourceLabel": "Imperial Household Agency — Site Visit Rules",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Since what year can the public visit Kyoto Imperial Palace grounds without advance reservation?",
+        "options": ["2000", "2008", "2016", "2022"],
+        "correct": 2,
+        "explanation": "The Kyoto Imperial Palace grounds opened to unreserved public access in 2016 — previously requiring advance application through the Imperial Household Agency."
+      }
+    },
+    {
+      "id": 42623,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Lake Biwa Canal Water Rights",
+      "subtitle": "Kyoto's water supply from Lake Biwa governed by treaty",
+      "fullDescription": "Kyoto City draws its water supply from Lake Biwa (琵琶湖), Japan's largest freshwater lake in Shiga Prefecture, via the Lake Biwa Canal (琵琶湖疏水) built 1885–1890. Water rights and quantity are governed by inter-prefectural agreements enforced under the River Act (河川法). Kyoto, Osaka, and Shiga coordinate management of the lake — Japan's largest drinking water reservoir. Pollution of the canal or lake causing disruption to Kyoto's water supply is a major environmental offence.",
+      "penalty": "Polluting Lake Biwa or its canal: up to 1 year imprisonment or ¥1,000,000 fine; criminal negligence causing water disruption: up to 5 years",
+      "exceptions": ["Permitted wastewater discharge within agreed limits from Shiga lakeside industry"],
+      "source": "https://www.pref.shiga.lg.jp/",
+      "sourceLabel": "Shiga Prefecture — Lake Biwa Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Lake Biwa Canal (琵琶湖疏水) — historically significant to Kyoto?",
+        "options": ["A decorative moat around Nijo Castle", "A 19th-century canal bringing Lake Biwa water to supply Kyoto with drinking water and power", "A traditional boat racing course", "A drainage channel built by the Tokugawa Shogunate"],
+        "correct": 1,
+        "explanation": "The Lake Biwa Canal (琵琶湖疏水) built 1885–1890 was a landmark Meiji-era engineering project supplying Kyoto with drinking water, irrigation, and Japan's first hydroelectric power."
+      }
+    },
+    {
+      "id": 42624,
+      "category": "Education",
+      "severity": "low",
+      "icon": "🎌",
+      "title": "Kyoto International Manga Museum",
+      "subtitle": "Public cultural facility subject to city governance rules",
+      "fullDescription": "The Kyoto International Manga Museum (京都国際マンガミュージアム), jointly operated by Kyoto City and Kyoto Seika University, houses 300,000+ manga volumes and is Japan's largest manga museum. Under Kyoto City's public facility regulations, the museum operates with bilingual staff, accessibility compliance, and content rating systems for adult manga areas. Manga is legally classified as a publication under the Publishing Act (出版法) — adult content restricted to designated areas.",
+      "penalty": "Allowing minors to access adult manga sections: administrative violation; theft from reading collection: theft charges",
+      "exceptions": ["Research access for qualified scholars"],
+      "source": "https://www.kyotomm.jp/",
+      "sourceLabel": "Kyoto International Manga Museum",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many manga volumes does the Kyoto International Manga Museum hold?",
+        "options": ["30,000", "100,000", "300,000+", "1,000,000"],
+        "correct": 2,
+        "explanation": "The Kyoto International Manga Museum holds over 300,000 manga volumes — making it Japan's largest manga museum and a major resource for the medium's preservation."
+      }
+    },
+    {
+      "id": 42625,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🚁",
+      "title": "Drone Flight Restrictions — Temple Zones",
+      "subtitle": "Civil Aeronautics Act restricts drones near heritage sites",
+      "fullDescription": "Japan's Civil Aeronautics Act (航空法) prohibits drone flights within 150 metres of densely populated areas and requires approval for flights near airports, national infrastructure, and designated event areas. Kyoto additionally applies these restrictions near its UNESCO World Heritage temple compounds and historic districts. Many temple and shrine management organisations have posted their own drone prohibition notices that interact with trespass law if drones enter shrine airspace without consent.",
+      "penalty": "Unlicensed drone flight in restricted area: up to ¥500,000 fine; drone crash damaging cultural property: civil liability + potential criminal negligence",
+      "exceptions": ["MLIT-licensed aerial operators with advance approval from site managers"],
+      "source": "https://www.mlit.go.jp/",
+      "sourceLabel": "MLIT — Civil Aeronautics Act Drone Rules",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Civil Aeronautics Act restriction distance from densely populated areas for drone flights in Japan?",
+        "options": ["30 metres", "75 metres", "150 metres", "300 metres"],
+        "correct": 2,
+        "explanation": "Japan's Civil Aeronautics Act prohibits drone flights within 150 metres of densely populated areas without MLIT approval — with additional restrictions near heritage sites and events."
+      }
+    },
+    {
+      "id": 42626,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🎪",
+      "title": "Temple Entry Fee Regulation",
+      "subtitle": "No legal cap on temple entry fees — market-driven",
+      "fullDescription": "Kyoto's major temples charge entry fees ranging from ¥500 (many sites) to ¥3,000 (exclusive night-time light-up events). Unlike public parks, private religious institutions (寺院) are not regulated on pricing — they set fees freely. Some municipal-owned sites (Shinjuan sub-temple of Daitoku-ji) have local oversight. The trend toward higher fees and timed entry (particularly from 2023) reflects demand management by private religious corporations registered under the Religious Corporation Act (宗教法人法).",
+      "penalty": "N/A — entry fees are private commercial decisions; discriminatory pricing based on nationality may violate Anti-Discrimination guidelines",
+      "exceptions": ["Certain shrine inner sanctuaries (honden) are free as legally required by shrine management rules"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Tourism Policy Office",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under what legal status do most of Kyoto's major temples and shrines operate?",
+        "options": ["Government-owned public institutions", "NPO charitable organisations", "Religious corporations (宗教法人) — private religious entities", "Municipal cultural facilities"],
+        "correct": 2,
+        "explanation": "Most of Kyoto's temples and shrines are registered as Religious Corporations (宗教法人) — private entities with significant legal autonomy, including the right to set their own entry fees."
+      }
+    },
+    {
+      "id": 42627,
+      "category": "Heritage & Culture",
+      "severity": "high",
+      "icon": "🎭",
+      "title": "Kabuki Theatre — Minamiza Historic Venue",
+      "subtitle": "Japan's oldest kabuki theatre in Kyoto's Gion",
+      "fullDescription": "Kyoto's Minamiza (南座) in Gion — dating to 1610 — is Japan's oldest kabuki theatre and a Registered Tangible Cultural Property (登録有形文化財). Kabuki (歌舞伎) performances are governed by the Japan Arts Council (日本芸術文化振興会) funding frameworks and the traditional iemoto (家元) hereditary master system of major families (Ichikawa, Nakamura, Onoe). Kabuki was inscribed as UNESCO Intangible Cultural Heritage in 2005. The December Kaomise (顔見世) in Kyoto is the kabuki world's most prestigious annual engagement.",
+      "penalty": "Damage to Minamiza as cultural property: up to 5 years; ticket fraud at major kabuki events: standard fraud penalties",
+      "exceptions": [],
+      "source": "https://www.shochiku.co.jp/",
+      "sourceLabel": "Shochiku Co. — Minamiza Theatre Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Kabuki theatre receive UNESCO Intangible Cultural Heritage recognition?",
+        "options": ["1995", "2000", "2005", "2010"],
+        "correct": 2,
+        "explanation": "Kabuki was inscribed on UNESCO's Intangible Cultural Heritage list in 2005 — recognising it as a living traditional performing art."
+      }
+    },
+    {
+      "id": 42628,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "💊",
+      "title": "Traditional Medicine (Kampo) Practice",
+      "subtitle": "Kampo prescribed only by licensed medical doctors",
+      "fullDescription": "In Japan, unlike China, kampo (漢方) traditional herbal medicine can only be prescribed by licensed Western-trained medical doctors (医師) — there is no separate traditional medicine practitioner licence. Kyoto, as a centre of both Western and traditional medicine, has numerous hospital departments integrating kampo with modern treatment. Over 80% of Japanese physicians use kampo in their practice. Non-licensed kampo dispensing to patients claiming therapeutic benefit is illegal.",
+      "penalty": "Non-licensed prescription of kampo for medical conditions: up to 3 years imprisonment under Medical Practitioners Act",
+      "exceptions": ["Over-the-counter kampo preparations (general-use formulas) sold at pharmacies without prescription"],
+      "source": "https://www.mhlw.go.jp/",
+      "sourceLabel": "Ministry of Health — Traditional Medicine Integration",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who is legally authorised to prescribe kampo herbal medicine in Japan?",
+        "options": ["Licensed traditional medicine practitioners", "Pharmacists", "Licensed Western-trained medical doctors only", "Anyone with traditional medicine knowledge"],
+        "correct": 2,
+        "explanation": "Only licensed Western-trained medical doctors (医師) can legally prescribe kampo in Japan — there is no separate traditional medicine licence category, unlike in China."
+      }
+    },
+    {
+      "id": 42629,
+      "category": "Environmental",
+      "severity": "low",
+      "icon": "🏔️",
+      "title": "Surrounding Mountain Forest Protection",
+      "subtitle": "Higashiyama and Kitayama forests are protected green belts",
+      "fullDescription": "Kyoto's famous 'basin of mountains' (三方を山に囲まれた盆地) — the Higashiyama (東山), Kitayama (北山), and Nishiyama (西山) ranges surrounding the city on three sides — are protected under the Quasi-National Park designation and Kyoto Prefecture's Green Vision Plan. Logging, development, and recreational activities within designated protection zones require permits. These forests are both ecological corridors and the visual backdrop to Kyoto's heritage landscape.",
+      "penalty": "Unauthorised logging in protected forest zone: up to 1 year imprisonment or ¥1,000,000 fine",
+      "exceptions": ["Controlled cedar and hinoki cypress harvesting by licenced forestry operations in designated commercial zones"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Quasi-National Park Designations",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many mountain ranges surround Kyoto's basin, forming its characteristic enclosed landscape?",
+        "options": ["One (Higashiyama)", "Two", "Three (Higashiyama, Kitayama, Nishiyama)", "Four"],
+        "correct": 2,
+        "explanation": "Kyoto sits in a basin surrounded by three mountain ranges: Higashiyama (east), Kitayama (north), and Nishiyama (west) — shaping the city's microclimate and visual character."
+      }
+    },
+    {
+      "id": 42630,
+      "category": "Criminal Law",
+      "severity": "medium",
+      "icon": "📜",
+      "title": "Forgery of Cultural Property Documentation",
+      "subtitle": "Fake provenance documents for art and antiques",
+      "fullDescription": "Kyoto's antique market attracts sophisticated fraud involving forged provenance documents (来歴書), attribution seals (印), and certificates of authenticity for traditional art. Such forgeries are prosecuted under Penal Code document forgery provisions (私文書偽造, up to 5 years) and fraud charges if used to secure payment. The Japanese Art and Antique Dealers Association (全国美術商連合会) maintains standards and blacklists known fraudsters. Interpol Art Crime databases include Kyoto-linked cases.",
+      "penalty": "Document forgery: up to 5 years imprisonment; fraud using forged documents: up to 10 years",
+      "exceptions": [],
+      "source": "https://www.npa.go.jp/",
+      "sourceLabel": "NPA — Art Crime Response",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What Japanese legal term covers the crime of forging private documents like art provenance certificates?",
+        "options": ["Tokushu sagi", "Shibunso gizo (私文書偽造, private document forgery)", "Keiji sagi", "Bunkashisan hannin"],
+        "correct": 1,
+        "explanation": "Shibunso gizo (私文書偽造) — private document forgery — is the Penal Code offence covering fake art provenance documents, carrying up to 5 years imprisonment."
+      }
+    },
+    {
+      "id": 42631,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🎿",
+      "title": "Kurama and Kibune Mountain Trail Rules",
+      "subtitle": "Sacred mountain trails have conduct requirements",
+      "fullDescription": "Kurama-dera (鞍馬寺) and Kibune Jinja (貴船神社) in the mountains north of Kyoto operate their hiking trails under both property law and religious site management rules. Kurama-dera charges a 'nature preservation fee' (¥300) for mountain access. Hunting is prohibited — the mountains are part of a wildlife sanctuary. Camping and fire-making are banned. The trails close at dusk. Social media viral content of nighttime trail visits has prompted increased enforcement.",
+      "penalty": "Nighttime trespass on Kurama-dera property: removal and potential criminal trespass; fire-making: up to ¥300,000 fine",
+      "exceptions": ["Temple-organised special dawn events"],
+      "source": "https://www.kuramadera.or.jp/",
+      "sourceLabel": "Kurama-dera Temple — Trail Regulations",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What fee does Kurama-dera charge for hiking its mountain trails — framed as a preservation contribution?",
+        "options": ["Free", "¥100", "¥300", "¥1,000"],
+        "correct": 2,
+        "explanation": "Kurama-dera charges a ¥300 'nature preservation fee' (愛山費) for access to its mountain trails — reinvested in trail maintenance and wildlife protection."
+      }
+    },
+    {
+      "id": 42632,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Kyoto University IPS Cell Patent Framework",
+      "subtitle": "University intellectual property governed by University IP Policy",
+      "fullDescription": "Kyoto University's iPS cell technology (induced pluripotent stem cells), developed by Prof. Shinya Yamanaka (2006, Nobel 2012), generated a complex intellectual property situation: KyotoUniversity licensed the technology globally while defending core patents against challenges from foreign universities. The Japanese government's Universities IP Act (大学知的財産法) and Technology Transfer Organisation (TLO) system govern how universities patent and commercialise research. KU holds over 200 iPS-related patents.",
+      "penalty": "Infringement of KU iPS patents: civil damages; deliberate infringement: criminal provisions under Patent Act (最大10年)",
+      "exceptions": ["Research use exemption allows academic use without licence"],
+      "source": "https://www.kyoto-u.ac.jp/",
+      "sourceLabel": "Kyoto University — Technology Licensing Organisation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year did Shinya Yamanaka at Kyoto University first publish his iPS cell research?",
+        "options": ["2002", "2004", "2006", "2010"],
+        "correct": 2,
+        "explanation": "Yamanaka's landmark paper on induced pluripotent stem cells was published in 2006 — he received the Nobel Prize in Physiology or Medicine in 2012."
+      }
+    },
+    {
+      "id": 42633,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🎐",
+      "title": "Obon Festival Management — Daimonji",
+      "subtitle": "Five mountain bonfires for Gozan no Okuribi regulated",
+      "fullDescription": "Kyoto's Gozan no Okuribi (五山の送り火, August 16) — five giant bonfires in kanji shapes on surrounding mountains sending off ancestral spirits — is managed by five separate neighbourhood preservation organisations under Kyoto City fire safety oversight. The Fire Service Act governs the lighting permits, fuel quantities, and volunteer fire brigade standby. Viewing spots fill to capacity; the city manages crowd flow along the Kamo River. Unauthorised viewing from mountain trails creates safety risks.",
+      "penalty": "Trespassing on bonfire mountains during the event: criminal trespass; unauthorized ignition of mountain bonfires: arson charges",
+      "exceptions": ["Authorised neighbourhood preservation society members"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Gozan no Okuribi Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When is Kyoto's Gozan no Okuribi (五山の送り火) mountain bonfire festival held?",
+        "options": ["July 4", "August 16", "September 22", "December 31"],
+        "correct": 1,
+        "explanation": "Gozan no Okuribi is held on August 16, the final night of the Obon festival — when giant bonfires on Kyoto's five surrounding mountains send ancestral spirits back to the afterlife."
+      }
+    },
+    {
+      "id": 42634,
+      "category": "Immigration & Identity",
+      "severity": "low",
+      "icon": "🎌",
+      "title": "Kyoto International Community — CIR Programme",
+      "subtitle": "JET Programme coordinators in Kyoto schools",
+      "fullDescription": "Kyoto City participates in Japan's JET Programme (Japan Exchange and Teaching Programme), placing Coordinators for International Relations (CIR) and Assistant Language Teachers (ALT) in schools and government offices. JET participants are on working visas with specific conditions — tied to their host institution. Kyoto's international student population additionally benefits from the Student Exchange promotion, with Kyoto University hosting over 3,000 international students.",
+      "penalty": "JET participants violating visa conditions (working outside placement): deportation risk; overstaying: criminal charges",
+      "exceptions": ["JET participants may do limited translation/interpreting work if approved by host"],
+      "source": "https://jetprogramme.org/",
+      "sourceLabel": "JET Programme — Official Site",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does CIR stand for in the JET Programme context?",
+        "options": ["Cultural Integration Representative", "Coordinator for International Relations", "Community Information Resource", "Cross-cultural Instructional Resource"],
+        "correct": 1,
+        "explanation": "CIR stands for Coordinator for International Relations — JET Programme participants placed in government offices and international relations roles, distinct from ALT (Assistant Language Teacher) placements."
+      }
+    },
+    {
+      "id": 42635,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🛍️",
+      "title": "Tax-Free Shopping for Foreign Tourists",
+      "subtitle": "Consumption tax refund at registered retailers",
+      "fullDescription": "Foreign tourists visiting Japan may purchase goods tax-free (消費税免税) at registered retailers by presenting a passport. The consumption tax (消費税, currently 10%) is exempted on general goods purchased over ¥5,000 in one transaction. Kyoto's dense retail and craft districts — Shijo-dori department stores, Nishiki Market, temple souvenir shops — are popular for tax-free shopping. Goods must leave Japan within 30 days and not be used in Japan.",
+      "penalty": "Using tax-free purchased goods in Japan (not exporting): back-assessment of consumption tax + surcharge; fraudulent use of another's passport for tax-free: fraud charges",
+      "exceptions": ["Consumables (food, cosmetics) have separate lower threshold and must be packed and sealed"],
+      "source": "https://www.nta.go.jp/",
+      "sourceLabel": "National Tax Agency — Tax-Free Shopping",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the minimum purchase amount for a single transaction to qualify for tax-free shopping in Japan?",
+        "options": ["¥1,000", "¥3,000", "¥5,000", "¥10,000"],
+        "correct": 2,
+        "explanation": "Foreign tourists must spend at least ¥5,000 in a single transaction at a registered retailer to qualify for tax-free shopping in Japan."
+      }
+    },
+    {
+      "id": 42636,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "🚲",
+      "title": "Cycle Tourism Programme — Kyoto",
+      "subtitle": "Rental bike network regulated for tourist safety",
+      "fullDescription": "Kyoto City operates and licences a network of bicycle rental stations (docomo bike share) for tourists exploring the city between temple areas. Cyclists must comply with Road Traffic Act provisions: ride on the left, use lights at night, no more than two abreast. Cycling on pedestrian footpaths (人道) is generally prohibited for adults except on designated paths — violations in Gion's narrow streets have caused pedestrian injuries. Some routes (Philosopher's Walk) are cycling-friendly; temple precincts are always dismount zones.",
+      "penalty": "Cycling on prohibited footpaths: ¥20,000 fine; riding without lights at night: ¥50,000 fine",
+      "exceptions": ["Designated cycling paths on temple approaches where permitted"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Cycle Tourism Programme",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Kyoto's 'Philosopher's Walk' (哲学の道) — one of the city's most famous cycling and walking routes?",
+        "options": ["A mountain hiking trail above Higashiyama", "A canal-side path through northern Higashiyama connecting Nanzen-ji to Ginkaku-ji", "A boulevard through central Kyoto lined with philosophy faculty buildings", "An underground walking route connecting temple museums"],
+        "correct": 1,
+        "explanation": "The Philosopher's Walk (哲学の道) is a picturesque canal-side path in northern Higashiyama, named after philosopher Nishida Kitaro who meditated along it — famous for cherry blossoms."
+      }
+    },
+    {
+      "id": 42637,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🎭",
+      "title": "Cultural Property Illegal Export — International Cases",
+      "subtitle": "Kyoto objects appearing in foreign auctions trigger investigations",
+      "fullDescription": "Japanese police and the Agency for Cultural Affairs work with Interpol and Christie's/Sotheby's to identify Kyoto cultural properties appearing in foreign auction markets without proper export documentation. Japan joined the 1970 UNESCO Convention on stolen cultural property. Notable cases include Buddhist statues stolen from rural Kyoto reaching European art markets. UNIDROIT Convention obligations mean Japan can seek return of stolen objects from contracting states.",
+      "penalty": "Smuggling cultural property out of Japan: up to 5 years + ¥5,000,000 fine; receiving stolen cultural property: up to 10 years",
+      "exceptions": ["Objects legally exported with cultural authority permits before new restrictions"],
+      "source": "https://www.bunka.go.jp/",
+      "sourceLabel": "Agency for Cultural Affairs — International Cultural Property Recovery",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which international convention on cultural property did Japan join, enabling recovery of stolen objects from other member states?",
+        "options": ["Geneva Convention Art Protocol", "1970 UNESCO Convention + UNIDROIT Convention", "Hague Convention on Cultural Property", "World Trade Organization IP Treaty"],
+        "correct": 1,
+        "explanation": "Japan acceded to both the 1970 UNESCO Convention and UNIDROIT Convention on stolen cultural property — enabling legal return of stolen objects appearing in international markets."
+      }
+    },
+    {
+      "id": 42638,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌙",
+      "title": "Dark Sky Protection — Observatory Hill",
+      "subtitle": "Kyoto limits light pollution near Observatory",
+      "fullDescription": "Kyoto's Kwasan Observatory (花山天文台, operated by Kyoto University since 1929) and Hida Observatory have benefited from Kyoto's strict signage and lighting restrictions, which incidentally reduce light pollution. Kyoto City's Landscape Policy limits rooftop illumination and requires outdoor lighting to be directed downward. While not specifically a 'dark sky ordinance,' the combination of height limits, sign restrictions, and lighting rules has preserved darker skies than most Japanese cities.",
+      "penalty": "Non-compliant outdoor lighting (directed upward): landscape ordinance fines up to ¥300,000",
+      "exceptions": ["Temporary event lighting with approval", "Safety required lighting"],
+      "source": "https://www.kwasan.kyoto-u.ac.jp/",
+      "sourceLabel": "Kyoto University — Kwasan Observatory",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Since what year has Kyoto University operated its Kwasan Observatory on a Kyoto hillside?",
+        "options": ["1889", "1905", "1929", "1955"],
+        "correct": 2,
+        "explanation": "Kwasan Observatory (花山天文台) has been operated by Kyoto University since 1929 — benefiting from the city's strict lighting restrictions that incidentally limit light pollution."
+      }
+    },
+    {
+      "id": 42639,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Kyoto Station Area Management",
+      "subtitle": "Kyoto Station as infrastructure hub under special rules",
+      "fullDescription": "Kyoto Station (京都駅) — a major JR hub on the Tokaido Shinkansen, designed by Hiroshi Hara (1997) — is partly regulated under Airport-level security concepts despite being a rail terminal. JR West manages the station as a commercial complex. The 15-floor building houses a department store, hotels, cinema, and 75,000 daily passengers. Large-group gathering and demonstration within the station concourse require station management approval. The station's iconic 'Space Frame' glass atrium is a designated modern architectural landmark.",
+      "penalty": "Unauthorised commercial activities in station: removal; demonstration without approval: station exclusion + potential public nuisance ordinance application",
+      "exceptions": ["Traditional religious and charity collections with management permission"],
+      "source": "https://www.westjr.co.jp/",
+      "sourceLabel": "JR West — Kyoto Station Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who designed Kyoto Station's distinctive 1997 modern glass-and-steel building?",
+        "options": ["Tadao Ando", "Kengo Kuma", "Hiroshi Hara", "Arata Isozaki"],
+        "correct": 2,
+        "explanation": "Hiroshi Hara designed Kyoto Station's bold 1997 building — controversial at the time for its modern aesthetic in a historic city, but now celebrated as a landmark."
+      }
+    },
+    {
+      "id": 42640,
+      "category": "Civil Rights",
+      "severity": "low",
+      "icon": "🏳️‍🌈",
+      "title": "Kyoto City LGBT Support Declaration",
+      "subtitle": "Partnership certificates available since 2020",
+      "fullDescription": "Kyoto City introduced its Diversity Partner Certificate (パートナーシップ認定制度) in September 2020. The certificate provides recognition for same-sex couples in city services, public housing applications, and hospital visitings. Kyoto University became one of Japan's first national universities to provide housing and facility access to same-sex student couples in 2017. Kyoto Prefecture followed with its own scheme in 2023.",
+      "penalty": "N/A — rights-granting provision",
+      "exceptions": ["National marriage law unchanged — certificates confer administrative recognition only"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Diversity Partner Certificate",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Kyoto City introduce its same-sex partnership certificate scheme?",
+        "options": ["2016", "2018", "2020", "2022"],
+        "correct": 2,
+        "explanation": "Kyoto City introduced its Diversity Partner Certificate (パートナーシップ認定制度) in September 2020, providing administrative recognition for same-sex couples."
+      }
+    },
+    {
+      "id": 42641,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🏯",
+      "title": "Nishiki-in and Kyoto Gosho Buffer Zone",
+      "subtitle": "Development around Imperial Palace strictly controlled",
+      "fullDescription": "The area surrounding Kyoto Gosho (Imperial Palace) is subject to a buffer zone under the Kyoto Urban Planning Law specifying low-rise, traditional-scale development. The Imperial Household Agency's management of the grounds is coordinated with Kyoto City's planning for surrounding Nakagyo Ward. Building height limits of 10–15 metres apply in the buffer; parking structures and commercial buildings face additional restrictions to preserve the Palace's visual setting.",
+      "penalty": "Non-compliant development in buffer zone: planning refusal + potential demolition order",
+      "exceptions": ["Traditional Japanese-style commercial buildings within height limits"],
+      "source": "https://www.city.kyoto.lg.jp/tokei/",
+      "sourceLabel": "Kyoto City Urban Planning — Imperial Palace Buffer Zone",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In which ward of Kyoto is the Imperial Palace (Kyoto Gosho) located?",
+        "options": ["Higashiyama Ward", "Fushimi Ward", "Nakagyo Ward", "Ukyo Ward"],
+        "correct": 2,
+        "explanation": "Kyoto Gosho (Imperial Palace) is located in Nakagyo Ward (中京区) — surrounded by a preserved buffer zone of low-rise traditional-scale development."
+      }
+    },
+    {
+      "id": 42642,
+      "category": "Consumer Protection",
+      "severity": "low",
+      "icon": "🎋",
+      "title": "Souvenir Authenticity — Kyoto Craft Certification",
+      "subtitle": "Kyoto Brand certification for genuine local crafts",
+      "fullDescription": "Kyoto City operates the 'Kyoto Brand' (京都ブランド) certification system for genuine locally produced crafts and food products. Products are vetted for production location, technique, and material authenticity. Uncertified products using misleading 'Kyoto-style' or 'made in Kyoto' language when produced elsewhere may violate the Unfair Competition Prevention Act's false origin provisions. Tourist shops in Gion and Arashiyama have been investigated for selling China-manufactured goods with Kyoto presentation.",
+      "penalty": "False origin labelling: up to 5 years imprisonment or ¥5,000,000 fine under Unfair Competition Prevention Act",
+      "exceptions": ["'Kyoto-style' design without false origin claim is generally permitted"],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Kyoto Brand Certification",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What legal protection prevents manufacturers from falsely claiming products are 'made in Kyoto' when they are not?",
+        "options": ["Consumer Affairs Act", "Geographic Indication Act", "Unfair Competition Prevention Act (不正競争防止法)", "Consumer Protection Ordinance"],
+        "correct": 2,
+        "explanation": "Japan's Unfair Competition Prevention Act (不正競争防止法) prohibits false origin claims — protecting Kyoto's authentic craft industry from copycat products falsely marketed as locally made."
+      }
+    },
+    {
+      "id": 42643,
+      "category": "Environmental",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Kyoto Basin Flooding Risk Management",
+      "subtitle": "Kamo River flood control under River Act",
+      "fullDescription": "Kyoto's basin geography makes it vulnerable to flash flooding when typhoons stall over Kinki. The Kamo River (鴨川) and Katsura River (桂川) are managed under the River Act (河川法) with flood control structures including the Kamo River weir system. Residents in designated flood risk zones must register in evacuation plans. The 2021 Kyoto flood insurance programme covers 85% of flood-prone district residents — one of Japan's highest participation rates.",
+      "penalty": "Development blocking natural flood channels: demolition orders; failure to evacuate during official warning: fines under Disaster Countermeasures Act",
+      "exceptions": ["Heritage structures in flood zones receive modified flood protection without displacement"],
+      "source": "https://www.pref.kyoto.jp/bousai/",
+      "sourceLabel": "Kyoto Prefecture — Flood Risk Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Kyoto's basin geography makes it vulnerable to flooding from which natural phenomenon?",
+        "options": ["Seasonal snowmelt from surrounding mountains", "Typhoons stalling over the Kinki region", "Tsunami from Osaka Bay via river channels", "Groundwater flooding from the Kyoto aquifer"],
+        "correct": 1,
+        "explanation": "Kyoto's enclosed basin geography concentrates rainfall when typhoons stall over the Kinki region — the Kamo and Katsura rivers can rise rapidly, threatening low-lying districts."
+      }
+    },
+    {
+      "id": 42644,
+      "category": "Education",
+      "severity": "medium",
+      "icon": "🎓",
+      "title": "Ritsumeikan Asia Pacific University — Kyoto Link",
+      "subtitle": "Ritsumeikan system bridges Kyoto and international campuses",
+      "fullDescription": "Ritsumeikan University, founded in Kyoto in 1900, operates a network including its international campus Ritsumeikan Asia Pacific University (APU) in Beppu. Under Japan's University Act, all Ritsumeikan campuses share accreditation through a single university corporation (学校法人). APU — with over 50% international students — is subject to immigration rules, academic freedom protections, and financial sustainability audits by the Ministry of Education. Kyoto's Ritsumeikan campus hosts Japan's largest repository of peace education research.",
+      "penalty": "University accreditation fraud: up to ¥1,000,000 fine + closure order; degree fraud: criminal fraud charges",
+      "exceptions": ["Research programmes may have different disclosure requirements from undergraduate courses"],
+      "source": "https://www.ritsumei.ac.jp/",
+      "sourceLabel": "Ritsumeikan University — Official Site",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of students at Ritsumeikan Asia Pacific University (APU) are international?",
+        "options": ["10%", "25%", "Over 50%", "Nearly 100%"],
+        "correct": 2,
+        "explanation": "APU (Ritsumeikan Asia Pacific University) in Beppu has over 50% international students — making it Japan's most internationally diverse university campus."
+      }
+    },
+    {
+      "id": 42645,
+      "category": "Criminal Law",
+      "severity": "medium",
+      "icon": "💊",
+      "title": "Stimulant Drug Enforcement — Kyoto University Context",
+      "subtitle": "Drug enforcement in Japan's academic capital",
+      "fullDescription": "Kyoto Prefecture Police's narcotics division enforces stimulant drug laws in the densely student-populated areas of Kyoto — particularly around Kyoto University (Yoshida Campus), Doshisha (Imadegawa), and Ritsumeikan (Kinugasa). Campus incidents involving stimulants (primarily methamphetamine and now MDMA) have prompted police-university cooperation programmes. Kyoto University's reputation for academic freedom extends to tolerance of unconventional student culture, but drug use receives no institutional protection.",
+      "penalty": "Methamphetamine possession: up to 10 years; MDMA possession: up to 3 years; trafficking: up to life (stimulants) or 7 years (MDMA)",
+      "exceptions": [],
+      "source": "https://www.police.pref.kyoto.jp/",
+      "sourceLabel": "Kyoto Prefectural Police — Narcotics Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What recreational drug has seen increased enforcement action at Kyoto university areas beyond traditional methamphetamine?",
+        "options": ["Cannabis", "MDMA (ecstasy)", "Cocaine", "LSD"],
+        "correct": 1,
+        "explanation": "MDMA use has grown among Japanese university students, prompting increased enforcement near Kyoto's university campuses — possession carries up to 3 years imprisonment."
+      }
+    },
+    {
+      "id": 42646,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🎪",
+      "title": "Kyoto Convention Bureau — Event Licensing",
+      "subtitle": "International conferences require city and police coordination",
+      "fullDescription": "Kyoto is Japan's premier international conference city (ranked by number of international meetings hosted). Large international events at venues including the Kyoto International Conference Centre (国立京都国際会館) require coordination with the Kyoto Convention Bureau, Fire Department, and Prefectural Police. Events with foreign government representatives trigger diplomatic protection protocols. The Conference Centre — Japan's first purpose-built international conference facility (1966) — is a Registered Cultural Property.",
+      "penalty": "Events exceeding capacity without fire safety clearance: closure orders; illegal commercial event at cultural venue: civil breach of contract",
+      "exceptions": ["Academic conferences with established city relationships have streamlined permitting"],
+      "source": "https://www.icckyoto.or.jp/",
+      "sourceLabel": "Kyoto International Conference Centre",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Kyoto International Conference Centre open as Japan's first dedicated international conference venue?",
+        "options": ["1954", "1960", "1966", "1972"],
+        "correct": 2,
+        "explanation": "Kyoto International Conference Centre opened in 1966 as Japan's first purpose-built international conference facility — hosting events including the 1997 Kyoto Protocol signing."
+      }
+    },
+    {
+      "id": 42647,
+      "category": "Heritage & Culture",
+      "severity": "high",
+      "icon": "⛩️",
+      "title": "Fushimi Inari Fox Messenger Statues Protection",
+      "subtitle": "Kitsune statues at shrines are religious property",
+      "fullDescription": "Fushimi Inari Taisha's thousands of stone fox (kitsune, 狐) messenger statues — positioned throughout its 10,000-torii mountain trail — are the private religious property of the shrine corporation. Touching, climbing, or moving the statues is prohibited. Vandalism has occurred from international tourists unfamiliar with their religious significance. The shrine has installed cameras and security patrols. Deliberate damage constitutes criminal property damage of religious property, which carries enhanced social stigma.",
+      "penalty": "Damage to shrine religious objects: criminal property damage up to 3 years + civil restoration cost; theft: up to 10 years",
+      "exceptions": ["Shrine priests performing ritual maintenance"],
+      "source": "https://inari.jp/",
+      "sourceLabel": "Fushimi Inari Taisha — Regulations",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What animal messenger is associated with Inari (稲荷) shrines like Fushimi Inari Taisha?",
+        "options": ["Dragon (龍)", "Crane (鶴)", "Fox (kitsune, 狐)", "Deer (鹿)"],
+        "correct": 2,
+        "explanation": "The fox (kitsune, 狐) is the divine messenger of Inari — the Shinto deity of rice, agriculture, and prosperity. Fushimi Inari's thousands of stone foxes represent messengers between the human and divine realms."
+      }
+    },
+    {
+      "id": 42648,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🌺",
+      "title": "Wisteria and Seasonal Garden Rules",
+      "subtitle": "Private gardens opened seasonally under visitor agreements",
+      "fullDescription": "Several famous Kyoto gardens — Byodoin (平等院) wisteria, Daikaku-ji (大覚寺) autumnal ponds, and various sub-temple gardens — open to public during specific seasons on a ticketed, limited-entry basis. Entry is governed by private property consent agreements. Photography for personal use is generally permitted but commercial photography requires written consent. Drones are universally prohibited. Touching plants, picking flowers, or entering restricted garden areas breaches these private entry agreements.",
+      "penalty": "Property damage to private garden (picking flowers, damaging trees): civil liability + potential criminal property damage; commercial photo without consent: copyright/contract breach",
+      "exceptions": ["Guided tours with pre-arranged commercial photography licences"],
+      "source": "https://www.byodoin.or.jp/",
+      "sourceLabel": "Byodoin Temple — Garden Entry Rules",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Byodoin (平等院) in Kyoto most famous for featuring on Japanese currency?",
+        "options": ["Its famous wisteria garden", "The Phoenix Hall (鳳凰堂) appearing on the ¥10 coin", "Its golden pavilion", "Its bamboo grove garden"],
+        "correct": 1,
+        "explanation": "Byodoin's Phoenix Hall (鳳凰堂) in Uji, Kyoto appears on Japan's ¥10 coin — making it one of the country's most recognised architectural landmarks."
+      }
+    },
+    {
+      "id": 42649,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "⚖️",
+      "title": "Kyoto Discrimination Prohibition Guidelines",
+      "subtitle": "Kyoto has strong local anti-discrimination framework",
+      "fullDescription": "Kyoto City has adopted a Hate Speech Countermeasures Ordinance (ヘイトスピーチ対策) following high-profile incidents in the Fushimi/Uji area targeting the Korean minority community. Kyoto City also published an anti-discrimination guidance framework covering service denial to foreigners, disability discrimination, and gender discrimination. While not all provisions carry direct criminal penalties, they give grounds for civil action and administrative investigation under national and local law frameworks.",
+      "penalty": "Hate speech with criminal elements (threats, assault): criminal charges; civil discrimination in service provision: civil tort liability; administrative guidance for systematic discrimination",
+      "exceptions": [],
+      "source": "https://www.city.kyoto.lg.jp/",
+      "sourceLabel": "Kyoto City — Hate Speech Countermeasures",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What community in Kyoto has been the target of hate speech incidents that prompted the city's anti-discrimination ordinance?",
+        "options": ["Chinese students", "Korean minority community (Zainichi Koreans)", "Foreign English teachers", "Western tourists"],
+        "correct": 1,
+        "explanation": "High-profile hate speech incidents targeting Kyoto's Zainichi Korean community — particularly around Uji City — prompted Kyoto to adopt its Hate Speech Countermeasures Ordinance."
+      }
+    },
+    {
+      "id": 42650,
+      "category": "Heritage & Culture",
+      "severity": "medium",
+      "icon": "🎎",
+      "title": "Kyoto Cultural Property Digital Archive Law",
+      "subtitle": "Digitalisation of cultural properties subject to copyright and access rules",
+      "fullDescription": "Japan's Cultural Property Protection Law was amended to facilitate digital archiving of cultural properties. Kyoto City and the national Agency for Cultural Affairs operate digital repositories of temple treasures, historical maps, and intangible heritage recordings. Under the Copyright Act, works over 70 years old whose authors are dead enter public domain, but modern photographs and 3D scans of cultural properties may be subject to new copyright claims. The Kyoto Institute of Technology's 3D scanning of heritage objects has required careful IP framework development.",
+      "penalty": "Unauthorised commercial use of copyrighted heritage documentation: up to 10 years imprisonment or ¥10,000,000 fine",
+      "exceptions": ["Non-commercial educational and research use of public domain heritage material"],
+      "source": "https://www.bunka.go.jp/",
+      "sourceLabel": "Agency for Cultural Affairs — Cultural Property Digital Archive",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long after an author's death do works enter the public domain in Japan?",
+        "options": ["50 years", "60 years", "70 years", "100 years"],
+        "correct": 2,
+        "explanation": "Japan extended its copyright term from 50 to 70 years post-author death in 2018, aligning with EU and US standards — affecting the public domain status of many historical cultural works."
+      }
+    }
+  ]
+}

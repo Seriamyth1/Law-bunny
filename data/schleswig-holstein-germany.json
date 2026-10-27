@@ -1,0 +1,1507 @@
+{
+  "country": "Schleswig-Holstein, Germany",
+  "slug": "schleswig-holstein-germany",
+  "laws": [
+    {
+      "id": 42276,
+      "category": "Constitutional Law",
+      "severity": "critical",
+      "icon": "⚖️",
+      "title": "Verfassung des Landes Schleswig-Holstein 1990",
+      "subtitle": "State constitution protecting Danish and Frisian minority rights",
+      "fullDescription": "Schleswig-Holstein's Verfassung (adopted 13 June 1990, amended multiple times) uniquely includes explicit protection for the Danish minority and Frisian people in Art. 5: 'Die Volksgruppen der dänischen Minderheit und der friesischen Volksgruppe sind zu schützen.' It establishes the Landesverfassungsgericht and a unicameral Landtag. The state was formed 1946 under British occupation from the former Prussian province.",
+      "penalty": "Constitutional violations reviewed by Landesverfassungsgericht SH; laws may be declared void",
+      "exceptions": ["Federal constitutional law takes precedence under Art. 31 GG"],
+      "source": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-VerfSHrahmen",
+      "sourceLabel": "Verfassung SH Art. 5",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which two minority groups does Schleswig-Holstein's constitution explicitly protect under Art. 5?",
+        "options": ["Sorbians and Roma", "Danish minority and Frisian people", "Polish minority and Danes", "Sinti and Frisians"],
+        "correct": 1,
+        "explanation": "Art. 5 of Schleswig-Holstein's constitution explicitly protects the Danish minority and the Frisian people, reflecting the state's unique border region identity."
+      }
+    },
+    {
+      "id": 42277,
+      "category": "Maritime Law",
+      "severity": "critical",
+      "icon": "⚓",
+      "title": "Nord-Ostsee-Kanal – WaStrG & UNCLOS",
+      "subtitle": "World's busiest artificial waterway under international maritime law",
+      "fullDescription": "The Kiel Canal (Nord-Ostsee-Kanal, NOK) is the world's most-used artificial waterway, with ~30,000 ship transits annually, connecting North Sea and Baltic Sea. As a federal waterway under WaStrG, it is managed by WSA Kiel-Holtenau. Under customary international law (Kiel Canal Case, PCIJ 1923), foreign ships have freedom of transit. Tolls apply under the NOK-Gebührenordnung.",
+      "penalty": "NOK regulation violations: fines under BinSchAufgG; unauthorized transit without pilot: maritime authority orders",
+      "exceptions": ["Vessels under 1,000 GRT may transit without mandatory pilot under NOK-LotsenVO"],
+      "source": "https://www.wsa-kiel-holtenau.wsv.de",
+      "sourceLabel": "WaStrG / NOK-Gebührenordnung / PCIJ 1923",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many ship transits does the Kiel Canal (NOK) handle annually?",
+        "options": ["5,000", "12,000", "30,000", "80,000"],
+        "correct": 2,
+        "explanation": "The Kiel Canal handles approximately 30,000 ship transits annually, making it the world's most-used artificial waterway by number of passages."
+      }
+    },
+    {
+      "id": 42278,
+      "category": "Minority Rights Law",
+      "severity": "high",
+      "icon": "🇩🇰",
+      "title": "Dänische Minderheit – Bonn-Kopenhagen Erklärungen 1955",
+      "subtitle": "Danish minority rights under bilateral declarations and state law",
+      "fullDescription": "The Bonn-Kopenhagen Declarations (March 1955) granted the Danish minority in Schleswig-Holstein and German minority in Denmark reciprocal cultural and linguistic rights. The SSW (Südschleswigscher Wählerverband) is the Danish minority party — the only German party legally exempt from the 5% electoral threshold under §3 LWG SH (Minderheitenpartei). ~50,000 persons identify as Danish minority.",
+      "penalty": "Discrimination against minority members: civil claims under AGG; hate speech: §130 StGB",
+      "exceptions": ["SSW exempt from 5% threshold in Landtag elections; threshold applies in Bundestag elections"],
+      "source": "https://www.bonn-kopenhagen.de",
+      "sourceLabel": "Bonn-Kopenhagen Erklärungen 1955 / §3 LWG SH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why is the SSW (Südschleswigscher Wählerverband) exempt from the 5% electoral threshold in Schleswig-Holstein?",
+        "options": ["It is a coalition of parties", "It is legally recognized as a national minority party", "It ran in coalition with SPD", "Historical grandfathering clause"],
+        "correct": 1,
+        "explanation": "The SSW is legally recognized as a national minority party under §3 LWG SH, exempting it from the 5% threshold — the only German party with this status based on the Bonn-Kopenhagen Declarations."
+      }
+    },
+    {
+      "id": 42279,
+      "category": "Environmental Law",
+      "severity": "critical",
+      "icon": "🌊",
+      "title": "Nationalpark Wattenmeer – UNESCO & BNatSchG",
+      "subtitle": "World's largest intertidal wetland system, UNESCO World Heritage",
+      "fullDescription": "Nationalpark Schleswig-Holsteinisches Wattenmeer (4,410 km²) is part of the trilateral Wadden Sea UNESCO World Heritage Site (2009, shared with Netherlands and Lower Saxony). Protected under BNatSchG §§20–36 and NWattMeerG SH. The park covers the entire Schleswig-Holstein North Sea coast. Shrimp fishing (Krabbenfischerei) is permitted in designated zones under strict quotas.",
+      "penalty": "Prohibited activities in core zones: fines up to €50,000; ship groundings causing damage: UNCLOS liability",
+      "exceptions": ["Traditional Krabbenfischerei permitted in buffer zones under NWattMeerG §10 annual quota system"],
+      "source": "https://www.wattenmeer-nationalpark.de",
+      "sourceLabel": "NWattMeerG SH / UNESCO WHC 2009",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year was the Wadden Sea inscribed as a UNESCO World Heritage Site?",
+        "options": ["1994", "2002", "2009", "2015"],
+        "correct": 2,
+        "explanation": "The Wadden Sea (including Schleswig-Holstein's section) was inscribed as a UNESCO World Heritage Site in 2009, shared between Germany (SH and Lower Saxony) and the Netherlands."
+      }
+    },
+    {
+      "id": 42280,
+      "category": "Maritime Law",
+      "severity": "high",
+      "icon": "🚢",
+      "title": "Hafen Kiel – SeeSchStrO & Hafenrecht",
+      "subtitle": "Kiel naval base and Baltic ferry port under maritime and port law",
+      "fullDescription": "Port of Kiel is Germany's most important naval base (Deutsche Marine, ~5,000 sailors) and a major Baltic cruise/ferry port (Scandlines, Stena Line to Sweden/Norway). Port operations under SeeSchStrO (Seeschifffahrtsstraßen-Ordnung) and LHafenG SH (Landeshafegesetz). The naval facilities are subject to military law and BGB for public-access areas.",
+      "penalty": "Unauthorized entry to naval restricted zones: StGB §109g (Sabotage); SeeSchStrO violations: maritime authority fines",
+      "exceptions": ["Public waterways through naval areas remain navigable under WaStrG right of passage"],
+      "source": "https://www.port-of-kiel.de",
+      "sourceLabel": "SeeSchStrO / LHafenG SH / WaStrG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Port of Kiel serves as Germany's most important base for which branch of the armed forces?",
+        "options": ["Luftwaffe (Air Force)", "Heer (Army)", "Marine (Navy)", "Streitkräftebasis"],
+        "correct": 2,
+        "explanation": "Kiel is Germany's primary naval base (Deutsche Marine), hosting approximately 5,000 naval personnel alongside its role as a major Baltic ferry and cruise port."
+      }
+    },
+    {
+      "id": 42281,
+      "category": "Agricultural Law",
+      "severity": "high",
+      "icon": "🐄",
+      "title": "Schweineproduktion SH – TierSchNutztV & Nitratrecht",
+      "subtitle": "Intensive pig farming in nitrate-sensitive North German Plain",
+      "fullDescription": "Schleswig-Holstein has ~1.5M pigs and is a major dairy state (Milchwirtschaft) with 330,000 dairy cows. Intensive livestock farming is regulated under TierSchNutztV and EU Nitrate Directive (91/676/EEC). The North German Plain (Geest) is a nitrate-sensitive zone. EU CAP direct payments: ~€380M/year for SH farmers.",
+      "penalty": "Nitrate regulation violations: fines up to €50,000; loss of EU direct payments",
+      "exceptions": ["Organic farms under EU 848/2018 have different fertilization rules and receive premium payments"],
+      "source": "https://www.schleswig-holstein.de/landwirtschaft",
+      "sourceLabel": "TierSchNutztV / Nitratrichtlinie 91/676",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many dairy cows does Schleswig-Holstein have?",
+        "options": ["33,000", "130,000", "330,000", "1.3M"],
+        "correct": 2,
+        "explanation": "Schleswig-Holstein has approximately 330,000 dairy cows, making it one of Germany's most important milk-producing states alongside Bavaria and Lower Saxony."
+      }
+    },
+    {
+      "id": 42282,
+      "category": "Education Law",
+      "severity": "medium",
+      "icon": "🎓",
+      "title": "Christian-Albrechts-Universität Kiel – HSG SH",
+      "subtitle": "Founded 1665, operating under state higher education law with 27,000 students",
+      "fullDescription": "Christian-Albrechts-Universität zu Kiel (CAU), founded 1665, has ~27,000 students across 8 faculties. It operates under the Hochschulgesetz Schleswig-Holstein (HSG SH). CAU hosts the GEOMAR Helmholtz Centre for Ocean Research Kiel (leading ocean science institution) and the Institut für Weltwirtschaft (IfW, Germany's leading economics research institute with the HWWI index).",
+      "penalty": "Degree fraud: up to 3 years under §132a StGB; unauthorized degree use: fines under HSG SH",
+      "exceptions": ["EU professionals may use their home-country title alongside German equivalents under 2005/36/EC"],
+      "source": "https://www.uni-kiel.de",
+      "sourceLabel": "HSG SH / CAU Kiel",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What globally significant ocean research institution is located at CAU Kiel?",
+        "options": ["Alfred Wegener Institute", "GEOMAR Helmholtz Centre for Ocean Research Kiel", "Hamburg Oceanographic Institute", "BSH (Bundesamt für Seeschifffahrt)"],
+        "correct": 1,
+        "explanation": "GEOMAR Helmholtz Centre for Ocean Research Kiel is one of the world's leading ocean science research institutions, based at CAU Kiel."
+      }
+    },
+    {
+      "id": 42283,
+      "category": "Energy Law",
+      "severity": "high",
+      "icon": "💨",
+      "title": "Windenergie SH – Windenergieplanung & EEG",
+      "subtitle": "Germany's leading wind energy state with 3,200 MW onshore capacity",
+      "fullDescription": "Schleswig-Holstein is Germany's leading onshore wind energy state per capita, with ~3,200 MW (1,300+ turbines) and additional offshore wind in North Sea and Baltic. The Windenergieplanung SH allocates Vorranggebiete (priority zones) under ROG and LPlG SH. Offshore wind farms (e.g., Butendiek, 288 MW) operate under WindSeeG. EEG feed-in tariffs and auctions apply.",
+      "penalty": "Wind turbine operation without BImSchG permit: immediate shutdown + fines up to €50,000",
+      "exceptions": ["Repowering existing turbines may use simplified BImSchG §16 modification procedure"],
+      "source": "https://www.schleswig-holstein.de/windenergie",
+      "sourceLabel": "EEG / BImSchG / WindSeeG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What law specifically governs offshore wind energy development in Germany?",
+        "options": ["EEG", "BImSchG", "WindSeeG (Windenergie-auf-See-Gesetz)", "EnWG §12"],
+        "correct": 2,
+        "explanation": "The WindSeeG (Windenergie-auf-See-Gesetz) specifically governs offshore wind energy development and site allocation in Germany's exclusive economic zone."
+      }
+    },
+    {
+      "id": 42284,
+      "category": "Electoral Law",
+      "severity": "medium",
+      "icon": "🗳️",
+      "title": "Landtag SH – 69 Sitze & SSW Minderheitenpartei",
+      "subtitle": "State parliament where minority party SSW enters without 5% threshold",
+      "fullDescription": "The Schleswig-Holstein Landtag has a minimum of 69 seats elected every 5 years under LWG SH. The 2022 election resulted in CDU winning 43.4% (under Daniel Günther), forming a single-party majority — rare in German state politics. SSW received 5.3% and entered the Landtag. The unique SSW threshold exemption has been in place since 1950.",
+      "penalty": "Electoral fraud: up to 5 years imprisonment under §107a StGB",
+      "exceptions": ["SSW exempt from 5% threshold as national minority party; Overhang mandates may increase seat count beyond 69"],
+      "source": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-WahlGSHrahmen",
+      "sourceLabel": "LWG SH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What remarkable electoral result did CDU achieve in the 2022 Schleswig-Holstein Landtag election?",
+        "options": ["CDU-SPD grand coalition", "CDU formed a single-party majority government", "CDU lost to SPD", "CDU entered Jamaica coalition"],
+        "correct": 1,
+        "explanation": "In the 2022 Schleswig-Holstein election, CDU under Minister-President Daniel Günther won 43.4% — enough to form a rare single-party majority government."
+      }
+    },
+    {
+      "id": 42285,
+      "category": "Marine Law",
+      "severity": "high",
+      "icon": "🐟",
+      "title": "Ostsee-Fischerei – EU CFP & Dorschmoratorium",
+      "subtitle": "Baltic cod fishing moratorium under EU Common Fisheries Policy",
+      "fullDescription": "The EU Common Fisheries Policy (CFP, EU 1380/2013) governs Baltic Sea fishing from Schleswig-Holstein ports (Kiel, Flensburg, Heiligenhafen). Baltic cod (Dorsch) populations collapsed; EU Commission imposed a total allowable catch (TAC) near-zero since 2019. Herring quotas also drastically reduced. ~500 professional fishing vessels operate from SH ports under FischG SH.",
+      "penalty": "Quota violations: heavy fines + license revocation under §§27-30 Seefischeigesetz; criminal prosecution for systematic violations",
+      "exceptions": ["Subsistence fishing under 10 kg/day for personal consumption exempt from commercial quota rules"],
+      "source": "https://ec.europa.eu/fisheries/cfp",
+      "sourceLabel": "EU CFP 1380/2013 / SeeFischG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What happened to EU Baltic cod (Dorsch) total allowable catches (TAC) from 2019 onward?",
+        "options": ["Increased by 50%", "Remained stable", "Reduced to near-zero due to population collapse", "Eliminated all restrictions"],
+        "correct": 2,
+        "explanation": "Baltic cod populations collapsed due to overfishing and climate change, leading the EU Commission to impose near-zero Total Allowable Catches since 2019."
+      }
+    },
+    {
+      "id": 42286,
+      "category": "Data Protection Law",
+      "severity": "high",
+      "icon": "🔒",
+      "title": "ULD Schleswig-Holstein – Unabhängiges Landeszentrum für Datenschutz",
+      "subtitle": "Pioneer data protection authority — first German ePrivacy enforcer",
+      "fullDescription": "The Unabhängiges Landeszentrum für Datenschutz (ULD) Schleswig-Holstein was historically Germany's most active and innovative data protection authority, pioneering enforcement of Facebook Like buttons (social plugins) as privacy violations (2011) and issuing Germany's first GDPR fines. The ULD operates under LDSG SH and GDPR (EU 2016/679).",
+      "penalty": "GDPR violations: up to €20M or 4% global turnover under Art. 83(5) GDPR",
+      "exceptions": ["Journalistic processing under §9 LDSG SH with reduced GDPR obligations"],
+      "source": "https://www.datenschutzzentrum.de",
+      "sourceLabel": "LDSG SH / GDPR / ULD",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What pioneering privacy enforcement action did ULD Schleswig-Holstein take in 2011?",
+        "options": ["First GDPR fine in Germany", "Declared Facebook Like buttons on German websites a privacy violation", "Banned Google Analytics", "Required cookie consent for all websites"],
+        "correct": 1,
+        "explanation": "ULD Schleswig-Holstein declared in 2011 that embedding Facebook Like buttons on German websites violated privacy law, one of the first regulatory actions against social media tracking in Europe."
+      }
+    },
+    {
+      "id": 42287,
+      "category": "Maritime Law",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Küstenschutz SH – Sturmflutschutz & WHG",
+      "subtitle": "Storm surge protection for 1,100 km of coastline under water law",
+      "fullDescription": "Schleswig-Holstein manages 1,100 km of coastline (North Sea and Baltic) under the LWG SH (Landeswassergesetz) and WHG. Storm surge protection (Küstenschutzwerke) includes 600+ km of dikes (Deiche). The 1962 Hamburg Flood and 2020 storm surges drive €30M/year dike maintenance investment. Climate change is accelerating sea level rise (~4mm/year North Sea).",
+      "penalty": "Unauthorized dike construction or modification: fines up to €100,000 under §103 LWG SH",
+      "exceptions": ["Emergency dike repairs during storm surge may proceed without permit under LWG SH §67"],
+      "source": "https://www.schleswig-holstein.de/kuestenschutz",
+      "sourceLabel": "LWG SH / WHG §67",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "At what rate is sea level rising along Schleswig-Holstein's North Sea coast due to climate change?",
+        "options": ["1mm/year", "2mm/year", "4mm/year", "10mm/year"],
+        "correct": 2,
+        "explanation": "Sea level is rising approximately 4mm per year along Schleswig-Holstein's North Sea coast, threatening low-lying Marsch areas and requiring continuous dike reinforcement."
+      }
+    },
+    {
+      "id": 42288,
+      "category": "Transport Law",
+      "severity": "high",
+      "icon": "🚂",
+      "title": "Femern Bælt Tunnel – PlanfeststellungsG & EU TEN-T",
+      "subtitle": "World's longest immersed tunnel under construction linking Germany and Denmark",
+      "fullDescription": "The Fehmarnbelt Fixed Link (Femern Bælt Tunnel) is an 18 km immersed rail/road tunnel between Puttgarden (SH) and Rødby (Denmark), the world's longest of its type. German Planfeststellung approved 2021 after lengthy environmental litigation. Cost: ~€10bn. EU TEN-T corridor funding supports the project. Completion expected 2029. Governed by German-Danish State Treaty 2008.",
+      "penalty": "Unauthorized construction work in protected Fehmarn Belt zone: environmental injunctions; planning violations: BVerwG review",
+      "exceptions": ["Approved marine protected area crossing under §34 BNatSchG Ausnahme after compensatory measures"],
+      "source": "https://www.femern.com/de",
+      "sourceLabel": "Staatsvertrag 2008 / PlanfG / TEN-T",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What type of tunnel is the Fehmarnbelt Fixed Link, making it the world's longest of its kind?",
+        "options": ["Bored tunnel", "Cut-and-cover tunnel", "Immersed tube tunnel", "Suspension bridge with tunnel approaches"],
+        "correct": 2,
+        "explanation": "The 18 km Fehmarnbelt Fixed Link is an immersed tube tunnel (Absenktunnel), making it the world's longest immersed tunnel upon completion around 2029."
+      }
+    },
+    {
+      "id": 42289,
+      "category": "Healthcare Law",
+      "severity": "high",
+      "icon": "🏥",
+      "title": "KHSG SH – Krankenhausgesetz 83 Kliniken",
+      "subtitle": "Hospital planning law for Schleswig-Holstein's healthcare network",
+      "fullDescription": "The Krankenhausgesetz Schleswig-Holstein (KHSG SH) governs 83 hospitals with ~14,000 beds. UKSH (Universitätsklinikum Schleswig-Holstein) with campuses in Kiel and Lübeck is Germany's second-largest university hospital by area (~12,000 employees). Rural hospital consolidation is ongoing due to demographic and financial pressures.",
+      "penalty": "Unauthorized hospital operation: criminal prosecution under §327 StGB analog; immediate closure orders",
+      "exceptions": ["Private day surgical clinics under §30 GewO operate with simplified licensing vs full hospital requirements"],
+      "source": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-KHGSHrahmen",
+      "sourceLabel": "KHSG SH / SGB V",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "UKSH (Universitätsklinikum Schleswig-Holstein) is notable for what distinction?",
+        "options": ["Germany's oldest university hospital", "Germany's second-largest university hospital by area with two campuses", "Germany's best-ranked hospital", "Europe's largest cancer center"],
+        "correct": 1,
+        "explanation": "UKSH is Germany's second-largest university hospital by area, with campuses in both Kiel and Lübeck, employing approximately 12,000 people."
+      }
+    },
+    {
+      "id": 42290,
+      "category": "Cultural Heritage Law",
+      "severity": "high",
+      "icon": "🏛️",
+      "title": "Lübeck Hansestadtrecht – UNESCO Welterbe Altstadt 1987",
+      "subtitle": "Hanseatic city center protected as UNESCO World Heritage",
+      "fullDescription": "Lübeck's historic Altstadt (old town), surrounded by water on all sides, was inscribed UNESCO World Heritage in 1987 — the first northern European city to receive the designation. Protected under DSchG SH. The city was headquarters of the Hanseatic League (14th–17th century). ~1,300 historic buildings include the Holstentor (1478) and Marienkirche. Thomas Mann was born in Lübeck (1875).",
+      "penalty": "Unauthorized alterations to UNESCO zone: fines up to €500,000; §304 StGB for willful damage",
+      "exceptions": ["Routine maintenance of historic facades using traditional materials exempt from full permit procedures"],
+      "source": "https://whc.unesco.org/en/list/272",
+      "sourceLabel": "UNESCO WHC 1987 / DSchG SH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year was Lübeck's Altstadt inscribed as UNESCO World Heritage?",
+        "options": ["1981", "1987", "1994", "2001"],
+        "correct": 1,
+        "explanation": "Lübeck's Altstadt was inscribed UNESCO World Heritage in 1987, making it the first northern European city to receive the designation."
+      }
+    },
+    {
+      "id": 42291,
+      "category": "Tax Law",
+      "severity": "medium",
+      "icon": "💰",
+      "title": "Grunderwerbsteuer SH – 6.5%",
+      "subtitle": "Highest German real estate transfer tax, tied with other states",
+      "fullDescription": "Schleswig-Holstein sets its Grunderwerbsteuer at 6.5% under GrEStG §11 — tied for the highest in Germany alongside Brandenburg, North Rhine-Westphalia, Saarland, and Thuringia. The high rate reflects fiscal pressure on a state with moderate debt. Property prices in coastal tourist areas (Sylt, Föhr, Helgoland) have risen dramatically, with Sylt among Germany's most expensive real estate.",
+      "penalty": "Tax evasion on property transfers: surcharges + interest + criminal prosecution under §370 AO",
+      "exceptions": ["Family transfers (spouse, children) exempt under §3 GrEStG; certain company restructurings under §6a GrEStG"],
+      "source": "https://www.gesetze-rechtsprechung.sh.juris.de",
+      "sourceLabel": "GrEStG §11 / SH-GrEStVO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Schleswig-Holstein's Grunderwerbsteuer rate, tied for Germany's highest?",
+        "options": ["5%", "5.5%", "6%", "6.5%"],
+        "correct": 3,
+        "explanation": "Schleswig-Holstein's Grunderwerbsteuer is 6.5%, tied with Brandenburg, NRW, Saarland, and Thuringia as Germany's highest real estate transfer tax rate."
+      }
+    },
+    {
+      "id": 42292,
+      "category": "Tourism Law",
+      "severity": "medium",
+      "icon": "🏝️",
+      "title": "Sylt – Kurtaxe & Baurecht Naturschutz",
+      "subtitle": "Germany's most exclusive island under resort tax and development restrictions",
+      "fullDescription": "Sylt (island, 99 km²) is Germany's most expensive real estate location (avg. €15,000+/m² in Kampen) and a protected North Sea island. Kurtaxe (resort tax, €3.50–5/day) applies under SH Kurortgesetz to 4M+ annual visitors. Strict BauNVO development restrictions protect Sylt's landscape. Wattenmeer National Park surrounds the island. The island faces erosion challenges from sea level rise.",
+      "penalty": "Unauthorized construction on Sylt: BauGB §35 violations; fines up to €500,000 + demolition",
+      "exceptions": ["Erosion control structures may be built in Wattenmeer buffer zone with AWaStrG permit"],
+      "source": "https://www.sylt.de",
+      "sourceLabel": "SH Kurortgesetz / BauNVO / NWattMeerG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately what is the average per-square-meter property price in Kampen (Sylt), Germany's most expensive location?",
+        "options": ["€3,000/m²", "€7,000/m²", "€15,000+/m²", "€50,000/m²"],
+        "correct": 2,
+        "explanation": "Property in Kampen on Sylt exceeds €15,000/m² on average, making it Germany's most expensive real estate market — driven by luxury holiday home demand."
+      }
+    },
+    {
+      "id": 42293,
+      "category": "Maritime Law",
+      "severity": "high",
+      "icon": "🛢️",
+      "title": "Brunsbüttel Elbe – ChemCoast Park & REACH",
+      "subtitle": "Chemical port complex at Elbe mouth under REACH and port safety law",
+      "fullDescription": "Brunsbüttel hosts Germany's most important chemical port (ChemCoast Park), the entry point to Hamburg via the Elbe. Tank farms, LNG terminal (planned), and chemical plants operate under REACH, SEVESO III, and BImSchG. Brunsbüttel is the western entrance to the Nord-Ostsee-Kanal. The planned LNG import terminal (FSRU) was fast-tracked under LNG-BeschleunigungsG 2022.",
+      "penalty": "SEVESO III violations: criminal prosecution under §327 StGB; spill liability under WHG §89",
+      "exceptions": ["Emergency vessel berthing at Brunsbüttel for safety reasons exempt from normal port fee schedules"],
+      "source": "https://www.chemcoastpark.de",
+      "sourceLabel": "REACH / SEVESO III / LNG-BeschleunigungsG 2022",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What 2022 law accelerated LNG terminal approvals at German ports including Brunsbüttel?",
+        "options": ["EnWG Amendment", "LNG-BeschleunigungsG 2022", "GasNZV", "BEHG"],
+        "correct": 1,
+        "explanation": "The LNG-BeschleunigungsG 2022 (LNG Acceleration Act) was enacted to fast-track LNG import terminal approvals at German ports including Brunsbüttel to reduce dependence on Russian gas."
+      }
+    },
+    {
+      "id": 42294,
+      "category": "Broadcasting Law",
+      "severity": "medium",
+      "icon": "📻",
+      "title": "NDR Schleswig-Holstein – Rundfunkstaatsvertrag",
+      "subtitle": "NDR serves Schleswig-Holstein with Hamburg, Lower Saxony, Mecklenburg",
+      "fullDescription": "Schleswig-Holstein is served by NDR (Norddeutscher Rundfunk), the joint ARD broadcaster for four northern states (SH, Hamburg, Lower Saxony, Mecklenburg-Vorpommern). NDR's annual budget is ~€1.1bn. The MLM (Medienanstalt Hamburg/Schleswig-Holstein) regulates private broadcasters under MStV 2020. NDR employs ~4,000 in the region.",
+      "penalty": "Rundfunkbeitrag evasion: enforcement proceedings; up to €1,000 fine for persistent refusal",
+      "exceptions": ["Second homes exempt from additional Rundfunkbeitrag — one per household principle applies"],
+      "source": "https://www.ndr.de",
+      "sourceLabel": "NDR-Staatsvertrag / MStV 2020",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which four states share NDR as their joint public broadcaster?",
+        "options": ["SH, Berlin, Hamburg, Bremen", "SH, Hamburg, Lower Saxony, Mecklenburg-Vorpommern", "SH, Bremen, Hamburg, Brandenburg", "SH, Lower Saxony, Hamburg, Thuringia"],
+        "correct": 1,
+        "explanation": "NDR (Norddeutscher Rundfunk) serves Schleswig-Holstein, Hamburg, Lower Saxony, and Mecklenburg-Vorpommern as their joint ARD public broadcaster."
+      }
+    },
+    {
+      "id": 42295,
+      "category": "Labor Law",
+      "severity": "medium",
+      "icon": "⚙️",
+      "title": "Airbus Rendsburg-Eckernförde – BetrVG Luft- und Raumfahrt",
+      "subtitle": "Airbus helicopter and aerospace facilities under works council law",
+      "fullDescription": "Airbus Helicopters operates in Donauwörth but Airbus has aerospace maintenance facilities in Schleswig-Holstein. More significantly, Lufthansa Technik and Thales have avionics operations at Kiel Airport. SH aerospace sector employs ~3,500. All subject to BetrVG works councils and IG Metall collective agreements for aerospace sector (Metallindustrie-Tarifvertrag SH).",
+      "penalty": "BetrVG violations: fines up to €10,000 per offense; collective agreement breaches: labor court damages",
+      "exceptions": ["Management board members excluded from BetrVG works council protections"],
+      "source": "https://www.igmetall-kiel.de",
+      "sourceLabel": "BetrVG / IG Metall Tarifvertrag Metall SH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which trade union represents aerospace and metalworking employees in Schleswig-Holstein?",
+        "options": ["ver.di", "IG BCE", "IG Metall", "Gewerkschaft der Flugsicherung"],
+        "correct": 2,
+        "explanation": "IG Metall represents metalworking and aerospace employees in Schleswig-Holstein, negotiating collective agreements for the sector including Airbus facilities."
+      }
+    },
+    {
+      "id": 42296,
+      "category": "Police Law",
+      "severity": "high",
+      "icon": "👮",
+      "title": "LVwG SH – Polizeirecht & Grenzpolizei Dänemark",
+      "subtitle": "Police law at Germany's only land border with an EU neighbor",
+      "fullDescription": "The Landesverwaltungsgesetz Schleswig-Holstein (LVwG SH) includes police powers for SH's ~9,000 officers. Uniquely, SH shares Germany's only EU internal land border with Denmark. Post-2015 migration crisis, temporary border controls were reintroduced at the Danish border under Schengen Art. 25-27 (exceptional circumstances). BPol (Bundespolizei) manages border points; SH Polizei handles interior.",
+      "penalty": "Border crossing without authorization at restricted points: fines; unauthorized entry: AufenthG §14",
+      "exceptions": ["Schengen free movement normally applies at Germany-Denmark border; temporary controls legally limited to 6 months"],
+      "source": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-VwGSHrahmen",
+      "sourceLabel": "LVwG SH / Schengen Art. 25-27",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "With which country does Schleswig-Holstein share Germany's only EU internal land border?",
+        "options": ["Netherlands", "Belgium", "Denmark", "Poland"],
+        "correct": 2,
+        "explanation": "Schleswig-Holstein shares Germany's only EU internal land border with Denmark, making it unique in managing Schengen border control issues."
+      }
+    },
+    {
+      "id": 42297,
+      "category": "Nature Law",
+      "severity": "high",
+      "icon": "🦭",
+      "title": "Seehundschutz – §44 BNatSchG & Wattenmeer",
+      "subtitle": "Harbor seal protection in the Wadden Sea National Park",
+      "fullDescription": "The Wadden Sea hosts Europe's largest harbor seal (Seehund) population (~7,500 in SH) and grey seal colonies. Seals are strictly protected under §44 BNatSchG and EU Habitats Directive (FFH Annex II). The 1988 phocine distemper virus killed 18,000+ seals in the Wadden Sea. Seal watching is regulated with minimum distances (200m by boat) under NWattMeerG §10.",
+      "penalty": "Disturbing or approaching seals below 200m by boat: fines up to €10,000; killing seals: up to 5 years under §69 BNatSchG",
+      "exceptions": ["Veterinary rescue of sick or injured seals by authorized stations (e.g., Seehundstation Friedrichskoog) permitted"],
+      "source": "https://www.wattenmeer-nationalpark.de/schutz/seehunde",
+      "sourceLabel": "§44 BNatSchG / FFH Annex II / NWattMeerG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the minimum approach distance for boats to harbor seals in the Wadden Sea National Park?",
+        "options": ["50m", "100m", "200m", "500m"],
+        "correct": 2,
+        "explanation": "Boats must maintain a minimum 200m distance from harbor seals in the Wadden Sea National Park under NWattMeerG regulations to avoid disturbing resting and pupping seals."
+      }
+    },
+    {
+      "id": 42298,
+      "category": "Housing Law",
+      "severity": "medium",
+      "icon": "🏠",
+      "title": "Mietpreisbremse Kiel – BGB §556d Mietrecht",
+      "subtitle": "Rent brake applies in Kiel and other SH tight housing markets",
+      "fullDescription": "Kiel, Lübeck, and Flensburg were designated tight housing markets (angespannte Wohnungsmärkte) under BGB §556d Mietpreisbremse since 2015. New rents may not exceed 10% above local Mietspiegel. University cities (Kiel: 30,000+ students, Lübeck: 15,000+) face structural housing demand. SH provides social housing subsidies through IB.SH (Investitionsbank SH).",
+      "penalty": "Excess rents must be refunded retroactively upon tenant claim; landlords may not retaliate under §569 Abs. 3 BGB",
+      "exceptions": ["New construction and substantially modernized apartments exempt under §556f BGB"],
+      "source": "https://www.gesetze-im-internet.de/bgb/__556d.html",
+      "sourceLabel": "BGB §556d / SH-MietPreisbremsenVO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under Germany's Mietpreisbremse, new rents may not exceed the local Mietspiegel by more than what percentage?",
+        "options": ["5%", "10%", "20%", "30%"],
+        "correct": 1,
+        "explanation": "The Mietpreisbremse (BGB §556d) caps new rental agreements at 10% above the local Mietspiegel (rent index) in designated tight housing markets."
+      }
+    },
+    {
+      "id": 42299,
+      "category": "Food Law",
+      "severity": "medium",
+      "icon": "🥛",
+      "title": "Schleswig-Holsteinische Milchwirtschaft – LFGB & EU Hygienerecht",
+      "subtitle": "Dairy law in Germany's leading per-capita milk-producing state",
+      "fullDescription": "Schleswig-Holstein produces ~4.5bn litres of milk annually, the highest per capita of any German state. Dairy operations are regulated under LFGB (Lebensmittel- und Futtermittelgesetzbuch), EU Hygiene Regulation 852/2004, and Milchhygiene-Verordnung. Major processors include Arla Foods and Nestlé (Biessenhofen). Raw milk (Rohmilch) direct sales permitted under strict controls.",
+      "penalty": "Milk hygiene violations: immediate sales prohibition + fines up to €50,000 under LFGB §59",
+      "exceptions": ["Farm direct raw milk sales permitted with warning label 'Rohmilch — vor dem Genuss abkochen' under TierLMHV §17"],
+      "source": "https://www.schleswig-holstein.de/milchwirtschaft",
+      "sourceLabel": "LFGB / EU 852/2004 / MilchhygieneVO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how much milk does Schleswig-Holstein produce annually?",
+        "options": ["450M litres", "1.5bn litres", "4.5bn litres", "10bn litres"],
+        "correct": 2,
+        "explanation": "Schleswig-Holstein produces approximately 4.5 billion litres of milk annually, the highest per capita of any German state."
+      }
+    },
+    {
+      "id": 42300,
+      "category": "Commercial Law",
+      "severity": "medium",
+      "icon": "🏪",
+      "title": "Ladenöffnungsgesetz SH – 4 Sonntagsöffnungen",
+      "subtitle": "Shop opening law with 4 annual trading Sundays",
+      "fullDescription": "Schleswig-Holstein's Ladenöffnungsgesetz (LÖG SH) permits retail opening on 4 Sundays per year, consistent with other northern states. Extended weekday hours are unrestricted (24-hour trading permitted Mon–Sat). Tourist areas (Sylt, Travemünde, Föhr) may apply for additional openings under Tourismusklausel. Workers protected by ArbZG Sunday premium pay.",
+      "penalty": "Unauthorized Sunday opening: fines up to €25,000 per violation under §9 LÖG SH",
+      "exceptions": ["Gas stations, pharmacies, florists, bakeries exempt from Sunday restrictions; airport retail operates under special LuftVG regime"],
+      "source": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-LadÖffGSHrahmen",
+      "sourceLabel": "LÖG SH / ArbZG §9",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What special exemption does Schleswig-Holstein's LÖG provide for tourist destination areas?",
+        "options": ["Unlimited Sunday opening in tourist zones", "Additional Sunday openings under Tourismusklausel", "Extended hours until midnight", "No restrictions in coastal municipalities"],
+        "correct": 1,
+        "explanation": "Tourist areas in Schleswig-Holstein may apply for additional Sunday opening permissions under the Tourismusklausel in LÖG SH beyond the standard 4 Sundays."
+      }
+    },
+    {
+      "id": 42301,
+      "category": "Social Law",
+      "severity": "high",
+      "icon": "👶",
+      "title": "KiTaG SH – Kindertagesbetreuungsgesetz",
+      "subtitle": "Childcare law with fee reform since 2020",
+      "fullDescription": "The Kindertagesbetreuungsgesetz Schleswig-Holstein (KiTaG SH) governs ~2,100 Kitas serving 120,000+ children. Saxony-Holstein reformed the fee structure in 2020, introducing income-based sliding scales capped at €125/month for the first child. Under-3 coverage rate: ~35% (below GDR-state averages). The state subsidy for Kita operations exceeds €700M annually.",
+      "penalty": "Unlicensed Kita operation: immediate closure + fines up to €10,000 under §28 KiTaG SH",
+      "exceptions": ["Workplace crèches meeting KJHG standards may operate under simplified KiTaG SH provisions"],
+      "source": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-KiTaGSHrahmen",
+      "sourceLabel": "KiTaG SH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum monthly Kita fee for the first child under Schleswig-Holstein's 2020 fee reform?",
+        "options": ["€50", "€125", "€250", "€450"],
+        "correct": 1,
+        "explanation": "Schleswig-Holstein's 2020 KiTaG reform introduced income-based sliding-scale fees capped at €125/month for the first child, making childcare more affordable."
+      }
+    },
+    {
+      "id": 42302,
+      "category": "Environmental Law",
+      "severity": "medium",
+      "icon": "🌳",
+      "title": "Waldgesetz SH – 10% Waldanteil Aufforstungsprogramm",
+      "subtitle": "Forest law in Germany's least forested state",
+      "fullDescription": "With only 10% forest cover (160,000 ha), Schleswig-Holstein is Germany's least forested state after Hamburg. Waldgesetz SH mandates reforestation and prohibits net deforestation. The Landesforsten SH manages 50,000 ha of state forest. An Aufforstungsprogramm targets increasing forest cover to 12% by 2035. Wind-thrown trees from 2017/2018 storms required emergency salvage logging.",
+      "penalty": "Unauthorized deforestation: fines up to €50,000 + mandatory reforestation at double the cleared area",
+      "exceptions": ["Windthrow salvage logging may proceed without full permit under emergency provisions"],
+      "source": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-WaldGSHrahmen",
+      "sourceLabel": "WaldG SH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Schleswig-Holstein is covered by forest — Germany's lowest?",
+        "options": ["5%", "10%", "18%", "25%"],
+        "correct": 1,
+        "explanation": "Only about 10% of Schleswig-Holstein is forested, making it Germany's least wooded state (excluding city-states), with an active afforestation program targeting 12% by 2035."
+      }
+    },
+    {
+      "id": 42303,
+      "category": "Finance Law",
+      "severity": "high",
+      "icon": "🏦",
+      "title": "HSH Nordbank Abwicklung – KWG & Bankenabwicklung",
+      "subtitle": "€6bn taxpayer-funded rescue of failed Landesbank",
+      "fullDescription": "HSH Nordbank, the joint Landesbank of Hamburg and Schleswig-Holstein, collapsed under €5bn+ bad loans (shipping finance) and required €6bn in state guarantees (2008–2013). Sold to private equity in 2018 for €1 and renamed Hamburg Commercial Bank. Winding down under BRRD (EU 2014/59) and KWG bank resolution rules. Germany's most expensive state bank rescue per inhabitant.",
+      "penalty": "Bank directors: personal liability under §93 AktG; BaFin revocation of banking license",
+      "exceptions": ["State guarantee schemes approved by EU Commission under state aid rules as exceptional crisis measures"],
+      "source": "https://www.hcob-bank.de",
+      "sourceLabel": "KWG / BRRD EU 2014/59 / EU Beihilferecht",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "For how much was the failed HSH Nordbank (Hamburg/SH Landesbank) sold to private equity in 2018?",
+        "options": ["€100M", "€500M", "€1", "€1bn"],
+        "correct": 2,
+        "explanation": "HSH Nordbank was sold for a symbolic €1 to private equity investors in 2018, renamed Hamburg Commercial Bank, after requiring €6bn in state guarantees from Hamburg and Schleswig-Holstein taxpayers."
+      }
+    },
+    {
+      "id": 42304,
+      "category": "Heritage Law",
+      "severity": "medium",
+      "icon": "🏰",
+      "title": "Schloss Gottorf – Landesmuseum SH & DSchG",
+      "subtitle": "Schleswig-Holstein State Museum in ducal palace",
+      "fullDescription": "Schloss Gottorf (Schleswig) houses the Schleswig-Holstein State Museum (Kunstmuseum) and Archaeological Museum. It is protected under DSchG SH. The Gottorf complex holds the world-famous Nydam boat (4th century AD, one of the oldest Scandinavian plank-built boats) and Haithabu Viking finds. Operation under SH Kulturgesetz with ~€10M annual state subsidy.",
+      "penalty": "Theft from state museums: enhanced penalties under §243 StGB; monument violations: fines under DSchG SH",
+      "exceptions": ["Public park areas of Schloss Gottorf open free of charge under SH Kulturgesetz"],
+      "source": "https://www.schloss-gottorf.de",
+      "sourceLabel": "DSchG SH / SH Kulturgesetz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What famous ancient vessel is displayed at Schloss Gottorf's Archaeological Museum?",
+        "options": ["Vasa warship replica", "Nydam boat (4th century AD Scandinavian plank-built boat)", "Bremen Cog (medieval trading vessel)", "Bismarck anchor"],
+        "correct": 1,
+        "explanation": "The Nydam boat (4th century AD), one of the oldest Scandinavian plank-built boats ever discovered, is the centerpiece of Schloss Gottorf's Archaeological Museum."
+      }
+    },
+    {
+      "id": 42305,
+      "category": "Minority Law",
+      "severity": "medium",
+      "icon": "🌬️",
+      "title": "Friesische Sprache – Europäische Charta & BMinSprachG",
+      "subtitle": "North Frisian minority language protected under European Charter",
+      "fullDescription": "North Frisian (Nordfriesisch) — spoken by ~8,000 people on the North Frisian islands and coast — is a protected regional or minority language under the European Charter for Regional or Minority Languages (ECRML, ratified by Germany 1998). Schleswig-Holstein supports Frisian language education (Friisk Amt), bilingual signage, and cultural programs. Frisian competes with Low German (Plattdüütsch) for regional language status.",
+      "penalty": "No direct criminal penalties for language discrimination; AGG and general anti-discrimination law apply",
+      "exceptions": ["Frisian medium schools receive additional state support under SH education law without standard class size requirements"],
+      "source": "https://www.schleswig-holstein.de/friesisch",
+      "sourceLabel": "ECRML 1998 / SH Schulgesetz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many people speak North Frisian (Nordfriesisch) today?",
+        "options": ["800", "8,000", "80,000", "800,000"],
+        "correct": 1,
+        "explanation": "Approximately 8,000 people speak North Frisian (Nordfriesisch) on the North Frisian islands and coast of Schleswig-Holstein, making it an endangered but legally protected minority language."
+      }
+    },
+    {
+      "id": 42306,
+      "category": "Animal Law",
+      "severity": "high",
+      "icon": "🐔",
+      "title": "Geflügelhaltung SH – H5N1 Vogelgrippe & TierSchG",
+      "subtitle": "Poultry farming and avian influenza containment law",
+      "fullDescription": "Schleswig-Holstein's proximity to migratory bird routes on the Wadden Sea creates endemic Vogelgrippe (H5N1) risk. TierGesG (Tiergesundheitsgesetz) and Geflügelpest-Verordnung mandate reporting, quarantine zones, and culling. The state has 5M+ commercial poultry, requiring periodic Stallpflicht (indoor confinement orders) during autumn migration. EU Regulation 2016/429 (Animal Health Law) governs notifiable disease management.",
+      "penalty": "Failure to report notifiable poultry disease: criminal prosecution under §77 TierGesG; non-compliance with culling orders: fines up to €25,000",
+      "exceptions": ["Small-scale backyard poultry (<50 birds) subject to simplified reporting requirements"],
+      "source": "https://www.gesetze-im-internet.de/tiergesg/",
+      "sourceLabel": "TierGesG / GeflügelPestVO / EU 2016/429",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What measure do SH authorities mandate for commercial poultry during autumn bird migration in H5N1 risk periods?",
+        "options": ["Vaccination of all flocks", "Stallpflicht (mandatory indoor confinement)", "Culling of all outdoor flocks", "Installation of bird nets"],
+        "correct": 1,
+        "explanation": "SH authorities issue Stallpflicht (mandatory indoor confinement orders) for commercial poultry during autumn migration seasons when migratory birds passing through the Wadden Sea pose H5N1 infection risk."
+      }
+    },
+    {
+      "id": 42307,
+      "category": "Administrative Law",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Kommunalrecht SH – Gemeindeordnung 11 Kreise",
+      "subtitle": "Municipal law for Schleswig-Holstein's 1,100+ municipalities",
+      "fullDescription": "The Gemeindeordnung Schleswig-Holstein (GO SH) governs ~1,100 municipalities organized into 11 Landkreise plus 4 independent cities (Kiel, Lübeck, Flensburg, Neumünster). Amt-Gemeinden (administrative associations) manage shared services for small communities. Bürgerbegehren (citizens' initiatives) and Bürgerentscheid (referenda) permitted for local issues under §16g GO SH.",
+      "penalty": "Municipal budget violations: Kommunalaufsicht intervention; Bürgermeister personal liability for gross negligence",
+      "exceptions": ["Municipalities under 1,000 may form Ämter with shared administration and reduced standalone governance requirements"],
+      "source": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-GOSHrahmen",
+      "sourceLabel": "GO SH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many Landkreise does Schleswig-Holstein have, alongside 4 independent cities?",
+        "options": ["6", "8", "11", "15"],
+        "correct": 2,
+        "explanation": "Schleswig-Holstein has 11 Landkreise plus 4 independent cities (kreisfreie Städte: Kiel, Lübeck, Flensburg, Neumünster)."
+      }
+    },
+    {
+      "id": 42308,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "⚖️",
+      "title": "OLG Schleswig – §120 GVG Schifffahrtsrecht",
+      "subtitle": "Schleswig's highest court with maritime and state security jurisdiction",
+      "fullDescription": "Oberlandesgericht (OLG) Schleswig serves as Schleswig-Holstein's highest appellate court. Under §120 GVG, it has first-instance jurisdiction over terrorism and state security crimes. Importantly, OLG Schleswig handled the extradition case of Carles Puigdemont (Catalan independence leader, arrested in Germany 2018) — ultimately rejecting extradition for rebellion but allowing it for misuse of public funds.",
+      "penalty": "State security crimes: up to life imprisonment; OLG Schleswig decisions subject to BGH revision",
+      "exceptions": ["EU Framework Decision 2002/584/JHA limits extradition grounds; political crime exception contested"],
+      "source": "https://www.schleswig-holstein.de/olg",
+      "sourceLabel": "§120 GVG / EU Framework Decision 2002/584",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "OLG Schleswig handled the notable 2018 extradition case of which European political figure?",
+        "options": ["Viktor Orbán", "Marine Le Pen", "Carles Puigdemont (Catalan independence leader)", "Matteo Salvini"],
+        "correct": 2,
+        "explanation": "OLG Schleswig handled the 2018 extradition case of Carles Puigdemont, rejecting extradition for rebellion while allowing it for misuse of public funds, in a landmark ruling on EU extradition law."
+      }
+    },
+    {
+      "id": 42309,
+      "category": "Climate Law",
+      "severity": "high",
+      "icon": "🌡️",
+      "title": "Klimaschutzgesetz SH – KlSchG SH 2021",
+      "subtitle": "Climate neutrality by 2040 — most ambitious German state target",
+      "fullDescription": "Schleswig-Holstein's Klimaschutzgesetz (KlSchG SH) 2021 targets climate neutrality by 2040 — the most ambitious of any German state, 5 years ahead of the federal target. Binding sector targets include 100% renewable electricity by 2025 (achieved 2022), 6,000 MW offshore wind by 2030, and 30% reduction in transport emissions. The state already generates 140%+ of its electricity needs from renewables.",
+      "penalty": "Binding climate targets enforceable by administrative courts; sector authorities subject to planning obligations",
+      "exceptions": ["Industrial process emissions from non-substitutable uses subject to separate decarbonization roadmaps"],
+      "source": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-KlimaSchGSHrahmen",
+      "sourceLabel": "KlSchG SH 2021",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By what year does Schleswig-Holstein's KlSchG SH target climate neutrality, the most ambitious of any German state?",
+        "options": ["2035", "2038", "2040", "2045"],
+        "correct": 2,
+        "explanation": "Schleswig-Holstein targets climate neutrality by 2040 under KlSchG SH 2021, making it Germany's most ambitious state climate law — 5 years ahead of the federal target."
+      }
+    },
+    {
+      "id": 42310,
+      "category": "Historical Law",
+      "severity": "low",
+      "icon": "📜",
+      "title": "Schleswig-Holsteinische Frage – Grenzregion Recht",
+      "subtitle": "Historic border dispute resolved by 1920 plebiscite and 1955 declarations",
+      "fullDescription": "Schleswig-Holstein's unique legal status reflects centuries of conflict: the Second Schleswig War (1864, Denmark ceded to Prussia/Austria), German-Danish plebiscite 1920 (northern Schleswig returned to Denmark), and the Bonn-Copenhagen Declarations 1955 settling minority rights. Today the international border is fully regulated under bilateral German-Danish treaties and Schengen Agreement, with no outstanding territorial claims.",
+      "penalty": "Historical; modern border entirely regulated under treaties and international law",
+      "exceptions": ["Joint German-Danish infrastructure projects (NOK, Fehmarnbelt) governed by specific bilateral treaties"],
+      "source": "https://www.grenzfriedsbund.de",
+      "sourceLabel": "Bonn-Kopenhagen 1955 / Schengen / WaStrG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year did a plebiscite result in northern Schleswig's return to Denmark?",
+        "options": ["1864", "1871", "1920", "1945"],
+        "correct": 2,
+        "explanation": "The 1920 Schleswig plebiscite, held after WWI under League of Nations supervision, resulted in northern Schleswig returning to Denmark while central and southern Schleswig remained German."
+      }
+    },
+    {
+      "id": 42311,
+      "category": "Religious Law",
+      "severity": "low",
+      "icon": "⛪",
+      "title": "Kirchensteuer SH – 9% Nordkirche",
+      "subtitle": "Church tax collected for Evangelische Kirche Nordkirche",
+      "fullDescription": "Schleswig-Holstein collects Kirchensteuer at 9% of assessed income tax under Art. 140 GG. The Evangelische Kirche in Norddeutschland (Nordkirche) is the dominant beneficiary, covering Hamburg, Schleswig-Holstein, and Mecklenburg-Vorpommern. The Bistum Hamburg (Catholic) also receives church tax. ~58% of SH residents have church membership (above eastern state averages).",
+      "penalty": "Church tax evasion via false declarations: §370 AO tax fraud; formal exit stops tax from next month",
+      "exceptions": ["Church members residing abroad but employed in Germany pay church tax on German income"],
+      "source": "https://www.nordkirche.de",
+      "sourceLabel": "Art. 140 GG / KiStG SH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "The Evangelische Kirche in Norddeutschland (Nordkirche) serves which three states?",
+        "options": ["SH, Hamburg, Bremen", "SH, Hamburg, Mecklenburg-Vorpommern", "SH, Lower Saxony, Hamburg", "SH, Brandenburg, Hamburg"],
+        "correct": 1,
+        "explanation": "The Nordkirche (Evangelische Kirche in Norddeutschland) serves Schleswig-Holstein, Hamburg, and Mecklenburg-Vorpommern as their regional Protestant church."
+      }
+    },
+    {
+      "id": 42312,
+      "category": "Transport Law",
+      "severity": "medium",
+      "icon": "⛴️",
+      "title": "Fähren Schleswig-Holstein – SeeSchStrO & EU Kabotage",
+      "subtitle": "Baltic and North Sea ferry routes under maritime and EU transport law",
+      "fullDescription": "Major international ferry routes from SH ports: Kiel–Oslo (Color Line), Kiel–Göteborg (Stena Line), Lübeck–Travemünde–Helsinki/Stockholm (Finnlines), Puttgarden–Rødby (Scandlines, pending Fehmarnbelt tunnel). All governed by SeeSchStrO, MLC 2006 (Maritime Labour Convention for seafarer rights), EU Cabotage Regulation 3577/92, and SOLAS safety standards.",
+      "penalty": "SOLAS violations: port state control detention; MLC 2006 breaches: fines + ship detention at ITF (International Transport Workers' Federation) inspection",
+      "exceptions": ["Vessels under 300 GT on domestic routes exempt from full SOLAS passenger ship requirements"],
+      "source": "https://www.bsh.de",
+      "sourceLabel": "SeeSchStrO / MLC 2006 / SOLAS / EU 3577/92",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What international convention governs seafarer labor rights on ferries operating from Kiel and Lübeck?",
+        "options": ["STCW 1978", "MLC 2006 (Maritime Labour Convention)", "ISM Code", "UNCLOS Art. 94"],
+        "correct": 1,
+        "explanation": "The MLC 2006 (Maritime Labour Convention) is the international standard for seafarer rights covering minimum wage, working hours, accommodation, and social protection on all merchant vessels over 500 GT."
+      }
+    },
+    {
+      "id": 42313,
+      "category": "Research Law",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "GEOMAR Helmholtz Ozeanforschung – AWG & Meeresrecht",
+      "subtitle": "Deep sea research governed by UNCLOS and dual-use export law",
+      "fullDescription": "GEOMAR Helmholtz Centre for Ocean Research Kiel (1,000+ staff) operates research vessels worldwide including in Arctic and deep-sea environments. Research under UNCLOS (Art. 238-265 on marine scientific research) requires coastal state consent for national EEZ. Dual-use oceanographic technology (sonar, ROVs) subject to AWG/HADDEX export controls. Jointly funded 90% federal / 10% SH.",
+      "penalty": "Unauthorized marine research in foreign EEZ: UNCLOS Art. 264 dispute resolution; AWG violations: criminal prosecution",
+      "exceptions": ["Scientific research in high seas (beyond EEZ) under UNCLOS freedom of navigation, no state consent required"],
+      "source": "https://www.geomar.de",
+      "sourceLabel": "UNCLOS Art. 238-265 / AWG / HADDEX",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under UNCLOS, where may states conduct marine scientific research without obtaining coastal state consent?",
+        "options": ["In territorial seas of other states", "In foreign Exclusive Economic Zones (EEZ)", "In the high seas beyond any EEZ", "In international straits only"],
+        "correct": 2,
+        "explanation": "Under UNCLOS, marine scientific research in the high seas (beyond any state's EEZ and continental shelf) does not require consent from any state, falling under freedom of the high seas."
+      }
+    },
+    {
+      "id": 42314,
+      "category": "Cultural Law",
+      "severity": "medium",
+      "icon": "🎵",
+      "title": "Kieler Woche – GewO & VStättVO Veranstaltungsrecht",
+      "subtitle": "World's largest sailing event under public event and maritime law",
+      "fullDescription": "Kieler Woche (last week of June) is the world's largest sailing event with ~5,000 boats and 1M+ visitors. It operates under GewO event permits, VStättVO (assembly regulations), SeeSchStrO (maritime traffic management), and the Kieler Woche GmbH (city-owned). The regatta course in Kiel Fjord requires coordination with commercial shipping and naval traffic under WSA authority.",
+      "penalty": "Unauthorized racing vessels in restricted areas: SeeSchStrO fines; event safety failures: personal liability of organizer",
+      "exceptions": ["Official race committee vessels exempt from normal speed limits in race areas under SeeSchStrO §30"],
+      "source": "https://www.kieler-woche.de",
+      "sourceLabel": "GewO / VStättVO / SeeSchStrO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Kieler Woche is the world's largest event in which sport?",
+        "options": ["Swimming", "Rowing", "Sailing", "Windsurfing"],
+        "correct": 2,
+        "explanation": "Kieler Woche (Kiel Week), held annually in late June, is the world's largest sailing event with approximately 5,000 boats and over one million visitors."
+      }
+    },
+    {
+      "id": 42315,
+      "category": "Disability Law",
+      "severity": "medium",
+      "icon": "♿",
+      "title": "Behindertengleichstellungsgesetz SH – BGG SH",
+      "subtitle": "State accessibility law for 145,000 severely disabled Schleswig-Holsteiners",
+      "fullDescription": "The Behindertengleichstellungsgesetz Schleswig-Holstein (BGG SH) implements UNCRPD at state level. ~145,000 persons hold Schwerbehindertenausweis in SH (GdB ≥50). Public authority websites must meet WCAG 2.1 AA under BITV 2.0. The Beauftragter für Menschen mit Behinderungen advocates through the Landtag. The Fehmarnbelt tunnel project includes full wheelchair accessibility requirements.",
+      "penalty": "Public authority BITV failures: administrative proceedings; discrimination claims under AGG",
+      "exceptions": ["Disproportionate burden exemption for small public bodies with written justification and improvement plan"],
+      "source": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-BGGSHrahmen",
+      "sourceLabel": "BGG SH / UNCRPD / BITV 2.0",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What EU web accessibility standard must Schleswig-Holstein public authority websites comply with under BITV 2.0?",
+        "options": ["WCAG 1.0 A", "WCAG 2.0 AA", "WCAG 2.1 AA", "WCAG 3.0 AAA"],
+        "correct": 2,
+        "explanation": "BITV 2.0 requires public authority websites to meet WCAG 2.1 AA (Web Content Accessibility Guidelines 2.1, Level AA) standards for digital accessibility."
+      }
+    }
+    ,
+    {
+      "id": 42316,
+      "category": "Food Law",
+      "severity": "medium",
+      "icon": "🦐",
+      "title": "Krabbenfischerei Nordsee – SeeFischG & EU CFP Quoten",
+      "subtitle": "North Sea shrimp fishing under EU quota and food safety law",
+      "fullDescription": "North Sea shrimp (Crangon crangon, Nordseekrabbe) fishing from SH ports (Büsum, Husum) is governed by SeeFischG and EU CFP 1380/2013 quotas. SH produces ~8,000 tonnes annually. The controversial practice of sending raw shrimp to Morocco for peeling and back (due to labor costs) is legal but subject to EU food safety traceability rules under EU 178/2002. Krabbenbrötchen (shrimp rolls) are a regional specialty.",
+      "penalty": "Quota violations: fines + license revocation under §27 SeeFischG; food traceability failures: LFGB fines up to €50,000",
+      "exceptions": ["Small-scale inshore fishing vessels under 12m exempt from logbook requirements under EU 1380/2013"],
+      "source": "https://www.schleswig-holstein.de/fischerei",
+      "sourceLabel": "SeeFischG / EU CFP 1380/2013 / EU 178/2002",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why is the practice of sending raw North Sea shrimp to Morocco for peeling controversial?",
+        "options": ["It violates EU food safety law", "It uses cheaper labor abroad, raising sustainability and traceability concerns", "Morocco has no shrimp peeling facilities", "It is prohibited under EU CFP quotas"],
+        "correct": 1,
+        "explanation": "Sending raw North Sea shrimp to Morocco for peeling exploits lower labor costs there. While legal, it raises sustainability and carbon footprint concerns and requires strict EU food traceability compliance under EU 178/2002."
+      }
+    },
+    {
+      "id": 42317,
+      "category": "Social Law",
+      "severity": "high",
+      "icon": "💼",
+      "title": "Jobcenter SH – SGB II Bürgergeld 95,000 Empfänger",
+      "subtitle": "Social welfare administration in Schleswig-Holstein",
+      "fullDescription": "Schleswig-Holstein's 15 Jobcenter serve ~95,000 Bürgergeld recipients under SGB II. Unemployment rate: ~5.5%, near national average. Structural unemployment concentrates in Flensburg and Heide. The Bürgergeldgesetz 2023 raised standard rates to €563/month (single adult) and softened sanctions during the initial 6-month Vertrauenszeitraum. BA co-funds alongside municipalities.",
+      "penalty": "SGB II fraud: repayment plus up to 5 years imprisonment for systematic fraud under §263 StGB",
+      "exceptions": ["Mini-job earnings up to €538/month partially exempt from Bürgergeld deduction under §11b SGB II"],
+      "source": "https://www.arbeitsagentur.de/schleswig-holstein",
+      "sourceLabel": "SGB II / Bürgergeldgesetz 2023",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long is the Vertrauenszeitraum (trust period) during which Bürgergeld sanctions are limited under the Bürgergeldgesetz 2023?",
+        "options": ["1 month", "3 months", "6 months", "12 months"],
+        "correct": 2,
+        "explanation": "The Bürgergeldgesetz 2023 introduced a 6-month Vertrauenszeitraum at the start of a new Bürgergeld claim during which financial sanctions for rule violations are limited."
+      }
+    },
+    {
+      "id": 42318,
+      "category": "Pharmaceutical Law",
+      "severity": "medium",
+      "icon": "💊",
+      "title": "Pharmacies SH – ApoG & Versandhandel DocMorris",
+      "subtitle": "Pharmacy law in the state that hosted DocMorris EuGH case",
+      "fullDescription": "The EUGH DocMorris case (C-322/01, 2003) originated from a Saarland pharmacy's challenge to German mail-order pharmacy restrictions. DocMorris (Netherlands-based) won the right to sell non-prescription medicines online to Germans. Subsequent German ApoG (Apothekengesetz) reforms allowed mail-order pharmacies with BfArM registration. SH has ~600 pharmacies regulated by Apothekerkammer SH.",
+      "penalty": "Operating pharmacy without Approbation: up to 3 years under §5 HeilprG; prescription drug mail-order: criminal prosecution under §95 AMG",
+      "exceptions": ["EU-registered online pharmacies with official logo may sell OTC medicines to German consumers under EU 2011/62 authentication"],
+      "source": "https://www.apothekerkammer-sh.de",
+      "sourceLabel": "ApoG / EUGH C-322/01 DocMorris / AMG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What landmark EUGH ruling (C-322/01, 2003) liberalized online pharmacy sales of non-prescription medicines in Germany?",
+        "options": ["Apothekerkammer Hamburg v BfArM", "DocMorris NV v Kreis Einsbeck", "Hartlauer v Wiener Landesregierung", "Deutscher Apothekerverband v 0800 DocMorris NV"],
+        "correct": 3,
+        "explanation": "The EUGH case Deutscher Apothekerverband v 0800 DocMorris NV (C-322/01, 2003) established that Germany could not prohibit EU-registered online pharmacies from selling non-prescription medicines to German customers."
+      }
+    },
+    {
+      "id": 42319,
+      "category": "Aviation Law",
+      "severity": "medium",
+      "icon": "✈️",
+      "title": "Flughafen Hamburg Helgoland-Düne – LuftVG Inselflugroute",
+      "subtitle": "Island airport serving Helgoland under aviation law",
+      "fullDescription": "Helgoland-Düne Airport serves Germany's only true oceanic island (Helgoland, 54 km offshore in the North Sea). Regular flights from Hamburg and other cities operate under LuftVG §6 permits. Helgoland is a duty-free zone (no VAT, no excise duty) under EU VAT Directive 2006/112/EC Art. 6 exclusion — the island was excluded from EU customs territory in the German Reunification Treaty.",
+      "penalty": "Unauthorized import of Helgoland duty-free goods above personal limits: customs fines under ZollVG",
+      "exceptions": ["Personal duty-free allowances from Helgoland: tobacco/alcohol limits apply under EU traveler allowances"],
+      "source": "https://www.hamburg-airport.de/helgoland",
+      "sourceLabel": "LuftVG / EU VAT Directive 2006/112 Art. 6",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why is Helgoland a duty-free zone despite being part of Germany?",
+        "options": ["Historical treaty with UK after WWII", "Excluded from EU customs territory under EU VAT Directive 2006/112 Art. 6", "German Basic Law Art. 106 exemption", "NATO status agreement"],
+        "correct": 1,
+        "explanation": "Helgoland is excluded from the EU customs territory under EU VAT Directive 2006/112/EC Art. 6, making it a duty-free zone — a status maintained from the German Reunification Treaty negotiations."
+      }
+    },
+    {
+      "id": 42320,
+      "category": "Water Law",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Eider-Sperrwerk – WHG & Küstenschutzbauwerke",
+      "subtitle": "Europe's largest tidal barrage protecting SH coast",
+      "fullDescription": "The Eider Barrage (Eidersperrwerk, 1973) is Europe's largest tidal barrier, protecting 40,000 ha of Schleswig-Holstein's west coast from storm surges. It operates under WHG and LWG SH, managed by LLUR (Landesamt für Landwirtschaft, Umwelt und ländliche Räume). The barrage closes during storm surges and controls tidal flow, also affecting the Eider river fisheries under EU WFD.",
+      "penalty": "Unauthorized interference with coastal protection structures: criminal prosecution under §§ 303, 304 StGB",
+      "exceptions": ["Emergency passage for rescue vessels through barrage gates requires WSA authorization"],
+      "source": "https://www.schleswig-holstein.de/eidersperrwerk",
+      "sourceLabel": "WHG / LWG SH / EU WFD",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does the Eidersperrwerk (Eider Barrage, 1973) protect against?",
+        "options": ["River flooding from inland rainfall", "North Sea storm surges threatening 40,000 ha of SH coast", "Baltic Sea salt intrusion", "Shipping channel narrowing"],
+        "correct": 1,
+        "explanation": "The Eidersperrwerk (1973) is Europe's largest tidal barrage, protecting approximately 40,000 ha of Schleswig-Holstein's North Sea coast from storm surge flooding."
+      }
+    },
+    {
+      "id": 42321,
+      "category": "Energy Law",
+      "severity": "high",
+      "icon": "⚛️",
+      "title": "AKW Brunsbüttel & Brokdorf – AtG Rückbau",
+      "subtitle": "Decommissioning of Schleswig-Holstein's nuclear plants under Atomic Energy Act",
+      "fullDescription": "Kernkraftwerke Brunsbüttel and Brokdorf (shut 2021) and KKK Krümmel (shut 2011) are being decommissioned under AtG (Atomgesetz) §7 Abs. 3. Decommissioning costs: ~€1bn per plant. Radioactive waste interim storage at Zwischenlager Nord (Lubmin) and planned final repository (Endlager) under EndlSiG. Operator Vattenfall/E.ON challenge compensation claims before arbitral tribunals under ECT.",
+      "penalty": "AtG safety violations during decommissioning: BfS (Bundesamt für Strahlenschutz) oversight; criminal prosecution under §327 StGB",
+      "exceptions": ["Reuse of non-contaminated building materials from nuclear sites after clearance measurement under StrlSchG §31"],
+      "source": "https://www.bfe.bund.de",
+      "sourceLabel": "AtG §7 / EndlSiG / StrlSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year were Brunsbüttel and Brokdorf nuclear plants finally shut down in Germany?",
+        "options": ["2011", "2015", "2021", "2023"],
+        "correct": 2,
+        "explanation": "Brunsbüttel (already shutdown since 2007 for repairs) and Brokdorf were finally permanently shut down in 2021 as part of Germany's Atomausstieg. The last three German plants closed in April 2023."
+      }
+    },
+    {
+      "id": 42322,
+      "category": "Procurement Law",
+      "severity": "medium",
+      "icon": "📋",
+      "title": "Vergaberecht SH – VGSH & EU Schwellenwerte",
+      "subtitle": "Public procurement law for Schleswig-Holstein's annual €4bn in contracts",
+      "fullDescription": "Schleswig-Holstein's Vergabegesetz (VGSH) governs public procurement, implementing EU Directives 2014/24/EU and 2014/25/EU. Above EU thresholds, eVergabe is mandatory. Social and environmental criteria are integrated following 2021 SH procurement reform. Annual procurement volume: ~€4bn. Nachprüfungsverfahren at VK SH (Vergabekammer Schleswig-Holstein) resolve bidder disputes.",
+      "penalty": "Contract awards without proper tendering: voidance; losing bidders may claim damages from authorities",
+      "exceptions": ["Procurement between related public entities exempt under §108 GWB (in-house award)"],
+      "source": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-VergGSHrahmen",
+      "sourceLabel": "VGSH / EU 2014/24 / GWB §108",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where do bidders challenge public procurement decisions in Schleswig-Holstein?",
+        "options": ["OLG Schleswig", "VG Schleswig", "VK SH (Vergabekammer Schleswig-Holstein)", "BVerwG Leipzig"],
+        "correct": 2,
+        "explanation": "Bidders challenging procurement decisions in Schleswig-Holstein bring Nachprüfungsverfahren before the VK SH (Vergabekammer Schleswig-Holstein), the state's public procurement review chamber."
+      }
+    },
+    {
+      "id": 42323,
+      "category": "Cultural Law",
+      "severity": "medium",
+      "icon": "📚",
+      "title": "Thomas Mann Lübeck – UrhG & Literaturerbe",
+      "subtitle": "Nobel laureate's birthplace and literary estate under copyright law",
+      "fullDescription": "Thomas Mann (1875–1955) was born in Lübeck; his novel Buddenbrooks (1901) depicts the city's patrician merchant society. Mann's works entered public domain in 2026 (70 years after death under §64 UrhG). Until then, literary estate rights were managed by S. Fischer Verlag and the Thomas Mann estate. The Buddenbrookhaus in Lübeck (UNESCO vicinity) is a protected monument and literary museum.",
+      "penalty": "Unauthorized commercial use of Mann's works before public domain (pre-2026): §97 UrhG damages; trademark misuse of 'Buddenbrooks' brand: MarkenG claims",
+      "exceptions": ["Academic quotation and educational use protected under §51 UrhG Zitatrecht even before public domain"],
+      "source": "https://www.buddenbrookhaus.de",
+      "sourceLabel": "§64 UrhG / DSchG SH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year did Thomas Mann's works enter the public domain under §64 UrhG (70 years after death in 1955)?",
+        "options": ["2006", "2016", "2026", "2036"],
+        "correct": 2,
+        "explanation": "Thomas Mann died in 1955; under §64 UrhG's 70-year post-mortem copyright term, his works entered the public domain on 1 January 2026."
+      }
+    },
+    {
+      "id": 42324,
+      "category": "Waste Law",
+      "severity": "medium",
+      "icon": "♻️",
+      "title": "Abfallwirtschaft SH – KrWG & Plastic Packaging",
+      "subtitle": "Waste management law with strong recycling performance",
+      "fullDescription": "Schleswig-Holstein's Abfallwirtschaftsplan implements KrWG and EU Circular Economy Package. SH achieves ~67% recycling rate, near the 68% federal target. The EU Single-Use Plastics Directive 2019/904 (SUP) bans plastic plates, cutlery, cotton buds, etc. since 2021, enforced by SH Landesamt für Landwirtschaft, Umwelt und ländliche Räume (LLUR). Green Dot (Grüner Punkt) dual system applies.",
+      "penalty": "Placing banned single-use plastics on market: fines up to €100,000 under VerpackG / SUP-Umsetzungsgesetz",
+      "exceptions": ["Medical single-use plastics exempt from SUP ban for hygiene and safety reasons"],
+      "source": "https://www.schleswig-holstein.de/abfall",
+      "sourceLabel": "KrWG / EU SUP 2019/904 / VerpackG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Since when have single-use plastic plates and cutlery been banned in Germany under the EU SUP Directive?",
+        "options": ["2019", "2021", "2023", "2025"],
+        "correct": 1,
+        "explanation": "The EU Single-Use Plastics Directive 2019/904 (SUP) ban on plastic plates, cutlery, straws, and cotton buds took effect in Germany in July 2021."
+      }
+    },
+    {
+      "id": 42325,
+      "category": "Crime Law",
+      "severity": "high",
+      "icon": "⚓",
+      "title": "Piraterie & Seeraub – §316c StGB & UNCLOS Art. 101",
+      "subtitle": "Piracy prosecution in Germany's leading maritime state",
+      "fullDescription": "Germany prosecutes piracy under §316c StGB (Angriff auf Luft- und Seeverkehr) and UNCLOS Art. 101 (universal jurisdiction). German warships (Deutsche Marine, based in Kiel) operating in EU NAVFOR Atalanta (anti-piracy off Somalia) may detain pirates for prosecution in Germany or regional states. OLG Hamburg has primary jurisdiction for piracy cases involving German ships.",
+      "penalty": "§316c StGB: up to life imprisonment; hostage-taking aggravation under §239b StGB",
+      "exceptions": ["Acts committed in territorial seas of states are not 'piracy' under UNCLOS (must be high seas); prosecuted under applicable national law instead"],
+      "source": "https://www.gesetze-im-internet.de/stgb/__316c.html",
+      "sourceLabel": "§316c StGB / UNCLOS Art. 101 / EU NAVFOR",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under UNCLOS Art. 101, where must an act occur to be classified as piracy (as opposed to armed robbery at sea)?",
+        "options": ["In any navigable waters", "In territorial seas", "On the high seas or EEZ", "In straits used for international navigation"],
+        "correct": 2,
+        "explanation": "UNCLOS Art. 101 defines piracy as acts committed on the high seas (or in EEZ under Art. 58(2)). Acts in territorial seas are 'armed robbery at sea,' subject to coastal state jurisdiction, not universal piracy jurisdiction."
+      }
+    },
+    {
+      "id": 42326,
+      "category": "Agricultural Law",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Ökologischer Landbau SH – EU 848/2018 Ökolandbaugesetz",
+      "subtitle": "Organic farming in Schleswig-Holstein under EU organic regulation",
+      "fullDescription": "Schleswig-Holstein has ~10% organic farmland (66,000 ha) — above the German average of 9.7%. EU Organic Regulation 848/2018 (replacing 834/2007 in 2022) governs certification, labeling, and inspection. The Bio-Siegel (German organic label) and EU organic logo (green leaf) are mandatory on certified products. Bioland and Demeter are major certification bodies active in SH.",
+      "penalty": "False organic labeling: fines up to €50,000 + criminal prosecution under §74 ÖLG; EU GI organic label misuse: injunctions",
+      "exceptions": ["In-conversion farms (2-year conversion period) may not label products as organic but receive EU conversion support payments"],
+      "source": "https://www.oekolandbau.de",
+      "sourceLabel": "EU 848/2018 / ÖLG / Bio-Siegel",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long is the standard conversion period before a farm can sell products certified as organic under EU 848/2018?",
+        "options": ["6 months", "1 year", "2 years", "5 years"],
+        "correct": 2,
+        "explanation": "EU Organic Regulation 848/2018 requires a 2-year conversion period (3 years for perennial crops) before a farm's products can be certified and sold as organic."
+      }
+    },
+    {
+      "id": 42327,
+      "category": "Constitutional Law",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Landesverfassungsgericht SH – Organstreit & Wahlprüfung",
+      "subtitle": "State constitutional court with electoral review jurisdiction",
+      "fullDescription": "The Landesverfassungsgericht Schleswig-Holstein (LVerfG SH) reviews state laws, decides Organstreit disputes, and validates elections. It has 7 judges appointed by the Landtag. Notable ruling: the LVerfG SH struck down a Landtag redistricting plan in 2022 as unconstitutional. It also ruled on SSW's 2012 entry into the Landtag without the 5% threshold in SPD-Green-SSW coalition.",
+      "penalty": "Unconstitutional laws declared void; Landtag must re-legislate within set timeframe",
+      "exceptions": ["LVerfG SH cannot review federal laws — those go to BVerfG under Art. 93 GG"],
+      "source": "https://www.schleswig-holstein.de/lverfg",
+      "sourceLabel": "LVerfGG SH / Art. 51 SH-Verfassung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many judges sit on the Landesverfassungsgericht Schleswig-Holstein?",
+        "options": ["5", "7", "9", "11"],
+        "correct": 1,
+        "explanation": "The Landesverfassungsgericht Schleswig-Holstein has 7 judges, appointed by the state Landtag."
+      }
+    },
+    {
+      "id": 42328,
+      "category": "Nature Law",
+      "severity": "medium",
+      "icon": "🐦",
+      "title": "Vogelschutzgebiete SH – EU Vogelschutzrichtlinie",
+      "subtitle": "EU Birds Directive SPAs covering Schleswig-Holstein's key bird habitats",
+      "fullDescription": "Schleswig-Holstein designates 35+ Special Protection Areas (SPAs) under EU Birds Directive 2009/147/EC for ~1.2M migratory birds passing through the Wadden Sea annually (one of the world's most important migration corridors). Key species: barnacle goose, knot, dunlin. SH reports to EU Commission under Habitats Directive Art. 17 six-year review cycle.",
+      "penalty": "Disturbance of SPA birds during breeding season: fines up to €50,000; habitat destruction: criminal prosecution under §69 BNatSchG",
+      "exceptions": ["Agricultural activities within SPAs permitted where management plans allow under EU Birds Directive Art. 4(4)"],
+      "source": "https://www.schleswig-holstein.de/natura2000",
+      "sourceLabel": "EU Birds Directive 2009/147 / BNatSchG §32",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many migratory birds pass through Schleswig-Holstein's Wadden Sea annually?",
+        "options": ["100,000", "500,000", "1.2 million", "10 million"],
+        "correct": 2,
+        "explanation": "Approximately 1.2 million migratory birds use the Schleswig-Holstein Wadden Sea as a key staging area annually, making it one of the world's most important bird migration corridors."
+      }
+    },
+    {
+      "id": 42329,
+      "category": "Finance Law",
+      "severity": "medium",
+      "icon": "🏦",
+      "title": "IB.SH – Investitionsbank Schleswig-Holstein",
+      "subtitle": "State development bank financing housing, SMEs, and renewables",
+      "fullDescription": "IB.SH (Investitionsbank Schleswig-Holstein) is the state development bank, disbursing ~€3bn annually in KfW-co-financed loans, EFRE/ESF+ grants, and state housing subsidies. Priority areas: renewable energy (wind, offshore), maritime economy, and rural housing construction. IB.SH operates under KWG supervision by BaFin and EU state aid framework (AGVO).",
+      "penalty": "Subsidy fraud: repayment + criminal prosecution under §264 StGB (Subventionsbetrug)",
+      "exceptions": ["Refinancing of commercial banks for on-lending to SMEs exempt from individual notification under AGVO Art. 22"],
+      "source": "https://www.ib-sh.de",
+      "sourceLabel": "KWG / EU AGVO / EFRE-VO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how much does IB.SH disburse annually in development finance?",
+        "options": ["€300M", "€1bn", "€3bn", "€10bn"],
+        "correct": 2,
+        "explanation": "IB.SH disburses approximately €3bn annually through development loans, grants, and subsidized programs for housing, renewables, and SMEs in Schleswig-Holstein."
+      }
+    },
+    {
+      "id": 42330,
+      "category": "Maritime Law",
+      "severity": "high",
+      "icon": "⚓",
+      "title": "STCW & Schifferpatent – See-Berufsausbildungsrecht",
+      "subtitle": "Maritime officer certification at Kiel and Lübeck maritime academies",
+      "fullDescription": "Maritime officer training in SH (Fachhochschule Kiel, Hochschule Wismar Lübeck campus) leads to STCW (International Convention on Standards of Training, Certification and Watchkeeping, 1978/2010) certificates required for command of merchant vessels. BG Verkehr (Berufsgenossenschaft) manages certification. Germany issues ~3,000 STCW certificates annually.",
+      "penalty": "Commanding vessel without valid STCW certification: SeeArbG §60 fines + suspension of seafarer book",
+      "exceptions": ["Inland waterway vessels on German rivers exempt from STCW; governed by separate BinSchPersV"],
+      "source": "https://www.bg-verkehr.de",
+      "sourceLabel": "STCW 1978/2010 / SeeArbG / BG Verkehr",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What international convention sets training and certification standards for merchant vessel officers?",
+        "options": ["SOLAS 1974", "MARPOL 73/78", "STCW 1978 (as amended 2010)", "MLC 2006"],
+        "correct": 2,
+        "explanation": "STCW (International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, amended 2010) sets the international minimum standards for maritime officer qualifications."
+      }
+    },
+    {
+      "id": 42331,
+      "category": "Heritage Law",
+      "severity": "medium",
+      "icon": "🏰",
+      "title": "Haithabu & Danewerk – UNESCO Welterbe 2018",
+      "subtitle": "Viking trading city and medieval border wall inscribed as World Heritage",
+      "fullDescription": "Hedeby (Haithabu) and Danewerk were inscribed as UNESCO World Heritage in 2018. Haithabu was Scandinavia's most important trading city (8th–11th century, now near Schleswig), while Danewerk is a 30 km defensive wall built from the 7th century. Both protected under DSchG SH and managed by Archäologisches Landesamt SH. Excavations continue under state archaeological permit system.",
+      "penalty": "Unauthorized excavation at UNESCO sites: fines up to €500,000 + criminal prosecution under §13 DSchG SH",
+      "exceptions": ["Authorized academic excavations with Landesamt permit may continue restoration-focused research"],
+      "source": "https://whc.unesco.org/en/list/1597",
+      "sourceLabel": "UNESCO WHC 2018 / DSchG SH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "In what year were Hedeby (Haithabu) and Danewerk inscribed as UNESCO World Heritage Sites?",
+        "options": ["1994", "2004", "2012", "2018"],
+        "correct": 3,
+        "explanation": "Hedeby (Haithabu) and Danewerk were inscribed as a UNESCO World Heritage Site in 2018, recognized for their exceptional significance in Viking Age and early medieval European history."
+      }
+    },
+    {
+      "id": 42332,
+      "category": "Environmental Law",
+      "severity": "medium",
+      "icon": "🐟",
+      "title": "Lachsprogramm Elbe/Eider – FFH & Wiederansiedlung",
+      "subtitle": "Atlantic salmon reintroduction programs under EU Habitats Directive",
+      "fullDescription": "Atlantic salmon (Salmo salar, FFH Annex II) were historically present in the Eider and Elbe (which SH borders). Reintroduction programs under BNatSchG and EU Habitats Directive (FFH Annex II) aim to restore salmon runs. Obstacles include Stauwerke (weirs) requiring fish passes under WHG §34. SH requires fish passes on all new or reconstructed weirs.",
+      "penalty": "Blocking fish migration routes without fish pass on new weirs: WHG §100 enforcement orders; fines up to €50,000",
+      "exceptions": ["Historic weirs predating WHG may be exempted from mandatory fish pass with compensatory measures"],
+      "source": "https://www.schleswig-holstein.de/lachs",
+      "sourceLabel": "§44 BNatSchG / FFH Annex II / WHG §34",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What infrastructure does WHG §34 require on new or reconstructed weirs to protect fish migration?",
+        "options": ["Fish ladders/passes (Fischwege)", "Minimum flow requirements only", "Seasonal weir opening protocols", "Net exclusion barriers"],
+        "correct": 0,
+        "explanation": "WHG §34 requires fish passes (Fischwege/Fischaufstiegsanlagen) on all new or substantially reconstructed weirs and other river obstacles to maintain fish migration routes."
+      }
+    },
+    {
+      "id": 42333,
+      "category": "Labor Law",
+      "severity": "medium",
+      "icon": "🚢",
+      "title": "SeeArbG – Seeleute-Arbeitsrecht & MLC 2006",
+      "subtitle": "Seafarers' labor rights under maritime labor convention",
+      "fullDescription": "The Seearbeitsgesetz (SeeArbG) implements the ILO Maritime Labour Convention (MLC 2006) in German law, covering ~80,000 German seafarers. MLC 2006 (Magna Carta of the Seas) requires minimum wage, maximum working hours (14h/day, 72h/week), medical care, and repatriation rights. BSH (Bundesamt für Seeschifffahrt und Hydrographie, Hamburg) certifies MLC compliance. German Maritime Search and Rescue Service (DGzRS) is governed separately.",
+      "penalty": "MLC 2006 non-compliance: port state control detention; SeeArbG §60 fines up to €30,000",
+      "exceptions": ["Fishing vessels under 200 GT on domestic coastal routes subject to simplified SeeArbG provisions"],
+      "source": "https://www.gesetze-im-internet.de/seearbg/",
+      "sourceLabel": "SeeArbG / MLC 2006 / BSH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What are the maximum daily and weekly working hours for seafarers under MLC 2006?",
+        "options": ["10h/day, 60h/week", "12h/day, 70h/week", "14h/day, 72h/week", "16h/day, 80h/week"],
+        "correct": 2,
+        "explanation": "MLC 2006 sets maximum working hours for seafarers at 14 hours per day and 72 hours per week (or alternatively minimum rest periods of 10h/day and 77h/week)."
+      }
+    },
+    {
+      "id": 42334,
+      "category": "Food Law",
+      "severity": "medium",
+      "icon": "🧀",
+      "title": "Tilsiter Käse – GI EU 1151/2012 Herkunftsschutz",
+      "subtitle": "Protected geographical indication for Tilsit cheese produced in SH",
+      "fullDescription": "Tilsit cheese (Tilsiter) — originally from Tilsit (now Sovetsk, Russia) but predominantly produced in Schleswig-Holstein and Bavaria — has EU geographical indication protection under EU 1151/2012. SH produces ~30% of Germany's Tilsit. The cheese must meet specific production standards for the GI designation. Deutsche Molkerei Tilsit GmbH is the main SH producer.",
+      "penalty": "False Tilsit GI labeling: fines + injunctions under EU 1151/2012; §74 LFGB for food labeling violations",
+      "exceptions": ["Generic 'Tilsiter-style' cheese without the GI designation may be produced anywhere without geographic restriction"],
+      "source": "https://www.door.maff.go.jp/GIportal",
+      "sourceLabel": "EU GI 1151/2012 / LFGB",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What modern city and country corresponds to the original location of Tilsit, where Tilsit cheese originated?",
+        "options": ["Riga, Latvia", "Sovetsk, Russia (former Tilsit, Prussia)", "Tallinn, Estonia", "Gdańsk, Poland"],
+        "correct": 1,
+        "explanation": "Tilsit cheese originated in the city of Tilsit (now Sovetsk in the Kaliningrad Oblast, Russia), a former Prussian city where German settlers developed the cheese in the 19th century."
+      }
+    },
+    {
+      "id": 42335,
+      "category": "Tax Law",
+      "severity": "medium",
+      "icon": "⛪",
+      "title": "Kirchensteuer SH – 9% Bistum Hamburg",
+      "subtitle": "Church tax administration in Schleswig-Holstein",
+      "fullDescription": "Schleswig-Holstein collects Kirchensteuer at 9% of assessed income tax on behalf of religious communities. The Nordkirche (Evangelische Kirche in Norddeutschland) and Diocese of Hamburg (Catholic) are the main beneficiaries. ~58% church membership rate is higher than eastern Germany but declining annually by ~1%. The Kirchensteuer generates ~€200M/year for SH churches.",
+      "penalty": "Church tax evasion via false declarations: §370 AO tax fraud; Kirchenaustritt before Amtsgericht for €30 stops tax",
+      "exceptions": ["Persons with very low incomes (below Grundfreibetrag) pay no church tax despite membership"],
+      "source": "https://www.nordkirche.de/kirchensteuer",
+      "sourceLabel": "Art. 140 GG / KiStG SH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately what annual revenue does Kirchensteuer generate for churches in Schleswig-Holstein?",
+        "options": ["€20M", "€80M", "€200M", "€1bn"],
+        "correct": 2,
+        "explanation": "Kirchensteuer generates approximately €200M per year for churches in Schleswig-Holstein, with the Nordkirche as the primary beneficiary."
+      }
+    },
+    {
+      "id": 42336,
+      "category": "Digital Law",
+      "severity": "medium",
+      "icon": "💻",
+      "title": "E-Government SH – OZG & Digitalisierungsstrategie",
+      "subtitle": "Online government services under Onlinezugangsgesetz",
+      "fullDescription": "Schleswig-Holstein has been a front-runner in German e-government, operating Dataport (joint IT service provider of SH, Hamburg, Lower Saxony, Bremen, Mecklenburg-Vorpommern, Saxony-Anhalt, and Thuringia) with €800M annual budget. OZG implementation requires all administrative services online. SH adopted an Open Source-first policy for government software in 2021, preferring LibreOffice and Linux.",
+      "penalty": "OZG service failures: political accountability; data breaches: GDPR fines under LDSG SH",
+      "exceptions": ["Identity-sensitive services may maintain in-person option pending widespread eID adoption"],
+      "source": "https://www.dataport.de",
+      "sourceLabel": "OZG / Dataport / EGovG SH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What notable open source software policy did Schleswig-Holstein adopt in 2021?",
+        "options": ["Mandatory use of SAP for all departments", "Open Source-first policy preferring LibreOffice and Linux", "Exclusive Microsoft 365 for government", "Mandatory use of German-developed software only"],
+        "correct": 1,
+        "explanation": "Schleswig-Holstein adopted an Open Source-first policy in 2021, transitioning government to LibreOffice and Linux, becoming a pioneer in open source adoption among German states."
+      }
+    },
+    {
+      "id": 42337,
+      "category": "Wildlife Law",
+      "severity": "medium",
+      "icon": "🦅",
+      "title": "Seeadler Rückkehr – §44 BNatSchG Artenschutz",
+      "subtitle": "White-tailed eagle recovery in Schleswig-Holstein",
+      "fullDescription": "White-tailed eagles (Haliaeetus albicilla, Seeadler, FFH Annex I) returned to Schleswig-Holstein after near-extinction in the 1970s. SH now has 130+ breeding pairs — Germany's second largest population after Mecklenburg-Vorpommern. Strictly protected under §44 BNatSchG and EU Birds Directive. Wind turbine operators must conduct Seeadler impact assessments under BImSchG permit procedures.",
+      "penalty": "Killing or disturbing Seeadler: up to 5 years imprisonment under §69 BNatSchG; nest disturbance: fines up to €50,000",
+      "exceptions": ["Emergency protection of livestock or fish ponds from eagle attack may justify scaring measures but not killing"],
+      "source": "https://www.nabu-sh.de/seeadler",
+      "sourceLabel": "§44 BNatSchG / EU Birds Directive / FFH Annex I",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many white-tailed eagle (Seeadler) breeding pairs does Schleswig-Holstein now have?",
+        "options": ["13", "50", "130+", "500"],
+        "correct": 2,
+        "explanation": "Schleswig-Holstein has over 130 breeding pairs of white-tailed eagles, Germany's second largest population, recovered from near-extinction in the 1970s through strict legal protection."
+      }
+    },
+    {
+      "id": 42338,
+      "category": "Social Law",
+      "severity": "medium",
+      "icon": "👴",
+      "title": "WTG SH – Wohn- und Teilhabegesetz Pflegeheime",
+      "subtitle": "Care home law for 57,000 residents in 450+ facilities",
+      "fullDescription": "The Wohn- und Teilhabegesetz Schleswig-Holstein (WTG SH) governs care homes, assisted living, and day care. ~57,000 residents in 450+ facilities. UKSH operates the largest academic nursing training program. MDK (Medizinischer Dienst) conducts annual inspections. The Pflegepersonalstärkungsgesetz 2019 increased staffing ratios nationwide, affecting SH facilities' cost structures.",
+      "penalty": "WTG SH quality violations: warnings, fines up to €25,000, and home closure orders",
+      "exceptions": ["Innovative housing projects (Wohngemeinschaften) for up to 12 residents under simplified WTG SH requirements"],
+      "source": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-WTGSHrahmen",
+      "sourceLabel": "WTG SH / SGB XI",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which federal law strengthened nursing home staffing ratios across Germany in 2019?",
+        "options": ["SGB XI Amendment 2017", "Pflegepersonalstärkungsgesetz 2019", "PflBG 2020", "KHVVG 2024"],
+        "correct": 1,
+        "explanation": "The Pflegepersonalstärkungsgesetz (PpSG) 2019 introduced minimum staffing requirements and improved pay in German care facilities, increasing costs for care homes including those in Schleswig-Holstein."
+      }
+    },
+    {
+      "id": 42339,
+      "category": "Telecommunications Law",
+      "severity": "medium",
+      "icon": "📡",
+      "title": "5G Ausbau SH – TKG 2021 & Offshore Kommunikation",
+      "subtitle": "5G rollout and maritime communications infrastructure",
+      "fullDescription": "Schleswig-Holstein's 5G buildout under TKG 2021 includes unique challenges: offshore wind farm communications infrastructure (SCADA systems) and maritime 5G for vessels in territorial sea. ~85% population coverage achieved. BNetzA frequency allocation for maritime 5G and the SH coastal TETRA network (Behörden und Organisationen mit Sicherheitsaufgaben) are key regulatory areas.",
+      "penalty": "Unauthorized radio frequency use: BNetzA fines up to €500,000 under TKG §149; network access discrimination: §150 TKG",
+      "exceptions": ["Maritime Distress frequencies (156.8 MHz VHF Ch. 16) exempt from commercial licensing under SOLAS IV/2"],
+      "source": "https://www.bundesnetzagentur.de/5G",
+      "sourceLabel": "TKG 2021 / BNetzA / SOLAS IV",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What emergency radio frequency must all maritime vessels monitor under SOLAS IV?",
+        "options": ["156.0 MHz (VHF Ch. 6)", "156.8 MHz (VHF Ch. 16)", "2182 kHz (MF distress)", "406 MHz (EPIRB)"],
+        "correct": 1,
+        "explanation": "SOLAS IV requires all vessels to maintain a listening watch on 156.8 MHz (VHF Channel 16), the international maritime distress, safety, and calling frequency."
+      }
+    },
+    {
+      "id": 42340,
+      "category": "Administrative Law",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Landesverwaltungsgesetz SH – LVwG Allgemeines Verwaltungsrecht",
+      "subtitle": "General administrative law codifying SH state authority procedures",
+      "fullDescription": "The Landesverwaltungsgesetz Schleswig-Holstein (LVwG SH) is Schleswig-Holstein's unique codification combining general administrative law (VwVfG equivalent), police law, and administrative procedures in a single comprehensive statute. Enacted 1992, it is regularly updated. Administrative decisions (Verwaltungsakte) are appealable to VG Schleswig, OVG Schleswig, and ultimately BVerwG.",
+      "penalty": "Unlawful administrative acts: void or voidable under §113 VwGO; state liability for wrongful acts under §839 BGB + Art. 34 GG",
+      "exceptions": ["Sofortige Vollziehung (immediate enforcement) possible before appeal under §80 Abs. 2 VwGO in public interest cases"],
+      "source": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-VwGSHrahmen",
+      "sourceLabel": "LVwG SH / VwGO",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What makes Schleswig-Holstein's LVwG SH unique among German state administrative laws?",
+        "options": ["It combines administrative procedure, police law, and general administrative law in one statute", "It was the first state administrative law in Germany", "It incorporates EU law directly", "It replaces all other state laws"],
+        "correct": 0,
+        "explanation": "Schleswig-Holstein's LVwG SH is unique in combining general administrative procedure law (VwVfG equivalent), police powers, and administrative legal framework into one comprehensive statute."
+      }
+    },
+    {
+      "id": 42341,
+      "category": "Medical Law",
+      "severity": "high",
+      "icon": "🚑",
+      "title": "RettDG SH – Rettungsdienstgesetz 12 Minuten Hilfsfrist",
+      "subtitle": "Emergency medical services law targeting 12-minute response",
+      "fullDescription": "The Rettungsdienstgesetz Schleswig-Holstein (RettDG SH) mandates emergency medical services across all 15 Kreise and independent cities. Hilfsfrist target: 12 minutes in 90% of emergency calls. SH has 38 Rettungswachen (ambulance stations). The Deutsche Gesellschaft für Rettungsdienst coordinates with UKSH trauma centers in Kiel and Lübeck. Seagoing rescue by DGzRS (Deutsche Gesellschaft zur Rettung Schiffbrüchiger).",
+      "penalty": "Systematic Hilfsfrist failures: civil liability; EMS obstruction: §323c StGB (unterlassene Hilfeleistung)",
+      "exceptions": ["Islands (Sylt, Föhr, Amrum) have modified Hilfsfrist targets accounting for ferry/helicopter access"],
+      "source": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-RettDGSHrahmen",
+      "sourceLabel": "RettDG SH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which organization handles sea rescue off Schleswig-Holstein's North Sea coast alongside emergency services?",
+        "options": ["THW (Technisches Hilfswerk)", "DGzRS (Deutsche Gesellschaft zur Rettung Schiffbrüchiger)", "ADAC Luftrettung", "Bundeswehr Marine"],
+        "correct": 1,
+        "explanation": "The DGzRS (Deutsche Gesellschaft zur Rettung Schiffbrüchiger / German Maritime Search and Rescue Service) provides sea rescue off SH's North and Baltic Sea coasts, operating 60 rescue vessels."
+      }
+    },
+    {
+      "id": 42342,
+      "category": "Industrial Law",
+      "severity": "medium",
+      "icon": "⚙️",
+      "title": "Howaldtswerke-Deutsche Werft HDW – BImSchG & AusfKontrolle",
+      "subtitle": "Kiel submarine shipyard under export control and environmental law",
+      "fullDescription": "Howaldtswerke-Deutsche Werft (HDW, now ThyssenKrupp Marine Systems), Kiel, builds submarines for the Bundeswehr and export markets (Israel, Greece, South Korea, Norway). Operations under BImSchG industrial permits and AWG/Außenwirtschaftsverordnung export controls (BAFA authorization required). HDW/TKMS is one of Germany's most export-license-intensive industrial sites, employing ~3,500.",
+      "penalty": "Unauthorized weapons/submarine export: AWG §17 criminal prosecution; up to 10 years imprisonment for serious cases",
+      "exceptions": ["Defense cooperation within NATO framework benefits from simplified BAFA licensing procedures"],
+      "source": "https://www.thyssenkrupp-marinesystems.com",
+      "sourceLabel": "AWG / BAFA / BImSchG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which federal agency issues export licenses for German arms exports including submarines from Kiel?",
+        "options": ["BND", "BMVg", "BAFA (Bundesamt für Wirtschaft und Ausfuhrkontrolle)", "Zoll (Customs)"],
+        "correct": 2,
+        "explanation": "BAFA (Bundesamt für Wirtschaft und Ausfuhrkontrolle) issues export licenses for arms and dual-use goods under AWG/Außenwirtschaftsverordnung, including submarine exports from ThyssenKrupp Marine Systems in Kiel."
+      }
+    },
+    {
+      "id": 42343,
+      "category": "Environmental Law",
+      "severity": "high",
+      "icon": "☢️",
+      "title": "Zwischenlager Brunsbüttel – AtG Strahlenschutzrecht",
+      "subtitle": "Nuclear waste interim storage under Atomic Energy Act",
+      "fullDescription": "Brunsbüttel hosts an interim storage facility (Zwischenlager) for nuclear fuel elements from the decommissioned Brunsbüttel nuclear plant. Operated under AtG §6 and StrlSchG (Strahlenschutzgesetz) with oversight by BfS. Ongoing legal dispute: the storage license was challenged by Kreis Steinburg (2018) on radiation protection grounds. Final repository selection under EndlSiG remains unresolved nationally.",
+      "penalty": "AtG radiation safety violations: BfS enforcement; criminal prosecution under §327 StGB (environmental offense)",
+      "exceptions": ["Routine transport of nuclear materials between licensed facilities under AtG §4 transport regulations"],
+      "source": "https://www.bfe.bund.de",
+      "sourceLabel": "AtG §6 / StrlSchG / EndlSiG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which federal authority supervises nuclear waste storage safety in Germany?",
+        "options": ["BMU", "BfR", "BfS (Bundesamt für Strahlenschutz)", "UBA (Umweltbundesamt)"],
+        "correct": 2,
+        "explanation": "The BfS (Bundesamt für Strahlenschutz / Federal Office for Radiation Protection) supervises nuclear waste storage safety and radiation protection across Germany under AtG and StrlSchG."
+      }
+    },
+    {
+      "id": 42344,
+      "category": "Consumer Law",
+      "severity": "medium",
+      "icon": "🛡️",
+      "title": "Verbraucherzentrale Schleswig-Holstein – §8 UWG",
+      "subtitle": "Consumer advice center in Germany's northernmost state",
+      "fullDescription": "Verbraucherzentrale Schleswig-Holstein provides consumer advice and holds locus standi under §8 UWG for Abmahnungen. Key SH-specific issues: maritime tourism scams (package holidays, boat charters), energy contract traps post-2022 price spikes, and cross-border consumer issues with Danish online retailers. ~25,000 consultations annually across 8 offices.",
+      "penalty": "Unfair commercial practices: injunctions + damages under §§8-9 UWG; repeat violations: fines up to €250,000",
+      "exceptions": ["B2B transactions between commercial parties not covered by Verbraucherzentrale UWG enforcement"],
+      "source": "https://www.verbraucherzentrale-sh.de",
+      "sourceLabel": "§8 UWG / DSA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many consumer advice offices does Verbraucherzentrale Schleswig-Holstein operate?",
+        "options": ["2", "5", "8", "15"],
+        "correct": 2,
+        "explanation": "Verbraucherzentrale Schleswig-Holstein operates 8 advice offices across the state, providing approximately 25,000 consultations annually."
+      }
+    },
+    {
+      "id": 42345,
+      "category": "Fire Safety Law",
+      "severity": "high",
+      "icon": "🚒",
+      "title": "BrSchG SH – Brandschutzgesetz Feuerwehrrecht",
+      "subtitle": "Fire service law for SH's 1,300+ volunteer departments",
+      "fullDescription": "The Brandschutzgesetz Schleswig-Holstein (BrSchG SH) governs fire protection across the state. SH has ~1,300 volunteer fire departments (Freiwillige Feuerwehren) with 50,000+ members and 4 professional departments (Berufsfeuerwehren) in Kiel, Lübeck, Flensburg, and Neumünster. Unique maritime challenge: fire response on vessels in Kiel Fjord and NOK coordinated with WSA.",
+      "penalty": "Arson: up to life imprisonment under §306b StGB where lives endangered; false fire alarms: fines under OWiG",
+      "exceptions": ["Controlled burns (Grünflächenpflege) with advance notification to Feuerwehr exempt from arson provisions"],
+      "source": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-BrSchGSHrahmen",
+      "sourceLabel": "BrSchG SH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many volunteer fire department members does Schleswig-Holstein have approximately?",
+        "options": ["15,000", "30,000", "50,000+", "100,000"],
+        "correct": 2,
+        "explanation": "Schleswig-Holstein has over 50,000 volunteer fire department (Freiwillige Feuerwehr) members across ~1,300 departments, supplemented by 4 professional fire departments in major cities."
+      }
+    },
+    {
+      "id": 42346,
+      "category": "Fiscal Law",
+      "severity": "high",
+      "icon": "💰",
+      "title": "Schleswig-Holstein Schuldenbremse – €27bn Schulden",
+      "subtitle": "State debt brake compliance after HSH Nordbank rescue increased debt",
+      "fullDescription": "Schleswig-Holstein carries ~€27bn in debt (per-capita: ~€9,400), significantly increased by the HSH Nordbank rescue. The Verfassung SH Art. 53 mirrors the federal Schuldenbremse (Art. 109 GG). SH received no Konsolidierungshilfen and must achieve structural balance. Länderfinanzausgleich receives ~€400M annually. The state aims to reduce debt through fiscal consolidation.",
+      "penalty": "Budget violations subject to Stabilitätsrat review and constitutional court proceedings",
+      "exceptions": ["Natural disaster emergency credits permitted with 2/3 Landtag majority and repayment schedule under Art. 53 SH-Verfassung"],
+      "source": "https://www.schleswig-holstein.de/finanzen",
+      "sourceLabel": "Art. 53 SH-Verfassung / Art. 109 GG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What event significantly increased Schleswig-Holstein's public debt beyond normal fiscal pressures?",
+        "options": ["2002 Elbe flood", "HSH Nordbank rescue (€6bn+ state guarantees)", "Fehmarnbelt tunnel construction costs", "2015 refugee crisis"],
+        "correct": 1,
+        "explanation": "Schleswig-Holstein's debt was significantly increased by the HSH Nordbank rescue, which required over €6bn in state guarantees from SH and Hamburg taxpayers to stabilize the failed Landesbank."
+      }
+    },
+    {
+      "id": 42347,
+      "category": "Historical Law",
+      "severity": "low",
+      "icon": "⚔️",
+      "title": "Zweiter Schleswigscher Krieg 1864 – Kriegsvölkerrecht",
+      "subtitle": "1864 war resulting in Schleswig-Holstein's incorporation into Prussia",
+      "fullDescription": "The Second Schleswig War (Deutsch-Dänischer Krieg, 1864) between Denmark and Prussia/Austria resulted in Denmark ceding Schleswig, Holstein, and Lauenburg. The subsequent Treaty of Prague (1866) and Treaty of Vienna (1864) shaped modern international boundary law. The Gastein Convention (1865) — dividing Schleswig-Holstein between Prussia and Austria — is cited in international law as an example of condominium governance.",
+      "penalty": "Historical; no modern enforcement",
+      "exceptions": ["Treaty obligations fully superseded by later German-Danish bilateral treaties and Bonn-Copenhagen 1955"],
+      "source": "https://www.schleswig-holstein.de/geschichte",
+      "sourceLabel": "Treaty of Vienna 1864 / Treaty of Prague 1866",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What was the Gastein Convention (1865) known for in international law?",
+        "options": ["First arms limitation treaty", "Example of condominium governance dividing Schleswig-Holstein between Prussia and Austria", "Establishing the German-Danish border permanently", "Creating the North Sea fisheries framework"],
+        "correct": 1,
+        "explanation": "The Gastein Convention (1865) divided administration of Schleswig-Holstein between Prussia (Schleswig) and Austria (Holstein), creating an unusual condominium-like arrangement cited in international law literature."
+      }
+    },
+    {
+      "id": 42348,
+      "category": "Immigration Law",
+      "severity": "medium",
+      "icon": "🛂",
+      "title": "Aufnahmeeinrichtungen SH – AsylG & Königsteiner Schlüssel",
+      "subtitle": "Asylum reception in Schleswig-Holstein with ~3.5% national allocation",
+      "fullDescription": "Schleswig-Holstein receives ~3.5% of Germany's asylum seekers under the Königsteiner Schlüssel, processed through the Aufnahmeeinrichtung Boostedt (capacity 1,200) and 15 Kreise distribution housing. ~22,000 asylum seekers registered in 2023. The Danish border situation creates unique secondary movement challenges. Integration through 660-hour courses (§44 AufenthG) and FlüchtlingsIntegrationsmaßnahmen (FIM).",
+      "penalty": "Illegal entry via Danish border: AufenthG §14 fines; smuggling: up to 10 years under §96 AufenthG",
+      "exceptions": ["Family reunification claims under §29 AufenthG exempt from normal waiting periods for recognized refugees"],
+      "source": "https://www.schleswig-holstein.de/asyl",
+      "sourceLabel": "AsylG / AufenthG / §44 IntegrationsG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What capacity does Schleswig-Holstein's main asylum reception center in Boostedt have?",
+        "options": ["200 persons", "600 persons", "1,200 persons", "5,000 persons"],
+        "correct": 2,
+        "explanation": "The Aufnahmeeinrichtung Boostedt, Schleswig-Holstein's main asylum reception center, has a capacity of approximately 1,200 persons."
+      }
+    },
+    {
+      "id": 42349,
+      "category": "Maritime Law",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "MARPOL SH – Hafenstaatkontrolle & Ölverschmutzung",
+      "subtitle": "Marine pollution prevention enforced through port state control",
+      "fullDescription": "BSH (Bundesamt für Seeschifffahrt und Hydrographie, Hamburg) enforces MARPOL 73/78 (International Convention for the Prevention of Pollution from Ships) through port state control inspections in Kiel, Lübeck, and Brunsbüttel. MARPOL Annex VI (air emissions: NOx, SOx, PM) applies strict Baltic Sea Emission Control Area (ECA) standards: max 0.1% sulfur fuel since 2015.",
+      "penalty": "MARPOL Annex VI sulfur violations in Baltic ECA: WaStrStBV fines up to €500,000 + vessel detention",
+      "exceptions": ["Vessels using scrubbers (exhaust gas cleaning systems) may use high-sulfur fuel with equivalent emission reduction"],
+      "source": "https://www.bsh.de/marpol",
+      "sourceLabel": "MARPOL 73/78 / MARPOL Annex VI / BSH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum sulfur content permitted in ship fuel in the Baltic Sea Emission Control Area (ECA) since 2015?",
+        "options": ["3.5%", "1.0%", "0.5%", "0.1%"],
+        "correct": 3,
+        "explanation": "MARPOL Annex VI sets a 0.1% maximum sulfur content for ship fuel in the Baltic Sea Emission Control Area (ECA) since January 2015, drastically reducing maritime air pollution."
+      }
+    },
+    {
+      "id": 42350,
+      "category": "Cultural Heritage Law",
+      "severity": "medium",
+      "icon": "🎨",
+      "title": "Emil Nolde Stiftung – UrhG & NS-Raubkunst Restitution",
+      "subtitle": "Expressionist master's estate and degenerate art restitution issues",
+      "fullDescription": "Emil Nolde (1867–1956) was born in Nolde (Schleswig-Holstein) and his foundation (Stiftung Seebüll Ada und Emil Nolde) manages ~9,000 works. Though Nolde was classified as 'degenerate art' by the Nazis, recent research revealed he was also an active NSDAP supporter. Nazi-looted works (Raubkunst) involving Nolde pieces require restitution under Washington Principles 1998 and Deutsches Zentrum Kulturgutverluste. Copyright held by the foundation under §64 UrhG until 2027.",
+      "penalty": "Unauthorized Nolde reproductions before 2027 public domain: §97 UrhG damages; Raubkunst non-restitution: reputational and legal consequences",
+      "exceptions": ["Museum academic loans between Washington Principles signatories exempt from immediate restitution pending provenance research"],
+      "source": "https://www.nolde-stiftung.de",
+      "sourceLabel": "§64 UrhG / Washington Principles 1998 / DZK",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What recent historical revelation complicated Emil Nolde's legacy despite his 'degenerate art' classification?",
+        "options": ["He was secretly Jewish", "Research revealed he was an active NSDAP supporter despite Nazi persecution of his art", "He collaborated with the Soviet Union", "He sold works to foreign governments"],
+        "correct": 1,
+        "explanation": "Recent historical research revealed that Emil Nolde was an active NSDAP supporter and anti-Semite, complicating his narrative as a victim of Nazi cultural policy despite his art being labeled 'degenerate.'"
+      }
+    }
+  ]
+}

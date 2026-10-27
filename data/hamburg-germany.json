@@ -1,0 +1,1506 @@
+{
+  "country": "Hamburg, Germany",
+  "slug": "hamburg-germany",
+  "laws": [
+    {
+      "id": 41601,
+      "category": "Maritime & Port",
+      "severity": "high",
+      "icon": "⚓",
+      "title": "Hamburg Port Authority (HPA) Regulations",
+      "subtitle": "Europe's third-largest port — strict operational rules",
+      "fullDescription": "The Port of Hamburg handles over 8 million TEU containers annually. The Hamburg Port Authority (HPA) enforces mandatory pilotage on the Elbe, speed limits, vessel reporting via Port Community System (PCS), and environmental compliance. Unauthorized entry into restricted port zones carries significant penalties.",
+      "penalty": "Fines up to €50,000; vessel detention possible",
+      "exceptions": ["Vessels under 300 GT exempt from compulsory pilotage in outer Elbe"],
+      "source": "https://www.hamburg-port-authority.de",
+      "sourceLabel": "Hamburg Port Authority",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Hamburg port's annual container throughput?",
+        "options": ["4 million TEU", "8 million TEU", "12 million TEU", "2 million TEU"],
+        "correct": 1,
+        "explanation": "Hamburg handles over 8 million TEU per year, making it Europe's third-largest container port."
+      }
+    },
+    {
+      "id": 41602,
+      "category": "Maritime & Port",
+      "severity": "high",
+      "icon": "🚢",
+      "title": "Elbe Compulsory Pilotage (Lotsenpflicht)",
+      "subtitle": "Mandatory river pilots for large vessels on the Elbe",
+      "fullDescription": "All vessels over 90 metres in length must take on a licensed Elbe river pilot (Elblotse) when navigating the Elbe to/from Hamburg. The Lotsenbrüderschaft Elbe (Elbe Pilots' Brotherhood) operates under state supervision. Pilots board at Cuxhaven or at sea. Refusal to accept a compulsory pilot is a criminal offence.",
+      "penalty": "Criminal fine; vessel may be denied port entry",
+      "exceptions": ["Vessels under 90 m length may self-navigate with VHF contact"],
+      "source": "https://www.elblotsen.de",
+      "sourceLabel": "Lotsenbrüderschaft Elbe",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "At what vessel length does Elbe compulsory pilotage apply?",
+        "options": ["60 metres", "75 metres", "90 metres", "120 metres"],
+        "correct": 2,
+        "explanation": "Vessels over 90 metres must take a licensed Elbe pilot when navigating the river to Hamburg."
+      }
+    },
+    {
+      "id": 41603,
+      "category": "Urban Development",
+      "severity": "medium",
+      "icon": "🏙️",
+      "title": "HafenCity Development Regulations",
+      "subtitle": "Europe's largest inner-city urban development project",
+      "fullDescription": "HafenCity Hamburg (157 hectares) is Europe's largest inner-city urban development. The HafenCity Hamburg GmbH controls land sales, building standards, and mixed-use requirements. Buildings must meet strict flood protection standards (Warften/elevated ground floors ≥8.0 m NHN). Deviation from approved urban development plans requires approval from Stadtentwicklungsbehörde.",
+      "penalty": "Stop-work orders; demolition costs for non-compliant structures",
+      "exceptions": ["Temporary structures for events approved case-by-case"],
+      "source": "https://www.hafencity.com",
+      "sourceLabel": "HafenCity Hamburg GmbH",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What flood protection standard must HafenCity buildings meet?",
+        "options": ["6.0 m NHN", "7.5 m NHN", "8.0 m NHN", "9.5 m NHN"],
+        "correct": 2,
+        "explanation": "HafenCity buildings must have elevated ground floors at ≥8.0 m NHN (German height reference system) for flood protection."
+      }
+    },
+    {
+      "id": 41604,
+      "category": "Entertainment & Culture",
+      "severity": "low",
+      "icon": "🎵",
+      "title": "Reeperbahn Red-Light District Regulations",
+      "subtitle": "St. Pauli entertainment district — licensed prostitution zone",
+      "fullDescription": "Hamburg's Reeperbahn in St. Pauli is one of Europe's most famous entertainment districts. Under the Prostitution Act (ProstSchG 2017), sex workers must register with authorities, undergo health counselling, and hold a valid Hurenpass (prostitution permit). The Herbertstraße (restricted to men over 18 only) operates under special local rules. Street prostitution outside designated Sperrbezirk zones is prohibited under Hamburg's Sperrbezirksverordnung.",
+      "penalty": "Fines up to €1,000 for operating outside designated zones",
+      "exceptions": ["Registered indoor establishments have extended operating hours"],
+      "source": "https://www.hamburg.de/behoerdenfinder/",
+      "sourceLabel": "Hamburg Behörden",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which federal law governs prostitution registration in Hamburg?",
+        "options": ["ProstG 2002", "ProstSchG 2017", "StGB §180", "GewO §14"],
+        "correct": 1,
+        "explanation": "The Prostitution Protection Act (ProstSchG 2017) requires sex workers to register and hold a valid permit."
+      }
+    },
+    {
+      "id": 41605,
+      "category": "Housing & Rent",
+      "severity": "high",
+      "icon": "🏠",
+      "title": "Hamburg Mietpreisbremse (Rent Brake)",
+      "subtitle": "Rent cap in Hamburg's tight housing market",
+      "fullDescription": "Hamburg is designated a 'tight housing market' (angespannter Wohnungsmarkt) under §556d BGB. New rental contracts may not exceed 10% above the local comparative rent (ortsübliche Vergleichsmiete) as set in Hamburg's Mietenspiegel. The Mietenspiegel is updated every two years. Landlords who overcharge must repay excess rent. Hamburg additionally uses the Hamburger Mietenspiegel as a qualified Mietspiegel.",
+      "penalty": "Repayment of excess rent; fine up to €500,000 for systematic violations",
+      "exceptions": ["First-time rentals of newly constructed buildings (post-2014) exempt for 5 years"],
+      "source": "https://www.hamburg.de/wohnen/mietrecht/",
+      "sourceLabel": "Hamburg.de Mietrecht",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "By how much may Hamburg rents exceed the local comparative rent?",
+        "options": ["5%", "10%", "15%", "20%"],
+        "correct": 1,
+        "explanation": "Under the Mietpreisbremse, new rents may not exceed 10% above the ortsübliche Vergleichsmiete."
+      }
+    },
+    {
+      "id": 41606,
+      "category": "Aviation & Industry",
+      "severity": "medium",
+      "icon": "✈️",
+      "title": "Airbus Hamburg Final Assembly Line",
+      "subtitle": "A320 family aircraft produced under strict aerospace regulations",
+      "fullDescription": "Airbus's Hamburg-Finkenwerder plant is the primary final assembly line (FAL) for the A320 family and A321XLR. Operations are governed by EASA Part 21 production approvals, Luftfahrt-Bundesamt (LBA) oversight, and Hamburg's industrial zoning. The plant employs 15,000+ workers. Environmental permits control noise, stormwater, and hazardous materials. Finkenwerder airport is restricted — no general aviation without prior coordination.",
+      "penalty": "Revocation of production approval; fines for environmental breaches",
+      "exceptions": ["Emergency landings at Finkenwerder permitted without prior approval"],
+      "source": "https://www.airbus.com/en/our-worldwide-presence/airbus-in-germany/hamburg",
+      "sourceLabel": "Airbus Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which aircraft family is primarily assembled at Hamburg-Finkenwerder?",
+        "options": ["A350", "A380", "A320 family", "A220"],
+        "correct": 2,
+        "explanation": "Hamburg-Finkenwerder is the main Final Assembly Line for the A320 family including the A321XLR."
+      }
+    },
+    {
+      "id": 41607,
+      "category": "Environment",
+      "severity": "high",
+      "icon": "🌊",
+      "title": "Elbe Deepening Environmental Restrictions",
+      "subtitle": "Controversial Elbe fairway deepening — ecological constraints",
+      "fullDescription": "The Elbe fairway deepening (Fahrrinnenanpassung) to 13.5 m draught was approved after decades of legal battles. The Federal Administrative Court (BVerwG) ruled in 2017 that compensatory ecological measures are mandatory. Hamburg must create tidal flats and wetland compensation areas along the Elbe. Dredging operations are restricted during fish migration seasons (March–June). The project is overseen by the Wasserstraßen- und Schifffahrtsamt (WSA) Elbe-Nordsee.",
+      "penalty": "Injunctions; reversal of deepening if compensation measures fail",
+      "exceptions": ["Emergency maintenance dredging permitted year-round with BfN approval"],
+      "source": "https://www.wsv.de/wsa-elbe-nordsee",
+      "sourceLabel": "WSA Elbe-Nordsee",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What draught depth was the Elbe deepened to accommodate?",
+        "options": ["11.5 m", "12.5 m", "13.5 m", "14.5 m"],
+        "correct": 2,
+        "explanation": "The Elbe fairway was deepened to allow vessels with up to 13.5 m draught to reach Hamburg."
+      }
+    },
+    {
+      "id": 41608,
+      "category": "Culture & Heritage",
+      "severity": "low",
+      "icon": "🎶",
+      "title": "Elbphilharmonie Public Access Rules",
+      "subtitle": "Hamburg's iconic concert hall — public plaza access guaranteed",
+      "fullDescription": "The Elbphilharmonie (opened 2017, cost €866 million) includes a publicly accessible Plaza at 37 metres height, free of charge. The Hamburg Senate guaranteed permanent free public access to the Plaza as a condition of the building's construction. Concert hall tickets are governed by Hamburg Kultur- und Tourismusbehörde. Drone flights over the Elbphilharmonie require special permits from LBA and Hamburg aviation authority.",
+      "penalty": "Fines for unauthorized drone operations; trespass fines for restricted zones",
+      "exceptions": ["Pre-approved media productions may access restricted areas"],
+      "source": "https://www.elbphilharmonie.de",
+      "sourceLabel": "Elbphilharmonie Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "At what height is the Elbphilharmonie's free public Plaza located?",
+        "options": ["25 metres", "30 metres", "37 metres", "45 metres"],
+        "correct": 2,
+        "explanation": "The Elbphilharmonie Plaza sits at 37 metres height and is permanently free and open to the public."
+      }
+    },
+    {
+      "id": 41609,
+      "category": "Transport",
+      "severity": "medium",
+      "icon": "🚇",
+      "title": "HVV Public Transport (Hamburger Verkehrsverbund)",
+      "subtitle": "Hamburg's integrated transport network — fare evasion rules",
+      "fullDescription": "The HVV operates Hamburg's U-Bahn (4 lines), S-Bahn, buses, and harbour ferries (HADAG). Fare evasion (Schwarzfahren) is a civil offence (§265a StGB) carrying a Mindestbetrag (minimum penalty) of €60 increased to €100 in 2023. The Hamburg A-Bahn (Alster steamers/Alsterdampfer) is separately operated. HVV participates in the Deutschlandticket (€49/month) scheme introduced May 2023.",
+      "penalty": "€100 erhöhtes Beförderungsentgelt for fare evasion",
+      "exceptions": ["Children under 6 travel free; dogs require separate ticket"],
+      "source": "https://www.hvv.de",
+      "sourceLabel": "Hamburger Verkehrsverbund",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the fare evasion penalty on Hamburg's HVV network?",
+        "options": ["€40", "€60", "€100", "€150"],
+        "correct": 2,
+        "explanation": "HVV raised its fare evasion penalty to €100 in 2023, in line with other major German transport networks."
+      }
+    },
+    {
+      "id": 41610,
+      "category": "Cannabis",
+      "severity": "medium",
+      "icon": "🌿",
+      "title": "Hamburg Cannabis Social Clubs",
+      "subtitle": "Hamburg as early adopter of cannabis club regulations",
+      "fullDescription": "Following the CanG (Cannabis Act) effective April 2024, Hamburg quickly licensed the first cannabis social clubs (CSC) in Germany. Hamburg's Behörde für Justiz und Verbraucherschutz oversees CSC licensing. Clubs may have up to 500 members, grow up to 25g per adult member per day (max 50g/month), and must implement youth protection measures. Hamburg city centre and school vicinity (200m) restrictions apply.",
+      "penalty": "CSC licence revocation; fines up to €30,000 for non-compliant clubs",
+      "exceptions": ["Medical cannabis from pharmacies operates under separate BtMG/MedCanG rules"],
+      "source": "https://www.hamburg.de/cannabis/",
+      "sourceLabel": "Hamburg Cannabis Info",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum number of members a Hamburg cannabis social club may have?",
+        "options": ["100", "250", "500", "1000"],
+        "correct": 2,
+        "explanation": "Under the CanG, cannabis social clubs are limited to 500 members maximum."
+      }
+    },
+    {
+      "id": 41611,
+      "category": "Education",
+      "severity": "medium",
+      "icon": "🏫",
+      "title": "Hamburg Primarschule Reform Reversal",
+      "subtitle": "Failed school reform — 6-year primary school rejected by referendum",
+      "fullDescription": "In 2010, Hamburg held a referendum (Volksbegehren) on extending primary school from 4 to 6 years (Primarschule). The reform was rejected — 276,000 voted against, the largest Volksbegehren turnout in Hamburg history. Hamburg returned to its 4-year Grundschule + Stadtteilschule/Gymnasium system. The Schulgesetz (HmbSG) governs compulsory education from age 6. Gymnasium leads to Abitur after 12 or 13 years.",
+      "penalty": "Truancy fines (Schulpflichtverletzung) up to €1,000 per parent",
+      "exceptions": ["Home schooling not permitted in Hamburg (unlike some other Länder)"],
+      "source": "https://www.hamburg.de/bsb/schule/",
+      "sourceLabel": "Hamburg Schulbehörde",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What happened to Hamburg's 2010 Primarschule referendum?",
+        "options": ["It passed narrowly", "It was rejected by voters", "It was cancelled by the Senate", "It is still pending"],
+        "correct": 1,
+        "explanation": "Hamburg voters rejected the 6-year primary school reform in 2010 — the largest Volksbegehren turnout in Hamburg history."
+      }
+    },
+    {
+      "id": 41612,
+      "category": "Football & Sports",
+      "severity": "low",
+      "icon": "⚽",
+      "title": "50+1 Rule — Hamburger SV",
+      "subtitle": "DFL 50+1 ownership rule protects club sovereignty",
+      "fullDescription": "Hamburger SV is one of Germany's oldest football clubs (founded 1887). Like all DFL clubs, it is subject to the 50+1 rule requiring the sporting club (e.V.) to hold more than 50% of voting rights in the commercial entity. HSV was the last founding Bundesliga club to be relegated (2018). The Volksparkstadion (57,000 capacity) event permits are issued by Hamburg's Behörde für Inneres.",
+      "penalty": "DFL licence revocation for 50+1 violations",
+      "exceptions": ["Clubs with 20+ years of continuous investor control (e.g. Bayer Leverkusen, VfL Wolfsburg) are grandfathered"],
+      "source": "https://www.dfl.de",
+      "sourceLabel": "Deutsche Fußball Liga",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does Germany's 50+1 rule require?",
+        "options": ["50% of players must be German", "The sporting club must hold >50% of voting rights", "50% of stadium revenue goes to the club", "Investors must hold at least 51%"],
+        "correct": 1,
+        "explanation": "The 50+1 rule requires the registered sporting club (e.V.) to retain majority voting control over its commercial entity."
+      }
+    },
+    {
+      "id": 41613,
+      "category": "Constitutional",
+      "severity": "info",
+      "icon": "🏛️",
+      "title": "Hamburg City-State Constitution (Verfassung der Freien und Hansestadt Hamburg)",
+      "subtitle": "Hamburg is simultaneously a city and a federal state",
+      "fullDescription": "Hamburg's constitution (1952, amended 2013) establishes it as both a city and a Land (federal state). The Bürgerschaft (parliament) has 123 seats elected every 4 years. Hamburg has no Landkreise — the city IS the state. The First Mayor (Erster Bürgermeister) heads the Senate (government). Hamburg's Verfassungsgericht hears state constitutional disputes.",
+      "penalty": "N/A — constitutional information",
+      "exceptions": [],
+      "source": "https://www.landesrecht-hamburg.de",
+      "sourceLabel": "Landesrecht Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many seats does Hamburg's Bürgerschaft have?",
+        "options": ["100", "121", "123", "150"],
+        "correct": 2,
+        "explanation": "Hamburg's Bürgerschaft has 123 seats, elected every 4 years. Hamburg is both city and state."
+      }
+    },
+    {
+      "id": 41614,
+      "category": "Noise & Environment",
+      "severity": "medium",
+      "icon": "🔇",
+      "title": "Hamburg Lärmschutzverordnung (Noise Protection)",
+      "subtitle": "Strict night noise limits in dense urban environment",
+      "fullDescription": "Hamburg's noise protection rules set night limits of 40 dB(A) for residential areas (22:00–06:00). The Port of Hamburg has special noise permits given 24/7 operations, but residential developments near the port require sound insulation certificates (Lärmschutzausweis). Hamburg's Umweltbehörde enforces EU Environmental Noise Directive action plans every 5 years.",
+      "penalty": "Fines up to €5,000 for repeated noise violations; club licences revoked",
+      "exceptions": ["Designated outdoor events with permits may exceed limits until 24:00"],
+      "source": "https://www.hamburg.de/laermschutz/",
+      "sourceLabel": "Hamburg Umweltbehörde",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Hamburg's residential night noise limit?",
+        "options": ["35 dB(A)", "40 dB(A)", "45 dB(A)", "50 dB(A)"],
+        "correct": 1,
+        "explanation": "Hamburg's residential areas have a 40 dB(A) night noise limit (22:00–06:00)."
+      }
+    },
+    {
+      "id": 41615,
+      "category": "Maritime & Port",
+      "severity": "medium",
+      "icon": "🚢",
+      "title": "Hamburg Cruise Terminal Regulations",
+      "subtitle": "Germany's busiest cruise port — passenger and environmental rules",
+      "fullDescription": "Hamburg's three cruise terminals (HCC Altona, HCC Steinwerder, HHLA Cruise Center) handled 700,000+ passengers in 2023. Shore power (Landstrom) is mandatory for cruise ships at berth since 2023 to reduce air pollution. The Hamburg Umweltbehörde enforces SOx and NOx emission standards in the Hamburg Port Emission Control Area. Non-compliant vessels face port bans.",
+      "penalty": "Port access ban; fines up to €100,000 for emission violations",
+      "exceptions": ["Emergency repairs requiring engine operation exempt with HPA permission"],
+      "source": "https://www.hamburgcruise.com",
+      "sourceLabel": "Hamburg Cruise",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What environmental requirement applies to cruise ships at Hamburg berths since 2023?",
+        "options": ["Biofuel only", "Shore power mandatory", "Engine off rule", "Carbon offset purchase"],
+        "correct": 1,
+        "explanation": "Hamburg made shore power (Landstrom) mandatory for cruise ships at berth in 2023 to cut air pollution."
+      }
+    },
+    {
+      "id": 41616,
+      "category": "Data & Privacy",
+      "severity": "high",
+      "icon": "🔒",
+      "title": "Hamburg DPA (HmbBfDI) — GDPR Enforcement",
+      "subtitle": "Hamburg's data protection authority known for major tech fines",
+      "fullDescription": "The Hamburgische Beauftragte für Datenschutz und Informationsfreiheit (HmbBfDI) is Hamburg's data protection authority. It issued a €35.3 million fine against H&M in 2020 for systematic employee surveillance — the largest German DPA fine at the time. Hamburg's DPA has jurisdiction over Google, due to Google Germany's Hamburg registration. GDPR breaches must be notified within 72 hours.",
+      "penalty": "GDPR fines up to €20 million or 4% of global annual turnover",
+      "exceptions": ["Small businesses under 250 employees have reduced documentation obligations"],
+      "source": "https://www.datenschutz-hamburg.de",
+      "sourceLabel": "HmbBfDI",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What fine did Hamburg's DPA issue against H&M in 2020?",
+        "options": ["€5.3 million", "€14.5 million", "€35.3 million", "€50 million"],
+        "correct": 2,
+        "explanation": "Hamburg's HmbBfDI fined H&M €35.3 million in 2020 for systematic employee surveillance — then Germany's largest GDPR fine."
+      }
+    },
+    {
+      "id": 41617,
+      "category": "Trade & Customs",
+      "severity": "medium",
+      "icon": "📦",
+      "title": "Hamburg Free Port Abolition (Freihafen)",
+      "subtitle": "Hamburg's historic free port was abolished in 2013",
+      "fullDescription": "Hamburg's Freihafen (free port) was a customs-free zone within the EU customs territory, one of the last in Europe. It was formally abolished on 1 January 2013 when Hamburg joined the EU customs union fully. The Speicherstadt warehouse district (now UNESCO World Heritage since 2015) was formerly inside the Freihafen. Goods now clear customs at Hamburg's Zollamt. The abolition eliminated the special import/export documentation regime.",
+      "penalty": "Standard EU customs penalties for smuggling and false declarations",
+      "exceptions": ["Zollfreilager (customs warehouses) still allow duty suspension under EU regulations"],
+      "source": "https://www.zoll.de",
+      "sourceLabel": "Zoll.de",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was Hamburg's historic Freihafen (free port) abolished?",
+        "options": ["2004", "2008", "2013", "2015"],
+        "correct": 2,
+        "explanation": "Hamburg's Freihafen was abolished on 1 January 2013 when Hamburg fully joined the EU customs union."
+      }
+    },
+    {
+      "id": 41618,
+      "category": "Heritage & Conservation",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Speicherstadt & Kontorhausviertel UNESCO Protection",
+      "subtitle": "UNESCO World Heritage since 2015 — strict preservation rules",
+      "fullDescription": "Hamburg's Speicherstadt (warehouse city, 1883–1927) and adjacent Kontorhausviertel (including Chilehaus, 1924) gained UNESCO World Heritage status in 2015. The Denkmalschutzgesetz Hamburg (DSchG) prohibits exterior modifications without approval from the Denkmalschutzamt. Building work within the buffer zone requires an Erlaubnis. The Speicherstadt is now partly redeveloped as the International Maritime Museum and cultural spaces.",
+      "penalty": "Fines up to €500,000; restoration at owner's expense",
+      "exceptions": ["Interior modifications not visible from outside may proceed with standard building permit"],
+      "source": "https://www.denkmalschutzamt.hamburg.de",
+      "sourceLabel": "Denkmalschutzamt Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Hamburg's Speicherstadt gain UNESCO World Heritage status?",
+        "options": ["2008", "2012", "2015", "2018"],
+        "correct": 2,
+        "explanation": "The Speicherstadt and Kontorhausviertel (including Chilehaus) became UNESCO World Heritage in 2015."
+      }
+    },
+    {
+      "id": 41619,
+      "category": "Environment",
+      "severity": "high",
+      "icon": "🌍",
+      "title": "Hamburg Klimaplan 2030 — Climate Neutrality Target",
+      "subtitle": "Hamburg aims for climate neutrality by 2045",
+      "fullDescription": "Hamburg's Hamburger Klimaplan (2019, updated 2023) targets climate neutrality by 2045 and 55% CO₂ reduction by 2030 vs. 1990. The plan is legally anchored in the Hamburgisches Klimaschutzgesetz (HmbKlimaSchG 2020). Hamburg's Energy Transition includes district heating (Fernwärme) decarbonisation — Vattenfall's network must be coal-free by 2030. The Klimaschutzrat advises the Senate annually.",
+      "penalty": "State bodies subject to internal carbon budgets; reporting obligations",
+      "exceptions": ["Emergency energy supply provisions may temporarily override CO₂ targets"],
+      "source": "https://www.hamburg.de/klimaschutz/",
+      "sourceLabel": "Hamburg Klimaschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Hamburg's target for Fernwärme (district heating) decarbonisation?",
+        "options": ["2025", "2028", "2030", "2035"],
+        "correct": 2,
+        "explanation": "Hamburg's Vattenfall district heating network must be coal-free by 2030 under the Klimaplan."
+      }
+    },
+    {
+      "id": 41620,
+      "category": "Water & Alster",
+      "severity": "low",
+      "icon": "🚣",
+      "title": "Alster Lakes Navigation Rules",
+      "subtitle": "Inner and Outer Alster — strict boating regulations",
+      "fullDescription": "The Binnenalster (Inner Alster) and Außenalster (Outer Alster) are Hamburg's iconic city lakes. Motorized boats are prohibited on the Binnenalster entirely. On the Außenalster, motor boats are limited to 12 km/h. The Alster Dampfergesellschaft operates licensed ferry services. Swimmers are not permitted in the Außenalster (cold water safety, pollution rules). Stand-up paddleboarding is permitted with a Wasser- und Schifffahrtsamt registration.",
+      "penalty": "Fines up to €1,000 for prohibited motor boat use",
+      "exceptions": ["HADAG and Alster steamers have navigation permits; emergency vessels exempt"],
+      "source": "https://www.hamburg.de/alster/",
+      "sourceLabel": "Hamburg Alster Info",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What speed limit applies to motor boats on the Außenalster?",
+        "options": ["6 km/h", "8 km/h", "12 km/h", "15 km/h"],
+        "correct": 2,
+        "explanation": "Motor boats on the Außenalster are limited to 12 km/h. The Binnenalster bans motor boats entirely."
+      }
+    },
+    {
+      "id": 41621,
+      "category": "Labour",
+      "severity": "high",
+      "icon": "⚙️",
+      "title": "IG Metall Hamburg — Collective Bargaining (Airbus/Port)",
+      "subtitle": "Strong union presence in Hamburg's industrial sectors",
+      "fullDescription": "IG Metall's Hamburg district covers Airbus, Blohm+Voss, and maritime industries. Collective agreements (Tarifverträge) under the Tarifvertragsgesetz (TVG) bind all employers in the sector if declared generally applicable (allgemeinverbindlich). Port workers are covered by the Gesamthafenbetrieb Hamburg GmbH (GHBH) — a unique pooled labour organisation. Strike action (Streikrecht) is constitutionally protected under Article 9(3) GG.",
+      "penalty": "Employers who undercut collectively agreed wages face fines; workers cannot be dismissed for lawful strikes",
+      "exceptions": ["Essential services (hospitals, fire service) have restricted strike rights"],
+      "source": "https://www.igmetall-hamburg.de",
+      "sourceLabel": "IG Metall Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Gesamthafenbetrieb Hamburg GmbH (GHBH)?",
+        "options": ["Port authority regulator", "Pooled port labour organisation", "Ship classification society", "Hamburg customs authority"],
+        "correct": 1,
+        "explanation": "The GHBH is a unique pooled labour organisation supplying flexible dock workers to Hamburg port employers."
+      }
+    },
+    {
+      "id": 41622,
+      "category": "Media",
+      "severity": "medium",
+      "icon": "📰",
+      "title": "Hamburg Press Freedom & Publishing Hub",
+      "subtitle": "Germany's media capital — Axel Springer, Zeit, Spiegel",
+      "fullDescription": "Hamburg is Germany's leading media city — home to Axel Springer (relocated to Berlin but founded Hamburg), Die Zeit, Der Spiegel, Gruner+Jahr, and Stern. The Hamburgische Anstalt für neue Medien (HAM) regulates private broadcasters in Hamburg. Press freedom is protected under Article 5 GG and the Hamburg Pressegesetz. The Presserat (press council) enforces the Pressekodex (self-regulatory code of ethics) for print and online media.",
+      "penalty": "Injunctions for false reporting (einstweilige Verfügung); damages for defamation",
+      "exceptions": ["Reporting on public interest matters has broader legal protection"],
+      "source": "https://www.ham.de",
+      "sourceLabel": "Hamburgische Anstalt für neue Medien",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which body regulates private broadcasters in Hamburg?",
+        "options": ["ARD", "ZDF", "HAM (Hamburgische Anstalt für neue Medien)", "Bundesnetzagentur"],
+        "correct": 2,
+        "explanation": "The HAM (Hamburgische Anstalt für neue Medien) regulates private broadcasters operating in Hamburg."
+      }
+    },
+    {
+      "id": 41623,
+      "category": "G20 & Security",
+      "severity": "high",
+      "icon": "🛡️",
+      "title": "G20 Hamburg 2017 — Event Security Law",
+      "subtitle": "Hamburg's G20 summit left lasting security legislation",
+      "fullDescription": "Hamburg hosted the G20 summit in July 2017, accompanied by the worst civil unrest in post-war Hamburg history (Schanzenviertel riots). Over 500 police officers were injured. Subsequent review led to strengthening of Hamburg's Versammlungsgesetz and Polizeigesetz (HmbPolDVG 2019). The 2019 law introduced predictive policing data analysis (Predictive Policing) and extended detention of suspected rioters. Hamburg's BfV (Verfassungsschutz) powers were also expanded.",
+      "penalty": "Rioting (Landfriedensbruch §125 StGB): up to 3 years imprisonment",
+      "exceptions": ["Peaceful demonstrators retain full Versammlungsfreiheit even near G20-type events"],
+      "source": "https://www.hamburg.de/polizei/",
+      "sourceLabel": "Polizei Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What year did Hamburg host the G20 summit with major riots?",
+        "options": ["2015", "2016", "2017", "2018"],
+        "correct": 2,
+        "explanation": "Hamburg hosted the G20 in July 2017. Riots in the Schanzenviertel injured 500+ police officers and led to new security legislation."
+      }
+    },
+    {
+      "id": 41624,
+      "category": "Housing",
+      "severity": "high",
+      "icon": "🏘️",
+      "title": "Wohnungsbauprogramm Hamburg — Social Housing",
+      "subtitle": "Hamburg builds 10,000 new homes per year target",
+      "fullDescription": "Hamburg's Senat set a target of 10,000 new housing units per year under the Bündnis für das Wohnen. At least one-third must be public (öffentlich geförderter Wohnungsbau) or affordable housing. SAGA GWG, Hamburg's municipal housing company, manages 132,000 apartments (the largest in Germany). Developers of large projects must fulfil the Drittelmix (one-third affordable housing obligation) under §11 BauGB urban development contracts.",
+      "penalty": "Withholding of building permits for non-compliant large developments",
+      "exceptions": ["Small projects under 30 units exempt from Drittelmix obligation"],
+      "source": "https://www.hamburg.de/wohnungsbau/",
+      "sourceLabel": "Hamburg Wohnungsbau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many apartments does Hamburg's SAGA GWG municipal housing company manage?",
+        "options": ["50,000", "80,000", "132,000", "200,000"],
+        "correct": 2,
+        "explanation": "SAGA GWG manages 132,000 apartments, making it Germany's largest municipal housing company."
+      }
+    },
+    {
+      "id": 41625,
+      "category": "Food & Market",
+      "severity": "low",
+      "icon": "🐟",
+      "title": "Fischmarkt Hamburg — Sunday Morning Market Rules",
+      "subtitle": "Historic fish market exempt from Sunday trading laws",
+      "fullDescription": "Hamburg's Fischmarkt (fish market) at Altona has operated since 1703 (royal charter). It runs every Sunday from 05:00–09:30 (04:00 in summer). The market is one of very few commercial operations exempt from the German Ladenschlussgesetz/Sunday trading restrictions, operating under a grandfathered exception in Hamburg's Ladenöffnungsgesetz. Stalls selling non-fish goods must cease by 09:30. The Fischauktionshalle (1896) is a protected heritage building.",
+      "penalty": "Fines for trading beyond permitted hours; market licence revocation",
+      "exceptions": ["Fish traders may continue until stock is sold out, typically by 09:30"],
+      "source": "https://www.hamburg.de/fischmarkt/",
+      "sourceLabel": "Hamburg Fischmarkt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Since what year has Hamburg's Fischmarkt operated under a royal charter?",
+        "options": ["1650", "1703", "1789", "1842"],
+        "correct": 1,
+        "explanation": "Hamburg's Fischmarkt has a royal charter dating to 1703, granting it a special Sunday trading exemption."
+      }
+    },
+    {
+      "id": 41626,
+      "category": "Justice",
+      "severity": "medium",
+      "icon": "⚖️",
+      "title": "OLG Hamburg — International Maritime Law",
+      "subtitle": "Hamburg courts are Germany's leading maritime law venue",
+      "fullDescription": "The Oberlandesgericht (OLG) Hamburg and Landgericht Hamburg have developed Germany's leading maritime law jurisprudence. Hamburg handles the majority of Germany's maritime disputes, ship arrests, cargo claims, and P&I Club cases. The Hamburger Havariekommando handles marine casualty investigations jointly with the BSU (Bundesstelle für Seeunfalluntersuchung). Hamburg is also home to the International Tribunal for the Law of the Sea (ITLOS) under UNCLOS.",
+      "penalty": "Ship arrest (Schiffsarrest) under §916 ZPO; cargo lien enforcement",
+      "exceptions": ["State vessels enjoy sovereign immunity from arrest under UNCLOS"],
+      "source": "https://www.itlos.org",
+      "sourceLabel": "ITLOS Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which international maritime law tribunal is headquartered in Hamburg?",
+        "options": ["ICC", "ICJ", "ITLOS", "PCA"],
+        "correct": 2,
+        "explanation": "The International Tribunal for the Law of the Sea (ITLOS) under UNCLOS is headquartered in Hamburg."
+      }
+    },
+    {
+      "id": 41627,
+      "category": "Environment",
+      "severity": "medium",
+      "icon": "♻️",
+      "title": "Hamburg Waste Management (Stadtreinigung Hamburg)",
+      "subtitle": "Mandatory waste separation and recycling obligations",
+      "fullDescription": "Stadtreinigung Hamburg (SRH) operates the city's waste collection. Mandatory waste separation includes Bioabfall (organic), Papier (paper), Gelber Sack (packaging), Restmüll (residual), and Glas. Hamburg's Kreislaufwirtschaftsgesetz (KrWG) obligations require buildings to provide adequate recycling space. Illegal dumping (wildes Müllentsorgen) is prosecuted under §326 StGB. Hamburg achieved a recycling rate of over 65% in 2023.",
+      "penalty": "Fines €50–€5,000 for illegal dumping; property owners liable for their tenants",
+      "exceptions": ["Bulky waste (Sperrmüll) has separate scheduled collection twice yearly"],
+      "source": "https://www.stadtreinigung.hamburg",
+      "sourceLabel": "Stadtreinigung Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What recycling rate did Hamburg achieve in 2023?",
+        "options": ["45%", "55%", "65%", "75%"],
+        "correct": 2,
+        "explanation": "Hamburg achieved over 65% recycling rate in 2023 under mandatory waste separation obligations."
+      }
+    },
+    {
+      "id": 41628,
+      "category": "Cycling",
+      "severity": "low",
+      "icon": "🚲",
+      "title": "Hamburg Radverkehrsstrategie 2030",
+      "subtitle": "Hamburg targets 25% cycling modal share by 2030",
+      "fullDescription": "Hamburg's cycling strategy targets 25% modal share for cycling by 2030 (currently ~17%). The city is building protected cycle lanes (Velorouten) — 14 main routes totalling 280 km. The Mobilitätswende plan prioritises cycling infrastructure over car parking in the Innenstadt. E-bike use is booming; speed pedelecs (S-Pedelecs, 45 km/h) require type approval, insurance, and helmet. Hamburg's StVO rules require minimum 1.5 m overtaking distance for cyclists.",
+      "penalty": "Fines for cycling on pedestrian paths; €60+ for failing to keep safe overtaking distance",
+      "exceptions": ["Shared foot/cycle paths (Gemeinsamer Geh- und Radweg) permit cycling"],
+      "source": "https://www.hamburg.de/radverkehr/",
+      "sourceLabel": "Hamburg Radverkehr",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What cycling modal share does Hamburg's 2030 strategy target?",
+        "options": ["15%", "20%", "25%", "30%"],
+        "correct": 2,
+        "explanation": "Hamburg's Radverkehrsstrategie 2030 targets 25% of all trips made by bicycle."
+      }
+    },
+    {
+      "id": 41629,
+      "category": "Finance",
+      "severity": "medium",
+      "icon": "💼",
+      "title": "Hamburg as Financial Centre — Berenberg Bank",
+      "subtitle": "World's oldest private bank headquartered in Hamburg",
+      "fullDescription": "Berenberg Bank (founded 1590) is the world's oldest merchant bank and is headquartered in Hamburg. Hamburg's financial sector is governed by BaFin (federal) and the Finanzbehörde Hamburg (state). Hamburg's Gewerbesteuer-Hebesatz is 470% — one of Germany's highest. The Hamburg Börse (stock exchange) operates as a regional exchange under BaFin supervision. Private banks must hold minimum capital under CRR/CRD IV.",
+      "penalty": "BaFin sanctions for capital adequacy breaches; licence revocation",
+      "exceptions": ["Investment firms with AUM under €1.2bn qualify for lighter MiFID II regime"],
+      "source": "https://www.berenberg.de",
+      "sourceLabel": "Berenberg Bank",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was Berenberg Bank, the world's oldest private bank, founded in Hamburg?",
+        "options": ["1490", "1590", "1690", "1790"],
+        "correct": 1,
+        "explanation": "Berenberg Bank was founded in Hamburg in 1590, making it the world's oldest continuously operating merchant bank."
+      }
+    },
+    {
+      "id": 41630,
+      "category": "Policing",
+      "severity": "high",
+      "icon": "🚔",
+      "title": "Hamburger Polizeigesetz (HmbPolDVG) 2019",
+      "subtitle": "Hamburg's police law includes preventive detention and surveillance",
+      "fullDescription": "Hamburg's Police and Data Processing Act (HmbPolDVG 2019) updated after G20 riots. Key provisions: IMSI-catchers (IMSI-Catcher) permitted for terror prevention; preventive detention (Gewahrsam) up to 18 days for serious danger (after court approval); bodycams on all patrol officers; drones for crowd surveillance; facial recognition at major events. Hamburg's Verfassungsschutz (LfV) cooperates with BfV on counter-terrorism.",
+      "penalty": "Officers face disciplinary proceedings for unlawful surveillance; detainees must be brought before judge within 48 hours",
+      "exceptions": ["Data collected for preventive purposes may not be used as criminal evidence without separate authorisation"],
+      "source": "https://www.landesrecht-hamburg.de",
+      "sourceLabel": "Landesrecht Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long can Hamburg police hold a person in preventive detention with court approval?",
+        "options": ["48 hours", "7 days", "18 days", "30 days"],
+        "correct": 2,
+        "explanation": "Hamburg's HmbPolDVG 2019 allows preventive detention (Gewahrsam) up to 18 days for serious danger, with judicial approval."
+      }
+    },
+    {
+      "id": 41631,
+      "category": "Shipping & Classification",
+      "severity": "medium",
+      "icon": "🛳️",
+      "title": "Germanischer Lloyd / DNV GL — Ship Classification",
+      "subtitle": "World-leading ship classification society based in Hamburg",
+      "fullDescription": "Germanischer Lloyd (GL), founded in Hamburg in 1867, merged with Norway's Det Norske Veritas (DNV) in 2013 to form DNV GL (now DNV). DNV's Hamburg office remains a global centre for ship classification, offshore certification, and maritime software. Classification certificates are required by flag states and insurance under SOLAS. Hamburg's maritime cluster employs 68,000+ people across 1,600+ companies.",
+      "penalty": "Vessels without valid classification lose insurance and flag state approval; port state control detention",
+      "exceptions": ["Historic vessels under 24 m may use simplified classification rules"],
+      "source": "https://www.dnv.com",
+      "sourceLabel": "DNV Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was Germanischer Lloyd founded in Hamburg?",
+        "options": ["1827", "1867", "1900", "1919"],
+        "correct": 1,
+        "explanation": "Germanischer Lloyd was founded in Hamburg in 1867 and later merged with DNV to form DNV GL."
+      }
+    },
+    {
+      "id": 41632,
+      "category": "Immigration",
+      "severity": "high",
+      "icon": "✈️",
+      "title": "Hamburg Airport Asylum Processing",
+      "subtitle": "Airport asylum procedure at Hamburg Airport",
+      "fullDescription": "Hamburg Airport (HAM, Fuhlsbüttel) is a designated airport for asylum seekers arriving without valid documents. Under §18a AsylG, asylum seekers can be processed at the airport and held in accommodation zones for up to 19 days. BAMF conducts accelerated procedures at the airport. Rejected applicants can be returned before entering German territory. Hamburg's Ausländerbehörde (immigration authority) issues residence permits under the Aufenthaltsgesetz (AufenthG).",
+      "penalty": "Deportation (Abschiebung) for failed asylum seekers; detention under §62 AufenthG",
+      "exceptions": ["Unaccompanied minors cannot be detained at airport; special protection applies"],
+      "source": "https://www.bamf.de",
+      "sourceLabel": "BAMF",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many days can asylum seekers be held at Hamburg Airport under §18a AsylG?",
+        "options": ["7 days", "14 days", "19 days", "30 days"],
+        "correct": 2,
+        "explanation": "Under §18a AsylG, asylum seekers at Hamburg Airport can be processed and held for up to 19 days."
+      }
+    },
+    {
+      "id": 41633,
+      "category": "Culture",
+      "severity": "low",
+      "icon": "🎭",
+      "title": "Hamburg State Opera & Staatstheater",
+      "subtitle": "Hamburg State Opera — Germany's oldest opera house",
+      "fullDescription": "Hamburg's Staatsoper (1678) is Germany's oldest opera house and one of the world's leading opera companies. It operates under the Behörde für Kultur und Medien and receives approximately €100 million in annual subsidies. The Hamburg Ballet under John Neumeier is one of the world's top ballet companies. Under the NV Bühne (theatre collective agreement), all performers and crew have standardised employment contracts. The Kulturförderprogramm Hamburg funds independent theatre and music.",
+      "penalty": "Loss of Kulturfördermittel (subsidy) for non-compliant organisations",
+      "exceptions": ["Amateur theatre groups exempt from NV Bühne collective agreement obligations"],
+      "source": "https://www.hamburgische-staatsoper.de",
+      "sourceLabel": "Hamburgische Staatsoper",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was Hamburg's Staatsoper founded, making it Germany's oldest?",
+        "options": ["1620", "1678", "1740", "1800"],
+        "correct": 1,
+        "explanation": "Hamburg's Staatsoper was founded in 1678, making it Germany's oldest opera house."
+      }
+    },
+    {
+      "id": 41634,
+      "category": "Road & Traffic",
+      "severity": "medium",
+      "icon": "🚗",
+      "title": "Hamburg Elbe Tunnel (Old Elbe Tunnel) Regulations",
+      "subtitle": "Historic pedestrian/vehicle tunnel under the Elbe — unique rules",
+      "fullDescription": "The Alter Elbtunnel (Old Elbe Tunnel, 1911) is a pedestrian and bicycle tunnel under the Elbe between St. Pauli and Steinwerder. Vehicles are carried by lifts (max 2 tonnes). The tunnel is a protected monument (Kulturdenkmal). It is owned and operated by the Hamburg Port Authority (HPA). Modern cars must pre-register; hazardous goods vehicles are prohibited. It is one of the world's oldest underwater tunnels still in operation.",
+      "penalty": "Fines for overweight or unauthorised vehicles; access denied to hazmat carriers",
+      "exceptions": ["Emergency vehicles may use the tunnel at any time"],
+      "source": "https://www.hamburg-port-authority.de/alter-elbtunnel",
+      "sourceLabel": "HPA Alter Elbtunnel",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum vehicle weight permitted in Hamburg's Alter Elbtunnel?",
+        "options": ["1 tonne", "2 tonnes", "3.5 tonnes", "5 tonnes"],
+        "correct": 1,
+        "explanation": "The Alter Elbtunnel's vehicle lifts carry cars up to 2 tonnes maximum. Hazardous goods vehicles are prohibited."
+      }
+    },
+    {
+      "id": 41635,
+      "category": "Energy",
+      "severity": "medium",
+      "icon": "⚡",
+      "title": "Vattenfall District Heating (Fernwärme) Transition",
+      "subtitle": "Hamburg's 450,000-household district heating network goes coal-free",
+      "fullDescription": "Vattenfall operates Hamburg's Fernwärme district heating network, supplying 450,000 households. Under the Hamburg Klimaplan, the Tiefstack and Wedel coal plants must be replaced by 2030. The network will use waste heat from an Amazon data centre, geothermal energy, and large heat pumps powered by wind energy. Hamburg's Bürgerschaft approved the energy partnership with Vattenfall under state supervision. Customers have no choice of heat supplier in network zones.",
+      "penalty": "Vattenfall subject to regulatory review if climate targets missed; compensation to city possible",
+      "exceptions": ["Buildings can opt out with own heat pump installation under certain conditions"],
+      "source": "https://www.vattenfall.de/waerme-hamburg",
+      "sourceLabel": "Vattenfall Wärme Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many households does Hamburg's Vattenfall district heating network supply?",
+        "options": ["150,000", "300,000", "450,000", "600,000"],
+        "correct": 2,
+        "explanation": "Vattenfall's Hamburg Fernwärme network supplies approximately 450,000 households and must go coal-free by 2030."
+      }
+    },
+    {
+      "id": 41636,
+      "category": "International Trade",
+      "severity": "medium",
+      "icon": "🌐",
+      "title": "Hamburg China Trade Corridor",
+      "subtitle": "Hamburg is China's most important European trading partner",
+      "fullDescription": "Hamburg is China's largest European trading partner, handling 30% of all EU-China container trade. The China Railway Express (Yiwu–Hamburg) train connects Hamburg to Yiwu in 18 days. The Hamburg-China Business Association (Hamburger China-Verband) facilitates trade. COSCO's stake in the Tollerort container terminal sparked a security debate in 2022 — the German government approved a reduced 24.9% stake after months of Cabinet disagreement.",
+      "penalty": "Investment screening under AWG/AWV for sensitive infrastructure — rejection or conditions possible",
+      "exceptions": ["Investments under 10% stake in non-critical sectors exempt from mandatory screening"],
+      "source": "https://www.hafen-hamburg.de",
+      "sourceLabel": "Hafen Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage stake did COSCO acquire in Hamburg's Tollerort container terminal?",
+        "options": ["10%", "24.9%", "35%", "49%"],
+        "correct": 1,
+        "explanation": "After months of political debate, Germany approved COSCO's reduced 24.9% (non-controlling) stake in the Tollerort terminal."
+      }
+    },
+    {
+      "id": 41637,
+      "category": "Social",
+      "severity": "medium",
+      "icon": "🏥",
+      "title": "Hamburg Gesundheitsamt — Public Health Powers",
+      "subtitle": "Hamburg's public health authority — pandemic and disease control",
+      "fullDescription": "Hamburg's Gesundheitsamt (public health office) operates under the Hamburgisches Infektionsschutzgesetz (HmbIfSG) and the federal Infektionsschutzgesetz (IfSG). During COVID-19, Hamburg issued Allgemeinverfügungen (general orders) for venue closures and mask mandates. Hamburg's Senat declared a pandemic emergency under §35 HmbSOG. The Institut für Hygiene und Umwelt (HU) monitors disease outbreaks and food safety.",
+      "penalty": "Quarantine orders enforceable; fines for breaching isolation orders",
+      "exceptions": ["Critical infrastructure workers exempt from certain quarantine rules during declared emergencies"],
+      "source": "https://www.hamburg.de/gesundheitsamt/",
+      "sourceLabel": "Hamburg Gesundheitsamt",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What institute monitors disease outbreaks and food safety in Hamburg?",
+        "options": ["RKI Hamburg", "Institut für Hygiene und Umwelt (HU)", "BfR Hamburg", "Paul-Ehrlich-Institut"],
+        "correct": 1,
+        "explanation": "Hamburg's Institut für Hygiene und Umwelt (HU) handles disease outbreak monitoring and food safety testing."
+      }
+    },
+    {
+      "id": 41638,
+      "category": "Construction",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Hamburgische Bauordnung (HBauO)",
+      "subtitle": "Hamburg's building code — flood-adapted construction rules",
+      "fullDescription": "Hamburg's Bauordnung (HBauO) was significantly updated in 2022. Key Hamburg-specific rules: buildings in flood risk zones must be constructed on raised foundations (Warften) or include flood barriers; high-rises (Hochhäuser) over 22 m require special structural review; timber construction (Holzbau) up to 7 storeys now permitted following European precedents. The Baubehörde issues Baugenehmigungen (building permits). Hamburg's Grundstücksmarktbericht annually reports land values.",
+      "penalty": "Demolition orders for illegal structures; fines up to €500,000",
+      "exceptions": ["Small garden sheds under 10 m² are verfahrensfrei (permit-free)"],
+      "source": "https://www.hamburg.de/bauordnung/",
+      "sourceLabel": "Hamburg Bauordnung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Up to how many storeys is timber construction now permitted in Hamburg?",
+        "options": ["4 storeys", "5 storeys", "7 storeys", "10 storeys"],
+        "correct": 2,
+        "explanation": "Hamburg's updated HBauO permits timber (Holzbau) construction up to 7 storeys following European building trends."
+      }
+    },
+    {
+      "id": 41639,
+      "category": "Cycling & Mobility",
+      "severity": "low",
+      "icon": "🛴",
+      "title": "E-Scooter Regulations Hamburg",
+      "subtitle": "Rental e-scooters — Hamburg's strict parking enforcement",
+      "fullDescription": "E-scooter rental operators (Lime, Tier, Bolt, Voi) must hold Hamburg permits and comply with the eKFV (2019). In Hamburg, e-scooters must be parked in designated zones (Abstellbereiche) or the operator is fined. Hamburg was the first German city to impose designated zone parking via operator contracts (2022). E-scooters may not exceed 20 km/h, must not be ridden on footpaths, and riders must be 14+. Blood alcohol limit is 1.6‰.",
+      "penalty": "Operators fined for improperly parked scooters; riders fined €15–€50 for footpath use",
+      "exceptions": ["Shared cycle lanes (Radfahrstreifen) permit e-scooter use"],
+      "source": "https://www.hamburg.de/e-scooter/",
+      "sourceLabel": "Hamburg Mobilität",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What was Hamburg's innovation in e-scooter regulation in 2022?",
+        "options": ["Banning e-scooters city-wide", "Mandatory insurance for riders", "First German city to mandate designated parking zones", "Speed limit reduction to 15 km/h"],
+        "correct": 2,
+        "explanation": "Hamburg was the first German city to mandate designated parking zones for rental e-scooters via operator contracts in 2022."
+      }
+    },
+    {
+      "id": 41640,
+      "category": "Higher Education",
+      "severity": "info",
+      "icon": "🎓",
+      "title": "Universität Hamburg & TU Hamburg",
+      "subtitle": "Hamburg's leading universities — tuition-free higher education",
+      "fullDescription": "Universität Hamburg (founded 1919, 42,000 students) and TU Hamburg (technical focus) are Hamburg's leading public universities. Higher education in Hamburg is tuition-free (Studiengebühren abolished 2012). The Hamburgisches Hochschulgesetz (HmbHG) governs universities. The DESY (Deutsches Elektronen-Synchrotron) in Hamburg-Bahrenfeld is a world-leading particle physics research centre — home to European XFEL (27 km tunnel). Hamburg also hosts HafenCity Universität (urban planning focus).",
+      "penalty": "Exmatrikulation (expulsion) for academic fraud; fines for Prüfungsbetrug",
+      "exceptions": ["International students from non-EU countries pay administrative fees only"],
+      "source": "https://www.uni-hamburg.de",
+      "sourceLabel": "Universität Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What world-leading physics facility is located in Hamburg-Bahrenfeld?",
+        "options": ["CERN Hamburg", "GSI Darmstadt", "DESY (Deutsches Elektronen-Synchrotron)", "Helmholtz Hamburg"],
+        "correct": 2,
+        "explanation": "DESY in Hamburg-Bahrenfeld is a world-leading particle physics and photon science research centre, home to the European XFEL."
+      }
+    },
+    {
+      "id": 41641,
+      "category": "Transport",
+      "severity": "medium",
+      "icon": "🚌",
+      "title": "Hamburg Autonomous Bus Trials (HVV Switch)",
+      "subtitle": "Germany's first autonomous bus in regular service — Hamburg 2021",
+      "fullDescription": "Hamburg launched Germany's first autonomous minibus (HEAT — Hamburg Electric Autonomous Transportation) in HafenCity in 2021 as part of a regulated trial. The HVV Switch app integrates multimodal transport booking. Under §70 StVG (road traffic act), autonomous vehicles require type approval and a safety driver until Level 4 is fully approved. Hamburg participates in the Federal Autonomous Driving Act (AFGB 2021) pilot framework.",
+      "penalty": "Operation of unapproved autonomous vehicles: criminal offence; vehicle impoundment",
+      "exceptions": ["Closed private test areas (abgesperrte Testgelände) do not require road traffic approval"],
+      "source": "https://www.hvv.de",
+      "sourceLabel": "HVV Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What was Hamburg's autonomous bus pilot programme in HafenCity called?",
+        "options": ["HOBO", "HEAT", "HAMU", "HAUTO"],
+        "correct": 1,
+        "explanation": "HEAT (Hamburg Electric Autonomous Transportation) was Germany's first autonomous bus in regular passenger service, launched in HafenCity in 2021."
+      }
+    },
+    {
+      "id": 41642,
+      "category": "Fisheries",
+      "severity": "medium",
+      "icon": "🐠",
+      "title": "Hamburgisches Fischereigesetz",
+      "subtitle": "Hamburg fishing rights in the Elbe and port waters",
+      "fullDescription": "Hamburg's Fischereigesetz governs fishing rights in Hamburg waters, including the Elbe and Alster. Commercial fishing on the Elbe requires a Fischereischein (fishing licence) from the Bezirksamt. Minimum catch sizes apply to pike (50 cm), eel (45 cm), and salmon. During EU salmon restoration programmes, catch-and-release applies. The Schleswig-Holstein–Hamburg Elbe fisheries commission coordinates management for the shared river.",
+      "penalty": "Fines up to €5,000 for unlicensed fishing; confiscation of equipment",
+      "exceptions": ["Children under 16 may fish without licence if accompanied by licence holder"],
+      "source": "https://www.hamburg.de/fischerei/",
+      "sourceLabel": "Hamburg Fischerei",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the minimum catch size for salmon under Hamburg's EU restoration programme rules?",
+        "options": ["Catch-and-release always applies", "40 cm", "55 cm", "60 cm"],
+        "correct": 0,
+        "explanation": "Under EU salmon restoration programmes on the Elbe, catch-and-release applies to all salmon caught in Hamburg waters."
+      }
+    },
+    {
+      "id": 41643,
+      "category": "International Law",
+      "severity": "info",
+      "icon": "🌐",
+      "title": "ITLOS — International Tribunal for the Law of the Sea",
+      "subtitle": "Hamburg hosts UN's law of the sea tribunal",
+      "fullDescription": "The International Tribunal for the Law of the Sea (ITLOS) is headquartered at the ITLOS building in Hamburg-Altstadt. Established under UNCLOS (1982), it has 21 judges and jurisdiction over maritime boundary disputes, vessel release, and seabed mining disputes. Germany hosts ITLOS under a 1997 Host Country Agreement with the UN. The ISA (International Seabed Authority) coordinates with ITLOS on deep-sea mining cases. Proceedings are in English and French.",
+      "penalty": "ITLOS orders are binding on UNCLOS member states",
+      "exceptions": ["Disputes involving military activities are excluded from ITLOS jurisdiction"],
+      "source": "https://www.itlos.org",
+      "sourceLabel": "ITLOS",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under what international treaty was ITLOS established?",
+        "options": ["MARPOL", "SOLAS", "UNCLOS", "COLREGS"],
+        "correct": 2,
+        "explanation": "ITLOS was established under UNCLOS (the UN Convention on the Law of the Sea, 1982) and is headquartered in Hamburg."
+      }
+    },
+    {
+      "id": 41644,
+      "category": "Energy",
+      "severity": "high",
+      "icon": "🔋",
+      "title": "Hamburg Hydrogen Strategy (H2 Hamburg)",
+      "subtitle": "Hamburg as Germany's leading hydrogen hub",
+      "fullDescription": "Hamburg's H2-Masterplan targets 1 GW of electrolysis capacity by 2030. The port area (Energiepark Hafen) will import and process green hydrogen. Shell's Rheinland refinery connected Hamburg's first major HRS (hydrogen refuelling station). The Fernleitungsnetz (hydrogen pipeline) will connect Hamburg to the European Hydrogen Backbone. Hamburg receives federal funding under the IPCEI Hydrogen programme (Important Projects of Common European Interest).",
+      "penalty": "Hydrogen facility operators must comply with ATEX explosive atmosphere regulations; violations = stop-work",
+      "exceptions": ["Small-scale electrolysis under 50 kW exempt from full ATEX facility classification"],
+      "source": "https://www.hamburg.de/wasserstoff/",
+      "sourceLabel": "Hamburg Wasserstoff",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What electrolysis capacity does Hamburg's H2-Masterplan target by 2030?",
+        "options": ["250 MW", "500 MW", "1 GW", "2 GW"],
+        "correct": 2,
+        "explanation": "Hamburg's H2-Masterplan targets 1 GW (gigawatt) of green hydrogen electrolysis capacity in the port area by 2030."
+      }
+    },
+    {
+      "id": 41645,
+      "category": "Social Security",
+      "severity": "medium",
+      "icon": "🤝",
+      "title": "Hamburg Bürgergeld & Jobcenter",
+      "subtitle": "Germany's new Bürgergeld welfare system administered in Hamburg",
+      "fullDescription": "Bürgergeld (Citizens' Income, replaced Hartz IV from January 2023) is administered in Hamburg by 7 Jobcenter districts. The standard rate is €563/month (2024) for singles. Hamburg supplements Bürgergeld with city-specific housing cost allowances (Kosten der Unterkunft — KdU) — Hamburg allows higher KdU limits than most German cities given its high rents. Hamburg's Bezirksamt Sozialhilfe handles cases not covered by SGB II.",
+      "penalty": "Sanktionen (benefit reductions) up to 30% for failure to cooperate with job placement",
+      "exceptions": ["Persons in training programmes or recognised caregivers have modified obligations"],
+      "source": "https://www.jobcenter-hamburg.de",
+      "sourceLabel": "Jobcenter Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the monthly Bürgergeld standard rate for a single person in 2024?",
+        "options": ["€449", "€502", "€563", "€612"],
+        "correct": 2,
+        "explanation": "The Bürgergeld standard rate for single adults is €563/month in 2024, plus housing cost allowances (KdU)."
+      }
+    },
+    {
+      "id": 41646,
+      "category": "Alcohol",
+      "severity": "medium",
+      "icon": "🍺",
+      "title": "Hamburg Public Alcohol Ban (Selective Zones)",
+      "subtitle": "Alcohol prohibited in specific Hamburg public spaces",
+      "fullDescription": "Hamburg does not have a blanket public alcohol ban, but certain areas are regulated. The U-Bahn/S-Bahn prohibits open alcohol consumption on platforms and trains (HVV Hausrecht). Hamburg's Hauptbahnhof (central station) has a total alcohol ban on platforms enforced by DB/Hamburg police. The Schanzenviertel area has time-limited restrictions during major events. Open container beer is generally permitted in Hamburg parks and public spaces.",
+      "penalty": "Fines €50–€200 for alcohol in restricted transit zones",
+      "exceptions": ["Licensed outdoor restaurant seating (Außengastronomie) adjacent to parks permitted"],
+      "source": "https://www.hvv.de/haushausrecht",
+      "sourceLabel": "HVV Beförderungsbedingungen",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where is alcohol completely banned in Hamburg's transit system?",
+        "options": ["All HVV buses", "U-Bahn carriages only", "Hauptbahnhof platforms and HVV vehicles", "Only S-Bahn"],
+        "correct": 2,
+        "explanation": "Hamburg Hauptbahnhof platforms and all HVV vehicles (U-Bahn, S-Bahn, buses) prohibit open alcohol consumption."
+      }
+    },
+    {
+      "id": 41647,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🛒",
+      "title": "Hamburg Sunday Trading Prohibition",
+      "subtitle": "Hamburg Ladenöffnungsgesetz — Sunday retail closures",
+      "fullDescription": "Hamburg's Ladenöffnungsgesetz (HmbLÖG) prohibits retail trade on Sundays and public holidays. Hamburg has 4 state-specific public holidays (Reformationstag October 31, plus federal holidays). Exceptions: petrol stations, airport shops, tourist areas (up to 8 Sundays/year with Senate permit), Fischmarkt. Hamburg court decisions have confirmed bakeries may sell fresh bread on Sundays before 10:00. Online retail is not covered by Sunday trading restrictions.",
+      "penalty": "Fines up to €2,500 for trading on prohibited days; Ordnungsamt enforcement",
+      "exceptions": ["Pharmacies, kiosks, florists at cemeteries, and airports exempt from Sunday closure"],
+      "source": "https://www.landesrecht-hamburg.de",
+      "sourceLabel": "HmbLÖG",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many Sundays per year may Hamburg shops open with special Senate permission?",
+        "options": ["4", "6", "8", "12"],
+        "correct": 2,
+        "explanation": "Hamburg permits up to 8 Sundays of trading per year in tourist areas with Senate approval under HmbLÖG."
+      }
+    },
+    {
+      "id": 41648,
+      "category": "Water Transport",
+      "severity": "low",
+      "icon": "⛴️",
+      "title": "HADAG Harbour Ferries",
+      "subtitle": "Hamburg's harbour ferries — Line 62 as public transport",
+      "fullDescription": "HADAG (Hamburger Hafen und Dampfschiffahrt AG) operates Hamburg's harbour ferry lines as part of the HVV public transport network. Ferry Line 62 (Landungsbrücken–Finkenwerder) is one of Hamburg's most scenic routes. HADAG ferries are covered by the standard HVV ticket. Vessels must hold BSH (Bundesamt für Seeschifffahrt und Hydrographie) safety certificates. Passenger vessel safety inspections occur annually under SchSV (Schiffssicherheitsverordnung).",
+      "penalty": "Vessel operating without BSH certificate: immediate closure order; fines",
+      "exceptions": ["Historic paddle steamers may operate under special heritage vessel regulations"],
+      "source": "https://www.hadag.de",
+      "sourceLabel": "HADAG Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which Hamburg harbour ferry line runs between Landungsbrücken and Finkenwerder?",
+        "options": ["Line 61", "Line 62", "Line 72", "Line 75"],
+        "correct": 1,
+        "explanation": "HADAG Ferry Line 62 runs between Landungsbrücken and Finkenwerder, one of Hamburg's most popular scenic routes."
+      }
+    },
+    {
+      "id": 41649,
+      "category": "Taxation",
+      "severity": "medium",
+      "icon": "💰",
+      "title": "Hamburg Grunderwerbsteuer — Property Transfer Tax",
+      "subtitle": "Hamburg's property transfer tax is 5.5%",
+      "fullDescription": "Hamburg's Grunderwerbsteuer (property transfer tax) is 5.5% of the purchase price — mid-range compared to other Länder (Bavaria 3.5% is lowest; Brandenburg/NRW/SH 6.5% is highest). Tax is due on all real property transfers, share deals above 90% in property-holding companies, and long-term leases. Hamburg's Finanzamt processes declarations within 2 weeks typically. The buyer (Käufer) is primarily liable, though parties can contractually allocate it.",
+      "penalty": "Late payment: 1% per month interest; tax evasion: criminal prosecution under §370 AO",
+      "exceptions": ["Transfers between first-degree relatives (parents/children) are exempt under §3 GrEStG"],
+      "source": "https://www.finanzamt.hamburg.de",
+      "sourceLabel": "Finanzamt Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Hamburg's Grunderwerbsteuer (property transfer tax) rate?",
+        "options": ["3.5%", "4.5%", "5.5%", "6.5%"],
+        "correct": 2,
+        "explanation": "Hamburg's property transfer tax (Grunderwerbsteuer) is 5.5% of the purchase price."
+      }
+    },
+    {
+      "id": 41650,
+      "category": "Night Economy",
+      "severity": "medium",
+      "icon": "🌙",
+      "title": "Hamburg Nachtbürgermeister Initiative",
+      "subtitle": "Hamburg's night mayor (Nachtbürgermeister) coordinates nightlife policy",
+      "fullDescription": "Hamburg established a Nachtbürgermeister (night mayor/ambassador) in 2017 — following Amsterdam's example — to mediate between clubs, residents, and city authorities. The role is not a formal government position but works with the Behörde für Stadtentwicklung. Hamburg's club scene (Berghain-rivals: Molotow, Übel & Gefährlich, Golem) contributes €1.5 billion to Hamburg's economy. Clubs are legally recognised as Kultureinrichtungen (cultural venues) since 2021, giving them Kulturförderung access.",
+      "penalty": "Clubs without Gaststättenerlaubnis (hospitality licence) subject to closure; noise violations carry fines",
+      "exceptions": ["Open-air festivals with temporary permits operate under separate Veranstaltungsrecht rules"],
+      "source": "https://www.hamburg.de/nachtkultur/",
+      "sourceLabel": "Hamburg Nachtkultur",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Hamburg establish its Nachtbürgermeister (night mayor) initiative?",
+        "options": ["2014", "2017", "2019", "2021"],
+        "correct": 1,
+        "explanation": "Hamburg established its Nachtbürgermeister initiative in 2017, following Amsterdam's pioneering example."
+      }
+    },
+    {
+      "id": 41651,
+      "category": "Environment",
+      "severity": "high",
+      "icon": "🌿",
+      "title": "Hamburg Grünes Netz — Green Space Network",
+      "subtitle": "Hamburg's legally protected green belt network",
+      "fullDescription": "Hamburg's Grünes Netz (green network) connects 17 Grüne Wege (green routes) through the city. Under the Hamburgisches Gesetz über Grün- und Erholungsanlagen (HmbGrEA), public parks cannot be privatised or built upon without Bürgerschaft approval. The Volkspark Altona (180 ha), Stadtpark (180 ha), and Loki-Schmidt-Garten (botanical garden) are protected. Hamburg must maintain a minimum of 8 m² green space per resident.",
+      "penalty": "Unlicensed construction in protected green zones: immediate demolition order",
+      "exceptions": ["Temporary event structures (up to 30 days) permitted with Bezirksamt approval"],
+      "source": "https://www.hamburg.de/parks/",
+      "sourceLabel": "Hamburg Parks & Grün",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum green space per resident must Hamburg maintain?",
+        "options": ["4 m²", "6 m²", "8 m²", "10 m²"],
+        "correct": 2,
+        "explanation": "Hamburg law requires maintaining a minimum of 8 m² green space per resident under the HmbGrEA."
+      }
+    },
+    {
+      "id": 41652,
+      "category": "Healthcare",
+      "severity": "medium",
+      "icon": "🏥",
+      "title": "UKE (Universitätsklinikum Hamburg-Eppendorf)",
+      "subtitle": "Hamburg's university hospital — research and care obligations",
+      "fullDescription": "The Universitätsklinikum Hamburg-Eppendorf (UKE) is one of Germany's leading university hospitals (1,700 beds, 14,000 staff). UKE operates under the Hamburgisches Krankenhausgesetz (HmbKHG) and the federal Krankenhausreformgesetz 2024. UKE must treat all emergency patients regardless of insurance status or ability to pay. Research using patient data requires ethics committee (Ethikkommission) approval under GCP (Good Clinical Practice) guidelines. UKE is partially owned by the City of Hamburg.",
+      "penalty": "Failure to treat emergency patients: professional licence at risk; hospital operating licence review",
+      "exceptions": ["Private patients may be treated in separate Privatstation with enhanced amenities"],
+      "source": "https://www.uke.de",
+      "sourceLabel": "UKE Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many beds does Hamburg's UKE university hospital have?",
+        "options": ["800", "1,200", "1,700", "2,500"],
+        "correct": 2,
+        "explanation": "The UKE has approximately 1,700 beds and 14,000 staff, making it one of Germany's largest university hospitals."
+      }
+    },
+    {
+      "id": 41653,
+      "category": "Shipping",
+      "severity": "high",
+      "icon": "🛳️",
+      "title": "Blohm+Voss Shipyard — Naval Vessel Regulations",
+      "subtitle": "Historic Hamburg shipyard — defence and export control",
+      "fullDescription": "Blohm+Voss (founded 1877, now Lürssen subsidiary) at Hamburg-Steinwerder builds and repairs naval vessels. Export of warships requires approval under the AWG/AWV and Kriegswaffenkontrollgesetz (KWKG). The German government's Rüstungsexportbericht annually lists approved naval exports. Hamburg's shipyard workers are represented by IG Metall. The historic U-434 Soviet submarine at Landungsbrücken is a museum ship requiring separate cultural heritage permit.",
+      "penalty": "Illegal arms export: up to 5 years imprisonment under KWKG; asset forfeiture",
+      "exceptions": ["Vessel repair for foreign navies in port for maintenance may proceed under simplified rules"],
+      "source": "https://www.blouhmvoss.com",
+      "sourceLabel": "Blohm+Voss Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which law specifically governs export of warships from German shipyards like Blohm+Voss?",
+        "options": ["AWG only", "GWB", "Kriegswaffenkontrollgesetz (KWKG)", "HmbHafenG"],
+        "correct": 2,
+        "explanation": "The Kriegswaffenkontrollgesetz (KWKG — War Weapons Control Act) governs the export of warships and other war materiel from Germany."
+      }
+    },
+    {
+      "id": 41654,
+      "category": "Tenant Rights",
+      "severity": "high",
+      "icon": "🔑",
+      "title": "Hamburg Wohnraumschutzgesetz",
+      "subtitle": "Hamburg's residential space protection act prevents misuse",
+      "fullDescription": "Hamburg's Wohnraumschutzgesetz (HmbWoSchG) prohibits the conversion of residential units to commercial use (e.g. Airbnb/holiday lets) without a Genehmigung (permit). Hamburg has Germany's second-tightest Zweckentfremdungsverbot (misuse prohibition). Landlords may not leave residential units empty for more than 6 months without justification. Hamburg's Bezirksämter actively inspect and prosecute violations. Fines can reach €500,000 for systematic Zweckentfremdung.",
+      "penalty": "Fines up to €500,000; forced return to residential use",
+      "exceptions": ["Short-term rental for up to 8 weeks/year of own primary residence is exempt"],
+      "source": "https://www.hamburg.de/wohnraumschutz/",
+      "sourceLabel": "Hamburg Wohnraumschutz",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long may a Hamburg landlord legally leave a residential unit empty?",
+        "options": ["3 months", "6 months", "12 months", "There is no limit"],
+        "correct": 1,
+        "explanation": "Hamburg's Wohnraumschutzgesetz prohibits leaving residential units empty for more than 6 months without justification."
+      }
+    },
+    {
+      "id": 41655,
+      "category": "Waterways",
+      "severity": "medium",
+      "icon": "🚤",
+      "title": "Hamburger Hafenordnung (Port Regulations)",
+      "subtitle": "Hamburg's comprehensive port ordinance governs all harbour activities",
+      "fullDescription": "The Hafenordnung (Hamburg Port Ordinance) sets rules for all vessels, harbour activities, and port users. Key provisions: vessels must keep 100 m distance from working container cranes; no anchoring in the main shipping channel; all port waste (MARPOL) must be delivered to reception facilities; speed on the Hamburg port waters is 8 knots (inner port) and 12 knots (outer port). The HPA is the enforcement authority.",
+      "penalty": "Fines up to €25,000 for Hafenordnung violations; port exclusion for serious breaches",
+      "exceptions": ["Pilot vessels, tugs, and emergency vessels exempt from general speed limits"],
+      "source": "https://www.hamburg-port-authority.de/hafenordnung",
+      "sourceLabel": "HPA Hafenordnung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the speed limit for vessels in Hamburg's inner port?",
+        "options": ["5 knots", "8 knots", "10 knots", "12 knots"],
+        "correct": 1,
+        "explanation": "Hamburg's Hafenordnung limits vessel speed to 8 knots in the inner port and 12 knots in the outer port."
+      }
+    },
+    {
+      "id": 41656,
+      "category": "Child Protection",
+      "severity": "high",
+      "icon": "👶",
+      "title": "Hamburg Kinderschutz (Child Protection System)",
+      "subtitle": "Hamburg Kita-Gutschein system and early intervention",
+      "fullDescription": "Hamburg uses a Kita-Gutschein (childcare voucher) system. All children from age 1 have a legal right to a Kita place (SGB VIII §24). Hamburg's Kita-Gutschein covers 5 hours/day free for all; additional hours are income-based. The Hamburgisches Kinderschutzgesetz requires mandatory reporting of child abuse suspicions by teachers, doctors, and social workers (Meldepflicht). Hamburg's ASD (Allgemeiner Sozialer Dienst) investigates all reports.",
+      "penalty": "Failure to report known child abuse: professional disciplinary action; criminal liability under §203 StGB waived for reporters",
+      "exceptions": ["Parents may choose Tagesmutter (childminder) instead of Kita with equivalent voucher value"],
+      "source": "https://www.hamburg.de/kita-gutschein/",
+      "sourceLabel": "Hamburg Kita-Gutschein",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "From what age do Hamburg children have a legal right to a Kita place?",
+        "options": ["6 months", "1 year", "2 years", "3 years"],
+        "correct": 1,
+        "explanation": "Under SGB VIII §24, all Hamburg children have a legal right to a Kita childcare place from age 1."
+      }
+    },
+    {
+      "id": 41657,
+      "category": "Elections",
+      "severity": "info",
+      "icon": "🗳️",
+      "title": "Hamburg Bürgerschaft Elections",
+      "subtitle": "Hamburg's state parliament — proportional representation",
+      "fullDescription": "Hamburg's Bürgerschaft (123 seats) is elected every 4 years under a personalised proportional representation system (Verhältniswahlrecht with Personenstimmen). Voters have 5 votes — they can split between parties and individual candidates. The 5% Sperrklausel applies. The SPD has governed Hamburg with only brief interruptions since 1957. The 2020 election produced an SPD-Greens coalition. Hamburg's Bürgerschaft also elects the Senate (executive) — Hamburg has no direct ministerial elections.",
+      "penalty": "N/A — constitutional information",
+      "exceptions": [],
+      "source": "https://www.hamburgische-buergerschaft.de",
+      "sourceLabel": "Hamburgische Bürgerschaft",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many votes does each Hamburg voter get in Bürgerschaft elections?",
+        "options": ["1", "2", "3", "5"],
+        "correct": 3,
+        "explanation": "Hamburg voters have 5 votes in Bürgerschaft elections, which they can split across parties and individual candidates."
+      }
+    },
+    {
+      "id": 41658,
+      "category": "Consumer",
+      "severity": "low",
+      "icon": "🧾",
+      "title": "Hamburg Kassenpflicht — Receipt Obligation",
+      "subtitle": "Germany's mandatory receipt issuance since 2020",
+      "fullDescription": "Since 1 January 2020, all German retailers using electronic cash registers must issue a receipt (Kassenbon) for every transaction, under the Kassensicherungsverordnung (KassenSichV). In Hamburg, the Finanzamt actively enforces this via unannounced Betriebsprüfungen (business audits). Receipts must include: business name, date, time, amount, payment method, and TSE (Technische Sicherheitseinrichtung) digital signature. Non-compliant cash registers must be replaced or retrofitted.",
+      "penalty": "Fines up to €25,000 per violation; tax reassessment for missing records",
+      "exceptions": ["Street vendors and taxi drivers using simplified registers have until December 2025 to comply"],
+      "source": "https://www.bzst.de/kassensicherungsverordnung",
+      "sourceLabel": "Bundeszentralamt für Steuern",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What security feature must all German retail receipts include since 2020?",
+        "options": ["QR code link", "TSE (Technische Sicherheitseinrichtung) digital signature", "Barcode serial number", "NFC chip reference"],
+        "correct": 1,
+        "explanation": "Since 2020, all electronic cash register receipts must include a TSE (Technische Sicherheitseinrichtung) tamper-proof digital signature."
+      }
+    },
+    {
+      "id": 41659,
+      "category": "Architecture",
+      "severity": "medium",
+      "icon": "🏛️",
+      "title": "Chilehaus — Expressionist Heritage Protection",
+      "subtitle": "Hamburg's iconic 1924 Expressionist office building — UNESCO listed",
+      "fullDescription": "The Chilehaus (1924, architect Fritz Höger) in Hamburg's Kontorhausviertel is a masterpiece of Expressionist brick architecture and UNESCO World Heritage since 2015. Under Hamburg's Denkmalschutzgesetz (DSchG), all exterior alterations require Denkmalschutzamt approval. The distinctive ship's-prow corner must be preserved. Modern fit-out inside is permitted with standard building permits. Hamburg's Denkmalschutzamt lists 5,400+ protected monuments.",
+      "penalty": "Fines up to €500,000 for unauthorised alterations; restoration at owner's expense",
+      "exceptions": ["Emergency structural repairs may proceed with retroactive permit"],
+      "source": "https://www.denkmalschutzamt.hamburg.de",
+      "sourceLabel": "Denkmalschutzamt Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who was the architect of Hamburg's Chilehaus (1924)?",
+        "options": ["Hans Scharoun", "Fritz Höger", "Mies van der Rohe", "Peter Behrens"],
+        "correct": 1,
+        "explanation": "The Chilehaus was designed by Fritz Höger in the Expressionist style and completed in 1924. It is now UNESCO World Heritage."
+      }
+    },
+    {
+      "id": 41660,
+      "category": "Port Operations",
+      "severity": "high",
+      "icon": "🏗️",
+      "title": "HHLA Container Terminal Operations",
+      "subtitle": "Hamburger Hafen und Logistik AG — automation and labour rules",
+      "fullDescription": "HHLA (Hamburger Hafen und Logistik AG) operates Hamburg's three main container terminals (Altenwerder, Burchardkai, Tollerort). Altenwerder (CTA) is one of the world's most automated container terminals (AGVs — automated guided vehicles). HHLA is listed on the Frankfurt Stock Exchange; Hamburg holds >50% (Stadtstaatsrecht). Workers at HHLA are covered by the Gesamthafenbetrieb (GHB) collective agreement. The 2023 Hamburg Senate sold 49% of HHLA to MSC (Mediterranean Shipping Company) — subject to ongoing legal challenge.",
+      "penalty": "Breaches of GHB collective agreement: IG Metall arbitration; strike action",
+      "exceptions": ["Terminal automated operations may run 24/7 without additional night-shift supplements for AGV operations"],
+      "source": "https://www.hhla.de",
+      "sourceLabel": "HHLA Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which shipping company acquired 49% of HHLA in a controversial 2023 deal?",
+        "options": ["Maersk", "CMA CGM", "MSC (Mediterranean Shipping Company)", "Hapag-Lloyd"],
+        "correct": 2,
+        "explanation": "In 2023, Hamburg's Senate sold 49% of HHLA to MSC (Mediterranean Shipping Company), triggering significant political controversy."
+      }
+    },
+    {
+      "id": 41661,
+      "category": "Animal Welfare",
+      "severity": "medium",
+      "icon": "🐕",
+      "title": "Hamburg Hundeverordnung — Dog Registration",
+      "subtitle": "Hamburg requires mandatory dog registration and liability insurance",
+      "fullDescription": "Under Hamburg's Hundeverordnung (HundeVO HH), all dogs must be registered with the Bezirksamt and microchipped. Annual dog tax (Hundesteuer) is €90 for the first dog, €180 for each additional dog. Kampfhunde (banned breeds including Pit Bulls, American Staffordshire, Staffordshire Bull Terriers, Rottweilers in certain contexts) require a Negativzeugnis (certificate of non-aggressiveness) and a Sachkundenachweis (competency certificate). Third-party liability insurance is mandatory.",
+      "penalty": "Unregistered dogs: fines up to €5,000; banned breeds without permit: confiscation",
+      "exceptions": ["Guide dogs and assistance dogs for disabled persons exempt from breed restrictions and tax"],
+      "source": "https://www.hamburg.de/hunde/",
+      "sourceLabel": "Hamburg Hundeverordnung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Hamburg's annual dog tax for a first dog?",
+        "options": ["€50", "€90", "€120", "€180"],
+        "correct": 1,
+        "explanation": "Hamburg's Hundesteuer (dog tax) is €90 per year for the first dog, and €180 for each additional dog."
+      }
+    },
+    {
+      "id": 41662,
+      "category": "Retail",
+      "severity": "low",
+      "icon": "🛍️",
+      "title": "Hamburg Europa Passage & Shopping Centre Rules",
+      "subtitle": "Large retail centres subject to regional planning controls",
+      "fullDescription": "Hamburg's Einzelhandelskonzept restricts large retail developments (over 1,200 m² sales area) outside designated Zentrenstruktur (retail centres) under the Landesentwicklungsplan. The Europa Passage (130,000 m² GFA, Innenstadt) required Senate approval. Hamburg prohibits out-of-town retail parks that would harm inner-city trade. The Behörde für Stadtentwicklung enforces the Einzelhandelskonzept via binding land-use plans (Bebauungspläne).",
+      "penalty": "Refusal of building permit; demolition of illegally built retail structures",
+      "exceptions": ["Factory outlets and trade-only warehouses (B2B) exempt from residential retail zone restrictions"],
+      "source": "https://www.hamburg.de/stadtentwicklung/einzelhandel/",
+      "sourceLabel": "Hamburg Stadtentwicklung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum sales area triggers Hamburg's regional planning review for retail?",
+        "options": ["800 m²", "1,200 m²", "2,000 m²", "5,000 m²"],
+        "correct": 1,
+        "explanation": "Hamburg's Einzelhandelskonzept requires Senate approval for new retail developments exceeding 1,200 m² sales area outside designated centres."
+      }
+    },
+    {
+      "id": 41663,
+      "category": "Logistics",
+      "severity": "medium",
+      "icon": "🚛",
+      "title": "Hamburg Port Access — HGV Night Driving Ban",
+      "subtitle": "HGV restrictions protecting Hamburg residents near port",
+      "fullDescription": "Heavy goods vehicles (HGV/LKW) over 7.5 tonnes are subject to federal Sunday and public holiday driving bans (§30 StVO), plus Hamburg-specific night restrictions on certain residential routes adjacent to the port. The Behörde für Inneres issues Ausnahmegenehmigungen (exemption permits) for time-critical deliveries. Hamburg's Lkw-Führungskonzept (HGV routing concept) designates port access routes and prohibits port HGV traffic through residential areas like Altona and Eimsbüttel.",
+      "penalty": "Fines up to €1,500 for HGV violations; vehicle immobilisation for persistent offenders",
+      "exceptions": ["Refrigerated food and emergency supply HGVs may apply for 24/7 exemption permits"],
+      "source": "https://www.hamburg-port-authority.de/logistik",
+      "sourceLabel": "HPA Logistik",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Hamburg's Lkw-Führungskonzept designed to do?",
+        "options": ["Train HGV drivers", "Route port HGVs away from residential areas", "Set emissions standards for trucks", "Reduce port speed limits"],
+        "correct": 1,
+        "explanation": "Hamburg's Lkw-Führungskonzept routes heavy port traffic away from residential neighbourhoods via designated port access roads."
+      }
+    },
+    {
+      "id": 41664,
+      "category": "Immigration",
+      "severity": "high",
+      "icon": "🌍",
+      "title": "Hamburg Willkommenszentrum — Integration Law",
+      "subtitle": "Hamburg's integration and welcome centre for newcomers",
+      "fullDescription": "Hamburg's Willkommenszentrum (Welcome Centre) supports newly arrived EU citizens and third-country nationals with registration, work permits, and integration. The Hamburger Integrationszentrum (Hamburg Welcome Centre) is a joint project of Chamber of Commerce and City. Hamburg's Integrationsbehörde administers the Integrationsgesetz (IntegG). All migrants with residence permits must attend language courses (Integrationskurs) under §44 AufenthG. Hamburg's refugee policy includes Fachkräfteeinwanderungsgesetz 2023 fast tracks.",
+      "penalty": "Failure to attend mandatory integration courses: permit renewal refusal",
+      "exceptions": ["EU citizens are exempt from third-country immigration requirements but must register after 3 months"],
+      "source": "https://www.hwc.hamburg.de",
+      "sourceLabel": "Hamburg Welcome Centre",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What obligation does §44 AufenthG impose on migrants with residence permits in Hamburg?",
+        "options": ["Pay integration fee of €500", "Attend German language and integration courses", "Register within 7 days of arrival", "Obtain health insurance within 30 days"],
+        "correct": 1,
+        "explanation": "§44 AufenthG requires migrants with residence permits to attend an Integrationskurs (language and orientation course)."
+      }
+    },
+    {
+      "id": 41665,
+      "category": "Maritime Safety",
+      "severity": "high",
+      "icon": "🆘",
+      "title": "Havariekommando — Marine Casualty Response",
+      "subtitle": "Hamburg's emergency command for maritime accidents",
+      "fullDescription": "The Havariekommando (HK) in Cuxhaven is the federal-state joint command for major maritime emergencies in German coastal waters, operating jointly with Hamburg. It responds to vessel groundings, collisions, oil spills, and mass rescue operations (MRO). The BSU (Bundesstelle für Seeunfalluntersuchung) investigates marine casualties. MARPOL Annex I–VI compliance is enforced by Port State Control (PSC) inspections by the Schifffahrtsdirektion Hamburg.",
+      "penalty": "MARPOL violations: fines up to €500,000; vessel detention by PSC",
+      "exceptions": ["Force majeure discharges (vessel in distress) may be excused under MARPOL regulation 4"],
+      "source": "https://www.havariekommando.de",
+      "sourceLabel": "Havariekommando",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Where is Germany's Havariekommando (maritime emergency command) headquartered?",
+        "options": ["Hamburg", "Bremen", "Cuxhaven", "Kiel"],
+        "correct": 2,
+        "explanation": "The Havariekommando is headquartered in Cuxhaven, at the mouth of the Elbe, coordinating major maritime emergencies in German waters."
+      }
+    },
+    {
+      "id": 41666,
+      "category": "Digital",
+      "severity": "medium",
+      "icon": "💻",
+      "title": "Hamburg Digital Strategy (Digitalstrategie Hamburg)",
+      "subtitle": "Hamburg as Germany's smart city and digital innovation hub",
+      "fullDescription": "Hamburg's Digitalstrategie 2020+ targets becoming Germany's leading digital city. Key projects: Urban Data Platform (consolidating IoT sensor data from port, transport, energy); digital building permits via BIM (Building Information Modelling); eGovernment under Hamburg's OZG implementation (Online-Zugangsgesetz, 575 services digitised by 2022 deadline). Hamburg's dataport IT provider serves all Hamburg state authorities. DESY's quantum computing centre opened in Hamburg 2023.",
+      "penalty": "State authorities failing OZG digital access obligations face federal monitoring",
+      "exceptions": ["Emergency exemptions for systems requiring physical signatures still apply under current law"],
+      "source": "https://www.hamburg.de/digital/",
+      "sourceLabel": "Hamburg Digital",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Hamburg's Urban Data Platform designed to consolidate?",
+        "options": ["Resident census data", "IoT sensor data from port, transport, and energy", "Tax records", "Court case management"],
+        "correct": 1,
+        "explanation": "Hamburg's Urban Data Platform consolidates IoT sensor data from the port, transport system, and energy grid as part of its smart city strategy."
+      }
+    },
+    {
+      "id": 41667,
+      "category": "Welfare",
+      "severity": "medium",
+      "icon": "👴",
+      "title": "Hamburg Pflegestützpunkte — Elderly Care Coordination",
+      "subtitle": "Hamburg's care advice centres for elderly and disabled residents",
+      "fullDescription": "Hamburg operates 30+ Pflegestützpunkte (care coordination points) across all 7 Bezirke under §7a SGB XI. They provide free advice on care levels (Pflegegrade 1–5), care home selection, and carer support. Hamburg's Sozialbehörde administers the Hamburgisches Pflegegesetz (HmbPflG). Care homes must hold state operating licences and undergo annual WTG (Wohn- und Teilhabegesetz) inspections. Home care agencies (Pflegedienste) require BSG-approved quality certification.",
+      "penalty": "Care home operating without licence: immediate closure; fines up to €25,000",
+      "exceptions": ["24-hour live-in carers (Haushaltshilfen from Eastern Europe) in private homes under a separate legal framework"],
+      "source": "https://www.hamburg.de/pflegestuetzpunkte/",
+      "sourceLabel": "Hamburg Pflegestützpunkte",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many care levels (Pflegegrade) does Germany's care system recognise?",
+        "options": ["3", "4", "5", "6"],
+        "correct": 2,
+        "explanation": "Germany's care system (SGB XI) recognises 5 care levels (Pflegegrade 1–5), administered in Hamburg via Pflegestützpunkte."
+      }
+    },
+    {
+      "id": 41668,
+      "category": "Rail",
+      "severity": "medium",
+      "icon": "🚆",
+      "title": "Hamburg S-Bahn & Airport Connection",
+      "subtitle": "Hamburg Airport S-Bahn link — Germany's oldest airport rail connection",
+      "fullDescription": "Hamburg Airport (HAM) is connected to the city centre by S-Bahn line S1 — a 25-minute journey to Hauptbahnhof. The connection (opened 1975) was one of Germany's first airport rail links. DB Regio operates the S-Bahn under a concession from HVV. The S-Bahn network has 6 lines covering 147 km. Passengers must hold valid HVV tickets. Hamburg is planning a new U5 U-Bahn line through the city centre (2040 target, €6.5bn).",
+      "penalty": "Fare evasion on S-Bahn: €100 erhöhtes Beförderungsentgelt",
+      "exceptions": ["Airport transfer passengers may use HAM shuttle bus (free) between terminals without HVV ticket"],
+      "source": "https://www.hvv.de/s-bahn",
+      "sourceLabel": "HVV S-Bahn Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long does the Hamburg Airport S1 S-Bahn journey to Hauptbahnhof take?",
+        "options": ["12 minutes", "18 minutes", "25 minutes", "35 minutes"],
+        "correct": 2,
+        "explanation": "The Hamburg Airport S1 S-Bahn journey to Hauptbahnhof takes approximately 25 minutes."
+      }
+    },
+    {
+      "id": 41669,
+      "category": "Economic",
+      "severity": "info",
+      "icon": "📊",
+      "title": "Handelskammer Hamburg — Chamber of Commerce",
+      "subtitle": "Hamburg's compulsory Chamber of Commerce membership for businesses",
+      "fullDescription": "All commercial enterprises (Gewerbetreibende) registered in Hamburg are automatically and compulsorily members of the Handelskammer Hamburg (Hamburg Chamber of Commerce, founded 1665 — one of Germany's oldest). Annual chamber fees (Beiträge) range from €160 for smallest businesses to thousands for larger ones. The Handelskammer provides legally binding Ursprungszeugnisse (certificates of origin) for export, mediates disputes, and represents business interests before Hamburg Senate.",
+      "penalty": "Non-payment of chamber fees: debt collection; interest accrual",
+      "exceptions": ["Freelancers (Freiberufler) and agricultural enterprises are NOT chamber members; they join Berufskammern"],
+      "source": "https://www.hk24.de",
+      "sourceLabel": "Handelskammer Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When was Hamburg's Handelskammer (Chamber of Commerce) founded?",
+        "options": ["1555", "1665", "1750", "1819"],
+        "correct": 1,
+        "explanation": "Hamburg's Handelskammer was founded in 1665, making it one of Germany's oldest chambers of commerce."
+      }
+    },
+    {
+      "id": 41670,
+      "category": "Food Safety",
+      "severity": "medium",
+      "icon": "🍽️",
+      "title": "Hamburg Lebensmittelüberwachung (Food Safety Inspections)",
+      "subtitle": "Hamburg's food inspectors — restaurant hygiene enforcement",
+      "fullDescription": "Hamburg's Bezirksämter conduct regular unannounced Lebensmittelüberwachung (food safety inspections) under the LFGB (Lebensmittel- und Futtermittelgesetzbuch) and EU Regulation 178/2002. Hamburg participates in the bundesweites Kontrollbarometer — a national public transparency scoring system (Smileys) for restaurants, voluntarily launched 2023. Restaurants with critical violations must be re-inspected within 28 days. Hamburg's Institut für Hygiene und Umwelt (HU) analyses food samples.",
+      "penalty": "Closure orders for immediate health risks; fines up to €100,000 for systematic violations",
+      "exceptions": ["Home bakers selling at markets under €10,000/year revenue have simplified registration only"],
+      "source": "https://www.hamburg.de/lebensmittelueberwachung/",
+      "sourceLabel": "Hamburg Lebensmittelüberwachung",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Within how many days must a Hamburg restaurant with critical violations be re-inspected?",
+        "options": ["7 days", "14 days", "28 days", "60 days"],
+        "correct": 2,
+        "explanation": "Hamburg's food safety rules require a mandatory re-inspection within 28 days for restaurants with critical hygiene violations."
+      }
+    },
+    {
+      "id": 41671,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🚷",
+      "title": "Hamburg Platzverweisrecht (Place Removal Orders)",
+      "subtitle": "Police power to remove persons from public spaces",
+      "fullDescription": "Under §12b HmbSOG (Hamburg Public Safety Law), police officers may issue a Platzverweis (place removal order) for up to 14 days, requiring a person to leave and not return to a specific area. This is used for persistent antisocial behaviour, drug dealing hot-spots (Hansaplatz), and domestic violence situations. Hausfriedensbruch (§123 StGB) applies to private premises. Hamburg's Drogenhilfe (drug outreach services) work alongside enforcement at hot-spots.",
+      "penalty": "Violation of Platzverweis: fine or arrest under §113 StGB (resisting state authority)",
+      "exceptions": ["Residents of the area subject to Platzverweis retain right to access their home"],
+      "source": "https://www.hamburg.de/polizei/",
+      "sourceLabel": "Polizei Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How long can a Hamburg police Platzverweis (place removal order) last?",
+        "options": ["24 hours", "72 hours", "7 days", "14 days"],
+        "correct": 3,
+        "explanation": "Under §12b HmbSOG, Hamburg police may issue Platzverweise for up to 14 days."
+      }
+    },
+    {
+      "id": 41672,
+      "category": "Airport",
+      "severity": "medium",
+      "icon": "✈️",
+      "title": "Hamburg Airport (HAM) Operating Restrictions",
+      "subtitle": "Hamburg Airport curfew — no operations between 00:00–06:00",
+      "fullDescription": "Hamburg Airport (Helmut Schmidt Airport, HAM) operates under a night curfew: no scheduled departures or arrivals between 00:00 and 05:00, and strict restrictions 23:00–06:00. The curfew is based on the Planfeststellungsbeschluss (planning approval) and protects surrounding residential areas. Exceptions require approval from Hamburg's Luftfahrtbehörde. Hamburg Airport handles 17 million passengers per year. The airport is owned by Hamburg (51%) and Fraport (49%).",
+      "penalty": "Airline fines for curfew violations; compensation payments to affected residents",
+      "exceptions": ["Medical evacuation, emergency landings, and delayed diverted aircraft allowed overnight"],
+      "source": "https://www.hamburg-airport.de",
+      "sourceLabel": "Hamburg Airport",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the hard curfew at Hamburg Airport (no scheduled flights)?",
+        "options": ["22:00–05:00", "23:00–05:00", "00:00–05:00", "01:00–06:00"],
+        "correct": 2,
+        "explanation": "Hamburg Airport has a hard curfew with no scheduled departures or arrivals between 00:00 and 05:00."
+      }
+    },
+    {
+      "id": 41673,
+      "category": "Shipping Register",
+      "severity": "medium",
+      "icon": "📋",
+      "title": "Hamburg Schiffsregister — Ship Registry",
+      "subtitle": "Hamburg's Amtsgericht maintains Germany's largest ship register",
+      "fullDescription": "The Amtsgericht Hamburg maintains the Schiffsregister (ship register) for vessels over 5 NRT (net register tonnes) flying the German flag. Registration is compulsory for German-flagged seagoing vessels under the Flaggenrechtsgesetz. The registry records ownership, mortgages (Schiffshypotheken), and liens. Hamburg's Schiffsregister is the largest in Germany (3,000+ registered vessels). Ship mortgages provide security for ship financing (Schiffsfinanzierung).",
+      "penalty": "Unregistered vessels cannot carry the German flag; mortgages on unregistered vessels are void",
+      "exceptions": ["Vessels under 5 NRT (small pleasure craft) use the Sportbootregister instead"],
+      "source": "https://www.amtsgericht-hamburg.de",
+      "sourceLabel": "Amtsgericht Hamburg",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What minimum size vessel must be registered in Hamburg's Schiffsregister?",
+        "options": ["2 NRT", "5 NRT", "10 NRT", "20 NRT"],
+        "correct": 1,
+        "explanation": "German-flagged seagoing vessels over 5 NRT (net register tonnes) must be registered in the Schiffsregister."
+      }
+    },
+    {
+      "id": 41674,
+      "category": "Culture",
+      "severity": "low",
+      "icon": "🎪",
+      "title": "Hamburg DOM — Three Annual Folk Festivals",
+      "subtitle": "Hamburg DOM: Germany's largest folk festival (3 times per year)",
+      "fullDescription": "The Hamburger DOM is Germany's largest folk festival (Volksfest), held three times per year: Spring DOM (March–April), Summer DOM (July–August), and Winter DOM (November–December) on Heiligengeistfeld in St. Pauli. Each running approximately 31 days. The DOM has been held since 1329. Operators must hold Schaustellererlaubnisse (fairground licences) from the Bezirksamt Hamburg-Mitte. Rides must pass TÜV safety inspections before operation.",
+      "penalty": "Operation of uninspected rides: immediate closure; fines up to €50,000",
+      "exceptions": ["Heritage rides over 50 years old may use modified TÜV inspection criteria"],
+      "source": "https://www.hamburg.de/dom/",
+      "sourceLabel": "Hamburger DOM",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Since what year has the Hamburger DOM folk festival been held?",
+        "options": ["1189", "1329", "1490", "1600"],
+        "correct": 1,
+        "explanation": "The Hamburger DOM has been held since 1329, making it one of Germany's oldest and largest annual folk festivals."
+      }
+    },
+    {
+      "id": 41675,
+      "category": "Data & AI",
+      "severity": "medium",
+      "icon": "🤖",
+      "title": "Hamburg AI Strategy & EU AI Act Implementation",
+      "subtitle": "Hamburg as AI innovation hub — EU AI Act obligations from 2024",
+      "fullDescription": "Hamburg's KI-Strategie (AI Strategy 2023) positions the city as Germany's leading AI hub, building on DESY, UKE medical AI, and Hamburg Port Authority AI logistics. The EU AI Act (2024) imposes risk-based obligations: high-risk AI in ports, hospitals, and law enforcement requires conformity assessment. Hamburg's Datenschutzbehörde (HmbBfDI) is expected to co-enforce the AI Act alongside the national supervisory authority. Hamburg's dataport tests AI for administrative automation under DSGVO constraints.",
+      "penalty": "EU AI Act: fines up to €35 million or 7% of global annual turnover for prohibited AI practices",
+      "exceptions": ["AI used solely for scientific research and development exempt from conformity assessment until market deployment"],
+      "source": "https://www.hamburg.de/ki-strategie/",
+      "sourceLabel": "Hamburg KI-Strategie",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What are the maximum fines under the EU AI Act for prohibited AI practices?",
+        "options": ["€10 million or 2% turnover", "€20 million or 4% turnover", "€35 million or 7% turnover", "€50 million or 10% turnover"],
+        "correct": 2,
+        "explanation": "The EU AI Act imposes fines up to €35 million or 7% of global annual turnover for prohibited AI practices — the highest tier."
+      }
+    }
+  ]
+}

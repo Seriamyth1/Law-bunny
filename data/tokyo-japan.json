@@ -1,0 +1,1506 @@
+{
+  "country": "Tokyo, Japan",
+  "slug": "tokyo-japan",
+  "laws": [
+    {
+      "id": 42426,
+      "category": "Traffic & Driving",
+      "severity": "high",
+      "icon": "🚗",
+      "title": "0.03% BAC Driving Limit",
+      "subtitle": "Japan's strict drink-driving threshold is nearly zero",
+      "fullDescription": "Under the Road Traffic Act (道路交通法), driving with a blood alcohol concentration of 0.03% or higher is a criminal offence. This is far stricter than most Western countries (0.08%). Even a single beer can push an average person over the limit. Passengers who knowingly allow an intoxicated driver to drive may also face penalties.",
+      "penalty": "Up to 3 years imprisonment or ¥500,000 fine for driving under influence; stricter if causing injury/death",
+      "exceptions": ["Professional zero-tolerance rules apply to commercial drivers (0.00% effective)"],
+      "source": "https://www.npa.go.jp/bureau/traffic/drunk/",
+      "sourceLabel": "NPA Road Traffic Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Japan's legal blood alcohol limit for driving?",
+        "options": ["0.08%", "0.05%", "0.03%", "0.00%"],
+        "correct": 2,
+        "explanation": "Japan's Road Traffic Act sets the BAC limit at 0.03% — among the strictest in the world."
+      }
+    },
+    {
+      "id": 42427,
+      "category": "Traffic & Driving",
+      "severity": "medium",
+      "icon": "🚲",
+      "title": "Cycling Under the Influence",
+      "subtitle": "Drunk cycling is a criminal offence in Tokyo",
+      "fullDescription": "Since 2015, cycling while intoxicated carries criminal penalties in Japan. Tokyo police actively enforce this, particularly in entertainment districts like Shinjuku and Shibuya on weekend nights. Cyclists involved in fatal accidents while drunk can face charges equivalent to dangerous driving causing death.",
+      "penalty": "Up to 5 years imprisonment or ¥1,000,000 fine",
+      "exceptions": [],
+      "source": "https://www.keishicho.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Police",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Is cycling while drunk illegal in Tokyo?",
+        "options": ["No, only motor vehicles apply", "Yes, since 2015 it carries criminal penalties", "Only if you cause an accident", "Only on main roads"],
+        "correct": 1,
+        "explanation": "Since 2015 Japan's Road Traffic Act criminalises cycling under the influence, with up to 5 years imprisonment."
+      }
+    },
+    {
+      "id": 42428,
+      "category": "Traffic & Driving",
+      "severity": "medium",
+      "icon": "📱",
+      "title": "Mobile Phone While Driving Ban",
+      "subtitle": "Penalties massively increased in 2019",
+      "fullDescription": "Using a handheld mobile phone while driving was toughened significantly under 2019 amendments to the Road Traffic Act. Penalties tripled. Causing an accident while using a phone carries some of the harshest road penalties short of drunk driving. Hands-free is permitted but still discouraged by police.",
+      "penalty": "Up to 6 months imprisonment or ¥100,000 fine; 6 demerit points (licence suspension threshold)",
+      "exceptions": ["Hands-free devices legally permitted"],
+      "source": "https://www.npa.go.jp/",
+      "sourceLabel": "NPA 2019 Road Traffic Amendment",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When were Japan's mobile phone driving penalties significantly increased?",
+        "options": ["2010", "2015", "2019", "2022"],
+        "correct": 2,
+        "explanation": "2019 amendments tripled penalties for handheld phone use while driving."
+      }
+    },
+    {
+      "id": 42429,
+      "category": "Public Order",
+      "severity": "high",
+      "icon": "🌿",
+      "title": "Cannabis Strictly Prohibited",
+      "subtitle": "Japan has some of Asia's toughest cannabis laws",
+      "fullDescription": "The Cannabis Control Act (大麻取締法) prohibits cultivation, possession, transfer, and import/export of cannabis. Unlike many countries, even medical use was effectively banned until minor reforms in 2023 allowing cannabis-derived medicines. Foreign nationals have been deported and Japanese nationals imprisoned for possession found overseas. Tokyo police maintain active enforcement.",
+      "penalty": "Possession: up to 5 years imprisonment; cultivation/import: up to 7 years",
+      "exceptions": ["Hemp fibre for industrial use with licence", "Approved cannabis-derived medicines (from 2024)"],
+      "source": "https://www.mhlw.go.jp/",
+      "sourceLabel": "Ministry of Health, Labour and Welfare",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum penalty for cannabis possession in Japan?",
+        "options": ["Fine only", "1 year", "5 years imprisonment", "10 years imprisonment"],
+        "correct": 2,
+        "explanation": "Cannabis possession carries up to 5 years imprisonment under Japan's Cannabis Control Act."
+      }
+    },
+    {
+      "id": 42430,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🔪",
+      "title": "Knife Length Restriction",
+      "subtitle": "Carrying blades over 6 cm is illegal in public",
+      "fullDescription": "The Firearms and Swords Control Law (銃刀法) and related ordinances prohibit carrying knives with blades exceeding 6 cm (about 2.4 inches) in public without legitimate reason. Even pocket knives, utility knives, and camping tools are subject to this rule. Tokyo police conduct regular stop-and-search operations, particularly near entertainment districts.",
+      "penalty": "Up to 2 years imprisonment or ¥300,000 fine",
+      "exceptions": ["Professional use (chefs, tradespeople) with demonstrable need", "Hunting/fishing in appropriate context"],
+      "source": "https://www.keishicho.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Police — Firearms & Blades",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What blade length triggers Japan's public carry prohibition?",
+        "options": ["Over 3 cm", "Over 6 cm", "Over 10 cm", "Over 15 cm"],
+        "correct": 1,
+        "explanation": "Blades over 6 cm (2.4 inches) cannot be carried in public under the Firearms and Swords Control Law."
+      }
+    },
+    {
+      "id": 42431,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "💴",
+      "title": "Tokyo Minimum Wage",
+      "subtitle": "Highest minimum wage of any prefecture in Japan",
+      "fullDescription": "Tokyo's regional minimum wage, set annually by the Tokyo Labour Bureau under the Minimum Wage Act (最低賃金法), is consistently the highest in Japan. As of October 2024 it stands at ¥1,163 per hour. Employers paying below this rate face fines. Tokyo's minimum wage is roughly double that of the lowest rural prefectures, reflecting the city's cost of living.",
+      "penalty": "Employers fined up to ¥500,000 for non-compliance",
+      "exceptions": ["Probationary or apprenticeship exceptions (narrow, employer must apply for waiver)"],
+      "source": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/",
+      "sourceLabel": "Tokyo Labour Bureau — Minimum Wage",
+      "lastUpdated": "2024-10-01",
+      "quiz": {
+        "q": "How does Tokyo's minimum wage compare to other Japanese prefectures?",
+        "options": ["Lowest in Japan", "Average", "Second highest", "Highest in Japan"],
+        "correct": 3,
+        "explanation": "Tokyo consistently sets Japan's highest regional minimum wage, reflecting its cost of living."
+      }
+    },
+    {
+      "id": 42432,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🚬",
+      "title": "Tokyo Indoor Smoking Ban",
+      "subtitle": "Near-total ban on indoor smoking since 2020",
+      "fullDescription": "Tokyo's Health Promotion Ordinance (健康増進条例), strengthened ahead of the 2020 Olympics, prohibits smoking in almost all indoor public places including restaurants, bars, workplaces, and public transport. Businesses employing staff cannot have smoking rooms. Smaller family-run establishments with no employees had a partial exemption through 2022. Designated outdoor smoking areas remain in train stations and some streets.",
+      "penalty": "Businesses: up to ¥500,000 fine; individuals: ¥30,000 fine for violation in prohibited areas",
+      "exceptions": ["Dedicated outdoor smoking areas", "Private residences", "Some hotel rooms (designated smoking floors)"],
+      "source": "https://www.fukushihoken.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Government — Health Promotion",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Tokyo's near-total indoor smoking ban take full effect?",
+        "options": ["2010", "2015", "2018", "2020"],
+        "correct": 3,
+        "explanation": "Tokyo's strengthened indoor smoking ban took effect in 2020, timed to the (delayed) Olympics."
+      }
+    },
+    {
+      "id": 42433,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏠",
+      "title": "Minpaku (Airbnb) Registration Law",
+      "subtitle": "Short-term rentals require government registration",
+      "fullDescription": "Japan's Minpaku Law (住宅宿泊事業法, 2018) requires all short-term rental hosts to register with their prefectural government. Tokyo additionally restricts rentals to a maximum of 180 days per year. Many Tokyo wards (特別区) impose further local restrictions, with some residential zones banning minpaku on weekdays entirely. Unregistered operation is a criminal offence.",
+      "penalty": "Up to 100 days rental suspension, ¥1,000,000 fine, or criminal referral for unregistered operation",
+      "exceptions": ["Licensed traditional inns (ryokan) operate under separate Hotel Business Act"],
+      "source": "https://www.mlit.go.jp/kankocho/minpaku/",
+      "sourceLabel": "MLIT — Minpaku Business Law",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum number of days per year a Tokyo Airbnb host can legally rent their property?",
+        "options": ["90 days", "120 days", "180 days", "Unlimited"],
+        "correct": 2,
+        "explanation": "Japan's Minpaku Law caps short-term rentals at 180 days per year; many Tokyo wards add further restrictions."
+      }
+    },
+    {
+      "id": 42434,
+      "category": "Environmental",
+      "severity": "low",
+      "icon": "♻️",
+      "title": "Strict Waste Separation Rules",
+      "subtitle": "Waste must be sorted into multiple categories",
+      "fullDescription": "Tokyo's 23 special wards each publish detailed waste separation guidelines requiring residents to sort rubbish into burnable (燃えるごみ), non-burnable (燃えないごみ), and recyclables (資源ごみ) at minimum. Large items require advance collection scheduling and a fee sticker. Putting waste out on the wrong day or in wrong bags is a violation that can result in the bag being left uncollected with a violation notice attached.",
+      "penalty": "Fines up to ¥50,000 for improper disposal; businesses fined up to ¥1,000,000 for illegal dumping",
+      "exceptions": ["Specific ward schedules vary — check with local ward office"],
+      "source": "https://www.kankyo.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Government — Waste Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What happens if you put out rubbish on the wrong day in Tokyo?",
+        "options": ["Nothing", "It is collected anyway", "The bag is left with a violation notice", "You are fined immediately"],
+        "correct": 2,
+        "explanation": "Collectors leave improperly disposed waste behind with a violation notice attached."
+      }
+    },
+    {
+      "id": 42435,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🎰",
+      "title": "Pachinko & Gambling Regulation",
+      "subtitle": "Casinos illegal; pachinko operates in a legal grey zone",
+      "fullDescription": "Casino gambling is illegal in Japan under the Criminal Code (刑法), though Integrated Resort (IR) development legislation passed in 2018 is enabling Japan's first casino resorts (not in Tokyo). Pachinko parlours operate via a legal fiction: players win metal balls, exchange them at a separate off-premises booth for cash — a three-step process that technically avoids the gambling prohibition. Tokyo has the highest density of pachinko parlours in Japan.",
+      "penalty": "Illegal gambling: up to 3 years imprisonment or ¥500,000 fine",
+      "exceptions": ["Public horse, bicycle, motorboat, and keirin racing legally permitted under specific laws", "IR casinos being developed in Osaka — not Tokyo"],
+      "source": "https://www.npa.go.jp/",
+      "sourceLabel": "NPA — Gambling Regulation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How do pachinko parlours legally operate despite Japan's gambling ban?",
+        "options": ["They are exempt by a special licence", "Players win tokens, not cash, then exchange them elsewhere", "They pay a special casino tax", "They are technically illegal but tolerated"],
+        "correct": 1,
+        "explanation": "Pachinko uses a three-step process: win balls → exchange at separate booth for cash — technically avoiding the gambling definition."
+      }
+    },
+    {
+      "id": 42436,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🏮",
+      "title": "Public Nuisance Prevention Ordinance",
+      "subtitle": "Restricts solicitation, voyeurism, and disorderly conduct",
+      "fullDescription": "Tokyo's Nuisance Prevention Ordinance (迷惑防止条例) covers a wide range of behaviours: aggressive touting (客引き) outside restaurants and bars, voyeurism and upskirt photography, groping on trains (痴漢), stalking, and excessive noise. Revisions in 2017 and 2022 strengthened penalties for voyeurism and added online distribution of such content as a specific offence.",
+      "penalty": "Varies by offence: groping up to 6 months/¥500,000; voyeurism up to 1 year/¥1,000,000; repeat offenders: up to 2 years",
+      "exceptions": [],
+      "source": "https://www.reiki.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Ordinance Database",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Japanese term for train groping, prohibited under Tokyo's Nuisance Prevention Ordinance?",
+        "options": ["Karaoke", "Chikan (痴漢)", "Senpai", "Yakuza"],
+        "correct": 1,
+        "explanation": "Chikan (痴漢) refers to groping on trains — prohibited with up to 6 months imprisonment under Tokyo's ordinance."
+      }
+    },
+    {
+      "id": 42437,
+      "category": "Civil Rights",
+      "severity": "low",
+      "icon": "🏳️‍🌈",
+      "title": "Tokyo Partnership Ordinance",
+      "subtitle": "Same-sex partnership certificates issued since 2022",
+      "fullDescription": "Tokyo Metropolitan Government began issuing same-sex partnership certificates (パートナーシップ宣誓制度) in November 2022. The certificates are not legally equivalent to marriage (which Japan still restricts to opposite-sex couples nationally), but provide practical recognition for hospital visitation, public housing applications, and some employer benefits. As of 2024, all 23 of Tokyo's special wards offer their own schemes.",
+      "penalty": "N/A — this is a rights-granting ordinance, not a penalty provision",
+      "exceptions": ["National marriage law still defines marriage as between a man and woman — legal challenge ongoing"],
+      "source": "https://www.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Government — Partnership Certificate",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Tokyo begin issuing same-sex partnership certificates?",
+        "options": ["2015", "2018", "2020", "2022"],
+        "correct": 3,
+        "explanation": "Tokyo's partnership certificate scheme launched in November 2022, covering all 23 special wards."
+      }
+    },
+    {
+      "id": 42438,
+      "category": "Disaster Preparedness",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Seismic Building Standards",
+      "subtitle": "Strict earthquake resistance requirements since 1981",
+      "fullDescription": "Japan's Building Standards Act (建築基準法) New Seismic Design Standard (新耐震基準), introduced in 1981 after the lessons of major earthquakes, requires all new buildings to withstand a 6-upper seismic intensity (震度6強) without collapsing. Buildings constructed before 1981 must be retrofitted or face demolition orders. Tokyo has offered retrofit subsidies and conducts mandatory inspection programmes.",
+      "penalty": "Non-compliant new construction: demolition order and criminal penalties for builder; retrofit refusals: administrative orders",
+      "exceptions": ["Small sheds and temporary structures below a size threshold"],
+      "source": "https://www.mlit.go.jp/",
+      "sourceLabel": "MLIT — Building Standards Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What year did Japan introduce its current strict earthquake-resistant building standards?",
+        "options": ["1965", "1972", "1981", "1995"],
+        "correct": 2,
+        "explanation": "The New Seismic Design Standard (新耐震基準) was introduced in 1981 and requires buildings to survive magnitude 6+ earthquakes."
+      }
+    },
+    {
+      "id": 42439,
+      "category": "Disaster Preparedness",
+      "severity": "low",
+      "icon": "🎒",
+      "title": "Tokyo Disaster Prevention Plan",
+      "subtitle": "Residents required to participate in evacuation drills",
+      "fullDescription": "Under Tokyo's Disaster Prevention Plan (東京都地域防災計画), all residents are encouraged — and public housing residents effectively required — to participate in annual disaster drills, particularly in September (Disaster Prevention Day, 防災の日). Schools, workplaces, and local governments (町会) run coordinated drills. Tokyo maintains 3,000+ evacuation sites mapped and publicly listed.",
+      "penalty": "No direct criminal penalty, but non-compliance with evacuation orders during declared emergencies can carry fines",
+      "exceptions": [],
+      "source": "https://www.bousai.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Disaster Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What date is Japan's national Disaster Prevention Day, when major drills occur?",
+        "options": ["January 1", "March 11", "September 1", "December 7"],
+        "correct": 2,
+        "explanation": "September 1 (防災の日) commemorates the 1923 Great Kanto Earthquake and is the focus of annual disaster drills."
+      }
+    },
+    {
+      "id": 42440,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🏷️",
+      "title": "Food Labelling Act",
+      "subtitle": "Strict mandatory labelling for all food products",
+      "fullDescription": "Japan's Food Labelling Act (食品表示法, 2015) requires comprehensive labelling of allergens (7 mandatory: wheat, buckwheat, egg, milk, peanut, shrimp, crab), expiry dates, nutritional content, and country of origin for processed foods. Tokyo's numerous konbini (convenience stores) and restaurants are subject to inspection. The Tokyo Metropolitan Government's Health and Safety Research Center tests products regularly.",
+      "penalty": "Up to 2 years imprisonment or ¥2,000,000 fine for fraudulent labelling",
+      "exceptions": ["Very small operators with annual turnover below threshold have simplified labelling rules"],
+      "source": "https://www.caa.go.jp/policies/policy/food_labeling/",
+      "sourceLabel": "Consumer Affairs Agency — Food Labelling Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many allergens are mandatorily listed on Japanese food labels?",
+        "options": ["3", "5", "7", "14"],
+        "correct": 2,
+        "explanation": "Japan mandates 7 allergens: wheat, buckwheat, egg, milk, peanut, shrimp, and crab."
+      }
+    },
+    {
+      "id": 42441,
+      "category": "Privacy & Technology",
+      "severity": "medium",
+      "icon": "📷",
+      "title": "Anti-Voyeurism Photography Law",
+      "subtitle": "Upskirt and hidden camera photography criminalised nationally",
+      "fullDescription": "Japan's Act on Punishment of Acts that Violate Sexual Privacy (性的姿態等撮影処罰法, 2023) nationally criminalised voyeuristic photography after years of prefectural patchwork laws. The law specifically covers hidden camera recording, upskirt photography, and distribution of such material including online. Tokyo's own Nuisance Prevention Ordinance had covered these since 2017, now supplemented by the stronger national law.",
+      "penalty": "Up to 3 years imprisonment or ¥3,000,000 fine; distribution of material: up to 5 years",
+      "exceptions": [],
+      "source": "https://www.npa.go.jp/",
+      "sourceLabel": "NPA — Sexual Privacy Filming Act 2023",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Japan pass a national law specifically criminalising voyeuristic photography?",
+        "options": ["2010", "2017", "2020", "2023"],
+        "correct": 3,
+        "explanation": "The national Sexual Privacy Filming Act passed in 2023, though Tokyo's own ordinance had covered this since 2017."
+      }
+    },
+    {
+      "id": 42442,
+      "category": "Immigration & Identity",
+      "severity": "high",
+      "icon": "🪪",
+      "title": "Residence Card Mandatory Carry",
+      "subtitle": "Foreign nationals must carry their residence card at all times",
+      "fullDescription": "Under Japan's Immigration Control Act (入管法), foreign nationals aged 16 or over holding mid-to-long-term residence status must carry their Residence Card (在留カード) at all times and present it on demand to police or immigration officers. Failure to carry it is itself a misdemeanour. Immigration raids (特別審査) in Tokyo target entertainment districts, construction sites, and restaurants.",
+      "penalty": "Failure to carry: fine up to ¥200,000; overstaying visa: up to 3 years imprisonment + deportation",
+      "exceptions": ["Short-term visitors (tourist visa, up to 90 days) carry passport instead"],
+      "source": "https://www.moj.go.jp/isa/",
+      "sourceLabel": "Immigration Services Agency of Japan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What must foreign residents in Japan carry at all times under the Immigration Control Act?",
+        "options": ["Passport", "Residence Card (在留カード)", "Driver's licence", "Work permit"],
+        "correct": 1,
+        "explanation": "Foreign nationals with residency status must carry their Residence Card (在留カード) at all times."
+      }
+    },
+    {
+      "id": 42443,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🗑️",
+      "title": "No Street Littering — Public Bin Scarcity",
+      "subtitle": "Very few public bins; carrying your rubbish is expected",
+      "fullDescription": "Following sarin attacks in 1995, Tokyo removed most public rubbish bins from stations and streets as a security measure. Despite this, littering (ポイ捨て) is prohibited under ward ordinances and the Waste Management Law. Tokyo residents and visitors are culturally and legally expected to carry their rubbish home or to a konbini bin. Some wards have designated smoking/bin areas but these are scarce.",
+      "penalty": "Littering fines: ¥2,000–¥30,000 depending on ward; illegal dumping of bulk waste: up to ¥1,000,000",
+      "exceptions": [],
+      "source": "https://www.kankyo.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Environment Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why did Tokyo remove most public rubbish bins from stations?",
+        "options": ["Recycling campaign", "Cost-cutting", "Following the 1995 sarin attacks as a security measure", "Olympic beautification"],
+        "correct": 2,
+        "explanation": "After the 1995 Tokyo subway sarin attacks, bins were removed as potential bomb/chemical concealment points."
+      }
+    },
+    {
+      "id": 42444,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "💳",
+      "title": "Moneylending Regulation",
+      "subtitle": "Interest rates capped at 20% per annum",
+      "fullDescription": "Japan's Moneylending Business Act (貸金業法) caps consumer loan interest at 20% per annum. Grey-zone lending above 20% but below the former criminal usury threshold was eliminated in 2010 reforms following widespread consumer debt crises. Licensed moneylenders must register with the Financial Services Agency. In Tokyo, consumer finance companies (サラ金 / consumer loan companies) are heavily regulated and advertising is restricted.",
+      "penalty": "Unlicensed lending: up to 10 years imprisonment; interest over legal cap: criminal liability for lender",
+      "exceptions": ["Secured loans have different rate caps under separate law"],
+      "source": "https://www.fsa.go.jp/",
+      "sourceLabel": "Financial Services Agency — Moneylending Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum legal annual interest rate for consumer loans in Japan?",
+        "options": ["10%", "15%", "20%", "29.2%"],
+        "correct": 2,
+        "explanation": "Japan's Moneylending Business Act caps consumer loan interest at 20% per annum since 2010 reforms."
+      }
+    },
+    {
+      "id": 42445,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "⏰",
+      "title": "Working Hours Cap & 36 Agreement",
+      "subtitle": "Overtime requires a formal labour-management agreement",
+      "fullDescription": "Japan's Labour Standards Act (労働基準法) Article 36 requires employers to conclude a written agreement with worker representatives before any overtime can be worked. This '36 Agreement' (三六協定) must specify maximum overtime hours. The 2019 Work Style Reform Act capped overtime at 45 hours/month and 360 hours/year in general, or 100 hours in single months for specific industries. Tokyo's Labour Standards Inspection Offices audit compliance.",
+      "penalty": "Employers violating overtime caps: up to 6 months imprisonment or ¥300,000 fine",
+      "exceptions": ["Certain industries (construction, transport) had phase-in periods until 2024"],
+      "source": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/",
+      "sourceLabel": "Tokyo Labour Bureau — Work Style Reform",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Japanese term for the overtime permission agreement required before employees can work overtime?",
+        "options": ["Kaizen agreement", "36 Agreement (三六協定)", "Keiretsu agreement", "Haken agreement"],
+        "correct": 1,
+        "explanation": "The '36 Agreement' (三六協定, named after Article 36) is a written labour-management agreement required before any overtime."
+      }
+    },
+    {
+      "id": 42446,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🔫",
+      "title": "Firearms Prohibition",
+      "subtitle": "Almost total ban on civilian gun ownership",
+      "fullDescription": "Japan's Firearms and Swords Control Law (銃刀法) makes civilian ownership of firearms effectively illegal. Shotguns can be obtained by competitive hunters after extensive background checks, psychiatric evaluation, a shooting range test, and regular police home inspections — but handguns are banned entirely. Japan's gun death rate is among the world's lowest at under 10 per year nationally. Tokyo Metropolitan Police have specialised anti-gun units targeting yakuza.",
+      "penalty": "Illegal possession: up to 15 years imprisonment; discharging illegally: up to 3 years added",
+      "exceptions": ["Licensed hunters (shotguns only, after rigorous process)", "Olympic/competitive shooters at registered ranges"],
+      "source": "https://www.keishicho.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Police — Firearms Control",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many gun deaths occur across all of Japan per year?",
+        "options": ["Under 10", "Around 100", "Around 500", "Around 2,000"],
+        "correct": 0,
+        "explanation": "Japan's near-total gun ban results in fewer than 10 gun deaths nationally per year — one of the world's lowest rates."
+      }
+    },
+    {
+      "id": 42447,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "⚔️",
+      "title": "Yakuza — Organised Crime Exclusion Ordinance",
+      "subtitle": "Tokyo prohibits business dealings with designated crime groups",
+      "fullDescription": "Tokyo's Organised Crime Group Exclusion Ordinance (暴力団排除条例, 2011) prohibits businesses from providing money, services, or benefits to designated yakuza groups (指定暴力団). Banks, real estate agents, and insurers must include anti-yakuza clauses in contracts. Yakuza members themselves face civil asset restrictions. The National Police Agency designates 22 yakuza groups; the Yamaguchi-gumi is the largest.",
+      "penalty": "Businesses providing benefits to yakuza: fines up to ¥5,000,000 and public naming; yakuza members: civil restraining orders",
+      "exceptions": [],
+      "source": "https://www.keishicho.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Police — Organised Crime Division",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What year did Tokyo's Organised Crime Group Exclusion Ordinance take effect?",
+        "options": ["1992", "2000", "2011", "2018"],
+        "correct": 2,
+        "explanation": "Tokyo's Boryokudan Haijo Jorei (暴力団排除条例) took effect in 2011, part of a national wave of similar ordinances."
+      }
+    },
+    {
+      "id": 42448,
+      "category": "Education",
+      "severity": "low",
+      "icon": "🏫",
+      "title": "Compulsory Education Age 6–15",
+      "subtitle": "Nine years of schooling mandatory under Education Act",
+      "fullDescription": "Japan's Fundamental Law of Education (教育基本法) and School Education Act (学校教育法) make education compulsory for children ages 6–15 (elementary + junior high, 9 years total). Tokyo maintains near-100% attendance and provides free public schooling. International residents' children are also covered. Tokyo Board of Education operates 1,281 public elementary and 617 junior high schools.",
+      "penalty": "Parents who fail to enrol children: fines up to ¥100,000 (rarely enforced in practice)",
+      "exceptions": ["Home schooling has no formal legal status in Japan but is tolerated in some cases"],
+      "source": "https://www.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Board of Education",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many years of compulsory education does Japan require?",
+        "options": ["6 years", "9 years", "10 years", "12 years"],
+        "correct": 1,
+        "explanation": "Japan mandates 9 years of compulsory education: 6 years elementary + 3 years junior high (ages 6–15)."
+      }
+    },
+    {
+      "id": 42449,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌳",
+      "title": "Tokyo Green Space Ordinance",
+      "subtitle": "New large buildings must include green areas",
+      "fullDescription": "Tokyo's Natural Environment Preservation Ordinance (自然環境保全条例) requires new buildings exceeding 1,000 m² to include greenery (rooftop gardens, wall planting, ground landscaping) covering a proportion of total floor area. Developers receive points toward planning approval for exceeding minimums. Tokyo aims for a 20% green coverage ratio across the metropolis. The Shinjuku Gyoen and Ueno Park are designated Natural Environment Preservation Areas.",
+      "penalty": "Non-compliant developments: planning approval withheld; retrospective violations: administrative orders to retrofit",
+      "exceptions": ["Industrial zones have modified requirements"],
+      "source": "https://www.kankyo.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Environment Bureau — Green Ordinance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What building size triggers Tokyo's mandatory green space requirement?",
+        "options": ["500 m²", "1,000 m²", "2,000 m²", "5,000 m²"],
+        "correct": 1,
+        "explanation": "Buildings over 1,000 m² must include specified green areas under Tokyo's Natural Environment Preservation Ordinance."
+      }
+    },
+    {
+      "id": 42450,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🧧",
+      "title": "Excessive Gift Ban — Anti-Gift Competition Law",
+      "subtitle": "Gifts and premiums capped to prevent unfair marketing",
+      "fullDescription": "Japan's Act against Unjustifiable Premiums and Misleading Representations (景品表示法) limits promotional gifts and competitions. Retail prizes cannot exceed 20 times the price of the purchased product (capped at ¥100,000); open-to-all competitions max out at ¥1,000,000 in prizes. Tokyo's dense retail market makes this law highly relevant — konbini chains, department stores, and online retailers are regularly investigated by the Consumer Affairs Agency.",
+      "penalty": "Cease and desist orders; fines up to 3% of relevant sales revenue for systematic violations",
+      "exceptions": ["Certain loyalty programme points operate under separate guidelines"],
+      "source": "https://www.caa.go.jp/",
+      "sourceLabel": "Consumer Affairs Agency — Premium Law",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under Japan's premium law, what is the maximum prize value for an open-entry competition?",
+        "options": ["¥100,000", "¥500,000", "¥1,000,000", "¥10,000,000"],
+        "correct": 2,
+        "explanation": "Open-to-all competitions are capped at ¥1,000,000 in total prize value under the Premium Representation Act."
+      }
+    },
+    {
+      "id": 42451,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "🚇",
+      "title": "Tokyo Metro Priority Seating Rules",
+      "subtitle": "Strong social and emerging legal norms around priority seats",
+      "fullDescription": "Tokyo's 13 subway lines and multiple JR lines designate priority seats (優先席) for elderly, disabled, pregnant, and injured passengers. While not legally mandatory to vacate them (unlike in some countries), Tokyo Metro guidelines, enforced through strong social pressure, effectively make standing over an able-bodied person sitting in a priority seat a social violation. Mobile phones must be silenced in the priority seat zone (マナーモード).",
+      "penalty": "No direct criminal penalty, but staff can request compliance; repeated refusal in some circumstances may fall under nuisance ordinances",
+      "exceptions": [],
+      "source": "https://www.tokyometro.jp/",
+      "sourceLabel": "Tokyo Metro — Passenger Conduct Guidelines",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What must passengers do with mobile phones near priority seats on Tokyo Metro?",
+        "options": ["Turn them off completely", "Switch to silent mode (マナーモード)", "Nothing — no rule applies", "Use headphones only"],
+        "correct": 1,
+        "explanation": "Tokyo Metro requires phones in silent/manner mode (マナーモード) in priority seat zones."
+      }
+    },
+    {
+      "id": 42452,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "💊",
+      "title": "Stimulant Drugs (Amphetamine) Act",
+      "subtitle": "Methamphetamine possession is severely punished",
+      "fullDescription": "Japan's Stimulants Control Act (覚醒剤取締法) makes possession of methamphetamine punishable by up to 10 years imprisonment; import/export or trafficking carries up to life imprisonment. Japan had significant meth problems in the postwar period and retains among Asia's most severe drug penalties. Tokyo Metropolitan Police's narcotics division (薬物銃器対策課) maintains active enforcement. Foreign nationals face mandatory deportation after serving any sentence.",
+      "penalty": "Possession: up to 10 years; trafficking/import: up to life imprisonment",
+      "exceptions": [],
+      "source": "https://www.npa.go.jp/",
+      "sourceLabel": "NPA — Stimulants Control Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum penalty for methamphetamine trafficking in Japan?",
+        "options": ["10 years", "20 years", "Life imprisonment", "Death penalty"],
+        "correct": 2,
+        "explanation": "Japan's Stimulants Control Act allows for life imprisonment for methamphetamine import, export, or trafficking."
+      }
+    },
+    {
+      "id": 42453,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌊",
+      "title": "Tokyo Flood Control — Super Levee Programme",
+      "subtitle": "Mandatory land use rules around flood infrastructure",
+      "fullDescription": "Tokyo's Super Levee Programme (スーパー堤防) along the Arakawa, Edogawa, Kanda, Tama, Tsurumi, and Naka rivers creates levees 30× wider than standard, doubling as raised urban land. Properties within designated construction zones may be subject to compulsory purchase or required to rebuild on elevated platforms. The programme, begun in 1987, has a 400-year projected completion timeline.",
+      "penalty": "Non-compliance with levee zone land use orders: administrative orders and compensation proceedings",
+      "exceptions": ["Heritage listed structures may receive accommodations"],
+      "source": "https://www.ktr.mlit.go.jp/",
+      "sourceLabel": "Kanto Regional Development Bureau — Super Levee",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How wide are Tokyo's 'super levees' compared to standard levees?",
+        "options": ["Same width", "3× wider", "30× wider", "100× wider"],
+        "correct": 2,
+        "explanation": "Super levees are 30 times wider than conventional levees, creating elevated urban land that can be built upon."
+      }
+    },
+    {
+      "id": 42454,
+      "category": "Intellectual Property",
+      "severity": "medium",
+      "icon": "📀",
+      "title": "Illegal Download Criminalisation",
+      "subtitle": "Knowingly downloading pirated content is criminal",
+      "fullDescription": "Japan's Copyright Act (著作権法) was amended in 2020 to extend criminal liability for downloading to all copyrighted works (manga, magazines, academic papers) — not just music and video as before. Penalties apply to knowing downloaders of infringing material. Tokyo's publishing and entertainment industries lobbied heavily for the expansion. The 2020 amendment added a safe harbour for accidental downloads but maintained strict liability for deliberate piracy.",
+      "penalty": "Up to 2 years imprisonment or ¥2,000,000 fine for criminal downloading",
+      "exceptions": ["Accidental or unknowing downloads", "Licensed streaming"],
+      "source": "https://www.bunka.go.jp/",
+      "sourceLabel": "Agency for Cultural Affairs — Copyright Act 2020",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What did Japan's 2020 Copyright Act amendment extend criminal download liability to?",
+        "options": ["Music only", "Video only", "All copyrighted works including manga and books", "Only commercially sold software"],
+        "correct": 2,
+        "explanation": "The 2020 amendment extended criminal liability from music/video to all copyrighted works including manga, magazines, and papers."
+      }
+    },
+    {
+      "id": 42455,
+      "category": "Financial",
+      "severity": "high",
+      "icon": "💹",
+      "title": "Insider Trading Prohibition",
+      "subtitle": "Financial Instruments and Exchange Act strictly enforced",
+      "fullDescription": "Japan's Financial Instruments and Exchange Act (金融商品取引法) prohibits insider trading with criminal and civil penalties. The Tokyo Stock Exchange, home to approximately 3,800 listed companies, is regulated by the Financial Services Agency (FSA). The Securities and Exchange Surveillance Commission (SESC) conducts surveillance. Japan tightened its enforcement significantly after multiple high-profile cases in the 2000s and 2010s.",
+      "penalty": "Up to 10 years imprisonment or ¥10,000,000 fine for individuals; corporations: up to ¥700,000,000 fine",
+      "exceptions": ["Authorised market-making activities under strict rules"],
+      "source": "https://www.fsa.go.jp/",
+      "sourceLabel": "Financial Services Agency — FIEA",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which body conducts market surveillance and insider trading investigations in Japan?",
+        "options": ["Bank of Japan", "Ministry of Finance", "Securities and Exchange Surveillance Commission (SESC)", "Tokyo Stock Exchange itself"],
+        "correct": 2,
+        "explanation": "The Securities and Exchange Surveillance Commission (SESC) monitors markets and investigates insider trading under the FSA umbrella."
+      }
+    },
+    {
+      "id": 42456,
+      "category": "Housing & Property",
+      "severity": "low",
+      "icon": "🏢",
+      "title": "High-Rise Wind Assessment Rule",
+      "subtitle": "Buildings over 60m require wind impact studies",
+      "fullDescription": "Tokyo's Urban Planning Act and Building Standards Act require environmental impact assessments including wind environment studies for buildings exceeding 60 metres in height or with a floor area over 10,000 m². Developers must model wind tunnelling effects and propose mitigation measures to prevent dangerously accelerated wind at street level — a common issue in Tokyo's dense high-rise areas (Shinjuku, Marunouchi, Shiodome).",
+      "penalty": "Planning approval withheld without compliant assessment; retrospective orders if problems arise post-construction",
+      "exceptions": ["Certain urban regeneration zones have streamlined processes"],
+      "source": "https://www.toshiseibi.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Urban Development Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "At what building height does Tokyo require a wind environment impact study?",
+        "options": ["Over 30m", "Over 45m", "Over 60m", "Over 100m"],
+        "correct": 2,
+        "explanation": "Buildings over 60 metres in Tokyo must include wind impact assessments as part of planning approval."
+      }
+    },
+    {
+      "id": 42457,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🏊",
+      "title": "Tattoo Ban at Onsen and Public Baths",
+      "subtitle": "Widespread but legally complex prohibition",
+      "fullDescription": "While not prohibited by national law, Tokyo's numerous sento (public baths) and onsen (hot springs) overwhelmingly ban tattooed patrons under their own rules of use, citing associations with yakuza organised crime. Tokyo's Public Bath Act (公衆浴場法) allows operators to set entry conditions. Some facilities have begun relaxing rules for foreign tourists, particularly since 2019 Olympic preparations. Private facilities retain full discretion.",
+      "penalty": "Entry refusal is the enforcement — no criminal penalty for the patron; trespass if patron refuses to leave after refusal",
+      "exceptions": ["Some younger-oriented facilities and private hire onsen accept tattoos", "Medical facility baths"],
+      "source": "https://www.fukushihoken.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Health and Welfare Bureau",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Why do Tokyo onsen traditionally ban tattooed patrons?",
+        "options": ["Hygiene concerns", "Religious traditions", "Historical association with yakuza organised crime", "Aesthetic community standards"],
+        "correct": 2,
+        "explanation": "The ban stems from yakuza members historically using tattoos as identity markers — operators use it to exclude gang members."
+      }
+    },
+    {
+      "id": 42458,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "⚖️",
+      "title": "Extended Pre-Charge Detention",
+      "subtitle": "Suspects can be held up to 23 days before charge",
+      "fullDescription": "Japan's Code of Criminal Procedure (刑事訴訟法) allows police to detain a suspect for 48 hours, then prosecutors can extend this to 10 days (renewable once for another 10 days), totalling a possible 23 days before a charge must be filed. This system — combined with high conviction rates (over 99%) — draws international criticism. Suspects may be re-arrested on new charges to extend detention. Tokyo's main detention facilities are Koshoji and Tokyo Detention House.",
+      "penalty": "N/A — this is a procedure rule, not a penalty",
+      "exceptions": [],
+      "source": "https://www.moj.go.jp/",
+      "sourceLabel": "Ministry of Justice — Criminal Procedure",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum number of days a suspect can be legally detained in Japan before formal charge?",
+        "options": ["48 hours", "7 days", "14 days", "23 days"],
+        "correct": 3,
+        "explanation": "Japan allows up to 23 days pre-charge detention: 48 hours police + up to 10 days × 2 prosecutorial extensions."
+      }
+    },
+    {
+      "id": 42459,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🏪",
+      "title": "Act on Specified Commercial Transactions",
+      "subtitle": "Cooling-off periods for door-to-door and multilevel sales",
+      "fullDescription": "Japan's Act on Specified Commercial Transactions (特定商取引法) grants consumers cooling-off periods for high-pressure sales: 8 days for door-to-door and telephone sales, 20 days for multilevel marketing schemes. Tokyo consumer centres report frequent complaints about aggressive investment and beauty product schemes targeting elderly residents. The Consumer Affairs Agency strengthened penalties in 2022.",
+      "penalty": "Businesses violating cooling-off: fines up to ¥3,000,000; fraudulent MLM operators: up to 3 years imprisonment",
+      "exceptions": ["Business-to-business transactions", "Online marketplace purchases (separate e-commerce rules apply)"],
+      "source": "https://www.caa.go.jp/",
+      "sourceLabel": "Consumer Affairs Agency — Specified Commercial Transactions",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many days does Japan's cooling-off period last for door-to-door sales?",
+        "options": ["3 days", "5 days", "8 days", "14 days"],
+        "correct": 2,
+        "explanation": "Japan grants 8 days to cancel door-to-door and telephone sales under the Specified Commercial Transactions Act."
+      }
+    },
+    {
+      "id": 42460,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "☀️",
+      "title": "Tokyo Solar Panel Mandate",
+      "subtitle": "New homes must have solar panels from 2025",
+      "fullDescription": "Tokyo became the first major city in Japan to mandate solar panels on new residential buildings when the ordinance came into effect in April 2025. The requirement applies to new homes built by major developers (those constructing over 2,000 m² of floor area per year). The Tokyo Solar Energy Building Project targets 1GW of additional rooftop capacity by 2030, part of the city's goal of carbon neutrality by 2050.",
+      "penalty": "Developer non-compliance: administrative orders; continued non-compliance: public naming and fines",
+      "exceptions": ["Small builders below the 2,000 m² threshold", "Buildings where structural load prevents panel installation"],
+      "source": "https://www.kankyo.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Environment Bureau — Solar Mandate",
+      "lastUpdated": "2025-04-01",
+      "quiz": {
+        "q": "When did Tokyo's mandatory solar panel requirement for new homes take effect?",
+        "options": ["2022", "2023", "2024", "2025"],
+        "correct": 3,
+        "explanation": "Tokyo's solar panel mandate for new residential developments by major builders took effect in April 2025."
+      }
+    },
+    {
+      "id": 42461,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🏯",
+      "title": "Historic Building Preservation Orders",
+      "subtitle": "Demolition of designated buildings requires special approval",
+      "fullDescription": "Japan's Law for Protection of Cultural Properties (文化財保護法) and Tokyo's own Historic Building Preservation Ordinance designate buildings of architectural or historical significance. Owners cannot demolish, substantially alter, or change the use of a designated property without prefecture approval. Tokyo has 11 National Treasure buildings, 131 Important Cultural Properties, and 2,000+ designated historical buildings.",
+      "penalty": "Unauthorised demolition: up to ¥500,000 fine and restoration order; loss of designation if altered without permission",
+      "exceptions": ["Emergency safety repairs can proceed with immediate notification"],
+      "source": "https://www.bunka.go.jp/",
+      "sourceLabel": "Agency for Cultural Affairs — Cultural Properties Protection",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many National Treasure buildings does Tokyo have?",
+        "options": ["3", "11", "25", "50"],
+        "correct": 1,
+        "explanation": "Tokyo has 11 National Treasure (国宝) buildings among its large stock of protected cultural properties."
+      }
+    },
+    {
+      "id": 42462,
+      "category": "Privacy & Technology",
+      "severity": "medium",
+      "icon": "🔐",
+      "title": "Personal Information Protection Act",
+      "subtitle": "Comprehensive data protection law amended in 2022",
+      "fullDescription": "Japan's Act on Protection of Personal Information (個人情報の保護に関する法律, APPI) was significantly amended in 2022 to align with global standards. Organisations handling personal data of Japanese residents must have privacy policies, appoint a personal information protection manager, and report breaches within a specified timeframe. The Personal Information Protection Commission (PPC) enforces the law and can audit Tokyo's tech firms, hospitals, and financial institutions.",
+      "penalty": "Individual violations: up to 1 year imprisonment or ¥1,000,000 fine; corporations: up to ¥100,000,000 fine",
+      "exceptions": ["Academic, journalistic, and religious bodies have limited exemptions"],
+      "source": "https://www.ppc.go.jp/",
+      "sourceLabel": "Personal Information Protection Commission",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What Japanese body enforces personal data protection law?",
+        "options": ["Ministry of Justice", "Digital Agency", "Personal Information Protection Commission (PPC)", "Financial Services Agency"],
+        "correct": 2,
+        "explanation": "The Personal Information Protection Commission (PPC) enforces APPI and can investigate and fine organisations."
+      }
+    },
+    {
+      "id": 42463,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "👷",
+      "title": "Harassment Prevention Obligations",
+      "subtitle": "Employers legally required to prevent power and sexual harassment",
+      "fullDescription": "The Revised Labour Policy Comprehensive Promotion Act (労働施策総合推進法, 2020) made it mandatory for large companies (and from April 2022, all companies) to implement power harassment (パワーハラスメント) prevention measures. Tokyo Labour Bureau provides guidance and investigates complaints. Sexual harassment obligations under the Equal Employment Opportunity Act have applied since 1999. Maternity harassment (マタニティハラスメント) is also covered.",
+      "penalty": "Companies failing to implement measures: administrative guidance → orders → public naming; no direct criminal fine for non-implementation but harassment itself may be civil tort",
+      "exceptions": ["Freelancers and gig workers have reduced protections (reform pending)"],
+      "source": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/",
+      "sourceLabel": "Tokyo Labour Bureau — Harassment Prevention",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Japanese term for 'power harassment' — workplace bullying by those in authority?",
+        "options": ["Karoshi", "Ikigai", "Pawahara (パワハラ)", "Shoganai"],
+        "correct": 2,
+        "explanation": "Pawahara (パワハラ, short for power harassment) is the target of mandatory prevention measures under the 2020 Act."
+      }
+    },
+    {
+      "id": 42464,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🎭",
+      "title": "Child Pornography Prohibition Act",
+      "subtitle": "Possession and production both criminal since 2014",
+      "fullDescription": "Japan criminalised simple possession of child sexual abuse material (CSAM) in 2014 under the Act on Punishment of Activities Relating to Child Prostitution and Child Pornography (児童買春・児童ポルノ処罰法). Production, distribution, and possession for distribution carry heavier penalties. Japan was one of the last developed nations to ban simple possession. Tokyo Metropolitan Police have significantly increased enforcement since the law's passage.",
+      "penalty": "Possession: up to 1 year imprisonment or ¥1,000,000 fine; production/distribution: up to 5 years imprisonment",
+      "exceptions": [],
+      "source": "https://www.npa.go.jp/",
+      "sourceLabel": "NPA — Child Pornography Prohibition Act 2014",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Japan criminalise simple possession of child sexual abuse material?",
+        "options": ["1999", "2005", "2010", "2014"],
+        "correct": 3,
+        "explanation": "Japan was late to criminalise simple CSAM possession — it became an offence in 2014 under the amended Act."
+      }
+    },
+    {
+      "id": 42465,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🪙",
+      "title": "Cryptocurrency Exchange Registration",
+      "subtitle": "Crypto exchanges must register with FSA since 2017",
+      "fullDescription": "Following the Mt. Gox collapse (headquartered in Tokyo), Japan became the first country to regulate cryptocurrency exchanges under the Payment Services Act (資金決済法, amended 2017). All exchanges operating in Japan must register with the Financial Services Agency, maintain segregated customer funds, implement AML/KYC controls, and report suspicious transactions. Japan recognises Bitcoin and other crypto as legal property (not currency).",
+      "penalty": "Unregistered exchange operation: up to 3 years imprisonment or ¥3,000,000 fine",
+      "exceptions": [],
+      "source": "https://www.fsa.go.jp/",
+      "sourceLabel": "Financial Services Agency — Crypto Exchange Registration",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What major Tokyo-based crypto exchange collapse prompted Japan to regulate exchanges in 2017?",
+        "options": ["FTX Japan", "Coincheck", "Mt. Gox", "Bitflyer"],
+        "correct": 2,
+        "explanation": "Mt. Gox, once the world's largest Bitcoin exchange based in Tokyo, collapsed in 2014 — prompting Japan's 2017 exchange registration law."
+      }
+    },
+    {
+      "id": 42466,
+      "category": "Housing & Property",
+      "severity": "low",
+      "icon": "🏠",
+      "title": "Scrivener System for Real Estate Transactions",
+      "subtitle": "Licensed judicial scriveners required for property transfers",
+      "fullDescription": "All real estate title transfers in Japan must be processed by a licensed judicial scrivener (司法書士). Buyers and sellers cannot self-register a title transfer — the scrivener verifies identity, prepares registration documents, and submits to the Legal Affairs Bureau. In Tokyo, where property transactions run into tens of millions of yen, scrivener fees typically range ¥50,000–¥200,000. Foreign buyers frequently encounter this as an unexpected requirement.",
+      "penalty": "Unauthorised practice of judicial scrivener work: up to 1 year imprisonment or ¥1,000,000 fine",
+      "exceptions": ["Court-ordered transfers proceed differently through judicial proceedings"],
+      "source": "https://www.moj.go.jp/",
+      "sourceLabel": "Ministry of Justice — Judicial Scrivener Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Who must legally process real estate title transfers in Japan?",
+        "options": ["The buyer's lawyer", "A real estate agent", "A licensed judicial scrivener (司法書士)", "A notary public"],
+        "correct": 2,
+        "explanation": "Japan's system requires a licensed judicial scrivener (司法書士) to prepare and submit all property title transfers."
+      }
+    },
+    {
+      "id": 42467,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🐕",
+      "title": "Tokyo Dog Registration and Leash Law",
+      "subtitle": "All dogs must be registered and vaccinated against rabies",
+      "fullDescription": "Tokyo's Animal Protection and Management Ordinance and the national Rabies Prevention Act (狂犬病予防法) require all dog owners to register their dog with the ward office within 30 days of acquisition and obtain annual rabies vaccinations. Dogs must be kept on a leash in public places. The ordinance bans dogs from entering food preparation areas. Tokyo sees periodic enforcement drives particularly in parks.",
+      "penalty": "Failure to register/vaccinate: up to ¥200,000 fine; off-leash in prohibited areas: fines up to ¥30,000",
+      "exceptions": ["Guide dogs, service dogs, and police dogs operating in their professional capacity"],
+      "source": "https://www.fukushihoken.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Health Bureau — Animal Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How soon after acquiring a dog must Tokyo owners register with the ward office?",
+        "options": ["7 days", "14 days", "30 days", "90 days"],
+        "correct": 2,
+        "explanation": "Tokyo dog owners must register their dog with the ward office within 30 days of acquisition under the Rabies Prevention Act."
+      }
+    },
+    {
+      "id": 42468,
+      "category": "Employment & Labour",
+      "severity": "high",
+      "icon": "💀",
+      "title": "Karoshi Recognition and Prevention",
+      "subtitle": "Death from overwork is a legally recognised industrial injury",
+      "fullDescription": "Japan's karoshi (過労死, death from overwork) is legally recognised as an occupational accident under the Industrial Accident Compensation Insurance Act (労災保険法). Families can claim compensation when a worker dies from cardiovascular disease caused by excessive working hours. The 2014 Act on Promotion of Countermeasures against Karoshi obligates government and employers to take prevention measures. Tokyo, with Japan's highest concentration of overworked office workers, is central to this issue.",
+      "penalty": "Employers of karoshi victims face civil tort liability; Labour Standards violations concurrent with karoshi may result in criminal charges",
+      "exceptions": [],
+      "source": "https://www.mhlw.go.jp/",
+      "sourceLabel": "Ministry of Health — Karoshi Prevention Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does the Japanese term 'karoshi' (過労死) mean?",
+        "options": ["Mandatory retirement", "Death from overwork", "Extended sick leave", "Workplace injury compensation"],
+        "correct": 1,
+        "explanation": "Karoshi (過労死) literally means 'overwork death' — legally recognised as an occupational accident in Japan."
+      }
+    },
+    {
+      "id": 42469,
+      "category": "Consumer Protection",
+      "severity": "low",
+      "icon": "🎁",
+      "title": "Gift Wrapping and Presentation Rules",
+      "subtitle": "Misleading packaging prohibited under labelling law",
+      "fullDescription": "Under the Act against Unjustifiable Premiums and Misleading Representations (景品表示法), packaging that makes the product appear larger or more numerous than it is constitutes an 'unfair indication.' The Consumer Affairs Agency regularly issues public warnings to confectionery and food companies whose boxes are predominantly empty space. Japan's gifting culture (omiyage/手土産) makes this particularly relevant in Tokyo's souvenir retail sector.",
+      "penalty": "Cease-and-desist orders; fines of up to 3% of relevant sales for systematic violations",
+      "exceptions": ["Protective packaging genuinely required for fragile products"],
+      "source": "https://www.caa.go.jp/",
+      "sourceLabel": "Consumer Affairs Agency — Misleading Representations",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is 'omiyage' in Japanese gift-giving culture?",
+        "options": ["A type of bow when receiving a gift", "Souvenirs or regional treats brought as gifts", "Mandatory gift receipt stamps", "A formal gift registry"],
+        "correct": 1,
+        "explanation": "Omiyage (お土産) are souvenirs or regional specialty foods brought as gifts — a key social custom in Japan."
+      }
+    },
+    {
+      "id": 42470,
+      "category": "Public Transport",
+      "severity": "medium",
+      "icon": "🚆",
+      "title": "JR and Metro Fare Evasion",
+      "subtitle": "Fare evasion treated as theft under criminal law",
+      "fullDescription": "Tokyo's integrated rail network (JR East, Tokyo Metro, Toei, private lines) uses IC card systems (Suica/Pasmo). Fare evasion — including tailgating through gates, using expired cards, or intentional underpayment — is prosecuted as theft or fraud under the Penal Code (刑法). Tokyo's rail operators share evasion data and invest heavily in gate technology. Caught evaders must pay the full back-fare plus a surcharge, and repeat offenders face prosecution.",
+      "penalty": "Civil: back-fare + surcharge (often 2× fare); criminal: up to 10 years imprisonment for fraud/theft",
+      "exceptions": [],
+      "source": "https://www.jreast.co.jp/",
+      "sourceLabel": "JR East — Passenger Conduct",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What are the two main IC card systems used on Tokyo's rail network?",
+        "options": ["Octopus and Oyster", "Suica and Pasmo", "IC and QR", "EZ-Link and Navigo"],
+        "correct": 1,
+        "explanation": "Suica (JR East) and Pasmo (private lines/Metro) are Tokyo's two primary contactless rail payment cards — mutually accepted across the network."
+      }
+    },
+    {
+      "id": 42471,
+      "category": "Immigration & Identity",
+      "severity": "medium",
+      "icon": "✈️",
+      "title": "Working Holiday Visa Restrictions",
+      "subtitle": "Specific nationalities eligible; work restrictions apply",
+      "fullDescription": "Japan's working holiday visa programme is limited to nationals of 30 countries (including Australia, New Zealand, UK, Ireland, Canada, France, Germany) aged 18–30. Holders may work up to a year in Japan but cannot work at bars or entertainment establishments (風俗) and are capped on working hours per week in the same role to maintain the 'holiday' character. Tokyo is the most common destination but rural Japan desperately seeks workers.",
+      "penalty": "Working outside visa conditions: deportation and potential re-entry ban; employers hiring improperly: ¥3,000,000 fine",
+      "exceptions": ["Some bilateral agreements extend age to 35 for specific nationalities"],
+      "source": "https://www.mofa.go.jp/",
+      "sourceLabel": "Ministry of Foreign Affairs — Working Holiday Visa",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the standard upper age limit for Japan's Working Holiday Visa?",
+        "options": ["25", "28", "30", "35"],
+        "correct": 2,
+        "explanation": "Japan's Working Holiday Visa is generally available to nationals aged 18–30, with some bilateral extensions to 35."
+      }
+    },
+    {
+      "id": 42472,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🎪",
+      "title": "Human Trafficking Prevention",
+      "subtitle": "Serious criminal penalties under 2005 Act",
+      "fullDescription": "Japan's Act on Punishment of Human Trafficking (人身取引等処罰法, 2005) criminalises trafficking in persons for labour and sexual exploitation. Tokyo is both a destination and transit point in Asian trafficking networks, particularly affecting the entertainment and agricultural industries. The US State Department has historically rated Japan as Tier 1 with caveats. Recent reforms in the Technical Intern Training system (which critics call covert labour trafficking) were enacted in 2024.",
+      "penalty": "Trafficking: up to 10 years imprisonment; trafficking a minor: up to life imprisonment",
+      "exceptions": [],
+      "source": "https://www.npa.go.jp/",
+      "sourceLabel": "NPA — Human Trafficking Countermeasures",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What replacement for Japan's controversial Technical Intern Training system was enacted in 2024?",
+        "options": ["Skilled Worker Programme", "Ikusei Shuro (育成就労) programme", "Japan Work Visa Scheme", "Pacific Labour Programme"],
+        "correct": 1,
+        "explanation": "The Ikusei Shuro (育成就労) programme replaced the Technical Intern Training system in 2024, with stronger worker protections."
+      }
+    },
+    {
+      "id": 42473,
+      "category": "Public Health",
+      "severity": "low",
+      "icon": "😷",
+      "title": "Pandemic Infectious Disease Measures",
+      "subtitle": "Special measures law enabled COVID-19 restrictions",
+      "fullDescription": "Japan's Act on Special Measures for Pandemic Influenza and New Infectious Diseases (新型インフルエンザ等対策特別措置法), invoked during COVID-19, allowed Tokyo's Governor to declare States of Emergency requesting business closures and movement restrictions. Unlike many countries, these measures were not legally mandatory — they relied on request and social compliance (自粛). The system proved broadly effective but drew criticism for lacking enforcement teeth.",
+      "penalty": "During Quasi-Emergency: businesses defying closure requests risked ¥200,000 fines (2021 amendment added enforcement); no criminal penalty for individual movement",
+      "exceptions": ["Essential services exempt from closure requests"],
+      "source": "https://corona.go.jp/",
+      "sourceLabel": "Japan COVID-19 Government Response",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Were Tokyo's COVID-19 States of Emergency legally mandatory?",
+        "options": ["Yes — violation was a criminal offence", "No — they were requests relying on social compliance", "Only for businesses, not individuals", "Only in certain wards"],
+        "correct": 1,
+        "explanation": "Japan's COVID restrictions were requests (自粛), not mandates — enforcement powers were only added for businesses in a 2021 amendment."
+      }
+    },
+    {
+      "id": 42474,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🌫️",
+      "title": "Tokyo NO2 and PM2.5 Standards",
+      "subtitle": "Air quality standards stricter than WHO guidelines",
+      "fullDescription": "Tokyo's Air Pollution Control Ordinance (大気汚染に係る環境基準) sets limits for nitrogen dioxide (NO2), PM2.5 particulate matter, and photochemical oxidants. Tokyo has dramatically reduced diesel pollution since its 2003 ordinance banning non-compliant diesel trucks from the metropolitan area — the first such ban in Japan. The Metropolitan Environment Bureau monitors 65 observation stations across Tokyo continuously.",
+      "penalty": "Industrial emitters exceeding limits: suspension orders and fines up to ¥1,000,000; vehicles: registration prohibition",
+      "exceptions": ["Emergency vehicles and construction equipment have phased compliance schedules"],
+      "source": "https://www.kankyo.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Environment Bureau — Air Quality",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What vehicle type did Tokyo ban in 2003 in a pioneering air quality move?",
+        "options": ["Petrol cars over 2,000cc", "Non-compliant diesel trucks", "Motorbikes in central wards", "Foreign-registered vehicles"],
+        "correct": 1,
+        "explanation": "Tokyo's 2003 ordinance banning non-compliant diesel trucks was the first such measure in Japan and dramatically improved air quality."
+      }
+    },
+    {
+      "id": 42475,
+      "category": "Financial",
+      "severity": "low",
+      "icon": "🏦",
+      "title": "Japan Post Bank Deposit Insurance",
+      "subtitle": "Deposits protected up to ¥10 million per institution",
+      "fullDescription": "Japan's Deposit Insurance Act (預金保険法) protects deposits up to ¥10,000,000 (approximately USD 65,000) per depositor per institution. Tokyo, as Japan's financial centre, houses the headquarters of all major banks. During the 1990s banking crisis (Lost Decade), several Tokyo-based banks collapsed. Japan Post Bank, with the world's largest deposit base (~¥215 trillion), operates under modified deposit insurance given its scale.",
+      "penalty": "N/A — this is a protective statute, not a penal provision",
+      "exceptions": ["Foreign currency deposits, structured deposits, and some securities are not covered"],
+      "source": "https://www.dic.go.jp/",
+      "sourceLabel": "Deposit Insurance Corporation of Japan",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Up to what amount are bank deposits insured in Japan?",
+        "options": ["¥1,000,000", "¥5,000,000", "¥10,000,000", "¥50,000,000"],
+        "correct": 2,
+        "explanation": "Japan's Deposit Insurance Act protects up to ¥10,000,000 per depositor per financial institution."
+      }
+    },
+    {
+      "id": 42476,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "🧹",
+      "title": "Graffiti and Property Damage Law",
+      "subtitle": "Graffiti is criminal property damage in Japan",
+      "fullDescription": "Graffiti constitutes property damage (器物損壊罪) under Japan's Penal Code. Unlike some countries where graffiti exists in a legal grey zone, Japanese courts treat it consistently as a criminal act. Tokyo Metropolitan Police have specialist anti-graffiti units and regularly prosecute both Japanese and foreign nationals. The 2019 Tokyo Olympic preparation period saw intensified enforcement in Shibuya, Harajuku, and rail corridors.",
+      "penalty": "Up to 3 years imprisonment or ¥300,000 fine; civil compensation for cleanup costs",
+      "exceptions": ["Art installations with property owner permission"],
+      "source": "https://www.keishicho.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Police",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under what criminal charge is graffiti typically prosecuted in Japan?",
+        "options": ["Public nuisance", "Trespassing", "Property damage (器物損壊罪)", "Vandalism — a separate offence"],
+        "correct": 2,
+        "explanation": "Graffiti is prosecuted as property damage (器物損壊罪) under Japan's Penal Code, carrying up to 3 years imprisonment."
+      }
+    },
+    {
+      "id": 42477,
+      "category": "Education",
+      "severity": "low",
+      "icon": "🎓",
+      "title": "University Entrance Examination System",
+      "subtitle": "National Centre Test governs university admissions",
+      "fullDescription": "Japan's university entrance system centres on the Common Test for University Admissions (大学入学共通テスト), administered nationally each January. Tokyo's University of Tokyo (東京大学, Todai) is the most prestigious and competitive university in Japan, with an acceptance rate around 28% for its entrance exam. Falsifying exam records or academic credentials is a criminal offence under fraud statutes. Exam cheating using electronic devices has been prosecuted.",
+      "penalty": "Academic credential fraud: up to 5 years imprisonment for fraud; exam cheating: disqualification + possible prosecution",
+      "exceptions": [],
+      "source": "https://www.dnc.ac.jp/",
+      "sourceLabel": "National Center for University Entrance Examinations",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the Japanese abbreviation for the University of Tokyo, Japan's most prestigious university?",
+        "options": ["Tokyo-U", "Waseda", "Todai (東大)", "Keio"],
+        "correct": 2,
+        "explanation": "The University of Tokyo is colloquially called Todai (東大) — Japan's most competitive national university."
+      }
+    },
+    {
+      "id": 42478,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🔥",
+      "title": "Arson Penalty",
+      "subtitle": "One of Japan's most seriously punished property crimes",
+      "fullDescription": "Japan's Penal Code (刑法) Chapter 9 on arson carries among the stiffest penalties for property crime. Setting fire to an inhabited building (現住建造物等放火罪) carries a minimum 5-year sentence and up to life imprisonment. Tokyo's dense wooden housing stock, historically a major fire risk (the city has burnt down multiple times), explains the severity. The Tokyo Fire Department responds to approximately 3,500 fires per year.",
+      "penalty": "Arson of inhabited building: minimum 5 years to life imprisonment; uninhabited building: 1–10 years",
+      "exceptions": ["Accidental fire without negligence: no criminal liability; negligent fire: criminal negligence charges possible"],
+      "source": "https://www.npa.go.jp/",
+      "sourceLabel": "NPA — Penal Code Arson Provisions",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the minimum sentence for arson of an inhabited building in Japan?",
+        "options": ["1 year", "3 years", "5 years", "10 years"],
+        "correct": 2,
+        "explanation": "Arson of an inhabited building (現住建造物等放火) carries a mandatory minimum 5-year sentence under Japan's Penal Code."
+      }
+    },
+    {
+      "id": 42479,
+      "category": "Consumer Protection",
+      "severity": "medium",
+      "icon": "🍣",
+      "title": "Restaurant Country of Origin Labelling",
+      "subtitle": "Restaurants must disclose origin of key ingredients",
+      "fullDescription": "Japan's Food Labelling Act and Agriculture Ministry guidelines require restaurants and cafes to accurately represent the origin and type of key ingredients, particularly seafood and beef. Serving farmed salmon as 'wild' or Australian beef as 'Wagyu' constitutes food fraud. Tokyo — with the world's highest concentration of Michelin-starred restaurants — sees Food Safety Department inspections ensuring compliance, particularly at high-end establishments.",
+      "penalty": "Food fraud: up to 2 years imprisonment or ¥2,000,000 fine under Food Labelling Act; Wagyu fraud: additional penalties under Agricultural Products Certification",
+      "exceptions": ["Menu descriptions need not list every ingredient — key premium claims must be accurate"],
+      "source": "https://www.caa.go.jp/",
+      "sourceLabel": "Consumer Affairs Agency — Food Origin Labelling",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Tokyo has the world's highest concentration of which internationally recognised restaurant rating?",
+        "options": ["Forbes Travel Guide stars", "Michelin stars", "World's 50 Best ranking", "Zagat ratings"],
+        "correct": 1,
+        "explanation": "Tokyo has more Michelin stars than any other city in the world — making food authenticity enforcement particularly important."
+      }
+    },
+    {
+      "id": 42480,
+      "category": "Civil Rights",
+      "severity": "low",
+      "icon": "🗳️",
+      "title": "Suffrage Age 18",
+      "subtitle": "Voting age lowered to 18 in 2016",
+      "fullDescription": "Japan lowered its voting age from 20 to 18 under the revised Public Offices Election Act (公職選挙法), effective June 2016. Tokyo's 23 wards, 26 cities, 3 towns, and 1 village all conduct local elections under this framework. Voter registration is automatic via the Basic Resident Register. Voting in national elections while abroad is possible via absentee ballots. Election campaigning is tightly regulated — door-knocking after 8pm is prohibited.",
+      "penalty": "Vote-buying: up to 3 years imprisonment or ¥500,000 fine; illegal campaigning (e.g. after polling hours): administrative penalties",
+      "exceptions": ["Dual nationals must choose Japanese nationality to vote"],
+      "source": "https://www.soumu.go.jp/",
+      "sourceLabel": "Ministry of Internal Affairs — Election Management",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What year did Japan lower its voting age from 20 to 18?",
+        "options": ["2010", "2013", "2016", "2019"],
+        "correct": 2,
+        "explanation": "Japan's Public Offices Election Act was amended to lower the voting age from 20 to 18, effective June 2016."
+      }
+    },
+    {
+      "id": 42481,
+      "category": "Housing & Property",
+      "severity": "medium",
+      "icon": "🏗️",
+      "title": "Akiya (Empty Home) Tax Initiative",
+      "subtitle": "Tokyo targeting 810,000 vacant properties",
+      "fullDescription": "Tokyo Metropolitan Government estimates 810,000 'akiya' (空き家, vacant homes) across the metropolis, with rural wards showing vacancy rates above 20%. The Revised Special Measures Act for Vacant Houses (空家等対策特別措置法, 2023) empowered local governments to designate seriously dilapidated vacant homes as 'specific problem vacant houses,' enabling demolition orders and removal of preferential property tax rates. Tokyo Ward governments are building akiya databases and offering renovation subsidies.",
+      "penalty": "Owners of designated problem akiya: loss of property tax reduction (effective 4× tax increase) + demolition orders",
+      "exceptions": ["Actively marketed vacant properties not subject to problem designation"],
+      "source": "https://www.mlit.go.jp/",
+      "sourceLabel": "MLIT — Vacant House Special Measures Act 2023",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Approximately how many vacant homes (akiya) does Tokyo Metropolitan Government estimate exist?",
+        "options": ["150,000", "400,000", "810,000", "2,000,000"],
+        "correct": 2,
+        "explanation": "Tokyo estimates approximately 810,000 akiya (空き家) vacant homes, spurring new policies to address abandonment."
+      }
+    },
+    {
+      "id": 42482,
+      "category": "Environmental",
+      "severity": "low",
+      "icon": "🦅",
+      "title": "Urban Wildlife Protection — Black Kites & Crows",
+      "subtitle": "Wild birds protected; Tokyo crows a policy challenge",
+      "fullDescription": "Japan's Law for the Protection of Wild Birds and Animals (鳥獣保護管理法) protects all wild birds including Tokyo's notorious large-billed crows (ハシブトガラス). Killing or capturing wild birds without a prefectural permit is illegal. Tokyo launched a crow management programme in 2001 after the population exceeded 36,000 and complaints about food waste attacks peaked; by 2020 the population was reduced to approximately 18,000 through egg replacement and feeding-point reduction, not killing.",
+      "penalty": "Illegal capture/killing of protected birds: up to 1 year imprisonment or ¥1,000,000 fine",
+      "exceptions": ["Licensed pest controllers with permits; licensed hunters during specific seasons"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Wildlife Protection Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How did Tokyo reduce its crow population from 36,000 to 18,000 without mass killing?",
+        "options": ["Poison bait stations", "Relocation to rural areas", "Egg replacement and reducing feeding sources", "Introducing predator birds"],
+        "correct": 2,
+        "explanation": "Tokyo's crow management used egg replacement (swapping fertile eggs with dummies) and reducing accessible food waste — not killing."
+      }
+    },
+    {
+      "id": 42483,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "📊",
+      "title": "Anti-Money Laundering Obligations",
+      "subtitle": "Financial institutions must verify and report suspicious transactions",
+      "fullDescription": "Japan's Act on Prevention of Transfer of Criminal Proceeds (犯罪収益移転防止法) requires banks, securities firms, real estate agents, lawyers, accountants, and crypto exchanges to perform customer due diligence (KYC) and report suspicious transactions to the Financial Intelligence Unit (JAFIC, within the National Police Agency). Tokyo's status as a major financial centre makes this a key compliance requirement. FATF rated Japan's AML system 'largely compliant' in 2021.",
+      "penalty": "Non-reporting by financial institutions: up to 2 years imprisonment or ¥3,000,000 fine for responsible persons",
+      "exceptions": ["Transactions below de minimis thresholds in some categories"],
+      "source": "https://www.npa.go.jp/jafic/",
+      "sourceLabel": "Japan Financial Intelligence Center (JAFIC)",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What does JAFIC stand for in Japan's anti-money laundering framework?",
+        "options": ["Japan Anti-Fraud Intelligence Centre", "Japan Financial Intelligence Center", "Japan Federal Investigation Commission", "Japan Agency for Financial Crime"],
+        "correct": 1,
+        "explanation": "JAFIC (Japan Financial Intelligence Center) sits within the National Police Agency and receives suspicious transaction reports."
+      }
+    },
+    {
+      "id": 42484,
+      "category": "Public Order",
+      "severity": "low",
+      "icon": "🌙",
+      "title": "Noise Ordinance — Night Hours",
+      "subtitle": "Residential quiet hours typically 10pm–6am",
+      "fullDescription": "Tokyo's Environmental Preservation Ordinance (東京都環境確保条例) sets decibel limits for residential and commercial zones that are stricter between 10pm and 6am. Construction work is prohibited at night in most residential zones. Noise complaints can be filed with ward environmental offices. Nightclubs historically operated under dance hall licensing restrictions (風営法) that required closing by midnight — partially liberalised in 2015.",
+      "penalty": "Businesses exceeding limits: administrative orders → fines up to ¥500,000; construction at night: project suspension",
+      "exceptions": ["Emergency repairs", "Designated entertainment districts have extended noise allowances"],
+      "source": "https://www.kankyo.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Environment Bureau — Noise Regulations",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What law change in 2015 relaxed Tokyo's nightclub operating restrictions?",
+        "options": ["Tokyo Tourism Promotion Act", "Amendment to the Businesses Affecting Public Morals Act (風営法)", "Olympic Preparations Act", "Night Economy Special Zone designation"],
+        "correct": 1,
+        "explanation": "A 2015 amendment to the Businesses Affecting Public Morals Act (風営法) lifted the midnight dancing curfew that had long restricted nightclubs."
+      }
+    },
+    {
+      "id": 42485,
+      "category": "Immigration & Identity",
+      "severity": "high",
+      "icon": "🛂",
+      "title": "Name Entry in Family Register",
+      "subtitle": "Legal names must use approved kanji characters",
+      "fullDescription": "Japan's Family Register Act (戸籍法) requires names to be written using approved kanji from the official Jinmeiyou Kanji (人名用漢字) list of approximately 3,000 characters. Names using unapproved characters, Arabic numerals, or Roman letters are rejected at registration. A 2023 reform allows furigana (phonetic reading) to be officially registered alongside kanji names — relevant for dual nationals and legal name use in international contexts.",
+      "penalty": "Administrative rejection of non-compliant names at registration; no criminal penalty for parents, but resubmission required",
+      "exceptions": ["Foreign nationals registered in Japan may use Katakana or Roman transliterations"],
+      "source": "https://www.moj.go.jp/",
+      "sourceLabel": "Ministry of Justice — Family Register Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the approximate number of kanji characters approved for use in Japanese personal names?",
+        "options": ["500", "1,000", "2,000", "3,000"],
+        "correct": 3,
+        "explanation": "The Jinmeiyou Kanji (人名用漢字) list approves approximately 3,000 characters for use in registered Japanese names."
+      }
+    },
+    {
+      "id": 42486,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🏥",
+      "title": "Universal Health Insurance Coverage",
+      "subtitle": "All residents must enrol in public health insurance",
+      "fullDescription": "Japan's National Health Insurance Act (国民健康保険法) requires all residents — including foreign nationals staying more than 3 months — to enrol in either employer-provided insurance (健康保険) or the National Health Insurance scheme (国民健康保険, NHI). Japan's system covers 70% of medical costs; patients pay 30% (reduced for elderly and children). Tokyo's NHI premiums are among Japan's highest due to cost of living.",
+      "penalty": "Failure to enrol: back-premiums assessed retroactively; non-payment: potential garnishment",
+      "exceptions": ["Short-term visitors (under 3 months)", "Some diplomatic staff"],
+      "source": "https://www.mhlw.go.jp/",
+      "sourceLabel": "Ministry of Health — National Health Insurance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of medical costs does Japan's public health insurance typically cover?",
+        "options": ["50%", "60%", "70%", "90%"],
+        "correct": 2,
+        "explanation": "Japan's health insurance system covers 70% of medical costs; patients pay the remaining 30% (co-payment rate)."
+      }
+    },
+    {
+      "id": 42487,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "💰",
+      "title": "Bribery of Public Officials",
+      "subtitle": "Strict anti-bribery provisions under Penal Code",
+      "fullDescription": "Japan's Penal Code (刑法) Articles 197–198 criminalise both giving and receiving bribes by or to public officials. Japan's public sector corruption levels are among the world's lowest (Transparency International CPI rank: consistently top 20). High-profile cases involving politicians and construction companies in Tokyo have led to imprisonment. The Unfair Competition Prevention Act extends anti-bribery to foreign officials (FCPA-equivalent).",
+      "penalty": "Accepting bribes: up to 7 years imprisonment; giving bribes: up to 3 years or ¥2,500,000 fine",
+      "exceptions": ["Nominal gifts within cultural norms are not prosecuted (grey area in practice)"],
+      "source": "https://www.moj.go.jp/",
+      "sourceLabel": "Ministry of Justice — Anti-Bribery Provisions",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Which Japanese law addresses bribery of foreign officials — equivalent to the US FCPA?",
+        "options": ["The Anti-Corruption Act", "Unfair Competition Prevention Act", "Financial Instruments and Exchange Act", "International Commerce Act"],
+        "correct": 1,
+        "explanation": "Japan's Unfair Competition Prevention Act (不正競争防止法) criminalises bribing foreign public officials, functionally similar to the US FCPA."
+      }
+    },
+    {
+      "id": 42488,
+      "category": "Environmental",
+      "severity": "low",
+      "icon": "🌿",
+      "title": "Plastic Bag Charge",
+      "subtitle": "Mandatory plastic shopping bag fee since 2020",
+      "fullDescription": "Japan's Act on Promotion of Resource Circulation for Plastics (プラスチック資源循環促進法, 2022, building on 2020 regulations) requires retailers to charge for plastic shopping bags, with a minimum of ¥2–5 per bag. Major retailers in Tokyo typically charge ¥3–10. Consumers are required to be offered the choice to refuse a bag. The law also regulates plastic cutlery, straws, and hotel amenities, requiring businesses to take 'necessary measures' to reduce single-use plastics.",
+      "penalty": "Retailers failing to charge: administrative guidance; persistent non-compliance: fines up to ¥500,000",
+      "exceptions": ["Bags used for hygiene purposes (fresh food, ice)", "Non-plastic bags"],
+      "source": "https://www.env.go.jp/",
+      "sourceLabel": "Ministry of Environment — Plastic Bag Charge",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "When did Japan introduce mandatory charges for plastic shopping bags?",
+        "options": ["2015", "2018", "2020", "2022"],
+        "correct": 2,
+        "explanation": "Mandatory plastic bag charges were introduced in Japan in July 2020, with the broader Plastics Circulation Act following in 2022."
+      }
+    },
+    {
+      "id": 42489,
+      "category": "Public Order",
+      "severity": "medium",
+      "icon": "📢",
+      "title": "Election Campaign Sound Truck Rules",
+      "subtitle": "Campaign vehicles subject to strict noise and timing rules",
+      "fullDescription": "Japan's Public Offices Election Act (公職選挙法) tightly regulates campaign activities. Candidate sound trucks (選挙カー) are permitted to broadcast candidates' names and slogans but are prohibited from doing so before 8am or after 8pm. In residential areas of Tokyo, campaigns often generate complaints. The law also restricts door-to-door canvassing (訪問運動禁止) — one of Japan's more unusual campaign restrictions.",
+      "penalty": "Illegal campaigning: fines up to ¥500,000; election law violations can void election results in extreme cases",
+      "exceptions": ["Online campaigning (SNS) was permitted from 2013 but with restrictions on content"],
+      "source": "https://www.soumu.go.jp/",
+      "sourceLabel": "Ministry of Internal Affairs — Election Law",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What unusual campaign practice does Japan's Election Law explicitly prohibit?",
+        "options": ["TV advertising", "Door-to-door canvassing (訪問運動)", "Online campaigning", "Campaign posters"],
+        "correct": 1,
+        "explanation": "Japan prohibits door-to-door canvassing (訪問運動禁止) — one of the world's few democracies to ban this common practice."
+      }
+    },
+    {
+      "id": 42490,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "⚖️",
+      "title": "Lay Judge System (Saiban-in)",
+      "subtitle": "Citizens participate in serious criminal trials since 2009",
+      "fullDescription": "Japan introduced the lay judge (裁判員, saiban-in) system in 2009 for serious criminal cases such as murder, arson, and robbery causing death. Panels consist of 3 professional judges and 6 lay judges drawn from the electoral roll. Serving is compulsory when selected (with limited exemptions). Tokyo District Court handles the highest volume of saiban-in cases in Japan. The acquittal rate remains low (~1%) but has increased slightly since introduction.",
+      "penalty": "N/A — this is a court participation rule; refusal to serve without valid reason: up to ¥100,000 fine",
+      "exceptions": ["Age over 70, student exam conflicts, caregiving responsibilities, prior law enforcement service"],
+      "source": "https://www.saibanin.courts.go.jp/",
+      "sourceLabel": "Saiban-in System — Japan Courts",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "How many lay judges (saiban-in) participate in a Japanese criminal trial panel?",
+        "options": ["3", "6", "9", "12"],
+        "correct": 1,
+        "explanation": "Japan's saiban-in panels consist of 6 citizen lay judges plus 3 professional judges for serious criminal cases."
+      }
+    },
+    {
+      "id": 42491,
+      "category": "Housing & Property",
+      "severity": "low",
+      "icon": "🏘️",
+      "title": "Earthquake Insurance Subsidy",
+      "subtitle": "Tokyo subsidises earthquake insurance premiums",
+      "fullDescription": "Japan's Earthquake Insurance Act (地震保険法) requires that earthquake insurance be sold as an add-on to fire insurance at rates set by the government. Premium rates vary by seismic risk zone — Tokyo is in the highest zone. Tokyo Metropolitan Government offers premium subsidies (最大¥5,000/year) for lower-income homeowners. Following the 2011 Tōhoku earthquake, uptake of earthquake insurance in Tokyo increased from 43% to over 65% of fire insurance policyholders.",
+      "penalty": "N/A — voluntary purchase, with subsidy incentives",
+      "exceptions": ["Commercial properties and rental income properties are not eligible for the government-backed scheme"],
+      "source": "https://www.sonpo.or.jp/",
+      "sourceLabel": "General Insurance Association of Japan — Earthquake Insurance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What percentage of Tokyo fire insurance policyholders also carry earthquake insurance (post-2011)?",
+        "options": ["Around 25%", "Around 45%", "Over 65%", "Nearly 100%"],
+        "correct": 2,
+        "explanation": "After the 2011 earthquake, earthquake insurance uptake in Tokyo rose to over 65% of fire insurance policyholders."
+      }
+    },
+    {
+      "id": 42492,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "💎",
+      "title": "Organised Retail Crime and Theft",
+      "subtitle": "Shoplifting carries criminal penalties — no civil-only resolution",
+      "fullDescription": "Theft (窃盗罪) under Japan's Penal Code carries up to 10 years imprisonment or ¥500,000 fine. Unlike in some countries, Japan does not have a 'petty theft' category that results only in civil liability — any theft, including shoplifting, is a criminal offence. Tokyo's department stores (百貨店) and retail districts aggressively prosecute. Foreign shoplifters are deported. Organised retail theft rings are prosecuted additionally for conspiracy.",
+      "penalty": "Theft: up to 10 years imprisonment; organised theft with multiple participants: enhanced penalties",
+      "exceptions": [],
+      "source": "https://www.npa.go.jp/",
+      "sourceLabel": "NPA — Penal Code Theft Provisions",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is the maximum prison sentence for theft (including shoplifting) under Japan's Penal Code?",
+        "options": ["2 years", "5 years", "10 years", "15 years"],
+        "correct": 2,
+        "explanation": "Japan's Penal Code provides up to 10 years imprisonment for theft — with no 'petty theft' category reducing criminal liability."
+      }
+    },
+    {
+      "id": 42493,
+      "category": "Public Transport",
+      "severity": "low",
+      "icon": "🚌",
+      "title": "Tokyo Bus Network Integration",
+      "subtitle": "Bus passes integrate with IC card network",
+      "fullDescription": "Tokyo's bus network (Toei Bus, and private operators) integrates with Suica and Pasmo IC cards. Tokyo's Traffic Bureau operates 130 bus routes covering areas beyond metro reach. Transfer discount rules apply when switching between bus and metro within 90 minutes. Buses are accessible to wheelchair users under the Barrier-Free Transportation Act (バリアフリー法), with all Toei buses compliant by 2020. Standing in the priority seat zone without valid need carries social, not criminal, sanction.",
+      "penalty": "N/A — operational rules and accessibility obligations; non-compliant operators: administrative guidance from the Ministry of Land",
+      "exceptions": [],
+      "source": "https://www.kotsu.metro.tokyo.jp/",
+      "sourceLabel": "Tokyo Metropolitan Bureau of Transportation",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Within what time window does Tokyo's bus-to-metro transfer discount apply?",
+        "options": ["30 minutes", "60 minutes", "90 minutes", "120 minutes"],
+        "correct": 2,
+        "explanation": "Tokyo's bus-to-subway transfer discount applies when transferring within 90 minutes using the same IC card."
+      }
+    },
+    {
+      "id": 42494,
+      "category": "Employment & Labour",
+      "severity": "medium",
+      "icon": "🤝",
+      "title": "Haken (Temporary Staffing) Worker Protections",
+      "subtitle": "Strict limits on the use of agency workers",
+      "fullDescription": "Japan's Worker Dispatching Act (労働者派遣法) regulates haken (派遣, temporary agency) workers, who make up approximately 12% of Tokyo's workforce. Amendments in 2015 and 2020 imposed the '3-year rule': companies cannot use the same haken worker in the same position for more than 3 years without offering direct employment or changing the position. Equal pay principles require comparable wages to direct employees. Tokyo's high proportion of haken workers in retail, IT, and administration makes this law significant.",
+      "penalty": "Companies violating the 3-year rule: administrative guidance → orders → fines; agencies violating Act: licence revocation",
+      "exceptions": ["Workers registered with agencies in specific professional categories (engineers, interpreters) have different rules"],
+      "source": "https://www.mhlw.go.jp/",
+      "sourceLabel": "Ministry of Health — Worker Dispatching Act",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "Under Tokyo's Worker Dispatching Act, how long can a company use the same agency worker in the same position?",
+        "options": ["1 year", "2 years", "3 years", "5 years"],
+        "correct": 2,
+        "explanation": "The '3-year rule' under the Worker Dispatching Act requires companies to offer direct employment after 3 years in the same position."
+      }
+    },
+    {
+      "id": 42495,
+      "category": "Financial",
+      "severity": "medium",
+      "icon": "🏘️",
+      "title": "Inheritance Tax — Highest in Asia",
+      "subtitle": "Japan's inheritance tax reaches 55% on large estates",
+      "fullDescription": "Japan's Inheritance Tax Act (相続税法) imposes inheritance tax at progressive rates up to 55% on estates above ¥600,000,000 (approximately USD 4M). This is among the world's highest inheritance tax rates. Tokyo estates are frequently affected due to high property values — even a modest Tokyo property can push an estate above basic exemptions. Tax planning (生前贈与, lifetime gifts) and use of the spousal exemption are common strategies.",
+      "penalty": "Undeclared inheritance: back-tax + up to 40% surcharge; tax fraud: up to 10 years imprisonment",
+      "exceptions": ["Spouse inheriting up to the lesser of ¥160M or 50% of estate is exempt", "Small agricultural land has concessions"],
+      "source": "https://www.nta.go.jp/",
+      "sourceLabel": "National Tax Agency — Inheritance Tax",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Japan's top inheritance tax rate — the highest in Asia?",
+        "options": ["30%", "40%", "50%", "55%"],
+        "correct": 3,
+        "explanation": "Japan's inheritance tax peaks at 55% on estates above ¥600M — among the world's highest rates."
+      }
+    },
+    {
+      "id": 42496,
+      "category": "Public Health",
+      "severity": "medium",
+      "icon": "🍷",
+      "title": "Alcohol Purchase Age — 20 Years (Changing to 18)",
+      "subtitle": "Legal drinking age historically 20; reform debated",
+      "fullDescription": "Japan's Minor Drinking Prohibition Act (未成年者飲酒禁止法, 1922, amended) sets the minimum age for alcohol purchase and consumption at 20. However, following the 2022 Civil Code reform lowering adulthood to 18, debate over whether to align the drinking age has intensified. As of 2025, the drinking age remains 20. Convenience stores use face-recognition terminals to verify age. Providing alcohol to minors is an offence for sellers and parents.",
+      "penalty": "Selling to under-20s: up to ¥500,000 fine; parent/guardian providing alcohol: ¥100,000 fine",
+      "exceptions": ["Ceremonial sake in some shrine festivals — rarely enforced"],
+      "source": "https://www.nta.go.jp/",
+      "sourceLabel": "National Tax Agency — Liquor Tax and Licensing",
+      "lastUpdated": "2025-01-01",
+      "quiz": {
+        "q": "What is Japan's current minimum drinking age?",
+        "options": ["18", "19", "20", "21"],
+        "correct": 2,
+        "explanation": "Japan's drinking age remains 20 despite the 2022 reform lowering adulthood to 18 — the drinking age was not simultaneously changed."
+      }
+    },
+    {
+      "id": 42497,
+      "category": "Environmental",
+      "severity": "medium",
+      "icon": "🐠",
+      "title": "Tsukiji/Toyosu Market Fish Trading Regulations",
+      "subtitle": "Strictest tuna auction rules in the world",
+      "fullDescription": "The Toyosu Market (豊洲市場, opened 2018 replacing Tsukiji) is the world's largest fish market, trading 480,000 tonnes of seafood annually. Tokyo's Central Wholesale Market Act (卸売市場法) governs licencing, bidding procedures, and hygiene standards. The famous tuna auction (マグロのセリ) is a licenced activity requiring annual re-approval. CITES controls on bluefin tuna (Pacific bluefin classified as Near Threatened) apply to all importers.",
+      "penalty": "Unlicensed trading: ¥1,000,000 fine; CITES violations for endangered species: up to 5 years imprisonment",
+      "exceptions": ["Small-scale recreational fishing for personal consumption exempt from commercial licensing"],
+      "source": "https://www.shijou.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Central Wholesale Market",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What replaced Tsukiji Market as Tokyo's main wholesale fish market in 2018?",
+        "options": ["Odaiba Marine Market", "Toyosu Market (豊洲市場)", "Koto Fish Centre", "Shinonome Wholesale Hub"],
+        "correct": 1,
+        "explanation": "Toyosu Market (豊洲市場) opened in October 2018, replacing the historic Tsukiji Market as Tokyo's main wholesale seafood hub."
+      }
+    },
+    {
+      "id": 42498,
+      "category": "Civil Rights",
+      "severity": "medium",
+      "icon": "♿",
+      "title": "Tokyo Barrier-Free Promotion Ordinance",
+      "subtitle": "Accessibility requirements for buildings and transport",
+      "fullDescription": "Tokyo's Barrier-Free City Promotion Ordinance (東京都福祉のまちづくり条例) and the national Barrier-Free Act (バリアフリー法, 2006) require new public buildings, hotels, and stations to meet accessibility standards including ramp gradients, tactile paving, elevator requirements, and accessible restrooms. Tokyo's Paralympic legacy after 2020 accelerated upgrades. All 296 Tokyo Metro stations now have at least one lift serving every platform.",
+      "penalty": "Non-compliant new construction: planning approval withheld; retrospective orders for existing facilities receiving renovation permits",
+      "exceptions": ["Historic listed buildings may receive modified accessibility requirements"],
+      "source": "https://www.fukushihoken.metro.tokyo.lg.jp/",
+      "sourceLabel": "Tokyo Metropolitan Government — Barrier-Free Ordinance",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What 2020 event accelerated Tokyo's accessibility improvements beyond the 2006 Barrier-Free Act?",
+        "options": ["Rugby World Cup 2019", "G20 Summit", "Tokyo Paralympic Games", "Expo 2025"],
+        "correct": 2,
+        "explanation": "The 2020 Tokyo Paralympic Games (held 2021 due to COVID) dramatically accelerated station and building accessibility upgrades."
+      }
+    },
+    {
+      "id": 42499,
+      "category": "Criminal Law",
+      "severity": "high",
+      "icon": "🏴‍☠️",
+      "title": "Piracy on the High Seas (Tokyo Convention)",
+      "subtitle": "Japan is a major enforcer of international maritime law",
+      "fullDescription": "Japan ratified the UN Convention on the Law of the Sea (UNCLOS) and enacted the Act on Punishment of and Measures against Acts of Piracy (海賊行為の処罰及び海賊行為への対処に関する法律, 2009) following Somali piracy threats to Japanese shipping. The Japan Maritime Self-Defense Force and Japan Coast Guard operate anti-piracy patrols in the Gulf of Aden. Tokyo-headquartered shipping companies (NYK, MOL, K Line) come under this protective framework.",
+      "penalty": "Piracy: up to life imprisonment; attempted piracy: up to 10 years",
+      "exceptions": [],
+      "source": "https://www.mlit.go.jp/",
+      "sourceLabel": "MLIT — Anti-Piracy Act 2009",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What triggered Japan to enact its Anti-Piracy Act in 2009?",
+        "options": ["China Sea territorial disputes", "North Korean ship seizures", "Somali piracy threats to Japanese shipping", "Cyber-piracy of Japanese media"],
+        "correct": 2,
+        "explanation": "Japan's 2009 Anti-Piracy Act was a direct response to Somali piracy threatening Japanese cargo ships in the Gulf of Aden."
+      }
+    },
+    {
+      "id": 42500,
+      "category": "Employment & Labour",
+      "severity": "low",
+      "icon": "🌸",
+      "title": "Childcare Leave Reforms — 2022",
+      "subtitle": "Fathers now have separate paternity leave rights",
+      "fullDescription": "Japan's revised Childcare and Family Care Leave Act (育児・介護休業法, 2022) introduced a new 'birth and childcare leave' for fathers: up to 4 weeks within the 8 weeks after birth, on top of existing parental leave rights. The reform aimed to address Japan's low paternity leave uptake — historically under 14% despite legal availability. Tokyo employers with over 1,000 employees must publish paternity leave uptake rates annually from 2023. Government target is 85% uptake by 2030.",
+      "penalty": "Employers refusing leave requests: administrative guidance → public naming; dismissing leave takers: civil tort liability + potential criminal penalty",
+      "exceptions": ["Fixed-term contract workers must meet minimum service period requirements"],
+      "source": "https://www.mhlw.go.jp/",
+      "sourceLabel": "Ministry of Health — Childcare Leave Act 2022",
+      "lastUpdated": "2024-01-01",
+      "quiz": {
+        "q": "What is Japan's government target for paternity leave uptake by 2030?",
+        "options": ["50%", "70%", "85%", "100%"],
+        "correct": 2,
+        "explanation": "Japan's government has set an 85% paternity leave uptake target by 2030, up from under 14% when the 2022 reforms were introduced."
+      }
+    }
+  ]
+}
