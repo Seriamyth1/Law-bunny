@@ -1770,13 +1770,27 @@ function lawMatchesSearch(L, q) {
   );
 }
 
+function lawBucket(cat) {
+  var s = String(cat || "").toLowerCase();
+  if (/traffic|driving|transport|vehicle|road|dwi|dui|jaywalk/.test(s)) return "traffic";
+  if (/noise|quiet|nuisance/.test(s)) return "noise";
+  if (/animal|pet|dog|wildlife|livestock/.test(s)) return "animals";
+  if (/property|housing|tenant|land|rent/.test(s)) return "property";
+  if (/business|labor|labour|employ|wage|tax|consumer|economic|commerce|company|financ/.test(s)) return "business";
+  if (/environment|forest|climate|nature|ecolog|deforest/.test(s)) return "environment";
+  if (/alcohol|liquor|beverage|cannabis|tobacco|smoking/.test(s)) return "alcohol";
+  if (/digital|data|cyber|technolog|privacy|internet|online|media/.test(s)) return "digital";
+  if (/etiquette|custom|culture|manner/.test(s)) return "etiquette";
+  return "legal";
+}
+
 function getFilteredLaws() {
   var q = (document.getElementById("searchInput") && document.getElementById("searchInput").value) || "";
   return getLawList().filter(function (L) {
     if (!lawMatchesSearch(L, q)) return false;
     if (currentCat === "favorites") return !!favorites[L.id];
     if (currentCat === "all") return true;
-    return String(L.category || "").toLowerCase() === currentCat;
+    return lawBucket(L.category) === currentCat;
   });
 }
 
@@ -1865,7 +1879,7 @@ function updateBadges() {
     return String(L.severity || "").toLowerCase() === "high";
   }).length;
   var et = all.filter(function (L) {
-    return String(L.category || "").toLowerCase() === "etiquette" || String(L.category || "").toLowerCase() === "info";
+    return lawBucket(L.category) === "etiquette";
   }).length;
   var hb = document.getElementById("heroBadgeLaws");
   var hh = document.getElementById("heroBadgeHigh");
@@ -1884,7 +1898,7 @@ function updateCategoryCounts() {
         return favorites[L.id];
       }).length;
     return all.filter(function (L) {
-      return String(L.category || "").toLowerCase() === cat;
+      return lawBucket(L.category) === cat;
     }).length;
   }
   ["all", "traffic", "noise", "property", "business", "environment", "alcohol", "animals", "digital", "etiquette", "legal", "favorites"].forEach(function (cat) {
